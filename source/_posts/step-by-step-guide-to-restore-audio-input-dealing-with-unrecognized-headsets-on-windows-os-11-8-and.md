@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide to Restore Audio Input: Dealing with Unrecognized Headsets on Windows OS (11, 8 &"
-date: 2024-11-22T01:37:26.945Z
-updated: 2024-11-24T19:50:12.379Z
+date: 2024-12-02T06:08:37.356Z
+updated: 2024-12-04T03:33:53.769Z
 tags:
   - win11
   - win10
@@ -35,15 +35,15 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
 5. [**Disable audio enhancements**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Restart audio services**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Check cable and volumes
 
  If you don’t hear sound from your external audio devices, like speakers and headphones, you can check if their cable is broken. You can plug them to in another computer and see if they work in another computer. If they work in another computer, the problem is probably caused by the cable.
 
  If the audio device has been muted, you won’t hear sound from it. Check if your speaker or headphone has been muted by accident.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Check your speaker settings
 
@@ -56,19 +56,15 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
  If your Speakers are NOT already set as the default, this is doubtless your problem. To fix, just click them, click**Set Default** , then click **OK** and test whether you have sound.  
 ![Set default speakers Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Set-default-speakers-Windows-10.png)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your Speakers are set as the default playback device, and you’re still not hearing any sound, you should experiment with different sound formats. To do this, click**Speakers** then **Properties** .  
 ![Change speaker sound format Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Change-speaker-sound-format-Windows-10.png)
 3. Go to the **Advanced** tab, and in the**Default Format** section, select a different sample rate and bit depth, then click**Test** . Repeat this process until you find a format that works, then click**OK** . If you don’t find a format that works, proceed to[Method 2](https://tools.techidaily.com/drivereasy/download/) below.  
 
 ![Test speaker sound format Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Test-speaker-sound-format-Windows-10.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Uninstall your audio driver
 
@@ -82,17 +78,18 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
 3. In Device Manager, expand**Sound, video and game controllers** , right-click on your sound card, and click **Uninstall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
 4. If you’re asked to confirm the uninstall, check the**Delete the driver software for this device** box and click**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
-5. Restart your computer and check to see if the problem is resolved. If it’s not, move on to[Method 3](https://tools.techidaily.com/drivereasy/download/) below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
+5. Restart your computer and check to see if the problem is resolved. If it’s not, move on to[Method 3](https://tools.techidaily.com/drivereasy/download/) below.
 
 ### Method 4: Update your audio driver
 
@@ -114,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
 
 4. Restart your computer and check to see if you now have sound.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 5: Disable audio enhancements
 
  Audio enhancements can cause audio issues. To fix no sound issues in Windows 10, you can try to turn off audio enhancements.
@@ -130,6 +123,10 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-272.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select one**Default Device** and select**Properties** .
 
 In the example below, the default device is Speakers / Headphones.
@@ -137,16 +134,12 @@ In the example below, the default device is Speakers / Headphones.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-275.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) On the**Enhancements** tab,**select** the**Disable all enhancements** check box. Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-276.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Check to see if the sound issue is resolved.
 
@@ -162,9 +155,17 @@ Follow these steps to restart audio services.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-278.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click on**Windows Audio** service and select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-279.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer and check to see if the problem is resolved.
 
@@ -188,20 +189,19 @@ Follow these steps to restart audio services.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-picsart-app-deep-dive-full-review-analysis-and-instructions-for-the-new-year/"><u>[New] 2024 Approved PicsArt App Deep Dive Full Review, Analysis & Instructions for the New Year</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-expert-insights-maximizing-engagement-with-hashtags-on-instagram-for-2024/"><u>[New] Expert Insights Maximizing Engagement with Hashtags on Instagram for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-handheld-vr-camera-stability-enhancer/"><u>[Updated] 2024 Approved Handheld VR Camera Stability Enhancer</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-virtual-frontiers-notable-vr-creators/"><u>[Updated] Virtual Frontiers Notable VR Creators</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/elevate-your-audio-levels-a-comprehensive-guide-to-increasing-volume-in-windows-10/"><u>Elevate Your Audio Levels: A Comprehensive Guide to Increasing Volume in Windows 10</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/essential-strategies-for-file-preservation-in-windows-11-how-to-efficiently-backup-targeted-directories-5-techniques/"><u>Essential Strategies for File Preservation in Windows 11: How to Efficiently Backup Targeted Directories (5 Techniques)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-your-mpow-mic-up-and-running-a-step-by-step-guide-for-windows-users/"><u>Getting Your MPOW Mic Up and Running: A Step-by-Step Guide for Windows Users</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-editors-edge-boost-your-tiktok-impact/"><u>In 2024, The Editor's Edge Boost Your TikTok Impact</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcome-redragon-microphone-problems-on-windows-computers-with-simple-fixes/"><u>Overcome Redragon Microphone Problems on Windows Computers with Simple Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-issues-with-your-logitech-g733-microphone-a-comprehensive-guide/"><u>Overcoming Issues with Your Logitech G733 Microphone - A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-solution-for-a-nonfunctional-steelseries-arctis-pro-mic/"><u>The Ultimate Solution for a Nonfunctional SteelSeries Arctis Pro Mic</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-substitutes-for-elevenlabs-explored-detailed-comparison-and-key-characteristics/"><u>Top 5 Substitutes for ElevenLabs Explored: Detailed Comparison and Key Characteristics</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-lack-of-audio-in-call-of-duty-black-ops-cold-war-for-windows-users/"><u>Troubleshooting Complete Lack of Audio in Call of Duty: Black Ops - Cold War for Windows Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-when-your-astro-a2-mic-wont-work/"><u>Troubleshooting Steps When Your Astro A2 Mic Won't Work</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-resolve-the-video-memory-overflow-in-fortnite/"><u>Troubleshooting Tips: Resolve the Video Memory Overflow in Fortnite</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unleash-speed-prime-biking-games-list/"><u>[New] Unleash Speed Prime Biking Games List</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-a-decades-best-writes-across-film-classifications/"><u>[Updated] In 2024, A Decade's Best Writes Across Film Classifications</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-the-function-of-cellular-service-providers-for-better-connectivity/"><u>Decoding the Function of Cellular Service Providers for Better Connectivity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminate-sound-disruptions-effective-strategies-for-audio-stutters-in-windows-environments-windows-711/"><u>Eliminate Sound Disruptions: Effective Strategies for Audio Stutters in Windows Environments (Windows 7/11)</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/guide-rapide-pour-faire-une-sauvegarde-reliable-dun-dvd-dans-forme-iso-avec-la-solution-winx-dvd-copy-pro/"><u>Guide Rapide Pour Faire Une Sauvegarde Reliable D'un DVD Dans Forme ISO Avec La Solution WinX DVD Copy Pro</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-can-you-fix-failed-imessage-transfers-between-iphones/"><u>How Can You Fix Failed iMessage Transfers Between iPhones?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-s17-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Vivo S17 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-broken-logitech-g935-mic-on-windows-systems/"><u>How to Fix a Broken Logitech G935 Mic on Windows Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/jabra-bluetooth-earphones-malfunction-heres-the-ultimate-repair-manual/"><u>Jabra Bluetooth Earphones Malfunction? Here's the Ultimate Repair Manual</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-xiaomi-redmi-note-12-proplus-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Xiaomi Redmi Note 12 Pro+ 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-resolving-playback-errors-in-newworld/"><u>Step-by-Step Guide: Resolving Playback Errors in NewWorld</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-fix-windows-11-audio-issues-solved/"><u>Troubleshooting Tips: Fix Windows 11 Audio Issues – Solved!</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-curious-about-finding-a-good-iphone-slow-motion-app-discover-the-top-rated-applications-in-the-market-that-will-help-you-create-the-/"><u>Updated In 2024, Are You Curious About Finding a Good iPhone Slow-Motion App? Discover the Top-Rated Applications in the Market that Will Help You Create the Perfect Video</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/zero-cost-complete-stack-development-using-vue-3-and-laravel-restful-services-by-creative-tim/"><u>Zero-Cost Complete Stack Development Using Vue 3 & Laravel RESTful Services by Creative Tim</u></a></li>
 </ul></div>
 

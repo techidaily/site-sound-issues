@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes to Restore Functionality of the Sennheiser Game One Headset Microphone
-date: 2024-08-27T21:08:05.538Z
-updated: 2024-08-28T21:08:05.538Z
+date: 2024-12-03T02:59:31.123Z
+updated: 2024-12-04T03:10:26.626Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
 ## Corsair Microphone Malfunctions? Here’s How to Repair and Restore Functionality
 
 Corsair Virtuoso gaming headset is not working properly? If you can’t be heard on the microphone, you can follow the troubleshooting steps in this post.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -38,6 +42,11 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 1. In the notification area, right-click the volume icon and select**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 2. Go to the**Recording** tab and set your headset as the default device. Your device should be displayed as**Corsair Virtuoso** and shows strong signals when you speak.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
 3. Right-click your**Corsair Virtuoso** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
@@ -46,6 +55,10 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 5. Click**OK** .
 
  Now you can test your microphone by recording your own voice using some voice apps such as Voice Recorder. If the Virtuoso mic works now, you can just join a league and enjoy talking with your teammates. But if the Corsaire mic is still not working, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Re-installing drivers
 
@@ -61,26 +74,19 @@ There are mainly two ways for you to do this:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now.jpg)
 3. Click the**Update** button next to the flagged**Corsaire Virtuoso** driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/gaming-headset.jpg)
 4. Reboot your PC for the changes to take effect.
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance or the issue persists after updating all the drivers, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Change to DVD quality
 
  The Virtuoso microphone not working can also be caused by an unsupported audio format. Therefore, you can follow the method below to change the sound settings to DVD quality.
@@ -88,24 +94,20 @@ DbSchema database designer for all databases, schema design in the team, schema 
 1. Right-click the Volume icon in the notification area, and select**Open Sound settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings.jpg)
 2. In the**Input** section, click**Device properties** .  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/device.jpg)
 3. Click**Additional device properties** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/additional.jpg)
 4. Go to the**Advanced** tab, and select**DVD Quality** in the**Default Format** section. ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-format.jpg)
 5. Click**OK** .
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Let Windows find the problem for you
 
  The Windows built-in sound troubleshooter may help you out of this Virtuoso microphone not working issue. Although this method has varying success, you can try this simple troubleshooting and see if it does the trick.
@@ -129,8 +131,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +138,23 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-tweet-to-facebook-video-sharing-a-2023-perspective/"><u>[New] Tweet-to-Facebook Video Sharing A 2023 Perspective</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-leapfrog-your-sub-count-top-techniques-unveiled/"><u>[Updated] 2024 Approved Leapfrog Your Sub Count Top Techniques Unveiled</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-no-cost-android-communication-tools-guide/"><u>[Updated] No-Cost Android Communication Tools Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-troubleshooting-guide-handling-playback-failure-on-test-tone-errors/"><u>Effortless Troubleshooting Guide: Handling Playback Failure on Test Tone Errors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/explore-15-essential-skills-for-recording-digital-music/"><u>Explore 15 Essential Skills for Recording Digital Music</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fast-fixes-for-buzzing-sound-issues-in-home-audio-systems/"><u>Fast Fixes for Buzzing Sound Issues in Home Audio Systems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-cutting-edge-leading-10-4k-dslr-shoulder-rigs/"><u>In 2024, Cutting Edge Leading 10 4K DSLR Shoulder Rigs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-perfection-sizing-your-video-just-right/"><u>Instagram Perfection Sizing Your Video Just Right</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/lost-your-astro-a50s-audio-heres-how-to-restore-it-fast-and-easy/"><u>Lost Your Astro A50's Audio? Here's How to Restore It Fast and Easy</u></a></li>
+<li><a href="https://win-guides.techidaily.com/mastering-shadow-effects-in-your-digital-magazine-with-flipbuilder/"><u>Mastering Shadow Effects in Your Digital Magazine with FlipBuilder</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pc-audio-troubles-fix-noise-issues-with-these-simple-steps/"><u>PC Audio Troubles? Fix Noise Issues with These Simple Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pc-silence-broken-top-tips-to-restore-audio-and-eliminate-quiet-screens/"><u>PC Silence Broken: Top Tips to Restore Audio and Eliminate Quiet Screens</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/pixelprofilers-picks-top-tools-for-your-screen-snapping-needs/"><u>PixelProfiler's Picks Top Tools for Your Screen Snapping Needs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/pro-video-mastery-with-iphone-unveiling-top-8-tips-for-success/"><u>Pro Video Mastery with iPhone Unveiling Top 8 Tips for Success</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-common-audio-troubles-how-to-restore-voice-chat-on-destiny-game/"><u>Solving Common Audio Troubles - How to Restore Voice Chat on Destiny ^Game</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-recurrent-audio-drops-on-your-windows-11-pc-solutions/"><u>Troubleshooting Recurrent Audio Drops on Your Windows 11 PC - Solutions</u></a></li>
+</ul></div>
 

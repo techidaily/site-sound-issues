@@ -1,7 +1,7 @@
 ---
 title: Corsair HS70 Mic Woes? Here's How to Get It Working Perfectly Again
-date: 2024-11-20T18:31:08.626Z
-updated: 2024-11-25T03:11:49.875Z
+date: 2024-11-27T07:09:53.644Z
+updated: 2024-12-04T06:13:13.031Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ If your Corsair HS70 Mic Stopped Working on Windows, don’t worry. You can use 
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -46,12 +50,16 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-147.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Privacy** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-146.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Microphone** .
@@ -69,7 +77,7 @@ To do this, you can follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-159.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Make sure**Allow apps to access your microphone** is turned on.
@@ -77,6 +85,10 @@ To do this, you can follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-160.png)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Check your microphone device settings
 
@@ -90,10 +102,6 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-161.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In Control Panel, View by**Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-162.png)
@@ -101,6 +109,10 @@ To do this, you can follow these steps:
  4) Click**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-163.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Select the**Recording** tab.
 
@@ -110,15 +122,15 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-165.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you don’t see microphone in the device list, you need to show it first, then enable it manually.
 
  a. Right click on the blank place and select**Show Disabled Devices** . Then you’ll see the microphone device on the list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-166.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  b. Right click the microphone and select**Enable** .
 
@@ -140,10 +152,6 @@ To do this, you can follow these steps:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your audio drivers
 
  The problem can be caused by incorrect, outdated audio driver or headset driver. You can try to update the driver to fix the problem.
@@ -160,19 +168,11 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-142.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to a flagged audio driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-143.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -181,7 +181,7 @@ To do this, you can follow these steps:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
@@ -215,20 +215,20 @@ To do this, you can follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-enjoy-your-content-youtube-shorts-are-shown-again/"><u>[New] 2024 Approved Enjoy Your Content – YouTube Shorts Are Shown Again</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-pictureweaversierra-blending-apple-media-artfully/"><u>[New] In 2024, PictureWeaverSierra Blending Apple Media Artfully</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-choices-best-mics-enhancing-4k-video-quality/"><u>[Updated] Expert Choices Best Mics Enhancing 4K Video Quality</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-midgard-alliance-the-ragnarok-saga-begins/"><u>[Updated] Midgard Alliance The Ragnarök Saga Begins</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-streamline-your-filming-journey-a-step-by-step-guide-to-utilize-your-logitech-camera-for-2024/"><u>[Updated] Streamline Your Filming Journey A Step-by-Step Guide to Utilize Your Logitech Camera for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/accelerating-insights-optimal-chatgpt-utilization-in-macos/"><u>Accelerating Insights: Optimal ChatGPT Utilization in macOS</u></a></li>
-<li><a href="https://fox-that.techidaily.com/eliminate-phone-glitches-with-a-simple-reset-of-your-ios-network-settings/"><u>Eliminate Phone Glitches with a Simple Reset of Your iOS Network Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-converter-transforming-mp4-files-into-wma-format-with-movavi/"><u>Free Online Converter: Transforming MP4 Files Into WMA Format with Movavi</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/logitech-g533-microphone-troubleshooting-guide-get-it-working-again/"><u>Logitech G533 Microphone Troubleshooting Guide: Get It Working Again!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/realtek-dacamp-fix-overcoming-the-no-sound-error-effectively/"><u>Realtek DAC/AMP Fix: Overcoming the No Sound Error Effectively</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/section-4c-qandas-on-neuroplasticity/"><u>Section 4C: Q&As on Neuroplasticity</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/simple-steps-for-resolving-google-hangouts-microphone-problems-quickly/"><u>Simple Steps for Resolving Google Hangouts Microphone Problems Quickly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-silent-pc-post-windows-11-upgrade-simple-fixes/"><u>Solved: Silent PC Post-Windows 11 Upgrade - Simple Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-fixing-sudden-popping-audio-problems-on-windows/"><u>Step-by-Step Guide to Fixing Sudden 'Popping' Audio Problems on Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-11-audio-improvement-tool-deactivation-tips-for-better-listening-experience/"><u>Windows 11 Audio Improvement Tool Deactivation Tips for Better Listening Experience</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-expert-advice-hassle-free-recordings-with-ios-devices/"><u>[Updated] 2024 Approved Expert Advice Hassle-Free Recordings with iOS Devices</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-premium-film-experiences-yts-best-of-lists/"><u>[Updated] 2024 Approved Premium Film Experiences YT's Best Of Lists</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-professional-livestream-selector-pick-between-virusmix-and-castpro/"><u>2024 Approved Professional Livestream Selector Pick Between VirusMix and CastPro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/addressing-audio-disturbances-in-the-latest-version-of-new-world-a-comprehensive-guide/"><u>Addressing Audio Disturbances in the Latest Version of New World: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-samsung-galaxy-tab-s4-the-ultimate-portable-android-device/"><u>Comprehensive Analysis of the Samsung Galaxy Tab S4: The Ultimate Portable Android Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-restore-audio-on-your-windows-7-pc/"><u>Fixing the Issue: How to Restore Audio on Your Windows 7 PC</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-xiaomi-mix-fold-3-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Xiaomi Mix Fold 3 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-oneplus-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your OnePlus</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-sound-experience-overcoming-no-audio-problem-in-firefox/"><u>Revive Your Sound Experience: Overcoming No Audio Problem in Firefox</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-persistent-audio-issues-in-windows-1n-expert-tips-and-tricks/"><u>Solving Persistent Audio Issues in Windows 1N: Expert Tips & Tricks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-a24-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy A24 Device</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-lava-yuva-3-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Lava Yuva 3 Android SIM Unlock APK</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-resolve-blue-yeti-microphone-unrecognized-issues/"><u>Troubleshooting Guide: How To Resolve 'Blue Yeti Microphone Unrecognized' Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silence-solutions-for-g435-headset-lacking-audio/"><u>Troubleshooting Silence: Solutions for G435 Headset Lacking Audio</u></a></li>
 </ul></div>
 

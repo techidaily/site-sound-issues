@@ -1,7 +1,7 @@
 ---
 title: 'Back ^4 Blood' - Resolving Disrupted Voice Chat Functionality
-date: 2024-08-27T21:08:19.968Z
-updated: 2024-08-28T21:08:19.968Z
+date: 2024-11-29T20:36:31.573Z
+updated: 2024-12-03T19:25:00.960Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/4972cc2e9b4458b9418df3ae9472982c28de632e5
 ## Troubleshooting Guide for Nonfunctional SteelSeries Arctis Pro Mic - Resolved
 
 Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arctis Pro has no sound or the mic is not working, we’ve put together all the troubleshooting methods for you in our post.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why your headset mic is not working
 
@@ -39,9 +43,6 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Set up the microphone correctly
 
  Before you try the following fixes, please make sure the mute button is not activated.
@@ -62,16 +63,14 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Scroll down to allow microphone access for the Microsoft apps and desktop apps.
 
  Now you can test recording and see if your SteelSeries Arctis Pro mic is working right now. But if not, please move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Set your headset as the default device
 
  In most cases, when you plug your headset into the computer, it will be set as the default device on the computer. But sometimes it can bump into issues. If your SteelSeries Actis Pro mic is not working, your headset may be disabled or not set as the default device.
@@ -82,16 +81,10 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) In the Sound windows, select the **Recording**  tab.
 
  4) Make sure your Actis Pro is**Enabled** (shows a green checkmark) and set it as the**Default Device** . If not, you can right-click it and select**Set as Default Device** and**Set as Default Communication Device** .
@@ -105,6 +98,10 @@ Here’s how to do it:
  6) Click the **Levels**  tab, and drag the slider to a proper volume.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Also go to the**Enhancements** tab, and check the box Disable all sound effects.
 
@@ -130,9 +127,6 @@ Here’s how to do it:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/SteelSeries-Apex-Pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
  You can also click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)
 
  Once you’ve updated the driver for your SteelSeries Actis Pro, you can restart your computer and check if the microphone is working.
@@ -140,19 +134,28 @@ Here’s how to do it:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Make sure to use the correct Default Format
 
  1) On your keyboard, press the **Windows logo** key and the **R** key at the same time to open the Run box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) In the Sound windows, select the **Recording**  tab.
 
  4) Right-click the microphone you are using and select**Properties** .
@@ -177,8 +180,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +187,24 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/enerating-wealth-with-makeup-channels/"><u>[New] Generating Wealth with Makeup Channels</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-high-quality-android-screen-recorders-ranked-1-to-5-for-2024/"><u>[New] High-Quality Android Screen Recorders Ranked #1 to #5 for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-mastering-microphone-modifications-for-vtubers/"><u>[New] Mastering Microphone Modifications for VTubers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-workflow-ultimate-convertor-list-1-8/"><u>[New] Streamline Your Workflow Ultimate Convertor List #1-8</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-expertly-choosing-the-best-screen-snipers-on-windows/"><u>[Updated] Expertly Choosing The Best Screen Snipers on Windows</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-is-your-social-media-strategy-up-to-date-with-facebook-changes-for-2024/"><u>[Updated] Is Your Social Media Strategy Up-to-Date with Facebook Changes for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/a-comprehensive-guide-to-mastering-ipogo-for-pokemon-go-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>A Comprehensive Guide to Mastering iPogo for Pokémon GO On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-samsung-galaxy-z-flip-5-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Samsung Galaxy Z Flip 5</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-sound-issues-overcoming-stutter-and-distortion-in-windows-operating-systems/"><u>Fix Your Sound Issues: Overcoming Stutter and Distortion in Windows Operating Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-laptop-built-in-speakers-a-comprehensive-guide-to-restoring-audio/"><u>Fixing Laptop Built-In Speakers: A Comprehensive Guide to Restoring Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-call-of-duty-modern-warfare-voice-chat-back-on-track-a-guide-to-resolving-common-issues/"><u>Getting Your Call of Duty Modern Warfare Voice Chat Back On Track: A Guide to Resolving Common Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-and-restore-a-nonfunctional-logitech-g733-microphone/"><u>How to Repair and Restore a Nonfunctional Logitech G733 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-microphone-functionality-on-your-turtle-beach-elite-atlas-headset/"><u>How To Restore Microphone Functionality On Your Turtle Beach Elite Atlas Headset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-sound-sync-issues-comprehensive-tips/"><u>Mastering Sound Sync Issues: Comprehensive Tips</u></a></li>
+<li><a href="https://win-dash.techidaily.com/pro-graphic-designers-guide-install-and-optimize-brother-dcp-l2540dw-for-windows/"><u>Pro Graphic Designer's Guide: Install & Optimize Brother DCP-L2540DW for Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-bluetooth-audio-delay-in-no-time-with-these-simple-fixes/"><u>Resolve Bluetooth Audio Delay in No Time with These Simple Fixes!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-audio-in-microsoft-teams-for-windows-11-and-10-users-common-fixes-exposed/"><u>Reviving Audio in Microsoft Teams for Windows 11 & 10 Users - Common Fixes Exposed</u></a></li>
+</ul></div>
 

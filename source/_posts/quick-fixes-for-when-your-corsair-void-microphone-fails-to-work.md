@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for When Your Corsair Void Microphone Fails to Work
-date: 2024-08-27T21:10:04.744Z
-updated: 2024-08-28T21:10:04.744Z
+date: 2024-12-02T00:32:36.264Z
+updated: 2024-12-04T06:02:30.495Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-16_19-13-55.jpg)
 3. Try to send an audio message on Discord by PTT to see if it works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you didn’t run your game as administrator, you can check other fixes.
 
 ### Fix 2: Reset your Discord settings and check your KeyBind Set
@@ -54,8 +58,9 @@ Here’s how:
 5. Try to send an audio message on Discord by PTT to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your audio driver
 
  This glitch could be probably caused by an old, wrong or missing audio driver. You can solve it easily by updating your audio driver.
@@ -72,32 +77,13 @@ Here’s how:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Try to send an audio message on Discord by PTT to see if it works.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Uninstall newly installed programs
 
  If you have this issue after you newly update or install some programs, try to uninstall them, it may solve the problem. It’s possible that the third-party programs conflict with Discord and make trouble.
@@ -107,13 +93,24 @@ Uninstall the programs then check Discord.
 1. On your keyboard, press the **Windows logo**  key. Then, type **control**  and click **Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_19-01-56-1.jpg)
 2. Under **View by** , click **Category** , and then select **Uninstall a program** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_19-04-24.jpg)
 3. Right-click **Discord**  and click **Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_19-04-30.jpg)
 4. Download and install **[](https://discordapp.com/) [Discord](https://discordapp.com/)**  . Check the ppt function again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -123,15 +120,13 @@ Uninstall the programs then check Discord.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -149,8 +144,6 @@ Uninstall the programs then check Discord.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +151,20 @@ Uninstall the programs then check Discord.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-mastery-perfecting-edits-on-published-videos/"><u>[New] YouTube Mastery Perfecting Edits on Published Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-overwatch-push-to-talk-not-working/"><u>[SOLVED] Overwatch Push to Talk Not Working</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-discover-the-leading-mobile-movie-units/"><u>[Updated] Discover the Leading Mobile Movie Units</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/banishing-silence-from-the-battlefield-a-guide-to-fixing-voice-chat-in-modern-warfare/"><u>Banishing Silence From the Battlefield: A Guide to Fixing Voice Chat in Modern Warfare</u></a></li>
+<li><a href="https://win-unique.techidaily.com/convert-heic-images-to-jpeg-on-pc/"><u>Convert HEIC Images to JPEG on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-fixes-for-when-your-headset-microphone-fails-to-operate/"><u>DIY Fixes for When Your Headset Microphone Fails to Operate</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/draw-laughter-dont-pay-quickmemes-guide/"><u>Draw Laughter, Don't Pay - QuickMemes Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-bad-image-issue-in-windows-11-and-10-a-step-by-step-guide/"><u>Fixing the 'Bad Image' Issue in Windows 11 & 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-open-geforce-experience-when-encountered-issues-solution-steps/"><u>How to Successfully Open GeForce Experience When Encountered Issues [Solution Steps]</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-vivo-s18-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo S18 Fingerprint Lock</u></a></li>
+<li><a href="https://article-posts.techidaily.com/spectacular-hooks-title-crafter-for-2024/"><u>Spectacular Hooks Title Crafter for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-turtle-beach-stealth-600-nc2-a-step-by-step-fix-for-mic-issues/"><u>Troubleshooting the Turtle Beach Stealth 600 NC2: A Step-by-Step Fix for Mic Issues</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/unlock-gaming-potential-your-complete-xbox-screenshot-guide/"><u>Unlock Gaming Potential Your Complete Xbox Screenshot Guide</u></a></li>
+</ul></div>
 

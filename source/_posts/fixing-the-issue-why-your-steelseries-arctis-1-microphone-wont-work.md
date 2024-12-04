@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Why Your SteelSeries Arctis 1 Microphone Won't Work"
-date: 2024-11-18T20:35:41.836Z
-updated: 2024-11-24T18:58:45.878Z
+date: 2024-12-01T23:09:58.131Z
+updated: 2024-12-04T00:35:52.074Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why your headset mic is not working
@@ -54,10 +54,6 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 
  Also, the microphone is highly directional, so it must be placed properly to achieve the best sound quality.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Allow access to your microphone
 
  The first thing you need to make sure of is that your device allows apps to access your microphone. This is especially true if you can’t be heard in any apps.
@@ -71,6 +67,10 @@ Here’s how to do it:
  2) Please be sure to turn on “**Allow access to the microphone on this device** ” and “**Allow apps to access your microphone** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Scroll down to allow microphone access for the Microsoft apps and desktop apps.
 
@@ -97,7 +97,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In your VoIP application, select Actis Pro Chat Audio as the default audio device.
@@ -108,11 +108,19 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Also go to the**Enhancements** tab, and check the box Disable all sound effects.
 
  8) Click**Apply** \>**OK** .
 
  Now your SteelSeries Actis Pro should be working, and if you still have problems with the microphone, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update the headset driver
 
@@ -128,16 +136,12 @@ Here’s how to do it:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Activate & Update** button next to the headset to download the latest and correct driver for it.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/SteelSeries-Apex-Pro.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)
@@ -152,10 +156,6 @@ Here’s how to do it:
  1) On your keyboard, press the **Windows logo** key and the **R** key at the same time to open the Run box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
@@ -194,19 +194,20 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-unveiling-the-capabilities-of-springs-advanced-screenscape/"><u>[Updated] 2024 Approved Unveiling the Capabilities of Spring's Advanced Screenscape</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gourmet-giants-culinary-stars-you-must-subscribe-to/"><u>[Updated] In 2024, Gourmet Giants Culinary Stars You Must Subscribe To</u></a></li>
-<li><a href="https://solve-info.techidaily.com/1728481188730-windows-1110-clonezilla/"><u>如何在 Windows 11/10 上成功进行系统备份，Clonezilla 和替代技术的分析</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016601558-astro-a50-mic-not-working-discover-effective-fixes-and-tips/"><u>Astro A50 Mic Not Working? Discover Effective Fixes & Tips!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/discord-audio-disruption-fixes-your-definitive-guide-to-uninterrupted-voice-chats/"><u>Discord Audio Disruption Fixes: Your Definitive Guide to Uninterrupted Voice Chats</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-insights-on-unlocking-breakthroughs-to-accelerate-the-human-journey/"><u>Expert Insights on Unlocking Breakthroughs to Accelerate the Human Journey</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-to-your-unresponsive-sound-blaster-mic/"><u>How to Restore Functionality to Your Unresponsive Sound Blaster Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-microphone-functionality-in-sea-of-thieves-gameplay/"><u>How to Restore Microphone Functionality in Sea of Thieves Gameplay</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/hush-harmony-techniques-for-taming-unwanted-voices-on-gchat/"><u>Hush Harmony Techniques for Taming Unwanted Voices on GChat</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/master-list-of-prime-audio-time-reverse-software-ranked-for-desktop-laptop-and-smartphone-use-for-2024/"><u>Master List of Prime Audio Time-Reverse Software Ranked for Desktop, Laptop, and Smartphone Use for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-common-skype-volume-and-sound-glitches-quickly/"><u>Solving Common Skype Volume and Sound Glitches Quickly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-imperative-quintet-of-software-every-successful-twitch-host-must-embrace/"><u>The Imperative Quintet of Software Every Successful Twitch Host Must Embrace</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/1728471533716-usb/"><u>USBメモリのバックアップデータを回復する詳細な手順</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-best-laughs-in-layout-designer/"><u>[New] Best Laughs in Layout Designer</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-free-and-fast-the-ultimate-list-of-mac-screen-recorders/"><u>[New] In 2024, Free and Fast The Ultimate List of Mac Screen Recorders</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-cheapest-android-calls-top-free-apps-rated/"><u>[Updated] Cheapest Android Calls Top Free Apps Rated</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-say-goodbye-to-interruptions-youtube-adblocking-made-simple/"><u>[Updated] In 2024, Say Goodbye to Interruptions YouTube Adblocking Made Simple</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-ultimate-guide-to-iphone-burst-mode-shooting-for-2024/"><u>[Updated] The Ultimate Guide to iPhone Burst Mode Shooting for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-to-the-bottom-of-it-how-to-repair-non-functional-discord-calls/"><u>Getting to the Bottom of It: How to Repair Non-Functional Discord Calls</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g-pro-x-clickingcrackling-woes-top-solutions-to-restore-peaceful-typing/"><u>Logitech G Pro X Clicking/Crackling Woes? Top Solutions to Restore Peaceful Typing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/master-the-art-of-ipod-file-relocation-ultimate-techniques-for-transferring-images-audio-and-footage/"><u>Master the Art of iPod File Relocation: Ultimate Techniques for Transferring Images, Audio & Footage</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-technical-glitches-with-tips-on-restoring-pebble-sound-functionality/"><u>Overcoming Technical Glitches with Tips on Restoring Pebble Sound Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silence-is-golden-effective-ways-to-stop-the-pesky-noise-in-your-headphones/"><u>Silence Is Golden: Effective Ways to Stop the Pesky Noise in Your Headphones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-36-tablet-bargains-on-prime-day-2024-exclusive-offers-not-yet-gone/"><u>Top 36 Tablet Bargains on Prime Day 2024: Exclusive Offers Not Yet Gone!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-unresponsive-headphones-on-your-windows-nvme-ssd-computer/"><u>Troubleshooting Unresponsive Headphones on Your Windows Nvme SSD Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unmute-your-world-essential-fixes-for-bluetooth-devices-without-sound/"><u>Unmute Your World: Essential Fixes for Bluetooth Devices Without Sound</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
 </ul></div>
 

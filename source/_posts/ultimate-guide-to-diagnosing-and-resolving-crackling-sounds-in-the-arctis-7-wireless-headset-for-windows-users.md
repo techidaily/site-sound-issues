@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Diagnosing & Resolving Crackling Sounds in the Arctis 7 Wireless Headset for Windows Users
-date: 2024-11-20T22:45:58.354Z
-updated: 2024-11-25T01:13:34.697Z
+date: 2024-12-01T02:26:47.676Z
+updated: 2024-12-04T03:18:06.873Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ If you’re playing_Hearthstone_ and the audio cuts out abruptly, or there is no
 7. **[Reinstall_Hearthstone_ and/or the Blizzard launcher](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Check cables and volume
@@ -104,10 +104,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-763.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-794.jpg)
@@ -128,13 +124,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-762.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-805.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Right-click the resource-consuming process and select **End task** .
 
@@ -143,6 +139,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-810.jpg)
 
  Try launching_Hearthstone_ again to see if the sound works properly now. If your issue still exists, read on and check the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair_Hearthstone_ files
 
@@ -154,15 +154,15 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-402-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click **Begin Scan** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-422.jpg)
 
  Wait for the scans to be complete, then relaunch_Hearthstone_ to test your issue. If the audio issue persists, read on and try the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable Compatibility Mode
 
@@ -172,6 +172,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-423.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click the**Compatibility tab** , then uncheck**Run this program in compatibility mode for:** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-424.jpg)
@@ -180,15 +184,7 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-425.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Relaunch your game to check if the sound comes back. If not, go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6:**Reset sound settings**
 
@@ -198,24 +194,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-300.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click the**Sound & Notifications tab** , then click**Reset to Defaults** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-549.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-550.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click the**Voice chat tab** , then click**Reset to Defaults** .
@@ -226,11 +214,19 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-552.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Click**DONE** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-553.jpg)
 
  Relaunch your game to test your issue. If the audio is still missing in_Hearthstone_ , try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall_Hearthstone_ and/or the Blizzard launcher
 
@@ -251,6 +247,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-439.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Restart the Blizzard launcher to download and install_Hearthstone_ .
 
  Relaunch your game to check if the audio issue has been resolved. If not, check the fix below.
@@ -270,7 +270,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-443-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Right-click**Battle.net** , then click**Uninstall/Change** .
@@ -307,21 +307,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-apple-macbook-air-vs-pro-which-m1-laptop-is-better-in-2024/"><u>[New] Apple MacBook Air Vs. Pro Which M1 Laptop Is Better, In 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-can-you-broadcast-ontv-the-era-of-fb-videos-begins-for-2024/"><u>[New] Can You Broadcast OnTV The Era of FB Videos Begins for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/irect-youtube-file-access-tips-for-2024/"><u>[New] Direct YouTube File Access Tips for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-essential-guide-to-8-premium-free-software-apps-windowsmac/"><u>[Updated] In 2024, Essential Guide to 8 Premium Free Software Apps (Windows/Mac)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-in-depth-analysis-of-excellent-zoom-screen-recorders/"><u>[Updated] In 2024, In-Depth Analysis of Excellent Zoom Screen Recorders</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-smartphone-streaming-success-without-a-massive-subscriber-base-for-2024/"><u>[Updated] Smartphone Streaming Success Without a Massive Subscriber Base for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-20plus-humorous-metaverse-memes-and-diy-creation-guide/"><u>2024 Approved 20+ Humorous Metaverse Memes & DIY Creation Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/boosting-sound-on-facebook-videos-on-windows-computers-latest-fixes-and-tips-2-groovy/"><u>Boosting Sound on Facebook Videos on Windows Computers - Latest Fixes and Tips (2 Groovy)</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/mical-embellishments-free-youtube-template-packs/"><u>Economical Embellishments FREE YouTube Template Packs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-non-functional-speakers-on-your-windows-10-pc-expert-tips/"><u>How to Fix Non-Functional Speakers on Your Windows 10 PC - Expert Tips</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-zte-nubia-z60-ultra-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock ZTE Nubia Z60 Ultra Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-lagging-and-skipping-sounds-in-bluetooth-pairings-with-windows-eleven/"><u>Overcoming Lagging and Skipping Sounds in Bluetooth Pairings with Windows ˈeleven</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-in-game-communications-fixing-mic-problems-on-dota-2-pc-edition/"><u>Revive Your In-Game Communications: Fixing Mic Problems on Dota 2 PC Edition</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-repairing-your-devices-broken-main-audio-connection/"><u>Step-by-Step Guide: Repairing Your Device's Broken Main Audio Connection</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-bluetooth-device-connectivity-on-windows-11/"><u>Step-by-Step Solutions for Bluetooth Device Connectivity on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016104599-the-ultimate-troubleshooter-resolving-problems-with-logitech-g633-mic-solved/"><u>The Ultimate Troubleshooter: Resolving Problems with Logitech G633 Mic - Solved</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-final-cut-pro-for-beginners-the-definitive-starter-pack/"><u>[New] In 2024, Final Cut Pro for Beginners The Definitive Starter Pack</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-free-downloader-official-winx-ultimate-edition-with-dvd-ripping-and-hd-video-conversion/"><u>1. Free Downloader: Official WinX Ultimate Edition with DVD Ripping & HD Video Conversion</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-leveraging-videos-with-text-a-cost-free-approach/"><u>2024 Approved Leveraging Videos with Text A Cost-Free Approach</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/battle-ready-dji-robomaster-s1-an-exciting-blend-of-fun-learning-and-aerial-combat/"><u>Battle-Ready DJI RoboMaster S1: An Exciting Blend of Fun, Learning & Aerial Combat</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beginners-tutorial-creating-a-playstation-network-username-and-password/"><u>Beginner's Tutorial: Creating a PlayStation Network Username and Password</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/building-a-following-with-captivating-instagram-reels/"><u>Building a Following with Captivating Instagram Reels</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/downloading-fb-videos-made-easy-our-top-5-selection/"><u>Downloading FB Videos Made Easy Our Top 5 Selection</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-managing-dolby-sound-drivers-and-fixing-startup-errors-on-windows-10/"><u>Expert Tips for Managing Dolby Sound Drivers and Fixing Startup Errors on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-logitech-g230-microphone-when-it-stops-working/"><u>How to Repair Your Logitech G230 Microphone When It Stops Working</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-jumpstart-your-journey-learning-snapseed-techniques/"><u>In 2024, Jumpstart Your Journey Learning Snapseed Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-sound-solutions-for-non-functioning-headphones-in-windows-7/"><u>Restoring Sound: Solutions for Non-Functioning Headphones in Windows 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-restore-functionality-of-a-non-working-redragon-pc-mic/"><u>Troubleshooting Guide: How to Restore Functionality of a Non-Working Redragon PC Mic</u></a></li>
 </ul></div>
 

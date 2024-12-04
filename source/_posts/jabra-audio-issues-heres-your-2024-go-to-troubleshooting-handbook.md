@@ -1,7 +1,7 @@
 ---
 title: Jabra Audio Issues? Here's Your 2024 Go-To Troubleshooting Handbook
-date: 2024-08-27T21:09:34.842Z
-updated: 2024-08-28T21:09:34.842Z
+date: 2024-11-29T16:13:22.277Z
+updated: 2024-12-04T00:38:02.762Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/aef9f8cb7b85429cf28cb38f2d49cc0528e1c43a7
 4. **[Check for damaged system files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Update the firmware](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Before we move further…
 
  Here are some quick checkups that you can do with your computer and your Jabra headset:
@@ -65,8 +69,9 @@ thumbnail: https://thmb.techidaily.com/aef9f8cb7b85429cf28cb38f2d49cc0528e1c43a7
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. After updating, restart your computer to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -87,33 +92,36 @@ thumbnail: https://thmb.techidaily.com/aef9f8cb7b85429cf28cb38f2d49cc0528e1c43a7
 2. Select**Small icons** next to View by and click**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/2-2.jpg)
 3. Right-click any empty space and tick**Show Disabled Devices** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/2-3-1.jpg)
 4. If your Jabra headset is disabled, right-click it and click**Enable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/2-4-1.jpg)
 5. Select the**Jabra Headphones** and click**Set Default** .  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/2-5-1.jpg)
 6. Back to your desktop, right-click the**speaker icon** at the lower-right corner of the taskbar and select**Open Volume mixer** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/1-2.jpg)
 7. Hold and drag each slider to turn up the volume.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/1-1-1.jpg)
 8. On Windows 11, the sliders should look like this:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/volume-mixer-win-11.png)
 9. Still, you just need to hold and drag the slider to adjust the volume.
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the audio-not-working issue only occurs in a few specific programs, make sure you’ve **set your Jabra headset as the default device in the app settings** . Now see if the audio works. If not, take a look at more fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3 – Reset the Jabra headset and connection
 
  If you’ve been constantly running into glitches with your Jabra headset, try to reset the device settings to the default and reconnect it with your computer. The reset button varies on different Jabra headsets, but normally you could**hold the multi-function button for around 10 seconds** to clear the settings.
@@ -125,25 +133,35 @@ thumbnail: https://thmb.techidaily.com/aef9f8cb7b85429cf28cb38f2d49cc0528e1c43a7
 1. Type**bluetooth** on the Windows search bar and select**Bluetooth and other devices settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/bluetooth-connection-1.jpg)
 2. If you see your Jabra headphone is listed under Audio, click it and click**Remove device** .  
+
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/bluetooth-connection-3.jpg)
 3. Turn off your Bluetooth for a few seconds and toggle it on.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/bluetooth-connection-4.jpg)
 4. Click**Add Bluetooth or device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/bluetooth-connection-5.jpg)
 5. Select**Bluetooth** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/bluetooth-connection-6.jpg)
 6. Put your Jabra headset into pairing mode.
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 7. When it’s successfully recognized by the computer, click it to build the connection.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/bluetooth-connection-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Does your Jabra headset work now? If not, try the next method.
 
@@ -157,15 +175,13 @@ Does your Jabra headset work now? If not, try the next method.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 If restoring your computer still failed, there is the last method to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5 – Update the firmware
 
@@ -176,28 +192,10 @@ If restoring your computer still failed, there is the last method to try.
 3. Navigate to the**Updates** tab. Then, click the**Update** button next to each available device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/firmware-update-1.jpg)
 4. Select the language you prefer and click**Update** .  
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/firmware-update-2.jpg)
 5. Click**Ok** when the update completes.  
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/firmware-update-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now that both the headset software and firmware are updated, your Jarba headset should be working without trouble.
 
 ---
@@ -213,8 +211,6 @@ If restoring your computer still failed, there is the last method to try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,4 +218,26 @@ If restoring your computer still failed, there is the last method to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-restore-classic-photo-viewing-experience-on-modern-windows-11/"><u>[New] 2024 Approved Restore Classic Photo Viewing Experience on Modern Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-how-to-effortlessly-record-your-iphone-screen/"><u>[New] How to Effortlessly Record Your iPhone Screen</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2023-how-to-watch-twitter-videos-in-full-hd-in-2024/"><u>[Updated] 2023 | How To Watch Twitter Videos in Full HD, In 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-art-of-glamour-videos/"><u>[Updated] 2024 Approved The Art of Glamour Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-a-teachers-guide-to-enhancing-learning-through-youtube-videos-for-2024/"><u>[Updated] A Teacher's Guide to Enhancing Learning Through YouTube Videos for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-finest-12-tycoons-your-pathway-to-gaming-enthusiasm/"><u>[Updated] The Finest 12 Tycoons Your Pathway to Gaming Enthusiasm</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/best-caller-id-changers-and-their-enchanting-alternatives-for-2024/"><u>Best Caller ID Changers & Their Enchanting Alternatives for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-error-14-a-comprehensive-guide-for-iphone-repair/"><u>Dealing with 'Error 14': A Comprehensive Guide for iPhone Repair</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-fixing-a-broken-mic-on-airpods-when-used-with-a-windows-10-system/"><u>Effective Solutions for Fixing a Broken Mic on AirPods when Used with a Windows 10 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-failed-discord-voice-connections-a-comprehnive-guide-to-restoring-audio/"><u>Fixing Failed Discord Voice Connections: A Comprehnive Guide to Restoring Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-can-you-repair-a-malfunctioning-voice-chat-in-steam/"><u>How Can You Repair a Malfunctioning Voice Chat in Steam?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-frequent-disruptions-with-your-computers-speakers-on-windows-windows-11/"><u>How to Fix Frequent Disruptions with Your Computer's Speakers on Windows 지원 (Windows 11)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-the-noise-free-dilemma-solutions-for-your-lenovos-audio-troubles/"><u>Overcoming the Noise-Free Dilemma: Solutions for Your Lenovo's Audio Troubles</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-non-functional-hyperx-cloud-alpha-headset-microphone/"><u>Quick Fixes for Non-Functional HyperX Cloud Alpha Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-when-fortnite-voice-chat-isnt-working-properly/"><u>Quick Fixes for When Fortnite Voice Chat Isn't Working Properly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silencing-the-silence-effective-solutions-to-address-no-sound-in-windows-11/"><u>Silencing the Silence: Effective Solutions to Address No Sound in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-low-volume-trouble-with-windows-11-pc-speakers-step-by-step-instructions/"><u>Solving Low Volume Trouble with Windows 11 PC Speakers - Step-by-Step Instructions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-pc-hardware-with-toms-insights/"><u>Unveiling the Latest in PC Hardware with Tom's Insights</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/upgrade-your-dvd-capacity-efficiently-store-more-than-47gb-of-files-using-dvd-compressor-tools/"><u>Upgrade Your DVD Capacity: Efficiently Store More than 4.7GB of Files Using DVD Compressor Tools!</u></a></li>
+</ul></div>
 

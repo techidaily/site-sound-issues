@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Uninterrupted Discord Communication - Tackling Audio Problems Head-On
-date: 2024-08-27T21:09:49.262Z
-updated: 2024-08-28T21:09:49.262Z
+date: 2024-11-30T21:04:35.106Z
+updated: 2024-12-03T22:50:09.659Z
 tags:
   - win11
   - win10
@@ -38,6 +38,11 @@ Here’s how:
 1. At the bottom right corner of your screen, right-click the speaker icon and select**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/disable-other-audio-devices.jpg)
 2. Navigate to the**Playback** tab and find the devices that’re inactive. Right click those devices and select**Disable** . (Be advised that the headset you’re using might show more than one device. Check that according to the description.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/disable-other-audio-devices-2.jpg)
 3. Restart Discord and your game and check if the audio is back to normal.
 
@@ -52,14 +57,13 @@ If this fix doesn’t help you, simply take a look at the next one.
 2. Navigate to the**Communications** tab. Under the**When Windows detects communications activity:** section, click**Do nothing** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/discord-audio-cuts-out-configure-1.jpg)
 3. Navigate to the**Recording** tab, make sure the default device is set to the desired one. Select the default device and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/discord-audio-cuts-out-configure-2.jpg)
 4. Navigate to the **Advanced** tab. In the **Default Format** section, select a different sample rate and bit depth, then click **Test** . Repeat this process until you find a format that works, then click **OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Test speaker sound format Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Test-speaker-sound-format-Windows-10.png)
 
  If this solution doesn’t give you luck, check out the next one below.
@@ -71,17 +75,20 @@ If this fix doesn’t help you, simply take a look at the next one.
 1. Open Discord and go to**User Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/discord-disable-qos-1.jpg)
 2. From the left menu, select**Voice & Video** . Under the**QUALITY OF SERVICE** section, make sure**Enable Quality of Service High Packet Priority** is set to disable.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/discord-disable-qos-2.jpg)
 3. Now test if the audio cuts out again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this method doesn’t do the trick, you can continue to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update your audio driver
 
  According to the feedback, the audio cutting out issue is very likely driver-related. In other words, it could mean that**the audio driver you’re using is broken or out of date** . For your PC to stay in the best shape, you should always make sure to have the latest drivers.
@@ -110,27 +117,22 @@ Here’s how:
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now check if the audio is back on track. If so, repeat these steps but only disable half of the programs and services.
@@ -146,21 +148,16 @@ Here’s a quick guide for that:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  After installing all the system updates, restart your PC and check the audio in game.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7: Check if your system is corrupted
 
  If none of the fixes work for you, chances are your system is corrupted. To be more specific, you can say that**some system components are having issues** . In that case, you can use a system repair tool to scan and fix any possible issues.
@@ -171,7 +168,16 @@ Here’s a quick guide for that:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -187,8 +193,6 @@ Here’s a quick guide for that:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +200,23 @@ Here’s a quick guide for that:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-leading-6-social-media-channels-fostering-business-innovation/"><u>[New] Leading 6 Social Media Channels Fostering Business Innovation</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-boosting-your-short-form-video-content-on-youtube-for-2024/"><u>[Updated] Boosting Your Short-Form Video Content on Youtube for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-elevate-your-short-form-content-top-10-edits-for-iosandroid/"><u>[Updated] Elevate Your Short-Form Content Top 10 Edits for iOS/Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/craft-stories-with-chatgpt-6-innovative-techniques/"><u>Craft Stories with ChatGPT: 6 Innovative Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/descubre-los-secretos-del-software-de-movavi-una-guia-completa-para-usuarios-y-profesionales/"><u>Descubre Los Secretos Del Software De Movavi: Una Guía Completa Para Usuarios Y Profesionales</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solutions-for-your-corsair-virtuoso-mic-when-it-wont-work/"><u>DIY Solutions for Your Corsair Virtuoso Mic When It Won’t Work</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-enable-disable-and-change-safari-location-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Enable, Disable, and Change Safari Location on Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-mic-not-working-errors-in-microsoft-teams-on-pcs-with-windows-os/"><u>How to Resolve Mic Not Working Errors in Microsoft Teams on PCs with Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-nvidia-graphics-card-left-unplugged-issues-essential-tips-and-tricks/"><u>How To Resolve NVIDIA Graphics Card Left Unplugged Issues: Essential Tips & Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-repair-silent-realtek-hdmidp-ports/"><u>How to Troubleshoot and Repair Silent Realtek HDMI/DP Ports</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y100t-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo Y100t Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016701268-internal-laptop-speakers-not-working-heres-how-you-can-make-them-sound-again/"><u>Internal Laptop Speakers Not Working? Here's How You Can Make Them Sound Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steam-game-wont-start-heres-how-to-resolve-it-for-windows-11-users/"><u>Steam Game Won't Start? Here's How to Resolve It for Windows 11 Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforming-speeches-learn-no-cost-audio-effect-techniques-here-for-2024/"><u>Transforming Speeches Learn No-Cost Audio Effect Techniques Here for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-solving-the-issue-of-silent-videos-on-your-pc-from-facebook/"><u>Troubleshooting Steps: Solving the Issue of Silent Videos on Your PC From Facebook</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlocking-wifi-excellence-with-linksys-wrt3200acm-a-comprehensive-review-for-open-source-enthusiasts/"><u>Unlocking WiFi Excellence with Linksys WRT3200ACM - A Comprehensive Review for Open Source Enthusiasts</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Audio Popping on Your PC? Let's Resolve It Together - A Complete Walkthrough for Windows Users
-date: 2024-08-27T21:12:12.506Z
-updated: 2024-08-28T21:12:12.506Z
+date: 2024-11-28T02:02:43.223Z
+updated: 2024-12-03T23:51:39.166Z
 tags:
   - win11
   - win10
@@ -50,16 +50,23 @@ If the output device works as expected, simply continue to the next step.
 2. Select**Other troubleshooters** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-troubleshooter-2.jpg)
 3. Select**Playing Audio** . Then follow the on-screen instructions to proceed.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-troubleshooter-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the troubleshooter doesn’t get the audio back, you can take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Configure output device properly
 
  Next you need to check if you have**configured the audio settings correctly** . Normally Windows will take care of this automatically, but it’s best you take a look yourself.
@@ -69,21 +76,12 @@ Here’s how:
 1. On your keyboard, press**Win+I** (the Windows key and the i key) to open Windows Settings. Click**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-1.jpg)
 2. Under**Output** , make sure to select your desired output device. Then click the device to view its property.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-2.jpg)
 3. Under**Output settings** , you can test different**output formats** . Make sure**Volume** is set to**above 50** . You can also**turn Enhance audio on and off** to see if that helps.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-3.jpg)
 
 If the issue lingers on, check out the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update your audio driver
 
  There’re multiple reports suggesting that the no sound issue is caused by an**outdated or incompatible audio driver** . Some drivers might not work properly if you upgrade from Windows 10\. For Windows 11 to function properly, you need to make sure you have the latest correct audio driver.
@@ -97,6 +95,10 @@ If the issue lingers on, check out the next fix below.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-update-all-realtek-audio.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating all the drivers, restart your PC and check if the issue persists.
@@ -104,8 +106,9 @@ If the issue lingers on, check out the next fix below.
  If the latest drivers can’t fix the problem, you can take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Check for the latest system updates
 
  Windows 11 is new and is under active development. So it’s possible the cure to your problem lies in the latest patch. To get it, you can scan for updates manually and Windows will install them automatically.
@@ -113,14 +116,12 @@ If the issue lingers on, check out the next fix below.
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Scan and pair Windows
 
  In the worst case, you’re dealing with a system issue. It could mean that some critical files are**corrupted or missing** from your system, and it could also mean that some settings are**misconfigured** . Either way, if you don’t want a clean reinstall, you can**run a scan** and find out what went wrong.
@@ -131,12 +132,13 @@ If the issue lingers on, check out the next fix below.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Reset Windows
 
@@ -149,13 +151,20 @@ If the issue lingers on, check out the next fix below.
 1. On your taskbar, click the search icon and type**reset** . Click**Reset this PC** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-1.jpg)
 2. Under**Recovery options** , click**Reset PC** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-2.jpg)
 3. In the pop-up window, select**Remove everything** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-3.jpg)
 4. Click**Cloud download** . This will get you the latest system files.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-4.jpg)
 5. Follow the on-screen instructions to reset your PC.
 
@@ -171,8 +180,6 @@ If the issue lingers on, check out the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +187,26 @@ If the issue lingers on, check out the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevating-your-content-insights-into-viewership-lead-for-2024/"><u>[New] Elevating Your Content Insights Into Viewership Lead for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-unveiling-the-secrets-to-successful-zoom-calls-with-android/"><u>[New] In 2024, Unveiling the Secrets to Successful Zoom Calls with Android</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-mastery-in-recreating-visual-stories/"><u>[Updated] Instagram Mastery in Recreating Visual Stories</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-navigating-instagrams-updated-feed-dynamics/"><u>2024 Approved Navigating Instagram’s Updated Feed Dynamics</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-google-pixel-7a-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Google Pixel 7a Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/complete-guide-fixing-idt-hd-audio-codec-issues-on-windows-10/"><u>Complete Guide: Fixing IDT HD Audio Codec Issues on Windows 10</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862832943-discover-the-alienware-34-inch-curved-gaming-masterpiece-exclusive-deal-for-749-at-best-buy/"><u>Discover the Alienware 34 Inch Curved Gaming Masterpiece - Exclusive Deal for $749 at Best Buy!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-speaker-malfunctions-on-windows-11-systems-step-by-step-instructions/"><u>Fixing Speaker Malfunctions on Windows 11 Systems: Step-by-Step Instructions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-back-to-the-soundtrack-of-social-media-comprehensive-fixes-for-mute-videos-on-facebook-using-your-computer/"><u>Getting Back to the Soundtrack of Social Media: Comprehensive Fixes for Mute Videos on Facebook Using Your Computer</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-free-video-cutters-and-joiners-for-beginners/"><u>In 2024, Best Free Video Cutters and Joiners for Beginners</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-immersive-chronicles-a-brief-history/"><u>In 2024, The Immersive Chronicles A Brief History</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/optimizing-audio-setup-sea-of-thieves-mic-and-mic-not-working-fixes/"><u>Optimizing Audio Setup: Sea of Thieves Mic & Mic Not Working Fixes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/prime-portable-canvas-apps-for-windows-free-and-charged-for-2024/"><u>Prime Portable Canvas Apps for Windows Free and Charged for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-blackshark-v2-headset-microphone-troubleshooting-and-repair-tips/"><u>Razer BlackShark V2 Headset Microphone Troubleshooting and Repair Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-restoring-audio-on-the-steelseries-arctis-1-headset/"><u>Solved: Restoring Audio on the SteelSeries Arctis 1 Headset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-to-repairing-and-restoring-audio-functionality-on-windows-10-systems/"><u>Ultimate Guide to Repairing and Restoring Audio Functionality on Windows 10 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-solutions-to-your-pcs-zoom-microphone-malfunction/"><u>Ultimate Solutions to Your PC's Zoom Microphone Malfunction</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-is-the-chatgpt-token-limit-and-can-you-exceed-it/"><u>What Is the ChatGPT Token Limit and Can You Exceed It?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016378941-windows-nt-detect-my-headphones-heres-the-solution/"><u>Windows N't Detect My Headphones? Here's the Solution</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Trouble with Talking in Teams? Here's the Solution for Overwatch PTT Issues
-date: 2024-08-27T21:10:28.278Z
-updated: 2024-08-28T21:10:28.278Z
+date: 2024-11-28T23:48:49.878Z
+updated: 2024-12-04T07:06:08.436Z
 tags:
   - win11
   - win10
@@ -33,9 +33,6 @@ Having trouble with push-to-talk during gameplay? You’re not alone! Many Overw
 
  This is the quickest fix to try when you’re experiencing Overwatch audio issues. Just restart your computer and Overwatch to test your issue. If your problem still exists, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## Fix 2: Run Discord as Administrator
 
  If you’re using Discord instead of Overwatch’s own chat feature, try this fix. If you’re not using Discord, move on to **[Fix 3](https://tools.techidaily.com/drivereasy/download/)**  below.
@@ -52,30 +49,22 @@ If you’re not sure how to do it, follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/close-discord.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Right-click the Discord icon on your desktop, then select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/discord-properties.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Under the **Compatibility**  tab, check the box next to **Run this program as an administrator** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Discord-admin-access.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5) Relaunch Discord.
 
 If your issue persists, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## Fix 3: Update your audio driver
 
  In most cases, audio issues occur when users are using the faulty audio driver, or the driver is outdated. It’s essential that you have the latest correct audio driver at all times to keep Overwatch running smoothly.
@@ -102,13 +91,25 @@ If your issue persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-281.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Install the latest Overwatch patch
 
@@ -122,6 +123,10 @@ To check if there is any update, follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-712.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If a patch is available, install it, then run your game again to check whether your problem has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix.
 
 ## Fix 5: Check your in-game settings
@@ -134,20 +139,18 @@ To check if there is any update, follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-407.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click the**Sound tab** , and verify that**TEAM VOICE CHAT** , and**GROUP VOICE CHAT** are set to**AUTO JOIN.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-400-1024x559.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Make sure the VOICE CHAT MODE is set to**PUSH TO TALK** , then select the correct VOCIE CHAT DEVICES.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-401-1024x569.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 **5)** Click the**CONTROLS** tab. Under**CHAT AND VOICE** , click the button next to**VOICE CHAT: PUSH TO TALK** and change your push-to-talk key to a different one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-416-1024x402.png)
@@ -169,8 +172,6 @@ To check if there is any update, follow the instructions below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +179,26 @@ To check if there is any update, follow the instructions below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/xpert-audio-guide-for-vloggers-for-2024/"><u>[New] Expert Audio Guide for Vloggers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-best-face-pixeling-tools-for-privacy/"><u>[New] Exploring the Best Face-Pixeling Tools for Privacy</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-add-border-to-instagram-photos-with-best-apps-for-2024/"><u>[Updated] How to Add Border to Instagram Photos with Best Apps for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-design-memes-that-speak-to-your-audience/"><u>2024 Approved Design Memes That Speak to Your Audience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-learning-curve-to-funimate-excellence/"><u>2024 Approved Learning Curve to Funimate Excellence</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016931143-game-audio-mastery-achieved-on-discord-a-comprehensive-solution/"><u>Game Audio Mastery Achieved on Discord - A Comprehensive Solution!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-dell-sound-working-again-quickly-a-step-by-step-guide/"><u>Get Dell Sound Working Again Quickly: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-diagnose-and-repair-the-conexant-smartaudio-hd-silent-mode-for-windows-10-users/"><u>How to Diagnose and Repair the Conexant SmartAudio HD Silent Mode for Windows 10 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-identify-and-setup-unrecognized-audio-devices-on-your-windows-11-pc/"><u>How to Identify & Setup Unrecognized Audio Devices on Your Windows 11 PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-install-idt-high-definition-audio-codec-driver-on-windows-11-a-complete-guide/"><u>How to Install IDT High Definition Audio Codec Driver on Windows 11: A Complete Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-iphone-14-pro-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On iPhone 14 Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/laptop-audio-problem-heres-how-to-fix-the-lack-of-sound/"><u>Laptop Audio Problem? Here's How to Fix the Lack of Sound</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/netflix-archive-the-complete-guide-to-screencapturing-your-views/"><u>Netflix Archive The Complete Guide to ScreenCapturing Your Views</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-unleash-your-creativity-how-to-make-professional-looking-movies-on-mac/"><u>New Unleash Your Creativity How to Make Professional-Looking Movies on Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-premier-collection-of-ae-plugins-unveiled-for-2024/"><u>The Premier Collection of AE Plugins Unveiled for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-pc-audio-issues-fixing-reduced-speaker-output-in-windows-10/"><u>Troubleshooting PC Audio Issues: Fixing Reduced Speaker Output in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-get-your-discord-voice-chats-running-smoothly-again/"><u>Troubleshooting Tips: Get Your Discord Voice Chats Running Smoothly Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fix-for-microphone-woes-in-windows-7-quick-solutions-inside/"><u>Ultimate Fix for Microphone Woes in Windows 7 - Quick Solutions Inside</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtubes-economic-model-month-to-month-income-for-2024/"><u>YouTube's Economic Model Month-to-Month Income for 2024</u></a></li>
+</ul></div>
 

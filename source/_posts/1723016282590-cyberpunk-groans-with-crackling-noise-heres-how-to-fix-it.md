@@ -1,7 +1,7 @@
 ---
 title: Cyberpunk Groans with Crackling Noise? Here's How to Fix It
-date: 2024-11-23T23:53:15.920Z
-updated: 2024-11-24T16:13:35.279Z
+date: 2024-12-01T03:09:22.897Z
+updated: 2024-12-04T04:35:57.760Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ If you’re encountering Cyberpunk 2077 sound crackling or buzzing background no
 3. **[Adjust the sound settings](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Restart Cyberpunk 2077
 
  It seems a cliche but a simple restart can usually fix various game glitches. Restart your PC and relaunch Cyberpunk 2077 to test. If this doesn’t help, move on to the second trick.
@@ -38,6 +42,10 @@ If you’re encountering Cyberpunk 2077 sound crackling or buzzing background no
 ### Fix 2 – Change USB port
 
  Cyberpunk 2077 audio not working properly might be caused by a faulty headphone port. To rule out this possibility, simply**replug your audio equipment to another USB port** which should be located at both the front and back of your PC, and play the game again. If sound crackling persists, take a look at the solutions below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Adjust the sound settings
 
@@ -52,31 +60,27 @@ If you’re encountering Cyberpunk 2077 sound crackling or buzzing background no
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-6.jpg)
 4. Go to the**Spatial sound** tab, and set it to**Off** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4.jpg)
 5. Navigate to the**Advanced** tab. Then, select**2 channel, 16 bit, 96000Hz (Studio Quality)** from the drop-down menu under Default Format.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5.jpg)
 6. Click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/7-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the 96000 Hz sample rate doesn’t give any luck, you can try the other options until you find the one that stops the sound from crackling. If none of them works, continue to the next method below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Update your audio driver
 
@@ -95,10 +99,6 @@ There are two ways for you to do this:
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -126,16 +126,16 @@ There are two ways for you to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-valorant-screenshots-transformed-by-rapid-skilled-designers/"><u>[New] 2024 Approved Valorant Screenshots Transformed by Rapid, Skilled Designers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-secrets-unveiled-amplifying-profile-visibility/"><u>[New] Secrets Unveiled Amplifying Profile Visibility</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-deciphering-the-secrets-of-zd-soft-recorder/"><u>[Updated] 2024 Approved Deciphering the Secrets of ZD Soft Recorder</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-explore-the-top-10-websites-for-no-fee-images/"><u>[Updated] Explore the Top 10 Websites for No-Fee Images</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-editing-success-how-to-overcome-common-audacity-sound-device-glitches-5-effective-fixes/"><u>Audio Editing Success: How to Overcome Common Audacity Sound Device Glitches [5 Effective Fixes]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-the-most-out-of-your-astro-laptop-fixing-mic-connectivity-problems/"><u>Getting the Most Out of Your Astro Laptop: Fixing Mic Connectivity Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-sound-timing-pro-solutions-to-correct-audio-lags/"><u>Mastering Sound Timing: Pro Solutions to Correct Audio Lags</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-stop-motion-mastery-best-apps-for-iphone-and-android/"><u>New Stop Motion Mastery Best Apps for iPhone and Android</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-sound-on-your-system-after-windows-11-patch-quick-remedies-inside/"><u>No Sound on Your System After Windows 11 Patch? Quick Remedies Inside</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-missing-sounds-in-your-favorite-card-game-hearthstone-edition/"><u>Troubleshooting Missing Sounds in Your Favorite Card Game - Hearthstone Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-without-taskbar-chat-the-consequences-for-you-as-a-user/"><u>Windows 11 Without Taskbar Chat: The Consequences for You as a User?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-full-range-kinetics-review/"><u>[New] In 2024, Full Range Kinetics Review</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-surprise-your-friends-with-these-unheard-memes-for-2024/"><u>[New] Surprise Your Friends with These Unheard Memes for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-headphone-issues-in-windows-10-solutions-and-tips/"><u>Fixing Headphone Issues in Windows 10: Solutions and Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-viral-instagram-unboxing-vids/"><u>In 2024, The Ultimate Guide to Viral Instagram Unboxing Vids</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-files-are-unwatchable-on-nova-y71-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV files are unwatchable on Nova Y71</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-technology-with-toms-hardware-insights/"><u>Navigating the World of Technology with Tom's Hardware Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-windows-faulty-document-scanning-feature/"><u>Restoring Windows' Faulty Document Scanning Feature</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-common-logitech-g533-microphone-malfunctions-and-fixes/"><u>Solved: Common Logitech G533 Microphone Malfunctions and Fixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-adding-subtitles-when-creating-a-dvd/"><u>Step-by-Step Guide: Adding Subtitles when Creating a DVD</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-discords-game-audio-capture-issues-resolved-techniques/"><u>Troubleshooting Discord's Game Audio Capture Issues - Resolved Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-doesnt-picture-recognition-work-on-my-iphone-exploring-6-possible-causes/"><u>Why Doesn't Picture Recognition Work on My iPhone? Exploring 6 Possible Causes</u></a></li>
 </ul></div>
 

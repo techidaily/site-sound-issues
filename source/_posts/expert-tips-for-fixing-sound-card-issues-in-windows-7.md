@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Fixing Sound Card Issues in Windows 7
-date: 2024-08-27T21:10:40.174Z
-updated: 2024-08-28T21:10:40.174Z
+date: 2024-11-28T06:51:20.994Z
+updated: 2024-12-04T06:15:20.247Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ You’re joining an online meeting on Zoom but find the microphone isn’t worki
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** In the left pane, scroll down and click**Microphone** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-2.jpg)
@@ -58,8 +62,9 @@ You’re joining an online meeting on Zoom but find the microphone isn’t worki
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2 – Check your microphone settings
 
  The wrong settings, such as the microphone being muted or not set as the default device or the too low volume, will prevent your microphone from working normally on Zoom. So you should configure everything in the settings correctly.
@@ -68,14 +73,18 @@ You’re joining an online meeting on Zoom but find the microphone isn’t worki
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Select**Small icons** from the drop-down menu next to View by. Then, click**Sound.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Click the**Recording** tab. Then, right-click on any empty area and tick**Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-3.jpg)
@@ -85,8 +94,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **5)** Check if your microphone is set as the default device. If not, click it and click**Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
@@ -95,9 +105,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-6-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **7)** Select the**Levels** tab. If your microphone is muted, click the**speaker icon** to unmute it. Then, drag the slider to**set the microphone volume to the max** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-7.jpg)
@@ -107,8 +114,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After settings are applied as above, your microphone should be working fine. You can simply take a mic test on Zoom to check. If the issue persists, please move on to the next fix.
 
 ---
@@ -135,9 +143,6 @@ There are two ways you can update your audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -148,8 +153,9 @@ There are two ways you can update your audio driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4 – Modify Zoom’s audio settings
 
  If your microphone works well on other programs and only runs into problems on Zoom, the reason may be the app’s settings. You can adjust the settings as follows and see whether this brings back your audio input.
@@ -162,19 +168,17 @@ There are two ways you can update your audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Tick**Automatically join audio by computer when joining a meeting** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Click the**Advanced** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Configure the settings as below:
 
@@ -185,6 +189,10 @@ There are two ways you can update your audio driver:
  Join a meeting to test if your microphone works on Zoom. If you see the microphone icon with a red line in the bottom bar, it’s muted, and you need to click the icon to unmute it before other participants can hear you. If the mic-not-working problem remains, please check out the last fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Reinstall Zoom
 
@@ -198,9 +206,6 @@ There are two ways you can update your audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/6-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Follow the on-screen instructions to complete the uninstallation process. Then, download Zoom from the **[official website](https://zoom.us/download)**  and install a fresh new app on your computer.
 
 ---
@@ -217,8 +222,6 @@ There are two ways you can update your audio driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -226,4 +229,19 @@ There are two ways you can update your audio driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-pro-user-guide-to-mastering-the-latest-windows-10/"><u>2024 Approved Pro User Guide to Mastering the Latest WINDOWS 10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726029529470-windows-103/"><u>範囲を指定してWindows 10でキャプチャする方法のトップ3 - スクリーン録画ガイド</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/blue-yeti-not-working-discover-effective-remedies-for-mic-recognition-issues/"><u>Blue Yeti Not Working? Discover Effective Remedies for Mic Recognition Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-use-an-iphone-13-case-for-iphone-14-discover-the-answer/"><u>Can You Use an iPhone 13 Case for iPhone 14? Discover the Answer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-problems-with-steelseries-arctis-1-mic-and-effective-ways-to-fix-them/"><u>Common Problems with SteelSeries Arctis 1 Mic & Effective Ways to Fix Them</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/complete-guide-to-ios-device-data-restoration/"><u>Complete Guide to IOS Device Data Restoration</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-solutions-resolve-logitech-g933-microphone-silence-issues/"><u>Effortless Solutions: Resolve Logitech G933 Microphone Silence Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-stop-your-bluetooth-headphones-from-jittery-sounds-on-windows-1011/"><u>How to Stop Your Bluetooth Headphones From Jittery Sounds on Windows 10/11?</u></a></li>
+<li><a href="https://win-special.techidaily.com/revive-your-iphones-space-top-7-methods-for-clearing-storage-in-ios-and-windows-operating-systems/"><u>Revive Your iPhone's Space: Top 7 Methods for Clearing Storage in iOS and Windows Operating Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/turn-up-the-volume-again-quick-and-easy-remedies-for-computer-audio-problems/"><u>Turn Up the Volume Again - Quick and Easy Remedies for Computer Audio Problems</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-cutting-out-cacophony-5-innovative-ways-to-delete-audio-in-streaming-video-content-online/"><u>Updated In 2024, Cutting Out Cacophony 5 Innovative Ways to Delete Audio in Streaming Video Content Online</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/windows-10-gif/"><u>Windows 10における簡単な GIF動画録画テクニックとツール</u></a></li>
+</ul></div>
 

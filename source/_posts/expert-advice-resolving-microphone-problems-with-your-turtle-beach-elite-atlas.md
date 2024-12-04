@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Resolving Microphone Problems with Your Turtle Beach Elite Atlas"
-date: 2024-11-18T17:37:51.558Z
-updated: 2024-11-25T03:10:24.042Z
+date: 2024-11-27T06:27:51.351Z
+updated: 2024-12-03T23:54:47.321Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -48,10 +44,6 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-06-12.png)
 2. In the input section,**set the microphone you’re using as the input device** . You can also turn the volume up to make sure the microphone can catch your voice clearly.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-05-53.png)
 
  If you experience the microphone issue only while using a certain app, for example, Zoom or Discord, you can adjust the settings in-app. Similar to the steps above, you need to find the audio setting, choose the right input device, and adjust the input volume if needed.
@@ -70,10 +62,6 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 
  After allowing apps to use your microphone, you can restart the problem app and test if the issue is solved now. If not, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Enable the microphone for recording
 
  Normally when you connect an external microphone, for example. a USB mic or your headset mic, to your computer, the device will be automatically recognized. But sometimes it just doesn’t, and you may need to manually enable the microphone for recording. Here’s how to do it on Windows 11:
@@ -81,16 +69,25 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 1. On the taskbar, right-click the**speaker icon** and select**Sound settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-06-12.png)
 2. Scroll down and click**More sound settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-13-21-2.png)
 3. Under the**Recording tab** , enable your microphone. If you can’t find it, right-click anywhere empty and select**Show Disabled devices** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-14-04.png)
 
-If this fix doesn’t solve your problem, try the next one.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+If this fix doesn’t solve your problem, try the next one.
 
 ## Fix 4: Update the audio drivers
 
@@ -109,15 +106,15 @@ If this fix doesn’t solve your problem, try the next one.
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. After updating, restart your computer to take effect.
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus tip: Repair corrupted system files
 
@@ -131,10 +128,14 @@ If this fix doesn’t solve your problem, try the next one.
 3. Once the scan is complete, you can review the summary. If Fortect detects any missing or broken system files or other issues that may have caused the microphone or other sound issues, you can click **START REPAIR** to fix them.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a 60-day money-back guarantee. If you encounter any issues while using Fortect, feel free to contact their support team.
 
@@ -160,24 +161,20 @@ If this fix doesn’t solve your problem, try the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-essential-techniques-for-making-and-tweaking-multi-snap-chats/"><u>[New] 2024 Approved Essential Techniques for Making & Tweaking Multi-Snap Chats</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-essential-knowledge-for-recording-movies-anywhere-for-2024/"><u>[New] Essential Knowledge for Recording Movies Anywhere for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-delightful-digests-a-list-of-top-food-channels-for-2024/"><u>[Updated] Delightful Digests A List of Top Food Channels for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-green-screen-shooting-made-simple/"><u>2024 Approved Mastering Green Screen Shooting Made Simple</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-laptop-speaker-issues-a-guide-to-restoring-audio/"><u>Fixing Laptop Speaker Issues: A Guide to Restoring Audio</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/free-online-aac-to-mpeg-converter-easy-use-with-movavi/"><u>Free Online AAC to MPEG Converter - Easy Use with Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-infinix-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Infinix using Video Repair Utility on Mac?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-fixing-headphone-problems-on-windows-7/"><u>How to Restore Sound: Fixing Headphone Problems on Windows 지원 7</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y78plus-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y78+ Location by Number | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210834482-9781733235730-phit-for-life/"><u>PHIT for LIFE | Free Book</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/practical-solutions-for-activating-your-tozo-t6-device-with-windows-11-integration/"><u>Practical Solutions for Activating Your Tozo T6 Device with Windows 11 Integration</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016156971-quick-fixes-to-silence-crackling-sounds-in-your-headphones-now/"><u>Quick FIXES to Silence Crackling Sounds in Your Headphones Now!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-latest-techniques-for-rectifying-echoes-and-delays-your-guide/"><u>The Latest Techniques for Rectifying Echoes & Delays - Your Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-science-behind-oleds-working-principle-explained/"><u>The Science Behind OLEDs: Working Principle Explained</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-instantly-restoring-audio-in-google-hangouts-with-a-non-functional-mic/"><u>Troubleshoot Instantly: Restoring Audio in Google Hangouts with a Non-Functional Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-audio-issues-in-dell-computers-on-windows-7/"><u>Troubleshooting and Repairing Audio Issues in Dell Computers on Windows 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-how-to-repair-a-nonfunctional-airpods-microphone-on-windows-11/"><u>Troubleshooting: How to Repair a Nonfunctional AirPods Microphone on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/voicemod-not-working-learn-quick-fixes-and-updates/"><u>Voicemod Not Working? Learn Quick Fixes & Updates</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-achieve-professional-results-with-simple-webcam-tech/"><u>[New] In 2024, Achieve Professional Results with Simple WebCam Tech</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-video-testimonials-the-trusted-connection/"><u>[Updated] 2024 Approved Video Testimonials The Trusted Connection</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-strategically-showcasing-achievements/"><u>2024 Approved Strategically Showcasing Achievements</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-installing-updated-hp-officejet-pro-8610-printer-drivers-on-various-windows-versions/"><u>Complete Guide to Installing Updated HP Officejet Pro 8610 Printer Drivers on Various Windows Versions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminate-sound-dysfunctions-in-windows-os-solving-stutters-and-distortions-for-good/"><u>Eliminate Sound Dysfunctions in Windows OS - Solving Stutters & Distortions for Good</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/five-effective-methods-to-troubleshoot-windows-11-sound-malfunctions/"><u>Five Effective Methods to Troubleshoot Windows 11 Sound Malfunctions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-issue-solutions-for-apex-legends-lack-of-audio/"><u>Fixing the Silent Issue: Solutions for Apex Legends Lack of Audio</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-y27s-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y27s Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-honor-magic-5-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Honor Magic 5 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-muted-computer-effortless-ways-to-troubleshoot-and-repair-audio-problems/"><u>No More Muted Computer: Effortless Ways to Troubleshoot & Repair Audio Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-functionality-to-a-muted-realtek-digital-output/"><u>Restoring Audio Functionality to a Muted Realtek Digital Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-hdmi-connection-issues-restore-sound-from-computers-to-monitors-and-televisions/"><u>Solve HDMI Connection Issues - Restore Sound From Computers to Monitors and Televisions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015541183-trouble-with-your-logitech-g430-mic-heres-how-you-can-get-it-up-and-running-again/"><u>Trouble with Your Logitech G430 Mic? Here's How You Can Get It up and Running Again!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/upgrade-to-better-beats-with-these-top-free-analyzers/"><u>Upgrade to Better Beats with These Top Free Analyzers</u></a></li>
 </ul></div>
 

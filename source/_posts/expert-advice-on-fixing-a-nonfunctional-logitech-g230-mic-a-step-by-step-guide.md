@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Fixing a Nonfunctional Logitech G230 Mic - A Step-by-Step Guide
-date: 2024-11-21T16:27:43.140Z
-updated: 2024-11-25T00:26:20.934Z
+date: 2024-12-02T17:30:08.747Z
+updated: 2024-12-04T03:08:29.737Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Fixes For **LucidSound LS30 Mic Not Working** In Windows
 
@@ -46,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Make sure the volume is audible
@@ -60,7 +64,7 @@ To make sure the volume is audible:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-138.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.  
@@ -68,10 +72,6 @@ To make sure the volume is audible:
  2) Test if your LS30 headset is working properly. If not, then move on to **Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -93,6 +93,10 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-141.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click the **Levels** tab, then drag **the Microphone slider** all the way to _its top_ and click **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-137.png)
@@ -102,10 +106,6 @@ To do so:
  6) Now with microphone set as default device and the volume turned up, try playing some audio on your LS30 headset and see if it works. If it does, then the **LucidSound LS30 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -126,7 +126,7 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-144.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.
@@ -160,17 +160,19 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-building-a-diverse-content-portfolio-on-youtube-shorts-for-2024/"><u>[New] Building a Diverse Content Portfolio on YouTube Shorts for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-12-live-video-streaming-app-for-watching-and-streaming-videos/"><u>2024 Approved 12 Live Video Streaming App for Watching and Streaming Videos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/astro-a10-microphone-malfunction-heres-how-to-restore-sound/"><u>Astro A10 Microphone Malfunction? Here's How to Restore Sound!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/click-into-art-ultimate-edits-for-stunning-snaps/"><u>Click Into Art Ultimate Edits for Stunning Snaps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-repair-for-non-functional-mpow-microphones-on-windows-systems/"><u>DIY Repair for Non-Functional MPOW Microphones on Windows Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-dolby-pro-logic-iix-driver-errors-to-enable-audio-in-windows-11-systems/"><u>Fixing Dolby Pro Logic IIx Driver Errors to Enable Audio in Windows 11 Systems</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-social-media-platforms-can-stop-the-spread-of-covid-19-misinformation/"><u>How Social Media Platforms Can Stop the Spread of COVID-19 Misinformation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-manage-multiple-accounts-with-a-gmail-alias-a-comprehensive-tutorial/"><u>How to Manage Multiple Accounts with a Gmail Alias: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-pc-components-and-motherboards-guidance-from-toms-hardware-experts/"><u>Mastering PC Components and Motherboards - Guidance From Tom's Hardware Experts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-troubleshooting-and-fixing-your-onikuma-microphone-headset/"><u>Solved: Troubleshooting and Fixing Your Onikuma Microphone Headset</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-how-to-resolve-no-signal-screen-issue/"><u>Step-by-Step Guide: How to Resolve 'No Signal' Screen Issue</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/struggling-with-a-silent-blue-yeti-mic-discover-these-proven-rectifying-steps/"><u>Struggling with a Silent Blue Yeti Mic? Discover These Proven Rectifying Steps</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-enhance-your-aerial-imagery-dji-drones-get-20-free-luts-for-2024/"><u>[New] Enhance Your Aerial Imagery DJI Drones Get 20 FREE LUTS for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-chorus-of-services-integrating-your-musical-library/"><u>[Updated] Chorus of Services Integrating Your Musical Library</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-organizing-epics-implementing-chapters-in-vimeo-media/"><u>[Updated] In 2024, Organizing Epics Implementing Chapters in Vimeo Media</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-comparing-youtube-policies-with-creative-commons/"><u>2024 Approved Comparing YouTube Policies with Creative Commons</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-how-to-remove-images-background-in-canva/"><u>2024 Approved How to Remove Image's Background In Canva</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-ios-photo-editors-to-eliminate-objects-effectively-for-2024/"><u>Best iOS Photo Editors to Eliminate Objects Effectively for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-dells-muted-mic-or-silent-speakers-in-minutes/"><u>Fixing Dell's Muted Mic or Silent Speakers in Minutes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-muted-or-distorted-sounds-in-your-pc-running-windows-10/"><u>Fixing Muted or Distorted Sounds in Your PC Running Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-logitech-g90-mic-comprehensive-solutions-for-optimal-performance/"><u>Fixing Your Logitech G90 Mic: Comprehensive Solutions for Optimal Performance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-tutorial-editing-photos-by-cutting-out-the-surround/"><u>In 2024, Ultimate Tutorial Editing Photos by Cutting Out the Surround</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-apple-iphone-6s-plus-5-ways-to-get-into-a-locked-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>Locked Out of Apple iPhone 6s Plus? 5 Ways to get into a Locked Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/maximizing-speaker-volume-effective-methods-for-loud-sounds-in-windows-10/"><u>Maximizing Speaker Volume: Effective Methods for Loud Sounds in Windows 10</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-resident-evil-village-game-volume-glitches/"><u>Troubleshooting Resident Evil Village Game Volume Glitches</u></a></li>
 </ul></div>
 

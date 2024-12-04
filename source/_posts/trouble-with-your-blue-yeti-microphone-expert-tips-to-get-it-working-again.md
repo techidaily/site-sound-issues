@@ -1,7 +1,7 @@
 ---
 title: Trouble With Your Blue Yeti Microphone? Expert Tips to Get It Working Again
-date: 2024-08-27T21:10:34.280Z
-updated: 2024-08-28T21:10:34.280Z
+date: 2024-11-29T02:43:40.487Z
+updated: 2024-12-03T20:35:12.485Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/1c81ca30be4ea340af7f332d3a76f7d660b91fccb
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/call-of-duty-vanguard-1-1200x675.jpg)
 
  As the newest installment in the long-running FPS series, Call of Duty: Vanguard has finally launched. However, many players are reporting that the in-game voice chat feature in Vanguard is not working properly, which greatly spoils players’ gaming experience. If you’re experiencing the same problem, don’t worry. We’ve put together some working fixes for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -48,18 +52,25 @@ thumbnail: https://thmb.techidaily.com/1c81ca30be4ea340af7f332d3a76f7d660b91fccb
 2. On your keyboard, press the**Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/privacy.jpg)
 3. In the left panel, select**Microphone** . Under**Allow desktop apps to access your microphone** , make sure the toggle is set to**ON** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/microphone-allow-desktop-apps.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After you’ve done these, relaunch Vanguard to see if your voice chat works properly.
 
 If this fix doesn’t do the trick, check out the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your audio driver
 
  The COD: Vanguard voice chat not working issue can also be triggered by a faulty or outdated audio driver. If you can’t remember the last time you updated your drivers, definitely do it now as this might solve your problem right away.
@@ -86,9 +97,6 @@ If this fix doesn’t do the trick, check out the next one.
 
  If updating the audio driver doesn’t work for you, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### Fix 4: Check sound settings
 
  For your microphone or headset to work in Vanguard, you need to make sure your default device is set up correctly in Windows and the Battle.net client. Here’s how:
@@ -96,30 +104,32 @@ If this fix doesn’t do the trick, check out the next one.
 1. On your keyboard, press the**Windows logo key** and**R** together to open the Run dialog box. Then type**mmsys.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/mmsys.cpl_.jpg)
 2. Under the**Playback** tab, select the**speakers or headphones** you want to use and click**Set Default** .  
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/headphones-set-default.jpg)
 3. Navigate to the**Recording** tab, select the**microphone or headset** you want to use and click**Set Default** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/microphone-set-default.jpg)
 4. Open your**Battle.net** client.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. At the top left corner, click the**BLIZZARD** icon and select**Settings** from the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/battle-net-settings-1.jpg)
 6. Select**Voice Chat** , then set**OUTPUT DEVICE** and**INPUT DEVICE** to**System Default Device** . Click**Done** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-voice-chat.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 Now launch Vanguard and see if you can talk to your teammates.
 
 If the voice chat still doesn’t work, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Check in-game audio settings
 
@@ -129,17 +139,15 @@ If the voice chat still doesn’t work, move on to the next fix.
 2. Select**ACCOUNT & NETWORK** . Under the**ONLINE** section, set**CROSSPLAY** and**CROSSPLAY COMMUNICATION** to**ON** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/vanguard-crossplay-on.jpg)
 3. Navigate to the**AUDIO** tab. Under the**Voice Chat** section, make sure**VOICE CHAT** is set to**On** . Set**VOICE CHAT DEVICE** and**MICROPHONE DEVICE** to**Default Communication Device** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/vanguard-voice-chat-on.jpg)
 4. According to your personal preference, set**MICROPHONE ACTIVATION MODE** to**Open Mic** or**Push to Talk** . If you set it to**Open Mic** , make sure**OPEN MIC ACTIVATION THRESHOLD** is set to**3** . But if you set it to**Push to Talk** , please be sure you’re aware of exactly what button you’d need to press to activate your microphone.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/vanguard-microphone-activation-mode.jpg)
 5. Set**VOICE CHAT VOLUME** and**MICROPHONE VOLUME** to a moderate value. Then set**VOICE CHAT EFFECT** to**No Effect** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/vanguard-voice-chat-volume.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you can restart Vanguard and check if the voice chat is working.
 
@@ -154,18 +162,6 @@ If your problem remains, try the last fix.
 2. Under Windows Update, click**Check for updates** . Then Windows will automatically download and install the available updates.  
 ![Windows update check for updates](https://images.drivereasy.com/wp-content/uploads/2021/10/Windows-update-check-for-updates.png)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you’ve installed all the updates, restart your PC and check if the voice chat feature works properly in Vanguard.
 
 ---
@@ -181,8 +177,6 @@ If your problem remains, try the last fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +184,22 @@ If your problem remains, try the last fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-spicing-up-chats-with-gifs-a-complete-snapchat-tutorial/"><u>[New] Spicing Up Chats with GIFs A Complete Snapchat Tutorial</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-capture-the-essence-extracting-youtube-audio-directly/"><u>[Updated] 2024 Approved Capture the Essence Extracting YouTube Audio Directly</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-mastering-facebook-insights-a-novices-guide-for-2024/"><u>[Updated] Mastering Facebook Insights A Novice's Guide for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/10-effective-fixes-for-overcoming-wireless-network-adaptor-malfunctions/"><u>10 Effective Fixes for Overcoming Wireless Network Adaptor Malfunctions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-efficiently-implementing-youtube-end-screens/"><u>In 2024, Efficiently Implementing Youtube End Screens</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017013464-playstyles/"><u>Playstyles</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/reel-in-the-action-top-strategies-for-recording-your-minecraft-sessions-on-a-mac-for-2024/"><u>Reel in the Action Top Strategies for Recording Your Minecraft Sessions on a Mac for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-your-life-top-11-fixes-for-windows-11-issues/"><u>Simplify Your Life: Top 11 Fixes for Windows 11 Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-disconnected-nvidia-visuals-in-pcs/"><u>Step-by-Step Solutions for Disconnected NVIDIA Visuals in PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-voice-communication-issues-in-destiny-2/"><u>Troubleshooting Guide: How to Fix Voice Communication Issues in Destiny 2</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-creativity-with-exceptional-features-the-affordable-acer-laptop-thats-a-game-changer-for-media-professionals/"><u>Unlocking Creativity with Exceptional Features: The Affordable Acer Laptop That's a Game Changer for Media Professionals</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-sonys-hdrcx405-price-effective-design/"><u>Unveiling Sony's HDRCX405 Price-Effective Design</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016477916-why-wont-my-windows-10-recognize-my-headphones-fix-now/"><u>Why Won’t My Windows 10 Recognize My Headphones? Fix Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-compatibility-fix-how-to-enable-game-sounds-for-anthem/"><u>Windows 11 Compatibility Fix: How to Enable Game Sounds for Anthem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-silence-breaking-guide-overcoming-audio-challenges-and-restoring-volume-control/"><u>Windows 11 Silence-Breaking Guide: Overcoming Audio Challenges and Restoring Volume Control</u></a></li>
+</ul></div>
 

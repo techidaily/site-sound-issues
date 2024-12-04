@@ -1,7 +1,7 @@
 ---
 title: Overcoming Onikuma Earphones' Microphone Problems with Easy DIY Fixes
-date: 2024-11-20T22:22:21.087Z
-updated: 2024-11-24T22:55:19.918Z
+date: 2024-11-28T16:57:02.521Z
+updated: 2024-12-04T01:01:48.784Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all, just work your way down the list until you find the one that does the trick!
@@ -36,10 +40,6 @@ We’ve seen users reporting the microphone not working after they updated to Wi
  1\. If you’re using an**external microphone** , make sure it’s correctly connected to your PC.  
  2\. If you’re using a**headset mi** c, make sure it’s not set to mute on your headset.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Configure the input device
 
  The first fix you can try is to set up the input device, the microphone you’re using, correctly and adjust the recording volume. Here’s how to do it on Windows 11:
@@ -49,10 +49,14 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 2. In the input section,**set the microphone you’re using as the input device** . You can also turn the volume up to make sure the microphone can catch your voice clearly.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-05-53.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you experience the microphone issue only while using a certain app, for example, Zoom or Discord, you can adjust the settings in-app. Similar to the steps above, you need to find the audio setting, choose the right input device, and adjust the input volume if needed.
 
@@ -66,10 +70,6 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-08-20.png)
 2. **Turn on the Microphone access and Let apps access your microphone** options. You can scroll down and manage the microphone access to a specific app.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-08-01.png)
 
  After allowing apps to use your microphone, you can restart the problem app and test if the issue is solved now. If not, try the next fix.
@@ -82,15 +82,11 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-06-12.png)
 2. Scroll down and click**More sound settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-13-21-2.png)
 3. Under the**Recording tab** , enable your microphone. If you can’t find it, right-click anywhere empty and select**Show Disabled devices** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-14-04.png)
@@ -114,6 +110,10 @@ If this fix doesn’t solve your problem, try the next one.
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. After updating, restart your computer to take effect.
@@ -131,11 +131,11 @@ If this fix doesn’t solve your problem, try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 3. Once the scan is complete, you can review the summary. If Fortect detects any missing or broken system files or other issues that may have caused the microphone or other sound issues, you can click **START REPAIR** to fix them.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a 60-day money-back guarantee. If you encounter any issues while using Fortect, feel free to contact their support team.
 
@@ -161,15 +161,22 @@ If this fix doesn’t solve your problem, try the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-obs-studio-wizards-top-5-secrets-to-unmatched-quality/"><u>[New] In 2024, OBS Studio Wizards Top 5 Secrets to Unmatched Quality</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ecure-a-unique-chanel-identity-with-these-top-11-affordable-tools/"><u>[New] Secure a Unique Chanel Identity with These Top 11 Affordable Tools</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-transform-your-igtv-videos-tips-for-impactful-titles-and-summaries-for-2024/"><u>[New] Transform Your IGTV Videos Tips for Impactful Titles & Summaries for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-how-to-use-zoom-in-your-daily-gmail-routine/"><u>2024 Approved How to Use Zoom in Your Daily Gmail Routine</u></a></li>
-<li><a href="https://fox-that.techidaily.com/essential-troubleshooting-steps-for-shared-family-memberships-issues/"><u>Essential Troubleshooting Steps for Shared Family Memberships Issues</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/harnessing-instagrams-power-for-financial-gain/"><u>Harnessing Instagram's Power for Financial Gain</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016847638-how-to-fix-continuous-cutting-out-of-sound-issues-in-windows-11-solved/"><u>How to Fix Continuous Cutting Out of Sound Issues in Windows 11 – Solved</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-logitech-g733-when-it-stops-working-properly/"><u>How to Repair Your Logitech G733 When It Stops Working Properly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-guide-repairing-your-steelseries-arctis-7-headsets-microphone-malfunction/"><u>Quick Guide: Repairing Your SteelSeries Arctis 7 Headset's Microphone Malfunction</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/why-isnt-my-microphone-working-common-issues-and-fixes-explained/"><u>Why Isn’t My Microphone Working? Common Issues and Fixes Explained</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-shake-and-smile-with-iphone-memes/"><u>[New] In 2024, Shake & Smile with iPhone Memes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-top-websites-for-rhythmic-alerts-unique-sounds/"><u>[New] In 2024, Top Websites for Rhythmic Alerts Unique Sounds</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-definitive-guide-for-choosing-best-youtube-visual-elements/"><u>[New] The Definitive Guide for Choosing Best YouTube Visual Elements</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-microsoft-teams-mic-not-working-on-windows-1110/"><u>[SOLVED] Microsoft Teams Mic Not Working on Windows 11/10</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-a-closer-look-at-youtubes-unlisted-content-category-for-2024/"><u>[Updated] A Closer Look at YouTube’s ‘Unlisted’ Content Category for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-profound-inspection-the-detailed-review-of-bublcams-360-camera/"><u>[Updated] In 2024, Profound Inspection The Detailed Review of Bublcam's 360 Camera</u></a></li>
+<li><a href="https://win-answers.techidaily.com/busting-the-curse-on-evil-genius-2-steps-to-get-the-game-up-and-running/"><u>Busting the Curse on Evil Genius 2: Steps to Get the Game Up & Running</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/defying-apples-desire-for-iphone-replacement-a-firsthand-trial-experience/"><u>Defying Apple's Desire for iPhone Replacement: A Firsthand Trial Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-fixes-for-your-quiet-turtle-beach-advance-prise-microphone-get-it-working-again/"><u>Expert Fixes for Your Quiet Turtle Beach Advance Prise Microphone – Get It Working Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-windows-1110-bluetooth-stuttering-a-step-by-step-guide-to-smooth-sound/"><u>Fix Your Window's 11/10 Bluetooth Stuttering: A Step-by-Step Guide to Smooth Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-sound-back-fixing-inoperative-mics-on-windows-1110-for-seamless-google-meetings/"><u>Get Your Sound Back: Fixing Inoperative Mics on Windows 11/10 for Seamless Google Meetings</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-iphone-13-mini-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 13 mini Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-7-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 7 Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-logitech-g4nce-g430-headset-microphone-a-step-by-step-guide-to-troubleshooting/"><u>Reviving Your Logitech G4nce G430 Headset Microphone - A Step By Step Guide To Troubleshooting</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solving-problems-with-the-logitech-g533-headset-mic/"><u>Troubleshooting and Solving Problems with the Logitech G533 Headset Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-stalled-auditory-outputs-in-multi-service-configurations/"><u>Troubleshooting Stalled Auditory Outputs in Multi-Service Configurations</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-voice-chat-problems-for-a-smooth-co-op-experience-in-back-4-blood/"><u>Troubleshooting Voice Chat Problems for a Smooth Co-Op Experience in Back 4 Blood</u></a></li>
 </ul></div>
 

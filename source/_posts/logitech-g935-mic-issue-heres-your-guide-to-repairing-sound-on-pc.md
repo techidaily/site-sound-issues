@@ -1,7 +1,7 @@
 ---
 title: Logitech G935 Mic Issue? Here's Your Guide to Repairing Sound on PC
-date: 2024-11-20T01:42:34.984Z
-updated: 2024-11-24T23:20:12.094Z
+date: 2024-12-01T23:54:56.207Z
+updated: 2024-12-03T17:53:19.499Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not need to try them all; just work your way down the list until you find the fix that works.
@@ -35,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
 5. **[Try an external sound card](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run the audio troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Before you begin
 
  Before you start trying the fixes below, you should simply have a basic check on your headset as follows:
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
 * Check the physical mute button on the left earcup to make sure that your headset is not muted.
 * Charge the headset to check if it has run out of battery.
 * Connect the headset to another PC. If the G935 mic still doesn’t work, it’s most likely because the headset has expired.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: Allow access to your mic on your PC
 
@@ -55,20 +59,16 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/setting-Privacy.jpg)
 2. On the left panel, select**Microphone** , then click the**Change** button. Check if the toggle is**On** in the pop-up window. If it isn’t, toggle the switch to On.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-1.jpg)
 3. Now check to see if the toggle under**Allow apps to access your microphone** is turned On. If it isn’t, toggle the switch to On.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Check your microphone to see if it’s back to normal. If it isn’t, proceed to the next fix down below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Update your audio drivers
 
@@ -83,9 +83,17 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/Driver-Easy-5.7.2.jpg)
 3. Click the**Update** button next to the flagged audio drivers to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/DE-realtek-audio.jpg)
 4. After updating your audio drivers, reboot your computer for the trick to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The **[Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  comes with full technical support. If you need assistance, please contact Driver Easy’s support team at <support@drivereasy.com> .
 
@@ -109,12 +117,20 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
 6. Under the**Levels** tab, drag the microphone slider to the highest value and then click**OK** to save your changes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-3-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart your PC and test your microphone to see if it works properly now. If not, move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Reinstall Logitech Gaming Software
 
@@ -124,19 +140,11 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-4.jpg)
 2. Find the**Logitech Gaming Software** . Click on it and then click**Uninstall/Change** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-4-1.jpg)
 3. After uninstalling the program, head to ​[**Logitech’s support website**](https://support.logi.com/hc/en-us/articles/360025298053) and download the latest version of Logitech Gaming Software that matches your operating system.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/logitech-gaming-software-dedownlaod.jpg)
 4. Open the downloaded file and follow the on-screen instructions to install the software.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Connect your Logitech G935 to your computer and check the mic to see if you can use it now.
 
@@ -170,10 +178,6 @@ Top Pick
 
 [See It](https://www.amazon.com/dp/B08T9LM3LM?tag=ad00905-20&rfsn=7084458.e07eac)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 6: Run the audio troubleshooter
 
  If none of the above fixes work, you can try your luck with the audio troubleshooter. It’s a built-in tool that may be able to diagnose and fix a variety of common sound issues in your computer. To use it:
@@ -181,10 +185,6 @@ Top Pick
 1. Type**audio troubleshooter** in the search box on the taskbar, select**Find and fix problems with playing sound** from the results  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/audio-troubleshooter-1.jpg)
 2. Click**Next** and then follow the wizard to complete the troubleshooting process.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/audio-troubleshooter-2-1.jpg)
 
@@ -209,17 +209,16 @@ Top Pick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-capturing-adventures-which-camera-reigns-supreme-gopro-vs-virb/"><u>[New] 2024 Approved Capturing Adventures Which Camera Reigns Supreme? GoPro Vs. VIRB</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-discovering-the-secret-to-instagram-voice-change/"><u>[Updated] 2024 Approved Discovering the Secret to Instagram Voice Change</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-discovering-video-content-on-fb-a-comprehensive-guide/"><u>[Updated] Discovering Video Content on FB A Comprehensive Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-kickstart-your-twitch-streaming-journey/"><u>2024 Approved Kickstart Your Twitch Streaming Journey</u></a></li>
-<li><a href="https://win-dash.techidaily.com/associated-references-and-connections/"><u>Associated References & Connections</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capture-save-and-access-your-shots-seamlessly-with-free-and-paid-cloud-options/"><u>Capture, Save and Access Your Shots Seamlessly with Free & Paid Cloud Options</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-realtek-microphone-when-it-wont-work-anymore/"><u>How to Repair Your Realtek Microphone When It Won't Work Anymore</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-silent-firefox-issue-guide-to-fixing-the-lack-of-sound/"><u>Resolving Silent Firefox Issue – Guide to Fixing the Lack of Sound</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-2024-tutorial-eliminating-sound-lag-and-sync-issues/"><u>Ultimate 2024 Tutorial: Eliminating Sound Lag and Sync Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-10-audio-setup-made-easy-dealing-with-unrecognized-speaker-systems/"><u>Windows 10 Audio Setup Made Easy: Dealing with Unrecognized Speaker Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-10-speaker-setup-errors-heres-how-to-identify-and-solve-the-problem/"><u>Windows 10 Speaker Setup Errors? Here's How to Identify and Solve the Problem</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnet-explores-google-calendars-latest-upgrade-seamless-bookable-appointment-scheduling-unleashed/"><u>ZDNet Explores Google Calendar's Latest Upgrade: Seamless Bookable Appointment Scheduling Unleashed!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-best-free-downloaders-download-youtube-thumbnail-for-freeonlinewinmac/"><u>[New] 2024 Approved Best Free Downloaders Download YouTube Thumbnail for Free[Online/Win/Mac]</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-crafting-colours-with-care-top-5-displays-reviewed/"><u>[Updated] In 2024, Crafting Colours with Care Top 5 Displays Reviewed</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-join-ytp2024-strategies-for-thriving-on-youtube/"><u>[Updated] Join YTP2024 Strategies for Thriving on YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-total-capture-trio-setup/"><u>2024 Approved Total Capture Trio Setup</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/battlefield-unmute-4-sound-problems-and-solutions-for-gamers/"><u>Battlefield ([Un]Mute) 4 Sound Problems and Solutions for Gamers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-amplify-computer-sound-on-a-windows-10-operating-system/"><u>How to Amplify Computer Sound on a Windows 10 Operating System</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-samsung-galaxy-a14-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Samsung Galaxy A14 5G FRP Bypass</u></a></li>
+<li><a href="https://techidaily.com/is-your-nubia-red-magic-8s-proplus-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nubia Red Magic 8S Pro+ working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-epson-printer-setbacks-on-windows-11/"><u>Overcoming Epson Printer Setbacks on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-troubleshoot-no-sound-problems-on-your-apex-legends-device/"><u>Solved: Troubleshoot No Sound Problems on Your Apex Legends Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-disabling-audio-tweaks-in-windows-10-operating-system/"><u>Step-by-Step Tutorial: Disabling Audio Tweaks in Windows 10 Operating System</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Audio Excellence: Quick and Effective Ways to Test Your Mic at Home"
-date: 2024-08-27T21:08:11.841Z
-updated: 2024-08-28T21:08:11.841Z
+date: 2024-12-01T00:09:51.433Z
+updated: 2024-12-03T17:24:49.679Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hx-product-headset-alpha-s-black-2-lg-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’ve attached the microphone to your headset correctly but your mic still won’t catch your voice, try the next fix.
 
 ## Fix 2: Enable your headset mic for recording
@@ -50,30 +54,26 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 2. Go to the**Recording** tab and you should see your headset. If you can’t find it, it could be hidden or disabled. You can right-click an empty area then select Show**Disabled Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_16-57-37.jpg)
 3. Right-click your headset, then click**Enable** .  
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-05-17.jpg)
-4. Click**Apply** then**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-06-58.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-05-17.jpg)
+4. Click**Apply** then**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-06-58.jpg)
+
  If your headset is enabled for recording but the microphone is still not working, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Set your headset as the audio input device
 
  Using Cloud Alpha S is quite straightforward – you just need to plug it into your PC and it’s set as the audio output device of your PC automatically. But you may need to manually set it as the audio input device as well for the mic to work. Here’s how:
@@ -83,15 +83,9 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 2. **Select your headset as the input device** . It could be shown as HyperX Cloud Alpha S or Headset.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/set-input-device.jpg)
 3. Test your microphone.
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 
  If your headset is set as the input device but the mic still won’t work, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Turn on the mic access on your PC
 
  If you’ve tried the above fixes but nothing worked, then the problem may be on your PC. You may need to check if the microphone access on your PC is enabled. Here’s now:
@@ -99,12 +93,13 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 1. Type**microphone** in the search bar next to the Start button, and click**Microphone privacy settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-08-05.jpg)
 2. Click**Change** , then**turn on the microphone access** **for this device** .  
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-10-26.jpg)
 
 If this doesn’t fix your mic problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Update your audio driver
 
@@ -121,12 +116,13 @@ If this doesn’t fix your mic problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-54-35.jpg)
 3. Click the **Update**  button next to the flagged audio driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-54-43.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
  Hopefully this article solves your problem and you can now use your HyperX Cloud Alpha S for voice chatting or recording! Please feel free to leave a comment if you have any suggestions or questions.
@@ -141,8 +137,6 @@ If this doesn’t fix your mic problem, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +144,20 @@ If this doesn’t fix your mic problem, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-cost-effective-obs-tuning-steps/"><u>[New] In 2024, Cost-Effective OBS Tuning Steps</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unlocking-social-media-success-rising-through-the-facebook-leaderboard/"><u>[New] In 2024, Unlocking Social Media Success Rising Through the Facebook Leaderboard</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-affordable-android-chat-options-rated-top-ten/"><u>2024 Approved Affordable Android Chat Options Rated Top Ten</u></a></li>
+<li><a href="https://facebook.techidaily.com/are-my-phone-numbers-circulating-in-facebook-groups/"><u>Are My Phone Numbers Circulating in Facebook Groups?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-your-pc-now-the-ultimate-guide-to-resolving-shell32dll-not-found-dilemma/"><u>Fix Your PC Now: The Ultimate Guide to Resolving Shell32.dll Not Found Dilemma</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-voicemod-problems-with-these-expert-tips/"><u>Fix Your Voicemod Problems with These Expert Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-fixing-undetected-headphones-during-playback-in-windows-11-environments/"><u>Guide to Fixing Undetected Headphones During Playback in Windows 11 Environments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-jack-functionality-in-damaged-laptop-units-expert-fixes-uncovered/"><u>How to Restore Audio Jack Functionality in Damaged Laptop Units – Expert Fixes Uncovered</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016658684-mastering-discord-audio-no-more-silent-games/"><u>Mastering Discord Audio - No More Silent Games!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/speaker-crackling-in-windows-107-solved/"><u>Speaker Crackling in Windows 10/7 [SOLVED]</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-logitech-g230-microphone-a-complete-guide/"><u>Troubleshooting Your Logitech G230 Microphone: A Complete Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-origins-how-windows-meltdown-became-crowdstrikes-historic-challenge-techinsights/"><u>Unveiling the Origins: How Windows Meltdown Became CrowdStrike's Historic Challenge | TechInsights</u></a></li>
+</ul></div>
 

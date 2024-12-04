@@ -1,7 +1,7 @@
 ---
 title: Fixing Epson Scanner Malfunction in Windows 11
-date: 2024-11-19T22:49:13.232Z
-updated: 2024-11-24T23:12:16.144Z
+date: 2024-11-30T06:48:17.140Z
+updated: 2024-12-03T21:45:07.006Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why is my HP scanner not working?
 
@@ -56,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Enable Windows Image Acquisition (WIA) service and associated services
 
 **Windows Image Acquisition** **(WIA)** is a Microsoft model that allows graphics software to communicate with imaging hardware such as scanners and cameras. So you should enable WIA service in your computer if your scanner stops working. Here’s what you need to do:
@@ -68,23 +76,15 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd167eed749a.jpg)
 4. In the popup pane, ensure the**Startup type** is set**Automatic** , and the**Service status** is**Running** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd168549db26.jpg)  
  If the**Service status** is already**Running** , click**Stop** to stop the service, then click**Start** to re-enable the service.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**Apply** and**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1688e0055e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then restart your computer. Try to use your HP scanner again and see if it works now.
 
@@ -106,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
 4. Save the changes and try your scanner again to see if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your scanner driver (Windows PC)
 
@@ -141,7 +145,7 @@ Then try scanning with your scanner to see if it works.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware problems
@@ -152,17 +156,13 @@ Then try scanning with your scanner to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/cmd-run-as-admin.jpg)
 2. Copy & paste the following command line into the Command Prompt window and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `**msdt.exe -id DeviceDiagnostic**`
 3. Click**Next** in the popped-up window and the troubleshooter will start detecting hardware problems automatically.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/next-step.jpg)
 4. Follow the on-screen instructions to finish the troubleshooting and fix the detected issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After that, try your scanner again and see if it’s working properly.
@@ -199,7 +199,7 @@ To fix your issues, follow the steps below to run a full scan of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.
@@ -226,22 +226,24 @@ To fix your issues, follow the steps below to run a full scan of your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-step-by-step-instructions-producing-alluring-video-thumbnails-on-youtube/"><u>[New] Step-by-Step Instructions Producing Alluring Video Thumbnails on YouTube</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-social-media-snipping-an-easy-method-for-capturing-twitters-gifs-for-2024/"><u>[Updated] Social Media Snipping An Easy Method for Capturing Twitter’s GIFs for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/dissecting-the-nebula-mars-3-air-showcase-an-in-depth-look-at-this-elite-pocket-projectors-performance-limitations/"><u>Dissecting The Nebula Mars 3 Air Showcase: An In-Depth Look at This Elite Pocket Projector's Performance Limitations</u></a></li>
-<li><a href="https://fox-links.techidaily.com/easy-entry-to-excellence-understanding-high-definition-video/"><u>Easy Entry to Excellence Understanding High-Definition Video</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015662007-headphones-wont-connect-solve-audio-problems-in-windows-10-easily/"><u>Headphones Won't Connect? Solve Audio Problems in Windows 10 Easily!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-chatting-capabilities-for-gaming-enthusiasts-on-ps4-xbox-one-and-pc-versions-of-warzone/"><u>How to Restore Audio Chatting Capabilities for Gaming Enthusiasts on PS4, Xbox One & PC Versions of Warzone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-unresponsive-speakers-or-earphones-on-windows-operating-systems/"><u>How to Troubleshoot Unresponsive Speakers or Earphones on Windows Operating Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/lost-volume-heres-how-to-repair-the-audio-glitch-in-fortnite-gaming/"><u>Lost Volume? Here’s How to Repair the Audio Glitch in Fortnite Gaming</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/master-your-pc-setup-with-advice-from-toms-hardware-pros/"><u>Master Your PC Setup with Advice From Tom's Hardware Pros</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-best-free-mov-video-editing-software-top-picks/"><u>New Best Free MOV Video Editing Software Top Picks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-hdmi-usage-conflicts-with-applications-for-seamless-connectivity/"><u>Overcoming HDMI Usage Conflicts with Applications for Seamless Connectivity</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-the-sound-quality-of-your-dell-pc-with-easy-fixes-on-windows-7/"><u>Revive the Sound Quality of Your Dell PC with Easy Fixes on Windows 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-audio-problems-in-audacity-top-5-fixes-for-sound-device-issues/"><u>Solve Audio Problems in Audacity: Top 5 Fixes for Sound Device Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-silence-repairing-your-quiet-stereo-receiver/"><u>Solving the Silence: Repairing Your Quiet Stereo Receiver</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/techniques-for-epochal-transition-scenes-for-2024/"><u>Techniques for Epochal Transition Scenes for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-game-companion-logitech-g533-reviewed/"><u>The Ultimate Game Companion - Logitech G533 Reviewed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-7-microphone-not-working-problems-solved/"><u>Windows 7 Microphone Not Working Problems [Solved]</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-insights-into-magix-video-pro-xs-design/"><u>[New] Expert Insights Into Magix Video Pro X's Design</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-introducing-high-quality-capture-with-yi/"><u>[New] In 2024, Introducing High-Quality Capture with YI</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-the-most-advanced-virtual-reality-engines-of-2023/"><u>[New] In 2024, The Most Advanced Virtual Reality Engines of 2023</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-infinite-jest-joyride-top-kids-game-lineup/"><u>[New] Infinite Jest Joyride - Top Kids' Game Lineup</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/beyond-hp-and-lenovo-discover-the-best-performing-2-in-1-laptops-tested-by-experts-at-zdnet/"><u>Beyond HP & Lenovo: Discover the Best Performing 2-in-1 Laptops Tested by Experts at ZDNet</u></a></li>
+<li><a href="https://win-popular.techidaily.com/comprehensive-guide-mastering-all-features-of-aomei-software/"><u>Comprehensive Guide: Mastering All Features of AOMEI Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-get-your-runmud-gaming-setup-microphone-working-again/"><u>Expert Tips to Get Your Runmud Gaming Setup Microphone Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-device-connectivity-solutions-for-speaker-and-headphones-not-recognized-in-windows-systems/"><u>Fixing Audio Device Connectivity: Solutions for Speaker and Headphones Not Recognized in Windows Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-windows-1011-bluetooth-sound-interruptions-and-freezing/"><u>Fixing Windows 10/11 Bluetooth Sound Interruptions and Freezing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-back-into-action-in-cs2-fix-mic-not-working-guide/"><u>Get Back Into Action in CS2 - Fix Mic Not Working Guide</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-to-correctly-address-and-fix-error-0x80070652-during-a-windows-10-update/"><u>How to Correctly Address and Fix Error 0X80070652 During a Windows 10 Update</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/how-to-fix-statusdevicepowerfailure-bluetooth-error-on-windows-10/"><u>How to Fix Status_Device_Power_Failure Bluetooth Error on Windows 10</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-11-pro-how-to-unlock-a-disabled-iphone-11-pro-by-drfone-ios/"><u>In 2024, Disabled iPhone 11 Pro How to Unlock a Disabled iPhone 11 Pro?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-the-dilemma-of-speaker-sounds-with-headphones-connected/"><u>Resolving the Dilemma of Speaker Sounds with Headphones Connected</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-non-functioning-obs-computer-mic-and-microphone-problems/"><u>Step-by-Step Solutions for Non-Functioning OBS Computer Mic & Microphone Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-turtle-beach-rivalry-not-working-issue/"><u>Step-by-Step Solutions for Turtle Beach Rivalry Not Working Issue</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streaming-wars-the-ultimate-twitch-vs-youtube-battle/"><u>Streaming Wars The Ultimate Twitch Vs. YouTube Battle</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/successfully-installing-the-idt-high-definition-audio-codec-driver-on-windows-10-a-step-by-step-guide/"><u>Successfully Installing the IDT High Definition Audio Codec Driver on Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fix-for-when-your-laptops-speakers-arent-working/"><u>Ultimate Fix for When Your Laptop's Speakers Aren't Working</u></a></li>
 </ul></div>
 

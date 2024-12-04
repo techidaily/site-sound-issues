@@ -1,7 +1,7 @@
 ---
 title: Fixing HDMI Audio Issues on Windows 7 - Step-by-Step Guide
-date: 2024-11-21T17:32:34.534Z
-updated: 2024-11-24T19:06:01.466Z
+date: 2024-11-29T21:31:16.275Z
+updated: 2024-12-04T01:18:50.075Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ Read on and follow the easy-doing images below!
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1: Try the generic audio driver
 
  Sound keeps cutting out on Windows 10 could relate to problematic audio driver. To see if this is the case, you can try the generic sound driver provided by Windows and see if it works. To do so:
@@ -38,21 +42,18 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a273f85c31.png)
 2. Double-click**Sound, video, and game controllers** . Then right-click the audio device driver that you have and choose**Update driver** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a27949ffeb.png)
 3. Choose**Browse my computer for driver software** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28445c675.png)
 4. Then choose**Let me pick from a list of available drivers on my computer** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a286f3d5de.png)
 5. Make sure the box for**Show compatible hardware** is**TICKED** . Then choose**High Definition Audio Device** from the list, and hit**Next** to continue.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28cccfd3f.png)
 6. You will see the warning asking you whether you want to go on with the installation, click**Yes** to continue.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a294398588.png)
@@ -76,10 +77,6 @@ Read on and follow the easy-doing images below!
 
  If your computer sound still keeps cutting out, please move on to the next option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Option 2: Change Sound Enhancement Settings
 
  The audio enhancements feature could interfere with the sound output, and therefore cause problems like sound keeping cutting out. To see if this is your case:
@@ -91,18 +88,14 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
 
@@ -116,19 +109,29 @@ Read on and follow the easy-doing images below!
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Try to play audio with your computer again to see if the sound still cuts out.
@@ -154,20 +157,14 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-instant-interaction-the-art-of-crafting-instagram-stories-questions-for-2024/"><u>[New] Instant Interaction The Art of Crafting Instagram Stories Questions for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-crafting-a-verified-instagram-account-essential-actions-for-rapid-follower-expansion/"><u>2024 Approved Crafting a Verified Instagram Account Essential Actions for Rapid Follower Expansion</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-together-a-list-of-engaging-metaverse-games/"><u>2024 Approved Explore Together A List of Engaging Metaverse Games</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-nokia-c12-unlock-without-password-by-drfone-android/"><u>5 Solutions For Nokia C12 Unlock Without Password</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-oppo-find-x7-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Oppo Find X7 to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-note-taking-skills-to-pro-levels-with-chatgpts-powerful-tools/"><u>Elevate Your Note-Taking Skills to Pro Levels with ChatGPT's Powerful Tools</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-virtual-takeoff-the-top-6-predictive-innovations-in-its-metaverse-project/"><u>Facebook’s Virtual Takeoff: The Top 6 Predictive Innovations in Its Metaverse Project</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/gamegazers-graphic-guide/"><u>GameGazer's Graphic Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-discord-voice-chat-connectivity-problems-effectively/"><u>How to Resolve 'Discord Voice Chat' Connectivity Problems Effectively</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-more-silence-fast-and-easy-solutions-for-restoring-computer-audio/"><u>No More Silence: Fast and Easy Solutions for Restoring Computer Audio</u></a></li>
-<li><a href="https://win-net.techidaily.com/resolving-cannot-access-account-problems-on-microsoft-office-365-for-seamless-productivity/"><u>Resolving 'Cannot Access Account' Problems on Microsoft Office ^365 for Seamless Productivity</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/sensor-malfunction-fingerprint-read-issues/"><u>Sensor Malfunction: Fingerprint Read Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-sound-glitches-and-quality-issues-in-audio-playback-on-windows-10-and-7/"><u>Solving Sound Glitches and Quality Issues in Audio Playback on Windows 10 & 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/sound-keeps-cutting-out-on-windows-10-solved/"><u>Sound Keeps Cutting Out on Windows 10 [Solved]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-restoring-functionality-of-a-malfunctioning-sennheiser-game-one-mic/"><u>Step-by-Step Guide: Restoring Functionality of a Malfunctioning Sennheiser Game One Mic</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-the-log-4-strategies-to-document-facebook-discussions/"><u>[New] Mastering the Log 4 Strategies to Document Facebook Discussions</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-high-cpu-usage-by-wmi-service/"><u>Addressing High Cpu Usage by WMI Service</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-stuttering-sounds-repair-guide-quick-fix-tips/"><u>Cyberpunk 2077 Stuttering Sounds Repair Guide - Quick Fix Tips</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-max-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro Max To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-quality-improvement-for-skype-video-calls/"><u>In 2024, Quality Improvement for Skype Video Calls</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-playback-issues-solving-windows-11-and-7-sound-stuttering-and-distortion-challenges/"><u>Overcome Playback Issues: Solving Windows 11 and 7 Sound Stuttering and Distortion Challenges</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-problem-of-discord-voice-chat-not-responding-correctly/"><u>Solving the Problem of Discord Voice Chat Not Responding Correctly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-15-uncomplicated-vlog-ideas-to-ignite-creativity/"><u>Top 15 Uncomplicated Vlog Ideas to Ignite Creativity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-audio-issues-on-your-obs-desktop-setup/"><u>Troubleshooting Guide: Resolving Audio Issues on Your OBS Desktop Setup</u></a></li>
 </ul></div>
 

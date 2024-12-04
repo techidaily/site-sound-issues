@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Repairing Your Razer BlackShark V2's Nonfunctional Mic
-date: 2024-11-22T21:00:34.334Z
-updated: 2024-11-24T18:39:42.006Z
+date: 2024-11-27T22:34:18.787Z
+updated: 2024-12-03T23:41:16.634Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -48,23 +52,19 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
   
 ![turn on app permissions on your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/turn-on-app-permissions-for-your-micropho0ne.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Under the**Allow apps to access your microphone** section, make sure it’s turned**On** .  
   
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Once you’ve allowed microphone access to your apps, you can change the settings for each app. Simply head to the**Choose which Microsoft apps can access your microphone** , and turn on apps you want to use with it. For desktop apps, make sure that**Allow desktop apps to access your microphone** is turned**On** .
 
  After you’ve done all of these, try to use your headset microphone and check if it’s working properly. If the issue persists, try the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Make sure your mic isn’t disabled
 
@@ -74,29 +74,21 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under the**Input** section, make sure that your headset is showing. Then click**Device Properties** .  
   
 ![sound settings input section](https://images.drivereasy.com/wp-content/uploads/2021/02/Input-section-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Make sure that your headset is not disabled.  
   
 ![make sure your headset isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/02/make-sure-your-headset-isnt-disabled.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After you’ve confirmed that your microphone is enabled, do a test to check if it’s now back to normal. If the microphone is still not working properly, try the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Set your microphone device as default
 
@@ -110,9 +102,17 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
   
 ![Open Sound Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-control-panel.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select the**Recording** tab. Select your microphone and then click**Set Default > OK** .  
   
 ![set your device as default](https://images.drivereasy.com/wp-content/uploads/2021/02/set-it-as-default.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When it’s all done, use your microphone to check if it’s working now. If you’re still having the same problem, try the next fix below.
 
@@ -132,14 +132,14 @@ Here’s how to update drivers with Driver Easy:
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![update audio driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/12/update-audio-driver-automatically-with-Driver-Easy.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -174,22 +174,22 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-mastering-the-art-of-naming-your-podcast-right-and-50plus-creative-title-suggestions/"><u>[New] Mastering the Art of Naming Your Podcast Right & 50+ Creative Title Suggestions</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-useful-tips-and-apps-for-taking-amazing-android-photography/"><u>[Updated] 2024 Approved Useful Tips and Apps for Taking Amazing Android Photography</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-profit-strategies-in-youtube-marketing-for-2024/"><u>[Updated] Profit Strategies in YouTube Marketing for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-fixing-the-problem-hidden-thumbnails-in-youtube-shorts/"><u>2024 Approved Fixing the Problem Hidden Thumbnails in YouTube Shorts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016008656-common-problems-and-fixes-for-a-malfunctioning-logitech-g230-microphone-resolved/"><u>Common Problems and Fixes for a Malfunctioning Logitech G230 Microphone - Resolved!</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-add-funds-and-buy-games-on-the-playstation-store/"><u>How to Add Funds and Buy Games on the PlayStation Store</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/immediate-solutions-for-fixing-voice-chat-problems-in-fortnite-get-started-today/"><u>Immediate Solutions for Fixing Voice Chat Problems in Fortnite - Get Started Today!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-apple-iphone-11-pro-max-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix My Apple iPhone 11 Pro Max Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-streamline-gameplay-utilizing-steams-switch-controller/"><u>In 2024, Streamline Gameplay Utilizing Steam's Switch Controller</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/recognizing-and-fixing-blue-yeti-not-detected-error-messages-effectively/"><u>Recognizing and Fixing Blue Yeti Not Detected Error Messages Effectively</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-audio-resolving-the-silent-airpods-problem-on-windows-1110-systems/"><u>Restoring Audio: Resolving the Silent AirPods Problem on Windows 11/10 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016983310-reviving-hdmi-sound-outputs-for-your-windows-presso-pc-easy-fixes/"><u>Reviving HDMI Sound Outputs for Your Windows Presso PC - Easy Fixes!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-setting-up-new-audio-devices-on-windows-10/"><u>Step-by-Step Guide: Setting Up New Audio Devices on Windows 10</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-producing-youtube-trailers-using-filmora-for-2024/"><u>Step-by-Step Producing YouTube Trailers Using Filmora for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-tutorial-legally-downloading-high-quality-drake-tracks-as-mp4-aac-or-wma/"><u>Step-by-Step Tutorial: Legally Downloading High-Quality Drake Tracks as MP4, AAC, or WMA</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-eliminating-crackling-noise-from-arctis-7-headphones-in-windows/"><u>Troubleshooting Guide: Eliminating Crackling Noise From Arctis 7 Headphones in Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-overcoming-issues-with-the-non-opening-of-realtek-sound-driver/"><u>Troubleshooting Guide: Overcoming Issues with the Non-Opening of Realtek Sound Driver</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-innovative-free-chat-platforms-with-shared-screen-viewing/"><u>[New] Innovative Free Chat Platforms with Shared Screen Viewing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-action-shooting-basics-buying-guide-for-new-film-enthusiasts/"><u>[Updated] Action Shooting Basics – Buying Guide for New Film Enthusiasts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-making-your-corsair-virtuoso-microphone-function-again/"><u>Expert Advice on Making Your Corsair Virtuoso Microphone Function Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-guide-resolving-microsoft-teams-microphone-malfunction-on-windows-operating-systems-windows-1110/"><u>Expert Guide: Resolving Microsoft Teams Microphone Malfunction on Windows Operating Systems (Windows 11/10)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-tecno-spark-20-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-picks-the-best-steadicams-for-top-notch-dslr-filming/"><u>In 2024, Expert Picks The Best Steadicams for Top-Notch DSLR Filming</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-reno-8t-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 8T 5G Phone without Google Account?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-proven-strategies-for-implementing-visual-enhancements-in-media/"><u>In 2024, Proven Strategies for Implementing Visual Enhancements in Media</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-infinix-hot-30i-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Infinix Hot 30i Phone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/laptop-sound-not-playing-master-the-steps-to-bring-back-audio-clarity/"><u>Laptop Sound Not Playing? Master the Steps to Bring Back Audio Clarity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-tozo-t6-problems-on-your-windows-11-system/"><u>Overcoming Tozo T6 Problems on Your Windows 11 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reactivate-your-steam-voice-chat-quick-solutions-inside/"><u>Reactivate Your Steam Voice Chat - Quick Solutions Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-echoes-effective-steps-to-troubleshoot-your-lenovos-lack-of-sound/"><u>Restoring Echoes: Effective Steps to Troubleshoot Your Lenovo's Lack of Sound</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reveling-in-success-how-to-tackle-and-overcome-error-0x800700e9-on-xbox-game-pass-and-windows-11/"><u>Reveling in Success: How to Tackle and Overcome Error 0X800700E9 on Xbox Game Pass & Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-linking-the-oculus-quest-2-vr-headset-to-your-smartphone/"><u>Step-by-Step Tutorial: Linking the Oculus Quest 2 VR Headset to Your Smartphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-techniques-for-new-world-sound-glitches/"><u>Troubleshooting Techniques for New World Sound Glitches</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/turtle-beach-recon-70-headset-mic-issue-heres-how-to-repair-it/"><u>Turtle Beach Recon 70 Headset Mic Issue? Here's How to Repair It</u></a></li>
 </ul></div>
 

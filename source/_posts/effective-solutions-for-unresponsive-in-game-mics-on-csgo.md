@@ -1,7 +1,7 @@
 ---
 title: "Effective Solutions for Unresponsive In-Game Mics on CS:GO"
-date: 2024-11-23T02:27:41.301Z
-updated: 2024-11-24T23:16:42.839Z
+date: 2024-11-29T16:52:06.575Z
+updated: 2024-12-03T23:58:10.810Z
 tags:
   - win11
   - win10
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
  3) After those testing, see if the sound comes from your speakers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 2: Update your speakers related drivers
 
  An old, corrupted or missing driver related your speakers can also cause this error, like**a sound card driver** ,**a Bluetooth driver** (if yo’re using a Bluetooth speakers). You can solve it through updating the driver.
@@ -63,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to any falgged driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
@@ -72,21 +68,17 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 
- 4) Play a music or video on your laptop to see if the sound comes from the speakers.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 4) Play a music or video on your laptop to see if the sound comes from the speakers.
 
 ## Method 3\. Reset your sound controller
 
  If unluckily, neither method 1 nor method 2 helps you fix the error, try to reset your sound controller.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdf8f58307f.png)**  and **R**  (at the same time) to invoke the Run command.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Type **devmgmt.msc**  and press **Enter** .
 
@@ -96,9 +88,17 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c40611eb6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c3e821f53.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then you may find its icon ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c3c1585ef.png) change into ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c4aebac0d.png) .
 
@@ -107,7 +107,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c4fd4b764.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Play a music or video on your laptop to see if the sound comes from the speakers.
@@ -129,20 +129,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-reason-behind-photo-booth-video-stalls/"><u>[New] Reason Behind Photo Booth Video Stalls</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/treamlining-your-spotify-to-youtube-music-library-transition/"><u>[New] Streamlining Your Spotify to YouTube Music Library Transition</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-top-10-no-cost-image-servers-always-preserve-your-pics-for-2024/"><u>[New] Top 10 No-Cost Image Servers, Always Preserve Your Pics for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-obs-walkthrough-turn-your-screen-into-a-youtube-live-showcase/"><u>2024 Approved OBS Walkthrough Turn Your Screen Into a Youtube Live Showcase</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/achieve-clear-and-smooth-video-outputs-with-these-logitech-camera-insights/"><u>Achieve Clear & Smooth Video Outputs with These Logitech Camera Insights</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016139315-audio-restoration-tips-for-windows-11-users-say-goodbye-to-silence/"><u>Audio Restoration Tips for Windows 11 Users - Say Goodbye to Silence</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-repair-guide-for-iphone-sounds-restoring-audio-functionality/"><u>DIY Repair Guide for iPhone Sounds – Restoring Audio Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-overcoming-sound-issues-in-the-popular-video-game-outriders/"><u>Expert Advice: Overcoming Sound Issues in the Popular Video Game, Outriders</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-your-microsoft-teams-microphone-working-again-on-pc-tips-for-win11-and-win10-users/"><u>Getting Your Microsoft Teams Microphone Working Again on PC: Tips for Win11 and Win10 Users</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-making-money-with-media-mastery-of-merchandise-musings/"><u>In 2024, Making Money with Media Mastery of Merchandise Musings</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-performance-of-googles-battery-powered-wireless-nest-doorbell/"><u>In-Depth Analysis: Performance of Google’s Battery-Powered Wireless Nest Doorbell</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-audio-in-windows-media-player-step-by-step-solutions-for-no-sound-issues/"><u>Reviving Audio in Windows Media Player: Step-by-Step Solutions for No Sound Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-low-sound-volume-problems-on-a-windows-10-computer/"><u>Solving Low Sound Volume Problems on a Windows 10 Computer</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/winning-over-silent-pcs-after-a-windows-10-update-a-simple-solution/"><u>Winning Over Silent PCs After a Windows 10 Update – A Simple Solution</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-uncomplicated-techniques-for-keeping-a-transcript-of-google-voice-calls-for-2024/"><u>[Updated] Uncomplicated Techniques for Keeping a Transcript of Google Voice Calls for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-acoustiquest-investigating-soundscape/"><u>2024 Approved AcoustiQuest Investigating Soundscape</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-ways-to-address-lack-of-sound-on-skype-calls/"><u>Easy Ways to Address Lack of Sound on Skype Calls</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-resolving-non-responsive-bluetooth-in-windows-11-systems/"><u>Guide to Resolving Non-Responsive Bluetooth in Windows 11 Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location on Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-oppo-reno-11-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Oppo Reno 11 Pro 5G FRP Bypass</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-canon-video-editing-made-easy-a-beginners-guide-to-professional-results/"><u>In 2024, Canon Video Editing Made Easy A Beginners Guide to Professional Results</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/last-chance-score-amazing-savings-on-tvs-during-prime-day-find-your-perfect-offer-among-the-best-65-deals/"><u>Last Chance! Score Amazing Savings on TVs During Prime Day - Find Your Perfect Offer Among the Best 65 Deals</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-logitech-g-pro-x-sound-issues-a-comprehensive-guide-for-gamers/"><u>Solving the Logitech G Pro X Sound Issues: A Comprehensive Guide for Gamers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/taking-screenshot-on-windows-1087/"><u>Taking Screenshot on Windows 10/8/7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-solution-to-fix-conexant-smartaudios-audio-failure-on-your-windows-tenth-device/"><u>The Ultimate Solution to Fix Conexant SmartAudio's Audio Failure on Your Windows Tenth Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-opening-the-realtek-hd-audio-controller-successfully/"><u>Troubleshooting Guide: Opening the RealTek HD Audio Controller Successfully</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-speaker-distortion-on-windows-11-and-7-resolved/"><u>Troubleshooting Speaker Distortion on Windows 11 & 7 - Resolved</u></a></li>
 </ul></div>
 

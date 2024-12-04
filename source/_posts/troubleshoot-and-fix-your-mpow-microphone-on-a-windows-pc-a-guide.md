@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot and Fix Your MPOW Microphone on a Windows PC - A Guide
-date: 2024-08-27T21:12:11.321Z
-updated: 2024-08-28T21:12:11.321Z
+date: 2024-12-02T17:19:22.946Z
+updated: 2024-12-03T18:09:43.659Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83d
 
  Before you proceed to the more complicated fixes, try**restarting your browser and computer** . A simple restart can sometimes perfectly resolve the microphone glitch.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Update your audio driver
 
  If you’re using a faulty, corrupted or outdated audio driver, various audio issues will occur. You may find the microphone is malfunctioning or there’s no sound when using Google Meet. To fix the issue, make sure you install the latest correct audio driver.
@@ -44,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83d
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-driver-update-de.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -56,22 +64,19 @@ thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83d
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the Settings menu. Select**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-2.jpg)
 2. Select**Microphone** . Then on the right pane, click the**Change** button and turn Microphone access for this device to**On** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 3. Scroll down and make sure the button under**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** is set to**On** . This makes it possible for your browser to access the microphone.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you complete the steps, check if Google Meet can pick up your voice. If not, move on to the next method below.
 
 ### Fix 3 – Check your PC sound settings
@@ -81,30 +86,21 @@ thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83d
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Then type**mmsys.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-1.jpg)
 2. Navigate to the**Recording** tab. First make sure your microphone is enabled (showing a green checkmark). If it’s not and displays a grey down-arrow icon, right-click it and click**Enable** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-3.jpg)
 3. Click the**Microphone** you would like to use and click**Set Default** .  
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
 4. You also need to set the microphone volume to a proper level: right-click the microphone and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-6-1.jpg)
 5. Click the**Levels** tab and drag the microphone slider to turn the volume to the max. Then click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-2-1.jpg)
 
  Test your microphone again to see if it works without problem. If the issue persists, check out the next solution below.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4 – Check Google Meet’s settings
 
  Normally, your browser and Google Meet will use the microphone you set as default on your computer, but in case something messed up, you can manually check if Google Meet is identifying and accessing the correct audio device.
@@ -115,11 +111,13 @@ The powerful video editing program for your Windows PC</a>
 3. Click the**vertical ellipsis icon** at the top left and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-2.jpg)
 4. From the drop-down menu under Microphone, select your primary microphone.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-3.jpg)
+
  If you still can’t use the microphone in Google Meet, the last resort is to**double-check the physical connection** .
 
  For example, if you’re using a wired headset, make sure it’s securely plugged in and check if your USB ports are functioning well. If you use a Bluetooth headset, try repairing it to your computer and see how things go.
@@ -138,8 +136,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +143,26 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-oscillation-crafting-box/"><u>[New] 2024 Approved Oscillation Crafting Box</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-transforming-raw-footage-into-youtube-gold-via-sony-vegas/"><u>[New] Transforming Raw Footage Into YouTube Gold via Sony Vegas</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-money-smart-aerial-explorers-5-best-drones-for-less-than-100-for-2024/"><u>[Updated] Money-Smart Aerial Explorers 5 Best Drones for Less Than $100 for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-ultimate-11-easy-to-operate-kids-wet-weather-camcorders/"><u>2024 Approved The Ultimate 11 Easy-to-Operate Kids' Wet Weather Camcorders</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-gratis-trimmers-video-di-windows-11-8-o-7-e-macos-come-eliminare-i-righe-indesiderate-dai-tuoi-file/"><u>Best Gratis Trimmers Video Di Windows 11, 8 O 7 E macOS: Come Eliminare I Righe Indesiderate Dai Tuoi File</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-nokia-g22-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Nokia G22 Phones with/without a PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-of-overwatchs-voice-communication-tackling-push-to-talk-failures/"><u>How to Restore Functionality of Overwatch's Voice Communication: Tackling Push-to-Talk Failures</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/laptop-audio-issues-resolved-how-to-fix-sound-malfunctions/"><u>Laptop Audio Issues Resolved: How to Fix Sound Malfunctions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-delay-boost-your-bluetooth-audio-quality-instantly/"><u>No More Delay? Boost Your Bluetooth Audio Quality Instantly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simple-steps-for-connecting-a-laptop-to-a-bluetooth-speaker-instantly/"><u>Simple Steps for Connecting a Laptop to a Bluetooth Speaker Instantly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-hp-laptops-silent-dilemma-fixing-the-audio-issue-once-and-for-all/"><u>Solve Your HP Laptop's Silent Dilemma: Fixing the Audio Issue Once & For All</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-side-hustles-with-chatgpt-earn-extra-income-while-mastering-tech/"><u>Top Side Hustles with ChatGPT: Earn Extra Income While Mastering Tech</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-no-audio-output-despite-properly-plugged-in-speakers-on-pc/"><u>Troubleshooting No Audio Output Despite Properly Plugged-In Speakers on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-how-to-restore-audio-on-non-working-desktop-speakers/"><u>Troubleshooting Steps: How to Restore Audio on Non-Working Desktop Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-arctis-7-noise-issue-a-comprehensive-guide-for-windows-users/"><u>Troubleshooting the Arctis 7 Noise Issue: A Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unplugged-bliss-selecting-smartphone-slowdowns-for-2024/"><u>Unplugged Bliss Selecting Smartphone Slowdowns for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015700338-why-isnt-my-windows-7-microphone-working-fixes-revealed/"><u>Why Isn't My Windows 7 Microphone Working? Fixes Revealed!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/xr30-microphone-woes-solved-step-by-step-troubleshooting-and-repair-for-gamers/"><u>XR30 Microphone Woes Solved: Step-by-Step Troubleshooting & Repair for Gamers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Issues with Your Jabra Headset - Expert Tips & Fixes
-date: 2024-11-19T18:15:23.439Z
-updated: 2024-11-24T19:57:03.667Z
+date: 2024-11-29T21:03:29.984Z
+updated: 2024-12-04T04:54:29.327Z
 tags:
   - win11
   - win10
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
  After confirming that your audio device is not the problem, go ahead with the fixes below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Check the Voice Chat settings
@@ -63,13 +63,13 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/turn-on-voice-chat.jpg)
 3. Close the game on PC, and then relaunch it on your console.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now check if voice chat functions properly.
 
  If this method doesn’t solve your problem, simply continue to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Check your Stadia or Windows 10 Privacy Settings
 
@@ -89,12 +89,25 @@ Now check if voice chat functions properly.
 3. Type**ms-settings:privacy-microphone** and hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-ms-settings-privacy-microphone.jpg)
 4. Under**Allow apps to access your microphone** , make sure the toggle is set to**ON** . If not, you can click the**Change** button above to turn it on.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-apps-to-access-your-microphone.jpg)
 5. Scroll down the list of apps below that toggle to find**Destiny 2** . Make sure it is also toggled to**ON** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. **Relaunch** the game and check if the in-game voice chat is working.
 
 If this fix doesn’t do the trick, move on to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -115,28 +128,16 @@ If this fix doesn’t do the trick, move on to the next one.
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-scan.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your audio driver, restart your PC and test if you can talk with your friends in Destiny 2.
 
 If this solution doesn’t work for you, check out the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Reset your audio settings (Console)
 
@@ -148,7 +149,7 @@ If this solution doesn’t work for you, check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/ps4-square.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Xbox:**
@@ -158,10 +159,6 @@ If this solution doesn’t work for you, check out the next fix.
 Now you can check if the voice chat feature works properly in Destiny 2.
 
 If this method still gives you no luck, take a look at the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Check your sound settings (PC)
 
@@ -173,11 +170,20 @@ If this method still gives you no luck, take a look at the next one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/volume-mixer.jpg)
 3. Right-click the**Speakers** icon again and select**Sounds** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/sounds.jpg)
 4. Choose the**Playback** tab,**select the headphones** you want to use, and click Set Default.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/headphones-set-default.jpg)
 5. Navigate to the Recording tab, select the microphone you want to use, and click**Set Default** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/microphone-set-default.jpg)
 6. Click**OK** to save changes.  
@@ -188,10 +194,6 @@ If this method still gives you no luck, take a look at the next one.
 
 If not, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Restart Windows Audio Service
 
  Windows Audio service manages audio devices for Windows-based programs. If this service is stopped, your audio devices will not function properly. To fix the voice chat not working issue, you can try restarting this service. Here’s how:
@@ -200,16 +202,16 @@ If not, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/services.msc_.jpg)
 2. In the pop-up window, scroll down the services list and locate**Windows Audio** . Then right-click on it and select**Restart** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/restart-windows-audio.jpg)
 3. Check that your microphone is now working.
 
 4. If your microphone doesn’t work, right-click**Windows Audio** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/windows-audio-properties.jpg)
 5. In the Windows Audio properties window, check if the**Startup type** is set to Automatic. If not,**set it to Automatic** and click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/audio-automatic-ok.jpg)
 
@@ -244,19 +246,20 @@ If the issue remains, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-luminous-designs-examination-pinnacle-studio-audit/"><u>[New] Luminous Designs Examination Pinnacle Studio Audit</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-transforming-engagement-on-instagram-top-10-compelling-igtv-content-concepts-for-brands/"><u>[New] Transforming Engagement on Instagram Top 10 Compelling IGTV Content Concepts for Brands</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-quick-clicks-big-grins-the-kinemaster-way/"><u>[Updated] Quick Clicks, Big Grins The KineMaster Way</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-seamlessly-backup-your-camera-roll-exporting-to-snapchat-made-easy/"><u>[Updated] Seamlessly Backup Your Camera Roll Exporting to Snapchat Made Easy</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pioneering-podcast-production-writing-and-examples-guide/"><u>2024 Approved Pioneering Podcast Production Writing & Examples Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-soundless-facebook-video-glitches-on-pc-expert-tips/"><u>Fixing Soundless Facebook Video Glitches on PC - Expert Tips</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/from-live-chat-to-large-screen-upload-twitch-streams-to-youtube/"><u>From Live Chat to Large Screen Upload Twitch Streams to YouTube</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-master-9-fixes-for-youtube-buffering-woes/"><u>In 2024, Master 9 Fixes for YouTube Buffering Woes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015821825-laptop-audio-not-working-solve-the-silent-problem-today/"><u>Laptop Audio Not Working? Solve the Silent Problem Today!</u></a></li>
-<li><a href="https://facebook.techidaily.com/revisiting-those-who-youve-shunned-on-facebook/"><u>Revisiting Those Who You’ve Shunned on Facebook</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-your-blue-yeti-microphone-expert-tips-to-get-it-working-again/"><u>Trouble With Your Blue Yeti Microphone? Expert Tips to Get It Working Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-no-sound-in-windows-11-effective-strategies-for-audio-restoration/"><u>Troubleshoot and Repair No Sound in Windows 11: Effective Strategies for Audio Restoration</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unmuted-success-diagnosing-and-repairing-audio-failures-in-lenovo-systems/"><u>Unmuted Success: Diagnosing and Repairing Audio Failures in Lenovo Systems</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Where Is the Best Place to Catch Dratini On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-essential-steps-from-production-to-apple-store-placement/"><u>[New] Essential Steps From Production to Apple Store Placement</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/decoding-bda-graphics-through-visual-rendering/"><u>Decoding BDA Graphics Through Visual Rendering</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016998783-expert-tips-resolve-windows-10s-audio-problems-using-these-five-simple-solutions/"><u>Expert Tips: Resolve Windows 10'S Audio Problems Using These Five Simple Solutions.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016631568-immediate-fixes-for-non-functioning-voice-chat-in-fortnite-step-by-step/"><u>Immediate Fixes for Non-Functioning Voice Chat in Fortnite - Step by Step</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-basic-to-brilliant-top-10-pixlr-techniques/"><u>In 2024, From Basic to Brilliant Top 10 Pixlr Techniques</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-samsungs-print-drivers-on-windows-tips-and-tricks-for-a-seamless-setup-issues-resolved/"><u>Mastering Samsung's Print Drivers on Windows: Tips and Tricks for a Seamless Setup [ISSUES RESOLVED]</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/mastering-youtube-brand-visuals-the-ultimate-creation-guide/"><u>Mastering YouTube Brand Visuals The Ultimate Creation Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/sion-poetry-the-news-outro-art-for-2024/"><u>Precision Poetry The News Outro Art for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-da-converter-quiet-problem-heres-how-you-can-bring-back-the-volume/"><u>Realtek D/A Converter Quiet Problem? Here’s How You Can Bring Back the Volume!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-microphone-problems-heres-how-you-can-solve-them/"><u>Realtek Microphone Problems? Here's How You Can Solve Them</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-issues-with-nonfunctional-mics-in-your-kotion-g2000-setup/"><u>Solving Issues with Nonfunctional Mics in Your Kotion G2000 Setup</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-to-restore-kotion-each-g2000-microphones-back-to-working-condition/"><u>Step-by-Step Tutorial to Restore KOTION Each G2000 Microphones Back to Working Condition</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-a-detailed-guide-to-stream-to-instagram-with-an-rtmp-for-2024/"><u>Updated A Detailed Guide To Stream to Instagram With an RTMP for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/valheims-silent-world-how-to-restore-your-game-audio-on-a-windows-computer/"><u>Valheim's Silent World - How to Restore Your Game Audio on a Windows Computer</u></a></li>
 </ul></div>
 

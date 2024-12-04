@@ -1,7 +1,7 @@
 ---
 title: "Apex Legends Silent Playthrough Solved: Sound Issues Addressed"
-date: 2024-11-23T21:41:54.765Z
-updated: 2024-11-25T00:44:55.712Z
+date: 2024-12-01T06:39:06.353Z
+updated: 2024-12-03T21:43:41.204Z
 tags:
   - win11
   - win10
@@ -35,16 +35,12 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 4. **[Restart Windows Audio Services](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your computer
 
  Some programs running in the background may conflict with Apex Legends, causing audio issues. In this case, try rebooting your computer to turn off unwanted programs completely. After your computer restarts, relaunch your game to check if you get the sound back. If not, read on and check the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Run the Windows audio troubleshooter
@@ -98,6 +94,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the **Update button** next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -109,7 +109,7 @@ OR
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Restart Windows Audio Services
@@ -120,21 +120,21 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-324.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Right-click**Windows Audio** , then select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-326.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Relaunch your game to test your issue.
 
  This should allow you to hear Apex Legends and everything else. If your issue still exists, don’t fret. There is still one more fix to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Apex Legends
 
@@ -174,24 +174,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-secrets-to-save-your-favorite-igtv-on-phoneandroid/"><u>[New] In 2024, Secrets to Save Your Favorite IGTV on Phone/Android</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-top-vocal-modification-devices-for-digital-creators/"><u>[New] Top Vocal Modification Devices for Digital Creators</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-unlocking-the-power-of-authenticity-in-testimonial-videography/"><u>[Updated] 2024 Approved Unlocking the Power of Authenticity in Testimonial Videography</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-expert-strategy-for-melding-gopro-vids-with-spherical-video-projects/"><u>2024 Approved Expert Strategy for Melding GoPro Vids with Spherical Video Projects</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-motorola-g54-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015570878-astro-a50-speaker-mic-not-working-heres-how-to-fix-it/"><u>Astro A50 Speaker-Mic Not Working? Here's How to Fix It!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-resolving-connectivity-problems-with-the-sennheiser-game-one-mic/"><u>Diagnosing and Resolving Connectivity Problems with the Sennheiser Game One Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-guidance-on-restoring-functionality-to-the-lucidsound-ls30-microphone/"><u>Expert Guidance on Restoring Functionality to the LucidSound LS30 Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-idt-hd-audio-codec-installation-on-windows-11-platforms/"><u>Fixing IDT HD Audio Codec Installation on Windows 11 Platforms</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/guide-simple-pivoter-en-douceur-des-videos-mp4-a-90180270-tout-en-preservant-la-nettete-et-les-couleurs/"><u>Guide Simple : Pivoter en Douceur Des Vidéos MP4 À 90/180/270° Tout en Préservant La Netteté Et Les Couleurs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/hourly-video-footage-gb-needed-per-day/"><u>Hourly Video Footage GB Needed Per Day</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-microphone-functionality-on-windows-11-devices/"><u>How to Restore Microphone Functionality on Windows 11 Devices</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/how-to-tell-if-your-ipad-is-stuck-in-yesteryears-technology/"><u>How to Tell if Your iPad Is Stuck in Yesteryear's Technology</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016898666-logitech-g633-not-working-expert-advice-and-fixes-inside/"><u>Logitech G633 Not Working? Expert Advice and Fixes Inside!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/snapchat-support-guide-easy-steps-to-reach-out-for-help/"><u>Snapchat Support Guide: Easy Steps to Reach Out for Help</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016668375-solve-your-hp-laptops-speakers-problem-on-windows-10-quickly/"><u>Solve Your HP Laptop's Speakers Problem on Windows 10 Quickly!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-conexant-smartaudio-hd-lack-of-audio-in-windows-10/"><u>Solving the Conexant SmartAudio HD Lack of Audio in Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-windows-10-sound-issues-restoring-headphone-functionality/"><u>Solving Windows 10 Sound Issues: Restoring Headphone Functionality</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/transforming-servers-top-30-bots-for-dynamic-interaction/"><u>Transforming Servers Top 30 Bots for Dynamic Interaction</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-facebooks-viral-content-wave-leading-videos-of-2023/"><u>[New] 2024 Approved Facebook's Viral Content Wave - Leading Videos of 2023</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-capture-and-share-your-screens-bandicam-vs-camtasia/"><u>[Updated] Capture and Share Your Screens Bandicam vs Camtasia</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-giving-life-a-curtain-call-blackout-in-pro/"><u>[Updated] In 2024, Giving Life a Curtain Call Blackout in Pro</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/aggregated-insights-on-10-superior-video-call-apps-for-2024/"><u>Aggregated Insights on 10 Superior Video Call Apps for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/decode-handling-fatal-dev-bugs-within-activisions-modern-warfare-series-and-battle-royale-mode/"><u>Decode: Handling Fatal (Dev) Bugs Within Activision's Modern Warfare Series & Battle Royale Mode</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-resolving-connectivity-issues-for-logitech-g733-microphones/"><u>Diagnosing and Resolving Connectivity Issues for Logitech G733 Microphones</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/effortlessly-record-high-quality-mac-audio-using-audacity/"><u>Effortlessly Record High-Quality Mac Audio Using Audacity</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-camon-20-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Tecno Camon 20 Phone without PIN</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-common-problems-a-2024-guide-for-repairing-your-malfunctioning-rust-microphone/"><u>Overcoming Common Problems: A 2024 Guide for Repairing Your Malfunctioning Rust Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-persistent-sound-dropouts-on-windows-11-systems-effectively/"><u>Resolving Persistent Sound Dropouts on Windows 11 Systems Effectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-for-when-your-laptop-has-lost-its-audio-output/"><u>Solution Steps For When Your Laptop Has Lost Its Audio Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-making-the-sennheiser-game-one-mic-function-properly-again/"><u>Step-by-Step Guide: Making the Sennheiser Game One Mic Function Properly Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-solve-silent-astro-a50-headphones-immediately/"><u>Troubleshoot and Solve Silent Astro A50 Headphones Immediately</u></a></li>
 </ul></div>
 

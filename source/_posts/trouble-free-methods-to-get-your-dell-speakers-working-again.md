@@ -1,7 +1,7 @@
 ---
 title: Trouble-Free Methods to Get Your Dell Speakers Working Again
-date: 2024-08-27T21:08:12.890Z
-updated: 2024-08-28T21:08:12.890Z
+date: 2024-11-27T05:02:54.325Z
+updated: 2024-12-04T00:46:33.847Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-124-1024x974.png)
 
  If you run into the **LucidSound LS30 mic not working** problem, don’t panic – many users have reported the same. Luckily, it’s quite easy to fix…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Fixes For **LucidSound LS30 Mic Not Working** In Windows
 
@@ -41,8 +45,9 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Make sure the volume is audible
 
  Sometimes the mic on your**LusidSound LS30** won’t work simply because the volume is mute or set too low.
@@ -60,8 +65,9 @@ To make sure the volume is audible:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Adjust your audio settings
 
  Ideally when a new audio device is inserted, Windows will automatically set it as the default audio playback device. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -73,15 +79,13 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-139.png)
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-140.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If **no microphone devices shows up in the device list** , then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device** once it appears and click **Enable** before you do step **2)** .  
 
  3) Click on **your microphone device** and click **Properties** .  
@@ -89,9 +93,9 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-141.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Click the **Levels** tab, then drag **the Microphone slider** all the way to _its top_ and click **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-137.png)
@@ -102,10 +106,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your audio driver
 
  This problem may occur if you are using the wrong audio driver or it’s out of date. So you should update your audio driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -146,8 +146,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +153,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-new-wave-of-youtube-channel-titles-perfect-for-vloggers-limited-to-156-characters/"><u>[New] In 2024, The New Wave of YouTube Channel Titles Perfect for Vloggers (Limited to 156 Characters)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-visual-victory-a-guide-to-speed-up-picture-perfection-in-windows-for-2024/"><u>[Updated] Visual Victory A Guide to Speed Up Picture Perfection in Windows for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-savetech-reviews-insights/"><u>2024 Approved SaveTech Reviews Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-unresponsive-audio-streams-online/"><u>Effective Solutions for Unresponsive Audio Streams Online</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/experience-clear-audio-with-your-logitech-g-pro-x-on-pc-eliminate-noise-popping-in-202th-edition-tech-tricks/"><u>Experience Clear Audio with Your Logitech G Pro X on PC - Eliminate Noise Popping in 202^Th Edition (Tech Tricks)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-woes-solving-world-of-warcraft-audio-issues/"><u>Fixing Silent Woes: Solving World of Warcraft Audio Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/immediate-solutions-for-fixing-dells-sound-system-problems/"><u>Immediate Solutions for Fixing Dell's Sound System Problems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-live-stream-tech-showdown-assessing-xsplit-and-obs-features/"><u>In 2024, Live Stream Tech Showdown Assessing XSplit and OBS Features</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-se-2022-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone SE (2022) With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-microphone-troubles-in-counter-strike-2-quick-and-easy-fixes-for-gamers/"><u>Mastering Microphone Troubles in Counter-Strike 2 – Quick & Easy Fixes for Gamers</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-common-errors-in-office-app-activation-on-pc/"><u>Resolving Common Errors in Office App Activation on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solutions-for-non-functioning-windows-scanners/"><u>Solutions for Non-Functioning Windows Scanners</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-resolve-dell-audio-issues-on-windows-7/"><u>Troubleshoot and Resolve Dell Audio Issues on Windows 7</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-advanced-nlp-features-in-python-via-gpt-3-a-comprehensive-walkthrough/"><u>Unlocking Advanced NLP Features in Python via GPT-3: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/video-integration-made-easy-building-dynamic-youtube-compilations-for-2024/"><u>Video Integration Made Easy Building Dynamic YouTube Compilations for 2024</u></a></li>
+</ul></div>
 

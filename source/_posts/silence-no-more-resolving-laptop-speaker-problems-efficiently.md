@@ -1,7 +1,7 @@
 ---
 title: "Silence No More: Resolving Laptop Speaker Problems Efficiently"
-date: 2024-11-20T20:16:37.548Z
-updated: 2024-11-25T02:26:17.600Z
+date: 2024-12-02T04:39:50.278Z
+updated: 2024-12-03T16:42:15.423Z
 tags:
   - win11
   - win10
@@ -36,7 +36,7 @@ When you try to play music or video on your laptop, but just find**no sound on t
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-17.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Drag the slider to increase the volume to test if the sound could work.
@@ -44,7 +44,7 @@ When you try to play music or video on your laptop, but just find**no sound on t
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-22.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Set your speakers as default device
@@ -52,10 +52,6 @@ When you try to play music or video on your laptop, but just find**no sound on t
  1) Right-click on the**s** **ound** icon on your taskbar. Then click**Playback devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-15.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2)Highlight your speakers, then click **Set Default** . Click **OK.**
 
@@ -70,12 +66,16 @@ Go with the easy steps to show it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) When your speakers shows up, right-click on it to choose**Enable** . Then you can set it as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3:**Reinstall your sound card driver**
 
@@ -84,10 +84,6 @@ Go with the easy steps to show it.
 2) Type **devmgmt.msc** . Then click **OK** to open **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2) Expand **Sound, video and game controllers** . Then right click on your sound card’s name and click **Uninstall** .
 
@@ -110,6 +106,10 @@ Go with the easy steps to show it.
 It has two versions. Have a try on its **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , it will offer the latest drivers for you to install. But if you upgrade to **[PRO Version](https://tools.techidaily.com/drivereasy/download/)**  , you can get all your drivers including the sound card driver up-to-date with just one click — **Update All** (you get full tech support and 30-day money back guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -136,21 +136,16 @@ Any problems just feel free to leave your comment below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-elite-10-compact-discs-viewer-recommendations/"><u>[New] In 2024, Elite 10 Compact Discs Viewer Recommendations</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-wholesale-sky-shelves-economic-bulk-data-holder/"><u>[New] Wholesale Sky Shelves Economic Bulk Data Holder</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-pro-tips-for-effortless-youtube-content-export-through-gmail-id/"><u>[Updated] In 2024, Pro-Tips for Effortless YouTube Content Export Through Gmail ID</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-orchestrating-your-playlists-from-one-to-another/"><u>2024 Approved Orchestrating Your Playlists From One to Another</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016887234-audio-malfunction-post-windows-11-update-easy-solutions-unveiled/"><u>Audio Malfunction Post-Windows 11 Update? Easy Solutions Unveiled</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/banish-pc-call-echo-on-discord-with-these-expert-tips-and-tricks-updated-for-2e4/"><u>Banish PC Call Echo on Discord with These Expert Tips and Tricks (Updated for 2E4)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/configuration-complete-resource-lacking-response/"><u>Configuration Complete; Resource Lacking Response</u></a></li>
-<li><a href="https://facebook.techidaily.com/consumer-watch-a-new-economic-paradigm/"><u>Consumer Watch: A New Economic Paradigm</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/creative-pebble-audio-woes-heres-how-you-can-restore-your-sound/"><u>Creative Pebble Audio Woes? Here's How You Can Restore Your Sound</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-audio-setup-solving-the-silence-issue-in-pc-based-zoom-conferencing/"><u>Mastering Audio Setup: Solving the Silence Issue in PC-Based Zoom Conferencing</u></a></li>
-<li><a href="https://android-frp.techidaily.com/nokia-c300-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Nokia C300 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/quick-steps-to-document-your-youtube-creations-for-2024/"><u>Quick Steps to Document Your YouTube Creations for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-restore-your-malfunctioning-bose-sound-system/"><u>Step-by-Step Guide to Restore Your Malfunctioning Bose Sound System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-your-astro-a50-for-immediate-audio-playback/"><u>Troubleshoot and Repair Your Astro A50 for Immediate Audio Playback</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723017057033-windows-10-speaker-setup-errors-heres-how-to-identify-and-solve-the-problem/"><u>Windows 10 Speaker Setup Errors? Here's How to Identify and Solve the Problem!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/wirelessly-sync-connecting-computers-and-bluetooth-speakers-made-simple/"><u>Wirelessly Sync: Connecting Computers and Bluetooth Speakers Made Simple</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-clearing-up-confusion-understanding-digital-rights-management-drm/"><u>[Updated] 2024 Approved Clearing Up Confusion Understanding Digital Rights Management (DRM)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-chilly-competition-unveiling-highlights-of-2022s-snowboard-cross-showdown/"><u>[Updated] Chilly Competition Unveiling Highlights of 2022'S Snowboard Cross Showdown</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/4-moglichkeiten-nicht-speicherbare-excel-daten-in-windows-10-wiederherzustellen/"><u>4 Möglichkeiten, Nicht Speicherbare Excel-Daten in Windows 10 Wiederherzustellen</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repair-tips-for-a-non-responsive-sound-blaster-mic/"><u>DIY Repair Tips for a Non-Responsive Sound Blaster Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-windows-11-speakers-working-again-a-quick-audio-solution/"><u>Get Your Windows 11 Speakers Working Again - A Quick Audio Solution</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-6-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-laugh-tracks-for-iphone-devices/"><u>In 2024, Laugh Tracks for iPhone Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-distortion-troubleshooting-the-arctisys-7-microphone-static-in-windows/"><u>Solving Audio Distortion: Troubleshooting the ArctiSys 7 Microphone Static in Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-for-disabling-audio-boost-in-windows-10-system/"><u>Step-by-Step Tutorial for Disabling Audio Boost in Windows 10 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-solutions-for-steelseries-arctis-1-mic-issues/"><u>Troubleshooting Solutions for SteelSeries Arctis #1 Mic Issues</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-design-issues-with-pioneers-bdr-xd05b-blu-ray-disc-recorder-a-user-review/"><u>Unveiling Design Issues with Pioneer's BDR-XD05B Blu-Ray Disc Recorder: A User Review</u></a></li>
 </ul></div>
 

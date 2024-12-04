@@ -1,7 +1,7 @@
 ---
 title: Best Troubleshooting Steps When Toshiba Laptop Fails to Produce Sound
-date: 2024-11-20T19:41:39.689Z
-updated: 2024-11-25T00:48:43.986Z
+date: 2024-12-01T18:21:34.744Z
+updated: 2024-12-03T22:12:52.956Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Try these fixes**
 
  Here’s a list of fixes that have resolved this problem for other HP laptop users. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -48,11 +44,15 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000231-1.png)
 2. In the pop-up window, select**Playing Audio** , then click**Run the troubleshooter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000232.png)
 3. Follow the on-screen instructions to troubleshoot the audio playback issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When it is completed, play a song on your HP laptop to see if you resolved the no sound issue. If not, try the next fix, below.
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 3. Click **Update**  next to your Bluetooth device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee  ).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap908-2.png)  
@@ -96,12 +96,12 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap432.jpg)
 2. Navigate to**the Playback tab** .**Right-click** anywhere on the Playback tab of the Sound window, and make sure you select**Show Disabled Devices** and**Show Disconnected Devices** options.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000237-2.png)
 3. If your laptop speaker is disabled,**right-click** your laptop speaker and select**Enable** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000236.png)
 4. Select the speaker / headphone you’re using and  click **Set Default** .  
@@ -109,12 +109,16 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 5. Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. On your desktop,   **right-click**  **the speaker icon**  on the lower-right corner, and then select**Open Volume Mixer**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000233.png)
 7. If you see some application is muted, click**the speaker icon** under that application to unmute it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000235-2.png)
 8. Play a song on your laptop to see if you fixed the no sound issue. If not, move on to the next step.
@@ -122,16 +126,12 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000238.png)
 10. In Device Manager,**double-click** **Sound, video and game controllers** to expand the list. If you see**a downward arrow** next to your audio device,**right-click** it then select**Enable device** to enable it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000240.png)
 
  Play a song on your HP laptop to see if the no sound issue is resolved. If not, try the next fix to restart Windows audio service.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 4: Restart Windows audio service**
@@ -146,7 +146,7 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 4. Navigate to the **Recovery**   tab. For **First failure** , select **Restart the Service** . Then click **OK**   to save the changes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap195-5.png)
@@ -186,16 +186,24 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-role-of-b-roll-in-polishing-video-projects/"><u>[New] The Role of B-Roll in Polishing Video Projects</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-comprehensive-guide-to-digital-compositing-mastery-in-kinemaster-software/"><u>[Updated] In 2024, Comprehensive Guide to Digital Compositing Mastery in Kinemaster Software</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-getting-sounds-through-speakers-when-headphones-are-connected/"><u>How to Fix: Getting Sounds Through Speakers When Headphones Are Connected</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-essential-tips-on-acquiring-profitable-yt-channels/"><u>In 2024, Essential Tips on Acquiring Profitable YT Channels</u></a></li>
-<li><a href="https://driver-install.techidaily.com/no-struggle-upgrade-wacom-bamboo-drivers-easy/"><u>No Struggle: Upgrade Wacom Bamboo Drivers Easy</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211253344-9783911031103-picatrix/"><u>Picatrix | Free Book</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-windows-10-issues-where-headphones-fail-to-function-properly/"><u>Resolving Windows 10 Issues Where Headphones Fail To Function Properly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-mystery-troubleshooting-steps-for-non-functional-obs-audio-during-recordings/"><u>Solving the Mystery: Troubleshooting Steps for Non-Functional OBS Audio During Recordings</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/stop-the-pop-play-smoothly-advanced-fixes-for-logitech-g-pro-x-pc-noise-latest-techniques-202n/"><u>Stop the Pop, Play Smoothly: Advanced Fixes for Logitech G Pro X PC Noise - Latest Techniques (202N)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-8-complimentary-html-editors-available-on-windows/"><u>Top 8 Complimentary HTML Editors Available on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-solving-realtek-wireless-network-driver-problems-in-windows-operating-systems/"><u>Troubleshooting and Solving Realtek Wireless Network Driver Problems in Windows Operating Systems</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-mobile-sound-library-explore-the-best-free-downloader-apps-for-youtube/"><u>[New] In 2024, Mobile Sound Library Explore the Best Free Downloader Apps for YouTube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-fast-fingers-for-capturing-chat-transcripts/"><u>[Updated] 2024 Approved Fast Fingers for Capturing Chat Transcripts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boosting-your-channels-viewer-count-12-must-try-approaches/"><u>[Updated] In 2024, Boosting Your Channel's Viewer Count - 12 Must-Try Approaches</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/apex-legends-no-sound-problem-resolved-steps-to-get-your-game-cacophonous-again/"><u>Apex Legends No Sound Problem Resolved: Steps to Get Your Game Cacophonous Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-issues-and-solutions-for-unresponsive-laptop-audio-devices/"><u>Common Issues & Solutions for Unresponsive Laptop Audio Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-to-fixing-popping-and-crackling-in-your-arctis-7-headphones-under-windows-environment/"><u>Comprehensive Guide to Fixing Popping and Crackling in Your Arctis 7 Headphones Under Windows Environment</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/cookiebot-enhanced-experience-boost-your-sites-conversion-rates/"><u>Cookiebot-Enhanced Experience: Boost Your Site's Conversion Rates</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-fixing-voice-communication-failures-in-cod-vanguard/"><u>Expert Advice on Fixing Voice Communication Failures in COD: Vanguard</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/how-does-the-fitbit-charge-3-hold-up-against-competitors/"><u>How Does the Fitbit Charge 3 Hold Up Against Competitors?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-runmus-gaming-setup-working-perfectly-again/"><u>How to Get Your RUNMUS Gaming Setup Working Perfectly Again!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-twisting-the-tale-a-comprehensively-dual-angled-approach-for-insta-posts/"><u>In 2024, Twisting the Tale A Comprehensively Dual-Angled Approach for Insta Posts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/joint-venture-announcement-advanced-hbm4-chip-production-by-tsmc-and-sk-hynix-unveiled/"><u>Joint Venture Announcement: Advanced HBM4 Chip Production by TSMC and SK Hynix Unveiled</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-tech-trends-through-tomamoeba/"><u>Mastering Tech Trends Through Tom'amoeba</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-loudspeaker-troubles-on-iphones-fixes-for-muted-or-warped-sounds/"><u>Overcoming Loudspeaker Troubles on iPhones: Fixes for Muted or Warped Sounds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-common-problems-effective-solutions-for-your-non-responsive-logitech-g430-microphone/"><u>Solving Common Problems: Effective Solutions For Your Non-Responsive Logitech G430 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-voicemod-issues-a-comprehensive-guide/"><u>Solving Voicemod Issues : A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/speak-up-with-confidence-swift-tips-for-ultimate-microphone-performance-checks/"><u>Speak Up with Confidence: Swift Tips for Ultimate Microphone Performance Checks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-awake-averse-pc-windows-1011-locked-in-slumber/"><u>The Awake-Averse PC: Windows 10/11 Locked in Slumber</u></a></li>
+<li><a href="https://win-superb.techidaily.com/windows-student/"><u>Windows # Student</u></a></li>
 </ul></div>
 

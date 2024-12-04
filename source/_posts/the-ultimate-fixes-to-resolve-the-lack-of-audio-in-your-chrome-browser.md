@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Fixes to Resolve the Lack of Audio in Your Chrome Browser
-date: 2024-08-27T21:10:31.836Z
-updated: 2024-08-28T21:10:31.836Z
+date: 2024-11-29T20:27:31.622Z
+updated: 2024-12-03T16:32:02.674Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/c41c3d9bbfec49291e9196cc3e72df37d6e282bd9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd4d734d2c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) See the Speakers is disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd4dfc1fa7.jpg)
@@ -40,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/c41c3d9bbfec49291e9196cc3e72df37d6e282bd9
  If it is disabled, right click on it and select **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd4eb667e9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you don’t see **Speakers** option listed, it could be disabled and hidden. Right click on the blank space and select **Show Disabled Devices** . Then Enable it.
 
@@ -67,13 +75,18 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd515db2c0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Restart your PC. Then a Window will pop up to ask you to solve the sound problem. Just follow the on-screen instructions. Then the sound issue should resolve.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Method 2: Update the audio driver**
 
  The problem can be caused by faulty audio drivers. The above steps above may resolve your laptop no sound issue, but if they don’t, you can update the audio driver. If you don’t have the time, patience or computer skills to update the audio driver manually,  you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -88,9 +101,6 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-405.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the **Update** button next to a flagged audio driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/)   – you’ll be prompted to upgrade when you click Update All).
@@ -98,8 +108,9 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-406.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Hopefully you can fix your laptop no sound issues with the steps above. If you have any questions, please feel free to leave your comment below.
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -110,8 +121,6 @@ Follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +128,16 @@ Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-issues.techidaily.com/complete-guide-how-to-get-your-warzone-audio-working-perfectly-on-any-device/"><u>Complete Guide: How to Get Your Warzone Audio Working Perfectly on Any Device</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gopro-hero5-premium-showdown-black-edition-for-2024/"><u>GoPro Hero5 Premium Showdown Black Edition for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-poco-c55-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-7-plus-location-by-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 7 Plus Location by Number | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/insightful-reviews-from-vllo-users-for-2024/"><u>Insightful Reviews From VLLO Users for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-audacity-woes-five-ways-to-tackle-sound-device-errors-easily/"><u>Resolve Your Audacity Woes: Five Ways to Tackle Sound Device Errors Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-obs-studios-audio-issues-on-pc/"><u>Troubleshooting Steps: Resolving OBS Studio's Audio Issues on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/webex-microphone-failures-heres-how-to-troubleshoot-and-restore-audio-in-2nry-2024/"><u>Webex Microphone Failures? Here's How to Troubleshoot & Restore Audio in 2Nry 2024</u></a></li>
+</ul></div>
 

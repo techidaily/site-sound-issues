@@ -1,7 +1,7 @@
 ---
 title: "Solved: Silence After Windows 11 Upgrade - Audio Issues Fixed"
-date: 2024-08-27T21:08:07.688Z
-updated: 2024-08-28T21:08:07.688Z
+date: 2024-11-27T22:01:19.148Z
+updated: 2024-12-04T03:46:22.961Z
 tags:
   - win11
   - win10
@@ -47,9 +47,17 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72220f11f9.jpg)
 4. Restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Check if there’s any sound in your computer.
 
  If the problem still persists, don’t worry. We have other solutions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Check audio settings
 
@@ -60,28 +68,18 @@ To do so:
 1. Right click on the**Volume icon** at the bottom right corner, and click**Sounds** (or**Playback devices** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 2. In the**Sound** pane, click the**Playback** tab.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7201dbcc98.jpg)
 3. Select your speaker audio device, and click**Set Default** to set it as your default device.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  If your device has been the default device, you’ll see a green check mark next to your device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72066a032c.jpg)
 4. Restart your computer, and plug a headphone to see if there’s any sound.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 
 Still no luck? Okay, there’s one more thing to try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Roll back your audio driver
 
  Another effective method to resolve the no sound issue is to roll back your audio driver. To do so:
@@ -90,18 +88,22 @@ Still no luck? Okay, there’s one more thing to try.
 2. Type**devmgmt.msc** and click**OK** to open Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721431cb33.jpg)
 3. Double click**Sound, video and game controllers** to expand it.  
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72165a0e6f.jpg)
 4. Double click on your**audio device** to open the properties pane.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7218e14fa5.jpg)
 5. Click the**Driver** tab, and click**Roll Back Driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721ba8a50e.jpg)
 6. Follow the on-screen instructions to finish the process.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 7. Restart your computer.
 
 Test your computer and see if it fixes the sound problem.
@@ -119,8 +121,6 @@ Feel free to leave a comment below if you have any questions.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +128,26 @@ Feel free to leave a comment below if you have any questions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-enhancing-your-aesthetic-vision/"><u>[New] Enhancing Your Aesthetic Vision</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-download-directly-from-instagram-a-methodology-for-iphone-users/"><u>[New] In 2024, Download Directly From Instagram A Methodology for iPhone Users</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-crafting-flawless-virtual-reality-gaming-archives-for-2024/"><u>[Updated] Crafting Flawless Virtual Reality Gaming Archives for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-explore-mp4-recording-tools-today/"><u>[Updated] In 2024, Explore MP4 Recording Tools Today</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expanding-your-audience-on-youtube-step-by-step/"><u>2024 Approved Expanding Your Audience on Youtube Step by Step</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-luminary-developers-transforming-vr-landscapes/"><u>2024 Approved The Luminary Developers Transforming VR Landscapes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetooth-audio-glitches-solved-smoother-sounds-on-windows-11-systems/"><u>Bluetooth Audio Glitches Solved: Smoother Sounds on Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-reactivating-voice-chat-functionality-in-bungies-destiny-2/"><u>Expert Tips on Reactivating Voice Chat Functionality in Bungie's Destiny 2</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ssive-sketches-for-fortnite-icons-for-2024/"><u>Expressive Sketches for Fortnite Icons for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavi-trasforma-i-tuoi-file-tga-in-un-momento-con-il-loro-servizio-gratuito-online/"><u>Movavi - Trasforma I Tuoi File TGA in Un Momento Con Il Loro Servizio Gratuito Online</u></a></li>
+<li><a href="https://win-blog.techidaily.com/online-sign-in-feature-restored-origin-access-regained/"><u>Online Sign-In Feature Restored: Origin Access Regained</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-noise-issues-in-your-headsets-say-goodbye-to-cracks-and-pop/"><u>Quick Fixes for Noise Issues in Your Headsets – Say Goodbye to Cracks & Pop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-troubleshooting-guide-how-to-get-sound-working-on-your-pc-again/"><u>Quick Troubleshooting Guide: How to Get Sound Working on Your PC Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-windows-11-soundscape-common-troubles-and-their-fixes/"><u>Revive Your Windows 11 Soundscape: Common Troubles & Their Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-pcs-audio-functionality-a-comprehensive-solution-for-sound-loss-woes/"><u>Reviving Your PC's Audio Functionality: A Comprehensive Solution for Sound Loss Woes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-how-to-tackle-the-conexant-smartaudio-hd-silent-problem-on-windows-11/"><u>Step-by-Step Solution: How to Tackle the Conexant SmartAudio HD Silent Problem on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-hardware-fixing-unplugged-or-damaged-speakers-and-headphones-on-windows-systems/"><u>Troubleshooting Audio Hardware: Fixing Unplugged or Damaged Speakers and Headphones on Windows Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-onikuma-headsets-non-functional-mic-expert-advice/"><u>Troubleshooting Your Onikuma Headset's Non-Functional Mic - Expert Advice</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-xps-cinematic-compositions-now-for-2024/"><u>Unlock XP's Cinematic Compositions Now for 2024</u></a></li>
+</ul></div>
 

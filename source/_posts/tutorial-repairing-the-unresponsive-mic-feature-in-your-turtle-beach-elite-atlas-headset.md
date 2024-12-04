@@ -1,7 +1,7 @@
 ---
 title: "Tutorial: Repairing the Unresponsive Mic Feature in Your Turtle Beach Elite Atlas Headset"
-date: 2024-11-24T01:05:22.428Z
-updated: 2024-11-24T17:58:59.387Z
+date: 2024-11-28T01:09:42.811Z
+updated: 2024-12-04T06:53:16.729Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ Find your mic not working in Squad? That’s definitely annoying when you have t
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -47,10 +43,6 @@ Find your mic not working in Squad? That’s definitely annoying when you have t
 
  If your hardware and connection are both good to go, check out more fixes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2 – Configure the sound settings
 
  In most cases, your headset microphone will be set as the default input device once it’s connected. However, Windows updates may sometimes screw up the configurations and you need to tweak the settings manually.
@@ -64,10 +56,14 @@ Follow the steps here:
 2. Navigate to the**Recording** tab. Then right-click**other unnecessary audio devices** and**disable** them one by one.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-3-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 2 – Set your main microphone as the default device
 
@@ -80,7 +76,7 @@ Follow the steps here:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-6-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 3 – Change the sample rate
@@ -89,9 +85,17 @@ Follow the steps here:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/change-sample-rate-1.jpg)
 2. Select**2 channel, 16 bit, 48000 Hz (DVD Quality)** from the drop-down menu under Default Format. Then, click**OK** to apply the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/change-sample-rate-2.jpg)
 
  If you’ve configured the microphone properly in Windows and still encounter the same problem, the next thing is to look at the in-game mic settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Check the in-game settings
 
@@ -102,20 +106,20 @@ Follow the steps here:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/in-game-settings-0.jpg)
 3. Click the**cogwheel icon** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/in-game-settings-1-1.jpg)
 4. Select**Voice** from the left pane. Then, make sure the microphone you’re actually using is set as the Voice Input Device.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/in-game-settings-2-2.jpg)
 
  Restart Squad to see if your microphone transmits your voice as normal. If not, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Update your audio driver
 
@@ -140,10 +144,6 @@ Follow the steps here:
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/audio-driver-update-de.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -187,19 +187,20 @@ Follow the steps here:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-top-pick-drones-compatible-with-gopro-cameras/"><u>[New] In 2024, Top Pick Drones Compatible with GoPro Cameras</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-navigating-the-thrilling-world-of-drone-racing-and-premium-fpv-units-for-2024/"><u>[New] Navigating the Thrilling World of Drone Racing & Premium FPV Units for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-navigating-through-digital-profit-landscapes/"><u>2024 Approved Navigating Through Digital Profit Landscapes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movaviwma3gp/"><u>利用Movavi直接在線將WMA轉換成3GP - 無限制瀏覽器</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-windows-7-headphone-issues-expert-tips/"><u>Diagnosing and Repairing Windows 7 Headphone Issues: Expert Tips</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/examining-the-breadth-of-features-in-obs-studio-for-2024/"><u>Examining the Breadth of Features in OBS Studio for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-non-functional-speakers-on-your-pc-a-complete-guide/"><u>Fixing Non-Functional Speakers on Your PC: A Complete Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-problem-with-realteks-digital-output/"><u>Fixing the Silent Problem with Realtek's Digital Output</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-unexpected-audio-distortions-on-your-windows-pc/"><u>How to Fix Unexpected Audio Distortions on Your Windows PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-output-from-plugged-in-speakers-on-your-pc-windows/"><u>How to Restore Sound Output From Plugged-In Speakers on Your PC (Windows)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-lava-blaze-2-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Lava Blaze 2 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-banishing-unwanted-green-in-mac-recorded-youtube-content/"><u>In 2024, Banishing Unwanted Green in Mac-Recorded YouTube Content</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/shielding-private-talks-stop-chatgpt-from-recording/"><u>Shielding Private Talks: Stop ChatGPT From Recording</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-restore-sounds-in-hearthstone/"><u>Troubleshooting Guide: How to Restore Sounds in Hearthstone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-in-depth-asmr-video-insights/"><u>[New] In 2024, In-Depth ASMR Video Insights</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-live-gaming-recording-battle-pick-your-preference-obs-or-shadowplay/"><u>[Updated] 2024 Approved Live Gaming Recording Battle Pick Your Preference, OBS or ShadowPlay?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-up-to-date-techniques-for-screenshotting-idevices-for-2024/"><u>[Updated] Up-to-Date Techniques for Screenshotting iDevices for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-hololens-analysis-a-3d-interface-revolution-by-microsoft/"><u>2024 Approved HoloLens Analysis A 3D Interface Revolution by Microsoft</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/black-ops-cold-war-how-to-resolve-voice-chat-problems-and-restore-connection/"><u>Black Ops: Cold War - How to Resolve Voice Chat Problems and Restore Connection</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-crackling-sound-from-speakers-in-windows-systems/"><u>Diagnosing and Repairing Crackling Sound From Speakers in Windows Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-troubleshooting-non-functional-headphones-in-windows-10/"><u>Fixing the Issue: Troubleshooting Non-Functional Headphones in Windows 10</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-optimize-your-posting-select-from-this-roundup-of-top-8-planners/"><u>In 2024, Optimize Your Posting Select From This Roundup of Top 8 Planners</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-windows-11-troubles-how-to-launch-dolby-advanced-audio-driver-successfully/"><u>Overcome Windows 11 Troubles: How to Launch Dolby Advanced Audio Driver Successfully</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/reliable-petfeast-six-serve-automatic-food-dispenser-consistent-nutrition/"><u>Reliable PetFeast Six-Serve Automatic Food Dispenser: Consistent Nutrition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-mac-problem-discover-how-to-bring-sound-back-easily/"><u>Silent Mac Problem? Discover How to Bring Sound Back Easily</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-rise-of-virtual-therapy-top-5-bot-innovations/"><u>The Rise of Virtual Therapy: Top 5 Bot Innovations</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-fixing-a-malfunctioning-realtek-microphone/"><u>Troubleshooting Steps: Fixing a Malfunctioning Realtek Microphone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/be-update-your-shorts-are-visible-again-for-2024/"><u>YouTube Update - Your Shorts Are Visible Again for 2024</u></a></li>
 </ul></div>
 

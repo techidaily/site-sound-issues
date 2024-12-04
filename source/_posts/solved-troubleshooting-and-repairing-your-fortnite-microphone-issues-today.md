@@ -1,7 +1,7 @@
 ---
 title: "Solved: Troubleshooting and Repairing Your Fortnite Microphone Issues Today"
-date: 2024-08-27T21:11:23.744Z
-updated: 2024-08-28T21:11:23.744Z
+date: 2024-11-26T16:56:00.226Z
+updated: 2024-12-04T06:16:17.731Z
 tags:
   - win11
   - win10
@@ -38,8 +38,9 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
  If your mic is securely plugged in but still not working in Webex, continue to more solutions below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2 – Allow Webex to access your microphone
 
  On a Windows PC, you can manually adjust the permission for your microphone and choose specific apps to access it. To let your microphone work with Webex and pick up voice without problems, you’ll need to turn on the permission.
@@ -48,14 +49,8 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
 2. Select**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-2.jpg)
 3. Select**Microphone** from the left pane. Then click the**Change** button and**turn on** Microphone access for this device.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 4. Scroll down and toggle on the button below**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
 
  Once you’ve allowed the microphone access to your apps, check if the problem is resolved. If not, try the next method.
@@ -80,8 +75,9 @@ There are mainly two ways you can update the audio driver:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).  
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
@@ -93,8 +89,9 @@ There are mainly two ways you can update the audio driver:
  Now check if your microphone works in the Webex meeting. If not, there’s one more fix to try.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3 – Check the Webex settings
 
  If your microphone works well with the browser or any programs but your Webex app, the cause may be related to the app’s settings. There’s a good chance that Webex doesn’t recognize the microphone you’re using and you’ll need to set it up properly via the following steps.
@@ -105,10 +102,16 @@ There are mainly two ways you can update the audio driver:
 3. Select**Audio** from the left pane. Under the Microphone section, select your preferred audio device from the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-3.jpg)
 4. You can also adjust the volume by dragging the slider. Then click Save to apply the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once completed, you can click the Test button under Microphone to see if everything goes back to normal.
 
@@ -124,8 +127,6 @@ There are mainly two ways you can update the audio driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +134,20 @@ There are mainly two ways you can update the audio driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-from-concept-to-completion-review-of-magix-vpx/"><u>[New] From Concept to Completion Review of Magix VPX</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-analyzing-t-series-revenue-generation-on-youtube-channels/"><u>[Updated] In 2024, Analyzing T-Series' Revenue Generation on Youtube Channels</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-10-best-cinema-cameras-for-filmmaking-from-beginner-to-professional/"><u>2024 Approved 10 Best Cinema Cameras for Filmmaking From Beginner to Professional</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-a-non-functional-corsair-void-mic-step-by-step-solution/"><u>Fixing a Non-Functional Corsair Void Mic: Step-by-Step Solution</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-apple-iphone-6s-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from Apple iPhone 6s without Password?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From iPhone 14 Pro Max?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-basics-5-important-steps-for-setting-up-your-new-device/"><u>Navigating the Basics: 5 Important Steps for Setting Up Your New Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/repair-tips-resolving-sony-wh-1000xm3-microphone-failure-on-windows-computers/"><u>Repair Tips: Resolving Sony WH-1000XM3 Microphone Failure on Windows Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/seamless-conferencing-how-to-fix-your-webex-microphone-woes/"><u>Seamless Conferencing: How to Fix Your Webex Microphone Woes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-discord-volume-problems-how-to-hear-clearly-again/"><u>Solving Discord Volume Problems - How to Hear Clearly Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-common-fixes-for-non-functioning-pubg-mobile-voice-communication/"><u>Troubleshooting: Common Fixes for Non-Functioning PUBG Mobile Voice Communication</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-audio-troubles-get-your-headphones-up-and-running/"><u>Windows 11 Audio Troubles? Get Your Headphones Up and Running</u></a></li>
+</ul></div>
 

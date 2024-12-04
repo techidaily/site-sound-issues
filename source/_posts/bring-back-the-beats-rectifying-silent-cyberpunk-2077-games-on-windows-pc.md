@@ -1,7 +1,7 @@
 ---
 title: Bring Back the Beats! Rectifying Silent Cyberpunk 2077 Games on Windows PC
-date: 2024-11-20T20:53:24.894Z
-updated: 2024-11-25T03:07:03.097Z
+date: 2024-11-28T00:39:51.063Z
+updated: 2024-12-03T19:58:28.566Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ After several patches, many gamers are still reporting a no sound/no dialogue au
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that rocks.
@@ -36,17 +32,21 @@ After several patches, many gamers are still reporting a no sound/no dialogue au
 4. [**Verify the integrity of your game files**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check the connection of your audio device
 
  Let’s start with some easy troubleshooting. If your in-game audio isn’t working, first you want to**make sure the physical connection is robust** . Be sure the cable is not broken, and is securely plugged into the correct headphone jack. You can also try a replug and see if it gets your audio back. And if you’re using a headset with a volume switch, make sure it’s set to a moderate value.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-port.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If the connection is fine, you can take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Make sure your audio device is set up properly
 
@@ -58,11 +58,15 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/open-sound-settings-1.jpg)
 2. Under the**Output** section, expand the menu below**Choose your output device** . Then select your desired output device. On the bar below**Master volume** , toggle the slider several times until you hear beeps coming out your device.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/set-up-output-device.jpg)
 3. Now you can launch Cyberpunk 2077 and test the audio.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If the problem remains, you can move on to the next method.
@@ -79,10 +83,6 @@ If the problem remains, you can move on to the next method.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -104,27 +104,27 @@ Here’re the guides on how to do that on different platforms:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-verify-gog-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Steam
 
 1. Open your Steam client. Navigate to the**LIBRARY** tab. Right-click**Cyberpunk 2077** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-verify-steam-1.jpg)
 2. Navigate to the**LOCAL FILES** tab, click**VERIFY INTEGRITY OF GAME FILES** , then wait for it to complete.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-verify-steam-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Epic Games
 
 1. Open your Epic Games client. From the left menu, select**Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/epic-games-launcher-library.jpg)
 2. Click the Cyberpunk 2077 tile and click the icon with three dots. Then click **Verify** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-verify-epic-2.jpg)
 
@@ -133,6 +133,10 @@ Here’re the guides on how to do that on different platforms:
 Now launch Cyberpunk 2077 and see if you can hear anything.
 
 If this solution doesn’t help you, you can try the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
 
@@ -145,10 +149,6 @@ Here’s how:
 2. Click **Check for updates** . It might take up to an hour for Windows to download and install available updates.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -171,20 +171,20 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-navigating-obs-livestream-integration-for-maximum-facebook-reach/"><u>[New] 2024 Approved Navigating OBS Livestream Integration for Maximum Facebook Reach</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-best-camera-stabilizers-for-youtube-for-2024/"><u>[Updated] Best Camera Stabilizers for YouTube for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-repair-tips-for-a-malfunctioning-logitech-g230-microphone-fixed/"><u>DIY Repair Tips for A Malfunctioning Logitech G230 Microphone [FIXED]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-when-your-laptops-headphone-socket-wont-work/"><u>Fixing the Issue: When Your Laptop's Headphone Socket Won't Work</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-the-pc-connectivity-of-sonys-wh-1000xm34-wireless-noise-canceling-headphones/"><u>How to Repair the PC Connectivity of Sony's WH-1000XM3/4 Wireless Noise-Canceling Headphones</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oppo-k11-5g-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Oppo K11 5G</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-oneplus-ace-2-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your OnePlus Ace 2 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-notification-history-tips-for-finding-past-alerts-on-an-iphone/"><u>Mastering Notification History: Tips for Finding Past Alerts on an iPhone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/optimizing-game-performance-fix-civ-5-crash/"><u>Optimizing Game Performance: Fix Civ 5 Crash</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-speaker-functionality-a-guide-for-hp-users-in-windows-11/"><u>Restoring Speaker Functionality: A Guide for HP Users in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silence-broken-expert-tips-to-resolve-borderlands-3s-sound-malfunction-on-pc/"><u>Silence Broken: Expert Tips to Resolve Borderlands 3'S Sound Malfunction on PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-troubleshooting-for-astro-a20-mic-failure/"><u>Step-by-Step Troubleshooting for Astro A20 Mic Failure</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-logitech-g-pro-x-mic-issues/"><u>Troubleshooting Guide: Fixing Logitech G Pro X Mic Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-the-best-magsafe-accessories-expert-opinions-and-ratings/"><u>Ultimate Guide to the Best MagSafe Accessories : Expert Opinions & Ratings</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-realme-narzo-60-pro-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Realme Narzo 60 Pro 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-pivoting-with-purpose-rotate-and-rethink-with-youtubes-latest-tools/"><u>[New] In 2024, Pivoting with Purpose Rotate and Rethink with YouTube's Latest Tools</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-strategies-for-dominant-click-through-rates-in-youtube-advertising-for-2024/"><u>[Updated] Strategies for Dominant Click-Through Rates in YouTube Advertising for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audacity-sound-device-trouble-here-are-five-proven-solutions-to-correct-the-problem/"><u>Audacity Sound Device Trouble? Here Are Five Proven Solutions to Correct the Problem!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-resolving-beyond-the-wire-mic-connectivity-problems/"><u>Expert Tips on Resolving Beyond The Wire Mic Connectivity Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-windows-10-speakers-working-again-the-ultimate-fix/"><u>How to Get Your Windows 10 Speakers Working Again – The Ultimate Fix</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-oppo-k11x-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Oppo K11x to Protect Your Individual Information</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-how-to-navigate-virtual-realities-without-nausea/"><u>In 2024, How to Navigate Virtual Realities without Nausea</u></a></li>
+<li><a href="https://techidaily.com/is-your-infinix-note-30-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Infinix Note 30 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016118337-logitech-g933-microphone-woes-heres-how-you-can-fix-them/"><u>Logitech G933 Microphone Woes? Here's How You Can Fix Them!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-luck-with-voip-correct-console-and-pc-microphone-issues-while-playing-warzone/"><u>No Luck with VOIP? Correct Console and PC Microphone Issues While Playing Warzone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-sound-heres-how-to-fix-microphone-problems-and-get-it-picking-up-again/"><u>No Sound? Here's How to Fix Microphone Problems and Get It Picking Up Again</u></a></li>
+<li><a href="https://win-dash.techidaily.com/overcoming-usb-connectivity-problems-on-windows-11-effective-solutions/"><u>Overcoming USB Connectivity Problems on Windows 11: Effective Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-non-functional-hdmi-speakers-in-windows-nv-a-step-by-step-fix/"><u>Resolve Non-Functional HDMI Speakers in Windows Nv: A Step-by-Step Fix</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/share-todays-enlightening-voice-lesson/"><u>Share Today's Enlightening Voice Lesson</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/ultimate-guide-to-syncing-files-with-mac-data-management/"><u>Ultimate Guide to Syncing Files with Mac Data Management</u></a></li>
 </ul></div>
 

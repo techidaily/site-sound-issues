@@ -1,7 +1,7 @@
 ---
 title: "Lost in Quietness: A Comprehensive Guide to Restoring Sounds in Battlefield #4"
-date: 2024-11-21T01:14:04.781Z
-updated: 2024-11-24T22:08:24.710Z
+date: 2024-11-28T04:21:56.651Z
+updated: 2024-12-03T18:50:26.143Z
 tags:
   - win11
   - win10
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/5cb2e70fe5fc4984663e55071f50818b86ad28c60
 6. **[Rule out other interference](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1\. Update your audio drivers
@@ -51,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/5cb2e70fe5fc4984663e55071f50818b86ad28c60
 
 ![scan now](https://images.drivereasy.com/wp-content/uploads/2021/09/scannow.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged audio driver to automatically download and install the correct audio driver (You can do this with the FREE version).
 
  Or click**Update All** to automatically download and install all the latest correct drivers that are missing or outdated (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will be prompted to upgrade when you click Update All).
@@ -58,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/5cb2e70fe5fc4984663e55071f50818b86ad28c60
 ![update sound card driver](https://images.drivereasy.com/wp-content/uploads/2021/09/update-audio-driver.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer and check whether your problem is solved.
@@ -82,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/5cb2e70fe5fc4984663e55071f50818b86ad28c60
 
 ![set another device as default](https://images.drivereasy.com/wp-content/uploads/2021/09/set-as-default.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Right-click your default device and select**Properties** . Go to the Advanced tab, and select a format**no more than 24 bit, 96000 Hz** .
 
 ![choose a correct sample format](https://images.drivereasy.com/wp-content/uploads/2021/09/quality.jpg)
@@ -93,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/5cb2e70fe5fc4984663e55071f50818b86ad28c60
  5) Click**Apply** to save the changes.
 
  Now launch your Battlefield 4 to check if the sound is coming back. If unfortunately not, don’t worry since we have a few more fixes for you to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3\. Check Windows Volume Mixer
 
@@ -102,12 +106,16 @@ thumbnail: https://thmb.techidaily.com/5cb2e70fe5fc4984663e55071f50818b86ad28c60
 
 ![open volume mixer](https://images.drivereasy.com/wp-content/uploads/2021/09/open-volume-mixer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Make sure that Battlefield 4 is not muted in Volume Mixer.
 
 ![check battlefield 4 sound not working](https://images.drivereasy.com/wp-content/uploads/2021/09/mixer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Now you’ll need to go to the**Advanced Sound settings** . Press the**Windows logo** key +**I** at the same time, and select**System** .
@@ -115,7 +123,7 @@ thumbnail: https://thmb.techidaily.com/5cb2e70fe5fc4984663e55071f50818b86ad28c60
 ![open system](https://images.drivereasy.com/wp-content/uploads/2021/09/system-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Select**Sound** from the left pane, and click**App volume and device preferences** under**Advanced sound options** .
@@ -123,7 +131,7 @@ thumbnail: https://thmb.techidaily.com/5cb2e70fe5fc4984663e55071f50818b86ad28c60
 ![open advanced sound settings](https://images.drivereasy.com/wp-content/uploads/2021/09/soundsettings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Make sure you set the Output of Battlefield 4 to the system default device instead of “Game”.
@@ -145,10 +153,6 @@ thumbnail: https://thmb.techidaily.com/5cb2e70fe5fc4984663e55071f50818b86ad28c60
  2) Under**Microsoft Defender Firewall** , swap it to**Off** .
 
 ![toggle firewall to off](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall-off.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Launch your Battlefield 4 and check if the sound is working now.
 
@@ -182,10 +186,6 @@ Launch your Battlefield 4 and check if the sound is working now.
 
 ![turn off orgin in game](https://images.drivereasy.com/wp-content/uploads/2021/09/originingame.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If disabling Origin In-Game Overlay doesn’t work, you can[perform a clean boot](https://tools.techidaily.com/drivereasy/download/) on your PC to find a problematic application.
 
 ---
@@ -211,16 +211,22 @@ Launch your Battlefield 4 and check if the sound is working now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-flaskful-formula-freaks/"><u>[New] In 2024, FLASKFUL FORMULA FREAKS</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-mac-users-manual-recording-high-quality-audio-with-audacity-for-2024/"><u>[New] Mac Users' Manual Recording High-Quality Audio with Audacity for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-edge-of-gaming-technology-samsung-ue590-monitor/"><u>2024 Approved The Edge of Gaming Technology Samsung UE590 Monitor</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/canon-mf4770n-driver-update-in-windows-1187/"><u>Canon MF4770n Driver Update in Windows 11/8/7</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-and-personal-training-crafting-unique-workout-plans-with-ai-assistance/"><u>ChatGPT and Personal Training: Crafting Unique Workout Plans with AI Assistance</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-fix-tutorial-when-your-bluetooth-mic-stops-responding/"><u>Comprehensive Fix Tutorial: When Your Bluetooth Mic Stops Responding</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnose-and-fix-microphone-problems-during-google-hangouts-calls-effortlessly/"><u>Diagnose and Fix Microphone Problems During Google Hangouts Calls Effortlessly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-common-issues-with-unresponsive-corsair-headsets/"><u>Diagnosing Common Issues with Unresponsive Corsair Headsets</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-elevating-content-strategy-through-youtube-metrics/"><u>In 2024, Elevating Content Strategy Through YouTube Metrics</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-top-10-neon-sign-makers-free-online-tools-for-custom-text/"><u>In 2024, Top 10 Neon Sign Makers Free Online Tools for Custom Text</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-audio-experience-expert-tips-to-fix-broken-stereo-mixes/"><u>Reviving Your Audio Experience: Expert Tips to Fix Broken Stereo Mixes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-unlocking-potential-master-dvd-burning-with-your-mac/"><u>[New] 2024 Approved Unlocking Potential Master DVD Burning with Your Mac</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-razer-barracuda-x-mic-not-working-windows-1110/"><u>[SOLVED] Razer Barracuda X Mic Not Working Windows 11/10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-strategic-brand-alliances-for-video-influencers/"><u>[Updated] Strategic Brand Alliances for Video Influencers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-building-a-brand-with-captivating-haul-videos-and-edits/"><u>2024 Approved Building a Brand with Captivating Haul Videos and Edits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-ai-for-mental-support-and-resilience-building/"><u>Assessing AI for Mental Support and Resilience Building</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/comment-substituer-le-hdd-par-un-ssd-dans-votre-ordinateur-portable-msi-guide-complet/"><u>Comment Substituer Le HDD Par Un SSD Dans Votre Ordinateur Portable MSI : Guide Complet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhancing-pc-speaker-volume-a-guide-for-windows-users/"><u>Enhancing PC Speaker Volume: A Guide for Windows Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016813683-google-meet-not-hearing-you-fix-microphone-problems-on-windows-10-and-11-easily/"><u>Google Meet Not Hearing You? Fix Microphone Problems on Windows 10 and 11 Easily!</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-lava-storm-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Lava Storm 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-navigating-zoom-settings-for-top-notch-audio-capture/"><u>In 2024, Navigating ZOOM Settings for Top-Notch Audio Capture</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-for-a-non-functioning-oculus-rift-s-microphone-learn-here/"><u>Quick Solutions for a Non-Functioning Oculus Rift S Microphone - Learn Here</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/rec-room-pc-microphone-troubleshooting-guide-2024-edition/"><u>Rec Room PC Microphone Troubleshooting Guide 2024 Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-hiccups-a-guide-to-restoring-zoom-microphone-functionality-on-windows/"><u>Solving Audio Hiccups: A Guide to Restoring Zoom Microphone Functionality on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-silent-problem-effective-solutions-for-noisy-windows-11-pcs/"><u>Solving the Silent Problem: Effective Solutions for Noisy Windows 11 PCs</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-dolby-sound-problems-in-windows-10-operating-system/"><u>Troubleshooting Dolby Sound Problems in Windows 10 Operating System</u></a></li>
+<li><a href="https://win-latest.techidaily.com/wechseln-von-ios-dateien-zur-externen-festplatte-anleitung-und-tipps-fur-einen-reibungslosen-vorgang/"><u>Wechseln Von iOS-Dateien Zur Externen Festplatte: Anleitung Und Tipps Für Einen Reibungslosen Vorgang</u></a></li>
 </ul></div>
 

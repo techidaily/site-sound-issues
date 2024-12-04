@@ -1,7 +1,7 @@
 ---
 title: How to Solve Microphone Malfunctions on the Razer Barracuda X Laptop (Windows 11/10)
-date: 2024-08-27T21:11:07.553Z
-updated: 2024-08-28T21:11:07.553Z
+date: 2024-12-02T23:24:49.135Z
+updated: 2024-12-03T23:57:58.816Z
 tags:
   - win11
   - win10
@@ -40,20 +40,30 @@ Follow these:
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Adjust the audio settings on Skype
 
 1. Login Skype with your own account.
 2. On Skype window, Click**Tools** \>**Options** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599a3fd935df2.png)
 3. Click**Audio settings** on the left pane. Then set your Microphone device and un-tick**Automatically adjust microphone settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
 4. Check to see if your Microphone works.
 
 ###
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your sound card driver
 
@@ -64,32 +74,26 @@ Follow these:
 1. [Download](https://tools.techidaily.com/drivereasy/download/)  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. You sound driver is no exception.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 4. Restart your computer and run Skype to see if your Microphone works.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Restart Windows audio service
 
 1. On your keyboard, press the **Windows logo** **key** and **R** (at the same time) to invoke the run command.
 2. Type**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996978261d98.png)
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Log in Skype and check to see if your Microphone works.
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 
 * [sound problem](https://tools.techidaily.com/drivereasy/download/)
 
@@ -99,8 +103,6 @@ Follow these:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,4 +110,24 @@ Follow these:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-issues.techidaily.com/1723016279135-corsair-hs60-mic-malfunction-heres-what-you-need-to-know/"><u>Corsair HS60 Mic Malfunction? Here's What You Need to Know!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/discover-how-to-restore-hearing-capabilities-in-your-discord-calls/"><u>Discover How to Restore Hearing Capabilities in Your Discord Calls</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-selection-of-exercise-record-apps-dominating-2024s-fitness-world/"><u>Discover the Ultimate Selection of Exercise Record Apps Dominating 2024'S Fitness World</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhance-system-audio-output-fixing-quiet-computers-on-windows-10/"><u>Enhance System Audio Output: Fixing Quiet Computers on Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-visuals-how-to-address-and-fix-blurry-graphics-while-playing-cod-warzone-on-your-pc/"><u>Enhancing Visuals - How to Address and Fix Blurry Graphics While Playing COD: Warzone on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-failure-of-your-hp-laptops-webcam-under-windows-11-a-comprehensive-guide/"><u>Fixing the Failure of Your HP Laptop's Webcam Under Windows 11 - A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-airpods-mic-working-again-on-a-windows-11-pc-a-step-by-step-guide/"><u>Getting Your AirPods Mic Working Again on a Windows 11 PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/lost-sounds-in-battlefield-aturality-is-a-characteristic-of-which-type-of-wine/"><u>Lost Sounds in Battlefield Aturality Is a Characteristic of Which Type of Wine?</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-monitor-safety-lenses/"><u>Optimal Monitor Safety Lenses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-definition-quest-mastering-win11s-lexicon/"><u>Quick Definition Quest: Mastering Win11's Lexicon</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016010772-quick-solutions-for-a-non-functional-logitech-g733-microphone-top-tips-included/"><u>Quick Solutions for a Non-Functional Logitech G733 Microphone - Top Tips Included</u></a></li>
+<li><a href="https://program-issues.techidaily.com/starting-your-city-planning-journey-fixing-cities-skylines-2-initialization-woes/"><u>Starting Your City Planning Journey: Fixing Cities: Skylines 2 Initialization Woes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/steam-vr-not-showing-up-try-these-6-fixes/"><u>Steam VR Not Showing Up? Try These 6 Fixes!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-when-the-hyperx-cloud-alphas-microphone-stops-working/"><u>Step-by-Step Fixes for When the HyperX Cloud Alpha's Microphone Stops Working</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96316645-9781401947613-the-truth-of-spirits/"><u>The Truth of Spirits | Free Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-razer-blackshark-v2-microphone-failures/"><u>Troubleshooting Tips for Razer BlackShark V2 Microphone Failures</u></a></li>
+</ul></div>
 

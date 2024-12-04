@@ -1,7 +1,7 @@
 ---
 title: "Fixing Black Ops Cold War: Resolving Voice Chat Issues"
-date: 2024-11-18T02:44:17.528Z
-updated: 2024-11-25T01:47:03.316Z
+date: 2024-11-27T22:41:44.722Z
+updated: 2024-12-03T20:23:19.198Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix Apex Legends Voice Chat Not Working
 
  Here are 6 fixes that have helped other users resolve the**Apex Legends voice chat not working** problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -38,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 6. **[Reinstall Origin and Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Allow Origin to access your microphone
@@ -51,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-245.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In**Allow apps to access your microphone** , and turn on**the switch** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-246.png)
@@ -63,11 +55,19 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-248.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  By doing so, you have allowed Origin the access to the microphone on your computer.
 
  Now run Apex Legends and check to see if the microphone not working problem is resolved. If yes, then great! If the problem still remains, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -82,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-35.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the audio driver, simply click the **Update** button next to it.
 
@@ -109,6 +113,10 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-242.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) Close the window.
 
 6) Launch Apex Legends to see if the mic not working problem is fixed. If yes, then congrats! If the issue persists, please try**Fix 3** , below.
@@ -126,24 +134,16 @@ Here is how to configure in-game settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-260.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**More** \>**VOICE** , then make sure**the microphone you’re using is selected** and**Microphone volum** e is set to**an audio volume** . After that, in**Activation mode** , choose**Push-to-talk** .
 
 ![This image has an empty alt attribute; its file name is image-261-1024x700.png](https://images.drivereasy.com/wp-content/uploads/2019/10/image-261-1024x700.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Open Apex Legends, then go to**Settings > AUDIO** and set the **Voice Chat Record Mode** to **Push to Talk** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-262-1024x576.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Again, play Apex Legends to see if the voice chat not working issue is resolved.
 
@@ -159,6 +159,10 @@ Here is how to configure in-game settings:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Reinstall Origin and Apex Legends
 
  If the above steps don’t solve the issue, then it’s likely that the files in Origin or Apex Legends are corrupt. So you can reinstall the client and the game to see if it solves the problem.
@@ -168,10 +172,6 @@ Here are the steps:
  1) On your keyboard, press the **Windows logo key** and **R** at the same time, then type **appwiz.cpl** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
@@ -209,22 +209,22 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-easy-steps-how-to-record-on-vimeo/"><u>[New] 2024 Approved Easy Steps How to Record on Vimeo</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-discover-your-latest-fb-watch-list/"><u>[New] In 2024, Discover Your Latest FB Watch List</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-the-problem-of-unplugged-speakersheadphones-in-windows-os-a-step-by-step-guide-for-windows-10-8-and-7-users/"><u>Diagnosing and Fixing the Problem of Unplugged Speakers/Headphones in Windows OS: A Step-by-Step Guide for Windows 10, 8 & 7 Users.</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-the-latest-lenovo-thunderbolt-3-docking-station-drivers/"><u>Download the Latest Lenovo Thunderbolt 3 Docking Station Drivers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-restoring-sound-with-headsets-on-your-windows-7-pc/"><u>Expert Tips for Restoring Sound with Headsets on Your Windows 7 PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-how-ai-fuses-fantasy-with-fact-through-eight-innovative-strategies/"><u>Exploring How AI Fuses Fantasy with Fact Through Eight Innovative Strategies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/from-mute-to-music-correcting-conexant-smartaudio-hd-sound-absence-in-windows-11/"><u>From Mute to Music: Correcting Conexant SmartAudio HD Sound Absence in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-dolby-truehd-to-work-on-windows-11-overcoming-driver-initialization-challenges/"><u>Getting Dolby TrueHD to Work on Windows 11: Overcoming Driver Initialization Challenges</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-narzo-n53-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-chromebook-screenshot-hacks-in-four-steps/"><u>In 2024, Chromebook Screenshot Hacks in Four Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-windows-1aster7-sound-distortion-issues-in-depth-troubleshooting-guide/"><u>Overcoming Windows 1Aster/7 Sound Distortion Issues – In-Depth Troubleshooting Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-logitech-g230-microphone-a-step-by-step-guide-to-fix-the-problems/"><u>Reviving Your Logitech G230 Microphone: A Step-by-Step Guide to Fix the Problems</u></a></li>
-<li><a href="https://win-community.techidaily.com/selecting-the-right-account-type-a-guide-to-setting-up-your-pc-on-windows-11-zdnet/"><u>Selecting the Right Account Type: A Guide to Setting Up Your PC on Windows 11 - ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silencing-your-logitech-g-pro-x-top-solutions-for-eliminating-clicky-sounds/"><u>Silencing Your Logitech G Pro X: Top Solutions for Eliminating Clicky Sounds</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-stunning-camera-quality-of-the-huawei-p20-pro-smartphone/"><u>The Ultimate Guide to the Stunning Camera Quality of the Huawei P20 Pro Smartphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-microphone-issues-in-google-meet-on-windows-11-and-10/"><u>Troubleshooting Guide: Fixing Microphone Issues in Google Meet on Windows 11 & 10</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/why-the-corsair-mp600-mini-is-your-go-to-choice-in-1tb-m2-drives-e7-t-reviewed/"><u>Why the Corsair MP600 Mini Is Your Go-To Choice in 1TB M.2 Drives (E#7 T) Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tailoring-your-whatsapp-ringtone-for-ios-and-android-devices/"><u>[New] Tailoring Your WhatsApp Ringtone for iOS and Android Devices</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-nostalgia-on-screen-step-by-step-for-image-to-video-conversion/"><u>[Updated] 2024 Approved Nostalgia on Screen Step-by-Step for Image to Video Conversion</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-preeminent-platforms-twitter-like-experiences/"><u>[Updated] 2024 Approved Preeminent Platforms Twitter-Like Experiences</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-precision-portals-to-ps3-gaming-on-windows/"><u>[Updated] In 2024, Precision Portals to Ps3 Gaming on Windows</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-ultimate-list-10-movie-gems-to-spark-inspiration/"><u>[Updated] Ultimate List 10 Movie Gems to Spark Inspiration</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/duelling-devices-silent-discover-solutions-for-pairing-two-computers-without-sounds/"><u>Duelling Devices Silent? Discover Solutions for Pairing Two Computers Without Sounds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016052715-end-your-listening-discomfort-eliminate-headphone-static-now/"><u>End Your Listening Discomfort - Eliminate Headphone Static Now</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/full-assessment-razers-hd-webcam-for-2024/"><u>Full Assessment Razer's HD Webcam for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-voice-communication-in-your-destiny-2-gameplay/"><u>How to Restore Voice Communication in Your Destiny 2 Gameplay</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-turn-off-sound-enhancing-features-on-windows-11/"><u>How to Turn Off Sound Enhancing Features on Windows 11</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-audio-to-video-bridge-easy-3-step-guide-for-mp3-to-youtube-uploads/"><u>In 2024, Audio-to-Video Bridge Easy 3-Step Guide for MP3 to YouTube Uploads</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/nvidia-display-not-showing-heres-how-to-fix-an-unplugged-output-issue/"><u>Nvidia Display Not Showing? Here's How to Fix an Unplugged Output Issue</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/perfect-your-unboxing-game-8-tips-from-experts-for-2024/"><u>Perfect Your Unboxing Game 8 Tips From Experts for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-silent-firefox-browsing-experience/"><u>Troubleshooting and Fixing Silent Firefox Browsing Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016549388-troubleshooting-tips-restore-audio-on-your-dell-device-now/"><u>Troubleshooting Tips: Restore Audio on Your Dell Device Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-voicemod-opening-app-fixes-and-tips/"><u>Troubleshooting Voicemod: Opening App Fixes and Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-the-distinctions-machine-learning-versus-natural-language-processing/"><u>Unraveling the Distinctions: Machine Learning Versus Natural Language Processing</u></a></li>
 </ul></div>
 

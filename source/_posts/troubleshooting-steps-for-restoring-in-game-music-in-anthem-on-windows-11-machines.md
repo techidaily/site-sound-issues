@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Restoring In-Game Music in Anthem on Windows 11 Machines
-date: 2024-11-21T20:44:55.637Z
-updated: 2024-11-24T20:41:42.059Z
+date: 2024-11-28T17:31:20.316Z
+updated: 2024-12-03T19:48:05.798Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Before getting started, be sure**NOT** **to mute** your computer in the Volume icon. And drag the Volume slider to**Maximum** .
@@ -35,6 +31,10 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 1. [Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 2. [Check audio settings](https://tools.techidaily.com/drivereasy/download/)
 3. [Roll back your audio driver](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your audio driver
 
@@ -56,6 +56,10 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72220f11f9.jpg)
 4. Restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Check if there’s any sound in your computer.
 
  If the problem still persists, don’t worry. We have other solutions.
@@ -73,19 +77,19 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7201dbcc98.jpg)
 3. Select your speaker audio device, and click**Set Default** to set it as your default device.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your device has been the default device, you’ll see a green check mark next to your device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72066a032c.jpg)
 4. Restart your computer, and plug a headphone to see if there’s any sound.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Still no luck? Okay, there’s one more thing to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Roll back your audio driver
 
@@ -95,10 +99,6 @@ Still no luck? Okay, there’s one more thing to try.
 2. Type**devmgmt.msc** and click**OK** to open Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721431cb33.jpg)
 3. Double click**Sound, video and game controllers** to expand it.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72165a0e6f.jpg)
 4. Double click on your**audio device** to open the properties pane.  
@@ -110,7 +110,7 @@ Still no luck? Okay, there’s one more thing to try.
 6. Follow the on-screen instructions to finish the process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Restart your computer.
@@ -139,14 +139,16 @@ Feel free to leave a comment below if you have any questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/trategies-for-full-time-workers-who-create-videos-for-2024/"><u>[New] Strategies for Full-Time Workers Who Create Videos for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/5-solutions-for-xiaomi-redmi-13c-unlock-without-password-by-drfone-android/"><u>5 Solutions For Xiaomi Redmi 13C Unlock Without Password</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-audiovisual-issues-in-new-world-game/"><u>Diagnosing and Repairing Audiovisual Issues in New World Game</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/event-tracing-fatal-error-windows-11-solved/"><u>Event Tracing Fatal Error Windows 11 [SOLVED]</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/gopropc/"><u>GoProビデオのパーツをPC上で連携してマージするプロセス</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-quickly-fix-a-non-functional-astro-a20-audio-input/"><u>How to Quickly Fix a Non-Functional Astro A20 Audio Input</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-on-your-logitech-g-pro-x-headset-effective-fixes-unveiled/"><u>How to Restore Sound on Your Logitech G Pro X Headset: Effective Fixes Unveiled</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-original-aspect-ratios-in-windows-11/"><u>Restoring Original Aspect Ratios in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-common-fixes-for-non-functional-voice-communication-in-pubg/"><u>Troubleshooting: Common Fixes for Non-Functional Voice Communication in PUBG</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-find-elite-instagram-tones-and-craft-unique-alarm-sounds/"><u>[New] How to Find Elite Instagram Tones and Craft Unique Alarm Sounds</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-the-basics-of-telegram-advertising-as-a-novice/"><u>[Updated] Mastering the Basics of Telegram Advertising as a Novice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015048612-apex-legends-no-sound-problem-resolved-steps-to-get-your-game-cacophonous-again/"><u>Apex Legends No Sound Problem Resolved: Steps to Get Your Game Cacophonous Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-and-fixes-for-dealing-with-computer-speaker-issues/"><u>Expert Tips and Fixes for Dealing with Computer Speaker Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-logitech-g733-microphone-troubleshooting-tips/"><u>Fixing Your Logitech G733 Microphone: Troubleshooting Tips</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-motorola-moto-g13-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Motorola Moto G13 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-asus-rog-phone-7-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Asus ROG Phone 7.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/rainbow-six-siege-voice-not-working-easy-fixes-for-the-2024-game-update/"><u>Rainbow Six Siege Voice Not Working? Easy Fixes for the 2024 Game Update</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-hdmi-sound-problems-in-windows-operating-system-a-step-by-step-guide/"><u>Resolving HDMI Sound Problems in Windows ^ Operating System: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-oppo-find-x7-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Oppo Find X7</u></a></li>
 </ul></div>
 

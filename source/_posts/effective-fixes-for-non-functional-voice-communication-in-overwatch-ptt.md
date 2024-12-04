@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Non-Functional Voice Communication in Overwatch (PTT)
-date: 2024-11-17T22:05:39.819Z
-updated: 2024-11-25T02:41:08.453Z
+date: 2024-12-02T03:53:06.670Z
+updated: 2024-12-04T06:49:51.518Z
 tags:
   - win11
   - win10
@@ -32,6 +32,11 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 5. **[Update the audio driver](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Restart the Windows Audio Endpoint Builder service](https://tools.techidaily.com/drivereasy/download/)**
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: Ensure the external sound device is plugged in (desktop only)
 
  If you’re using a desktop computer, _**ensure the device you use to listen to the sound such as external speakers, is plugged in**_  .  
@@ -55,6 +60,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d47875fcc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re using a**laptop computer** , you also need to check if the**microphone** device is disabled.  
   
  Follow these steps:  
@@ -66,6 +75,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  2) If you see the Microphone disabled, right-click on the item, then select**Enable** . If you see the Microphone enabled, skip this step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d5e494746.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##
   
@@ -81,17 +94,9 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6ee48396.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6c34f39b.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Ensure the**Host** field set to**Windows WASAPI** .
 
@@ -125,6 +130,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d7d97fc21.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##
   
  Solution 5: Update the audio driver
@@ -143,19 +152,11 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d83603b51.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to a flagged audio driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d8b093ee6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) After updating the driver, check to see if you can record sound successfully.
 
@@ -173,13 +174,13 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d9350bf7b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Windows Audio Endpoint Builder** , then click**Restart** . The follow the on-screen instructions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d97536340.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Check to see if you can record successfully.  
   
@@ -203,19 +204,16 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-flipping-the-script-mobile-filmmaking-and-youtube-thumbnail-tricks-for-2024/"><u>[Updated] Flipping the Script Mobile Filmmaking & YouTube Thumbnail Tricks for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-twisting-the-narrative-a-guide-to-angled-photography-in-todays-digital-landscape/"><u>[Updated] In 2024, Twisting the Narrative A Guide to Angled Photography in Today's Digital Landscape</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-nighttime-luminosity-on-iphone-photos/"><u>[Updated] Nighttime Luminosity on iPhone Photos</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-what-makes-a-youtube-short-go-viral/"><u>[Updated] What Makes a YouTube Short Go Viral?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/chrome-muted-discover-how-we-solve-playback-problems-with-clarity/"><u>Chrome Muted? Discover How We Solve Playback Problems with Clarity</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-resolving-windows-10-headphone-connectivity-woes/"><u>Expert Tips: Resolving Windows 10 Headphone Connectivity Woes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722845437826-exploring-the-concept-of-output-impedance-explained/"><u>Exploring the Concept of Output Impedance Explained</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-audio-issue-how-to-resolve-speaker-crackling-on-pcs-running-windows-10-or-7/"><u>Fixing the Audio Issue: How to Resolve Speaker Crackling on PCs Running Windows 10 or 7</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-basics-to-expertise-3d-lut-creation/"><u>In 2024, From Basics to Expertise 3D LUT Creation</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-v29-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo V29 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/joke-makers-haven-get-it-today-for-2024/"><u>Joke Makers' Haven - Get It Today for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016078711-solution-found-razor-kraken-headset-mic-wont-work-heres-why-and-how-to-fix-it/"><u>Solution Found: Razor Kraken Headset Mic Won't Work - Here's Why and How to Fix It!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-call-of-duty-modern-warfares-persistent-crashing-problem/"><u>Troubleshooting Guide for Call of Duty: Modern Warfare's Persistent Crashing Problem</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unsilencing-discord-top-tips-to-restore-your-voice-connection/"><u>Unsilencing Discord: Top Tips to Restore Your Voice Connection</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macx-dvd-ripper-pro-and-macx-video-converter-pro/"><u>[公式製品] 特別価格オフ！ MacX DVD Ripper Pro & MacX Video Converter Pro セットの大割引！</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-re-watch-lost-youtube-scenes-online-simple-steps/"><u>[New] In 2024, How to Re-Watch Lost YouTube Scenes Online Simple Steps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-navigating-name-change-in-google-meet-laptopmobile/"><u>[Updated] 2024 Approved Navigating Name Change in Google Meet (Laptop/Mobile)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cut-out-the-crackle-expert-strategies-to-resolve-sound-disturbances-in-logitech-g-pro-x-headsets/"><u>Cut Out the Crackle: Expert Strategies to Resolve Sound Disturbances in Logitech G Pro X Headsets</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dealing-with-multiple-audio-services-failure-a-comprehensive-fix-guide/"><u>Dealing with Multiple Audio Services Failure - A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-the-silent-problem-in-jabra-g435-wireless-earbuds-comprehensive-fixes-here/"><u>Fix the Silent Problem in Jabra G435 Wireless Earbuds – Comprehensive Fixes Here</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-honor-magic-5-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Honor Magic 5 Quickly | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-low-sound-output-challenges-in-windows-10-computers-and-laptops/"><u>Overcoming Low Sound Output Challenges in Windows 10 Computers and Laptops</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/professional-uc-sound-with-sennheiser/"><u>Professional UC Sound with Sennheiser</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-resolve-computer-volume-problems-fast-expert-tips/"><u>Troubleshoot and Resolve Computer Volume Problems Fast – Expert Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726223950709-tga-gif-movavi/"><u>무료로 비주얼 포토인과 다윈 이미지를 위해 TGA GIF에서 Movavi로 강력하고 원활한 전환 - 원격화</u></a></li>
 </ul></div>
 

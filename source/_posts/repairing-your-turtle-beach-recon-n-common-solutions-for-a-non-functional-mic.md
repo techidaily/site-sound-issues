@@ -1,7 +1,7 @@
 ---
 title: "Repairing Your Turtle Beach Recon N: Common Solutions for a Non-Functional Mic"
-date: 2024-08-27T21:10:11.895Z
-updated: 2024-08-28T21:10:11.895Z
+date: 2024-12-01T23:23:56.408Z
+updated: 2024-12-04T06:21:09.868Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
  The mic of your Razer ManO’War headset stops working for no reason? Well, that’s pretty infuriating – especially when you’re immersing in a multiplayer video game and all of a sudden, the mic refuses to transmit your voice or produce sound. Luckily, you’re not the only one here as many other disgruntled users reported the same problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 fixes for Razer ManO’War mic not working
 
  So is it possible to resolve this problem? Sure thing, as long as your mic is not broken. Here’re 5 fixes that have proved useful in many situations. You can try any of them selectively, or you can try them one by one; just work your way down the list until you find that one what does the trick.
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check your Sound settings
 
  Usually Windows will identify your plugged-in headset as the default playback/recording device, but that’s not always the case. To see if there’s anything wrong with the settings for your Razer ManO’War, please perform the following procedure:
@@ -47,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-103.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click to highlight**Razer ManO’War** , then click**Set Default > Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-115.png)
@@ -57,9 +69,17 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-106.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the**Levels** tab, see if your mic is muted. In case it is (as shown in the following screenshot), click on the little speaker icon to unmute your mic. On completion, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-116.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click**OK** to save all the changes.
 
@@ -69,9 +89,6 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Modify Privacy settings
 
  There’s a possibility that your privacy settings related to the microphone has been reset after a Windows Update or other system events. If so, some programs (e.g. a video game) might be forbidden to access your mic. Here’s how to check and modify these settings:
@@ -80,18 +97,12 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-365.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) On the**Microphone** tab, in the results pane, click **Change** to see if**Microphone access for this device** is toggled on. If it isn’t, make sure you toggle it on.
 
  Right below you’ll see another toggle for **Allow apps to access your microphone** . Also remember to turn it on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-368.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Scroll down and head to the part of **Choose which apps can access your microphone** . Make sure you**toggle on** the apps in which you want to use the mic.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
@@ -112,16 +123,14 @@ If this fix didn’t help, please try out the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-109.png)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) On the next page, scroll down and select**Razer ManO’War** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-110.png)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Click**View software, drivers and updates for download >** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-111.png)
@@ -129,6 +138,10 @@ If this fix didn’t help, please try out the next fix.
  5) Find the one compatible with your operating system, and click**Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-114.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After downloading the correct file, install it on your PC. Then, launch Razer Synapse and configure the settings for your Razer ManO’War mic. Check to see whether your mic has gone back to normal; if it hasn’t, then please give the next fix a shot.
 
@@ -150,9 +163,6 @@ If this fix didn’t help, please try out the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-07-15_14-27-17.png)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your audio driver for now, simply click the **Update**  button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-7.png)
@@ -162,6 +172,10 @@ If this fix didn’t help, please try out the next fix.
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We’re always here to help.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Check for hardware malfunction
 
@@ -187,8 +201,6 @@ If this fix didn’t help, please try out the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +208,19 @@ If this fix didn’t help, please try out the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-streamlining-creation-youtube-video-editor-insights/"><u>[New] In 2024, Streamlining Creation YouTube Video Editor Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/continuous-sound-cuts-during-playback-heres-what-you-can-do-windows-11/"><u>Continuous Sound Cuts During Playback? Here's What You Can Do (Windows 11)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-restoring-stereo-mix-capabilities-on-your-devices/"><u>Effective Solutions for Restoring Stereo Mix Capabilities on Your Devices</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/foster-fluency-essential-3-mental-workouts/"><u>Foster Fluency: Essential 3 Mental Workouts</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-x230-lenovo-up-and-running-with-easy-driver-downloads/"><u>Get Your X230 Lenovo Up and Running with Easy Driver Downloads</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-elevate-your-audio-game-with-free-vocal-effects/"><u>In 2024, Elevate Your Audio Game with Free Vocal Effects</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-lava-yuva-3-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Lava Yuva 3 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-assessment-of-the-apple-books-ebook-reader/"><u>In-Depth Assessment of the Apple Books eBook Reader</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-resolving-sound-sync-issues/"><u>Ultimate Troubleshooting: Resolving Sound Sync Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlock-the-solution-for-realtek-hd-audio-manager-failure-to-open-on-your-pc/"><u>Unlock the Solution for Realtek HD Audio Manager Failure to Open on Your PC</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Eliminate Pops and Noise From Your Computer's Speakers (Windows)
-date: 2024-11-23T22:46:40.609Z
-updated: 2024-11-25T02:55:56.588Z
+date: 2024-11-26T22:50:06.865Z
+updated: 2024-12-04T05:27:49.361Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix HP Laptop Sound Not Working
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
 5. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 1: Troubleshoot the hardware issue**
@@ -70,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb12196f37.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 2\. Make sure your audio device is set as default
 
  1) Right click the**volume icon** at the bottom right corner, and click**Playback devices** .
@@ -98,21 +94,21 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select your audio device in the**Playback** tab, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962c8cd39cb.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Advanced** . In Default Format, choose another different audio rate, then click the**Test** button. Then play a music or audio to test.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962d0ec718d.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) You will need to repeat this until you find a proper audio format. Once you find the proper audio format to work, click**OK** to save the settings.
 
@@ -126,6 +122,10 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb470694a1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Make sure there’s**NOT** a down arrow displayed next to the volume icon in your sound device, like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb4e9bbee3.png)
@@ -133,6 +133,10 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
  If a**down arrow** displays on the volume icon, the sound device is disabled. Right click the device name, and select**Enable** **device** to enable your sound device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb53fb8555.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Try the sound to see if it works.
 
@@ -161,7 +165,7 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer and check whether your problem is solved.
@@ -180,10 +184,6 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ec385bd3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4)**Confirm** the uninstallation. Check the box next to**Delete the driver software for this device** if there’s an option like this, then confirm the uninstall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ef431c66.png)
@@ -191,7 +191,7 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
  5) Restart your computer and Windows will automatically download and install the sound driver for your device. After that, check the sound to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Check for corrupted system files
@@ -240,24 +240,15 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-top-10-cheap-cameras-for-dynamic-shots/"><u>[New] Top 10 Cheap Cameras For Dynamic Shots</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-beam-your-best-achieving-hd-quality-with-fb-live-for-2024/"><u>[Updated] Beam Your Best Achieving HD Quality with FB Live for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-capture-masters-expertly-reviewing-recorders-for-2024/"><u>[Updated] Capture Masters Expertly Reviewing Recorders for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-dissecting-splitcams-stand-in-video-technology/"><u>[Updated] In 2024, Dissecting SplitCam's Stand in Video Technology</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-best-practices-for-organizing-online-video-stories/"><u>2024 Approved Best Practices for Organizing Online Video Stories</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-broadcast-choices-expert-tips-and-no10-insights/"><u>2024 Approved Mastering Broadcast Choices Expert Tips and No.10 Insights</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-why-your-realtek-hd-audio-manager-isnt-starting-and-how-to-fix-it/"><u>Effective Solutions: Why Your Realtek HD Audio Manager Isn't Starting and How to Fix It</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/essential-win11-pro-tips-and-hacks-for-2024/"><u>Essential Win11 Pro Tips & Hacks for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-motorola-g54-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Motorola G54 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-astro-a50s-microphone-working-again/"><u>How to Get Your Astro A50's Microphone Working Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015714518-how-to-get-your-laptops-speakers-back-in-action/"><u>How to Get Your Laptop's Speakers Back in Action</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-and-restore-proper-functionality-of-the-stereo-mix-setting/"><u>How To Repair and Restore Proper Functionality of the 'Stereo Mix' Setting</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-a79-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Oppo A79 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mac-no-volume-troubleshooting-tips-for-restoring-sound-output-on-mac-devices/"><u>Mac No Volume: Troubleshooting Tips for Restoring Sound Output on Mac Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-noise-continuity-overcoming-sound-hiccups-in-windows-11-systems/"><u>Mastering Noise Continuity: Overcoming Sound Hiccups in Windows 11 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/oculus-rift-s-mic-trouble-try-these-rapid-fixes-to-get-you-talking-again/"><u>Oculus Rift S Mic Trouble? Try These Rapid Fixes to Get You Talking Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-your-runmuss-game-headset-microphone-woes/"><u>Troubleshoot and Fix Your Runmuss Game Headset Microphone Woes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixes-resolving-csgo-microphone-issues/"><u>Troubleshooting Fixes: Resolving CS:GO Microphone Issues</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-prime-choice-top-ps3-emulators-pc-users/"><u>[Updated] The Prime Choice Top PS3 Emulators PC Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/2024-solutions-eliminate-popping-sounds-from-logitech-g-pro-x-for-crystal-clear-pc-audio/"><u>2024 Solutions: Eliminate Popping Sounds From Logitech G Pro X for Crystal Clear PC Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-fix-for-mute-computers-restoring-audio-without-hassle/"><u>Effortless Fix for Mute Computers: Restoring Audio Without Hassle</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-components-with-toms-tech-insights-toms-hardware/"><u>Exploring Computer Components with Tom's Tech Insights 🖥️ | Tom's Hardware</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/exploring-the-world-of-ui-with-creative-tim-access-your-collection-of-over-37-design-systems-and-resources/"><u>Exploring the World of UI with Creative Tim: Access Your Collection of Over 37 Design Systems & Resources</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-eliminating-audio-interruptions-in-bluetooth-devices-on-windows-11/"><u>Fixing the Issue: Eliminating Audio Interruptions in Bluetooth Devices on Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-range-creativity-with-premium-ae-samples-for-2024/"><u>Free-Range Creativity with Premium AE Samples for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-silence-a-how-to-for-fixing-pc-microphone-issues-during-zoom-sessions/"><u>Overcoming Silence: A How-To for Fixing PC Microphone Issues During Zoom Sessions</u></a></li>
+<li><a href="https://win-unique.techidaily.com/safe-and-effective-techniques-to-wipe-your-hard-drive-before-recycling-insights-and-tips/"><u>Safe and Effective Techniques to Wipe Your Hard Drive Before Recycling: Insights and Tips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/top-underground-sources-for-smart-fb-memes/"><u>Top Underground Sources for Smart FB Memes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Toshiba No Sound Problem? Here Are the Best Remedies You Can Try!
-date: 2024-08-27T21:09:12.178Z
-updated: 2024-08-28T21:09:12.178Z
+date: 2024-11-28T05:29:37.041Z
+updated: 2024-12-04T04:28:07.184Z
 tags:
   - win11
   - win10
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/48bbf816680af2439ef36580a7c2fe3c4155339da
 
  If your sound isn’t muted but sound won’t work properly, don’t worry. Move on to the next step.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Check headphones or speakers work properly
 
  If the sound problem occurs when headphones or speakers are plugged in to your laptop, make sure your headphones or speakers are working properly.
@@ -47,9 +51,9 @@ thumbnail: https://thmb.techidaily.com/48bbf816680af2439ef36580a7c2fe3c4155339da
  You can try to plug your headphones or speakers to another laptop, and see if it works properly. If they are not working at all, then it looks like a hardware problem on your headphones or speakers, and you should head to the manufacturer; if they work perfectly when plugging on another laptop, then the problem lies in your Toshiba laptop, and you can move to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Make sure your audio device is enabled
 
  If your audio device has been disabled in Windows, anything related to the sound won’t work at all. So you should check and make sure the audio device in your Toshiba laptop is enabled.
@@ -66,9 +70,6 @@ Here are the instructions:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-743.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  4) Right click on your**audio device** (in my case it’s AMD High Definition Audio Device), and click**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-745.png)
@@ -84,8 +85,9 @@ Here are the instructions:
 Your sound problem still persists? Move to the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your audio driver
 
  An audio driver problem can result in your sound not working. For instance, if your audio driver is missing or corrupted, your laptop won’t play any sound at all. To rule it out as the cause, you can update your audio driver to the latest version.
@@ -102,25 +104,20 @@ Your sound problem still persists? Move to the next method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-747.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-746.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Note: You can do it for free if you like, but it’s partly manual.
 
 4) Restart Windows to take effect.
 
 Now try playing sound in your laptop and your problem should be fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Run the sound troubleshooter
 
  Windows has introduced the built-in troubleshooter which allows Windows users to troubleshoot the hardware problem and try to fix it. So if sound is not working in your Toshiba laptop, you can run the Windows troubleshooter and see if helps resolve your problem.
@@ -131,23 +128,14 @@ Here’s what you can do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-540.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
  2) Ensure to choose**View by Large icons** or**View by Small icons** , and click**Troubleshooting** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-541-1024x579.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Hardware and Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-543.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  4) Click**Playing Audio** to find and fix problems with playing sound.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-544-1024x578.png)
@@ -161,6 +149,10 @@ Here’s what you can do:
  Hopefully Windows troubleshooter detects your sound issue and fixes it for you.
 
 Still no luck? Don’t give up hope.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Configure sound settings
 
@@ -179,6 +171,10 @@ Still no luck? Don’t give up hope.
  3) In the**Playback** tab, right click the empty area and select**Show Disabled Devices** and**Show Disconnected Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-752.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) From the list of the playback device, select your audio device and click**Set Default** .
 
@@ -200,27 +196,22 @@ If this step doesn’t work, try step 2.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-540.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Ensure to choose**View by Large icons** or**View by Small icons** . Then click**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-750-1024x575.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  3) In the**Playback** tab, right click the empty area and select**Show Disabled Devices** and**Show Disconnected Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-753.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) From the list of the playback device, select your audio device and click**Configure** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-757.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5) Follow the on-screen instructions to finish the process.
 
 Once completed, play sound and see if it works.
@@ -231,9 +222,6 @@ Once completed, play sound and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-540.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) Ensure to choose**View by Large icons** or**View by Small icons** . Then click**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-751-1024x575.png)
@@ -246,24 +234,30 @@ Once completed, play sound and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-758.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click the**Advanced** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-759.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  6) Choose**different audio rates** one by one and click**Test** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-760.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Then see if the sound restarts to work. Try different rates until your sound begins to work again. Then click**Apply** and**OK** to save your changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-761.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Hopefully this post helps to fix**sound not working on Toshiba laptop** .
 
 If you have any questions, feel free to leave us a comment below.
@@ -277,8 +271,6 @@ If you have any questions, feel free to leave us a comment below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -286,4 +278,19 @@ If you have any questions, feel free to leave us a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-tactics-to-maximize-vimeo-viewership-for-2024/"><u>[Updated] Tactics to Maximize Vimeo Viewership for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/call-of-duty-black-ops-cold-war-expert-tips-to-restore-your-voice-chat-feature/"><u>Call of Duty: Black Ops Cold War - Expert Tips to Restore Your Voice Chat Feature</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/headphones-sound-fizzing-quick-remedies-to-silence-the-static/"><u>Headphones Sound Fizzing? Quick Remedies to Silence the Static!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-xiaomi-redmi-12-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Xiaomi Redmi 12 Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-enhance-listening-experience-on-pc-get-x-recorder-software/"><u>In 2024, Enhance Listening Experience on PC – Get X-Recorder Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/neatness-noted-navigating-a-tidier-windowed-explore/"><u>Neatness Noted: Navigating a Tidier Windowed Explore</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/response/"><u>Response]:</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-why-your-bluetooth-device-is-connected-but-has-no-sound/"><u>Solved! Why Your Bluetooth Device Is Connected but Has No Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-dell-audio-problems-with-these-easy-steps/"><u>Troubleshoot Dell Audio Problems with These Easy Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-modems-fixing-post-windows-10-sound-issues/"><u>Troubleshooting Silent Modems: Fixing Post-Windows 10 Sound Issues</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-digital-storytellings-key-concepts-for-2024/"><u>Unveiling Digital Storytelling's Key Concepts for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-display-settings-enhancement/"><u>Windows 11 Display Settings Enhancement</u></a></li>
+</ul></div>
 

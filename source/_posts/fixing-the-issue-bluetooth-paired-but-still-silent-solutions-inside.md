@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Bluetooth Paired but Still Silent – Solutions Inside!"
-date: 2024-08-27T21:11:17.527Z
-updated: 2024-08-28T21:11:17.527Z
+date: 2024-12-02T17:49:17.760Z
+updated: 2024-12-03T17:10:39.202Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/4972cc2e9b4458b9418df3ae9472982c28de632e5
 ## Silent Bluetooth Pairing: Uncover the Reasons and Restore Your Audio Today
 
 If you run into the**Bluetooth** connected but no sound coming out issue on your computer, don’t worry. It’s often quite easy to fix…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 fixes for Bluetooth Connected But No Sound
 
@@ -44,8 +48,9 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Make sure the audio level is high enough
 
  In**Fix 2** , we make sure our Bluetooth speaker/headphone’s is at least audible. Here’s how:
@@ -53,6 +58,11 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 1. On your keyboard, press the **Windows logo key**  and type**sound** . Then click on**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1c8bbf643.jpg)
 2. In the**Playback** tab, click on**your** **Bluetooth device** \>**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d223cd2694.jpg)
 3. Click the Levels tab. Then make sure**the volume bar is dragged to an audible level** and the sound icon**isn’t muted** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d22c378f3f.png)
@@ -62,8 +72,9 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Make sure the Bluetooth Support Service is enabled
 
  Another reason for this **Bluetooth Connected But No Sound**  problem is the service simply disabled. To turn it back on:
@@ -71,11 +82,13 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 1. On your keyboard, press the **Windows logo key**  and **R**  at the same time. Then copy & paste **services.msc**  into the box and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ef3aff37fc.jpg)
 2. Double-click on**Bluetooth Support Service** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1e0590947.jpg)
 3. Select**Automatic** in the**Startup type** drop-down menu and then click**Start** to jumpstart the service. Then click**Apply** \>**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1ea8ed445.jpg)
 4. Play some music and test if your**Bluetooth Connected But No Sound** has been fixed. If it’s still no joy, please move on to F**ix 4,** below.
 
@@ -100,15 +113,13 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627e9c324d0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer, play some music and see if **Bluetooth Connected But No Sound**  problem has been resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Repair corrupted system files
 
  If you are facing persistent issues and none of the previous solutions have proven effective, it is possible that your corrupted system files are to blame. To rectify this, repairing the system files becomes crucial. The System File Checker (SFC) tool can assist you in this process. By executing the “sfc /scannow” command, you can initiate a scan that identifies problems and repairs missing or corrupted system files. However, it is important to note that **the SFC tool primarily focuses on scanning major files and may overlook minor issues** .
@@ -120,9 +131,6 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 3. If Fortectdetects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
 Once finished with the repair, check if the error has been resolved.
@@ -139,8 +147,6 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +154,21 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-10-best-sites-to-download-free-slideshow-templates-filmora/"><u>2024 Approved 10 Best Sites to Download Free Slideshow Templates - Filmora</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-effortless-video-editing-on-windows-10-no-advanced-software-required/"><u>2024 Approved Effortless Video Editing on Windows 10 No Advanced Software Required</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/alphabetization-in-chinese-writing-systems/"><u>Alphabetization in Chinese Writing Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/connecting-on-java-server-from-bedrock-using-geysermc/"><u>Connecting on Java Server From Bedrock Using GeyserMC</u></a></li>
+<li><a href="https://win-superb.techidaily.com/eliminating-trailing-whitespace-in-your-texts-using-emeditor-a-comprehensive-guide/"><u>Eliminating Trailing Whitespace in Your Texts Using EmEditor: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-charting-the-course-of-viral-stocks-and-stories/"><u>In 2024, Charting the Course of Viral Stocks & Stories</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-realme-10t-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Realme 10T 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/irresistible-article-announcer-for-2024/"><u>Irresistible Article Announcer for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-stop-your-speakers-from-humming/"><u>Quick Fixes: Stop Your Speakers From Humming</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-silent-problem-restoring-audio-on-windows-10-with-conexant-smartaudio-hd/"><u>Solving the Silent Problem: Restoring Audio on Windows 10 with Conexant SmartAudio HD</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-repairing-sudden-audio-disruptions-in-windows-11/"><u>Step-by-Step Tutorial: Repairing Sudden Audio Disruptions in Windows 11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-impact-of-multi-view-video-technology-on-home-surveillance-for-2024/"><u>The Impact of Multi-View Video Technology on Home Surveillance for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-enabling-sound-across-a-computer-monitor-and-television-hdmi-network/"><u>The Ultimate Guide: Enabling Sound Across a Computer, Monitor & Television HDMI Network</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-step-by-step-solution-resolving-discord-echo-issues-on-your-pc/"><u>Ultimate Step-by-Step Solution: Resolving Discord Echo Issues on Your PC</u></a></li>
+</ul></div>
 

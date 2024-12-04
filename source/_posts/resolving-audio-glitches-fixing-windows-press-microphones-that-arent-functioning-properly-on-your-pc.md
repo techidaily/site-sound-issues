@@ -1,7 +1,7 @@
 ---
 title: "Resolving Audio Glitches: Fixing Windows Press Microphones that Aren't Functioning Properly on Your PC"
-date: 2024-08-27T21:10:54.794Z
-updated: 2024-08-28T21:10:54.794Z
+date: 2024-12-01T17:05:48.770Z
+updated: 2024-12-04T07:03:03.700Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 5. [Make sure your microphone is enabled](https://tools.techidaily.com/drivereasy/download/)
 6. [Download and install Windows updates](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the audio troubleshooter
 
  When you run into audio or sound issues, using the troubleshooting tool can help you identify what’s going on. To run the audio troubleshooter, take these steps:
@@ -41,6 +45,10 @@ When you’re using a microphone such as MPOW attached to your computer, you may
  2) Select your device and click **Next**  to start the troubleshooting process. Then wait for it to complete and you may be asked to restart your computer.  
   
 ![run the audio troubleshooter MPOW Microphone not working](https://images.drivereasy.com/wp-content/uploads/2021/04/select-the-device-you-want-to-troubleshoot.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now Windows will help you scan for issues. Simply follow the on-screen instructions to resolve your problems.
 
@@ -74,8 +82,9 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Set your microphone as the default device
 
  Normally, when your microphone is connected, Windows can automatically detect it and set it as the default input device. But you may have multiple input or recording devices connected. It would occur to you that your computer is using another device instead of the one you’re attempting to. In order to set your MPOW microphone as your input device, follow the instructions below:
@@ -107,8 +116,9 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 ![Privacy in Settings](https://images.drivereasy.com/wp-content/uploads/2021/02/privacy.png)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click **Microphone**  on the left pane. Then click on the **Change**  button and make sure **Microphone access for this device**  is turned on.  
   
 ![turn on app permissions on your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/turn-on-app-permissions-for-your-micropho0ne.png)
@@ -117,14 +127,15 @@ When you’re using a microphone such as MPOW attached to your computer, you may
   
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  5) Once you’ve allowed microphone access to your apps, you can change the settings for each app. Simply head to the **Choose which Microsoft apps can access your microphone** , and turn on apps you want to use with it. For desktop apps, make sure that **Allow desktop apps to access your microphone**  is turned **On** .
 
  After you’ve confirmed the changes, try to make a recording or call to check if it’s picking up your voice.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Make sure your microphone is enabled
 
@@ -134,24 +145,26 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the **Input**  section, make sure that your headset is selected as the input device. Then click **Device Properties** .  
   
 ![choose the audio input device](https://images.drivereasy.com/wp-content/uploads/2021/04/input-device.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  3) Make sure that your headset is not disabled.  
   
 ![make sure your device isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/04/enable-it.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’ve confirmed that your microphone has been enabled but it’s still not working, try the next fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## 6\. Download and install Windows updates
 
  Windows updates come with bug fixes and bring new features. When your microphone isn’t working, it could be a compatibility issue. To take advantage of Windows new features and fix the compatibility issue, you should install all Windows updates:
@@ -160,16 +173,10 @@ When you’re using a microphone such as MPOW attached to your computer, you may
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it.  
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  After installing the latest Windows updates, use your headset mic and it should be functioning now.
 
 ---
@@ -182,8 +189,6 @@ When you’re using a microphone such as MPOW attached to your computer, you may
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +196,24 @@ When you’re using a microphone such as MPOW attached to your computer, you may
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-filter-essentials-uncover-free-options-through-advanced-search-for-2024/"><u>[New] Instagram Filter Essentials – Uncover Free Options Through Advanced Search for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-reddits-hidden-gems-6-tactics-that-transform-beginners-into-titans/"><u>[New] Reddit's Hidden Gems 6 Tactics That Transform Beginners Into Titans</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-synchronize-and-schedule-seamless-entry-into-any-zoom-session-from-android/"><u>2024 Approved Synchronize and Schedule Seamless Entry Into Any Zoom Session From Android</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/crafting-an-ideal-speech-translation-experience-in-google/"><u>Crafting an Ideal Speech Translation Experience in Google</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/flip-and-flash-unveiling-the-power-of-instagrams-angled-photos-for-2024/"><u>Flip and Flash Unveiling the Power of Instagram's Angled Photos for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-noisy-or-muffled-sounds-on-your-iphone-solution-found/"><u>How to Fix Noisy or Muffled Sounds on Your iPhone (Solution Found)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-recurring-cut-outs-and-sound-glitches-on-windows-11-computers/"><u>How to Fix Recurring Cut Outs and Sound Glitches on Windows 11 Computers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y77t-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Vivo Y77t Phone with Broken Screen</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-will-machine-learning-reshape-the-landspectrum-of-video-games/"><u>How Will Machine Learning Reshape the Landspectrum of Video Games?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-alpha-microphone-not-working-discover-how-to-repair-it-effectively/"><u>HyperX Cloud Alpha Microphone Not Working? Discover How to Repair It Effectively</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-infinix-note-30-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Infinix Note 30 5G</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-common-problems-with-your-steelseries-arctis-gaming-headset-microphone/"><u>Solving Common Problems with Your SteelSeries Arctis ^ Gaming Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-windows-7-microphone-problems-step-by-step-guide-and-expert-advice/"><u>Solving Windows 7 Microphone Problems: Step-by-Step Guide and Expert Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-back-4-blood-voice-communication-issues/"><u>Troubleshooting Guide: Fixing 'Back 4 Blood' Voice Communication Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-hdmi-audio-issues-on-windows-7/"><u>Troubleshooting Guide: Fixing HDMI Audio Issues on Windows 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-a-nonfunctional-microphone-on-windows-11/"><u>Troubleshooting Steps for a Nonfunctional Microphone on Windows 11</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unlocking-the-power-of-recovering-h265-videos/"><u>Unlocking the Power of Recovering H.265 Videos</u></a></li>
+</ul></div>
 

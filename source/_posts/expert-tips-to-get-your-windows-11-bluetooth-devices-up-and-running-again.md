@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Get Your Windows 11 Bluetooth Devices Up and Running Again
-date: 2024-11-20T22:02:19.291Z
-updated: 2024-11-24T16:09:07.117Z
+date: 2024-11-27T02:05:10.113Z
+updated: 2024-12-03T20:59:57.710Z
 tags:
   - win11
   - win10
@@ -44,10 +44,6 @@ If the issue still exists, move to the below fixes.
 3. [Install Windows updates](https://tools.techidaily.com/drivereasy/download/)
 4. [Use a Bluetooth adapter](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Set as default communications device
 
  To make your AirPods mic work, you have to set it as default communications device.
@@ -56,17 +52,25 @@ If the issue still exists, move to the below fixes.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-41-45.jpg)
 2. In the**Playback** tab, right-click on the AirPods headset and click**Set as Default Communication Device** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-47-39.jpg)
 3. In the**Recording** tab, right-click on the AirPods headset and click**Set as Default Communication Device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-47-54.jpg)
 4. Select the**AirPods Hands-Free** option as a playback device when using Windows apps.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-50-00.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-50-00.jpg)
 
 ### Fix 2: Update your Bluetooth Drivers
 
@@ -80,19 +84,16 @@ There’re 2 ways to update drivers, manually and automatically.
  Then, type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/devmgmt-msc-ok.jpg)
 2. Click **Bluetooth** to expand the category. Right-click your Bluetooth adapter and select **Update driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-21_15-16-38.jpg)
 3. In the pop-up window, click**Search automatically for drivers** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-21_15-18-45.jpg)
 4. Follow the on-screen instructions to finish the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Restart your PC and check your AirPods mic.
 
@@ -106,11 +107,12 @@ There’re 2 ways to update drivers, manually and automatically.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-04_17-40-32-2.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/bluetooth-de-update.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/bluetooth-de-update.jpg)
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -131,7 +133,7 @@ So follow the steps below to install the latest Windows updates.
  If you see “You’re up to date” after clicking the button, your PC confirms that it has all Windows updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Restart your PC and check the AirPods microphone after the whole process is finished.
@@ -165,18 +167,18 @@ If this fix doesn’t work for you, the next one might suit you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/2024-approved-perfect-pairing-selecting-macpc-blu-ray-player-suites/"><u>2024 Approved Perfect Pairing Selecting Mac/PC Blu-Ray Player Suites</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/critical-analysis-the-innovations-in-dji-phantom-3-professional/"><u>Critical Analysis The Innovations in DJI Phantom 3 Professional</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enabling-speech-to-text-on-powerpoint-essential-steps/"><u>Enabling Speech-to-Text on PowerPoint Essential Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-issues-how-to-restore-voice-communication-in-destiny-2/"><u>Fixing Issues: How to Restore Voice Communication in Destiny 2</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-witness-the-power-of-4k-the-most-impressive-video-demos-for-2024/"><u>New Witness the Power of 4K The Most Impressive Video Demos for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/notice-unable-to-retrieve-content-404-error-occurred/"><u>Notice: Unable to Retrieve Content - 404 Error Occurred</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-guide-to-downloading-amd-ryzen-5-nvidia-3250h-gpu-quickly-and-easily/"><u>Quick Guide to Downloading AMD Ryzen 5 Nvidia-3250H GPU | Quickly & Easily</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-microphone-malfunctions-of-airpods-on-your-new-pc-running-windows-11/"><u>Resolving Microphone Malfunctions of AirPods on Your New PC Running Windows 11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/smart-compactness-in-sandisks-clip-jam-player/"><u>Smart Compactness in SanDisk's Clip Jam Player</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-dynamics-of-colossal-machine-learning-constructs/"><u>The Dynamics of Colossal Machine Learning Constructs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solution-guide-for-non-operational-audio-systems/"><u>Troubleshooting and Solution Guide for Non-Operational Audio Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-dolby-sound-problems-starting-your-dolby-audio-driver-with-windows-11/"><u>Troubleshooting Dolby Sound Problems: Starting Your Dolby Audio Driver with Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-virtual-worlds-pros-and-cons-to-consider-before-buying/"><u>Unlocking Virtual Worlds: Pros & Cons to Consider Before Buying</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-exclusive-performers-webcasts-for-2024/"><u>[New] Exclusive Performers' Webcasts for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-natural-landscapes-essential-templates-to-improve-your-film-craft/"><u>[New] Natural Landscapes Essential Templates to Improve Your Film Craft</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-affordable-leading-chromeos-screen-recorders/"><u>[Updated] In 2024, Affordable Leading ChromeOS Screen Recorders</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnose-and-mend-a-guide-to-restoring-functionality-of-redragon-microphones-on-pcs/"><u>Diagnose and Mend: A Guide to Restoring Functionality of Redragon Microphones on PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-push-to-talk-back-in-action-for-enhanced-communication-during-an-overwatch-match/"><u>Getting 'Push-to-Talk' Back in Action for Enhanced Communication During an Overwatch Match</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo Y200? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015685111-hyperx-cloud-alpha-s-microphone-not-working-heres-how-to-resolve-it/"><u>HyperX Cloud Alpha S Microphone Not Working? Here's How to Resolve It</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/language-labyrinth-unlocking-30-varieties-of-chocolate/"><u>Language Labyrinth: Unlocking 30 Varieties of 'Chocolate'</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g933-sound-issues-follow-these-quick-fixes/"><u>Logitech G933 Sound Issues? Follow These Quick Fixes!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movavitifftga/"><u>Movaviで簡単な予算ゼロのオンラインTIFFとTGAフォーマット変換方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/save-time-increase-output-top-ai-powered-pdf-solutions/"><u>Save Time, Increase Output: Top AI-Powered PDF Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-resolving-apex-legends-voice-communication-problems/"><u>Troubleshooting Tips for Resolving Apex Legends' Voice Communication Problems</u></a></li>
 </ul></div>
 

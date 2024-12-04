@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Turtle Beach Microphone Issues: Troubleshooting Guide"
-date: 2024-08-27T21:09:19.572Z
-updated: 2024-08-28T21:09:19.572Z
+date: 2024-11-30T20:17:41.807Z
+updated: 2024-12-04T00:31:43.937Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/9681e2a52e53572a5b2a969e09d45c7b049caa711
 1. [](https://tools.techidaily.com/drivereasy/download/) [**Check your microphone device settings**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Update your audio drivers**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Check your microphone device settings
 
  Your Razer Kraken mic may not be working because it’s disabled or not set as the default device on your computer. Or the microphone volume is set to a very low value so it can’t record your sound clearly. To check these settings:
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/9681e2a52e53572a5b2a969e09d45c7b049caa711
 **1) Hold down the Windows logo** **key**  and**press the R** **key** on your keyboard at the same time to bring up the Run dialog, then type “_**control**_ ” and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
@@ -44,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/9681e2a52e53572a5b2a969e09d45c7b049caa711
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Select the **Recording** tab, then right click on any empty place inside the device list and tick **Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
@@ -51,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/9681e2a52e53572a5b2a969e09d45c7b049caa711
 **5)**  Right click the**Headset Microphone** and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Right click it again and select **Set as Default Device** .
 
@@ -68,9 +84,6 @@ thumbnail: https://thmb.techidaily.com/9681e2a52e53572a5b2a969e09d45c7b049caa711
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem. But if not, you may need to…
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 2: Update your audio drivers
 
  The mic on your Razer Kraken headset won’t work if you’re using an incorrect or outdated audio or headset driver. So you should update the driver to see if that fixes the issue.
@@ -85,17 +98,14 @@ thumbnail: https://thmb.techidaily.com/9681e2a52e53572a5b2a969e09d45c7b049caa711
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 **3)** Click the**Activate & Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/IntelR-Display-Audio.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)
 
  Once you’ve updated the driver for your Razer Kraken headset, restart your computer. Then log in again and see if the microphone is working.
@@ -108,8 +118,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +125,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-boosting-views-with-captivating-intros-filmed-in-imovie-for-2024/"><u>[New] Boosting Views with Captivating Intros Filmed in iMovie for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-oneplus-nord-ce-3-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your OnePlus Nord CE 3 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/champions-5-wearable-devices-for-top-fpv-racing/"><u>Champion's 5 Wearable Devices for Top FPV Racing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-sony-wh-1xm3-and-wh-1xm4-mic-issues-on-personal-computers/"><u>Effective Solutions for Sony WH-1#XM3 and WH-1#XM4 Mic Issues on Personal Computers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/embracing-the-future-how-laptops-are-evolving-to-meet-ai-and-security-demands-insights-from-lenovo-zdnet/"><u>Embracing the Future: How Laptops Are Evolving to Meet AI and Security Demands, Insights From Lenovo | ZDNet</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/how-to-make-memes-on-iphone-and-android/"><u>How to Make Memes on iPhone and Android</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-vivo-y55s-5g-2023-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo Y55s 5G (2023) in Minutes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-no-money-no-problem-master-fcp-legally/"><u>In 2024, No Money, No Problem Master FCP Legally</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-timing-and-frequency-their-effect-on-youtube-rankings/"><u>In 2024, Timing & Frequency Their Effect on YouTube Rankings</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-troubleshooting-steps-for-a-non-functioning-astro-a20-mic/"><u>Simple Troubleshooting Steps for a Non-Functioning Astro A20 Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-resolving-audio-problems-in-the-latest-software-update/"><u>Ultimate Guide: Resolving Audio Problems in the Latest Software Update</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-solution-overcoming-connectivity-problems-between-pc-and-razer-microphone/"><u>Ultimate Solution: Overcoming Connectivity Problems Between PC and Razer Microphone</u></a></li>
+</ul></div>
 

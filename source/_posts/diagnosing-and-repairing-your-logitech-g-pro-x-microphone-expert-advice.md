@@ -1,7 +1,7 @@
 ---
 title: "Diagnosing and Repairing Your Logitech G Pro X Microphone: Expert Advice"
-date: 2024-11-18T22:35:12.005Z
-updated: 2024-11-24T20:20:16.564Z
+date: 2024-11-30T22:35:47.920Z
+updated: 2024-12-03T18:46:14.462Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 4. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Close unnecessary background apps](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Troubleshoot the hardware issue
 
  Before moving on to some more advanced methods, you need to make sure your microphone is not physically broken and the connection works fine. You can take these steps to do a basic check:
@@ -42,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 * **Connect your headset to another machine** to check if it functions well. If not, it’s likely your device is physically damaged and you should take it for repair or replacement.
 
  If you’ve done a quick check and confirmed there is no hardware issue, the cause may be related to the computer settings. Keep reading to find more solutions below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Check your privacy settings
 
@@ -61,17 +61,13 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3-6.jpg)
 4. Also, **toggle on Allow desktop apps’ access to your microphone** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After applying the settings, you can restart Rec Room to test the issue. If it’s not resolved, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Set your headset mic as the default device
 
@@ -85,10 +81,19 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-4.jpg)
 3. Go to the**Recording** tab. Then right-click other recording devices you’re not using and click**Disable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-2.jpg)
 4. Make sure your preferred headset mic is**enabled** , which should be covered with a green check mark, and**set as default** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### On Oculus or SteamVR
 
@@ -108,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 
  See if your microphone works in Rec Room. If not, continue to the next method below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4 – Update your audio driver
 
  If you’ve been constantly running into mic not working with Rec Room or other apps, chances are that your audio driver is faulty or out-of-date. In this case, you should update the driver to keep your VR rig up and running, and there are two ways for you:
@@ -125,7 +134,7 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-oculus-headset-driver.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -140,15 +149,7 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1-10.jpg)
 2. Right-click each application you want to close and click**End task** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-2-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
@@ -176,16 +177,20 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-disabling-instant-movie-making-in-quicktime/"><u>[New] 2024 Approved Disabling Instant Movie Making in QuickTime</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-chortle-central-top-10-tweet-humor-for-2024/"><u>[New] Chortle Central Top 10 Tweet Humor for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-cross-monitors-data-synthesis/"><u>[New] Cross-Monitors Data Synthesis</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-unlocking-full-potential-with-iphone-hdr/"><u>[New] Unlocking Full Potential with iPhone HDR</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-accelerate-engagement-implementing-the-top-12-video-growth-strategies-for-2024/"><u>[Updated] Accelerate Engagement - Implementing the Top 12 Video Growth Strategies for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/facebook-live/"><u>Facebook Liveビデオの安易なダウンロード手順</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixes-and-solutions-for-usb-headphones-with-no-audio-output-in-windows-7/"><u>Fixes and Solutions for USB Headphones with No Audio Output in Windows 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-voice-chat-glitches-effective-solutions-for-apex-legends-players/"><u>Overcoming Voice Chat Glitches: Effective Solutions for Apex Legends Players</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-google-meet-audio-problems-for-windows-11-and-10-users/"><u>Resolve Google Meet Audio Problems for Windows 11 and 10 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-a-nonfunctional-headphone-jack-on-your-laptop-solutions-proven-effective/"><u>Troubleshooting a Nonfunctional Headphone Jack on Your Laptop: Solutions Proven Effective</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-non-functional-voice-chat-feature-on-black-ops-cold-war-game/"><u>Troubleshooting Non-Functional Voice Chat Feature on Black Ops Cold War Game</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigate-video-trimming-with-ease-on-windows-11-photos/"><u>[New] Navigate Video Trimming with Ease on Windows 11 Photos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-hand-tracking-reference-guide/"><u>[New] The Ultimate Hand-Tracking Reference Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-top-5-premium-hd-webcams-featuring-sound/"><u>2024 Approved Top 5 Premium HD Webcams Featuring Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015940389-fixing-quiet-foes-in-hearthstone-restoring-audio-for-ultimate-gaming-experience/"><u>Fixing Quiet Foes in Hearthstone - Restoring Audio for Ultimate Gaming Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-not-connected-error-on-realtek-high-def-audio-a-step-by-step-guide/"><u>Fixing the 'Not Connected' Error on Realtek High Def Audio: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-quality-6-video-transcription-services-for-2024/"><u>High-Quality 6 Video Transcription Services for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-deactivate-audio-boosting-functions-for-windows-11-systems/"><u>How to Deactivate Audio Boosting Functions for Windows 11 Systems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-11-proplus-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Realme 11 Pro+ to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-xs-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone XS Max without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-25plus-best-practices-for-crafting-witty-metaverse-visual-jokes/"><u>In 2024, 25+ Best Practices for Crafting Witty Metaverse Visual Jokes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-packed-tutorial-for-a-nonfunctional-steelseries-arctis-pro-microphone/"><u>Solution-Packed Tutorial for a Nonfunctional SteelSeries Arctis Pro Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-failures-solutions-proven-effective/"><u>Troubleshooting Audio Failures: Solutions Proven Effective</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tutorial-repairing-a-broken-turtle-beach-riva-70-audio-mic-for-gamers/"><u>Tutorial: Repairing a Broken Turtle Beach Riva 70 Audio Mic for Gamers</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/understanding-post-redirect-get-prg-pattern-insights-and-seo-best-practices/"><u>Understanding Post-Redirect-Get (PRG) Pattern: Insights & SEO Best Practices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-compatibility-restoring-microphone-function-in-airpods-headphones/"><u>Windows 10 Compatibility: Restoring Microphone Function in AirPods Headphones</u></a></li>
 </ul></div>
 

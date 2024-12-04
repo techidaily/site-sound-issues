@@ -1,7 +1,7 @@
 ---
 title: Kionten Sie, Wie Man Das Problem Mit Dem Nicht Funktionierenden Mikrofon Des Modells G2000 Behebt
-date: 2024-08-27T21:08:46.564Z
-updated: 2024-08-28T21:08:46.564Z
+date: 2024-11-29T22:35:41.109Z
+updated: 2024-12-03T23:27:44.261Z
 tags:
   - win11
   - win10
@@ -43,6 +43,14 @@ But first, ensure that your device has been connected and set correctly.
 3. In the Playback tab, select your device and click**Set Default** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/mi.jpg)
 4. Go back to the Anthem and check it has sound or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Run audio troubleshooting
 
  Windows 10 has a built-in troubleshooter to diagnose and automatically fix common problems. There are many troubleshooters for different problems. For the “Anthem no sound” error, you can run the audio troubleshooter to resolve the issue.
@@ -50,9 +58,6 @@ But first, ensure that your device has been connected and set correctly.
 1. Press the **Windows logo key**  \+ **R** to open the Run box. Type “ms-settings: troubleshoot” and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/troubleshoot.jpg)
 2. Click **Playing Audio** . Then click **Run the troubleshooter** . Wait for the investigation complete. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/10-1.jpg)
 3. Follow the on-screen instructions to finish the process.
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Restart your computer and check whether Anthem has sound or not.
 
 ### Fix 3: Set the Default Format in the lowest mode
@@ -64,14 +69,17 @@ But first, ensure that your device has been connected and set correctly.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the **Playback** tab, choose the device you’re using and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
 4. Click the **Advanced** tab, select the lowest setting on the Default Format drop-down menu. Then click **OK** . Back to the Sound window, click **Apply** \> **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/12.jpg)
-5. Reboot your computer and check whether Anthem has sound or not.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Reboot your computer and check whether Anthem has sound or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Uncheck “Disable all sound effects”
 
  To solve the issue, you can try changing the sound settings. Uncheck “Disable all sound effect” has been proven effective by many users in audio issues.
@@ -80,20 +88,20 @@ But first, ensure that your device has been connected and set correctly.
 2. Click **Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the **Playback** tab, choose the device you’re using and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-4. In the **Enhancements** tab, uncheck “**Disable all sound effects** “. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
-5. Click **Apply > OK** .
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-6. Reboot your computer and go back to the game, you should have audio now.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. In the **Enhancements** tab, uncheck “**Disable all sound effects** “. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+5. Click **Apply > OK** .
+6. Reboot your computer and go back to the game, you should have audio now.
+
 ### Fix 5: Update your audio driver
 
  One reason for many computer errors is outdated drivers for your hardware devices. You should verify that your devices have the right and latest drivers, and update those that don’t.
@@ -108,9 +116,11 @@ But first, ensure that your device has been connected and set correctly.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver.jpg)
 3. Click the **Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver1.jpg)
 4. Restart your computer and check the Anthem has sound or not.
@@ -133,8 +143,6 @@ But first, ensure that your device has been connected and set correctly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +150,24 @@ But first, ensure that your device has been connected and set correctly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-adding-time-stamps-to-pictures-step-by-step-tutorial/"><u>[Updated] In 2024, Adding Time Stamps to Pictures Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-leveraging-innovative-features-a-guide-to-implementing-speech-inputs-in-powerpoint/"><u>2024 Approved Leveraging Innovative Features A Guide to Implementing Speech Inputs in PowerPoint</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/are-sellers-involved-in-monetizing-review-content-for-2024/"><u>Are Sellers Involved in Monetizing Review Content for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-the-latest-atx-board-from-maxsun-the-stylish-high-capacity-z790m-d5-ice-with-5x-m2-options/"><u>Comprehensive Guide to The Latest ATX Board From Maxsun: The Stylish, High-Capacity Z790M D5 Ice with 5X M.2 Options</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-common-problems-with-the-logitech-g-professional-microphone/"><u>How to Resolve Common Problems with the Logitech G Professional Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-windows-system-audio-problems-in-windows-107-expert-tips-and-solutions/"><u>How to Resolve Window's System Audio Problems in WINDOWS 10/7 – Expert Tips & Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-honor-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Honor</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mic-malfunctions-heres-how-to-get-your-device-capturing-sound-again/"><u>Mic Malfunctions? Here's How to Get Your Device Capturing Sound Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-mute-life-easily-correcting-skype-noise-malfunctions/"><u>No More Mute Life: Easily Correcting Skype Noise Malfunctions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-man-o-war-headset-malfunction-here-are-solutions-for-your-mic-troubles/"><u>Razer Man O' War Headset Malfunction? Here Are Solutions for Your Mic Troubles!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016656542-revive-your-dell-sound-system-with-these-easy-fixes/"><u>Revive Your Dell Sound System with These Easy Fixes!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/simplified-guide-to-advanced-xbox-video-recording-methods/"><u>Simplified Guide to Advanced Xbox Video Recording Methods</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/thorough-diagnosis-and-repair-tips-for-a-malfunctioning-beyond-the-wire-microphone/"><u>Thorough Diagnosis & Repair Tips For A Malfunctioning Beyond The Wire Microphone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/trick-or-treat-yourself-join-the-hauntingly-good-2020-halloween-dvd-contest/"><u>Trick or Treat Yourself - Join the Hauntingly Good 2020 Halloween DVD Contest!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-devices-connection-when-bluetooth-is-connected-but-silent/"><u>Troubleshooting Your Device's Connection: When Bluetooth Is Connected but Silent</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unraveling-media-format-obstructions/"><u>Unraveling Media Format Obstructions</u></a></li>
+<li><a href="https://win-trending.techidaily.com/windows-11-blue-screen-soluzione-dettagliata-esegui-il-backup-dei-tuoi-dati-e-segui-questa-guida/"><u>Windows 11 Blue Screen Soluzione Dettagliata: Esegui Il Backup Dei Tuoi Dati E Segui Questa Guida</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Speedy Repairs Needed? Here's How to Fix the Microphone on Your Oculus Rift S Quickly
-date: 2024-08-27T21:10:16.134Z
-updated: 2024-08-28T21:10:16.134Z
+date: 2024-11-29T17:36:30.533Z
+updated: 2024-12-04T00:08:59.797Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/52ee970294742b32cbcdd126a6e2cb23605fc3303
 ![oculus rift s mic not working](https://images.drivereasy.com/wp-content/uploads/2021/01/oculus-rift-s-mic-not-working-feature-image.jpg)
 
  Are you looking for solid solutions for your Oculus Rift S mic not working issue? If yes, you’ve come to the right place. We’ve put together a full list of fixes that have helped other users solve the problem. Read and check it out!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -39,8 +43,9 @@ thumbnail: https://thmb.techidaily.com/52ee970294742b32cbcdd126a6e2cb23605fc3303
  If you go through the steps above but the problem persists, move on to the more complicated fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2 – Update your device drivers
 
  The Oculus Rift S mic not working issue is likely to be driver-related. To keep your VR headset running in tip-top condition, you should update your device drivers on a regular basis.
@@ -55,8 +60,9 @@ thumbnail: https://thmb.techidaily.com/52ee970294742b32cbcdd126a6e2cb23605fc3303
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-driver-de-1.jpg)
 3. Click the**Update** button next to the flagged_Rift S driver_ and_USB adapter driver_ to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -67,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/52ee970294742b32cbcdd126a6e2cb23605fc3303
 
  Now check how your headset microphone works. If the driver update doesn’t help, continue to the third fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3 – Allow access to your microphone
 
  If you’re on Windows 10, one of the reasons for mic not working is that your microphone access has been disabled by accident. And you should allow the system and applications to use your Oculus Rift S microphone.
@@ -86,9 +89,6 @@ thumbnail: https://thmb.techidaily.com/52ee970294742b32cbcdd126a6e2cb23605fc3303
 
  Test your Oculus Rift S mic with a game or program. Still no luck? Check out the next method then.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4 – Check the sound settings
 
  In most cases, your Oculus Rift S headset mic will be set as the default input device once it’s correctly connected. But if it’s not, the mic won’t transmit your voice at all, and you should check the sound settings and make things right.
@@ -100,18 +100,12 @@ thumbnail: https://thmb.techidaily.com/52ee970294742b32cbcdd126a6e2cb23605fc3303
 3. On the**Recording** tab, make sure your Oculus Rift S Microphone is**enabled** . Then right-click it and select**Set as Default Device** . If you don’t see your microphone listed, tick**Show Disabled Devices** first.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/rift-settings-1.jpg)
 4. Click your Oculus Rift S microphone and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/rift-settings-2.jpg)
 5. Navigate to the**Levels** tab. Make sure**the microphone is not muted** and**turn up the volume to the max** . Then click**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-4.jpg)
 
  Are you able to use the Oculus Rift S mic now? If not, there is the last fix to try.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5 – Change the power management settings
 
  Sometimes the computer will turn off your USB root hub to save power, but the bad thing is that the connection will become unstable and even worse your Oculus Rift S mic will stop working. To adjust the settings, follow the steps here:
@@ -119,32 +113,40 @@ thumbnail: https://thmb.techidaily.com/52ee970294742b32cbcdd126a6e2cb23605fc3303
 1. Type**device manager** in the search box and click**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager.jpg)
 2. Double-click**Universal Serial Bus controllers** . Then right-click**USB Root Hub** from the list and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-2.jpg)
 3. Navigate to the**Power Management** tab and**untick the box** next to Allow the computer to turn off this device to save power. Then click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-3.jpg)
 4. If you have more than one USB root hubs, repeat the steps above to disable the power management for them all.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Go back to the Device Manager window, double-click**Oculus VR Devices** to expand the category.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-4.jpg)
 6. Righ-click**Rift Sensor** and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-5.jpg)
 7. Select the**Power Management** tab and **untick Allow the computer to turn off this device to save power** . Then, click**OK** to apply the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-6.jpg)
 8. Repeat the steps to disable the power-saving option of all the Rift sensors.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When it’s all set, you should see the Oculus Rift S mic return to normal and it will give you the VR experience as expected.
@@ -163,8 +165,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +172,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-a-comprehensive-review-of-the-latest-picsart-updates-for-2024/"><u>[New] A Comprehensive Review of the Latest PicsArt Updates for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-expert-tips-choosing-the-ideal-screen-recorder-software-for-2024/"><u>[New] Expert Tips Choosing the Ideal Screen Recorder Software for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-mastering-facebook-cover-videos-tips-and-configuration-guide/"><u>[Updated] In 2024, Mastering Facebook Cover Videos Tips & Configuration Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-as-a-learning-tool-insider-advice-for-teachers/"><u>2024 Approved YouTube as a Learning Tool Insider Advice for Teachers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/clear-conversations-fixing-the-muted-mystery-of-discord-audio/"><u>Clear Conversations: Fixing the Muted Mystery of Discord Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-resolving-no-audio-in-google-chrome/"><u>Fixing the Issue: Resolving 'No Audio' In Google Chrome</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/google-meet-not-hearing-you-fix-microphone-problems-on-windows-10-and-11-easily/"><u>Google Meet Not Hearing You? Fix Microphone Problems on Windows 10 and 11 Easily</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/head-to-head-review-nintendo-switch-lite-versus-switch-oled-edition/"><u>Head-to-Head Review: Nintendo Switch Lite Versus Switch OLED Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-razer-blackshark-v2-mic-not-working/"><u>How to Fix Razer BlackShark V2 Mic Not Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-of-voice-chat-in-call-of-duty-vanguard/"><u>How to Restore Functionality of Voice Chat in Call of Duty: Vanguard</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-movie-torrents-an-ultimate-utorrent-how-to-guide-for-seamless-download/"><u>Mastering Movie Torrents: An Ultimate uTorrent How-To Guide for Seamless Download</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-voice-communication-in-modern-warfare-online-play/"><u>Solved! How to Restore Voice Communication in Modern Warfare Online Play</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016703027-troubleshooting-a-nonfunctional-logitech-g633-mic-solutions-inside/"><u>Troubleshooting a Nonfunctional Logitech G633 Mic - Solutions Inside!</u></a></li>
+</ul></div>
 

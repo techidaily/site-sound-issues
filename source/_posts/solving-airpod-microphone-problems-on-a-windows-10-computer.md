@@ -1,7 +1,7 @@
 ---
 title: Solving AirPod Microphone Problems on a Windows 10 Computer
-date: 2024-08-27T21:11:10.009Z
-updated: 2024-08-28T21:11:10.009Z
+date: 2024-11-30T16:01:33.022Z
+updated: 2024-12-03T16:55:18.034Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/448df8bc8afab05ea77afff59f75ded3f6194317b
 
 ###
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure Microphone is set to On for Skype (Windows 10 users)
 
  If you’re running Skype on**Windows 10** , firstly please check if the Microphone is set to **On**  for Skype in the Privacy settings.
@@ -37,14 +41,20 @@ Follow these:
 1. On your keyboard, press the**Windows logo key**  and **I** (at the same time).
 2. Click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e2b7da45.png)
 3. Click**Microphone** on the left pane. Check if the status is**On**  for Skype.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
 
 ###
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Adjust the audio settings on Skype
 
 1. Login Skype with your own account.
@@ -52,15 +62,9 @@ Follow these:
 3. Click**Audio settings** on the left pane. Then set your Microphone device and un-tick**Automatically adjust microphone settings** .  
  Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
 4. Check to see if your Microphone works.
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your sound card driver
 
  Skype Microphone not working problem can be also cause by the incorrect or outdated sound card driver. The solutions above may solve the problem, but if they don’t, please update your sound card driver.
@@ -70,18 +74,19 @@ Follow these:
 1. [Download](https://tools.techidaily.com/drivereasy/download/)  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. You sound driver is no exception.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Restart your computer and run Skype to see if your Microphone works.
 
 ###
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Restart Windows audio service
 
 1. On your keyboard, press the **Windows logo** **key** and **R** (at the same time) to invoke the run command.
@@ -89,9 +94,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996978261d98.png)
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
 4. Log in Skype and check to see if your Microphone works.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 
 * [sound problem](https://tools.techidaily.com/drivereasy/download/)
 
@@ -101,8 +103,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +110,26 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-selfie-to-sensation-vloggers-choice-of-top-9-camera-accessories/"><u>[New] In 2024, From Selfie to Sensation Vloggers' Choice of Top 9 Camera Accessories</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-choose-the-best-free-introduction-maker/"><u>[New] In 2024, How to Choose the Best Free Introduction Maker</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-transitions-for-professional-videos/"><u>[New] Innovative Transitions for Professional Videos</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/abbyy-and-pwc-india-join-forces-to-deliver-cutting-edge-business-automation-platforms-latest-news-release/"><u>ABBYY and PwC India Join Forces to Deliver Cutting-Edge Business Automation Platforms - Latest News Release</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-itel-p40-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-for-non-functioning-mic-issue-in-windows-11-and-10-during-a-zoom-call/"><u>Fixes for Non-Functioning Mic Issue in Windows 11 & 10 During a Zoom Call</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015814279-fortnite-sound-not-working-heres-how-to-get-it-back/"><u>Fortnite Sound Not Working? Here's How to Get It Back</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/google-keep-erlernen-fehlerhafte-notizwiederholung-und-behebungsmethode/"><u>Google Keep Erlernen - Fehlerhafte Notizwiederholung Und Behebungsmethode</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-hyperx-cloud-alpha-headset-microphone-issues-a-complete-guide/"><u>How to Fix HyperX Cloud Alpha Headset Microphone Issues: A Complete Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-audio-cut-outs-on-a-windows-10-machine-successfully/"><u>How to Resolve Audio Cut-Outs on a Windows 10 Machine Successfully</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-sound-card-complications-for-dell-computers-in-wndows-7/"><u>How to Resolve Sound Card Complications for Dell Computers in Wndows 7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-lava-blaze-2-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Lava Blaze 2 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-mastering-the-craft-of-professional-gopro-cinematography/"><u>In 2024, Mastering the Craft of Professional Gopro Cinematography</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-the-trick-for-swift-folder-reorganization-on-windows-11/"><u>Learn the Trick for Swift Folder Reorganization on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-to-correct-sound-malfunctions-on-your-windows-11-system/"><u>Quick Solutions to Correct Sound Malfunctions on Your Windows 11 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-bluetooth-sound-latency-issues-with-these-easy-steps/"><u>Solve Your Bluetooth Sound Latency Issues with These Easy Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-headset-malfunctions-in-windows-7/"><u>Troubleshoot and Repair Headset Malfunctions in Windows 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-pc-audio-issues-solving-the-zoom-has-no-sound-dilemma/"><u>Troubleshooting PC Audio Issues: Solving the 'Zoom Has No Sound' Dilemma</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-potential-of-ddr5-expert-overclocking-session-by-raphael-with-leading-semiconductor-giants-amd-and-samsung/"><u>Unlocking the Potential of DDR5: Expert Overclocking Session by Raphael with Leading Semiconductor Giants, AMD and Samsung</u></a></li>
+</ul></div>
 

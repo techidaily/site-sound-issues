@@ -1,7 +1,7 @@
 ---
 title: Audio Troubleshooting Guide - Correcting Mute Settings in Chrome
-date: 2024-11-18T18:07:02.096Z
-updated: 2024-11-24T19:35:23.900Z
+date: 2024-11-27T05:13:46.833Z
+updated: 2024-12-04T06:30:50.219Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Troubleshoot mic problems
@@ -33,6 +33,10 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 3. [**Allow apps to access your mic (Windows 10)**](https://www.drivereasy.com/knowledge/how-to-fix-microphone-not-picking-up-voice/#m3)
 4. [**Check in-game settings**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Check for Windows updates**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Update your audio driver
 
@@ -54,10 +58,6 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc5cb179f761.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then, you can use the built-in**Speech Recognition** tool to test your microphone:
 
 1. In the Windows search box, type**Speech Recognition** and click the matching result.  
@@ -70,6 +70,10 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6b3b757a02.jpg)
 4. Is the Setup wizard complete? If your microphone works properly, congratulations! If not, you can follow Method 2 below to check your audio settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 ### Method 2: Set your mic as your default device
@@ -80,10 +84,6 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6b7cd6c388.jpg)
 2. Click the **Recording** tab.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6ca5ddbaee.jpg)
 3. Right-click on the device you want to use, and select **Set as Default Device** .  
 
@@ -91,21 +91,17 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 **Note:** You can try speaking into your microphone to test if it’s working properly. If it is, you should see a green bar rising next to it while you talk:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6caa71d6b3.jpg)
 4. Right click on and **disable** every other input device except the one you want to use. (If you have any other output devices, repeat for the **Playback** tab).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6cabba2f9f.jpg)
 5. Click**OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Check if your mic works as expected.
@@ -114,10 +110,6 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3: Allow apps to access your mic (Windows 10)
 
  If you mic problem occurs in a specific program, you can go to Windows Settings to check if that program is allowed to access your microphone. Here’s how:
@@ -125,6 +117,10 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 1. Type**settings** in the search box, and click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6d1f6bf629.jpg)
 2. Click **Privacy** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6d22eaa914.jpg)
 3. In the left pane, click **Microphone** .  
@@ -148,6 +144,10 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 Check to see if your mic can pick up voice now.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Check for Windows updates
 
@@ -182,18 +182,18 @@ Check to see if your mic can pick up voice now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-maximizing-memory-retention-through-mac-based-audio-recordings/"><u>[New] Maximizing Memory Retention Through Mac-Based Audio Recordings</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-explore-fauna-fun-top-12-android-simulation-games/"><u>[Updated] 2024 Approved Explore Fauna Fun Top 12 Android Simulation Games</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-top-10-gaming-youtubers-you-should-know/"><u>2024 Approved Top 10 Gaming YouTubers You Should Know</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-distortions-and-sound-pop-ups-on-your-windows-pc-a-step-by-step-guide/"><u>How to Fix Audio Distortions and Sound Pop-Ups on Your Windows PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-headphones-and-speakers-that-wont-work-on-your-laptop-or-pc/"><u>How to Fix Headphones and Speakers that Won't Work on Your Laptop or PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-earphones-working-again-on-a-defective-laptop-port/"><u>How to Get Your Earphones Working Again on a Defective Laptop Port</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-iphone-6s-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on iPhone 6s</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-turtle-beach-microphone-malfunctions-proven-techniques-to-restore-audio-functionality/"><u>Overcoming Turtle Beach Microphone Malfunctions: Proven Techniques to Restore Audio Functionality</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/parthenon-prose-ancient-greek-to-present-day-words/"><u>Parthenon Prose: Ancient Greek to Present-Day Words</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/top-solutions-troubleshooting-sound-issues-on-your-toshiba-laptop/"><u>Top Solutions: Troubleshooting Sound Issues on Your Toshiba Laptop</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-when-your-astro-a50-mic-fails/"><u>Troubleshooting Tips for When Your Astro A50 Mic Fails</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-cleaning-companion-dreame-bot-l10-pro-lidar-sweeper-evaluation/"><u>Ultimate Cleaning Companion: Dreame Bot L10 Pro LiDAR Sweeper Evaluation</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/vlc-playback-mastery-secret-tips-and-tricks-revealed/"><u>VLC Playback Mastery Secret Tips and Tricks Revealed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-instant-verbal-to-written-conversion-for-nothing/"><u>[New] Instant Verbal to Written Conversion for Nothing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-demystifying-the-process-of-submitting-videos-on-youtube/"><u>[Updated] In 2024, Demystifying the Process of Submitting Videos on YouTube</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-ultimate-compilation-top-11-streaming-gear-insights/"><u>2024 Approved Ultimate Compilation Top 11 Streaming Gear Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elevate-your-filmmaking-on-the-go-the-new-final-cut-feature-now-available-on-iphones-according-to-zdnet/"><u>Elevate Your Filmmaking on the Go - The New Final Cut Feature Now Available on iPhones, According to ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-discord-calls-back-on-track-steps-to-mend-voice-chat-problems/"><u>Getting Your Discord Calls Back on Track: Steps to Mend Voice Chat Problems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-11-proplus-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of 11 Pro+ using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-top-6-online-communities-catering-to-the-commercial-world/"><u>In 2024, Top 6 Online Communities Catering to the Commercial World</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/installing-and-configuring-idt-high-definition-sound-codec-driver-for-windows-11-comprehensive-guide/"><u>Installing & Configuring IDT High Definition Sound Codec Driver for Windows 11 - Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016451345-overcome-voicemod-errors-and-enjoy-seamless-usage-expert-tips/"><u>Overcome Voicemod Errors and Enjoy Seamless Usage : Expert Tips!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pinnacle-avi-player-mobile-and-desktop-excellence-for-2024/"><u>Pinnacle Avi Player Mobile & Desktop Excellence for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-common-issues-a-step-by-step-guide-to-repairing-your-sennheiser-gaming-microphone/"><u>Solving Common Issues: A Step-by-Step Guide to Repairing Your Sennheiser Gaming Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-realtek-audio-issues-restoring-sound-on-digital-output/"><u>Solving Realtek Audio Issues: Restoring Sound on Digital Output</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1726219388908-movavi/"><u>스카이프 녹음을 위한 Movavi 전문점: 효과와 능력을 극대화하는 기법</u></a></li>
 </ul></div>
 

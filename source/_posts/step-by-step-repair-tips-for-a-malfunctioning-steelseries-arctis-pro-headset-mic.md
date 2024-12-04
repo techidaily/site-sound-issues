@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Repair Tips for a Malfunctioning SteelSeries Arctis Pro Headset Mic
-date: 2024-11-21T21:55:04.206Z
-updated: 2024-11-24T16:34:20.000Z
+date: 2024-12-02T22:15:02.602Z
+updated: 2024-12-04T03:58:15.165Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -40,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
 4. **[Troubleshoot hardware issues](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Allow access to your headset microphone (for Windows 10 users)
@@ -52,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
 3. Click the **Change** button, then make sure the**Microphone for this device** is turned **on** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.2-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Make sure **Allow apps to access your microphone** is turned **on** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.3.jpg)
@@ -69,22 +65,26 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel1-1.jpg)
 2. In Control Panel, select Large icons from the View by drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Select **Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-10.jpg)
 4. Select the Recording tab, then right-click on any empty place inside the device list and tick **Show Disabled Devices** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dc36f136c6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Right-click the Headset Microphone and click Enable.![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4daac96f5e7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Right-click it again and select Set as Default Device.![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
 7. Right-click **Headset Microphone** and click **Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Click the **Levels** tab, then drag the volume slider towards the _largest value_ .![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4db71801655.jpg)
 9. Click **OK** , then click **OK** .
@@ -92,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Update your audio drivers
 
@@ -105,10 +109,6 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
 2. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy** will scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/07/a5.jpg)
 3. Click the **Update** button next to your sound device or your headset to download the latest and correct driver for it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — if you don’t already have it, you’ll be prompted to upgrade when you click **Update All** .)![](https://images.drivereasy.com/wp-content/uploads/2019/07/a6-1.jpg)
 
  Once you’ve updated the driver for your Corsair HS60 headset, restart your computer. Then log in again and see if the microphone is working.
@@ -116,7 +116,7 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4: Troubleshoot hardware issues
@@ -150,21 +150,18 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/back-4-blood-players-face-voice-chat-problems-solutions-inside/"><u>'Back 4 Blood' Players Face Voice Chat Problems: Solutions Inside!</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-streamline-your-zoom-meetings-screen-sharing-essentials/"><u>[New] 2024 Approved Streamline Your Zoom Meetings Screen Sharing Essentials</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-transform-your-team-sessions-masterful-use-of-slack-and-filmora-tools/"><u>[New] In 2024, Transform Your Team Sessions Masterful Use of Slack & Filmora Tools</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-the-artisans-guide-to-podcast-scriptwriting-including-free-samples/"><u>[New] The Artisan's Guide to Podcast Scriptwriting (Including Free Samples)</u></a></li>
-<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/clear-audio-solutions-diagnosing-and-repairing-your-arctis-n-headset-noise-woes-under-windows/"><u>Clear Audio Solutions: Diagnosing and Repairing Your Arctis N Headset Noise Woes Under Windows</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/rentiate-yourself-with-these-critical-yt-shorts-hacks/"><u>Differentiate Yourself with These Critical YT Shorts Hacks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016732771-fix-your-headphones-crackling-sound-instantly-a-step-by-step-guide/"><u>Fix Your Headphones' Crackling Sound Instantly - A Step-by-Step Guide!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-your-corsair-virtuoso-microphone-up-and-running-again-a-fix-guide/"><u>Getting Your Corsair Virtuoso Microphone Up and Running Again – A Fix Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-easily-disable-the-sticky-keys-feature-on-windows-machines/"><u>How to Easily Disable the Sticky Keys Feature on Windows Machines</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-silence-the-pops-and-cracks-fixing-sound-quality-problems-on-arctis-7-for-windows-users/"><u>How to Silence the Pops & Cracks: Fixing Sound Quality Problems on Arctis 7 for Windows Users</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changefake-your-vivo-y100i-power-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Vivo Y100i Power 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/onikuma-mic-malfunction-heres-how-to-restore-audio-functionality/"><u>Onikuma Mic Malfunction? Here's How to Restore Audio Functionality!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-no-sound-dilemma-on-computers-effortlessly-and-fast/"><u>Resolving No-Sound Dilemma on Computers Effortlessly & Fast</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-12-free-windows-8-screen-capture-tools-a-comprehensive-guide/"><u>Top 12 Free Window's 8 Screen Capture Tools: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-the-top-8-beginner-friendly-cameras-35mm-to-pands/"><u>Unveiling the Top 8 Beginner-Friendly Cameras (35Mm to P&S)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-essential-tactics-for-youtube-advertising-with-banners/"><u>[New] 2024 Approved Essential Tactics for YouTube Advertising with Banners</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-superior-viewing-experience-essentials-of-4k-downloading/"><u>[New] In 2024, Superior Viewing Experience Essentials of 4K Downloading</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-unveiling-the-secret-of-affordable-video-ad-creation-on-youtube-for-2024/"><u>[Updated] Unveiling the Secret of Affordable Video Ad Creation on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-downloading-audio-made-simple-with-these-19-top-quality-free-rippers-from-youtube/"><u>2024 Approved Downloading Audio Made Simple with These 19 Top-Quality Free Rippers From YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-full-access-your-in-depth-look-at-fcp/"><u>2024 Approved Full Access Your In-Depth Look at FCP</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-vlog-stability-devices-for-smooth-screensavers/"><u>2024 Approved Ultimate Vlog Stability Devices for Smooth Screensavers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/complete-steps-for-repairing-disrupted-stereo-outputs-ensuring-both-speakers-work-together/"><u>Complete Steps for Repairing Disrupted Stereo Outputs: Ensuring Both Speakers Work Together</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-non-functional-voice-chat-in-valorant-a-step-by-step-guide/"><u>Effective Fixes for Non-Functional Voice Chat in Valorant - A Step by Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-enabledisable-voice-chat-in-back-4-blood-game/"><u>How To Enable/Disable Voice Chat in Back 4 Blood Game</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-pcs-discord-echo-problem-a-step-by-step-guide-for-2e24/"><u>Solving Your PC's Discord Echo Problem: A Step-by-Step Guide for 2E24</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-evolution-from-gasoline-to-electricity-grasping-the-significance-of-modern-mobility/"><u>The Evolution From Gasoline to Electricity: Grasping the Significance of Modern Mobility</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-discord-voice-call-issues/"><u>Troubleshooting Guide: How to Fix Discord Voice Call Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-to-do-when-your-iphone-screen-isnt-responding/"><u>What To Do When Your iPhone Screen Isn't Responding?</u></a></li>
 </ul></div>
 

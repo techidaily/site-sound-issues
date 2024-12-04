@@ -1,7 +1,7 @@
 ---
 title: HDMI Connection Woes? Here's How To Restore Sound From Computers to Your Monitor/TV Setup
-date: 2024-08-27T21:08:17.606Z
-updated: 2024-08-28T21:08:17.606Z
+date: 2024-11-30T05:07:44.934Z
+updated: 2024-12-04T00:09:29.916Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 2. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Try the back audio jacks**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Set your audio device as default
 
  Perhaps your device connected to your front audio jack is not working properly because it’s not set as the default device. To check your default audio device:
@@ -35,9 +39,17 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b348985cac7a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** If you connect your_headphone_ or your_speakers_ to the front audio jack, click the**Playback** tab. If you connect your_microphone_ , click the**Recording** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b348efb28884.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Right click your_audio device_ , then click**Set as Default Device** . After that, click**OK** .
 
@@ -48,8 +60,9 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
  Hopefully this works for you. But if not, there are two more fixes for you to try…
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Update your device drivers
 
  Your front audio jack may not be working if you’re using a wrong driver or it’s out of date. You should update your device drivers to see if that’s the case for you. If you don’t have the time, patience or skills to update your drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -64,28 +77,18 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b344dbcb3a78.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 **3)**  Click the **Update**  button next to_each of your devices_ to download the latest and correct driver for it, then you can manually install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b3494ff64802.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free, but it’s partly manual.
 
  If you have any issue with Driver Easy, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  for advice. You should attach the URL of this article so they can help you better.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Try the back audio jacks
 
  You may have hardware issues with your front audio jacks. So it’s worth checking the audio jacks on your motherboard to see if your issues are occurring on your front jack only.
@@ -100,8 +103,6 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +110,26 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-proven-strategies-for-enhancing-quality-in-obs-edits/"><u>[New] 2024 Approved Proven Strategies for Enhancing Quality in OBS Edits</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-your-guide-to-the-best-of-samsung-gear-vr-gaming/"><u>[Updated] Your Guide to the Best of Samsung Gear VR Gaming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-find-your-perfect-livestream-service-match/"><u>2024 Approved How to Find Your Perfect Livestream Service Match</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/astro-a50-sound-issues-heres-how-to-resolve-them-instantly/"><u>Astro A50 Sound Issues? Here's How to Resolve Them Instantly!</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/effective-search-techniques-with-ibasesearch-for-maximum-results/"><u>Effective Search Techniques with IBaseSearch for Maximum Results</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-common-issues-windows-7-microphone-troubleshooting-guide/"><u>Fixing Common Issues: Windows 7 Microphone Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-mute-mode-essential-tricks-for-resolving-call-of-duty-warzone-sound-issues-on-pcs/"><u>Fixing Mute Mode: Essential Tricks for Resolving Call of Duty Warzone Sound Issues on PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-glitches-seamless-gaming-experience-now-with-assassins-creed-valhalla-on-your-computer/"><u>Fixing the Glitches: Seamless Gaming Experience Now with Assassin's Creed: Valhalla on Your Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functional-microphone-on-the-steelseries-arctis-1-headset/"><u>How to Fix a Non-Functional Microphone on the SteelSeries Arctis 1 Headset</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-apple-iphone-8-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>How to Fix Apple iPhone 8 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-and-improve-pc-microphone-issues-in-rec-room/"><u>How To Repair and Improve PC Microphone Issues in Rec Room</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-an-unconnected-nvidia-output-top-tips-and-solutions/"><u>How to Resolve an Unconnected Nvidia Output - Top Tips & Solutions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-motorola-razr-40-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Motorola Razr 40 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-selection-of-tiktok-screenshots/"><u>In 2024, Step-by-Step Selection of TikTok Screenshots</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-top-7-android-adblockers-seamless-browsing-experience/"><u>In 2024, Top 7 Android AdBlockers Seamless Browsing Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pubg-chat-woes-discover-effective-solutions-for-audio-issues-now/"><u>PUBG Chat Woes? Discover Effective Solutions for Audio Issues Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-problems-reactivate-mic-for-microsoft-teams-users-on-windows/"><u>Troubleshooting Audio Problems: Reactivate Mic for Microsoft Teams Users on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-non-functional-windows-10-audio-devices/"><u>Troubleshooting Guide: Fixing Non-Functional Windows 10 Audio Devices</u></a></li>
+</ul></div>
 

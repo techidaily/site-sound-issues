@@ -1,7 +1,7 @@
 ---
 title: Microsoft Teams Not Hearing You? Fix Your Mic Issues in Windows 11 or 10 with These Tips
-date: 2024-11-17T19:23:56.027Z
-updated: 2024-11-24T18:59:14.630Z
+date: 2024-11-27T04:00:39.625Z
+updated: 2024-12-04T01:43:48.937Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ Microsoft Teams offers a variety of convenient features for online conferencing.
 
  Before you continue to the troubleshooting steps below, please make sure your**microphone is not physically damaged** and it’s**correctly connected** to the PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Allow access to your microphone
 
  If Windows has restricted Microsoft Teams from accessing your microphone, you’ll run into the mic-not-working issue. To grant the permission correctly, you can follow the instruction below:
@@ -44,31 +48,27 @@ Microsoft Teams offers a variety of convenient features for online conferencing.
 3. Select**Microphone** in the left pane.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-2-1.jpg)
 4. Click the**Change** button and**turn on** Microphone access for this device.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-3-1.jpg)
 5. Under Allow apps to access your microphone,**toggle on** the button.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-4-1.jpg)
 6. Scroll down and set Allow desktop apps to access your microphone to**On** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-5-1.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-5-1.jpg)
 
  Does your microphone return to normal? If not, proceed to more fixes below.
 
@@ -83,16 +83,8 @@ Microsoft Teams offers a variety of convenient features for online conferencing.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-4.jpg)
 3. Navigate to the**Recording** tab, and right-click any empty space below. Then, tick Show**Disabled Devices** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3-4.jpg)
 4. Right-click the idle microphone and click**Disable** one by one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Select the correct input device and click**Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-5.jpg)
@@ -100,6 +92,11 @@ Microsoft Teams offers a variety of convenient features for online conferencing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-6.jpg)
 7. Go to the**Levels** tab. Then make sure**it’s not muted** and**drag the volume slider to the max** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-7.jpg)
 8. Click**OK** to apply the changes.  
 
@@ -116,11 +113,11 @@ Microsoft Teams offers a variety of convenient features for online conferencing.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-1-1.jpg)
 3. Under the microphone section, choose the device you’re using.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/microsoft-teams-settings.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/microsoft-teams-settings.jpg)
 
  Re-open the app and join a call to test your microphone. If the issue persists, check out the next fix.
 
@@ -145,16 +142,20 @@ Microsoft Teams offers a variety of convenient features for online conferencing.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-3.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click**Update** to do it for free, but it’s partly manual.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2-5.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2-5.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Regular driver updates can make your audio device run in the tip-top condition, but if this doesn’t fix Microsoft Teams microphone not working, there is the last method to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Reinstall Microsoft Teams
 
@@ -191,22 +192,20 @@ Now your microphone should be working perfectly with Microsoft Teams.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-capturing-desktop-image-in-windows-versions-11-7/"><u>[Updated] Capturing Desktop Image in Windows Versions (11-7)</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-incorporating-captions-in-photography-a-user-friendly-guide-on-pc-and-mac/"><u>[Updated] Incorporating Captions in Photography A User-Friendly Guide on PC & Mac</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-expert-breakdown-vsdc-review-and-alternative-comparisons/"><u>2024 Approved Expert Breakdown VSDC Review & Alternative Comparisons</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/conexant-smartaudio-hd-muting-woes-restore-audio-on-windows-10-heres-how/"><u>Conexant SmartAudio HD Muting Woes? Restore Audio on Windows 10 Here's How!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/detecting-whether-your-location-is-being-monitored-by-an-apple-airtag-a-comprehensive-guide/"><u>Detecting Whether Your Location Is Being Monitored by an Apple AirTag: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-when-your-realtek-hd-audio-manager-refuses-to-start-up/"><u>Effective Fixes for When Your Realtek HD Audio Manager Refuses to Start Up</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818280780-elevate-graphics-enhanced-amd-hd-6950-driver-update/"><u>Elevate Graphics: Enhanced AMD HD 6950 Driver Update</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-headphone-issues-troubleshooting-windows-11/"><u>Fixing Headphone Issues: Troubleshooting Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-microphone-functionality-restored-in-microsoft-teams-on-windows-11-and-10/"><u>Fixing the Issue: Microphone Functionality Restored in Microsoft Teams on Windows 11 & 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-alpha-s-expert-solutions-for-a-broken-mic-problem/"><u>HyperX Cloud Alpha S: Expert Solutions for a Broken Mic Problem</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-harmonizing-social-media-twitter-plus-tumblr-videos/"><u>In 2024, Harmonizing Social Media Twitter + Tumblr Videos</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-samsung-galaxy-m14-4g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Samsung Galaxy M14 4G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-connectivity-issues-a-guide-for-non-working-corsair-earsets/"><u>Overcoming Connectivity Issues: A Guide for Non-Working Corsair Earsets</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-silent-troubles-restoring-sound-after-windows-10-update/"><u>Solving Silent Troubles: Restoring Sound After Windows 10 Update</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-google-pixel-7a-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Google Pixel 7a Phones</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-8-no-cost-web-design-tools-ideal-html-editors-for-windows/"><u>Top 8 No-Cost Web Design Tools: Ideal HTML Editors for Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-resolving-echo-issues-in-discord-on-your-computer/"><u>Ultimate Troubleshooting: Resolving Echo Issues in Discord on Your Computer</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-discords-ultimate-selection-of-professional-emoji-makers/"><u>[New] Discord's Ultimate Selection of Professional Emoji Makers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-dynamic-visual-snapshot-providers/"><u>[New] In 2024, Dynamic Visual Snapshot Providers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-masterclass-on-premiere-pro-fullscreen-mode-finesse-for-2024/"><u>[New] Masterclass on Premiere Pro Fullscreen Mode Finesse for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-15-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone 15 to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnose-and-repair-inoperative-sound-hardware-in-windows-11-systems/"><u>Diagnose and Repair Inoperative Sound Hardware in Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-techniques-to-get-your-logitech-g-pro-x-mic-up-and-running-again/"><u>Effective Techniques to Get Your Logitech G Pro X Mic Up and Running Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-functionality-on-your-pc-during-zoom-calls/"><u>How to Restore Audio Functionality on Your PC During Zoom Calls</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-photographic-sparkle-essential-ideas-for-inspired-posts/"><u>In 2024, Photographic Sparkle Essential Ideas for Inspired Posts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/perfect-pair-codegpts-integration-into-visual-studio-code/"><u>Perfect Pair: CodeGPT's Integration Into Visual Studio Code</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-connection-problem-troubleshooting-a-non-responsive-bluetooth-speaker/"><u>Silent Connection Problem: Troubleshooting a Non-Responsive Bluetooth Speaker</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-bluetooth-speaker-latency-issues-swiftly-and-effortlessly/"><u>Solve Your Bluetooth Speaker Latency Issues Swiftly and Effortlessly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-constant-bugs-in-thunders-top-tier-level-a-users-manual/"><u>Solving the Constant Bugs in Thunder's Top-Tier Level - A User's Manual</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-repairing-the-dolby-audio-service-failure-on-your-pc-with-windows-10-operating-system/"><u>Step-by-Step Guide to Repairing the Dolby Audio Service Failure on Your PC with Windows 10 Operating System</u></a></li>
 </ul></div>
 

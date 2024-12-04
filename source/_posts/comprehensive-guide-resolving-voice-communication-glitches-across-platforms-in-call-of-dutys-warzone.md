@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Resolving Voice Communication Glitches Across Platforms in Call of Duty's Warzone"
-date: 2024-08-27T21:08:06.671Z
-updated: 2024-08-28T21:08:06.671Z
+date: 2024-11-27T17:35:04.009Z
+updated: 2024-12-03T17:18:38.125Z
 tags:
   - win11
   - win10
@@ -35,11 +35,16 @@ When you’re ready to fight side by side with your mates in Warzone, the last t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/audio-headphone-ports.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If there’s nothing suspicious with the connection, you can check out the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Make sure your recording device is set up properly
 
  For your mic to work in Warzone, you also need to make sure it’s set up properly in your system. To be more specific, you should **set your mic as the default recording device on Windows and the Battle.net client** .
@@ -51,18 +56,17 @@ Here’s how:
 1. At the bottom right corner of your screen, right-click the**Sound** icon and select**Open Sound settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/bottom-right-corner-sound-settings.jpg)
 2. Under the **Input**  section, make sure your input device is set to your desired one. Then click **Device properties and test microphone** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/input-device-testing.jpg)
 3. Uncheck the box next to**Disable** , and set the slider under **Volume**  to 100.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
 4. Click **Start test** and tap or speak to your microphone. Then click **Stop test** . If you’re prompted **The highest value we saw was xx (xx > 0) percent** , it means your microphone is working correctly.  
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/sound-test-percent.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Next you need to enable your mic in the**Battle.net** client.
 
 #### Set up your mic correctly in the Battle.net client
@@ -72,6 +76,10 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/battle-net-settings-1.jpg)
 3. On the menu to your left, select **Voice Chat** . Set **OUTPUT DEVICE** and **INPUT DEVICE** to **System Default Device** . Then click **Done** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-voice-chat.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you can launch Warzone and test the game chat.
 
@@ -99,15 +107,14 @@ Now you can launch Warzone and test the game chat.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-realtek-audio-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your audio driver, restart your PC and see if the voice chat is working in Warzone.
@@ -126,8 +133,9 @@ So here’s a simple guide:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  After installing all the system updates, do a reboot and check if you can talk in Warzone now.
@@ -135,8 +143,9 @@ So here’s a simple guide:
 If the voice chat still won’t work, simply try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Change in-game settings (PC & Console)
 
  If your mic works everywhere except in Warzone, then maybe there’s**something wrong with your in-game settings** .
@@ -147,9 +156,6 @@ You can follow these steps to check:
 2. Navigate to the**AUDIO** tab. Under the**Voice Chat** section, set**Voice Chat** to**Enabled** ,**Voice Chat Recording Mode** to**Open Mic** ,**Open Mic Recording Threshold** to**0.00** ,**Voice Chat Volume** and**Microphone Volume** to a moderate value (at least over 100.00).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/warzone-voice-chat-in-game-1.jpg)
 3. Navigate to the**ACCOUNT** tab. Under the**Online** section, set**Crossplay** to**Enabled** . If you can see an option named**Crossplay Communication** , make sure it’s set to**Enabled** . (If your friend isn’t gaming on PC, make sure he or she has enabled this feature as well.)  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/warzone-crossplay.jpg)
 
 Now restart Warzone and check if you can chat with your friends now.
@@ -164,8 +170,6 @@ Now restart Warzone and check if you can chat with your friends now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +177,24 @@ Now restart Warzone and check if you can chat with your friends now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-great-live-showdown-obs-vs-twitch-studio/"><u>2024 Approved The Great Live Showdown OBS vs Twitch Studio</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ac1st16dll-file-error-heres-how-to-get-it-back-and-running/"><u>ac1st16.dll File Error? Here’s How to Get It Back and Running</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-repairing-your-turtle-beach-elite-atlas-microphone-malfunction/"><u>Expert Advice: Repairing Your Turtle Beach Elite Atlas Microphone Malfunction</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-the-most-out-of-in-game-communication-fixing-warzone-micvoice-chat-issues-on-both-pc-and-console-platforms/"><u>Getting the Most Out of In-Game Communication: Fixing Warzone Mic/Voice Chat Issues on Both PC & Console Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/harnessing-powershell-to-auto-move-files-on-win-11/"><u>Harnessing PowerShell to Auto-Move Files on Win 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-malfunctioning-mic-in-your-headset-device/"><u>How to Fix a Malfunctioning Mic in Your Headset Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-hyperx-cloud-mic-malfunctions-for-optimal-audio-quality/"><u>How to Resolve HyperX Cloud Mic Malfunctions for Optimal Audio Quality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-speaker-or-headphone-connectivity-on-windows-11-8-and-7/"><u>How to Troubleshoot Speaker or Headphone Connectivity on Windows 11, 8, and 7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-xiaomi-13t-pro-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Xiaomi 13T Pro Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-xs-max-5-ways-to-get-into-a-locked-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone XS Max? 5 Ways to get into a Locked Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/maximize-impact-with-tiktok-videos-from-your-personal-computer-or-mac-for-2024/"><u>Maximize Impact with TikTok Videos From Your Personal Computer or MAC for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-solving-skypes-audio-problems/"><u>Quick Fixes for Solving Skype's Audio Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-common-heart-of-iron-4-stability-problems-fixes-and-tips/"><u>Resolved: Common Heart of Iron 4 Stability Problems - Fixes & Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/speedy-guide-to-correcting-the-audio-malfunction-test-tone-failure/"><u>Speedy Guide to Correcting the 'Audio Malfunction - Test Tone Failure'</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-troubleshooting-eliminating-echo-on-discord-for-windows-users/"><u>Step-by-Step Troubleshooting: Eliminating Echo on Discord for Windows Users</u></a></li>
+<li><a href="https://discover-community.techidaily.com/transforma-archivos-mp3-gratis-a-formato-aiff-online-con-convertidor-de-audio-de-movavi/"><u>Transforma Archivos MP3 Gratis a Formato AIFF Online Con Convertidor De Audio De Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/untangling-and-repairing-the-whea-device-malfunction-a-comprehensive-guide/"><u>Untangling and Repairing the WHEA Device Malfunction: A Comprehensive Guide</u></a></li>
+</ul></div>
 

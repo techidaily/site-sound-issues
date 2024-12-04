@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Fix a Non-Functional Microphone on Skype for Windows 10 Users"
-date: 2024-08-27T21:10:24.136Z
-updated: 2024-08-28T21:10:24.136Z
+date: 2024-11-30T05:07:10.646Z
+updated: 2024-12-03T16:41:35.015Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 
  Microphone not working when you’re on a Webex meeting? You’re not alone! Such audio issues are quite common but they’re usually not hard to fix. Even if you’re not familiar with computer, follow this post and you’ll be able to tackle the Webex microphone not working issue easily and quickly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 4 fixes for the Webex mic not working issue. You don’t have to try them all. Just work from the top down until you find the one that solves the problem.
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 3. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Check the Webex settings](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Troubleshoot the connection
 
  Before you proceed to anything more complicated, make sure you’ve set up the audio device correctly.
@@ -36,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 * Make sure the mute button on your headsets or microphone is turned off.
 
  If your mic is securely plugged in but still not working in Webex, continue to more solutions below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Allow Webex to access your microphone
 
@@ -47,14 +59,8 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 3. Select**Microphone** from the left pane. Then click the**Change** button and**turn on** Microphone access for this device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 4. Scroll down and toggle on the button below**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you’ve allowed the microphone access to your apps, check if the problem is resolved. If not, try the next method.
 
 ### Fix 2 – Update your audio driver
@@ -78,26 +84,13 @@ There are mainly two ways you can update the audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -111,19 +104,14 @@ Key features:
 2. Click your profile at the top left corner and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings.jpg)
 3. Select**Audio** from the left pane. Under the Microphone section, select your preferred audio device from the drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-3.jpg)
 4. You can also adjust the volume by dragging the slider. Then click Save to apply the changes.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once completed, you can click the Test button under Microphone to see if everything goes back to normal.
 
 ---
@@ -138,8 +126,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +133,26 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/solved-how-to-fix-intel-me-driver-issues/"><u>[Solved] How to Fix Intel ME Driver Issues?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-cutting-edge-iphone-techniques-for-slow-motion/"><u>[Updated] Cutting Edge iPhone Techniques for Slow Motion</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unlocking-the-secret-to-a-streamlined-tiktok-bio-with-linktree/"><u>[Updated] In 2024, Unlocking the Secret to a Streamlined TikTok Bio with Linktree</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-restore-sound-capture-overcoming-desktop-mic-glitches-in-obs/"><u>Expert Tips to Restore Sound Capture: Overcoming Desktop Mic Glitches in OBS</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-a54-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-15-pro-max-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 15 Pro Max Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-solve-tozo-t6-compatibility-problems-on-windows-11-devices/"><u>How to Solve Tozo T6 Compatibility Problems on Windows 11 Devices</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-plus-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 Plus To Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-the-roadmap-to-making-money-with-personal-videos/"><u>In 2024, The Roadmap to Making Money with Personal Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g533-microphone-not-functional-heres-how-you-can-get-it-working-again/"><u>Logitech G533 Microphone Not Functional? Here's How You Can Get It Working Again!</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/mastering-the-art-of-adjusting-video-playback-velocity-a-comprehensive-guide/"><u>Mastering the Art of Adjusting Video Playback Velocity: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/maximize-audio-clarity-techniques-for-increasing-speaker-output-in-windows-11/"><u>Maximize Audio Clarity: Techniques for Increasing Speaker Output in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-sound-glitches-and-audio-quirks-in-windows-107-a-complete-fix-guide/"><u>Resolving Sound Glitches & Audio Quirks in Windows 10/7 – A Complete Fix Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-airpods-audio-problems-windows-10-mic-guide/"><u>Troubleshooting AirPods Audio Problems: Windows 10 Mic Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-unstick-your-discord-stream-for-smooth-viewing/"><u>Troubleshooting Guide: Unstick Your Discord Stream for Smooth Viewing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-logitech-g533-mic-problems-step-by-step-fixes/"><u>Troubleshooting Logitech G533 Mic Problems - Step-by-Step Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-realtek-hdmi-and-aux-output-problems-connected-and-plugged-in-tips/"><u>Troubleshooting Realtek HDMI and AUX Output Problems: Connected & Plugged In Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-tips-repairing-a-non-functional-rust-microphone/"><u>Ultimate Troubleshooting Tips: Repairing a Non-Functional Rust Microphone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/virtual-webcams-revolutionized-discover-the-best-live-video-solutions-with-manycam-technology/"><u>Virtual Webcams Revolutionized: Discover the Best Live-Video Solutions with ManyCam Technology</u></a></li>
+</ul></div>
 

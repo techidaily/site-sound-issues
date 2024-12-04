@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Audio: Easy Fixes for a Non-Functioning Headset Microphone"
-date: 2024-11-23T00:11:56.694Z
-updated: 2024-11-24T17:53:05.909Z
+date: 2024-11-29T01:37:37.474Z
+updated: 2024-12-04T03:58:11.642Z
 tags:
   - win11
   - win10
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
  If your mic is securely plugged in but still not working in Webex, continue to more solutions below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Allow Webex to access your microphone
@@ -57,17 +57,13 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 4. Scroll down and toggle on the button below**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you’ve allowed the microphone access to your apps, check if the problem is resolved. If not, try the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Update your audio driver
 
@@ -94,17 +90,13 @@ There are mainly two ways you can update the audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Now check if your microphone works in the Webex meeting. If not, there’s one more fix to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Check the Webex settings
 
@@ -115,10 +107,18 @@ There are mainly two ways you can update the audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings.jpg)
 3. Select**Audio** from the left pane. Under the Microphone section, select your preferred audio device from the drop-down menu.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-3.jpg)
 4. You can also adjust the volume by dragging the slider. Then click Save to apply the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once completed, you can click the Test button under Microphone to see if everything goes back to normal.
 
@@ -143,16 +143,18 @@ There are mainly two ways you can update the audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-mastering-video-creation-adobe-captivate-guide/"><u>[Updated] 2024 Approved Mastering Video Creation Adobe Captivate Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/freeing-your-tunes-transforming-itunes-files-into-high-quality-mp3s/"><u>Freeing Your Tunes: Transforming iTunes Files Into High-Quality MP3s</u></a></li>
-<li><a href="https://win-unique.techidaily.com/how-to-effortlessly-save-video-content-on-your-device-with-isharerediff-downloader-tools/"><u>How to Effortlessly Save Video Content on Your Device with iShare.Rediff Downloader Tools</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-xiaomi-redmi-note-13-proplus-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Xiaomi Redmi Note 13 Pro+ 5G Quickly? | Dr.fone</u></a></li>
-<li><a href="https://win-great.techidaily.com/how-to-restore-or-reconstruct-the-asus-system-recovery-partition/"><u>How to Restore or Reconstruct the Asus System Recovery Partition</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-11-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 11 without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-grasping-the-essence-an-in-depth-guide-to-tiktok-filters/"><u>In 2024, Grasping the Essence An In-Depth Guide to TikTok Filters</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-mic-check-simple-steps-for-instant-microphone-testing/"><u>Quick Mic Check: Simple Steps for Instant Microphone Testing!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-internal-laptop-speakers-no-more-soundless-screens/"><u>Reviving Internal Laptop Speakers: No More Soundless Screens</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solutions-for-when-blue-yeti-mic-doesnt-detect-or-work-properly/"><u>Solutions for When Blue Yeti Mic Doesn't Detect or Work Properly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solutions-guide-restoring-sound-with-your-desktoplaptop-or-mac-connected-to-an-hdmi-display/"><u>Solutions Guide: Restoring Sound with Your Desktop/Laptop or MAC Connected to an HDMI Display</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-pursuing-perfection-in-lengthy-iphone-photography/"><u>[New] Pursuing Perfection in Lengthy iPhone Photography</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-learn-the-basics-of-digital-distortion/"><u>[Updated] 2024 Approved Learn the Basics of Digital Distortion</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-zoom-in-navigating-the-nearby-landscapes-of-roblox/"><u>[Updated] In 2024, Zoom In Navigating the Nearby Landscapes of Roblox</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-standing-out-strategies-for-top-users-on-snapchat/"><u>[Updated] Standing Out Strategies for Top Users on Snapchat</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/becoming-a-visionary-in-the-field-of-lut-artistry-for-2024/"><u>Becoming a Visionary in the Field of LUT Artistry for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-worlds-solve-your-valheim-pc-games-audio-issues/"><u>Fixing Silent Worlds: Solve Your Valheim PC Game's Audio Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-windows-10-and-11-how-to-eliminate-bluetooth-sound-glitches-and-distortions/"><u>Fixing Windows 10 & 11: How to Eliminate Bluetooth Sound Glitches and Distortions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/game-volume-issue-fixed-enjoy-seamless-audio-in-discord-chats/"><u>Game Volume Issue Fixed - Enjoy Seamless Audio in Discord Chats</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-epson-scanner-up-and-running-in-windows-11/"><u>Getting Your Epson Scanner Up and Running in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-non-functional-mpow-microphone-on-pcs-with-windows-os/"><u>How to Resolve Non-Functional MPOW Microphone on PCs with Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-when-your-turtle-beach-elite-atlas-microphone-wont-work/"><u>Quick Fixes for When Your Turtle Beach Elite Atlas Microphone Won't Work</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-finding-out-if-and-how-to-activate-facebook-marketplace/"><u>Solving the Mystery: Finding Out if and How to Activate Facebook Marketplace</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streaming-supremacy-pick-the-best-tool-for-your-vlogs-and-streams-for-2024/"><u>Streaming Supremacy Pick the Best Tool for Your Vlogs & Streams for 2024</u></a></li>
 </ul></div>
 

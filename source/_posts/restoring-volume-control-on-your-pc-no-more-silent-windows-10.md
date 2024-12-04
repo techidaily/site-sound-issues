@@ -1,7 +1,7 @@
 ---
 title: "Restoring Volume Control on Your PC: No More Silent Windows 10"
-date: 2024-11-19T01:31:57.890Z
-updated: 2024-11-24T16:40:39.578Z
+date: 2024-11-28T06:56:32.628Z
+updated: 2024-12-03T16:06:29.146Z
 tags:
   - win11
   - win10
@@ -50,12 +50,16 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 3. Click the**Update** button next to a flagged audio driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version of Driver Easy).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update** **All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72220f11f9.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Check if there’s any sound in your computer.
 
@@ -71,21 +75,17 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 2. In the**Sound** pane, click the**Playback** tab.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7201dbcc98.jpg)
 3. Select your speaker audio device, and click**Set Default** to set it as your default device.  
  If your device has been the default device, you’ll see a green check mark next to your device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72066a032c.jpg)
 4. Restart your computer, and plug a headphone to see if there’s any sound.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Still no luck? Okay, there’s one more thing to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Roll back your audio driver
 
@@ -96,22 +96,23 @@ Still no luck? Okay, there’s one more thing to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721431cb33.jpg)
 3. Double click**Sound, video and game controllers** to expand it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72165a0e6f.jpg)
 4. Double click on your**audio device** to open the properties pane.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7218e14fa5.jpg)
 5. Click the**Driver** tab, and click**Roll Back Driver** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721ba8a50e.jpg)
 6. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Restart your computer.
 
 Test your computer and see if it fixes the sound problem.
@@ -138,22 +139,22 @@ Feel free to leave a comment below if you have any questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-twitters-mandated-video-dimensions-aspect-ratio-noted/"><u>[New] 2024 Approved Twitter's Mandated Video Dimensions (Aspect Ratio Noted)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-from-raw-images-to-stunning-photos-your-guide-to-iphone-photomosaic-creation/"><u>[New] From Raw Images to Stunning Photos Your Guide to iPhone Photomosaic Creation</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-key-methods-for-silent-screen-imaging-for-2024/"><u>[New] Key Methods for Silent Screen Imaging for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-master-fast-photoshop-edits-on-windows-11-for-2024/"><u>[New] Master Fast Photoshop Edits on Windows 11 for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-comprerant-hashtags-with-leading-trackers-for-fb-twt-and-ig/"><u>[Updated] In 2024, Compreran't Hashtags with Leading Trackers for FB, Twt and IG</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-streaming-giants-rivalry-facebook-vs-youtube-and-spaces/"><u>[Updated] Streaming Giants' Rivalry Facebook Vs. YouTube & Spaces</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-unleash-bright-potential-in-your-android-videos-for-2024/"><u>[Updated] Unleash Bright Potential in Your Android Videos for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016132919-anthem-on-windows-11-wont-sound-heres-how-to-get-your-game-roaring-again/"><u>Anthem on Windows 11 Won't Sound? Here's How to Get Your Game Roaring Again!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-nvidia-display-problems-when-the-cable-isnt-connected/"><u>Fixing Nvidia Display Problems When The Cable Isn't Connected</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-realtek-audio-not-working-problem-a-step-by-step-guide/"><u>Fixing Realtek Audio Not Working Problem - A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-voice-chat-problems-on-rainbow-six-siege-after-the-latest-2024-game-update/"><u>Fixing Voice Chat Problems on Rainbow Six Siege After the Latest 2024 Game Update</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-fixing-a-malfunctioning-logitech-webcam-mic/"><u>Resolved: Fixing a Malfunctioning Logitech Webcam Mic</u></a></li>
-<li><a href="https://win11.techidaily.com/steering-clear-of-fatigue-post-winning-life-with-windows/"><u>Steering Clear of Fatigue Post Winning Life with Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-art-of-storytelling-enhanced-by-ais-intelligence/"><u>The Art of Storytelling Enhanced by AI's Intelligence</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-overcoming-zoom-audio-hurdles-on-microsoft-windows-platforms/"><u>Troubleshooting Guide: Overcoming Zoom Audio Hurdles on Microsoft Windows Platforms</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unresponsive-blue-yeti-microphone-simple-fixes-for-immediate-results/"><u>Unresponsive Blue Yeti Microphone: Simple Fixes for Immediate Results</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/why-isnt-my-mic-working-effective-tips-for-resolving-audio-problems/"><u>Why Isn't My Mic Working? Effective Tips for Resolving Audio Problems</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-pros-guide-from-playback-to-perfected-overwatch-recordings-for-2024/"><u>[New] The Pro's Guide From Playback to Perfected Overwatch Recordings for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-easy-entry-into-cinematography-choosing-film-cameras-35mm-to-pands/"><u>[Updated] 2024 Approved Easy Entry Into Cinematography Choosing Film Cameras (35Mm to P&S)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-how-to-facetime-with-your-android-phone-in-2024/"><u>[Updated] How To Facetime with Your Android Phone , In 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/counter-strike-2-audio-problems-solved-restoring-mic-functionality/"><u>Counter-Strike 2 Audio Problems Solved: Restoring Mic Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-non-functional-audio-in-obs-studio-on-your-computer/"><u>Fixing Non-Functional Audio in OBS Studio on Your Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1723808176177-how-to-disable-windows-10-lock-screen-easily/"><u>How to Disable Windows 10 Lock Screen, Easily</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/how-to-exclude-a-folder-from-onedrive-sync-without-deleting-files/"><u>How to Exclude a Folder From OneDrive Sync Without Deleting Files</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-broken-jabra-headset-expert-guidance-and-solutions/"><u>How to Repair a Broken Jabra Headset : Expert Guidance and Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/mobile-moguls-tips-for-seamless-gaming-on-trips/"><u>Mobile Mogul's Tips for Seamless Gaming on Trips</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210877269-9781612833156-out-of-body-experiences/"><u>Out of Body Experiences | Free Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-communication-hurdles-effective-fixes-for-black-ops-cold-wars-voice-chat-issues/"><u>Overcoming Communication Hurdles: Effective Fixes for Black Ops Cold War's Voice Chat Issues</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolved-fixing-the-260ci-wia-usb-connectivity-issue/"><u>Resolved: Fixing the 260Ci WIA USB Connectivity Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-display-jitter-and-twitches-on-windows-10-systems/"><u>Resolving Display Jitter and Twitches on Windows 10 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-sounds-on-anthem-game-following-windows-11-update/"><u>Restore Sounds on Anthem Game Following Windows 11 Update</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-issues-solving-crackling-sounds-on-windows-10-11-and-7/"><u>Troubleshooting Audio Issues: Solving Crackling Sounds on Windows 10, 11 & 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-common-problems-with-the-logitech-g230-headset-microphone/"><u>Troubleshooting Common Problems with the Logitech G230 Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-turtle-beach-gaming-mic-for-seamless-audio-output/"><u>Troubleshooting Your Turtle Beach Gaming Mic for Seamless Audio Output</u></a></li>
 </ul></div>
 

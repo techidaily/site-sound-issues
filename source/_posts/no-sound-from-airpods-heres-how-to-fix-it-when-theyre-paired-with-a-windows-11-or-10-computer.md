@@ -1,7 +1,7 @@
 ---
 title: No Sound From AirPods? Here's How to Fix It When They're Paired with a Windows 11 or 10 Computer
-date: 2024-11-21T21:23:12.091Z
-updated: 2024-11-24T21:20:26.997Z
+date: 2024-11-30T00:57:10.388Z
+updated: 2024-12-04T05:42:41.830Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -67,23 +63,23 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-2.jpg)
 2. Select**Microphone** . Then on the right pane, click the**Change** button and turn Microphone access for this device to**On** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 3. Scroll down and make sure the button under**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** is set to**On** . This makes it possible for your browser to access the microphone.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you complete the steps, check if Google Meet can pick up your voice. If not, move on to the next method below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Check your PC sound settings
@@ -97,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-3.jpg)
 3. Click the**Microphone** you would like to use and click**Set Default** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
 4. You also need to set the microphone volume to a proper level: right-click the microphone and select**Properties** .  
 
@@ -104,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 5. Click the**Levels** tab and drag the microphone slider to turn the volume to the max. Then click**OK** to save the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-2-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Test your microphone again to see if it works without problem. If the issue persists, check out the next solution below.
 
@@ -119,15 +115,19 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting.jpg)
 2. Make sure your microphone is not turned off.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click the**vertical ellipsis icon** at the top left and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-2.jpg)
 4. From the drop-down menu under Microphone, select your primary microphone.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you still can’t use the microphone in Google Meet, the last resort is to**double-check the physical connection** .
 
@@ -156,18 +156,22 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-best-3ip-top-audio-capture-apps/"><u>2024 Approved Best 3iP Top Audio Capture Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/dive-deep-into-hdr-visualization-with-windows-11/"><u>Dive Deep Into HDR Visualization with Windows 11</u></a></li>
-<li><a href="https://techidaily.com/1722977121169-enhance-your-wireless-experience-with-updated-mpow-bluetooth-drivers-for-win11win8win7-secure-download-now/"><u>Enhance Your Wireless Experience with Updated MPOW Bluetooth Drivers for Win11/Win8/Win7 - Secure Download Now!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-iphone-6-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From iPhone 6</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-suppress-ambient-sounds-and-insert-unique-soundscapes-with-the-help-of-microsofts-movie-creator/"><u>New Suppress Ambient Sounds and Insert Unique Soundscapes with the Help of Microsofts Movie Creator</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-audio-issues-on-mozilla-firefox-corrected/"><u>Resolved: Audio Issues on Mozilla Firefox Corrected</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-headset-problems-for-optimal-use-with-windows-10-systems/"><u>Resolving Headset Problems for Optimal Use with Windows 10 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-bluetooth-pairing-uncover-the-reasons-and-restore-your-audio-today/"><u>Silent Bluetooth Pairing: Uncover the Reasons and Restore Your Audio Today</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-fixing-silent-hp-notebooks-restore-your-laptops-audio/"><u>Solved: Fixing Silent HP Notebooks - Restore Your Laptop's Audio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015141362-troubleshooting-intermittent-sound-issues-in-windows-10-solutions/"><u>Troubleshooting Intermittent Sound Issues in Windows 10 - Solutions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-top-performers-best-smart-audio-gadgets-revealed/"><u>Unveiling the Top Performers: Best Smart Audio Gadgets Revealed</u></a></li>
-<li><a href="https://win-dash.techidaily.com/video-economy-hc-v770-insight/"><u>Video Economy: HC-V770 Insight</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-breakdown-decoding-comprehensiveness-of-xvideo-hub-review-for-2024/"><u>[Updated] The Ultimate Breakdown Decoding Comprehensiveness of XVideo Hub Review for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beat-bluetooth-sound-lags-simple-tips-and-tricks-to-enhance-your-listening-experience/"><u>Beat Bluetooth Sound Lags: Simple Tips & Tricks to Enhance Your Listening Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/boosting-sound-ultimate-guide-to-amplifying-volume-in-windows-11/"><u>Boosting Sound: Ultimate Guide to Amplifying Volume in Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210295108-9781644581933-coming-out-of-darkness/"><u>Coming Out of Darkness | Free Book</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-new-dimensions-choose-the-best-vr-headsets-for-metaverse/"><u>Exploring New Dimensions Choose the Best VR Headsets for Metaverse</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-crackling-headphones-instantly-simple-solutions/"><u>Fix Your Crackling Headphones Instantly - Simple Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-disable-windows-11s-tracking-features/"><u>How to Disable Windows 11'S Tracking Features</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-pdf-document-on-a-flash-drive-stellar-by-stellar-guide/"><u>How to Repair PDF Document on a Flash Drive | Stellar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-of-the-valorant-in-game-voip-feature/"><u>How to Restore Functionality of the VALORANT In-Game VOIP Feature</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-imovie-cropping-query-the-hidden-logic-behind-it/"><u>In 2024, IMovie Cropping Query The Hidden Logic Behind It</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-phantom-3-vs-phantom-4-complete-comparison/"><u>In 2024, Phantom 3 Vs. Phantom 4 Complete Comparison</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-fix-for-undetected-speaker-systems-in-windows-11/"><u>Mastering the Fix for Undetected Speaker Systems in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-audio-hurdles-get-your-zoom-mic-working-again-on-windows-1110/"><u>Overcome Audio Hurdles: Get Your Zoom Mic Working Again on Windows 11/10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solution-guide-resolving-test-tone-could-not-be-played-issues/"><u>Quick Solution Guide: Resolving 'Test Tone Could Not Be Played' Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-reactivating-and-repairing-voice-communication-in-valorant/"><u>Step-by-Step Solution: Reactivating and Repairing Voice Communication in Valorant</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights/"><u>Tom's Tech Insights</u></a></li>
+<li><a href="https://win-best.techidaily.com/top-15-sites-y-platfonas-de-transmision-para-jugadores-serios/"><u>Top 15 Sites Y Platfonas De Transmisión Para Jugadores Serios</u></a></li>
 </ul></div>
 

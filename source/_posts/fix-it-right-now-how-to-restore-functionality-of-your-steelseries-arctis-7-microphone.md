@@ -1,7 +1,7 @@
 ---
 title: Fix It Right Now! How to Restore Functionality of Your SteelSeries Arctis 7 Microphone
-date: 2024-11-20T02:54:23.694Z
-updated: 2024-11-24T18:44:24.959Z
+date: 2024-12-01T16:56:42.691Z
+updated: 2024-12-03T21:19:04.905Z
 tags:
   - win11
   - win10
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
  Before you proceed to the more complicated fixes, try**restarting your browser and computer** . A simple restart can sometimes perfectly resolve the microphone glitch.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Update your audio driver
@@ -70,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 3. Scroll down and make sure the button under**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** is set to**On** . This makes it possible for your browser to access the microphone.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
 
  When you complete the steps, check if Google Meet can pick up your voice. If not, move on to the next method below.
@@ -87,11 +83,16 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 2. Navigate to the**Recording** tab. First make sure your microphone is enabled (showing a green checkmark). If it’s not and displays a grey down-arrow icon, right-click it and click**Enable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-3.jpg)
 3. Click the**Microphone** you would like to use and click**Set Default** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
 4. You also need to set the microphone volume to a proper level: right-click the microphone and select**Properties** .  
 
@@ -103,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
  Test your microphone again to see if it works without problem. If the issue persists, check out the next solution below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4 – Check Google Meet’s settings
@@ -115,7 +116,7 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 2. Make sure your microphone is not turned off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click the**vertical ellipsis icon** at the top left and select**Settings** .  
@@ -123,7 +124,7 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 4. From the drop-down menu under Microphone, select your primary microphone.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-3.jpg)
@@ -155,17 +156,18 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-srs-mastery-innovative-conversion-techniques/"><u>[New] 2024 Approved SRS Mastery Innovative Conversion Techniques</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-masters-of-illusion-top-vr-producers-for-2024/"><u>[New] Masters of Illusion Top VR Producers for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-prodigious-portfolio-creation-best-free-mac-software-for-2024/"><u>[Updated] Prodigious Portfolio Creation Best FREE Mac Software for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-humor-in-captivity-top-20-memes-from-jail-to-joys-of-online-life/"><u>2024 Approved Humor in Captivity Top 20 Memes From Jail to Joys of Online Life</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/breeze-through-direct3d-download-simple-steps-for-success/"><u>Breeze Through Direct3D Download – Simple Steps for Success</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/elite-4k-screens-the-ultimate-choice/"><u>Elite 4K Screens – The Ultimate Choice</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/steps-to-remove-advanced-sound-adjustments-inbuilt-in-windows-10-os/"><u>Steps To Remove Advanced Sound Adjustments Inbuilt In Windows 10 OS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/tech-guide-how-to-fix-lack-of-audio-in-toshiba-notebooks-easily/"><u>Tech Guide: How to Fix Lack of Audio in Toshiba Notebooks Easily</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-diagnosing-the-phantom-sounds-headphones-hooked-up-with-spillage-to-speakers/"><u>Troubleshooting Guide: Diagnosing the Phantom Sounds – Headphones Hooked Up with Spillage to Speakers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722892385338-unlocking-the-secrets-of-pages-files-on-desktop-systems-open-with-confidence/"><u>Unlocking the Secrets of Pages Files on Desktop Systems - Open with Confidence!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unstuck-with-your-logitech-g533-mic-heres-how-to-fix-it/"><u>Unstuck with Your Logitech G533 Mic? Here's How to Fix It!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-elevating-your-creations-with-tiktok-tricks/"><u>[Updated] In 2024, Elevating Your Creations with TikTok Tricks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-20-tips-to-transform-your-images-into-collages/"><u>2024 Approved 20 Tips to Transform Your Images Into Collages</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/conquering-silence-expert-tips-for-fixing-connexant-smartaudio-hds-audio-malfunction-in-windows-10-computers/"><u>Conquering Silence: Expert Tips for Fixing Connexant SmartAudio HD's Audio Malfunction in Windows 10 Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-no-audio-problems-when-linking-a-computer-with-a-display-device-using-hdmi/"><u>Fixing No Audio Problems When Linking a Computer with a Display Device Using HDMI</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-the-fixes-you-need-for-voice-chat-glitches-in-call-of-dutys-warzone-across-pc-and-consoles/"><u>Getting the Fixes You Need for Voice Chat Glitches in Call of Duty's Warzone - Across PC & Consoles</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-asus-rog-phone-7-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Asus ROG Phone 7 Unlock Without Password</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-download-apple-podcasts/"><u>In 2024, How to Download Apple Podcasts?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-scriptwriting-mastery-elevate-your-youtube-channels-content-quality/"><u>In 2024, Scriptwriting Mastery Elevate Your YouTube Channel's Content Quality</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-y100-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Vivo Y100 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-silence-expert-tips-for-restoring-sound-on-your-pclaptop/"><u>Solving the Silence: Expert Tips for Restoring Sound on Your PC/Laptop</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-responding-to-incoming-calls-from-unlisted-or-hidden-numbers/"><u>The Ultimate Guide: Responding to Incoming Calls From Unlisted or Hidden Numbers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tips-and-solutions-restoring-functionality-to-your-turtle-beach-elite-atlas-headsets-mic/"><u>Tips and Solutions: Restoring Functionality to Your Turtle Beach Elite Atlas Headset's Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-call-of-duty-vanguard-speaking-to-others-solutions-inside/"><u>Trouble with Call of Duty Vanguard Speaking to Others? Solutions Inside</u></a></li>
 </ul></div>
 

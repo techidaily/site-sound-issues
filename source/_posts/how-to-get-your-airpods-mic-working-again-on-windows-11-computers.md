@@ -1,7 +1,7 @@
 ---
 title: How to Get Your AirPods Mic Working Again on Windows 11 Computers
-date: 2024-11-23T20:50:11.083Z
-updated: 2024-11-24T20:14:37.392Z
+date: 2024-11-29T17:32:00.495Z
+updated: 2024-12-03T19:07:24.001Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes for ‘Skype Microphone not working’
 
@@ -53,7 +49,7 @@ Follow these:
 ###
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Adjust the audio settings on Skype
@@ -62,11 +58,15 @@ Follow these:
 2. On Skype window, Click**Tools** \>**Options** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599a3fd935df2.png)
 3. Click**Audio settings** on the left pane. Then set your Microphone device and un-tick**Automatically adjust microphone settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
 4. Check to see if your Microphone works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###
@@ -82,11 +82,11 @@ Follow these:
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 4. Restart your computer and run Skype to see if your Microphone works.
 
-###
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+###
 
 ### Fix 4: Restart Windows audio service
 
@@ -96,7 +96,7 @@ Follow these:
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Log in Skype and check to see if your Microphone works.
@@ -118,21 +118,24 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2023-how-to-check-tiktok-video-copyright-before-uploading/"><u>[New] 2023 | How to Check Tiktok Video Copyright Before Uploading?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-app-for-video-consumption-analysis/"><u>[New] Innovative App for Video Consumption Analysis</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-mastering-the-art-of-farewell-in-the-instagram-world-for-2024/"><u>[New] Mastering the Art of Farewell in the Instagram World for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-from-two-dimensions-techniques-for-3d-text-in-illustrator/"><u>[Updated] In 2024, From Two-Dimensions Techniques for 3D Text in Illustrator</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-issues-with-your-pc-loudspeakers/"><u>Diagnosing and Repairing Issues with Your PC Loudspeakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-guide-to-repairing-inactive-microphones-in-cs-go-multiplayer-battles/"><u>Expert Guide to Repairing Inactive Microphones in CS: GO Multiplayer Battles</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-voice-chat-glitches-in-pubg-a-comprehensive-guide-for-smooth-gaming-experience/"><u>Fixing Voice Chat Glitches in PUBG: A Comprehensive Guide for Smooth Gaming Experience</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-download-and-install-the-official-logitech-mouse-software-on-windows-os/"><u>How to Download and Install the Official Logitech Mouse Software on Windows OS</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-htc-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of HTC using Video Repair Utility on Windows?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-voice-chat-functionality-after-the-2024-patch-on-rainbow-six-siege/"><u>How to Restore Voice Chat Functionality After the 2024 Patch on Rainbow Six Siege</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-seamlessly-add-and-edit-audio-to-canvas-clips/"><u>In 2024, How to Seamlessly Add and Edit Audio to Canvas Clips</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Oppo Find N3 Flip? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-audio-troubleshooting-fixing-issues-with-the-non-opening-of-realtek-hd-audio-player/"><u>Mastering Audio Troubleshooting: Fixing Issues with the Non-Opening of Realtek HD Audio Player</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/optimizing-your-voice-content-via-garageband-for-2024/"><u>Optimizing Your Voice Content via GarageBand for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-a-malfunctioning-bose-speaker-setup/"><u>Step-by-Step Fixes for a Malfunctioning Bose Speaker Setup</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-to-fix-turtle-beach-recon-70-microphone-issues/"><u>Troubleshooting Steps to Fix Turtle Beach Recon 70 Microphone Issues</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-transforming-text-to-speech-on-discord/"><u>[Updated] Transforming Text to Speech on Discord</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/44cm5pya5paw44kz44ou44o844ks44o844oj5lil44gn44gu44oh44k444k44or44oh44oh44kj44ki44oq44od44kv44ki44od44ox5pa55rov77ya5bcc6zaa5a6244gu44os44oz44oi44cn/"><u>「最新コピーガード下でのデジタルメディアバックアップ方法：専門家のヒント」</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/csgo-sound-trouble-heres-how-to-get-your-mic-working-again/"><u>CS:GO Sound Trouble? Here's How to Get Your Mic Working Again!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dayz-combat-survival-swift-and-smart-looting-techniques-revealed/"><u>DayZ Combat Survival: Swift and Smart Looting Techniques Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/discover-how-to-eliminate-discords-audio-cutting-problem-once-and-for-all-in-our-definitive-2024-handbook/"><u>Discover How to Eliminate Discord's Audio Cutting Problem Once and For All in Our Definitive 2024 Handbook</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-when-your-corsair-hs70-mic-goes-silent/"><u>Effective Solutions for When Your Corsair HS70 Mic Goes Silent</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-razer-headsets-microphone-problem-a-step-by-step-guide-for-quick-results/"><u>Fixing Your Razer Headset's Microphone Problem: A Step-by-Step Guide for Quick Results</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-restoring-obs-recorded-sound-on-your-computer-screen/"><u>Guide to Restoring OBS Recorded Sound on Your Computer Screen</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-boosting-participation-tips-for-fb-giveaway-posts/"><u>In 2024, Boosting Participation Tips for FB Giveaway Posts</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-13-mini-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, iPhone 13 mini Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-seamless-experience-with-iphone-vr-video-playback/"><u>In 2024, Seamless Experience with iPhone VR Video Playback</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ranking-the-best-third-place-recording-tools-for-ipad/"><u>Ranking the Best Third-Place Recording Tools for iPad</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/skype-audio-problems-solved-restoring-microphone-function-in-windows-11/"><u>Skype Audio Problems Solved: Restoring Microphone Function in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-latency-in-bluetooth-devices-a-step-by-step-guide/"><u>Solving Audio Latency in Bluetooth Devices - A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sony-wh-1000xm-series-diagnosing-and-repairing-microphone-problems-when-connecting-to-pc/"><u>Sony WH-1000XM Series: Diagnosing and Repairing Microphone Problems When Connecting to PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-realtek-audio-capture-device-malfunction/"><u>Troubleshooting Guide: Realtek Audio Capture Device Malfunction</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-static-emails-in-the-mail-app-fixes-for-iphone-owners/"><u>Troubleshooting Static Emails in the Mail App: Fixes for iPhone Owners</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-honor-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Honor fingerprint</u></a></li>
 </ul></div>
 

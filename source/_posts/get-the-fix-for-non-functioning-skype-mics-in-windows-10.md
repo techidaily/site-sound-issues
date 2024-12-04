@@ -1,7 +1,7 @@
 ---
 title: Get the Fix for Non-Functioning Skype Mics in Windows 10
-date: 2024-11-23T23:00:25.145Z
-updated: 2024-11-24T16:27:56.461Z
+date: 2024-11-27T16:00:06.968Z
+updated: 2024-12-04T06:47:23.294Z
 tags:
   - win11
   - win10
@@ -39,7 +39,7 @@ But first, ensure that your device has been connected and set correctly.
 6. [**Restart the game**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Set your device as Default
@@ -51,10 +51,14 @@ But first, ensure that your device has been connected and set correctly.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the Playback tab, select your device and click**Set Default** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/mi.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Go back to the Anthem and check it has sound or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Run audio troubleshooting
@@ -64,12 +68,12 @@ But first, ensure that your device has been connected and set correctly.
 1. Press the **Windows logo key**  \+ **R** to open the Run box. Type “ms-settings: troubleshoot” and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/troubleshoot.jpg)
 2. Click **Playing Audio** . Then click **Run the troubleshooter** . Wait for the investigation complete. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/10-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Follow the on-screen instructions to finish the process.
 4. Restart your computer and check whether Anthem has sound or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Set the Default Format in the lowest mode
 
@@ -81,13 +85,13 @@ But first, ensure that your device has been connected and set correctly.
 3. In the **Playback** tab, choose the device you’re using and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click the **Advanced** tab, select the lowest setting on the Default Format drop-down menu. Then click **OK** . Back to the Sound window, click **Apply** \> **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/12.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Reboot your computer and check whether Anthem has sound or not.
@@ -123,16 +127,12 @@ But first, ensure that your device has been connected and set correctly.
 3. Click the **Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver1.jpg)
 4. Restart your computer and check the Anthem has sound or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Restart the game
 
@@ -161,16 +161,24 @@ But first, ensure that your device has been connected and set correctly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-peaking-at-number-one-on-youtube-what-to-know/"><u>[Updated] 2024 Approved Peaking at Number One on YouTube What to Know</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-boost-your-income-with-effective-vimeo-monetization-techniques-for-2024/"><u>[Updated] Boost Your Income with Effective Vimeo Monetization Techniques for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-vidmaster-pro-8-review-highlights/"><u>2024 Approved VidMaster Pro 8 Review Highlights</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-issues-with-your-creative-pebble-speakers-solutions-and-troubleshooting-tips/"><u>Fixing Issues with Your Creative Pebble Speakers: Solutions & Troubleshooting Tips</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ize-attention-try-these-7-budget-friendly-tools/"><u>Maximize Attention - Try These 7 Budget-Friendly Tools</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016566028-pc-microphone-silent-on-zoom-heres-how-you-can-rectify-the-problem/"><u>PC Microphone Silent on Zoom? Here's How You Can Rectify the Problem!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-silent-screens-solutions-for-conexant-smartaudio-hd-issues-on-windows-10/"><u>Resolving Silent Screens: Solutions for Conexant SmartAudio HD Issues on Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-underwhelming-volume-advanced-tweaks-for-your-pc-audio-on-windows-11/"><u>Resolving Underwhelming Volume: Advanced Tweaks for Your PC Audio on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721102935039-troubleshooting-guide-installing-device-drivers-on-windows-1087-solution/"><u>Troubleshooting Guide: Installing Device Drivers on Windows 10/8/7 - SOLUTION</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-your-hardware-drivers-in-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated your hardware drivers in Windows 11/10</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/visual-vibrance-essential-gadgets-for-video/"><u>Visual Vibrance Essential Gadgets for Video</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-covert-concepts-in-composing-captivating-images/"><u>[New] Covert Concepts in Composing Captivating Images</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-optimal-options-high-performance-laptops-for-videographers/"><u>[Updated] 2024 Approved Optimal Options High-Performance Laptops for Videographers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-microsofts-vision-of-tomorrow-with-hololens-exploration/"><u>[Updated] Microsoft’s Vision of Tomorrow With HoloLens Exploration</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-resolving-dark-scenes-on-youtube-videos/"><u>[Updated] Resolving Dark Scenes on YouTube Videos</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/discovering-the-top-10-oldest-languages-in-the-world/"><u>Discovering The Top 10 Oldest Languages In The World</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/elite-selection-of-portable-powerful-minis-for-serious-gamers/"><u>Elite Selection of Portable, Powerful Minis for Serious Gamers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-enable-sounds-in-cyberpunk-2077-solutions-for-quiet-playthroughs-on-windows/"><u>How to Enable Sounds in Cyberpunk 2077: Solutions for Quiet Playthroughs on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-and-restore-your-laptops-speaker-system/"><u>How to Repair and Restore Your Laptop's Speaker System</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-redmi-12-by-fonelab-android-recover-music/"><u>How to restore wiped music on Redmi 12</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016936733-hyperx-cloud-alpha-mic-not-working-heres-how-to-get-it-functioning-again/"><u>HyperX Cloud Alpha Mic Not Working? Here's How to Get It Functioning Again</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-audio-repairs-reviving-your-invisible-wires-voice-transmission/"><u>Mastering Audio Repairs: Reviving Your Invisible Wire's Voice Transmission</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-tecno-spark-20-pro-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Tecno Spark 20 Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-resolving-windows-11-and-11-bluetooth-sound-stuttering-problems/"><u>Solution Guide: Resolving Windows 11 & 11 Bluetooth Sound Stuttering Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-common-problems-and-fixes-for-the-lucidsound-ls30-microphone/"><u>Solved: Common Problems and Fixes for the LucidSound LS30 Microphone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-cheat-sheet-for-interpreting-snapchat-emojis-swiftly/"><u>The Ultimate Cheat Sheet for Interpreting Snapchat Emojis Swiftly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-no-sound-during-zoom-calls-on-computers/"><u>Troubleshoot and Fix No Sound During Zoom Calls on Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-issues-with-your-corsair-virtuoso-mic/"><u>Troubleshooting Tips: Resolving Issues with Your Corsair Virtuoso Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unresponsive-fingerprint-reader-on-win-os/"><u>Unresponsive Fingerprint Reader on Win OS</u></a></li>
 </ul></div>
 

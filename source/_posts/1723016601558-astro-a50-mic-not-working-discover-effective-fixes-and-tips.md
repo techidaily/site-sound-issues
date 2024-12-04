@@ -1,7 +1,7 @@
 ---
 title: Astro A50 Mic Not Working? Discover Effective Fixes & Tips!
-date: 2024-08-27T21:11:26.190Z
-updated: 2024-08-28T21:11:26.190Z
+date: 2024-11-28T00:14:39.757Z
+updated: 2024-12-04T05:32:30.275Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/0d3d204f3859dff7eef251abf3745730eecca4103
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Install the latest patch
 
  Since many technical problems can be resolved by**restarting** , it never hurts to restart your computer and your game. Often this will be enough to fix the issue.  Game developers always keep releasing patches to improve their games and fix any issues, so you should check for updates of your game in Steam or from the official website. Then**install the latest patch** to keep it up tp date. This can fix some issues like the voice chat not working.
@@ -50,24 +54,26 @@ thumbnail: https://thmb.techidaily.com/0d3d204f3859dff7eef251abf3745730eecca4103
  If you find your voice chat is not working in PUBG on Windows 10 computer, the first thing you should check is to turn on microphone permission for PUBG. Here’s what you need to do:  1) On your keyboard, press the **Windows logo key![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**I** at the same time.  2) Click**Privacy** in**Settings** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2665c0c8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  3) Click**Microphone** on the left pane, and make sure Microphone access for this device is on, and the status is**On** for**PUBG** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ad8d38e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Log in PUBG and see if your microphone works this time.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Configure the audio settings in your computer
 
@@ -80,25 +86,28 @@ thumbnail: https://thmb.techidaily.com/0d3d204f3859dff7eef251abf3745730eecca4103
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd33128459.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the**Recording** tab, and make sure your microphone is the**Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd37007122.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  4) Then right click on your microphone device, and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd3b101d73.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) In the new pop up pane, click the**Advanced** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd419e19e4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Make sure to**uncheck** the box next to**Allow application to take exclusive control of this device** . Then click**Apply** and**OK** .
 
@@ -108,9 +117,6 @@ thumbnail: https://thmb.techidaily.com/0d3d204f3859dff7eef251abf3745730eecca4103
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Update sound card driver
 
  A missing or outdated audio driver in your computer can cause your voice chat not working in PUBG, so you should make sure that your sound card driver is up to date.  There are two ways to update your sound card driver:**manually** and**automatically** . **Manually update the driver** : you can go to your sound card manufacturer’s website, search for the latest version of your sound card driver, and install it in your computer. This requires time and computer skills. **Automatically update the driver** : if you don’t have time or patience, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .  Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.  You can update your drivers automatically with either the**FREE** or the**Pro** version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a**30-day money back guarantee** ):  1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
@@ -135,6 +141,10 @@ thumbnail: https://thmb.techidaily.com/0d3d204f3859dff7eef251abf3745730eecca4103
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd6ce9ed90.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Save your settings and try it again to see if it works.
 
 #### Step 2: Configure the audio settings in your Steam
@@ -142,6 +152,10 @@ thumbnail: https://thmb.techidaily.com/0d3d204f3859dff7eef251abf3745730eecca4103
  1) Go to Steam**Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd808d75a7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click**Voice** or**In-Game Voice** .
 
@@ -151,16 +165,10 @@ thumbnail: https://thmb.techidaily.com/0d3d204f3859dff7eef251abf3745730eecca4103
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd86b39d96.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  4) Make sure the**Microphone volume** and**Receive volume** is dragged to medium or high, so you can hear from your friends and you can be heard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd888581ab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Save your changes and open PUBG again to see if it works for voice chat.
 
 ---
@@ -171,9 +179,6 @@ thumbnail: https://thmb.techidaily.com/0d3d204f3859dff7eef251abf3745730eecca4103
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Fix 7: Modify the game file settings
 
  Sometimes the improper settings in your game configuration files can also cause the voice chat not working issue in your PUBG game. So follow the steps below:  1) Type**%appdata%** in the**search** bar from the**Start** menu, then select**%appdata%** in**File Folder** .
@@ -189,15 +194,13 @@ thumbnail: https://thmb.techidaily.com/0d3d204f3859dff7eef251abf3745730eecca4103
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdac264979.png)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Open the file named**GameUserSettings.ini** in Notepad or .txt.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdae51587f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
  5) In the file that you open, make sure the following settings is configured correctly:
 
 IsVoiceInputMute=False
@@ -208,9 +211,6 @@ VoiceOutputVolume=100
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdb1927f7f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Save the file and restart your computer.  Open PUBG in your computer and try if voice chat works.
 
 ---
@@ -225,8 +225,6 @@ VoiceOutputVolume=100
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -234,4 +232,26 @@ VoiceOutputVolume=100
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-beam-it-up-a-step-by-step-approach-to-youtube-video-luminance-for-2024/"><u>[New] Beam It Up A Step-By-Step Approach to YouTube Video Luminance for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-facebook-mastery-pioneering-techniques-for-any-marketing-stage/"><u>[New] Facebook Mastery Pioneering Techniques for Any Marketing Stage</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rom-humble-beginnings-surging-subscribers-and-views-in-youtube-world/"><u>[New] From Humble Beginnings Surging Subscribers & Views in Youtube World</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-boost-your-bank-account-quickly-with-these-13-ways-to-profit-on-reddit/"><u>[Updated] Boost Your Bank Account Quickly With These 13 Ways to Profit on Reddit</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-cheapest-facetime-on-android-highest-rated-apps-for-2024/"><u>[Updated] Cheapest FaceTime on Android Highest Rated Apps for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apple-settles-lawsuit-by-offering-compensation-to-eligible-macbook-users-a-closer-look-at-the-class-action-outcome/"><u>Apple Settles Lawsuit by Offering Compensation to Eligible MacBook Users: A Closer Look at the Class Action Outcome</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bust-your-earbuds-audio-glitch-a-step-by-nstep-fix-for-the-steelseries-arctis-99x-microphone-problem/"><u>Bust Your Earbuds' Audio Glitch: A Step-by-nStep Fix for the SteelSeries Arctis 9/9X Microphone Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-repairing-mic-problems-in-steelseries-arctis-prime-audio-devices/"><u>Expert Tips for Repairing Mic Problems in SteelSeries Arctis Prime Audio Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-correct-life-threatening-programming-mistakes-in-modern-warfarewarzone/"><u>Expert Tips to Correct Life-Threatening Programming Mistakes in Modern Warfare/Warzone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-charting-the-peak-1-shorter-videos-downloader-hub/"><u>In 2024, Charting the Peak #1 Shorter Videos Downloader Hub</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-itel-p40-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Itel P40 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-depth-assessment-comprehensive-camstudio-review/"><u>In-Depth Assessment Comprehensive CamStudio Review</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/onikuma-mic-problems-discover-these-fixes-and-regain-voice-control/"><u>Onikuma Mic Problems? Discover These Fixes and Regain Voice Control</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-persistent-sound-issues-on-windows-10-troubleshooting-tips-and-tricks/"><u>Overcoming Persistent Sound Issues on Windows 10 [Troubleshooting Tips & Tricks]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015388322-resolved-get-your-cod-vanguard-voice-chat-running-smoothly-again/"><u>Resolved: Get Your COD: Vanguard Voice Chat Running Smoothly Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-speakers-post-win-11-updates-effortless-solutions-inside/"><u>Reviving Speakers Post-Win 11 Updates - Effortless Solutions Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steelseries-arctis-e-headset-mic-issues-heres-how-to-get-it-working-again/"><u>SteelSeries Arctis E Headset Mic Issues? Here's How to Get It Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-what-to-do-when-your-logitech-g633-mic-stops-working/"><u>Step-by-Step Repair: What to Do When Your Logitech G633 Mic Stops Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-resolving-issues-with-your-astro-a20-microphone/"><u>Troubleshooting and Resolving Issues with Your Astro A20 Microphone</u></a></li>
+</ul></div>
 

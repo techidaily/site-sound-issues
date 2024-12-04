@@ -1,7 +1,7 @@
 ---
 title: How to Repair and Restore Black Ops Cold War's Voice Communication Features Effectively
-date: 2024-08-27T21:11:12.581Z
-updated: 2024-08-28T21:11:12.581Z
+date: 2024-12-02T21:04:06.102Z
+updated: 2024-12-04T02:32:18.406Z
 tags:
   - win11
   - win10
@@ -31,9 +31,6 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 
  Then, ensure the detachable microphone is firmly plugged in and check if the RGB LED ring indicates the live status (green).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### 2\. Set Virtuoso as the default recording device
 
  Check if your Virtuoso is disabled or not set as the default recording device. If so, you may need to check the microphone levels in case the volume is so low that it can’t record your sound clearly.
@@ -41,20 +38,28 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 1. In the notification area, right-click the volume icon and select**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 2. Go to the**Recording** tab and set your headset as the default device. Your device should be displayed as**Corsair Virtuoso** and shows strong signals when you speak.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
 3. Right-click your**Corsair Virtuoso** and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
 4. Go to the**Levels** tab and drag the slider to a proper volume.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 5. Click**OK** .
 
  Now you can test your microphone by recording your own voice using some voice apps such as Voice Recorder. If the Virtuoso mic works now, you can just join a league and enjoy talking with your teammates. But if the Corsaire mic is still not working, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Re-installing drivers
 
@@ -70,13 +75,6 @@ There are mainly two ways for you to do this:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now.jpg)
 3. Click the**Update** button next to the flagged**Corsaire Virtuoso** driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)  
 
@@ -86,6 +84,10 @@ No advertising on the website.
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance or the issue persists after updating all the drivers, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Change to DVD quality
 
  The Virtuoso microphone not working can also be caused by an unsupported audio format. Therefore, you can follow the method below to change the sound settings to DVD quality.
@@ -93,30 +95,17 @@ No advertising on the website.
 1. Right-click the Volume icon in the notification area, and select**Open Sound settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings.jpg)
 2. In the**Input** section, click**Device properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/device.jpg)
 3. Click**Additional device properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/additional.jpg)
 4. Go to the**Advanced** tab, and select**DVD Quality** in the**Default Format** section. ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-format.jpg)
 5. Click**OK** .
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Let Windows find the problem for you
 
  The Windows built-in sound troubleshooter may help you out of this Virtuoso microphone not working issue. Although this method has varying success, you can try this simple troubleshooting and see if it does the trick.
@@ -124,6 +113,11 @@ No advertising on the website.
 1. Right-click the volume button in the notification area, and select**Troubleshoot sound problems** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/troubleshoot.jpg)
 2. Follow the instructions given in the popped-up Help window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. You may need to restart your computer for the changes to take effect.
 
 ---
@@ -140,8 +134,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +141,23 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-action-cam-reimagined-an-extensive-review-of-the-sj-cam-s6-for-2024/"><u>[Updated] Action Cam Reimagined An Extensive Review of the SJ-CAM S6 for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-cyberlink-screen-recorder-review-and-the-best-alternative-for-2024/"><u>[Updated] Cyberlink Screen Recorder Review and the Best Alternative for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-sleeper-strikers-top-10-undetected-fb-memes/"><u>[Updated] Sleeper Strikers Top 10 Undetected FB Memes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-insightful-discussion-on-youtube-keyword-mastery/"><u>2024 Approved Insightful Discussion on YouTube Keyword Mastery</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-methods-to-correct-unable-to-execute-audio-file-errors/"><u>Effortless Methods to Correct 'Unable to Execute Audio File' Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-ensure-your-microphone-properly-picks-up-voice-and-solutions/"><u>How To Ensure Your Microphone Properly Picks Up Voice & Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-lack-of-audio-in-call-of-duty-black-ops-cold-war-for-windows-computers/"><u>How to Fix Lack of Audio in Call of Duty: Black Ops Cold War for Windows Computers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-digital-canvas-unveiled-top-8-ipados-creators-choice/"><u>In 2024, Digital Canvas Unveiled Top 8 iPadOS Creators' Choice</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-honor-x9a-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Honor X9a Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mac-no-volume-heres-how-you-can-get-the-sound-back/"><u>Mac No Volume? Here's How You Can Get the Sound Back!</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/perfecting-your-playlists-adapting-spotify-to-the-youtube-music-ecosystem/"><u>Perfecting Your Playlists Adapting Spotify to the YouTube Music Ecosystem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-no-audio-issues-effective-fixes-for-hp-laptops-under-windows-10/"><u>Resolving No Audio Issues: Effective Fixes for HP Laptops Under Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-steelseries-arctis-9x-microphone-issues-comprehensive-guide/"><u>Solve Your SteelSeries Arctis 9X Microphone Issues - Comprehensive Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/speak-out-altering-soundtracks-in-ps4ps5-games/"><u>Speak Out Altering Soundtracks in PS4/PS5 Games</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-guide-to-repairing-your-rust-mic-issues-2024-edition/"><u>The Definitive Guide to Repairing Your Rust Mic Issues - 2024 Edition</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/top-10-photography-image-recovery-solutions-advantages-and-disadvantages/"><u>Top 10 Photography Image Recovery Solutions : Advantages & Disadvantages</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting HyperX Cloud Speaker and Mic: Solved!"
-date: 2024-11-18T18:34:49.050Z
-updated: 2024-11-24T16:32:48.316Z
+date: 2024-11-29T22:48:19.702Z
+updated: 2024-12-03T18:08:31.018Z
 tags:
   - win11
   - win10
@@ -44,27 +44,23 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -81,6 +77,10 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
@@ -96,18 +96,18 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Click the **High performance** option > **Change plan settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
@@ -136,20 +136,24 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-precise-speech-to-text-the-google-standard-for-2024/"><u>[Updated] Precise Speech to Text The Google Standard for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-unveiling-immersion-the-lg-360-virtual-reality-experience-for-2024/"><u>[Updated] Unveiling Immersion The LG 360 Virtual Reality Experience for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtubes-flawless-beauty-masterclass-skincare-hairdos-and-cosmetics/"><u>[Updated] YouTube's Flawless Beauty Masterclass Skincare, Hairdos & Cosmetics</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easily-monitor-hard-drive-capacity-on-windows-10-a-comprehensive-tutorial/"><u>Easily Monitor Hard Drive Capacity on Windows 10 - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-to-get-your-sennheiser-gaming-mic-working-smoothly/"><u>Effective Solutions to Get Your Sennheiser Gaming Mic Working Smoothly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-fixing-google-meet-sound-issues-on-microsoft-windows-systems/"><u>Expert Tips for Fixing Google Meet Sound Issues on Microsoft Windows Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-turtle-beach-hpxearpods-microphone-up-and-running-again/"><u>Get Your Turtle Beach HPX/EarPods' Microphone Up and Running Again</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-15-pro-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 15 Pro Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-hd-audio-challenges-in-your-nvidia-system-tips-and-fixes/"><u>Overcoming HD Audio Challenges in Your Nvidia System - Tips & Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/rescue-your-stuck-iphone-from-perpetual-headphone-mode-with-these-8-tactics/"><u>Rescue Your Stuck iPhone From Perpetual Headphone Mode with These 8 Tactics</u></a></li>
-<li><a href="https://win-studio.techidaily.com/soluciones-efectivas-para-la-dificultad-de-instalacion-del-update-windows-11-version-23h2/"><u>Soluciones Efectivas Para La Dificultad De Instalación Del Update Windows 11 Version 23H2</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-bright-outlook-for-apples-upcoming-product-a-firsthand-account-from-pre-ordering-the-vision-pro-an-analysis-by-zdnet/"><u>The Bright Outlook for Apple's Upcoming Product: A Firsthand Account From Pre-Ordering the Vision Pro - An Analysis by ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-stereo-sound-output-issues/"><u>Troubleshooting Guide: Fixing Stereo Sound Output Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-idt-high-definition-codec-driver-issues-on-windows-11/"><u>Troubleshooting IDT High Definition Codec Driver Issues on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unsilencing-your-bose-g435-a-step-by-step-guide-to-restoring-sound/"><u>Unsilencing Your Bose G435: A Step-by-Step Guide to Restoring Sound</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-tactics-to-quiet-down-distractions-during-google-meets-for-2024/"><u>[New] Tactics to Quiet Down Distractions During Google Meets for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-automotive-traffic-cam-exploration/"><u>2024 Approved Premium Automotive Traffic Cam Exploration</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bug-fixes-implemented-for-destiny-2-launch-on-personal-computers/"><u>Bug Fixes Implemented for Destiny 2 Launch on Personal Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-and-enable-your-realtek-microphone-effective-techniques-inside/"><u>Fix and Enable Your Realtek Microphone: Effective Techniques Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-troubleshoot-your-nonfunctional-razor-kraken-microphone/"><u>Fixing the Issue: How to Troubleshoot Your Nonfunctional Razor Kraken Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-deactivating-acoustic-modifications-for-windows-11-systems/"><u>Guide: Deactivating Acoustic Modifications for Windows 11 Systems</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1728490095910-necpc/"><u>NECノートPC用データ復元手順 - 自分の知恵で回復させる</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-effortless-video-rotation-a-beginners-guide/"><u>New In 2024, Effortless Video Rotation A Beginners Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-pop-quizzes-mastering-the-art-of-a-crackling-free-logiteche-g-pro-x-experience-on-pc-updated-tips/"><u>No More Pop Quizzes: Mastering the Art of a Crackling-Free Logiteche G Pro X Experience on PC - Updated Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-crackling-sound-problem-on-windows-11-and-7-easy-solutions/"><u>Resolve Your Crackling Sound Problem on Windows 11 & 7 - Easy Solutions!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-audio-experience-expert-tips-for-repairing-a-corroded-mic/"><u>Revive Your Audio Experience: Expert Tips for Repairing a Corroded Mic</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-watch3-review-a-classic-look-with-modern-upgrades/"><u>Samsung Galaxy Watch3 Review: A Classic Look with Modern Upgrades</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-creating-your-own-dvd-backup-in-iso-format-with-winx-dvd-copy-software/"><u>Step-by-Step Guide: Creating Your Own DVD Backup in ISO Format with WinX DVD Copy Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/think-twice-before-whispering-confidentials-to-chatgpt/"><u>Think Twice Before Whispering Confidentials to ChatGPT</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-20-action-recording-solutions-summary/"><u>Top 20 Action Recording Solutions Summary</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-your-nonfunctional-razer-kraken-microphone-now/"><u>Troubleshoot and Repair Your Nonfunctional Razer Kraken Microphone Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-airpod-microphone-problems-on-microsofts-operating-system/"><u>Troubleshooting AirPod Microphone Problems on Microsoft's Operating System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-hyperx-cloud-stinger-mic-a-comprehensive-guide/"><u>Troubleshooting the HyperX Cloud Stinger Mic - A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/bes-pinnacle-tools-studio-vs-next-gen-beta/"><u>YouTube's Pinnacle Tools Studio Vs. Next-Gen Beta</u></a></li>
 </ul></div>
 

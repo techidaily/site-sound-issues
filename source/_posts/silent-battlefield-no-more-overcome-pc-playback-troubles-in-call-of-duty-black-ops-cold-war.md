@@ -1,7 +1,7 @@
 ---
 title: "Silent Battlefield No More! Overcome PC Playback Troubles in Call of Duty: Black Ops Cold War"
-date: 2024-08-27T21:11:00.109Z
-updated: 2024-08-28T21:11:00.109Z
+date: 2024-12-02T19:32:24.357Z
+updated: 2024-12-03T20:00:29.421Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 
  If the volume is set correctly and your no sound issue reappears on other videos, please move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2:**Unmute your browser**
 
  Your browser won’t make any sound when it’s muted, whether deliberately or accidentally. You can follow these steps to check:
@@ -48,17 +52,11 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 1. On the lower-right corner of your desktop, right-click the**volume icon** and select**Open Volume mixer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/open-volume-mixer.jpg)
 2. In the Volume Mixer window,**hold and drag** the slider for your browser (mine is Chrome) to turn up the volume.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/volume-mixer-hold-and-drag.jpg)
 3. Play your video and see if you hear any sound.
 
  If this method doesn’t fix your problem, please take a look at the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: **Change to another browser**
 
  If you’ve installed plugins on your current web browser, try playing the same video on another browser. Some**browser extensions** can mute tabs and some might cause your browser to function incorrectly. If the problem doesn’t occur on another browser, try disabling all the plugins on the previous browser and test again.
@@ -74,8 +72,9 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
  If restarting your computer doesn’t help either, please continue to the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5:**Update your audio driver**
 
  Sound problems can occur when you’re using a faulty or outdated audio driver. That’s why we always recommend keeping your drivers up to date. Driver updates provide security patches and feature enhancements, and it usually fixes many strange and stubborn issues.
@@ -94,11 +93,17 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-realtek-audio-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -106,9 +111,6 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 
  If this fix doesn’t give you any luck, please try the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### Fix 6:**Change your default playback device**
 
  If you set a wrong playback device, it’s normal that you don’t hear any sound. To check if you set the playback device correctly, follow these steps:
@@ -118,22 +120,16 @@ This method also applies to Windows 10, 8 or 7
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then type**mmsys.cpl** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-mmsys-cpl-audio-interface.jpg)
 2. Make sure you’re in the**Playback** tab. Select your desired output device (in my case it’s**Speakers** ) then click**Set default** . Finally, click**OK** to save the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/set-default-output-device.jpg)
 3. Play some videos and see if it fixed your no sound issue.
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 
  If changing your default output device doesn’t solve your problem, don’t worry. There’s still one last fix you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7:**Change your audio channel**
 
  Some users reported that changing the audio channel saves the day, so it might also be a potential solution for your case.
@@ -145,8 +141,18 @@ Here’s how to do it:
 2. Select your default playback device and click**Configure** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-audio-channel-1.jpg)
 3. For**Audio channels** , select**Stereo** and click**Next** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap108.jpg)
 4. Check the box next to**Front left and right** . Click **Next** to continue.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap109.jpg)
 5. Click **Finish** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap110.jpg)
@@ -164,8 +170,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +177,17 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-a-deep-dive-into-top-10-streaming-platforms-compared/"><u>[New] In 2024, A Deep Dive Into Top 10 Streaming Platforms Compared</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/boosting-daily-use-tips-to-stay-active-on-facebook-for-2024/"><u>Boosting Daily Use Tips to Stay Active on Facebook for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/vering-6-interactive-workout-ideas-for-social-media-success/"><u>Discovering 6 Interactive Workout Ideas for Social Media Success</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-steam-voice-chat-not-working/"><u>How To Fix Steam Voice Chat Not Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-stinger-mic-malfunction-heres-how-you-can-repair-it/"><u>HyperX Cloud Stinger Mic Malfunction? Here's How You Can Repair It</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-zte-nubia-z60-ultra-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On ZTE Nubia Z60 Ultra for Parents | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/mastering-volume-transitions-audio-panning-techniques-in-imovie-for-2024/"><u>Mastering Volume Transitions Audio Panning Techniques in iMovie for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-problems-in-the-latest-game-update/"><u>Troubleshooting Audio Problems in the Latest Game Update</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-how-to-fix-iphones-with-silent-audio-output-or-distorted-sounds/"><u>Troubleshooting: How to Fix iPhones with Silent Audio Output or Distorted Sounds</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/watch-dogs-legion-assessment-a-shifted-setting-review/"><u>Watch Dogs: Legion Assessment: A Shifted Setting Review</u></a></li>
+</ul></div>
 

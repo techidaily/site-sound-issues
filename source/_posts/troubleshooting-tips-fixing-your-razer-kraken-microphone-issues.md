@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Fixing Your Razer Kraken Microphone Issues"
-date: 2024-08-27T21:10:33.062Z
-updated: 2024-08-28T21:10:33.062Z
+date: 2024-11-26T18:40:32.440Z
+updated: 2024-12-03T19:55:14.871Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/85e69845f10f793c5b081e6eac45cea976095820d
 
  Microphone not working when you’re on a Webex meeting? You’re not alone! Such audio issues are quite common but they’re usually not hard to fix. Even if you’re not familiar with computer, follow this post and you’ll be able to tackle the Webex microphone not working issue easily and quickly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 4 fixes for the Webex mic not working issue. You don’t have to try them all. Just work from the top down until you find the one that solves the problem.
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/85e69845f10f793c5b081e6eac45cea976095820d
 3. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Check the Webex settings](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Troubleshoot the connection
 
  Before you proceed to anything more complicated, make sure you’ve set up the audio device correctly.
@@ -36,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/85e69845f10f793c5b081e6eac45cea976095820d
 * Make sure the mute button on your headsets or microphone is turned off.
 
  If your mic is securely plugged in but still not working in Webex, continue to more solutions below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Allow Webex to access your microphone
 
@@ -47,14 +59,8 @@ thumbnail: https://thmb.techidaily.com/85e69845f10f793c5b081e6eac45cea976095820d
 3. Select**Microphone** from the left pane. Then click the**Change** button and**turn on** Microphone access for this device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 4. Scroll down and toggle on the button below**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** .  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you’ve allowed the microphone access to your apps, check if the problem is resolved. If not, try the next method.
 
 ### Fix 2 – Update your audio driver
@@ -78,29 +84,18 @@ There are mainly two ways you can update the audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2-11.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Now check if your microphone works in the Webex meeting. If not, there’s one more fix to try.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3 – Check the Webex settings
 
  If your microphone works well with the browser or any programs but your Webex app, the cause may be related to the app’s settings. There’s a good chance that Webex doesn’t recognize the microphone you’re using and you’ll need to set it up properly via the following steps.
@@ -109,16 +104,15 @@ There are mainly two ways you can update the audio driver:
 2. Click your profile at the top left corner and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings.jpg)
 3. Select**Audio** from the left pane. Under the Microphone section, select your preferred audio device from the drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-3.jpg)
 4. You can also adjust the volume by dragging the slider. Then click Save to apply the changes.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-4.jpg)
+
  Once completed, you can click the Test button under Microphone to see if everything goes back to normal.
 
 ---
@@ -133,8 +127,6 @@ There are mainly two ways you can update the audio driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +134,21 @@ There are mainly two ways you can update the audio driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-comprehensive-analysis-top-budget-friendly-video-calling-tools-iphones-and-androids/"><u>[Updated] Comprehensive Analysis Top Budget-Friendly Video Calling Tools - iPhones & Androids</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-essential-skills-for-3d-lut-making/"><u>[Updated] In 2024, Essential Skills for 3D LUT Making</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-pip-functionality-in-apples-browsers/"><u>2024 Approved Navigating PIP Functionality in Apple's Browsers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/affordable-travel-companion-how-this-budget-friendly-generator-transformed-my-road-trips-insights-from-zdnet/"><u>Affordable Travel Companion: How This Budget-Friendly Generator Transformed My Road Trips - Insights From ZDNET</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dealing-with-sound-interruptions-and-crackles-on-windows-computers/"><u>Dealing with Sound Interruptions and Crackles on Windows Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016310671-fix-the-silent-problem-in-jabra-g435-wireless-earbuds-comprehensive-fixes-here/"><u>Fix the Silent Problem in Jabra G435 Wireless Earbuds – Comprehensive Fixes Here!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-sound-problems-with-kotion-each-g2000-a-comprehensive-guide-for-unresponsive-mics/"><u>Fixing Sound Problems with Kotion Each G2000: A Comprehensive Guide for Unresponsive Mics</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-xiaomi-14-pro-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Xiaomi 14 Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-non-functional-speakers-in-windows-11-solutions-inside/"><u>How to Troubleshoot Non-Functional Speakers in Windows 11 – Solutions Inside</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-note-30-vip-racing-edition-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Note 30 VIP Racing Edition to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oppo-reno-11f-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Oppo Reno 11F 5G FRP Bypass</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-sound-on-your-turtle-beach-elite-pro-wireless-headset-fixes-for-dead-mics/"><u>Restore Sound on Your Turtle Beach Elite Pro Wireless Headset - Fixes for Dead Mics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-persistent-problems-with-voice-communication-in-the-latest-phasmophobia-version/"><u>Solved: Persistent Problems with Voice Communication in the Latest Phasmophobia Version</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-risks-of-relying-on-chatgpt-for-health-consultations/"><u>Top 5 Risks of Relying on ChatGPT for Health Consultations</u></a></li>
+</ul></div>
 

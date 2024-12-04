@@ -1,7 +1,7 @@
 ---
 title: "Solving the Annoying Sound Issue: Your Guide to Eliminating Cracks and Pops From Your Logitech G Pro X Headset"
-date: 2024-08-27T21:09:09.713Z
-updated: 2024-08-28T21:09:09.713Z
+date: 2024-11-27T21:31:40.490Z
+updated: 2024-12-03T17:14:58.137Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 
  However, if your problem persists after you’ve taken these steps, you’ll need to make some changes on your Discord and Windows settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to stop Discord echo
 
 Follow the steps below in order until you fix your issue.
@@ -50,18 +54,12 @@ Follow the steps below in order until you fix your issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/Discord-settings.jpg)
 4. Select**Voice & Video** . Then make sure you’ve chosen the correct input and output device.  
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/Discord-choose-your-proper-input-and-output-device.jpg)
 5. Scroll down and toggle**on Echo Cancellation** . Then tick**Krisp** for Noise Suppression.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/Discord-Echo-Cancellation-on.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
  Save your settings and restart Discord. If it’s still echoing, try the next fix below.
 
 ## 2\. Change Windows settings
@@ -73,10 +71,15 @@ Follow the steps below in order until you fix your issue.
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
 2. Make sure you select the correct output and input device from the drop-down.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/choose-the-correct-input-and-output-device.jpg)
 3. If your problem persists after verifying the correct input and output device, click**Sound Control Panel** in the top right.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/Sound-Control-Panel.jpg)
@@ -84,20 +87,19 @@ Follow the steps below in order until you fix your issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound-control-panel-playback-properties.jpg)
 5. In the**Properties** window, select the**Spatial Sound** tab. Make sure to turn it**Off** . Then click**Apply > OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/turn-off-spatial-sound.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  After applying the changes, do a test and check if your problem has been resolved. If not, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Download & Install all Windows updates
 
  Windows updates usually come with bug fixes and they bring new features. You can check for Windows updates and see if your problem is gone.
@@ -106,15 +108,13 @@ Follow the steps below in order until you fix your issue.
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab and wait for it to download and install the available updates. And you should be asked to restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 If this doesn’t do the trick, proceed to the next fix.
 
 ## 4\. Update your audio driver
@@ -128,6 +128,10 @@ If this doesn’t do the trick, proceed to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money-back guarantee** . You’ll be prompted to upgrade when you click Update All. You can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
@@ -147,8 +151,6 @@ If this doesn’t do the trick, proceed to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +158,24 @@ If this doesn’t do the trick, proceed to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-groundbreision-of-top-8-free-video-call-software-for-companies/"><u>[New] 2024 Approved Groundbreision of Top 8 Free Video Call Software for Companies</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-secure-story-spectatorship-techniques-for-desktopandroidios-devices-at-no-cost/"><u>[Updated] 2024 Approved Secure Story Spectatorship Techniques for Desktop/Android/iOS Devices (At No Cost)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-corsair-hs35-headset-microphone-issues-on-windows-a-step-by-step-guide/"><u>Fixing Corsair HS35 Headset Microphone Issues on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-usb-earphones-in-windows-7-comprehensive-troubleshooting-guide/"><u>Fixing Silent USB Earphones in Windows 7: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-honor-90-gt-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Honor 90 GT?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-vivo-y200e-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Vivo Y200e 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-iphones-viewpoint-vista-selecting-superior-shots-for-images/"><u>In 2024, IPhone's Viewpoint Vista Selecting Superior Shots for Images</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-art-of-restoring-rec-room-voice-communication-on-pc-expert-advice-for-202n/"><u>Master the Art of Restoring Rec Room Voice Communication on PC – Expert Advice for 202N</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/noise-free-gaming-fixing-sound-malfunctions-on-laptops-efficiently/"><u>Noise-Free Gaming: Fixing Sound Malfunctions on Laptops Efficiently</u></a></li>
+<li><a href="https://solve-news.techidaily.com/rip-to-mkv-libero-converte-file-rmvb-al-formato-mkv-senza-costi-di-movavi/"><u>Rip-to-MKV Libero: Converte File RMVB Al Formato MKV Senza Costi Di Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-boosting-your-laptops-sound-quality-on-microsofts-latest-os/"><u>Step-by-Step Guide: Boosting Your Laptop's Sound Quality on Microsoft's Latest OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-now-top-5-speedy-fixes-to-reactivate-your-oculus-rift-s-mic-2-techniques/"><u>Troubleshoot Now: Top 5 Speedy Fixes to Reactivate Your Oculus Rift S Mic - 2# Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/turn-up-the-volume-how-to-fix-no-sound-problems-with-cyberpunk-2077-on-windows-10-systems/"><u>Turn Up the Volume: How to Fix No Sound Problems with Cyberpunk 2077 on Windows 10 Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleash-creativity-in-memes-genrator-assistance/"><u>Unleash Creativity in Memes Gen'rator Assistance</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/valheim-seeds-selection-and-cultivation-mastery-guide-for-2024/"><u>Valheim Seeds Selection & Cultivation Mastery Guide for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/winning-the-battle-against-unstable-speakers-on-your-windows-10-device/"><u>Winning the Battle Against Unstable Speakers on Your Windows 10 Device</u></a></li>
+</ul></div>
 

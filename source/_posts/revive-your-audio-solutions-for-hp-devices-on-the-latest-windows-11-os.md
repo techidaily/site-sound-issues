@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Audio: Solutions for HP Devices on the Latest Windows 11 OS"
-date: 2024-11-19T20:37:22.194Z
-updated: 2024-11-24T18:55:13.127Z
+date: 2024-12-02T04:47:42.703Z
+updated: 2024-12-03T22:00:28.832Z
 tags:
   - win11
   - win10
@@ -55,10 +55,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d47875fcc.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’re using a**laptop computer** , you also need to check if the**microphone** device is disabled.  
   
  Follow these steps:  
@@ -68,12 +64,16 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d59326203.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) If you see the Microphone disabled, right-click on the item, then select**Enable** . If you see the Microphone enabled, skip this step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d5e494746.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##
   
@@ -92,10 +92,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  3) Click**Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6c34f39b.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Ensure the**Host** field set to**Windows WASAPI** .
 
@@ -121,9 +117,17 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6ee48396.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Recording** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d78abf2fa.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Under Playthrough, if you see**Software Playthrough of input** is checked, uncheck it. Then click the**OK** button. If not, skip this solution then try other solutions.
 
@@ -147,10 +151,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d83603b51.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to a flagged audio driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -173,13 +173,13 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d9350bf7b.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Windows Audio Endpoint Builder** , then click**Restart** . The follow the on-screen instructions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d97536340.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Check to see if you can record successfully.  
   
@@ -203,18 +203,14 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-essential-macos-apps-for-watching-mkv-files/"><u>[New] 2024 Approved Essential macOS Apps for Watching MKV Files</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-ps4-broadcasting-made-easy-your-obs-guide-for-2024/"><u>[New] PS4 Broadcasting Made Easy Your OBS Guide for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-social-media-marketing-get-more-viewers-with-youtube/"><u>[Updated] In 2024, Social Media Marketing Get More Viewers with YouTube</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-acknowledgment-series-free-vs-paid-template-choices/"><u>2024 Approved Acknowledgment Series Free vs Paid Template Choices</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-time-saving-strategies-for-efficient-content-engagement-on-tiktok/"><u>2024 Approved Time-Saving Strategies for Efficient Content Engagement on TikTok</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/beat-speaker-delay-woes-with-this-essential-2024-troubleshooting-guide/"><u>Beat Speaker Delay Woes with This Essential 2024 Troubleshooting Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/creative-pebble-bluetooth-speaker-problems-heres-how-to-get-them-running-smoothly-again/"><u>Creative Pebble Bluetooth Speaker Problems? Here's How to Get Them Running Smoothly Again!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-on-restoring-functionality-to-a-defective-bose-speaker/"><u>Expert Advice on Restoring Functionality to a Defective Bose Speaker</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-common-issues-with-creative-pebble-speakers-a-comprehensive-guide/"><u>Fixing Common Issues with Creative Pebble Speakers: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ibuypowers-high-powered-budget-friendly-custom-pc-builds-a-comprehensive-review/"><u>IBUYpower's High-Powered, Budget-Friendly Custom PC Builds – A Comprehensive Review</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-list-of-9-reasons-for-transitioning-to-modern-outlook/"><u>The Ultimate List of 9 Reasons for Transitioning to Modern Outlook</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-cut-to-the-chase-filmora-coupon-codes-without-the-fuss-for-2024/"><u>Updated Cut to the Chase Filmora Coupon Codes Without the Fuss for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-comprehensive-report-dji-inspire-1-reviewed/"><u>[Updated] In 2024, Comprehensive Report DJI Inspire 1 Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-palette-primer-compreenasive-guide-to-coloring/"><u>[Updated] The Palette Primer Compreenasive Guide to Coloring</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-efficient-downloads-transform-vimeo-videos-into-mp4/"><u>In 2024, Efficient Downloads Transform Vimeo Videos Into MP4</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/navigate-through-the-audio-discrepancy-problem-a-comprehensive-fixers-manual/"><u>Navigate Through the Audio Discrepancy Problem: A Comprehensive Fixer's Manual</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/skype-microphone-fixes-for-windows-10-a-step-by-step-resolution-guide/"><u>Skype Microphone Fixes for Windows 10 – A Step-by-Step Resolution Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tips-and-techniques-to-restore-microphone-functionality-in-turtle-beach-vaultz-r8/"><u>Tips and Techniques to Restore Microphone Functionality in Turtle Beach Vaultz R8</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-your-steelseries-arctis-pro-microphone/"><u>Troubleshooting Guide: Resolving Issues with Your SteelSeries Arctis Pro Microphone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-roaming-agreements-of-unlimited-wireless-plans-with-metro-by-t-mobile/"><u>Understanding the Roaming Agreements of Unlimited Wireless Plans with Metro by T-Mobile</u></a></li>
 </ul></div>
 

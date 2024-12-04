@@ -1,7 +1,7 @@
 ---
 title: Beat the Delay - Expert Advice to Solve Audio Timing Problems in 2nD4
-date: 2024-08-27T21:08:48.832Z
-updated: 2024-08-28T21:08:48.832Z
+date: 2024-11-29T04:18:03.890Z
+updated: 2024-12-03T19:10:24.404Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
  If you’re having audio issues on your**PS4** , check[](https://tools.techidaily.com/drivereasy/download/) **[here](https://tools.techidaily.com/drivereasy/download/)**  .  
  If you’re on Xbox, check[**here**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -30,13 +34,14 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 4. **[Restart Windows Audio Services](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your computer
 
  Some programs running in the background may conflict with Apex Legends, causing audio issues. In this case, try rebooting your computer to turn off unwanted programs completely. After your computer restarts, relaunch your game to check if you get the sound back. If not, read on and check the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Run the Windows audio troubleshooter
 
  Another quick fix to Apex Legends audio problems is running**the audio troubleshooter** . Follow the instructions below:
@@ -88,9 +93,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 **3)**  Click the **Update button** next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -101,9 +103,6 @@ OR
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ### Fix 4: Restart Windows Audio Services
 
  Some audio issues can also be addressed by restarting Windows Audio Services. To see if that works for you, follow the instructions below:
@@ -112,21 +111,26 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-324.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click**Windows Audio** , then select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-326.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Relaunch your game to test your issue.
 
  This should allow you to hear Apex Legends and everything else. If your issue still exists, don’t fret. There is still one more fix to try.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Reinstall Apex Legends
 
  If none of the fixes above helped, reinstalling Apex Legends is very likely the solution to your issue. Here is how to do it:
@@ -137,10 +141,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-327.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 **3)** After your game is uninstalled, restart your computer.
 
 **4)** Run Origin again to download and install Apex Legends.
@@ -160,8 +160,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +167,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-prime-7-video-software-for-apple-machines-for-2024/"><u>[New] Prime 7 Video Software for Apple Machines for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-essential-tips-for-the-steam-switch-pro-controller/"><u>[Updated] In 2024, Essential Tips for the Steam Switch Pro Controller</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-pioneering-headsets-elevating-drone-use/"><u>[Updated] In 2024, Pioneering Headsets Elevating Drone Use</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-navigating-the-process-windows-movie-maker-content-on-vimeo-for-2024/"><u>[Updated] Navigating the Process Windows Movie Maker Content on Vimeo for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-diagnosing-no-audio-in-your-realtek-device-issue-resolved/"><u>Guide to Diagnosing No Audio in Your Realtek Device [Issue Resolved]</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-streamline-creative-processes-efficiently-adding-text-to-videos-with-microsoft-photos/"><u>In 2024, Streamline Creative Processes Efficiently Adding Text to Videos with Microsoft Photos</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/lexicon-origins-shakespearean-words-in-modern-chatter/"><u>Lexicon Origins: Shakespearean Words in Modern Chatter</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/navigating-neolects-turkey-and-korea/"><u>Navigating Neolects: Turkey & Korea</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-playstation-vita-audio-glitches-tips-and-tricks/"><u>Quick Fixes for PlayStation Vita Audio Glitches - Tips & Tricks!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revitalize-your-audio-experience-by-eliminating-headphone-disturbances-quickly/"><u>Revitalize Your Audio Experience by Eliminating Headphone Disturbances Quickly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-hyperx-cloud-alpha-headset-microphone-issues-a-step-by-step-guide/"><u>Solving HyperX Cloud Alpha Headset Microphone Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/soundquality-assessment/"><u>SoundQuality Assessment</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-tips-for-correcting-autocorrect-mistakes-on-iphone-learn-how/"><u>Top 6 Tips for Correcting AutoCorrect Mistakes on iPhone: Learn How</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016130378-trouble-with-your-turtle-beach-mic-heres-how-to-repair-it/"><u>Trouble with Your Turtle Beach Mic? Here's How to Repair It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixes-for-hdmi-audio-issues-on-windows-7-solutions/"><u>Troubleshooting Fixes for HDMI Audio Issues on Windows 7 - Solutions</u></a></li>
+</ul></div>
 

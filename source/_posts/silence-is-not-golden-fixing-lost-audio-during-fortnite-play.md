@@ -1,7 +1,7 @@
 ---
 title: "Silence Is Not Golden: Fixing Lost Audio During Fortnite Play"
-date: 2024-08-27T21:08:41.710Z
-updated: 2024-08-28T21:08:41.710Z
+date: 2024-11-26T18:39:21.994Z
+updated: 2024-12-04T01:52:21.109Z
 tags:
   - win11
   - win10
@@ -30,15 +30,16 @@ thumbnail: https://thmb.techidaily.com/8946a62076f56cb3f482b82fcae409cb45874ba6a
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Sign out Fortnite, then sign back in
 
  This is the quickest and easiest fix to try when chat’s not working in Fortnite. Just sign out of the game, then sign back in.
 
  Now run the game again and test to see whether chat is working. If it’s not, move on to Fix 2, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your sound card driver
 
  A missing or outdated sound card driver may also stop chat from working in Fortnite.
@@ -53,13 +54,14 @@ thumbnail: https://thmb.techidaily.com/8946a62076f56cb3f482b82fcae409cb45874ba6a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Driver-Easy-Scan-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Click **Update** next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Update-all-drivers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ### Fix 3: Install the latest Fortnite patch
@@ -75,20 +77,22 @@ thumbnail: https://thmb.techidaily.com/8946a62076f56cb3f482b82fcae409cb45874ba6a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap911.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3.**Turn on** the toggle next to **Auto update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap912.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4\. Restart the Epic Games Launcher.
 
  5\. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap898.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run Fortnite again to check whether your chat problem has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 4, below.
 
@@ -100,18 +104,16 @@ thumbnail: https://thmb.techidaily.com/8946a62076f56cb3f482b82fcae409cb45874ba6a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap427.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
  2\. Click **Microphone**  on the left pane, and make sure**Microphone access for this device** is**on** , and the status is **On** for **Fortnite** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap428.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. Run Fortnite to see if chat works now. If not, try Fix 5, below.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Check your audio settings
 
  Windows and Fortnite both have audio settings, and sometimes things just get a little mixed up. So it can help to reset everything, manually, to clear out the cobwebs. (Kinda like how restarting your PC can sometimes mysteriously resolve problems.) Here is how to do it:
@@ -121,6 +123,10 @@ thumbnail: https://thmb.techidaily.com/8946a62076f56cb3f482b82fcae409cb45874ba6a
  i. In Fortnite, click**the menu button** in the upper-right corner, then click**the gear icon** to open the game settings.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap925.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ii. Click**the speaker icon** to view the audio settings. Then**turn off Voice Chat** and click**Apply** .  
 
@@ -132,38 +138,18 @@ iii. Exit Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap432.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
  3\. Click the **Playback** tab, select the speakers/headphones you’re using and click **Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4\. Click the **Recording** tab, select the microphone you’re using and click **Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  5\. While still in the**Recording** tab, try**speaking into your microphone** to test if it works properly. If it is, you should see some green in the bar on the right:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
@@ -175,8 +161,9 @@ iii. Exit Fortnite.
  Join a squad to check ifchat is now working . If not, try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Reinstall Fortnite
 
  If none of the above fixes resolves your chat problem, try reinstalling Fortnite. Here is how to do it:
@@ -209,8 +196,6 @@ iii. Exit Fortnite.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -218,4 +203,26 @@ iii. Exit Fortnite.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-spectral-rgb-vs-srgb-formats-for-2024/"><u>[Updated] Spectral Rgb Vs Srgb Formats for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-android-and-ios-guide-capturing-google-meet-sessions/"><u>2024 Approved Android & iOS Guide Capturing Google Meet Sessions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/asus-proart-pa-329q-a-deep-dive-into-high-resolution-monitoring-for-2024/"><u>Asus ProArt PA 329Q A Deep Dive Into High-Resolution Monitoring for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fast-track-to-samsung-m207n-driver-success-easy-step-by-step-tutorials/"><u>Fast Track to Samsung M207n Driver Success | Easy Step-by-Step Tutorials</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-no-audio-on-an-hp-laptop-troubleshooting-steps-for-windows-11/"><u>Fixing No Audio on an HP Laptop: Troubleshooting Steps for Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-hp-officejet-pro-amoindz-8710-drivers-for-windows-systems-now/"><u>Get the Latest HP OfficeJet Pro Amoindz 8710 Drivers for Windows Systems Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-diagnose-and-correct-distorted-sounds-on-windows-systems-windows-7-and-11-solutions/"><u>Guide to Diagnose and Correct Distorted Sounds on Windows Systems: Windows 7 & 11 Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-amd-radeon-software-unresponsiveness-dilemma/"><u>How to Resolve AMD Radeon Software Unresponsiveness Dilemma</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-voice-chat-connectivity-post-update-for-rainbow-six-siege/"><u>How to Restore Voice Chat Connectivity Post-Update for Rainbow Six Siege</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/restore-pristine-photos-easily-discover-top-10-online-enhancers-for-2024/"><u>Restore Pristine Photos Easily Discover Top 10 Online Enhancers for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/snag-your-complimentary-macxdvd-bonanza-free-top-apps-for-effortless-disk-ripping-and-data-rescue/"><u>Snag Your Complimentary MacXDVD Bonanza - FREE Top Apps for Effortless Disk Ripping and Data Rescue!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-diagnosing-and-fixing-a-malfunctioning-razer-kraken-gaming-mic/"><u>Solution Steps: Diagnosing and Fixing a Malfunctioning Razer Kraken Gaming Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-cannot-open-audio-device-problem-in-audacity-5-effective-fixes/"><u>Solving the 'Cannot Open Audio Device' Problem in Audacity: 5 Effective Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-obs-desktop-sound-recording-problems/"><u>Step-by-Step Solutions for OBS Desktop Sound Recording Problems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-review-of-logitech-keys-to-go-2-evaluating-its-stand-as-a-minimalistic-upgrade/"><u>The Ultimate Review of Logitech Keys-To-Go 2: Evaluating Its Stand as a Minimalistic Upgrade</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-methods-for-enabling-chatgpt-to-interpret-pdf-documents/"><u>Top 4 Methods for Enabling ChatGPT to Interpret PDF Documents</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-glitches-in-cyberpunk-2077-expert-solutions/"><u>Troubleshooting Audio Glitches in Cyberpunk 2077: Expert Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-mic-issues-in-sea-of-thieves-tips-and-solutions/"><u>Troubleshooting Mic Issues in Sea of Thieves: Tips & Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-fixing-a-non-functional-front-panel-audio-jack/"><u>Troubleshooting Steps: Fixing a Non-Functional Front Panel Audio Jack</u></a></li>
+</ul></div>
 

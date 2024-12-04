@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Skype Microphone Failures on the Latest Windows 11 OS
-date: 2024-08-27T21:08:23.665Z
-updated: 2024-08-28T21:08:23.665Z
+date: 2024-11-27T05:34:24.702Z
+updated: 2024-12-03T16:21:09.183Z
 tags:
   - win11
   - win10
@@ -81,28 +81,22 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Scroll down to the section of **Related Settings** and click **Sound Control Panel** .  
   
 ![Open Sound Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-control-panel.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) When the Sound window opens, select the**Recording** tab. Click on your microphone and then click**Set Default > OK** .  
   
 ![set MPOW microphone as the default device](https://images.drivereasy.com/wp-content/uploads/2021/04/image.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After you’ve saved the changes, use your microphone to check if your problems have been solved.
 
 ---
@@ -117,16 +111,21 @@ When you’re using a microphone such as MPOW attached to your computer, you may
   
 ![Privacy in Settings](https://images.drivereasy.com/wp-content/uploads/2021/02/privacy.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Microphone**  on the left pane. Then click on the **Change**  button and make sure **Microphone access for this device**  is turned on.  
   
 ![turn on app permissions on your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/turn-on-app-permissions-for-your-micropho0ne.png)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Under the **Allow apps to access your microphone**  section, make sure it’s turned **On** .  
   
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Once you’ve allowed microphone access to your apps, you can change the settings for each app. Simply head to the **Choose which Microsoft apps can access your microphone** , and turn on apps you want to use with it. For desktop apps, make sure that **Allow desktop apps to access your microphone**  is turned **On** .
 
@@ -134,9 +133,6 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Make sure your microphone is enabled
 
  It may sound odd but there are just possibilities that your microphone has accidentally been disabled. If that’s your case, your microphone definitely wouldn’t be recording any sound. To make sure your mic is enabled, take these steps:
@@ -146,11 +142,16 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Under the **Input**  section, make sure that your headset is selected as the input device. Then click **Device Properties** .  
   
 ![choose the audio input device](https://images.drivereasy.com/wp-content/uploads/2021/04/input-device.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Make sure that your headset is not disabled.  
   
@@ -160,9 +161,6 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Download and install Windows updates
 
  Windows updates come with bug fixes and bring new features. When your microphone isn’t working, it could be a compatibility issue. To take advantage of Windows new features and fix the compatibility issue, you should install all Windows updates:
@@ -174,6 +172,10 @@ When you’re using a microphone such as MPOW attached to your computer, you may
  2) Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it.  
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After installing the latest Windows updates, use your headset mic and it should be functioning now.
 
@@ -187,8 +189,6 @@ When you’re using a microphone such as MPOW attached to your computer, you may
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +196,20 @@ When you’re using a microphone such as MPOW attached to your computer, you may
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-essential-mobile-media-apps-for-high-quality-photographyvideography/"><u>[New] Essential Mobile Media Apps for High-Quality Photography/Videography</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/discord-and-gamers-making-sure-youre-heard-clearly-now/"><u>Discord and Gamers: Making Sure You're Heard Clearly Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-solutions-to-restore-sound-on-your-pc/"><u>Effortless Solutions to Restore Sound on Your PC</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-patches-town-planning-for-neighborhood-updates/"><u>Facebook Patches Town Planning for Neighborhood Updates</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-functionality-in-windows/"><u>How to Restore Audio Functionality in Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-vivo-y100-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Vivo Y100 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-find-x7-ultra-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo Find X7 Ultra Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/navigating-the-fixes-for-your-quiet-corsair-hs70-microphone-woes/"><u>Navigating the Fixes for Your Quiet Corsair HS70 Microphone Woes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-microphone-malfunctions-on-windows-7-systems-tutorial/"><u>Overcoming Microphone Malfunctions on Windows 7 Systems [Tutorial]</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ole-of-youtube-images-in-video-promotion-and-discovery/"><u>The Role of Youtube Images in Video Promotion and Discovery</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-and-restore-your-discord-overlay-in-minutes-learn-how-today/"><u>Troubleshoot and Restore Your Discord Overlay in Minutes - Learn How Today</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-audio-artistry-the-step-by-step-process-of-mixing-sounds-for-movie-scenes/"><u>Updated 2024 Approved Audio Artistry The Step-by-Step Process of Mixing Sounds for Movie Scenes</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/utilizing-famebit-techniques-for-youtube-sponsorship-success/"><u>Utilizing FameBit Techniques for YouTube Sponsorship Success</u></a></li>
+</ul></div>
 

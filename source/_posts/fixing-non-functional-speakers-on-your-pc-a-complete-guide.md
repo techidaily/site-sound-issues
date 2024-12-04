@@ -1,7 +1,7 @@
 ---
 title: "Fixing Non-Functional Speakers on Your PC: A Complete Guide"
-date: 2024-08-27T21:08:57.206Z
-updated: 2024-08-28T21:08:57.206Z
+date: 2024-11-26T23:34:17.118Z
+updated: 2024-12-04T01:05:14.214Z
 tags:
   - win11
   - win10
@@ -57,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/6462de374e4f489455f584c5102443a7cb28c7609
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-106.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the**Levels** tab, see if your mic is muted. In case it is (as shown in the following screenshot), click on the little speaker icon to unmute your mic. On completion, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-116.png)
@@ -65,13 +69,14 @@ thumbnail: https://thmb.techidaily.com/6462de374e4f489455f584c5102443a7cb28c7609
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-117.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now check to see if your Razer ManO’War mic is working properly. If it isn’t, please move on to**Fix 2** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Modify Privacy settings
 
  There’s a possibility that your privacy settings related to the microphone has been reset after a Windows Update or other system events. If so, some programs (e.g. a video game) might be forbidden to access your mic. Here’s how to check and modify these settings:
@@ -87,16 +92,17 @@ thumbnail: https://thmb.techidaily.com/6462de374e4f489455f584c5102443a7cb28c7609
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-368.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Scroll down and head to the part of **Choose which apps can access your microphone** . Make sure you**toggle on** the apps in which you want to use the mic.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 If this fix didn’t help, please try out the next fix.
 
 ---
@@ -113,9 +119,17 @@ If this fix didn’t help, please try out the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-109.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) On the next page, scroll down and select**Razer ManO’War** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-110.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click**View software, drivers and updates for download >** .
 
@@ -129,9 +143,6 @@ If this fix didn’t help, please try out the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your device drivers
 
  Sometimes an out-dated or corrupt device driver (e.g., audio drivers, CPU drivers) may give rise to the mic-not-working issue. The reasons can hardly be elaborated, but chances are your Razer ManO’War mic may be messed up with its drivers or those of other hardware components. If you’re not sure whether all your device drivers are up-to-date, you should check.
@@ -153,8 +164,9 @@ If this fix didn’t help, please try out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We’re always here to help.
@@ -162,8 +174,9 @@ If this fix didn’t help, please try out the next fix.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Check for hardware malfunction
 
  If none of the above fixes work, you should do some basic check and find out whether your Razer ManO’War mic fails. Here’s something you may need to do:
@@ -188,8 +201,6 @@ If this fix didn’t help, please try out the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +208,26 @@ If this fix didn’t help, please try out the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-cultivating-a-community-building-followers-on-youtube-without-spending/"><u>[New] 2024 Approved Cultivating a Community Building Followers on YouTube Without Spending</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/udiovisual-powerhouses-select-best-laptops-for-editing-for-2024/"><u>[New] Audiovisual Powerhouses Select Best Laptops for Editing for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/cons-of-illusion-youtubes-most-influential-gurus/"><u>[New] Icons of Illusion YouTube's Most Influential Gurus</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-video-twisting-techniques-boost-your-instagram-media-presentation-for-2024/"><u>[New] Video Twisting Techniques Boost Your Instagram Media Presentation for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/5-effective-fixes-for-the-opening-sound-device-error-in-audacity/"><u>5 Effective Fixes for the 'Opening Sound Device' Error in Audacity</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-glimpse-into-virtual-frontiers-with-jaunt-vr-for-2024/"><u>A Glimpse Into Virtual Frontiers with Jaunt VR for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/apex-legends-voice-chatting-errors-here-are-the-solutions-you-need/"><u>Apex Legends Voice Chatting Errors? Here Are The Solutions You Need!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beat-audio-sync-problems-with-this-comprehensive-fix-guide/"><u>Beat Audio Sync Problems with This Comprehensive Fix Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-troubleshooting-inoperative-computing-sound-systems/"><u>Expert Tips on Troubleshooting Inoperative Computing Sound Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-void-comprehensive-aid-for-outriders-audio-troubleshooting/"><u>Fixing the Silent Void: Comprehensive Aid for Outriders Audio Troubleshooting</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-resolving-headphone-malfunction-issues-in-windows-10-devices/"><u>Guide: Resolving Headphone Malfunction Issues in Windows 10 Devices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-eliminate-latency-in-your-outriders-gameplay-experience/"><u>How to Eliminate Latency in Your Outriders Gameplay Experience</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/set-up-and-manage-slack-alerts-with-your-apple-watch-a-step-by-step-guide/"><u>Set Up and Manage Slack Alerts with Your Apple Watch: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-dolby-digital-problems-starting-the-dolby-audio-driver-in-windows-11-made-easy/"><u>Troubleshooting Dolby Digital Problems: Starting the Dolby Audio Driver in Windows 11 Made Easy</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixes-how-to-restore-discords-push-to-talk-feature/"><u>Troubleshooting Fixes: How to Restore Discord's Push-to-Talk Feature</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-bluetooth-devices-a-complete-guide/"><u>Troubleshooting Silent Bluetooth Devices: A Complete Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/vlc-streaming-on-roku-devices-how-to-install-and-set-up/"><u>VLC Streaming on Roku Devices - How to Install & Set Up</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/44k544oe44ob5bcc55so44og44o844ot44o85pyj5paz44k144ow44k544kv44oq44ox44k344on44oz44gm5pyf6zmq5yih44km44gr44gq44gj44gf5b6m44kc6kaw6ig044gn44gn44kl44kz44oe/"><u>スマホ専用ムービー有料サブスクリプションが期限切れになった後も視聴できるコツ</u></a></li>
+</ul></div>
 

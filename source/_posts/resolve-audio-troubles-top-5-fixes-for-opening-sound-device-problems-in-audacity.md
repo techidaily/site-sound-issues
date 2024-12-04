@@ -1,7 +1,7 @@
 ---
 title: "Resolve Audio Troubles: Top 5 Fixes for 'Opening Sound Device' Problems in Audacity"
-date: 2024-11-20T17:49:24.778Z
-updated: 2024-11-24T22:51:38.961Z
+date: 2024-11-30T04:21:04.603Z
+updated: 2024-12-04T07:14:41.964Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Try these fixes**
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Check sound on different apps
 
  Make sure you play sound on different apps (say Youtube, iTunes, Spotify etc.). Check if it’s only on one app that you have this **no sound problem** :
@@ -55,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
 * If**no** (no sound on ALL apps), then move on to**Fix 2** .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Disconnect external speakers
 
@@ -71,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
  If the volume on your computer is set mute or too low, you won’t be able to hear the sound. To make sure you have turned up the volume:
 
  1) On the dock, click the**System Preferences** icon ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b026d618d4e9.png) , then click on the **Sound** icon.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b026dbda51a8.jpg)
 
@@ -98,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b037f3956a98.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * If**no** (i.e. **Bluetooth: Off** ): click the**Close** button. Proceed to Fix 5.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03a1e86842f.jpg)
@@ -110,11 +94,19 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Restart your Mac
 
  A simple restart can fix many minor issues our computer is having, including audio problems. After the restart, you can check again and see if you get the sound back.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Reset **NVRAM**
 
@@ -132,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix **7: Create a testing account on safe mode**
 
  In this method, we create a new Apple account and test if sound works properly in this new account. Here’s a quick walk-through:
@@ -146,13 +142,13 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03850a49123.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Click the**Lock** icon > the **Add** icon. Then enter the user password if asked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0388cd4df0e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) In**New Account** , choose**Administrator** . In**Full Name** , enter a name for your testing account (TEST, in my case). Then click**Create User** .
 
@@ -170,6 +166,10 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
  9) Click **System Preferences** \> **Users & Groups** \> the**Lock** icon > the**Minus** icon to delete your testing account.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix **8: Update your Mac OS**
 
@@ -211,17 +211,15 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-art-of-assault-in-real-time-rivalry/"><u>[Updated] 2024 Approved The Art of Assault in Real-Time Rivalry</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-cutting-edge-convenience-smartwatch-mac-access/"><u>[Updated] In 2024, Cutting-Edge Convenience Smartwatch, Mac Access</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-snap-with-a-single-purpose-remove-bg-using-affinity/"><u>[Updated] Snap with a Single Purpose - Remove Bg Using Affinity</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-on-repairing-malfunctioning-computer-sound-equipment/"><u>Expert Tips on Repairing Malfunctioning Computer Sound Equipment</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-your-turtle-beach-elite-70-mic-step-by-step-solutions/"><u>How To Restore Your Turtle Beach Elite 70 Mic - Step by Step Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-restore-audio-in-windows-pressure-7-for-your-usb-connected-earbuds/"><u>How to Troubleshoot and Restore Audio in Windows Pressure 7 for Your USB-Connected Earbuds</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-free-online-services-for-youtube-images-extraction/"><u>In 2024, FREE Online Services for YouTube Images Extraction</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-smart-8-hd-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-live-commerce-next-chapter-can-ai-unlock-its-true-potential-in-2024/"><u>New Live Commerce Next Chapter Can AI Unlock Its True Potential, In 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-sound-from-laptop-speakers-diagnose-and-solve-this-common-issue-easily/"><u>No Sound From Laptop Speakers - Diagnose and Solve This Common Issue Easily</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-sound-problems-the-ultimate-fix-for-turtle-beach-elite-atlas-mic-malfunction/"><u>Resolving Sound Problems - The Ultimate Fix for Turtle Beach Elite Atlas Mic Malfunction</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-console-connoisseurs-handbook-for-frequent-flyers/"><u>The Console Connoisseur's Handbook for Frequent Flyers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tiktoks-biggest-winners-on-the-twittersphere/"><u>[Updated] 2024 Approved TikTok's Biggest Winners on the Twittersphere</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-for-fixing-continuous-audio-disruptions-on-your-windows-11-pc/"><u>Expert Advice for Fixing Continuous Audio Disruptions on Your Windows 11 PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-game-audio-issues-a-2024-roadmap-for-pc-gamers/"><u>Fixing Game Audio Issues: A 2024 Roadmap for PC Gamers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-clear-shots-again-fixing-auto-focus-errors-on-your-iphone-camera/"><u>Get Clear Shots Again: Fixing Auto-Focus Errors on Your iPhone Camera</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862810923-huge-discount-alert-600-off-on-the-incredible-samsung-49-inch-oled-monitor-limited-time-offer/"><u>Huge Discount Alert: $600 Off on the Incredible Samsung 49-Inch OLED Monitor - Limited Time Offer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-new-era-of-mobile-gaming-with-android-and-vr/"><u>In 2024, The New Era of Mobile Gaming with Android and VR</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-users-solution-how-to-fix-the-ready-or-not-game-from-constantly-crashing/"><u>PC Users' Solution: How to Fix the 'Ready or Not' Game From Constantly Crashing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ourney-from-ad-revenue-to-bank-account-balance/"><u>The Journey From Ad Revenue to Bank Account Balance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-silent-battles-repairing-no-audio-in-fortnite/"><u>Troubleshoot Silent Battles: Repairing No Audio in Fortnite</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-distorted-audio-for-windows-10-and-7-users-step-by-step-guide/"><u>Troubleshooting Distorted Audio for Windows 10 and 7 Users: Step-by-Step Guide</u></a></li>
 </ul></div>
 

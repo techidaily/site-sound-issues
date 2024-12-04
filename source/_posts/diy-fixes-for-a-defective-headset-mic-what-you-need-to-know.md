@@ -1,7 +1,7 @@
 ---
 title: DIY Fixes for a Defective Headset Mic - What You Need to Know
-date: 2024-08-27T21:08:45.395Z
-updated: 2024-08-28T21:08:45.395Z
+date: 2024-12-01T00:27:00.707Z
+updated: 2024-12-03T19:15:29.104Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/fe074f06665304f02bb44d59a2cf2f7a7e742cf6a
 
  Microphone not working when you’re on a Webex meeting? You’re not alone! Such audio issues are quite common but they’re usually not hard to fix. Even if you’re not familiar with computer, follow this post and you’ll be able to tackle the Webex microphone not working issue easily and quickly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 4 fixes for the Webex mic not working issue. You don’t have to try them all. Just work from the top down until you find the one that solves the problem.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/fe074f06665304f02bb44d59a2cf2f7a7e742cf6a
 2. [**Allow Webex to access your microphone**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Check the Webex settings](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 – Troubleshoot the connection
 
@@ -37,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/fe074f06665304f02bb44d59a2cf2f7a7e742cf6a
 
  If your mic is securely plugged in but still not working in Webex, continue to more solutions below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ### Fix 2 – Allow Webex to access your microphone
 
  On a Windows PC, you can manually adjust the permission for your microphone and choose specific apps to access it. To let your microphone work with Webex and pick up voice without problems, you’ll need to turn on the permission.
@@ -48,15 +53,22 @@ thumbnail: https://thmb.techidaily.com/fe074f06665304f02bb44d59a2cf2f7a7e742cf6a
 2. Select**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-2.jpg)
 3. Select**Microphone** from the left pane. Then click the**Change** button and**turn on** Microphone access for this device.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 4. Scroll down and toggle on the button below**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
 
  Once you’ve allowed the microphone access to your apps, check if the problem is resolved. If not, try the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2 – Update your audio driver
 
  The audio driver is the most important component that connects your audio device and computer. If it’s incompatible, faulty or outdated, you may encounter various problems when using your headset or microphone. And a driver update could well tackle the problem.
@@ -77,16 +89,14 @@ There are mainly two ways you can update the audio driver:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -100,14 +110,8 @@ There are mainly two ways you can update the audio driver:
 2. Click your profile at the top left corner and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings.jpg)
 3. Select**Audio** from the left pane. Under the Microphone section, select your preferred audio device from the drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-3.jpg)
 4. You can also adjust the volume by dragging the slider. Then click Save to apply the changes.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-4.jpg)
 
  Once completed, you can click the Test button under Microphone to see if everything goes back to normal.
@@ -124,8 +128,6 @@ There are mainly two ways you can update the audio driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +135,21 @@ There are mainly two ways you can update the audio driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-simplifying-the-process-of-finding-facebook-watch-history-for-2024/"><u>[New] Simplifying the Process of Finding Facebook Watch History for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-everything-you-need-to-know-about-the-firefox-picture-in-picture-mode/"><u>[Updated] 2024 Approved Everything You Need to Know About the Firefox Picture-in-Picture Mode</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-secret-technique-for-instantaneous-deletion-of-youtube-discussions/"><u>[Updated] 2024 Approved The Secret Technique for Instantaneous Deletion of Youtube Discussions</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-conversion-techniques-for-changing-extensible-mobile-multimedia-4xm-files-to-compatible-mp4-video/"><u>Effortless Conversion Techniques for Changing eXtensible Mobile Multimedia (4XM) Files to Compatible MP4 Video</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-hacks-resolve-your-xbox-one-audio-issues-now/"><u>Expert Hacks: Resolve Your Xbox One Audio Issues Now!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-honor-x9a-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Honor X9a to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-vivo-x-flip-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Vivo X Flip Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-art-of-fixing-squad-mic-issues-a-step-by-step-guide/"><u>Mastering the Art of Fixing Squad Mic Issues : A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/quick-and-simple-ways-to-download-videos-from-tunepk-top-4-options/"><u>Quick & Simple Ways to Download Videos From Tune.pk - Top 4 Options</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/screenmasters-battleground-for-2024/"><u>ScreenMasters Battleground for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-for-a-non-responsive-razer-man-owar-headset-microphone/"><u>Troubleshooting Guide for a Non-Responsive Razer Man O'War Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-for-non-functional-voice-chats-in-black-ops-cold-war-gameplay/"><u>Troubleshooting Guide for Non-Functional Voice Chats in Black Ops: Cold War Gameplay</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-techniques-for-a-defective-microphone-in-the-oculus-quest-2-vr-headset/"><u>Troubleshooting Techniques for a Defective Microphone in the Oculus Quest 2 VR Headset</u></a></li>
+<li><a href="https://win11.techidaily.com/unblock-selecthighlight-capabilities-in-windows-pdf-viewer/"><u>Unblock Select/Highlight Capabilities in Windows' PDF Viewer</u></a></li>
+</ul></div>
 

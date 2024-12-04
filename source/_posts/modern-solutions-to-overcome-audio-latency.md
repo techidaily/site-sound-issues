@@ -1,7 +1,7 @@
 ---
 title: Modern Solutions to Overcome Audio Latency
-date: 2024-11-17T18:53:25.617Z
-updated: 2024-11-24T20:44:37.496Z
+date: 2024-11-26T20:44:28.725Z
+updated: 2024-12-04T05:30:15.262Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ It’s annoying that your Discord is picking up game audio all of a sudden. But 
 * [2. Change sound settings](https://tools.techidaily.com/drivereasy/download/)
 * [3. Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Update audio drivers
 
  A properly working audio driver can make sure your device is working normally. If your Discord picks up the game audio, it might be caused by a malfunctioning audio driver. To make sure your audio works fine, you should update your audio driver:
@@ -52,17 +56,9 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver-1.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 
@@ -80,7 +76,7 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Go to the**Recording** tab.
@@ -89,16 +85,24 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Open Discord application, and go to**User Settings** .
 
  5) Under**Voice Settings** , choose the correct**Input Device** and**Output Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Reinstall Discord
@@ -114,10 +118,6 @@ There’re mainly two ways for you to update an audio driver:
  3) Right-click Discord, and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once complete, you can download[**the latest Discord client**](https://discord.com/brand-new) and check if the issues persist in the new version.
 
@@ -142,24 +142,20 @@ There’re mainly two ways for you to update an audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-reviews-find-the-best-8-5k-computer-displays/"><u>[New] Expert Reviews - Find the Best 8 5K Computer Displays</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-tops-in-audio-modification-software-echos-successor/"><u>[New] Tops in Audio Modification Software Echo's Successor</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-visualizing-your-vision-incorporating-new-fonts-into-after-effects/"><u>2024 Approved Visualizing Your Vision Incorporating New Fonts Into After Effects</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-nokia-c02-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bang-and-olufsen-beoplay-h8i-review-pure-luxury/"><u>Bang & Olufsen Beoplay H8i Review: Pure Luxury</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-nonfunctional-headphone-setups-in-windows-7-systems/"><u>Diagnosing and Repairing Nonfunctional Headphone Setups in Windows 7 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortless-troubleshooting-steps-to-stop-buzzing-noises-from-speakers/"><u>Effortless Troubleshooting Steps to Stop Buzzing Noises From Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-epson-scanning-back-in-windows-11/"><u>How to Get Your Epson Scanning Back in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-hyperx-cloud-alpha-headset-mic-working-again-complete-solution/"><u>How to Get Your HyperX Cloud Alpha Headset Mic Working Again - Complete Solution</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Google Pixel 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-mirror-apple-iphone-12-pro-max-to-your-windows-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Mirror Apple iPhone 12 Pro Max to your Windows PC | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-linkedin-posts-with-chatgpt-techniques/"><u>Optimizing LinkedIn Posts with ChatGPT Techniques</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-silent-speakers-steps-to-restore-sounds-on-your-pc/"><u>Resolving Silent Speakers - Steps to Restore Sounds on Your PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-audio-post-windows-11-upgrade-troubleshooting-made-simple/"><u>Restoring Audio Post-Windows 11 Upgrade: Troubleshooting Made Simple</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamlessly-installing-lenovo-os-on-yoga-900/"><u>Seamlessly Installing Lenovo OS on Yoga 900</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-for-inoperative-headset-connectivity-in-laptops/"><u>Solution Guide for Inoperative Headset Connectivity in Laptops</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-to-fix-audio-issues-on-hp-devices-running-windows-11/"><u>Troubleshooting Steps to Fix Audio Issues on HP Devices Running Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-your-inactive-snapchat-expert-methods-for-reactivation/"><u>Unlocking Your Inactive Snapchat: Expert Methods for Reactivation</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-masterclass-top-5-suggestions-and-real-life-outcomes/"><u>[New] 2024 Approved Instagram Masterclass Top 5 Suggestions & Real-Life Outcomes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-analyzing-dji-x4-fpv-helmet-functionality/"><u>[New] Analyzing DJI X4 FPV Helmet Functionality</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-cyberpunk-2077-fps-drops/"><u>[SOLVED] Cyberpunk 2077 FPS Drops</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-snapperview-4-review-synopsis-for-2024/"><u>[Updated] SnapperView 4 Review Synopsis for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-windows-10s-full-potential-with-zoom-services/"><u>2024 Approved Unveiling Windows 10'S Full Potential with Zoom Services</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722997366197-anthem-loading-screen-stuck-heres-how-to-get-out-of-the-neverending-boot-sequence/"><u>Anthem Loading Screen Stuck? Here's How to Get Out of the Neverending Boot Sequence</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhance-in-built-soundscape-resolving-windows-1n-11s-muted-sound-dilemma/"><u>Enhance In-Built Soundscape: Resolving Windows 1N 11'S Muted Sound Dilemma</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-resolving-game-audio-problems-in-resident-evil-village/"><u>Expert Tips for Resolving Game Audio Problems in Resident Evil Village</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-the-malfunctioning-microphone-on-your-turtle-beach-recon-70-audio-setup/"><u>How to Fix the Malfunctioning Microphone on Your Turtle Beach Recon 70 Audio Setup</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-unable-to-initialize-dolby-audio-error-in-windows-11-computers/"><u>How to Resolve 'Unable to Initialize Dolby Audio' Error in Windows 11 Computers</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-audio-issues-clearing-up-crackling-sounds-on-windows-11-and-7-systems/"><u>Resolve Audio Issues: Clearing Up Crackling Sounds on Windows 11 and 7 Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-overcoming-non-functional-msi-mystic-light-errors-within-the-windows-environment/"><u>Resolved: Overcoming Non-Functional MSI Mystic Light Errors Within the Windows Environment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-battles-in-apex-legends-top-techniques-for-bringing-back-the-sound/"><u>Silent Battles in Apex Legends: Top Techniques for Bringing Back the Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solutions-for-a-non-functioning-corsair-hs35-mic-on-windows-systems/"><u>Troubleshooting and Solutions for a Non-Functioning Corsair HS35 Mic on Windows Systems</u></a></li>
 </ul></div>
 

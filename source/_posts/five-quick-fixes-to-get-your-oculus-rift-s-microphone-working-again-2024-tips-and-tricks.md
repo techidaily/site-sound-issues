@@ -1,7 +1,7 @@
 ---
 title: Five Quick Fixes to Get Your Oculus Rift S Microphone Working Again - 2024 Tips & Tricks
-date: 2024-11-22T00:10:13.504Z
-updated: 2024-11-24T22:12:03.185Z
+date: 2024-11-27T22:06:21.771Z
+updated: 2024-12-04T03:37:44.441Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ Many **Logitech G933** users are reporting that their headset**microphone**is no
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
 You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -45,10 +49,6 @@ You should allow your Windows 10 system and your application to access your head
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62e85bc8fdf.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click**Microphone**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62e8bd4fd27.jpg)
@@ -57,13 +57,25 @@ You should allow your Windows 10 system and your application to access your head
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62e9221f920.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Make sure**Allow apps to access your microphone**is turned**on**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62e9a89f2b6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hopefully this fixes your microphone issue. But if not, there are still three fixes you can try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Check your microphone device settings
 
@@ -71,21 +83,17 @@ Your Logitech G933 mic may be disabled or not set as the default device on your 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** In Control Panel, select**Large icons**from the**View by**drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**Select **Sound**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Select the **Recording**tab, then right click on any empty place inside the device list and tick **Show Disabled Devices**.
 
@@ -99,10 +107,6 @@ Your Logitech G933 mic may be disabled or not set as the default device on your 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **7)** Right click**Headset Microphone**and click**Properties**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
@@ -115,10 +119,6 @@ Your Logitech G933 mic may be disabled or not set as the default device on your 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 3: Update your audio drivers
 
 The mic on your Logitech G933 headset won’t work if you’re using an incorrect or outdated audio or headset driver. So you should update the driver to see if that fixes the issue.  You can update your driver manually or automatically. The manual process is time consuming, technical and risky, so we won’t cover it here. Nor do we recommend it unless you have excellent computer knowledge.  Updating your driver automatically, on the other hand, is very easy. Simply install and run [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/), and it will automatically find all the devices on your PC that need new drivers, and install them for you. Here’s how to use it. **1)** [**Download**](https://tools.techidaily.com/drivereasy/download/)and install**Driver Easy**.**2)** Run**Driver Easy**and click the **Scan Now**button.**Driver Easy**will scan your computer and detect any problem drivers.
@@ -126,7 +126,7 @@ The mic on your Logitech G933 headset won’t work if you’re using an incorrec
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the**Update**button next to your sound device or your headset to download the latest and correct driver for it.
@@ -138,7 +138,7 @@ You can also click the **Update All**button at the bottom right to automatically
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4: Troubleshoot hardware issues
@@ -163,20 +163,24 @@ If your headset microphone is still not working, it’s likely there are hardwar
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-collective-wisdom-on-easeus-products/"><u>[New] 2024 Approved Collective Wisdom on EaseUS Products</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-free-online-video-capture-leaders-top-10-edition/"><u>[Updated] In 2024, Free Online Video Capture Leaders – Top 10 Edition</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-highlight-trail-from-skatescape-2022-for-2024/"><u>[Updated] The Ultimate Highlight Trail From Skatescape 2022 for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/comment-resoudre-les-problemes-de-son-et-non-debut-du-disque-dur/"><u>Comment Résoudre Les Problèmes De Son Et Non-Début Du Disque Dur</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/delving-into-ffmpeg-unaltered-audio-extraction/"><u>Delving Into FFmpeg Unaltered Audio Extraction</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/discover-the-ultimate-top-5-iphone-applications-for-podcasts/"><u>Discover the Ultimate Top 5 iPhone Applications for Podcasts</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/dzsave/"><u>Epubor DzSave</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fast-solutions-restoring-audio-on-your-astro-a50-headphones/"><u>Fast Solutions: Restoring Audio on Your Astro A50 Headphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-audio-issues-on-your-computer-without-hearing-a-peep-step-by-step/"><u>Fixing Audio Issues on Your Computer Without Hearing a Peep – Step-by-Step</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-bluetooth-paired-but-still-silent-solutions-inside/"><u>Fixing the Issue: Bluetooth Paired but Still Silent – Solutions Inside!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/from-silent-to-symphony-essential-steps-for-restoring-conexant-smartaudio-hd-sound-on-window-10-operating-systems/"><u>From Silent to Symphony: Essential Steps for Restoring Conexant SmartAudio HD Sound on Window 10 Operating Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-audio-back-expert-tips-to-fix-broken-headphone-connections-in-windows-11/"><u>Get Your Audio Back: Expert Tips to Fix Broken Headphone Connections in Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-pro-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Pro to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/master-latin-faster-top-rated-online-learning/"><u>Master Latin Faster: Top-Rated Online Learning</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-pubg-voice-call-issues-with-these-simple-steps/"><u>Solve Your PUBG Voice Call Issues with These Simple Steps!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-obsudios-deep-dive-into-best-screencast-software-for-live-broadcasts/"><u>[New] 2024 Approved Obsudio's Deep Dive Into Best Screencast Software for Live Broadcasts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-master-your-youtube-settings-stop-auto-play-videos/"><u>[New] Master Your YouTube Settings - Stop Auto-Play Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-valheim-no-sound-on-pc/"><u>[SOLVED] Valheim No Sound on PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ultimate-photo-perfection-discover-our-6-best-background-erasers-for-2024/"><u>[Updated] Ultimate Photo Perfection – Discover Our 6 Best Background Erasers for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-non-working-headphones-compatibility-with-windows-nix/"><u>Diagnosing and Fixing Non-Working Headphones Compatibility with Windows Nix</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-14-plus-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 14 Plus Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-malfunctioning-front-audio-jack-troubleshooting-guide/"><u>How to Fix a Malfunctioning Front Audio Jack - Troubleshooting Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-comprehensive-coverage-coalition-picking-an-mcn/"><u>In 2024, Comprehensive Coverage Coalition Picking an MCN</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-through-the-fins-pro-techniques-for-taking-superior-gopro-videos-underwater/"><u>In 2024, Through the Fins Pro Techniques for Taking Superior GoPro Videos Underwater</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pc-audio-troubles-learn-how-to-fix-sound-glitches-while-using-zoom/"><u>PC Audio Troubles? Learn How to Fix Sound Glitches While Using Zoom</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/precision-and-performance-in-the-dell-p2715q-monitor-analysis-for-2024/"><u>Precision and Performance in the Dell P2715Q Monitor Analysis for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016975428-quick-and-easy-ways-to-stop-headphone-sound-irregularities/"><u>Quick & Easy Ways to Stop Headphone Sound Irregularities</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-silent-hdmi-troubleshooting-steps-when-your-pc-display-and-television-lack-audio/"><u>Resolving Silent HDMI: Troubleshooting Steps When Your PC, Display & Television Lack Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-issues-with-non-detected-realtek-high-def-sound-devices/"><u>Solving Issues with Non-Detected Realtek High-Def Sound Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-restoring-audio-over-hdmi-for-your-windows-7-laptopdesktop/"><u>Step-by-Step Guide: Restoring Audio Over HDMI for Your Windows 7 Laptop/Desktop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-getting-your-steam-voice-chat-up-and-running-again/"><u>Step-by-Step Solutions: Getting Your Steam Voice Chat Up and Running Again</u></a></li>
+<li><a href="https://win-web.techidaily.com/two-methods-how-to-recover-your-wechat-conversations-from-icloud-backups-on-an-iphone/"><u>Two Methods: How to Recover Your WeChat Conversations From iCloud Backups on an iPhone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/unleash-creativity-with-these-14-exceptional-text-animations/"><u>Unleash Creativity with These 14 Exceptional Text Animations</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Motorola Moto G Stylus 5G (2023) | Dr.fone</u></a></li>
 </ul></div>
 

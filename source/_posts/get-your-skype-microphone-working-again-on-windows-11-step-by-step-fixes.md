@@ -1,7 +1,7 @@
 ---
 title: "Get Your Skype Microphone Working Again on Windows 11: Step-by-Step Fixes"
-date: 2024-11-24T02:17:21.259Z
-updated: 2024-11-24T21:30:20.118Z
+date: 2024-11-30T03:47:50.823Z
+updated: 2024-12-04T03:56:42.032Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 7. **[Reset Windows](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure your device is working
@@ -49,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
  Before you start, you need to make sure the output device (speaker/headphone) is working without any issues.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/audio-headphone-ports.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  First you need to make sure the device is**connected to the right port** of your PC. You can also check by testing it on another computer or device (e.g. your phone). Note that some headphones come with**switches** that need to be turned on manually.
 
@@ -65,16 +69,12 @@ If the output device works as expected, simply continue to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-troubleshooter-2.jpg)
 3. Select**Playing Audio** . Then follow the on-screen instructions to proceed.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-troubleshooter-3.jpg)
 
  If the troubleshooter doesn’t get the audio back, you can take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Configure output device properly
@@ -90,9 +90,21 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-2.jpg)
 3. Under**Output settings** , you can test different**output formats** . Make sure**Volume** is set to**above 50** . You can also**turn Enhance audio on and off** to see if that helps.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If the issue lingers on, check out the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -115,7 +127,7 @@ If the issue lingers on, check out the next fix below.
  If the latest drivers can’t fix the problem, you can take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Check for the latest system updates
@@ -126,11 +138,11 @@ If the issue lingers on, check out the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
 ### Fix 6: Scan and pair Windows
 
@@ -159,26 +171,14 @@ If the issue lingers on, check out the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-1.jpg)
 2. Under**Recovery options** , click**Reset PC** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-2.jpg)
 3. In the pop-up window, select**Remove everything** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-3.jpg)
 4. Click**Cloud download** . This will get you the latest system files.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-4.jpg)
 5. Follow the on-screen instructions to reset your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -201,20 +201,24 @@ If the issue lingers on, check out the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unveiling-the-prospects-of-splitcam-for-videographers/"><u>[New] 2024 Approved Unveiling the Prospects of SplitCam for Videographers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/inecraft-logo-designs-for-youtube-channels/"><u>[New] Minecraft Logo Designs for YouTube Channels</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/clearing-up-the-buzz-essential-techniques-for-resolving-outriders-sound-malfunctions/"><u>Clearing Up the Buzz: Essential Techniques for Resolving Outriders Sound Malfunctions</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/comprehensive-ultimate-guide-to-instagram-stories-for-2024/"><u>Comprehensive Ultimate Guide to Instagram Stories for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-on-fixing-the-primary-audio-connection-in-your-gadget-step-by-step-guide/"><u>Expert Tips on Fixing the Primary Audio Connection in Your Gadget [Step-by-Step Guide]</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/must-play-openworld-experiences/"><u>Must-Play Openworld Experiences</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-mastering-audio-clarity-simplified-techniques-for-noise-elimination-in-audacity-and-filmorapro/"><u>New Mastering Audio Clarity Simplified Techniques for Noise Elimination in Audacity & FilmoraPro</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-more-disturbance-5-effortless-fixes-for-speaker-buzz-sounds/"><u>No More Disturbance: 5 Effortless Fixes for Speaker Buzz Sounds</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/overcoming-challenges-in-dvd-to-pc-transfers-a-guide-to-successful-video-copies/"><u>Overcoming Challenges in DVD-to-PC Transfers: A Guide to Successful Video Copies</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-win-lsa-fault-detection/"><u>Overcoming Win LSA Fault Detection</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fix-guide-solving-astro-a50-microphone-issues/"><u>Quick Fix Guide: Solving Astro A50 Microphone Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-the-soundscape-of-borderlands-3-a-guide-for-pc-gamers-facing-sound-problems/"><u>Reviving the Soundscape of Borderlands 3: A Guide for PC Gamers Facing Sound Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-no-sound-problems-a-detailed-guide-to-fixing-audio-issues-on-your-computer/"><u>Solving 'No Sound' Problems: A Detailed Guide to Fixing Audio Issues on Your Computer</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-comprehensive-guide-to-group-recognition-in-social-media/"><u>The Comprehensive Guide to Group Recognition in Social Media</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-is-windows-defender-smartscreen-currently-unreachable/"><u>Why Is Windows Defender SmartScreen Currently Unreachable?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-laughloop-app-a-hub-for-humor-enthusiasts/"><u>[New] LaughLoop App - A Hub for Humor Enthusiasts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-seamless-and-secure-downloading-instagram-videos-from-your-computermacos/"><u>[Updated] 2024 Approved Seamless & Secure Downloading Instagram Videos From Your Computer/MacOS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-raw-renders-to-rich-realities-grading-in-post-production/"><u>2024 Approved From Raw Renders to Rich Realities Grading in Post-Production</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-find-x6-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Oppo Find X6</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/cutting-edge-approaches-for-secure-and-precise-call-logging-for-2024/"><u>Cutting-Edge Approaches for Secure and Precise Call Logging for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/experts-share-easy-steps-to-eliminate-crackle-in-audio-devices-running-windows-107-fixed/"><u>Experts Share Easy Steps to Eliminate Crackle in Audio Devices Running WINDOWS 10/7 [FIXED]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-malfunctioning-realtek-built-in-microphone/"><u>How to Repair a Malfunctioning Realtek Built-In Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-during-discord-voice-chats/"><u>How to Restore Sound During Discord Voice Chats</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-webex-microphone-functionality-this-year/"><u>How to Restore Webex Microphone Functionality This Year</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-revealing-rays-of-light-the-ultimate-guide-for-choosing-a-premium-4k-screen/"><u>In 2024, Revealing Rays of Light The Ultimate Guide for Choosing a Premium 4K Screen</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/integrating-spotify-and-discord-a-complete-guide-for-2024/"><u>Integrating Spotify & Discord A Complete Guide for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-crunching-sounds-a-step-by-step-fix-for-windows-users-with-arctis-headphones/"><u>No More Crunching Sounds! A Step-by-Step Fix for Windows Users With Arctis Headphones</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-vivo-y28-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Vivo Y28 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/skype-audio-problems-solved-ensuring-your-microphone-works-with-windows-11/"><u>Skype Audio Problems Solved: Ensuring Your Microphone Works with Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-fixing-laptop-audio-issues-get-your-sound-back/"><u>Solved: Fixing Laptop Audio Issues - Get Your Sound Back</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-problem-what-to-do-when-you-encounter-a-binkw32dll-file-not-found-issue/"><u>Solving the Problem: What to Do When You Encounter a Binkw32.dll File Not Found Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-your-creative-pebble-sound-system-a-step-by-nstep-guide-to-solving-connectivity-problems/"><u>Troubleshoot Your Creative Pebble Sound System: A Step-by-nStep Guide to Solving Connectivity Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-11-audio-issues-fixing-non-functional-speakers/"><u>Troubleshooting Windows 11 Audio Issues: Fixing Non-Functional Speakers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-the-powerful-motorola-mg7700-a-comprehensive-speeds-test/"><u>Unboxing the Powerful Motorola MG7700 - A Comprehensive Speeds Test</u></a></li>
 </ul></div>
 

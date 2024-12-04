@@ -1,7 +1,7 @@
 ---
 title: OBS Desktop Audio Not Capturing? Here's How to Fix It
-date: 2024-08-27T21:08:26.056Z
-updated: 2024-08-28T21:08:26.056Z
+date: 2024-11-30T06:48:13.156Z
+updated: 2024-12-03T19:21:39.506Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/41c40fc075ec41a6de89c571a5a74900b640b77fd
 
  OBS is a popular and powerful tool that packs a variety of features for video recording and live streaming. However, it’s not immune to bugs. Some users complains the desktop audio stopped working or recording in OBS for no reason. If you encounter the same problem, don’t worry. We’ve covered 6 effective fixes to help you solve the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t need to try them all; just work your way down the list until you find the one that works for you.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/41c40fc075ec41a6de89c571a5a74900b640b77fd
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Unmute OBS
 
  If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any desktop sound. So the first troubleshooting step is to check your Volume Mixer.
@@ -44,13 +52,18 @@ thumbnail: https://thmb.techidaily.com/41c40fc075ec41a6de89c571a5a74900b640b77fd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/0-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now see if OBS desktop audio comes back. If not, try the next fix below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2 – Check the sound settings
 
  If OBS fails to pick up your desktop audio, there might be something wrong with your headset or speaker settings. If you don’t know how to configure the settings correctly, follow the instruction below:
@@ -60,15 +73,17 @@ Now see if OBS desktop audio comes back. If not, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Select**Small icons** from the drop-down menu next to View by, and click**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-2-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Right-click any empty space and tick**Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2-7.jpg)
@@ -77,24 +92,25 @@ Now see if OBS desktop audio comes back. If not, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 **5)** Click the device and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **6)** Select the**Levels** tab. Then, make sure**the device is not muted** and**drag the slider** to turn up its volume.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-5-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **7)** Select the**Advanced** tab, and untick**Allow applications to take exclusive control of this device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **8)** Click**OK** to save the changes.
 
@@ -108,9 +124,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  After going through the steps, launch OBS to test if the desktop audio is correctly detected and recorded. If not, please move on to the next fix below.
 
 ---
@@ -130,17 +143,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-3-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Scroll to Global Audio Devices and make sure you’ve selected the actual device you’re using for**Desktop Audio** and**Mic/Auxiliary Audio** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/mIv00M.jpg)
@@ -149,9 +154,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### Fix 4 – Remove other programs for audio control
 
  If you’ve installed other audio-related programs such as Nahimic, they will possibly conflict with OBS and thus cause the desktop audio not working issue. Many users also reported that Realtek Gaming Software and Razer Synapse will interfere with OBS.
@@ -178,18 +180,12 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click the**Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-2-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -230,8 +226,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -239,4 +233,17 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-top-ppt-to-mp4-transformers/"><u>[New] In 2024, Top PPT-to-MP4 Transformers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-navigating-challenges-in-job-interview-settings/"><u>[New] Navigating Challenges in Job Interview Settings</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-supreme-creation-studio-test/"><u>[New] Supreme Creation Studio Test</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-invisible-spectator-of-fb-tales-for-2024/"><u>[Updated] Invisible Spectator of FB Tales for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavis-no-cost-tool-easy-conversion-of-mxf-video-streams-to-mkv-file-type/"><u>Movavi's No-Cost Tool: Easy Conversion of MXF Video Streams to MKV File Type</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pioneering-apps-for-synching-pictures-and-beats/"><u>Pioneering Apps For Synching Pictures & Beats</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-the-soundscape-expert-guides-for-restoring-sound-on-toshiba-laptops/"><u>Revive the Soundscape: Expert Guides for Restoring Sound on Toshiba Laptops</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-silent-hp-laptops-sounds-back-on/"><u>Step-by-Step Fix for Silent HP Laptops - Sounds Back On?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-not-functional-world-of-warcraft-voice-communication/"><u>Troubleshooting Guide: Fixing 'Not Functional' World of Warcraft Voice Communication</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-turtle-beach-headset-mic-solutions-for-common-problems/"><u>Troubleshooting Your Turtle Beach Headset Mic: Solutions for Common Problems</u></a></li>
+</ul></div>
 

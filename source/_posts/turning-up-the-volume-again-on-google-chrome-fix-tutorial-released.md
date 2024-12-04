@@ -1,7 +1,7 @@
 ---
 title: Turning Up the Volume Again on Google Chrome - Fix Tutorial Released
-date: 2024-11-20T18:45:18.150Z
-updated: 2024-11-24T16:47:55.599Z
+date: 2024-12-02T16:52:34.146Z
+updated: 2024-12-04T03:43:16.303Z
 tags:
   - win11
   - win10
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd6217aadf1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e9cb799c4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Restart your computer and check if sound works properly on Chrome. If the problem still exists, then move on to **Fix 3** , below.
@@ -91,9 +91,17 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df24a53f15.jpg)  
  If the volume controller for Chrome isn’t listed here, you can play audio/video on Chrome and then it should pop up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Re-launch Chrome and play some audio/video and see if you can hear the sound. If the Chrome no sound problem persists, move on to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4:   Make sure the page is not mute
 
@@ -103,21 +111,17 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-31.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click the **Advanced**  tab. Then scroll down to **Multimedia** and check the box before **Play sounds in web pages** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-32.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Re-launch Chrome and check if you can hear sound from web apps. If the problem persists, don’t worry -here’re a few more fixes for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Clear cache and cookies
 
@@ -128,17 +132,13 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df7b87cca5.jpg)
 3. In the drop-down menu, click to select**the time range** for the data cache clearing (Last 7 days in my example). Then click**CLEAR DATA** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df83c76d86.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Disable extensions
 
@@ -154,7 +154,7 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Update Adobe Flash Player
@@ -167,6 +167,10 @@ Here’s how to do it:
 2. Under**Adobe Flash Player** , click**Check for update** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1dfb5ac965f.jpg)
 3. Check the status:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * If it says **Status – Component not updated**  , then go to **[Adobe Flash Player](https://flash.2144.com/)** [](https://flash.2144.com/)  to  download & install the latest version of your   **Adobe flash player**  .
 * If it says otherwise, then move on to**Fix 8** .
@@ -186,10 +190,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e14cb32cd8.jpg)
 3. Download and install Chrome from another web browser or Windows store.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Try sound on the re-installed Chrome and see if the**Chrome no sound** problem has been fixed.
 
@@ -216,22 +216,17 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-learning-luminaries-top-ed-streams-online/"><u>[Updated] In 2024, Learning Luminaries Top Ed Streams Online</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-honor-magic-5-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Honor Magic 5 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/duktansvartare-for-objektbeskyddande-system-obs-som-ger-inte-ljudhinder-movavi/"><u>Duktansvärtare För Objektbeskyddande System (OBS) Som Ger Inte Ljudhinder - Movavi</u></a></li>
-<li><a href="https://article-helps.techidaily.com/gopro-match-up-ultimate-buyers-analysis/"><u>Gopro Match-Up Ultimate Buyer's Analysis</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-6s-plus-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-windows-11-audio-back-solving-speaker-issues-easily/"><u>How To Get Your Windows 11 Audio Back: Solving Speaker Issues Easily</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-v30-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo V30 Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-communication-in-sea-of-thieves-a-fix-for-non-functional-mic-on-pc/"><u>Mastering Communication in Sea of Thieves - A Fix for Non-Functional Mic on PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-oppo-a79-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Oppo A79 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-audio-to-cyberpunk-2077-for-windows-10-users-step-by-step-guide/"><u>Restoring Audio to Cyberpunk 2077 for Windows 10 Users - Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-gaming-audio-on-windows-10-quick-fixes-for-anthems-no-sound-glitch/"><u>Revive Gaming Audio on Windows 10 | Quick Fixes for Anthem's No-Sound Glitch</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-restoring-redragon-headset-microphone-on-your-computer/"><u>Step-by-Step Guide to Restoring Redragon Headset Microphone on Your Computer</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/top-solutions-for-resolving-toshiba-laptop-audio-issues/"><u>Top Solutions for Resolving Toshiba Laptop Audio Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repair-guide-csgo-buhne-malfunctions/"><u>Troubleshooting and Repair Guide: CS:GO Buhne Malfunctions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-solving-ps3-controller-connection-issues/"><u>Ultimate Guide: Solving PS3 Controller Connection Issues</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-the-reason-behind-google-pixel-6s-extended-charge-duration/"><u>Understanding the Reason Behind Google Pixel 6'S Extended Charge Duration</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-freeware-harmonies-to-accentuate-photo-stories/"><u>Updated 2024 Approved Freeware Harmonies to Accentuate Photo Stories</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-chromes-full-screen-trick-effortlessly-run-videos-and-apps-side-by-side/"><u>[New] Chrome's Full-Screen Trick Effortlessly Run Videos and Apps Side by Side</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-navigating-common-youtube-short-glitches-for-2024/"><u>[Updated] Navigating Common YouTube Short Glitches for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-top-ranked-animation-set-for-typography-for-2024/"><u>[Updated] Top-Ranked Animation Set for Typography for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhancing-speaker-performance-fixing-volume-issues-in-windows-10/"><u>Enhancing Speaker Performance: Fixing Volume Issues in Windows 10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/go-big-or-go-home-selecting-the-most-satisfying-1tbplus-cloud-services-for-2024/"><u>Go Big or Go Home - Selecting the Most Satisfying 1TB+ Cloud Services for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-oppo-a78-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Oppo A78 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-y100i-power-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-razer-mic-a-step-by-step-guide-to-solving-microphone-issues/"><u>Revive Your Razer Mic: A Step-by-Step Guide to Solving Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-techniques-for-fixing-windows-11-microphone-problems/"><u>Solution Techniques for Fixing Windows 11 Microphone Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-troubleshooting-for-when-your-blue-yeti-microphone-wont-connect/"><u>Step-by-Step Troubleshooting for When Your Blue Yeti Microphone Won't Connect</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-rated-presentation-software-for-ios-devices/"><u>Top-Rated Presentation Software for iOS Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015826704-troubleshooting-silent-mic-issues-how-to-get-audio-recording-again/"><u>Troubleshooting Silent Mic Issues - How to Get Audio Recording Again</u></a></li>
 </ul></div>
 

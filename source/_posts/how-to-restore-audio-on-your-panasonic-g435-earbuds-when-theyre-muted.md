@@ -1,7 +1,7 @@
 ---
 title: How to Restore Audio on Your Panasonic G435 Earbuds When They're Muted
-date: 2024-08-27T21:08:18.804Z
-updated: 2024-08-28T21:08:18.804Z
+date: 2024-11-30T04:25:00.352Z
+updated: 2024-12-03T20:43:49.266Z
 tags:
   - win11
   - win10
@@ -31,11 +31,19 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
 6. [**Scan and pair Windows**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Reset Windows](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your device is working
 
  Before you start, you need to make sure the output device (speaker/headphone) is working without any issues.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/audio-headphone-ports.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  First you need to make sure the device is**connected to the right port** of your PC. You can also check by testing it on another computer or device (e.g. your phone). Note that some headphones come with**switches** that need to be turned on manually.
 
@@ -48,22 +56,21 @@ If the output device works as expected, simply continue to the next step.
 1. On the taskbar, click the search icon and type**troubleshooting** . Select**Troubleshoot settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-troubleshooter-1.jpg)
 2. Select**Other troubleshooters** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-troubleshooter-2.jpg)
 3. Select**Playing Audio** . Then follow the on-screen instructions to proceed.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-troubleshooter-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the troubleshooter doesn’t get the audio back, you can take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Configure output device properly
 
  Next you need to check if you have**configured the audio settings correctly** . Normally Windows will take care of this automatically, but it’s best you take a look yourself.
@@ -73,13 +80,13 @@ Here’s how:
 1. On your keyboard, press**Win+I** (the Windows key and the i key) to open Windows Settings. Click**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-1.jpg)
 2. Under**Output** , make sure to select your desired output device. Then click the device to view its property.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-2.jpg)
 3. Under**Output settings** , you can test different**output formats** . Make sure**Volume** is set to**above 50** . You can also**turn Enhance audio on and off** to see if that helps.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If the issue lingers on, check out the next fix below.
 
@@ -93,9 +100,6 @@ If the issue lingers on, check out the next fix below.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-update-all-realtek-audio.jpg)
 
@@ -114,6 +118,10 @@ If the issue lingers on, check out the next fix below.
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Scan and pair Windows
 
  In the worst case, you’re dealing with a system issue. It could mean that some critical files are**corrupted or missing** from your system, and it could also mean that some settings are**misconfigured** . Either way, if you don’t want a clean reinstall, you can**run a scan** and find out what went wrong.
@@ -124,19 +132,19 @@ If the issue lingers on, check out the next fix below.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7: Reset Windows
 
  If the sound issues only appear after upgrading from Windows 10, you might need to do a**clean reinstall** —we always recommend a clean reinstall instead of direct upgrade so as to avoid strange issues.
@@ -150,16 +158,14 @@ If the issue lingers on, check out the next fix below.
 2. Under**Recovery options** , click**Reset PC** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-2.jpg)
 3. In the pop-up window, select**Remove everything** .  
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-3.jpg)
 4. Click**Cloud download** . This will get you the latest system files.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-4.jpg)
 5. Follow the on-screen instructions to reset your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -173,8 +179,6 @@ If the issue lingers on, check out the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +186,26 @@ If the issue lingers on, check out the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-transforming-viewers-into-customers-youtubes-essential-5-tactics/"><u>[New] 2024 Approved Transforming Viewers Into Customers YouTube's Essential 5 Tactics</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-free-recording-exploring-apowersofts-screen-capture-for-2024/"><u>[New] Free Recording Exploring Apowersoft's Screen Capture for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-boosting-channel-traffic-with-youtube-backlink-tactics/"><u>[Updated] 2024 Approved Boosting Channel Traffic with YouTube Backlink Tactics</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-unveiling-the-art-of-itunes-video-capture/"><u>[Updated] In 2024, Unveiling the Art of iTunes Video Capture</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-top-iphones-video-editors-face-off-cameo-vs-filmorago/"><u>[Updated] Top iPhones' Video Editors Face-Off Cameo Vs. FilmoraGo</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/begin-your-journey-to-fluent-indonesian-salutations/"><u>Begin Your Journey to Fluent Indonesian Salutations</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/black-ops-cold-war-repair-your-voice-chat-feature-expert-fixes-and-advice/"><u>Black Ops Cold War: Repair Your Voice Chat Feature - Expert Fixes & Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-overwatch-playtime-interruption-restoring-push-to-talk-functionality/"><u>Fix Your Overwatch Playtime Interruption: Restoring Push-to-Talk Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-non-functional-hyperx-cloud-microphone-in-a-flash-step-by-step-solutions/"><u>How to Resolve Non-Functional HyperX Cloud Microphone in a Flash - Step by Step Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-to-your-corsair-void-gaming-mic/"><u>How to Restore Functionality to Your Corsair Void Gaming Mic</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-in-depth-breakdown-stream-yourself-successfully-via-zoom-and-youtube/"><u>In 2024, In-Depth Breakdown Stream Yourself Successfully via Zoom and YouTube</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-motorola-moto-g14-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Motorola Moto G14 Phone Now with These Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-depth-evaluation-of-anker-soundcore-boom-2-portable-yet-robust-audio-experience-and-rich-low-frequencies/"><u>In-Depth Evaluation of Anker SoundCore Boom 2: Portable Yet Robust Audio Experience & Rich Low Frequencies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g633-not-working-expert-advice-and-fixes-inside/"><u>Logitech G633 Not Working? Expert Advice and Fixes Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-windows-7-audio-a-step-by-step-solution-to-sound-troubles/"><u>Reviving Windows 7 Audio: A Step-by-Step Solution to Sound Troubles</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-overcoming-audio-problems-in-csgo-for-a-seamless-gaming-experience/"><u>Solved! Overcoming Audio Problems in CS:GO for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-mystery-of-silent-mac-computers-techniques-for-bringing-back-audio/"><u>Solving the Mystery of Silent Mac Computers – Techniques for Bringing Back Audio</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-artisans-path-learning-photoshops-powerful-distortion-effects/"><u>The Artisan’s Path Learning Photoshop's Powerful Distortion Effects</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-noisy-meetings-restore-sound-in-zoom-on-your-desktop-computer/"><u>Trouble with Noisy Meetings? Restore Sound in Zoom on Your Desktop Computer</u></a></li>
+</ul></div>
 

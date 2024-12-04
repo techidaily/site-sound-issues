@@ -1,7 +1,7 @@
 ---
 title: "HyperX Cloud Alpha Microphone Malfunction: Solutions & Tips"
-date: 2024-11-24T02:27:14.924Z
-updated: 2024-11-24T16:13:33.518Z
+date: 2024-12-02T23:06:38.688Z
+updated: 2024-12-04T02:46:27.475Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [**Make sure you use the right ports**](https://tools.techidaily.com/drivereasy/download/)
@@ -29,10 +33,6 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 3. [**Re-installing drivers**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Change to DVD quality**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Let Windows find the problem for you**](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Make sure you use the right ports
 
@@ -51,15 +51,11 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
 3. Right-click your**Corsair Virtuoso** and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
 4. Go to the**Levels** tab and drag the slider to a proper volume.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
@@ -87,12 +83,12 @@ There are mainly two ways for you to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/gaming-headset.jpg)
 4. Reboot your PC for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance or the issue persists after updating all the drivers, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Change to DVD quality
 
@@ -102,20 +98,20 @@ There are mainly two ways for you to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings.jpg)
 2. In the**Input** section, click**Device properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/device.jpg)
 3. Click**Additional device properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/additional.jpg)
 4. Go to the**Advanced** tab, and select**DVD Quality** in the**Default Format** section. ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-format.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Let Windows find the problem for you
 
@@ -124,6 +120,10 @@ There are mainly two ways for you to do this:
 1. Right-click the volume button in the notification area, and select**Troubleshoot sound problems** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/troubleshoot.jpg)
 2. Follow the instructions given in the popped-up Help window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. You may need to restart your computer for the changes to take effect.
 
@@ -150,17 +150,18 @@ There are mainly two ways for you to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-how-to-remove-image-background-in-photopea/"><u>[New] In 2024, How to Remove Image Background In Photopea</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-expertise-for-selective-zooming-in-online-conferencing-google-meet/"><u>[Updated] 2024 Approved Expertise for Selective Zooming in Online Conferencing (Google Meet)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-a-step-by-step-approach-for-properly-placing-music-emojis-in-instagram/"><u>2024 Approved A Step-by-Step Approach for Properly Placing Music Emojis in Instagram</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/boost-your-valheim-game-top-strategies-to-combat-low-fps/"><u>Boost Your Valheim Game: Top Strategies to Combat Low FPS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/front-earphone-sock-unresponsive-a-step-by-step-fix-guide/"><u>Front Earphone Sock Unresponsive? A Step-by-Step Fix Guide!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722978294124-get-your-intel-82579v-graphics-card-up-to-date-free-driver-download-now/"><u>Get Your Intel 82579V Graphics Card Up-to-Date: Free Driver Download Now!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-your-game-on-point-with-solved-apex-legends-voice-communication-problems/"><u>Getting Your Game On Point with Solved Apex Legends Voice Communication Problems</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-12-pro-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 12 Pro 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/restoring-erased-social-media-posts-on-facebook/"><u>Restoring Erased Social Media Posts on Facebook</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-a-broken-corsair-soundperfection-mic/"><u>Step-by-Step Solutions for a Broken Corsair SoundPerfection Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-troubleshooting-and-repairing-your-malfunctioning-corsair-void-headset-microphone/"><u>Ultimate Guide: Troubleshooting and Repairing Your Malfunctioning Corsair Void Headset Microphone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-vn-video-editor-for-mac-a-comprehensive-guide-and-alternative-options/"><u>Updated In 2024, VN Video Editor for Mac A Comprehensive Guide and Alternative Options</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-a-comprehensive-look-at-editing-and-uploading-virtual-reality-videos-to-youtube-for-2024/"><u>[New] A Comprehensive Look at Editing and Uploading Virtual Reality Videos to YouTube for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unbeatable-candidates-the-very-best-phones-at-video-recording-for-2024/"><u>[New] Unbeatable Candidates The Very Best Phones at Video Recording for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-proven-methods-for-boosting-video-watchers/"><u>[Updated] In 2024, Proven Methods for Boosting Video Watchers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/bengali-boost-learn-efficiently-live-linguistically/"><u>Bengali Boost: Learn Efficiently, Live Linguistically</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-audio-repair-for-pc-users-eliminate-sound-malfunctions-today/"><u>Easy Audio Repair for PC Users: Eliminate Sound Malfunctions Today</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-realme-12-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Realme 12 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-plus-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Plus To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g-pro-x-microphone-not-working-solved/"><u>Logitech G Pro X Microphone Not Working [Solved]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-windows-11-sound-cutting-out-during-use/"><u>Step-by-Step Fix for Windows 11 Sound Cutting Out During Use</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016924625-trouble-with-your-pcs-mic-on-windows-7-top-fixes-to-get-you-talking-again/"><u>Trouble with Your PC's Mic on Windows 7? Top Fixes to Get You Talking Again!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-call-of-duty-warzone-error-0-1766-for-console-and-computer-players/"><u>Troubleshooting Call of Duty: Warzone - Error 0-1766 for Console & Computer Players</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/use-compatibility-mode-right-click-on-your-desktop-select-personalize-)-themes-)-display-style-)-change-across-all-monitors-)-advanced-scaling-settings-adju675/"><u>Use Compatibility Mode: Right-Click on Your Desktop, Select Personalize > Themes > Display Style > Change Across All Monitors > Advanced Scaling Settings. Adjust Resolution to Ensure Compatibility with Tozo T6.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-speaker-problems-heres-how-you-can-fix-them-easily/"><u>Windows 10 Speaker Problems? Here's How You Can Fix Them Easily!</u></a></li>
 </ul></div>
 

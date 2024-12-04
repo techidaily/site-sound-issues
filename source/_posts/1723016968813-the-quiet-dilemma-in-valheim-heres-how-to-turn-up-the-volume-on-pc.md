@@ -1,7 +1,7 @@
 ---
 title: The Quiet Dilemma in Valheim? Here's How to Turn Up the Volume on PC!
-date: 2024-08-27T21:09:57.616Z
-updated: 2024-08-28T21:09:57.616Z
+date: 2024-12-01T18:47:43.964Z
+updated: 2024-12-03T22:32:25.713Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/dc0976bf992fc8f3795e090c13f66cb1c6f145591
 
 You’re joining an online meeting on Zoom but find the microphone isn’t working and your teammates couldn’t hear you at all? If yes, here are 5 simple but effective fixes to help you with**Zoom microphone not working on Windows 10 and 11** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here is a full list of fixes that helped many Zoom users get their microphone back to work. You may not try them all; just work your way down the list until you find the one that solves your problem.
@@ -26,6 +30,10 @@ You’re joining an online meeting on Zoom but find the microphone isn’t worki
 3. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Modify Zoom’s audio settings](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Zoom](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 – Allow access to your microphone
 
@@ -41,6 +49,10 @@ You’re joining an online meeting on Zoom but find the microphone isn’t worki
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Change** , and make sure Microphone access for this device is**on** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-3.jpg)
@@ -52,6 +64,10 @@ You’re joining an online meeting on Zoom but find the microphone isn’t worki
 **5)** Scroll down to the**Allow desktop apps to access your microphone** section, and make sure to**turn on** this setting.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now that you’ve granted the access, check if your microphone can pick up your voice as intended. If not, please proceed to the next fix.
 
@@ -65,18 +81,6 @@ You’re joining an online meeting on Zoom but find the microphone isn’t worki
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Select**Small icons** from the drop-down menu next to View by. Then, click**Sound.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-2.jpg)
@@ -86,15 +90,17 @@ You’re joining an online meeting on Zoom but find the microphone isn’t worki
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Make sure your microphone is enabled. If not, right-click it and click**Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **5)** Check if your microphone is set as the default device. If not, click it and click**Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
@@ -107,12 +113,13 @@ You’re joining an online meeting on Zoom but find the microphone isn’t worki
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 **8)** Click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After settings are applied as above, your microphone should be working fine. You can simply take a mic test on Zoom to check. If the issue persists, please move on to the next fix.
 
@@ -135,8 +142,9 @@ There are two ways you can update your audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-1-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Click the**Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
@@ -160,11 +168,6 @@ There are two ways you can update your audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 **2)** Click the**Audio** tab, select the right microphone you’re using from the drop-down menu next to Microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-1.jpg)
@@ -173,9 +176,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Click the**Advanced** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4.jpg)
@@ -190,9 +190,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5 – Reinstall Zoom
 
  If none of the solutions above does the trick, you should consider reinstalling Zoom, as this will solve the underlying issues concerning the app itself.
@@ -202,16 +199,13 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/6-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Right-click**Zoom** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/6-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
  Follow the on-screen instructions to complete the uninstallation process. Then, download Zoom from the **[official website](https://zoom.us/download)**  and install a fresh new app on your computer.
 
 ---
@@ -228,8 +222,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -237,4 +229,23 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-address-chromes-problematic-facebook-vids/"><u>[New] Address Chrome's Problematic Facebook Vids</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/aking-the-first-step-on-youtube-account-setup-for-2024/"><u>[New] Taking The First Step on YouTube Account Setup for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-ace-the-green-screen-scene-with-these-tips/"><u>[Updated] 2024 Approved Ace the Green Screen Scene with These Tips</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/comparaison-du-serieux-des-differents-domaines-selon-abbyy-quel-domaine-est-le-plus-rigoureux/"><u>Comparaison Du Sérieux Des Différents Domaines Selon ABBYY : Quel Domaine Est Le Plus Rigoureux ?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-restoring-audio-on-your-astro-a50-speaker-in-a-flash/"><u>Fixing the Issue: Restoring Audio on Your Astro A50 Speaker in a Flash</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-persistent-sound-disruption-issues-in-windows-11-computers/"><u>How to Resolve Persistent Sound Disruption Issues in Windows 11 Computers</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-oneplus-ace-2-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your OnePlus Ace 2 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-the-ultimate-guide-to-inshot-on-pcs-and-laptops/"><u>In 2024, The Ultimate Guide to Inshot on PCs and Laptops</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/pioneering-platform-presence-innovative-square-video-methods-for-2024/"><u>Pioneering Platform Presence Innovative Square Video Methods for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-discord-voice-communication-issues-a-step-by-step-guide/"><u>Resolve Your Discord Voice Communication Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-playback-problems-starting-the-dolby-sound-driver-on-windows-10-successfully/"><u>Resolving Playback Problems: Starting the Dolby Sound Driver on Windows 10 Successfully</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-tunes-troubleshooting-silent-windows-media-player-problems/"><u>Reviving Your Tunes: Troubleshooting Silent Windows Media Player Problems</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/revolutionizing-large-scale-housing-operations-streamlined-invoice-handling-through-abbyys-advanced-technology/"><u>Revolutionizing Large-Scale Housing Operations: Streamlined Invoice Handling Through ABBYY's Advanced Technology</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-resolving-hp-computer-sound-issues-effectively/"><u>Troubleshooting and Resolving HP Computer Sound Issues Effectively</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secrets-of-bambus-a1-slider-mattress-an-expert-review-and-performance-analysis-on-a-full-king-size/"><u>Unveiling the Secrets of Bambu's A1 Slider Mattress - An Expert Review and Performance Analysis on a Full King Size</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-audio-problems-solved-restoring-headphone-functionality/"><u>Windows 10 Audio Problems Solved: Restoring Headphone Functionality</u></a></li>
+</ul></div>
 

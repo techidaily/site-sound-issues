@@ -1,7 +1,7 @@
 ---
 title: "Fast Fixes: Dealing with the Playback Test Tone Error Smoothly and Easily"
-date: 2024-11-22T17:03:02.518Z
-updated: 2024-11-24T17:19:56.111Z
+date: 2024-11-30T04:55:03.269Z
+updated: 2024-12-04T01:32:50.274Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not have to try them all. Simply work down the list until you find the one that does the trick.
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 5. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Change your default playback device**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Change your audio channel](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1:**Check if it’s a video problem**
 
@@ -53,14 +61,19 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 1. On the lower-right corner of your desktop, right-click the**volume icon** and select**Open Volume mixer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/open-volume-mixer.jpg)
 2. In the Volume Mixer window,**hold and drag** the slider for your browser (mine is Chrome) to turn up the volume.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/volume-mixer-hold-and-drag.jpg)
 3. Play your video and see if you hear any sound.
 
- If this method doesn’t fix your problem, please take a look at the next one.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If this method doesn’t fix your problem, please take a look at the next one.
 
 ### Fix 3: **Change to another browser**
 
@@ -71,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
  If the problem persists after changing your browser, please move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4:**Restart your computer**
@@ -79,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
  It may sound silly, but rebooting your computer actually solves many problems. Especially when you’ve kept your PC running for a long period, and some programs start to function improperly. In all cases, a restart resets the current state of a software, and it might just fix your no sound issue at the same time.
 
  If restarting your computer doesn’t help either, please continue to the next method below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5:**Update your audio driver**
 
@@ -103,10 +112,6 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-realtek-audio-driver.jpg)
 
@@ -126,6 +131,10 @@ This method also applies to Windows 10, 8 or 7
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-mmsys-cpl-audio-interface.jpg)
 2. Make sure you’re in the**Playback** tab. Select your desired output device (in my case it’s**Speakers** ) then click**Set default** . Finally, click**OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/set-default-output-device.jpg)
 3. Play some videos and see if it fixed your no sound issue.
 
@@ -144,26 +153,18 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-audio-channel-1.jpg)
 3. For**Audio channels** , select**Stereo** and click**Next** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap108.jpg)
 4. Check the box next to**Front left and right** . Click **Next** to continue.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap109.jpg)
 5. Click **Finish** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap110.jpg)
 6. Play some Facebook videos and see if your problem has disappeared.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -186,20 +187,21 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-video-production-atlas-xstudio-analysis-edition/"><u>[New] 2024 Approved Video Production Atlas XStudio Analysis Edition</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-secrets-to-producing-visually-appealing-fb-promos/"><u>[New] In 2024, Secrets to Producing Visually Appealing FB Promos</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2023-how-to-share-twitter-videos-on-whatsapp-in-2024/"><u>[Updated] 2023 | How to Share Twitter Videos on WhatsApp, In 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-engaging-video-credits-the-best-fonts-for-thumbnails-for-2024/"><u>[Updated] Engaging Video Credits The Best Fonts for Thumbnails for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/5-key-solutions-to-repair-audio-malfunctions-on-windows-10-computers/"><u>5 Key Solutions to Repair Audio Malfunctions on Windows 10 Computers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-steelseries-arctis-prime-microphone-working-again-a-step-by-step-tutorial/"><u>Get Your SteelSeries Arctis Prime Microphone Working Again: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hardware-compatibility-issue-hp-drivers-not-found-on-win1110/"><u>Hardware Compatibility Issue: HP Drivers Not Found on Win11/10</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-efficiently-connect-and-use-a-wd-ses-external-disk-via-new-usb-drivers-windows-2011plus/"><u>How to Efficiently Connect and Use a WD SES External Disk via New USB Drivers (Windows 2011+)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-windows-10-audio-issues-step-by-step-guide/"><u>How to Fix Windows 10 Audio Issues - Step-by-Step Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-itel-p55plus-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Itel P55+ to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restore-your-game-sound-resolving-no-audio-in-hearthstone-issues/"><u>Restore Your Game Sound: Resolving No Audio in Hearthstone Issues</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tech-giants-on-trial-and-triumph-unpacking-googles-antitrust-setback-and-samsungs-strategic-expansion-into-ai-as-top-movers-in-the-2021-innovation-index-ana152/"><u>Tech Giants on Trial and Triumph: Unpacking Google's Antitrust Setback and Samsung's Strategic Expansion Into AI as Top Movers in the 2021 Innovation Index | Analysis</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-speaker-distortion-issues-on-windows-107-a-step-by-step-guide/"><u>Troubleshooting and Fixing Speaker Distortion Issues on Windows 10/7: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-issues-boosting-your-pcs-speakers-on-windows-1/"><u>Troubleshooting Audio Issues: Boosting Your PC's Speakers on Windows 1</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-exploring-the-top-rated-ios-video-capture-apps/"><u>[Updated] Exploring the Top-Rated iOS Video Capture Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-photo-and-video-transfer-blueprint-from-android-to-apple/"><u>[Updated] Photo & Video Transfer Blueprint From Android to Apple</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014494859-easy-audio-repair-for-pc-users-eliminate-sound-malfunctions-today/"><u>Easy Audio Repair for PC Users: Eliminate Sound Malfunctions Today!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-eliminating-logitech-g923-hs-microphone-clicks-a-step-by-step-guide/"><u>Effective Solutions for Eliminating Logitech G923 HS Microphone Clicks : A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/excellent-buys-for-4k-shooting-on-a-budget-(1000/"><u>Excellent Buys for 4K Shooting on a Budget <$1,000</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-wow-voice-chat-back-online-expert-strategies-for-a-smooth-gaming-experience/"><u>Getting Your WoW Voice Chat Back Online - Expert Strategies for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-nonfunctional-speakers-on-a-windows-10-pc-fixed/"><u>How to Repair Nonfunctional Speakers on a Windows 10 PC [FIXED]</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-mini-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 mini to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-11-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 11 Pro Max Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/noise-free-computing-fast-and-effective-troubleshooting-steps/"><u>Noise-Free Computing: Fast & Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-correcting-no-audio-devices-message-for-windows-1087-users-with-headphones-or-speakers/"><u>Solution Steps: Correcting 'No Audio Devices' Message for Windows 10/8/7 Users with Headphones or Speakers</u></a></li>
+<li><a href="https://windows11.techidaily.com/swipe-to-learn-comparing-windows-10-ui-with-windows-11/"><u>Swipe to Learn: Comparing Windows 10 UI with Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essential-checklist-for-using-zoom-on-your-windows-pc-for-2024/"><u>The Essential Checklist for Using Zoom on Your Windows PC for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/transform-your-raw-images-with-darktable-the-complimentary-photo-editor-for-macos-and-linux/"><u>Transform Your RAW Images with Darktable - The Complimentary Photo Editor for macOS & Linux</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-unknown-speaker-configuration-in-windows-10-a-step-by-step-guide/"><u>Troubleshooting Unknown Speaker Configuration in Windows 10: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

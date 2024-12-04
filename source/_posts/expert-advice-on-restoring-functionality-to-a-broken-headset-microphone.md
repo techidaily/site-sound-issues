@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Restoring Functionality to a Broken Headset Microphone
-date: 2024-11-19T23:06:33.854Z
-updated: 2024-11-25T00:17:06.250Z
+date: 2024-11-28T19:30:40.794Z
+updated: 2024-12-04T07:01:46.003Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix CS:GO mic not working
 
@@ -60,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-334.png)
 4. Click to highlight your default microphone and then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-346.png)
 5. On the**Levels** tab, drag the sliders of**Microphone** and**Microphone Boost** to turn up the volume. Just make sure you haven’t muted them or set them to such low levels that you cannot hear the voice yourself. After that, click**OK** to save the changes.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-393.png)
@@ -80,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Disable exclusive control for your microphone
@@ -98,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-346.png)
 5. Go to**Advanced** , and untick the box for**Allow applications to take exclusive control of this device** . After that, click**OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-36.png)
 6. Click**OK** to save the change.
 
@@ -113,19 +109,23 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/image-338.png)
 2. Go to the**Audio Settings** tab and select**Audio** below. Then, pay attention to the related audio settings and make certain they are**turned on** or set to the correct state.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-339.png)
 3. Select**Game Settings** **\> Communication** . Make sure you haven’t muted your friends or others in the game. (This is not necessarily related to your mic, so you may skip this step if you want.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-345.png)
 4. Go to**Controller** . Below you’ll see the item –**Use Mic** . If there’s already a shortcut key assigned to it, then you don’t need to change anything; otherwise please assign a shortcut key to it. (The default key is**K** .)  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-396.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you’re all set, join a squad to see if you can use the mic properly. If not, move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update device drivers
 
@@ -165,7 +165,7 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 4. Steam will verify the game’s files – this process may take several minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you verify that all the cache files are in normal state, please launch CS:GO and check if your mic is working properly this time. In case the problem persists, you should move on to the next fix.
@@ -179,8 +179,17 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 1. On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5ae0331bc08e4-2.png) and **R** at the same time to invoke the Run box. Type**services.msc** and click **OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-363.png)
 2. In the pop-up window, scroll through the list of services to locate**Windows Audio** . Click to highlight this item and click**Restart** in the left pane.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/img_5baf52397a39c.jpg)
 3. Wait for the process to complete and then exit the window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If this fix didn’t help, you might try out the next one.
 
@@ -193,32 +202,20 @@ If this fix didn’t help, you might try out the next one.
 1. On your keyboard, press the**Windows Logo key** ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5ae0331bc08e4-2.png) and**I** at the same time to open the**Settings** window. Then, select**Privacy** and**Microphone** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/win-11-settings-privacy-microphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Check if the Microphone access button is Off. If so, simply turn it**On** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/win-11-settings-privacy-microphone-access.jpg)
 3. Below you’ll see another toggle for**Let apps access your microphone** . Also turn it on if it’s been set to**Off** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/win-11-settings-privacy-microphone-access-1.jpg)
 4. Scroll down and head to the part of**Choose which apps can access your microphone** . You won’t see Steam or CS:GO there but you can toggle on the apps related to your audio output. For instance, if you use Skype to communicate in games, make sure you turn its toggle on.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After making these tweaks, check to see if your mic goes back to normal in CS:GO. If not, there’s still one last fix you may try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 8: Enter ‘voice\_enable 1’
 
@@ -232,10 +229,6 @@ If this fix didn’t help, you might try out the next one.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-417.png)
 
 Test your mic in the game and see if it works properly now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 9: Repair corrupted system files
 
@@ -258,6 +251,11 @@ Here’s how to use Fortect to repair system files on your PC:
 3. Once finished, Fortect will generate a detailed report of your computer health, which includes all issues detected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 4. To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Restart your computer for the changes to take effect.
 6. Check your computer to see if the issue is fixed.
 
@@ -276,6 +274,10 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-3.png)
 4. When the process is completed, reboot your computer and test if the issue still exists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files, so please be patient.
 
@@ -301,24 +303,21 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-fusing-data-and-design-for-dynamic-fb-video-campaigns-for-2024/"><u>[New] Fusing Data & Design for Dynamic FB Video Campaigns for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-merging-youtube-melodies-in-cinematic-pieces-for-2024/"><u>[New] Merging YouTube Melodies in Cinematic Pieces for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-unmatched-fast-picture-viewer-experience/"><u>[Updated] 2024 Approved Unmatched Fast Picture Viewer Experience</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-media-best-twittersave-converters/"><u>2024 Approved Mastering Media Best Twittersave Converters</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/2024s-definitive-manual-to-resolving-and-preventing-discord-audio-disruptions/"><u>2024'S Definitive Manual to Resolving and Preventing Discord Audio Disruptions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015659266-chrome-sound-not-working-heres-how-you-can-get-your-audio-back/"><u>Chrome Sound Not Working? Here's How You Can Get Your Audio Back</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/como-convertir-archivo-wmv-a-formato-mp4-sin-coste-guia-para-windows-y-mac/"><u>Cómo Convertir Archivo WMV a Formato MP4 Sin Coste: Guía Para Windows Y Mac</u></a></li>
-<li><a href="https://win-webster.techidaily.com/elevate-your-command-mastering-the-art-of-god-mode-on-windows-11-essential-tips-and-motivations-explained-by-zdnet/"><u>Elevate Your Command: Mastering the Art of God Mode on Windows 11 – Essential Tips and Motivations Explained by ZDNET</u></a></li>
-<li><a href="https://driver-download.techidaily.com/epson-tm-t88v-printer-management-download-and-upgrade-windows-drivers-now/"><u>EPSON TM-T88V Printer Management: Download & Upgrade Windows Drivers Now</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-on-restoring-your-beyond-the-wire-microphone-to-full-functionality/"><u>Expert Tips on Restoring Your 'Beyond The Wire' Microphone to Full Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-mode-resolved-chrome-audio-issues/"><u>Fixing Silent Mode: Resolved Chrome Audio Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-immeditely-resolve-fortnite-voice-chat-problems-and-reconnect-with-friends/"><u>How to Immeditely Resolve Fortnite Voice Chat Problems and Reconnect with Friends</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/vesting-in-a-monthly-youtube-premium-worthwhile/"><u>Is Investing in a Monthly YouTube Premium Worthwhile?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/never-miss-a-beat-with-your-health-a-comprehensive-guide-to-fitbit-inspire-hr-trackers-round-the-clock-features/"><u>Never Miss a Beat with Your Health: A Comprehensive Guide to Fitbit Inspire HR Tracker's Round-the-Clock Features</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-hyperx-cloud-alpha-microphone-problems-effective-solutions/"><u>Overcoming HyperX Cloud Alpha Microphone Problems: Effective Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solution-how-to-repair-an-unresponsive-astro-a20-microphone/"><u>Quick Solution: How to Repair an Unresponsive Astro A20 Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quiet-quests-no-more-bringing-volume-to-world-of-warcraft/"><u>Quiet Quests No More: Bringing Volume to World of Warcraft</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-by-step-inserting-chapters-into-your-youtube-content-for-2024/"><u>Step-by-Step Inserting Chapters Into Your YouTube Content for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-to-restore-audio-output-with-nvidias-hd-system/"><u>Troubleshooting Steps to Restore Audio Output with Nvidia's HD System</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rafting-engaging-channels-using-tubebuddys-framework-for-2024/"><u>[New] Crafting Engaging Channels Using TubeBuddy's Framework for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-vlog-trendsetter-2024/"><u>[New] Vlog Trendsetter 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016986976-solved-jabra-headset-not-working-2024-guide/"><u>[SOLVED] Jabra Headset Not Working – 2024 Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-complete-itunes-users-manual-recording-for-2024/"><u>[Updated] The Complete iTunes User's Manual (Recording) for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-vlc-challenge-against-mx-player-for-2024/"><u>[Updated] VLC Challenge Against MX Player for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-digital-tools-and-devices-toms-hardware-wisdom/"><u>Expert Analysis on Digital Tools and Devices: Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-honor-play-40c-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Honor Play 40C Devices</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/insta-rotation-rituals-mastering-angles-that-engage-captivate-and-amaze-for-2024/"><u>Insta Rotation Rituals Mastering Angles that Engage, Captivate, and Amaze for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017029051-quick-and-simple-guide-to-effective-mic-checks/"><u>Quick and Simple Guide to Effective Mic Checks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016628724-runmus-gaming-mic-not-working-follow-this-step-by-step-troubleshooting-guide-to-restore-functionality/"><u>RUNMUS Gaming Mic Not Working? Follow This Step-by-Step Troubleshooting Guide to Restore Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-audio-problems-a-comprehensive-2024-manual-for-fixing-discords-echo-effect-on-windows-and-mac/"><u>Solve Audio Problems: A Comprehensive 2024 Manual for Fixing Discord's Echo Effect on Windows and Mac</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-on-screen-sounds-glitches-a-step-by-step-guide/"><u>Solving On-Screen Sounds Glitches: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-pinnacle-of-iphone-photography-finding-ultimate-angles-for-2024/"><u>The Pinnacle of iPhone Photography Finding Ultimate Angles for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-logitech-g430-microphone-solutions-to-common-connectivity-issues/"><u>Troubleshooting Your Logitech G430 Microphone: Solutions to Common Connectivity Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016500663-troubleshooting-speaking-up-in-fortnite-when-your-mic-fails/"><u>Troubleshooting: Speaking Up in Fortnite When Your Mic Fails</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-streamlining-creativity-top-10-plugin-essentials-for-efficient-media-production/"><u>Updated In 2024, Streamlining Creativity Top 10 Plugin Essentials for Efficient Media Production</u></a></li>
 </ul></div>
 

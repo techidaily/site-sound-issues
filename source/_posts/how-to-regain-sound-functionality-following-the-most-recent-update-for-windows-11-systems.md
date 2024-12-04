@@ -1,7 +1,7 @@
 ---
 title: How to Regain Sound Functionality Following the Most Recent Update for Windows 11 Systems
-date: 2024-11-17T22:55:55.680Z
-updated: 2024-11-24T16:29:40.378Z
+date: 2024-12-02T02:14:51.356Z
+updated: 2024-12-03T21:51:24.992Z
 tags:
   - win11
   - win10
@@ -36,19 +36,11 @@ When you’re trying to trick your friends by changing your voice in Discord, Zo
 6. **[Overwrite current version with fresh install](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Scan and repair your system](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your PC
 
  In some way,**a restart of your computer** could address software conflicts and fix some faulty settings. Also, some changes might need a reboot to take effect. Restart your PC should always be your first step when troubleshooting voice issues — You’d be surprised how often the “turn it off and turn it back on again” trick works.
 
  If restarting your computer doesn’t give you luck, simply check out the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Make sure your mic is set up properly
 
@@ -59,22 +51,19 @@ You can follow these steps to check:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click**System** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/windows-settings-system-sound-1.jpg)
 2. From the left menu, click**Sound** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/windows-settings-click-sound.jpg)
 3. First you need to test your microphone. Under the**Input** section, set your input device to the**physical one (e.g. Headset)** instead of the virtual Microphone of Voicemod. Then click**Device properties and test microphone** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/voicemod-test-mic-1.jpg)
 4. Make sure you’ve **unchecked the box** next to **Disable** , and the slider under the **Volume** section is set to **100** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
 5. Click **Start test** and tap or speak to your microphone. Then click **Stop test** . If you’re prompted **The highest value we saw was xx (xx>0) percent** , it means your microphone is working correctly.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/test-mic-new.jpg)
 6. At the bottom right corner of your screen, right-click the sound icon and select**Sounds** .  
@@ -82,11 +71,15 @@ You can follow these steps to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bottom-right-corner-sounds.jpg)
 7. Navigate to the**Recording** tab, double click your physical microphone to view its properties.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/sound-recording-double-click-input-device.jpg)
 8. In the pop-up window, navigate to the**Advanced** tab. In the**Default Format** section, check if you can select the sample rate. If yes, change it to**2 channel, 16 bit, 44100 Hz (CD quality)** . Click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/internal-microphone-advanced-default-format-sample-rate-new.jpg)
@@ -99,7 +92,7 @@ Now you can restart Voicemod and see if it’s working.
 If the problem is still there, you can take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Check settings of the target program
@@ -112,6 +105,10 @@ Here’s an example of Discord:
 2. In the left pane, select**Voice & Video** . Under**INPUT DEVICE** , click and select**Microphone (Voicemod Virtual Audio Device (WDM))** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/discord-voicemod-settings.jpg)
 3. Now you can check if Voicemod is working correctly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If this doesn’t work for you, simply move on to the next fix.
 
@@ -146,6 +143,10 @@ First you need to uninstall the Voicemod driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-voicemod-update-all.jpg)
 
@@ -154,7 +155,7 @@ First you need to uninstall the Voicemod driver:
  Once you’ve installed the Voicemod driver, restart your PC and see if you can change your voice with Voicemod.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Make sure Windows is up to date
@@ -169,10 +170,6 @@ Here’s a quick guide for that:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To make sure you’ve installed **all**  the system updates, repeat these steps until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once complete, restart your PC and check if Voicemod is working correctly.
@@ -180,7 +177,7 @@ Here’s a quick guide for that:
 If this fix doesn’t work for you, simply try the next one below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Overwrite current version with fresh install
@@ -188,6 +185,10 @@ If this fix doesn’t work for you, simply try the next one below.
  Some users reported that reinstalling could fix the Voicemod issue. You can try the same and see if this works. Note that this time we’re taking a different approach—instead of uninstalling, we just**overwrite the current version with the latest** .
 
  To do so, simply go to the[**Voicemode website**](https://www.voicemod.net/) and download the latest installer. Next open it and follow the on-screen instructions to proceed. This will automatically overwrite the previous build.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Scan and repair your system
 
@@ -223,16 +224,24 @@ If this fix doesn’t work for you, simply try the next one below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-jokejuxtaposer-quickly-craft-memes-for-all-occasions/"><u>[Updated] JokeJuxtaposer Quickly Craft Memes for All Occasions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-auditory-glitches-while-playing-outriders-effective-strategies-inside/"><u>Fixing Auditory Glitches While Playing Outriders - Effective Strategies Inside!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-se-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone SE Backup Password? Heres What to Do | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/hide-and-seek-with-fb-episodes-for-2024/"><u>Hide-and-Seek with FB Episodes for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-color-theory-and-practical-application-techniques/"><u>In 2024, The Ultimate Guide to Color Theory and Practical Application Techniques</u></a></li>
-<li><a href="https://review-topics.techidaily.com/lava-blaze-2-pro-video-recovery-recover-deleted-videos-from-lava-blaze-2-pro-by-fonelab-android-recover-video/"><u>Lava Blaze 2 Pro Video Recovery - Recover Deleted Videos from Lava Blaze 2 Pro</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/microphone-not-picking-up-voice-solved/"><u>Microphone Not Picking up Voice [Solved]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-hdmi-connection-problems-when-your-device-is-in-use-by-other-software/"><u>Resolving HDMI Connection Problems When Your Device Is in Use by Other Software</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-oculus-rift-s-headset-audio-glitches-quickly-5-proven-techniques-for-2-groggy-morning-users/"><u>Resolving Oculus Rift S Headset Audio Glitches Quickly: 5 Proven Techniques for 2 Groggy Morning Users .</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transferring-tactics-swiftly-send-files-to-devices-for-2024/"><u>Transferring Tactics Swiftly Send Files to Devices for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/what-to-do-when-your-nvidia-isnt-plugged-in-essential-repair-techniques/"><u>What To Do When Your Nvidia Isn't Plugged In? Essential Repair Techniques</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-essential-guide-to-twitters-video-converters/"><u>[New] In 2024, The Essential Guide to Twitters Video Converters</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-obs-direct-stream-to-instagram/"><u>[New] OBS Direct Stream to Instagram</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-from-undiscovered-to-famous-the-seo-playbook-for-your-podcast/"><u>[Updated] 2024 Approved From Undiscovered to Famous The SEO Playbook for Your Podcast</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-choreograph-cheeky-comics-via-giphy/"><u>[Updated] Choreograph Cheeky Comics via Giphy</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-magic-box-inside-a-top-tier-vr-device/"><u>[Updated] The Magic Box Inside a Top-Tier VR Device</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-hidden-layers-of-personal-information/"><u>2024 Approved Hidden Layers of Personal Information</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-premier-eco-friendly-camera-systems-for-filmmakers/"><u>2024 Approved Premier Eco-Friendly Camera Systems for Filmmakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/experiencing-no-audio-from-your-connected-bluetooth-device-find-out-how-to-resolve-it/"><u>Experiencing No Audio From Your Connected Bluetooth Device - Find Out How to Resolve It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-solutions-how-to-repair-broken-sound-on-your-windows-10-system/"><u>Expert Solutions: How to Repair Broken Sound on Your Windows 10 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-headphone-popping-sounds-instantly-simple-solutions/"><u>Fix Headphone Popping Sounds Instantly: Simple Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-distorted-audio-while-playing-cyberpunk-2077-effective-solutions-unveiled/"><u>Fixing Distorted Audio While Playing Cyberpunk 2077 - Effective Solutions Unveiled</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-logitech-g533-headset-when-the-mic-wont-work-anymore/"><u>How to Repair Your Logitech G533 Headset When the Mic Won't Work Anymore</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-those-irritating-cracks-in-your-headphones/"><u>Quick Fixes for Those Irritating Cracks in Your Headphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tips-for-restoring-sound-capabilities-in-faulty-razer-seiren-headsets/"><u>Tips for Restoring Sound Capabilities in Faulty Razer Seiren Headsets</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-ranking-wireless-mouse-picks-for-234-comprehensive-review/"><u>Top-Ranking Wireless Mouse Picks for 2^34: Comprehensive Review</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-lack-of-audio-during-zoom-calls-on-your-computer/"><u>Troubleshooting Steps: Resolving Lack of Audio During Zoom Calls on Your Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-educational-savings-score-a-free-150-apple-gift-card-when-purchasing-an-ipad-or-mac-for-classroom-use/"><u>Unlock Educational Savings: Score a Free $150 Apple Gift Card When Purchasing an iPad or Mac for Classroom Use</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10s-forgotten-ui-elements-now-showing-up/"><u>Win10's Forgotten UI Elements: Now Showing Up</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-7-and-audio-malfunctions-fixing-headphone-connectivity-problems/"><u>Windows 7 and Audio Malfunctions: Fixing Headphone Connectivity Problems</u></a></li>
 </ul></div>
 

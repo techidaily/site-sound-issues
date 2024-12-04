@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Sounds Silent? Here's How You Can Restore the Audio.
-date: 2024-08-27T21:09:48.098Z
-updated: 2024-08-28T21:09:48.098Z
+date: 2024-11-30T18:48:25.280Z
+updated: 2024-12-04T01:25:24.557Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ Before you start, make sure your headset is working properly.
 4. [**Update your Windows system**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Repair system files**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Enable Enhance audio
 
  If you have sound issues or can’t bear an awful sound that goes through your headset, this simple trick may help. We don’t know the mechanism behind the trick yet, but many users have proved it’s a working fix.
@@ -37,14 +41,20 @@ Before you start, make sure your headset is working properly.
 2. Go to**System > Sound > All sound devices** and choose your device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound1.jpg)
 3. Scroll down to find**Enhance audio** . Turn Enhance audio on and then back off.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound2.jpg)
 4. Check your PC sound, it should be back to normal.
 
 If this trick doesn’t work for you, please move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Update your audio driver
 
  The Windows 11 no sound issue and other audio issues are usually caused by drivers. Outdated drivers or missing drivers are the reason for many PC problems. To fix it, you need to find the latest and compatible driver for your devices.
@@ -55,9 +65,6 @@ If this trick doesn’t work for you, please move to the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
@@ -69,8 +76,9 @@ If this trick doesn’t work for you, please move to the next fix.
 If this fix doesn’t help, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Realtek driver issue
 
  If you have Realtek audio on your PC, this fix might be the right one for you. Realtek driver is sometimes corrupted on Windows 11 and it can lead to Windows 11 no sound or other audio issues. Here’s how to fix it.
@@ -80,19 +88,20 @@ If this fix doesn’t help, move to the next fix.
 2. Expand**Sound, video and game controllers** . Find**Realtek audio** and right-click on it. Choose**Update driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound4.jpg)
 3. Click**Browse my computer for drivers** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound5.jpg)
 4. Click**Let me pick from a list of available drivers on my computer** .  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound6.jpg)
 5. Check**Show compatible hardware** . Then click**High Definition Audio Device** \>**Next** .  
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound7.jpg)
 6. Click**Yes** in the pop-up window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound8.jpg)
@@ -109,6 +118,10 @@ If this fix doesn’t help, move to the next fix.
 3. Windows will check the latest available updates for you. If you have available updates, Windows 11 will download and install them automatically.
 4. After the whole process, restart your PC and check the effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Repair system files
 
  If important Windows files in your PC are corrupted or missing, your PC will have problems, no sound or audio issues might be one of them. In this case, you’ll need to find and repair corrupted system files.  
@@ -120,17 +133,10 @@ If this fix doesn’t help, move to the next fix.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -142,8 +148,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +155,26 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-unearthed-echo-collectors-best-unnoticed-android-and-ios-recorders/"><u>[New] In 2024, Unearthed Echo Collectors Best Unnoticed Android & iOS Recorders</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-premium-hd-recorder-capabilities-for-2024/"><u>[New] Premium HD Recorder Capabilities for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-crescendo-camera-making-music-videos-on-mobile-devices/"><u>[New] The Crescendo Camera Making Music Videos on Mobile Devices</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1-restore-lost-files-top-techniques-for-retrieving-data-from-a-damaged-usb/"><u>1. Restore Lost Files: Top Techniques for Retrieving Data From a Damaged USB</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetooth-pairing-success-but-silent-uncover-the-fixes/"><u>Bluetooth Pairing Success, but Silent: Uncover the Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discovering-the-future-with-ios-18-the-top-five-features-from-wwdc-2024-and-the-dawn-of-ai-integration/"><u>Discovering the Future with iOS 18: The Top Five Features From WWDC 2024 and the Dawn of AI Integration</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-silent-zoom-calls-on-your-computer/"><u>Effective Fixes for Silent Zoom Calls on Your Computer</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-motorola-edge-40-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Motorola Edge 40 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/navigating-sound-challenges-in-resident-evil-village-a-step-by-step-solution-guide/"><u>Navigating Sound Challenges in Resident Evil Village – A Step-by-Step Solution Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/optimal-mics-tailored-to-youtube-professionals-for-2024/"><u>Optimal Mics Tailored to YouTube Professionals for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-high-cpu-conundrum-in-setup-systems/"><u>Overcoming the High CPU Conundrum in Setup Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/personalize-your-casting-experience-setting-new-chromecast-wallpaper/"><u>Personalize Your Casting Experience: Setting New Chromecast Wallpaper</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pubg-voice-chat-not-functioning-expert-advice-to-restore-it/"><u>PUBG Voice Chat Not Functioning? Expert Advice to Restore It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-audio-latency-troubles-expert-tips-and-techniques-2024-edition/"><u>Resolve Your Audio Latency Troubles - Expert Tips and Techniques, 2024 Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-reactivating-the-voice-chat-feature-in-phasmophobia/"><u>Solution Steps: Reactivating the Voice Chat Feature in Phasmophobia</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solutions-for-when-your-blue-yeti-mic-wont-work-expert-tips-and-tricks/"><u>Solutions For When Your Blue Yeti Mic Won’t Work: Expert Tips And Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-airpods-microphone-failure-in-windows-10-with-easy-fixes/"><u>Solve 'AirPods Microphone Failure' In Windows 10 with Easy Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-story-of-facebook-how-it-came-to-be-why-users-love-it-and-what-sets-it-apart/"><u>The Story of Facebook: How It Came To Be, Why Users Love It, and What Sets It Apart</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-repair-guide-solving-beyond-the-bluetooth-microphone-malfunction-issues/"><u>Ultimate Repair Guide: Solving 'Beyond the Bluetooth - Microphone Malfunction' Issues</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Malfunctioning Razer Kraken Headset Microphone
-date: 2024-11-22T03:18:40.792Z
-updated: 2024-11-24T17:59:43.199Z
+date: 2024-11-30T04:36:21.534Z
+updated: 2024-12-03T23:20:42.665Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -57,14 +57,10 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 5. Click**OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you can test your microphone by recording your own voice using some voice apps such as Voice Recorder. If the Virtuoso mic works now, you can just join a league and enjoy talking with your teammates. But if the Corsaire mic is still not working, you can try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Re-installing drivers
 
@@ -81,20 +77,20 @@ There are mainly two ways for you to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now.jpg)
 3. Click the**Update** button next to the flagged**Corsaire Virtuoso** driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/gaming-headset.jpg)
 4. Reboot your PC for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance or the issue persists after updating all the drivers, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Change to DVD quality
@@ -108,14 +104,18 @@ There are mainly two ways for you to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/device.jpg)
 3. Click**Additional device properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/additional.jpg)
 4. Go to the**Advanced** tab, and select**DVD Quality** in the**Default Format** section. ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-format.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Let Windows find the problem for you
 
@@ -149,20 +149,22 @@ There are mainly two ways for you to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-how-to-become-a-youtube-partner-you-need-10000-views-now/"><u>[New] 2024 Approved How to Become a YouTube Partner - You Need 10,000 Views Now!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-hd-to-breathtaking-eizos-newest-4k-display/"><u>[Updated] From HD to Breathtaking EIZO's Newest 4K Display</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enhance-viewer-engagement-the-top-6-methods-for-higher-youtube-audience-retention/"><u>[Updated] In 2024, Enhance Viewer Engagement The Top 6 Methods for Higher YouTube Audience Retention</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-tumblr-image-format-specifications/"><u>[Updated] Tumblr Image Format Specifications</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/adapting-financial-management-tactics-to-navigate-todays-new-normal-proven-approaches/"><u>Adapting Financial Management Tactics to Navigate Today's 'New Normal': Proven Approaches</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-solutions-to-fix-your-logitech-g230-microphone-and-get-it-up-and-running-again/"><u>DIY Solutions to Fix Your Logitech G230 Microphone and Get It Up and Running Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/five-effective-solutions-to-get-your-razer-headset-mic-working-again/"><u>Five Effective Solutions to Get Your Razer Headset Mic Working Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/headset-mic-problems-heres-how-to-get-your-audio-working-again/"><u>Headset Mic Problems? Here's How to Get Your Audio Working Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-solve-common-microphone-errors-in-windows-7-systems-easily/"><u>How to Solve Common Microphone Errors in Windows 7 Systems Easily</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-samsung-galaxy-a24-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Samsung Galaxy A24 to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-crafting-excellence-in-instagram-grids-with-these-elite-tools/"><u>In 2024, Crafting Excellence in Instagram Grids with These Elite Tools</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/league-of-legends-communication-problems-solved-restore-your-voice-chat/"><u>League of Legends Communication Problems Solved - Restore Your Voice Chat!</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-art-of-piecing-together-digital-images-for-2024/"><u>The Art of Piecing Together Digital Images for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-iphone-sound-malfunctions-restore-crystal-clear-audio/"><u>Troubleshooting iPhone Sound Malfunctions – Restore Crystal Clear Audio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/wrangling-your-tunes-troubleshooting-and-fixing-stuttering-bluetooth-sound-quality-on-modern-windows-machines/"><u>Wrangling Your Tunes: Troubleshooting and Fixing Stuttering Bluetooth Sound Quality on Modern Windows Machines</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-comprehensible-walkthrough-finding-your-youtube-remarks-for-2024/"><u>[New] A Comprehensible Walkthrough Finding Your YouTube Remarks for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-live-webcam-capture-in-vlc-media-player/"><u>[New] In 2024, Live Webcam Capture in VLC Media Player</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-capture-and-relive-your-favorite-moments-anywhere-anytime-the-best-in-free-video-downloaders-for-youtubes/"><u>[Updated] In 2024, Capture and Relive Your Favorite Moments Anywhere, Anytime The Best in Free Video Downloaders for YouTubes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-your-guide-to-dream-job-realization/"><u>ChatGPT: Your Guide to Dream Job Realization</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-no-audio-issues-on-your-hp-device-running-windows-11/"><u>Fixing No Audio Issues on Your HP Device Running Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/headphone-malfunction-in-windows-11-expert-tips-to-restore-functionality/"><u>Headphone Malfunction in Windows 11? Expert Tips to Restore Functionality</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-through-tech-troubles-effective-solutions-for-error-43-rectification/"><u>Navigating Through Tech Troubles: Effective Solutions for Error 43 Rectification</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/oculus-quest-2-troubleshooting-resolving-mic-connectivity-problems/"><u>Oculus Quest 2 Troubleshooting: Resolving Mic Connectivity Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-kraken-microphone-troubleshooting-guide-problem-solved/"><u>Razer Kraken Microphone Troubleshooting Guide - Problem Solved!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-speakers-resolving-non-functioning-sound-in-hp-notebooks-with-windows-10/"><u>Reviving Speakers: Resolving Non-Functioning Sound in HP Notebooks with Windows 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-prices-with-confidence-secure-the-atomi-alpha-electric-scooter-now-for-just-300-less-shop-smart-on-zdnet/"><u>Slash Prices with Confidence: Secure the Atomi Alpha Electric Scooter Now for Just $300 Less! Shop Smart on ZDNET</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-issues-identifying-and-setting-up-unknown-speakers-on-windows-10/"><u>Solving Audio Issues: Identifying and Setting Up Unknown Speakers on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sound-is-not-working-on-laptop-fixed/"><u>Sound Is Not Working on Laptop [Fixed]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-eliminating-whirring-or-buzzing-from-headphone-audio/"><u>Step-by-Step Guide: Eliminating Whirring or Buzzing From Headphone Audio</u></a></li>
+<li><a href="https://article-files.techidaily.com/streaming-wars-the-ultimate-twitch-vs-youtube-battle/"><u>Streaming Wars The Ultimate Twitch Vs. YouTube Battle</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-asus-rog-phone-7-ultimate-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
 </ul></div>
 

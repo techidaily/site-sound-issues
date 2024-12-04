@@ -1,7 +1,7 @@
 ---
 title: Dismantling the Problems with an Unscannable Epson in Windows 11
-date: 2024-11-18T02:20:10.874Z
-updated: 2024-11-24T18:56:07.910Z
+date: 2024-12-01T17:30:24.073Z
+updated: 2024-12-04T03:22:21.016Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why is my HP scanner not working?
 
@@ -56,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Enable Windows Image Acquisition (WIA) service and associated services
 
 **Windows Image Acquisition** **(WIA)** is a Microsoft model that allows graphics software to communicate with imaging hardware such as scanners and cameras. So you should enable WIA service in your computer if your scanner stops working. Here’s what you need to do:
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 4. In the popup pane, ensure the**Startup type** is set**Automatic** , and the**Service status** is**Running** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd168549db26.jpg)  
@@ -81,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
 5. Click**Apply** and**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1688e0055e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then restart your computer. Try to use your HP scanner again and see if it works now.
 
@@ -95,16 +91,16 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1678201865.jpg)
 3. Ensure these services are set to**Automatic** and the**Service status** is**Running** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
    * **Remote Procedure Call RPC**  
    * **DCOM Server Process Launcher**  
    * **RPC Endpoint Mapper**  
    * **Shell Hardware Detection**  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd169897b1a1.jpg)  
    **INFORMATION:**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
     The**Windows Image Acquisition (WIA)** service is dependent upon the**Shell Hardware Detection Service** , while the**Shell Hardware Detection Service** is dependent upon these services: Remote Procedure Call RPC, DCOM Server Process Launcher, and RPC Endpoint Mapper.
 4. Save the changes and try your scanner again to see if it works.
@@ -135,6 +131,10 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/update-dell-touchpad-driver.jpg.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -143,6 +143,10 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 Then try scanning with your scanner to see if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware problems
 
@@ -160,6 +164,10 @@ Then try scanning with your scanner to see if it works.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Run System File Checker
 
  System File Checker (SFC) is a built-in Windows feature that scans corrupted system files and repairs it automatically.
@@ -170,10 +178,6 @@ Then try scanning with your scanner to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0319454560.jpg)
 2. In Command Prompt, type the following command, then press**Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd031d993e59.jpg)
 3. Then wait for**Verification 100% complete** . This can take a while.
@@ -181,7 +185,7 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd036dad46be.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Restart your computer and see if your scanner begins to work.
@@ -195,10 +199,6 @@ To fix your issues, follow the steps below to run a full scan of your PC:
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.
 
@@ -224,24 +224,21 @@ To fix your issues, follow the steps below to run a full scan of your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-picture-paradise-expertly-selected-plugins-and-sites-for-frame-upgrades/"><u>[New] In 2024, Picture Paradise Expertly Selected Plugins & Sites for Frame Upgrades</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-stand-out-and-thrive-strategies-for-staff-recognition-at-vimeo-for-2024/"><u>[New] Stand Out and Thrive Strategies for Staff Recognition at Vimeo for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-stardews-ultimate-customization-guide-the-top-7-mods-listed/"><u>[Updated] Stardew's Ultimate Customization Guide The Top 7 Mods Listed</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-the-ultimate-insights-for-successful-short-video-creation/"><u>2024 Approved The Ultimate Insights for Successful Short Video Creation</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/deciphering-gopros-top-cameras-max-vs-hero-11-showdown/"><u>Deciphering GoPro's Top Cameras Max Vs. Hero 11 Showdown</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-lava-yuva-2-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Lava Yuva 2 Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-microphone-management-in-mpow-software-tips-to-overcome-audio-hurdles-on-pc/"><u>Mastering Microphone Management in MPOW Software: Tips to Overcome Audio Hurdles on PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015629861-mastering-windows-media-player-sound-settings-avoid-silence-with-these-proven-fixes/"><u>Mastering Windows Media Player Sound Settings - Avoid Silence with These Proven Fixes!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-voice-or-mic-revive-call-of-duty-warzone-communication-on-pc-and-gaming-consoles-today/"><u>No Voice or Mic? Revive Call of Duty: Warzone Communication on PC and Gaming Consoles Today!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-the-roar-of-victory-resolving-fortnites-sound-problems-easily/"><u>Revive the Roar of Victory: Resolving Fortnite's Sound Problems Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-converting-and-playing-mkv-files-on-the-xbox-360/"><u>Step-by-Step Guide: Converting & Playing MKV Files on the Xbox 360</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-your-logitech-g430-mic-heres-how-you-can-get-it-up-and-running-again/"><u>Trouble with Your Logitech G430 Mic? Here's How You Can Get It up and Running Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-your-astro-a5asters-mic-expert-tips-for-clear-audio/"><u>Troubleshoot and Fix Your Astro A5aster's Mic: Expert Tips for Clear Audio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-distortion-and-stuttering-in-windows-107-expert-fixes-revealed/"><u>Troubleshooting Audio Distortion & Stuttering in Windows 10/7 – Expert Fixes Revealed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-discord-solutions-for-resolving-audio-issues/"><u>Troubleshooting Discord: Solutions for Resolving Audio Issues</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-your-pc-with-the-newest-msi-b35b350-tomahorse-drivers-ideal-for-windows-11-and-7-systems/"><u>Update Your PC with the Newest MSI B35ˈB350 TOMAHORSE Drivers: Ideal for Windows 11 & 7 Systems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016774190-winning-strategies-for-repairing-audio-on-a-windows-10-pc-all-issues-addressed/"><u>Winning Strategies for Repairing Audio on a Windows 10 PC - All Issues Addressed!</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/1-how-effective-is-windows-defender-in-guarding-your-pc-from-malware-insights-by-yl-computing/"><u>1. How Effective Is Windows Defender in Guarding Your PC From Malware: Insights by YL Computing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-beginners-blueprint-for-winning-animation-in-windows/"><u>2024 Approved The Beginner’s Blueprint for Winning Animation in Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-issues-with-your-sound-blaster-mic/"><u>Diagnosing and Repairing Issues with Your Sound Blaster Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solutions-why-isnt-my-sound-blaster-mic-working/"><u>DIY Solutions: Why Isn't My Sound Blaster Mic Working?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-repairing-the-non-working-microphone-on-your-hyperx-cloud-alpha-headset/"><u>Expert Tips for Repairing the Non-Working Microphone on Your HyperX Cloud Alpha Headset</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Google Pixel 7a? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Tecno Camon 20? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-charting-your-youtube-trajectory-essential-tools-from-social-blade/"><u>In 2024, Charting Your YouTube Trajectory Essential Tools From Social Blade</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-8-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 8</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-challenges-with-overwatch-voip-how-to-fix-the-stubborn-push-to-talk-glitch/"><u>Overcoming Challenges with Overwatch VoIP: How to Fix the Stubborn Push-to-Talk Glitch</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-underwhelming-computer-volume-tips-for-a-louder-windows-10-experience/"><u>Resolving Underwhelming Computer Volume: Tips for a Louder Windows 10 Experience</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/social-synergy-optimizing-your-facebook-linkedin-and-youtube-strategy/"><u>Social Synergy: Optimizing Your Facebook, LinkedIn, and YouTube Strategy</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-changing-icons-in-your-flipboard-toolbar/"><u>Step-by-Step Guide: Changing Icons in Your FlipBoard Toolbar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-remedy-for-when-your-steelseries-arctis-pro-headsets-mic-fails-you/"><u>Step-by-Step Remedy for When Your SteelSeries Arctis Pro Headset's Mic Fails You</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-restore-dell-speaker-functionality-a-step-by-step-guide/"><u>Troubleshoot and Restore Dell Speaker Functionality: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-fixing-the-jscriptdll-missing-error-in-windows/"><u>Understanding and Fixing the jscript.dll Missing Error in Windows</u></a></li>
 </ul></div>
 

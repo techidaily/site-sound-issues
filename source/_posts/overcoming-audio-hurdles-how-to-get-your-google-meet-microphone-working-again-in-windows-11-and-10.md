@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Audio Hurdles: How to Get Your Google Meet Microphone Working Again in Windows 11 and 10"
-date: 2024-08-27T21:10:05.919Z
-updated: 2024-08-28T21:10:05.919Z
+date: 2024-11-27T06:30:08.228Z
+updated: 2024-12-04T06:38:03.300Z
 tags:
   - win11
   - win10
@@ -50,8 +50,9 @@ thumbnail: https://thmb.techidaily.com/c834e1885a4b3f3f1ee7dd2c9fc2dd5ec6f5c9eae
  Restart your computer for the changes to take full effect. If the driver update doesn’t give you luck, there are more fixes to try.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2 – Allow access to your microphone
 
  To make your microphone work normally, it’s also necessary to allow the operating system, browser and apps to use your microphone. Make sure to turn on the permission especially if you’ve just connected a new mic to your computer. Here are the steps:
@@ -59,19 +60,17 @@ thumbnail: https://thmb.techidaily.com/c834e1885a4b3f3f1ee7dd2c9fc2dd5ec6f5c9eae
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the Settings menu. Select**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-2.jpg)
 2. Select**Microphone** . Then on the right pane, click the**Change** button and turn Microphone access for this device to**On** .  
+
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 3. Scroll down and make sure the button under**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** is set to**On** . This makes it possible for your browser to access the microphone.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
 
  When you complete the steps, check if Google Meet can pick up your voice. If not, move on to the next method below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### Fix 3 – Check your PC sound settings
 
  If you have several peripherals connected to the computer, there’s a good chance that your preferred device is not set as default and thus the microphone doesn’t work properly in Google Meet. To see if that’s the case, check the sound settings as follows.
@@ -79,28 +78,29 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Then type**mmsys.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-1.jpg)
 2. Navigate to the**Recording** tab. First make sure your microphone is enabled (showing a green checkmark). If it’s not and displays a grey down-arrow icon, right-click it and click**Enable** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-3.jpg)
-3. Click the**Microphone** you would like to use and click**Set Default** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
-4. You also need to set the microphone volume to a proper level: right-click the microphone and select**Properties** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-6-1.jpg)
-5. Click the**Levels** tab and drag the microphone slider to turn the volume to the max. Then click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-3.jpg)
+3. Click the**Microphone** you would like to use and click**Set Default** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
+4. You also need to set the microphone volume to a proper level: right-click the microphone and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-6-1.jpg)
+5. Click the**Levels** tab and drag the microphone slider to turn the volume to the max. Then click**OK** to save the changes.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-2-1.jpg)
+
  Test your microphone again to see if it works without problem. If the issue persists, check out the next solution below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Check Google Meet’s settings
 
@@ -113,6 +113,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-2.jpg)
 4. From the drop-down menu under Microphone, select your primary microphone.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you still can’t use the microphone in Google Meet, the last resort is to**double-check the physical connection** .
 
@@ -132,8 +136,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +143,21 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ecoding-youtubes-intricate-view-count-mechanics-for-2024/"><u>[New] Decoding YouTube's Intricate View Count Mechanics for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-escaping-boredom-with-laughter-20-wit-infused-jailmates-tales-from-fb-for-2024/"><u>[New] Escaping Boredom with Laughter 20 Wit-Infused Jailmates' Tales From Fb for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-edit-with-precision-mastery-of-photoshops-eraser/"><u>[New] In 2024, Edit with Precision Mastery of Photoshop's Eraser</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-pros-verdict-4-superior-fullscreen-capture-applications/"><u>[Updated] Pro's Verdict 4 Superior Fullscreen Capture Applications</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/astro-a10-audio-problems-heres-how-you-can-get-your-mic-working-again/"><u>Astro A10 Audio Problems? Here's How You Can Get Your Mic Working Again</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-of-high-value-low-cost-fossil-athletic-shoes/"><u>Expert Analysis of High-Value, Low-Cost Fossil Athletic Shoes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/five-proven-methods-to-correct-the-opening-sound-device-error-in-audacity/"><u>Five Proven Methods to Correct the 'Opening Sound Device' Error in Audacity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hdmi-device-sharing-problems-heres-how-to-resolve-conflicts-with-other-applications/"><u>HDMI Device Sharing Problems? Here's How to Resolve Conflicts with Other Applications</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-infinix-hot-30i-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Infinix Hot 30i</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-turn-off-sound-settings-and-optimize-your-system-with-audio-adjustments-on-windows-11/"><u>How to Turn Off Sound Settings and Optimize Your System with Audio Adjustments on Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/leading-drones-for-superior-gopro-camera-integration/"><u>Leading Drones for Superior GoPro Camera Integration</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-silence-a-guide-to-restoring-nvidia-hd-audio-output/"><u>Solving the Silence: A Guide to Restoring Nvidia HD Audio Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/soundless-pc-woes-reestablish-audio-functionality-post-windows-10-upgrade/"><u>Soundless PC Woes? Reestablish Audio Functionality Post-Windows 10 Upgrade</u></a></li>
+<li><a href="https://techtrends.techidaily.com/xbox-one-expansion-secrets-how-to-effectively-use-external-hard-drives-for-maximum-performance/"><u>Xbox One Expansion Secrets: How to Effectively Use External Hard Drives for Maximum Performance</u></a></li>
+</ul></div>
 

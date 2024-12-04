@@ -1,7 +1,7 @@
 ---
 title: DIY Guide to Restoring Your LucidSound LS30 Microphone's Functionality
-date: 2024-08-27T21:09:16.470Z
-updated: 2024-08-28T21:09:16.470Z
+date: 2024-12-01T17:46:56.330Z
+updated: 2024-12-04T01:07:23.063Z
 tags:
   - win11
   - win10
@@ -37,13 +37,14 @@ thumbnail: https://thmb.techidaily.com/92b37c07bddbdc531cfaf008b46137ba5e744b7d9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/audio-headphone-ports.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  First you need to make sure the device is**connected to the right port** of your PC. You can also check by testing it on another computer or device (e.g. your phone). Note that some headphones come with**switches** that need to be turned on manually.
 
 If the output device works as expected, simply continue to the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Run the troubleshooter
 
  Windows has a**built-in troubleshooter** that fixes basic issues automatically. You can run the troubleshooter and see if it’s just the wrong setting.
@@ -53,15 +54,17 @@ If the output device works as expected, simply continue to the next step.
 2. Select**Other troubleshooters** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-troubleshooter-2.jpg)
 3. Select**Playing Audio** . Then follow the on-screen instructions to proceed.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-troubleshooter-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If the troubleshooter doesn’t get the audio back, you can take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Configure output device properly
 
@@ -72,20 +75,15 @@ Here’s how:
 1. On your keyboard, press**Win+I** (the Windows key and the i key) to open Windows Settings. Click**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-1.jpg)
 2. Under**Output** , make sure to select your desired output device. Then click the device to view its property.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-2.jpg)
 3. Under**Output settings** , you can test different**output formats** . Make sure**Volume** is set to**above 50** . You can also**turn Enhance audio on and off** to see if that helps.  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If the issue lingers on, check out the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -97,9 +95,6 @@ If the issue lingers on, check out the next fix below.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-update-all-realtek-audio.jpg)
 
@@ -108,6 +103,10 @@ If the issue lingers on, check out the next fix below.
  After updating all the drivers, restart your PC and check if the issue persists.
 
  If the latest drivers can’t fix the problem, you can take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Check for the latest system updates
 
@@ -119,9 +118,13 @@ If the issue lingers on, check out the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Scan and pair Windows
 
  In the worst case, you’re dealing with a system issue. It could mean that some critical files are**corrupted or missing** from your system, and it could also mean that some settings are**misconfigured** . Either way, if you don’t want a clean reinstall, you can**run a scan** and find out what went wrong.
@@ -132,10 +135,16 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -152,9 +161,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 2. Under**Recovery options** , click**Reset PC** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-2.jpg)
 3. In the pop-up window, select**Remove everything** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-3.jpg)
 4. Click**Cloud download** . This will get you the latest system files.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-4.jpg)
@@ -172,8 +178,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +185,26 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-perfect-your-content-discover-these-top-8-mobile-editors-for-2024/"><u>[New] Perfect Your Content Discover These Top 8 Mobile Editors for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tandardized-youtube-images-made-accessible-3-easy-ways-to-download-for-2024/"><u>[New] Standardized YouTube Images Made Accessible 3 Easy Ways to Download for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unveiling-the-ultimate-15-stop-motion-film-collection-for-2024/"><u>[New] Unveiling the Ultimate 15 Stop-Motion Film Collection for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-proven-steps-to-conquer-hdr-images-in-ps/"><u>[Updated] Proven Steps to Conquer HDR Images in PS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721410096261-avoid-data-theft-expose-fraudulent-chatgpt-sites-now/"><u>Avoid Data Theft: Expose Fraudulent ChatGPT Sites Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015712460-fast-solutions-revive-your-oculus-rift-s-headsets-microphone-in-minutes/"><u>Fast Solutions: Revive Your Oculus Rift S Headset's Microphone in Minutes</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-remove-tiktok-watermarks-with-ease-best-online-solutions/"><u>In 2024, Remove TikTok Watermarks with Ease Best Online Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mac-no-sound-dilemma-heres-how-to-get-the-audio-working-again/"><u>Mac No Sound Dilemma? Here's How to Get the Audio Working Again</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-tunewizard-pro-expertly-organize-your-music-library-across-windowsmac-platforms/"><u>New TuneWizard Pro Expertly Organize Your Music Library Across Windows/Mac Platforms</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-voicemod-challenges-expert-tips-to-fix-open-and-optimize-for-2/"><u>Overcoming Voicemod Challenges: Expert Tips to Fix, Open & Optimize for 2지급</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/rectifying-the-dysfunction-of-steelseries-arctis-pro-headsets-microphone-the-definitive-fixes/"><u>Rectifying the Dysfunction of SteelSeries Arctis Pro Headset's Microphone - The Definitive Fixes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2550553-9781937006372-small-bites/"><u>Small Bites | Free Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-silence-problem-restoring-speakers-on-hp-devices-running-windows-11/"><u>Solving the Silence Problem: Restoring Speakers on HP Devices Running Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-repairing-your-onikuma-microphone-issues-issue-resolved/"><u>The Ultimate Guide to Repairing Your Onikuma Microphone Issues (Issue Resolved)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-issues-with-non-functional-microphones-on-turtle-beach-elite-atlas/"><u>Troubleshooting Guide: Solving Issues with Non-Functional Microphones on Turtle Beach Elite Atlas</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-logitech-audiovideo-problems-solutions-and-tips/"><u>Troubleshooting Logitech Audio/Video Problems: Solutions and Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-when-steams-voice-communication-stops-responding/"><u>Troubleshooting Tips for When Steam's Voice Communication Stops Responding</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/watching-taylor-swifts-cinematic-journey-step-by-step/"><u>Watching Taylor Swift's Cinematic Journey Step-by-Step</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/avidvd/"><u>ストリーミングAVIファイルをDVDに焼く - 個人用無料ガイド</u></a></li>
+</ul></div>
 

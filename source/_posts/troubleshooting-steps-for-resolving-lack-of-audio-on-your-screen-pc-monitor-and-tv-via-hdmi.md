@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps for Resolving Lack of Audio on Your Screen: PC, Monitor & TV via HDMI"
-date: 2024-11-23T22:36:53.388Z
-updated: 2024-11-24T19:19:42.813Z
+date: 2024-11-27T06:07:59.024Z
+updated: 2024-12-04T04:52:06.968Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Here are the fixes
 
@@ -49,11 +45,11 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/run-troubleshooter-1.jpg)
 2. Scroll down to**Recording Audio** . Then select it and click**Run the troubleshooter** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/run-troubleshooter-2-1.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/run-troubleshooter-2-1.jpg)
 
  Wait for the process to complete and follow the on-screen instructions to repair the detected issues. If your microphone still doesn’t work, proceed to the next method.
 
@@ -67,18 +63,18 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 3. Navigate to the**Microphone** tab on the left pane. Then, click the**Change** button and**turn on** Microphone access for this device.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-2-1.jpg)
 4. **Toggle on the button** below Allow apps to access your microphone.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-3-1.jpg)
 5. Scroll to locate Allow desktop apps to access your microphone, and set the option to**On** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-2.jpg)
 
@@ -91,6 +87,11 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 1. In the Windows search box, type**control** and select**Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-1-3.jpg)
 2. Select**Small icons** next to View by and click**Sound** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-2-1.jpg)
 3. Select the**Recording** tab. Then right-click your Onikuma headset mic and click**Enable** (if it’s not) and click**Set as Default Device** .  
 
@@ -101,11 +102,11 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-3-1.jpg)
 5. On the**Levels** tab, check whether the microphone is muted. If yes, click the**speaker icon** to unmute it and**drag the volume slider to the max** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-8-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In some cases, Onikuma headset mic not working only occurs in specific applications. If so, you should**check the application settings** and manually**set the Onikuma headset as your preferred audio device** .
 
@@ -137,7 +138,7 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click**Update** to do it for free, but it’s partly manual.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-1.jpg)
@@ -169,22 +170,17 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-dynamic-lighting-elevating-video-aesthetics/"><u>[New] Dynamic Lighting Elevating Video Aesthetics</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-boosting-popularity-on-instagram-mastery-of-the-top-25-tags/"><u>[Updated] In 2024, Boosting Popularity on Instagram Mastery of the Top 25 Tags</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-top-10-instagram-hashtags-you-need-to-start-using-today/"><u>2024 Approved Top 10 Instagram Hashtags You Need to Start Using Today</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015904222-discord-voice-connection-problems-here-are-the-solutions/"><u>Discord Voice Connection Problems? Here Are the Solutions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/effective-tactics-for-customizing-song-tempo-in-spotify/"><u>Effective Tactics for Customizing Song Tempo in Spotify</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-runmux-gaming-microphone-issues-troubleshooting-tips/"><u>Fixing Runmux Gaming Microphone Issues: Troubleshooting Tips</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/navigating-through-4k-excellence-a-comprehensive-review-of-samsung-qn55q6er-smart-tv-and-its-hdr10plus-capabilities/"><u>Navigating Through 4K Excellence: A Comprehensive Review of Samsung QN55Q6er Smart TV and Its HDR10+ Capabilities</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-razer-headset-microphone-issues-with-these-5-simple-fixes/"><u>Solve Razer Headset Microphone Issues with These 5 Simple Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-common-issues-with-inactive-or-broken-laptop-audio-output/"><u>Solving Common Issues with Inactive or Broken Laptop Audio Output</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-your-pcs-audio-problems-a-5-step-guide-for-windows-11/"><u>Solving Your PC's Audio Problems: A 5-Step Guide for Windows 11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/sony-sound-elevated-with-wm-nw78/"><u>Sony Sound Elevated with WM-NW78</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/step-by-step-tutorial-for-installing-and-using-a-dvd-player-on-windows-1011/"><u>Step-by-Step Tutorial for Installing & Using a DVD Player on Windows 10/11</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/troubleshoot-your-unresponsive-micro-sd-card-on-windows-10-top-4-fixes-and-a-proven-hack/"><u>Troubleshoot Your Unresponsive Micro SD Card on Windows 10: Top 4 Fixes and a Proven Hack</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-pc-speaker-issues-boosting-your-audio-in-windows-10/"><u>Troubleshooting PC Speaker Issues: Boosting Your Audio in Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-2024-tutorial-eliminating-audio-latency-issues/"><u>Ultimate 2024 Tutorial: Eliminating Audio Latency Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-top-solutions-when-your-pc-speakers-wont-function/"><u>Ultimate Guide: Top Solutions When Your PC Speakers Won't Function</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-the-creme-de-la-creme-of-4k-unforgettable-video-clips-for-2024/"><u>Updated The Crème De La Crème of 4K Unforgettable Video Clips for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-capturing-playthroughs-with-precision-and-flair/"><u>[New] In 2024, Capturing Playthroughs with Precision and Flair</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-optimizing-your-tv-for-social-video-streams/"><u>[New] In 2024, Optimizing Your TV for Social Video Streams</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-best-no-cost-screen-players/"><u>2024 Approved Best No-Cost Screen Players</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-14-plus-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-unresponsive-mpow-microphones-in-windows-environments/"><u>How to Resolve Unresponsive MPOW Microphones in Windows Environments</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/laptop-speakers-not-working-heres-how-you-can-fix-it/"><u>Laptop Speakers Not Working? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-sound-stability-on-windows-10-no-more-random-interruptions/"><u>Mastering Sound Stability on Windows 10: No More Random Interruptions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/superior-streaming-with-integrated-local-channels-future-edition/"><u>Superior Streaming with Integrated Local Channels, Future Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/to-calculate-sensible-heat-exchange-multiply-mass-g-specific-heat-capacity-jgk-and-temperature-change-or-k/"><u>To Calculate Sensible Heat Exchange, Multiply Mass (G), Specific Heat Capacity (J/G·K), and Temperature Change (℃ or K).</u></a></li>
 </ul></div>
 

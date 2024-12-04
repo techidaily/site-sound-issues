@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Fixing Your PC's Invisible Speakers on a Windows 10 System
-date: 2024-08-27T21:10:52.444Z
-updated: 2024-08-28T21:10:52.444Z
+date: 2024-11-30T03:39:59.737Z
+updated: 2024-12-03T22:08:09.626Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 Are you facing no sound issues on Windows 11? Or maybe you’re suffering from the terrible audio sounds after updating to Windows 11\. Don’t worry, you’re not alone. I have encountered the same problem and hope this post would help you solve the issue as well.
 
 Before you start, make sure your headset is working properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -37,6 +41,11 @@ Before you start, make sure your headset is working properly.
 2. Go to**System > Sound > All sound devices** and choose your device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound1.jpg)
 3. Scroll down to find**Enhance audio** . Turn Enhance audio on and then back off.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound2.jpg)
 4. Check your PC sound, it should be back to normal.
 
@@ -52,14 +61,15 @@ If this trick doesn’t work for you, please move to the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -72,34 +82,33 @@ If this fix doesn’t help, move to the next fix.
 1. Click the**Search** button on the bottom and type**device manager** . Then press the**Enter** key to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound3.jpg)
 2. Expand**Sound, video and game controllers** . Find**Realtek audio** and right-click on it. Choose**Update driver** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound4.jpg)
 3. Click**Browse my computer for drivers** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound5.jpg)
 4. Click**Let me pick from a list of available drivers on my computer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound6.jpg)
 5. Check**Show compatible hardware** . Then click**High Definition Audio Device** \>**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound7.jpg)
-6. Click**Yes** in the pop-up window.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound8.jpg)
-7. Restart your PC for the changes to take effect.
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-8. Check the sound on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound7.jpg)
+6. Click**Yes** in the pop-up window.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound8.jpg)
+7. Restart your PC for the changes to take effect.
+8. Check the sound on your PC.
+
 ## Fix 4: Update your Windows system
 
  Windows 11 will release new updates to fix some issues, so check for updates and it might cure the Windows 11 no sound issue. You can do it manually by following the steps below.
@@ -110,9 +119,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 3. Windows will check the latest available updates for you. If you have available updates, Windows 11 will download and install them automatically.
 4. After the whole process, restart your PC and check the effect.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Repair system files
 
  If important Windows files in your PC are corrupted or missing, your PC will have problems, no sound or audio issues might be one of them. In this case, you’ll need to find and repair corrupted system files.  
@@ -124,13 +130,15 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -142,8 +150,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +157,22 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-elite-screen-capturing-top-5-mac-alternatives-excluding-bandicam/"><u>[New] Elite Screen Capturing Top 5 Mac Alternatives Excluding Bandicam</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-from-ordinary-to-extraordinary-crafting-captivating-instagram-puzzles/"><u>[New] In 2024, From Ordinary to Extraordinary Crafting Captivating Instagram Puzzles</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-list-10-budget-friendly-passport-photographers-online/"><u>[Updated] Exclusive List 10 Budget-Friendly Passport Photographers Online</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-sticker-free-video-creation-on-tiktok/"><u>2024 Approved Expert Sticker-Free Video Creation on TikTok</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-leading-eights-imagery-fusion-platform/"><u>2024 Approved The Leading Eight’s Imagery Fusion Platform</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-solutions-for-a-broken-logitech-g230-headset-mic-no-more-silence/"><u>Expert Solutions for a Broken Logitech G230 Headset Mic – No More Silence!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-back-to-chatting-resolving-the-skype-microphone-not-working-problem-on-windows-10/"><u>Get Back to Chatting: Resolving the 'Skype Microphone Not Working' Problem on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-steelseries-arctis-headphones-mic-working-again-practical-solutions/"><u>Get Your SteelSeries Arctis Headphones Mic Working Again: Practical Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-a-blueprint-for-boosting-business-results-with-better-offices/"><u>In 2024, A Blueprint for Boosting Business Results with Better Offices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-enhance-clarity-in-social-video-downloads-for-smartphonestablets/"><u>In 2024, Enhance Clarity in Social Video Downloads for Smartphones/Tablets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedy-for-incessant-pause-windows-errors/"><u>Remedy for Incessant Pause Windows Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-steps-for-fixing-microphone-issues-in-google-hangouts/"><u>Simple Steps for Fixing Microphone Issues in Google Hangouts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-enable-sounds-for-cyberpunk-2077-in-windows-11-environment/"><u>Solution Guide: Enable Sounds for Cyberpunk 2077 in Windows 11 Environment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-for-non-functional-razer-kraken-mic/"><u>Solution Steps for Non-Functional Razer Kraken Mic</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamlining-pc-chatter-with-nvidias-rtx-assistant/"><u>Streamlining PC Chatter with Nvidia's RTX Assistant</u></a></li>
+</ul></div>
 

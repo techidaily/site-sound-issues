@@ -1,7 +1,7 @@
 ---
 title: World of Warcraft Fixes – Now Playing with Surround Sound!
-date: 2024-08-27T21:09:55.286Z
-updated: 2024-08-28T21:09:55.286Z
+date: 2024-11-27T04:06:15.368Z
+updated: 2024-12-03T17:09:27.523Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ Microsoft Teams offers a variety of convenient features for online conferencing.
 
  Before you continue to the troubleshooting steps below, please make sure your**microphone is not physically damaged** and it’s**correctly connected** to the PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Allow access to your microphone
 
  If Windows has restricted Microsoft Teams from accessing your microphone, you’ll run into the mic-not-working issue. To grant the permission correctly, you can follow the instruction below:
@@ -43,14 +47,23 @@ Microsoft Teams offers a variety of convenient features for online conferencing.
 5. Under Allow apps to access your microphone,**toggle on** the button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-4-1.jpg)
 6. Scroll down and set Allow desktop apps to access your microphone to**On** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-5-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Does your microphone return to normal? If not, proceed to more fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2 – Configure the microphone settings
 
  To make your microphone work, it’s also important to configure the microphone settings correctly on your PC. You need to ensure the microphone is not muted and set as the default device.
@@ -58,29 +71,34 @@ Microsoft Teams offers a variety of convenient features for online conferencing.
 1. Type**control panel** in the search box and click**Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/microsoft-team-control-panel.jpg)
 2. Select**Small icons** from the drop-down menu next to View by. Then, click**Sound** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-4.jpg)
 3. Navigate to the**Recording** tab, and right-click any empty space below. Then, tick Show**Disabled Devices** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3-4.jpg)
 4. Right-click the idle microphone and click**Disable** one by one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select the correct input device and click**Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-5.jpg)
 6. Click the microphone you’re using and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-6.jpg)
 7. Go to the**Levels** tab. Then make sure**it’s not muted** and**drag the volume slider to the max** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-7.jpg)
 8. Click**OK** to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  Now that everything is set up in the right way, test your microphone in Microsoft Team. If it still fails to work, check out the next fix.
 
 ### Fix 3 – Check Microsoft Teams settings
@@ -91,9 +109,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Click the**settings icon** at the upper right corner and click**Device Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-1-1.jpg)
 3. Under the microphone section, choose the device you’re using.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/microsoft-teams-settings.jpg)
 
  Re-open the app and join a call to test your microphone. If the issue persists, check out the next fix.
@@ -118,24 +133,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-3.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click**Update** to do it for free, but it’s partly manual.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Regular driver updates can make your audio device run in the tip-top condition, but if this doesn’t fix Microsoft Teams microphone not working, there is the last method to try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ### Fix 5 – Reinstall Microsoft Teams
 
  If none of the solutions above get your microphone back to working, the cause might be on the software’s end. Download and reinstall the latest Microsoft Teams to resolve the errors during the previous installation.
@@ -145,6 +149,10 @@ The powerful video editing program for your Windows PC</a>
 2. Right-click**Microsoft Teams** and click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-2.jpg)
 3. Download the newest version of Microsoft Team from its **[official website](https://r.brandreward.com/?key=3882aba4cadd4473e0195097fdf20855&url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fmicrosoft-teams%2Fgroup-chat-software&id=drivereasy-en-134633)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now your microphone should be working perfectly with Microsoft Teams.
 
@@ -161,8 +169,6 @@ Now your microphone should be working perfectly with Microsoft Teams.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +176,20 @@ Now your microphone should be working perfectly with Microsoft Teams.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/updated-alliance-of-creativity-brands-and-youtubes-fusion/"><u>[Updated] Alliance of Creativity Brands and YouTube's Fusion</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-step-by-step-facebook-live-on-roku-platform/"><u>[Updated] In 2024, Step-by-Step Facebook Live on Roku Platform</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordability-meets-mobility-in-the-latest-microsoft-surface-laptop-go-review/"><u>Affordability Meets Mobility in the Latest Microsoft Surface Laptop Go Review</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-guide-to-restoring-sound-post-windows-11-enhancement/"><u>Effortless Guide to Restoring Sound Post-Windows 11 Enhancement</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-noise-issues-on-zoom-techniques-to-restore-sound-during-online-meetings-on-your-computer/"><u>Fix Noise Issues on Zoom: Techniques to Restore Sound During Online Meetings on Your Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-enable-or-disable-the-smartscreen-filter-in-windows-11-and-11/"><u>How to Enable or Disable the SmartScreen Filter in Windows 11 & 11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-enhanced-insight-vll-on-mobile-apps/"><u>In 2024, Enhanced Insight VLL on Mobile Apps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-insights-from-toms-computer-world/"><u>In-Depth Insights From Tom's Computer World</u></a></li>
+<li><a href="https://fox-http.techidaily.com/iphone-macro-mastery-tips-for-clear-detail-focused-photos/"><u>IPhone Macro Mastery Tips for Clear, Detail-Focused Photos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016952059-revive-your-mic-during-skype-calls-on-windows-10-fixes-and-tips/"><u>Revive Your Mic During Skype Calls on Windows 10 – Fixes and Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-sound-troubleshooting-the-non-working-microphone-in-counter-strike-2/"><u>Revive Your Sound: Troubleshooting the Non-Working Microphone in Counter-Strike 2</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-easy-anti-cheat-glitches-in-apex-legends-fixed/"><u>Troubleshooting Easy Anti-Cheat Glitches in Apex Legends - Fixed!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unleash-potential-deciding-between-studio-and-beta-version-for-2024/"><u>Unleash Potential Deciding Between Studio and Beta Version for 2024</u></a></li>
+</ul></div>
 

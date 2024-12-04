@@ -1,7 +1,7 @@
 ---
 title: Unlock Seamless Game Sound Integration with This Solved Discord Method
-date: 2024-08-27T21:09:44.885Z
-updated: 2024-08-28T21:09:44.885Z
+date: 2024-12-02T20:43:15.467Z
+updated: 2024-12-03T17:21:56.466Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ It’s annoying that your Discord is picking up game audio all of a sudden. But 
 * [2. Change sound settings](https://tools.techidaily.com/drivereasy/download/)
 * [3. Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Update audio drivers
 
  A properly working audio driver can make sure your device is working normally. If your Discord picks up the game audio, it might be caused by a malfunctioning audio driver. To make sure your audio works fine, you should update your audio driver:
@@ -58,9 +62,6 @@ There’re mainly two ways for you to update an audio driver:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Change sound settings
 
  This issue happens when Stereo Mix (instead of your headset microphone) is set to the default device. To fix it, you should disable Stereo Mix, and set your microphone as the default device:
@@ -69,9 +70,6 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  2) Go to the**Recording** tab.
 
  3) Right-click**Stereo Mix** and select **Disable** , and make sure you have set your headphone as the default device.
@@ -79,8 +77,9 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Open Discord application, and go to**User Settings** .
 
  5) Under**Voice Settings** , choose the correct**Input Device** and**Output Device** .
@@ -88,13 +87,15 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Reinstall Discord
 
  If nothing worked, you can try reinstalling Discord in case it’s an app-related issue. Here’s how:
@@ -110,8 +111,9 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once complete, you can download[**the latest Discord client**](https://discord.com/brand-new) and check if the issues persist in the new version.
 
 ---
@@ -126,8 +128,6 @@ There’re mainly two ways for you to update an audio driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +135,24 @@ There’re mainly two ways for you to update an audio driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-ae-text-preset-collection-the-best-of-both-worlds/"><u>[New] 2024 Approved AE Text Preset Collection The Best of Both Worlds</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-entrepreneurs-guide-to-youtube-earnings-thriving-without-ad-support/"><u>[New] The Entrepreneur’s Guide to YouTube Earnings Thriving Without Ad Support</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-why-filmora-stands-out-its-top-10-alluring-features-for-2024/"><u>[New] Why Filmora Stands Out Its Top 10 Alluring Features for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-digital-stretching-mastering-mobile-horizon-panos-for-2024/"><u>[Updated] Digital Stretching Mastering Mobile Horizon Panos for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-honor-x50iplus-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Honor X50i+ Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comment-activer-lencodage-avec-nvenc-sur-handbrake-pour-une-videosynchronisation-efficace/"><u>Comment Activer L'encodage Avec NVENC Sur Handbrake Pour Une Vidéosynchronisation Efficace ?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhancing-audio-volume-for-a-better-listening-experience-on-windows-10-systems/"><u>Enhancing Audio Volume for a Better Listening Experience on Windows 10 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/essential-guide-troubleshooting-windows-11-sound-difficulties-step-by-step/"><u>Essential Guide: Troubleshooting Windows 11 Sound Difficulties – Step-by-Step</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-steady-aim-microphone-issues-in-csgo-solutions-and-tips/"><u>Fixing Steady Aim Microphone Issues in CS:GO - Solutions & Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-realtek-high-definition-audio-control-panel-wont-launch-issue/"><u>How to Fix Realtek High Definition Audio Control Panel Won't Launch Issue</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-vivo-s17-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Vivo S17 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://fox-links.techidaily.com/pioneering-creative-expression-through-zero-cost-animation/"><u>Pioneering Creative Expression Through Zero-Cost Animation</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/qualitativ-hochwertige-software-zur-sicheren-herstellung-von-datensatzen-auf-western-digital-hard-drives-bootkompatibel-und-bestplatzierter-im-seo/"><u>Qualitativ Hochwertige Software Zur Sicheren Herstellung Von Datensätzen Auf Western Digital Hard Drives - Bootkompatibel Und Bestplatzierter Im SEO</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-audio-glitches-effective-methods-to-restore-realtek-microphone-functionality/"><u>Resolve Audio Glitches: Effective Methods to Restore Realtek Microphone Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-troubleshooting-non-working-headphones-in-windows-10-environment/"><u>Solution Guide: Troubleshooting Non-Working Headphones In Windows 10 Environment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-pubg-mobile-fixing-non-functional-voice-communication/"><u>Troubleshooting PUBG Mobile: Fixing Non-Functional Voice Communication</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-quiet-realtek-devices-a-complete-solution-for-audio-recovery/"><u>Troubleshooting Quiet Realtek Devices – A Complete Solution for Audio Recovery</u></a></li>
+</ul></div>
 

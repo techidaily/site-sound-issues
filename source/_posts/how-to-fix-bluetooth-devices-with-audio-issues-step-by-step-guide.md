@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Bluetooth Devices with Audio Issues: Step-by-Step Guide"
-date: 2024-08-27T21:11:41.242Z
-updated: 2024-08-28T21:11:41.242Z
+date: 2024-12-02T20:58:58.571Z
+updated: 2024-12-04T04:13:09.203Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/7079de538a777b736a226ef7753a657beca0fed63
 ## Bluetooth Not Working? Follow These Steps to Restore Audio
 
 If you run into the**Bluetooth** connected but no sound coming out issue on your computer, don’t worry. It’s often quite easy to fix…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 fixes for Bluetooth Connected But No Sound
 
@@ -50,16 +54,15 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 1. On your keyboard, press the **Windows logo key**  and type**sound** . Then click on**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1c8bbf643.jpg)
 2. In the**Playback** tab, click on**your** **Bluetooth device** \>**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d223cd2694.jpg)
 3. Click the Levels tab. Then make sure**the volume bar is dragged to an audible level** and the sound icon**isn’t muted** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d22c378f3f.png)
 4. Click**Apply** \>**OK** .
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Hopefully the **Bluetooth Connected But No Sound problem** has been resolvedthis time. If the problem still persists, move on to **Fix 3** .
 
 ---
@@ -71,18 +74,20 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 1. On your keyboard, press the **Windows logo key**  and **R**  at the same time. Then copy & paste **services.msc**  into the box and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ef3aff37fc.jpg)
 2. Double-click on**Bluetooth Support Service** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1e0590947.jpg)
 3. Select**Automatic** in the**Startup type** drop-down menu and then click**Start** to jumpstart the service. Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1ea8ed445.jpg)
 4. Play some music and test if your**Bluetooth Connected But No Sound** has been fixed. If it’s still no joy, please move on to F**ix 4,** below.
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your Bluetooth driver
 
@@ -98,20 +103,17 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627e9c324d0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer, play some music and see if **Bluetooth Connected But No Sound**  problem has been resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Repair corrupted system files
 
@@ -123,6 +125,10 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortectdetects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -140,8 +146,6 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +153,22 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fixed-easily-accessible-shorts-on-youtube/"><u>[New] In 2024, Fixed Easily Accessible Shorts on YouTube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-optimizing-color-depth-and-gradients-for-obs/"><u>[New] In 2024, Optimizing Color Depth and Gradients for OBS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-efficiently-uploading-youtube-vids-to-insta-profile/"><u>[Updated] 2024 Approved Efficiently Uploading YouTube Vids to Insta Profile</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-ultimate-pcsmartphone-session-recorder/"><u>2024 Approved The Ultimate PC/Smartphone Session Recorder</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016538580-easy-fixes-for-no-audio-in-windows-solve-your-sound-issues-fast/"><u>Easy Fixes for No Audio in Windows: Solve Your Sound Issues Fast!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/end-the-annoyance-of-popping-sounds-from-speakers-in-windows-pcs-quick-fixes-for-win-107-users/"><u>End the Annoyance of Popping Sounds From Speakers in Windows PCs - Quick Fixes for Win 10/7 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ensure-perfect-audio-capture-with-your-obs-desktop-diagnosing-and-repairing-sound-glitches/"><u>Ensure Perfect Audio Capture with Your OBS Desktop: Diagnosing & Repairing Sound Glitches</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-unparalleled-speed-with-the-newly-launched-5-core-epyc-cpu-boasting-128-cores-and-a-mighty-512mb-cache/"><u>Experience Unparalleled Speed with the Newly Launched 5-Core EPYC CPU, Boasting 128 Cores and a Mighty 512MB Cache</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-skies-troubleshooting-audio-issues-in-valheim-for-pc/"><u>Fixing Silent Skies: Troubleshooting Audio Issues in Valheim for PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-and-stop-speaker-interference-sounds-in-microsoft-windows-win-107-fixes/"><u>How to Repair and Stop Speaker Interference Sounds in Microsoft Windows - Win 10/7 Fixes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-g54-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Motorola G54 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photo-framing-made-easy-leading-apps-and-sites-reviewed/"><u>In 2024, Photo Framing Made Easy Leading Apps and Sites Reviewed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-quintessential-guide-to-secret-story-viewing/"><u>In 2024, The Quintessential Guide to Secret Story Viewing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017058545-no-voice-or-mic-revive-call-of-duty-warzone-communication-on-pc-and-gaming-consoles-today/"><u>No Voice or Mic? Revive Call of Duty: Warzone Communication on PC and Gaming Consoles Today</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlock-the-sounds-of-valheim-essential-fix-guide-for-no-audio-issues-on-pc/"><u>Unlock the Sounds of Valheim: Essential Fix Guide for No-Audio Issues on PC</u></a></li>
+</ul></div>
 

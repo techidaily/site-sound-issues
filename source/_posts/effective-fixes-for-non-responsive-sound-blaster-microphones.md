@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Non-Responsive Sound Blaster Microphones
-date: 2024-08-27T21:09:10.951Z
-updated: 2024-08-28T21:09:10.951Z
+date: 2024-11-29T22:07:31.499Z
+updated: 2024-12-03T22:56:18.764Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/c74303d4c07843e34b64af558ccf2dd47acf27f12
 
  **Don’t know how to test your microphone on your Windows computer?** Don’t worry! You’ve come to the right place. It’s pretty easy. After reading this post, you should be able to test your mic quickly and easily!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## There’re two methods to test your microphone
 
 1. **[Mic testing in Windows audio settings](https://tools.techidaily.com/drivereasy/download/)**
@@ -26,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/c74303d4c07843e34b64af558ccf2dd47acf27f12
 3. **[Bonus tip: How to fix microphone not working on your computer?](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Mic testing in Windows audio settings
 
@@ -46,6 +54,11 @@ thumbnail: https://thmb.techidaily.com/c74303d4c07843e34b64af558ccf2dd47acf27f12
 4. Select the correct type of your microphone and click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-39-30.png)
 5. Follow the**Microphone Setup Wizard** to configure your microphone. Close the wizard when it completes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-40-26.png)
 
 #### Step 2: Test your microphone
@@ -62,8 +75,9 @@ Follow the steps below to test your microphone in Windows audio settings:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Mic testing with the built-in Voice Recorder app
 
  You can also test your microphone using the built-in**Voice Recorder app** in Windows 10\. Here is how to do it:
@@ -71,23 +85,18 @@ Follow the steps below to test your microphone in Windows audio settings:
 1. On your keyboard, press**the Windows logo key** and type**recorder** . In the list of search results, click**Voice Recorder** to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-44-48.png)
 2. Click**the record icon** to start recording. Try speaking into your microphone.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-45-47.png)
 3. Click**the stop button** to stop recording.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-46-27.png)
 4. Click the recording file to replay it. If your microphone is fine, you should be able to hear your voice clearly.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-47-16.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Bonus tip: How to fix microphone not working on your computer?
 
  Don’t worry if your microphone is not working on your computer. One of the most common causes of this problem is an outdated or a faulty sound card driver.
@@ -104,16 +113,14 @@ Follow the steps below to test your microphone in Windows audio settings:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-48-18.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Alternatively if you’re comfortable manually installing drivers, you can click**Update** next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-49-09.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
  You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade. Don’t worry; it comes with a**30-day money-back guarantee** , so if you don’t like it you can get a full refund, no questions asked.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -127,8 +134,6 @@ Follow the steps below to test your microphone in Windows audio settings:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +141,19 @@ Follow the steps below to test your microphone in Windows audio settings:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-ultimate-tutorial-for-instagram-story-polls/"><u>[New] In 2024, The Ultimate Tutorial for Instagram Story Polls</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/vercoming-the-challenge-of-hidden-youtube-shorts-thumbnails/"><u>[New] Overcoming the Challenge of Hidden YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-6-networks-transforming-how-firms-connect-and-engage/"><u>[New] Top 6 Networks Transforming How Firms Connect and Engage</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-discord-voice-chat-not-working/"><u>[SOLVED] Discord Voice Chat Not Working</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-efficient-call-capturing-on-windowsmac-the-comprerances-list/"><u>2024 Approved Efficient Call Capturing on Windows/Mac - The Comprerances' List</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-developer-setup-5-core-wsl-2-best-practices/"><u>Elevate Your Developer Setup: 5 Core WSL 2 Best Practices</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-y27-4g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-poco-x6-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Poco X6? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-interference-swift-fix-for-crackling-headphones/"><u>No More Interference: Swift Fix for Crackling Headphones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/quick-guide-downsizing-4k-and-high-definition-videos-with-the-power-of-winxvideo-ai/"><u>Quick Guide: Downsizing 4K and High-Definition Videos with the Power of WinXVideo AI</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016678972-troubleshooting-apex-legends-fix-your-voice-chat-issues-now/"><u>Troubleshooting Apex Legends: Fix Your Voice Chat Issues Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-runmvy-gaming-headset-mic-issues/"><u>Troubleshooting Guide: RUNMVY Gaming Headset Mic Issues</u></a></li>
+</ul></div>
 

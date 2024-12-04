@@ -1,7 +1,7 @@
 ---
 title: "Get Your Sound Back: Fix Voice Chat and Microphone Malfunctions on PC & Consoles for Call of Duty's Battle Royale Game."
-date: 2024-11-21T21:43:51.962Z
-updated: 2024-11-24T17:02:31.472Z
+date: 2024-11-30T02:10:29.150Z
+updated: 2024-12-03T20:03:37.802Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 4. **[Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Check out the obvious
@@ -44,10 +44,6 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
  You should make sure the volume is set to an audible level, check that the cables (if you have a wired headphone device) are not worn out or loosely connected, and ensure that they’re plugged into the right port etc.
 
  Once you have double-checked these items, test the voice chat feature in LoL to see if it works. If yes, then great! If the problem persists, please move on to**Fix 2** below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Join voice channel automatically
 
@@ -59,8 +55,16 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.png)
 3. Under the**Voice** tab, make sure the Join voice channel automatically option is checked.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-1.png)
 4. Check to see if you can use the voice chat feature properly in game. If yes, then great! If it’s no joy, please move on to**Fix 3** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Configure the audio settings
 
@@ -75,16 +79,8 @@ You can follow the steps below to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-2.png)
 3. Click the**Recording** tab. Then make sure that your preferred mic is set as**Default Device** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio-2.png)
 4. Speak into yout mic to test if the indicator bar on the right moves. If yes, your mic should be working properly. If it doesn’t, check your headphone device to make sure it’s not muted.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click the**Advanced**  tab. Under the **Default Format** section, choose a different sample rate and bit depth and click**Test** . Repeat this process until you find a format that works for you. After that, make sure the box for**Allow application to take exclusive control of this deviice** is**unticked** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/111-1.png)
@@ -93,7 +89,7 @@ You can follow the steps below to check:
 7. Test in WoW to see if you can communicate with your friends. If it still gives you no luck, you should try**Fix 4** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your audio drivers
@@ -108,6 +104,10 @@ You can follow the steps below to check:
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -135,16 +135,20 @@ You can follow the steps below to check:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-simplifying-complexity-essential-gs-tutorials-kinemaster/"><u>[New] Simplifying Complexity Essential GS Tutorials (KineMaster)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-retro-to-modern-radeon-transition/"><u>[Updated] In 2024, Retro to Modern Radeon Transition</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/vating-cuts-editor-apps-that-liberate-android-users-for-2024/"><u>Captivating Cuts Editor Apps That Liberate Android Users for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-fix-for-astro-a20-microphone-that-wont-work/"><u>DIY Fix for Astro A20 Microphone That Won't Work</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/economical-systems-optimized-by-ideal-obs-settings/"><u>Economical Systems Optimized by Ideal OBS Settings</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-when-your-lol-voice-chat-stops-working/"><u>How to Restore Functionality When Your LoL Voice Chat Stops Working</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-laserjet-pro-mfp-m428fdw-driver-downloads-for-windows-11107-systems/"><u>HP LaserJet Pro MFP M42ˈ8fdw Driver Downloads for Windows 11/10/7 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reclaiming-acoustics-effective-fixes-for-no-audio-in-valheim-on-desktop-computers/"><u>Reclaiming Acoustics: Effective Fixes for No Audio in Valheim on Desktop Computers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/sky-high-engagement-optimizing-for-virality-and-visibility-for-2024/"><u>Sky High Engagement Optimizing for Virality and Visibility for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-non-functional-headphones-in-windows-10/"><u>Troubleshooting Guide: Fixing Non-Functional Headphones in Windows 10</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-fcpx-skin-smoothing-hack-no-plugins-needed-for-2024/"><u>Updated The Ultimate FCPX Skin Smoothing Hack No Plugins Needed for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-insiders-guide-to-recording-games-in-windows-11-for-2024/"><u>[New] The Insider's Guide to Recording Games in Windows 11 for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-a-peek-into-the-best-mac-applications-for-sniping-perfectly/"><u>[Updated] 2024 Approved A Peek Into the Best Mac Applications for Sniping Perfectly</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-decoding-firefoxs-pip-multimedia-feature-for-2024/"><u>[Updated] Decoding Firefox's PIP Multimedia Feature for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-inside-the-world-of-xmedia-workshop-a-thorough-examination/"><u>2024 Approved Inside the World of XMedia Workshop A Thorough Examination</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-fixes-to-restore-audio-functionality-on-toshiba-devices/"><u>Comprehensive Fixes to Restore Audio Functionality on Toshiba Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortless-mp4-video-editing-with-no-re-encoding-advanced-splitting-and-cropping-tools/"><u>Effortless MP4 Video Editing with No Re-Encoding: Advanced Splitting & Cropping Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-sizzling-sound-in-earbuds-simple-solutions-for-noise-free-listening/"><u>Fix Sizzling Sound in Earbuds: Simple Solutions for Noise-Free Listening!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971370458-get-your-free-techkey-bluetooth-drivers-for-win-10-7-and-8-instant-download/"><u>Get Your Free Techkey Bluetooth Drivers for Win 10, 7 & 8 - Instant Download!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-fortnites-microphone-issues-fast-solutions/"><u>How to Fix Fortnite's Microphone Issues - Fast Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-astro-a50s-nonfunctional-mic-easily/"><u>How to Repair Your Astro A50's Nonfunctional Mic Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-fixing-obs-audio-gear-malfunctions/"><u>How to Restore Functionality: FIXing OBS Audio Gear Malfunctions</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Realme GT 5? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-cutting-edge-techniques-for-saving-insta-videos/"><u>In 2024, Cutting-Edge Techniques for Saving Insta Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-restoring-sounds-to-your-black-ops-cold-war-gaming-experience-on-computer/"><u>Solution Guide: Restoring Sounds to Your Black Ops Cold War Gaming Experience on Computer</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rt-of-attraction-mastering-youtubes-glamour-trove/"><u>The Art of Attraction Mastering Youtube's Glamour Trove</u></a></li>
 </ul></div>
 
