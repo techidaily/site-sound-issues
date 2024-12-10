@@ -1,7 +1,7 @@
 ---
 title: "Solving Your Discord PC Echo Issue: The Ultimate 2024 Troubleshooting Guide"
-date: 2024-10-26T17:32:29.917Z
-updated: 2024-10-30T16:23:56.863Z
+date: 2024-12-05T21:39:21.258Z
+updated: 2024-12-10T18:40:30.098Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why your headset mic is not working
 
  The reasons why your SteelSeries Arctis Pro has mic problems are listed below:
@@ -31,6 +35,10 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 * Your headset is not set as the default device
 * The sound card driver is outdated/corrupted
 * Your microphone cannot access your device
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix your mic issues
 
@@ -45,10 +53,7 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Set up the microphone correctly
@@ -58,10 +63,7 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
  Also, the microphone is highly directional, so it must be placed properly to achieve the best sound quality.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Allow access to your microphone
@@ -74,16 +76,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/privacy.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Please be sure to turn on “**Allow access to the microphone on this device** ” and “**Allow apps to access your microphone** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Scroll down to allow microphone access for the Microsoft apps and desktop apps.
 
@@ -98,13 +97,6 @@ Here’s how to do it:
  1) On your keyboard, press the **Windows logo** key and the **R** key at the same time to open the Run box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
@@ -125,10 +117,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) Also go to the**Enhancements** tab, and check the box Disable all sound effects.
@@ -172,13 +161,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) In the Sound windows, select the **Recording**  tab.
 
  4) Right-click the microphone you are using and select**Properties** .
@@ -212,20 +194,16 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-ultimate-strategy-to-dominate-youtube-via-creator-hub/"><u>[Updated] 2024 Approved The Ultimate Strategy to Dominate YouTube Via Creator Hub</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-gif-basics-crafting-your-first-animated-image/"><u>[Updated] GIF Basics Crafting Your First Animated Image</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-how-to-matchmake-for-maximum-viewership-on-youtube-for-2024/"><u>[Updated] How to Matchmake for Maximum Viewership on YouTube for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-halo-series-screen-grabs-made-simple/"><u>[Updated] In 2024, Halo Series Screen Grabs Made Simple</u></a></li>
-<li><a href="https://extra-information.techidaily.com/3-ways-to-live-stream-on-youtube-without-1000-subscribers/"><u>3 Ways to Live Stream on YouTube without 1000 Subscribers</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209804322-9781465498861-dreams/"><u>Dreams | Free Book</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/end-the-annoyance-of-popping-sounds-from-speakers-in-windows-pcs-quick-fixes-for-win-107-users/"><u>End the Annoyance of Popping Sounds From Speakers in Windows PCs - Quick Fixes for Win 10/7 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ensure-perfect-audio-capture-with-your-obs-desktop-diagnosing-and-repairing-sound-glitches/"><u>Ensure Perfect Audio Capture with Your OBS Desktop: Diagnosing & Repairing Sound Glitches</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-issues-with-non-functional-logitech-g633-audio-device/"><u>Fixing Issues with Non-Functional Logitech G633 Audio Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-skies-troubleshooting-audio-issues-in-valheim-for-pc/"><u>Fixing Silent Skies: Troubleshooting Audio Issues in Valheim for PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-and-stop-speaker-interference-sounds-in-microsoft-windows-win-107-fixes/"><u>How to Repair and Stop Speaker Interference Sounds in Microsoft Windows - Win 10/7 Fixes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-auto-gpt-complete-setup-instructions-for-ubuntu-enthusiasts/"><u>Mastering Auto-GPT: Complete Setup Instructions for Ubuntu Enthusiasts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restore-audio-functionality-on-your-razer-barracuda-x-comprehensive-guide-for-windows-1110-users/"><u>Restore Audio Functionality on Your Razer Barracuda X - Comprehensive Guide for Windows 11/10 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-playthrough-expert-tips-for-resolving-borderlands-3-audio-problems-on-pc/"><u>Silent Playthrough: Expert Tips for Resolving Borderlands 3 Audio Problems on PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/tips-and-solutions-for-a-smooth-gta-5-online-session/"><u>Tips and Solutions for a Smooth GTA 5 Online Session</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-professional-radial-effects-step-by-step-guide-for-photoshop-experts/"><u>[New] 2024 Approved Professional Radial Effects Step-by-Step Guide for Photoshop Experts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-newly-updated-set-of-chat-starters-for-podcast-success/"><u>[New] Newly Updated Set of Chat Starters for Podcast Success</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-masterful-mp4-transformation-tools-facebook-edition/"><u>[Updated] In 2024, Masterful MP4 Transformation Tools (Facebook Edition)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-say-goodbye-to-stumbles-in-your-instagram-stream/"><u>[Updated] In 2024, Say Goodbye to Stumbles in Your Instagram Stream</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-no-sound-in-windows-pc-a-step-by-step-guide/"><u>How to Fix No Sound in Windows PC - A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-itel-p40-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Itel P40 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-amplify-creativity-in-photography-innovative-pixlr-hacks/"><u>In 2024, Amplify Creativity in Photography Innovative Pixlr Hacks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-for-voice-chat-failure-in-world-of-warcraft-effective-strategies-inside/"><u>Quick Fix for Voice Chat Failure in World of Warcraft - Effective Strategies Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-nvidia-connection-errors-quickly-essential-troubleshooting-steps/"><u>Resolve Nvidia Connection Errors Quickly – Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-steps-to-fix-your-google-hangouts-microphone-problems-today/"><u>Simple Steps to Fix Your Google Hangouts Microphone Problems Today</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unique-content-creation-the-ultimate-guide-to-6-video-types/"><u>Unique Content Creation The Ultimate Guide to 6 Video Types</u></a></li>
 </ul></div>
 

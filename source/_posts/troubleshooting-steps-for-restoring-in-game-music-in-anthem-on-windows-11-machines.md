@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Restoring In-Game Music in Anthem on Windows 11 Machines
-date: 2024-11-28T17:31:20.316Z
-updated: 2024-12-03T19:48:05.798Z
+date: 2024-12-03T20:54:27.965Z
+updated: 2024-12-10T18:51:11.225Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Before getting started, be sure**NOT** **to mute** your computer in the Volume icon. And drag the Volume slider to**Maximum** .
@@ -31,10 +35,6 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 1. [Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 2. [Check audio settings](https://tools.techidaily.com/drivereasy/download/)
 3. [Roll back your audio driver](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your audio driver
 
@@ -52,12 +52,17 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72204e5e8f.jpg)
 3. Click the**Update** button next to a flagged audio driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version of Driver Easy).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update** **All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72220f11f9.jpg)
 4. Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Check if there’s any sound in your computer.
@@ -77,16 +82,12 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7201dbcc98.jpg)
 3. Select your speaker audio device, and click**Set Default** to set it as your default device.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If your device has been the default device, you’ll see a green check mark next to your device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72066a032c.jpg)
 4. Restart your computer, and plug a headphone to see if there’s any sound.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Still no luck? Okay, there’s one more thing to try.
@@ -106,12 +107,12 @@ Still no luck? Okay, there’s one more thing to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7218e14fa5.jpg)
 5. Click the**Driver** tab, and click**Roll Back Driver** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721ba8a50e.jpg)
 6. Follow the on-screen instructions to finish the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Restart your computer.
 
@@ -139,16 +140,20 @@ Feel free to leave a comment below if you have any questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-find-elite-instagram-tones-and-craft-unique-alarm-sounds/"><u>[New] How to Find Elite Instagram Tones and Craft Unique Alarm Sounds</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-the-basics-of-telegram-advertising-as-a-novice/"><u>[Updated] Mastering the Basics of Telegram Advertising as a Novice</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015048612-apex-legends-no-sound-problem-resolved-steps-to-get-your-game-cacophonous-again/"><u>Apex Legends No Sound Problem Resolved: Steps to Get Your Game Cacophonous Again!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-and-fixes-for-dealing-with-computer-speaker-issues/"><u>Expert Tips and Fixes for Dealing with Computer Speaker Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-your-logitech-g733-microphone-troubleshooting-tips/"><u>Fixing Your Logitech G733 Microphone: Troubleshooting Tips</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-motorola-moto-g13-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Motorola Moto G13 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-asus-rog-phone-7-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Asus ROG Phone 7.</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/rainbow-six-siege-voice-not-working-easy-fixes-for-the-2024-game-update/"><u>Rainbow Six Siege Voice Not Working? Easy Fixes for the 2024 Game Update</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-hdmi-sound-problems-in-windows-operating-system-a-step-by-step-guide/"><u>Resolving HDMI Sound Problems in Windows ^ Operating System: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-oppo-find-x7-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Oppo Find X7</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-constructing-an-engaging-tiktok-aftermath/"><u>[New] 2024 Approved Constructing an Engaging TikTok Aftermath</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-finessing-voices-in-instagrams-storytelling-and-videos/"><u>[New] 2024 Approved Finessing Voices in Instagram's Storytelling and Videos</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/decoding-and-practicing-with-creative-commons-licenses/"><u>Decoding and Practicing with Creative Commons Licenses</u></a></li>
+<li><a href="https://win-news.techidaily.com/ensuring-optimal-performance-key-strategies-to-maintain-your-pcs-efficiency-guidance-from-yl-tech-experts/"><u>Ensuring Optimal Performance: Key Strategies to Maintain Your PC's Efficiency - Guidance From YL Tech Experts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-system-solving-cyberpunk-2077-audio-issues-in-windows-10/"><u>Fixing Silent System: Solving 'Cyberpunk 2077' Audio Issues in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-restoring-pc-mic-functionality-in-rec-room-updated/"><u>Guide to Restoring PC Mic Functionality in Rec Room [Updated ]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-the-sound-back-in-pc-warzone-games-expert-fixes-and-advice/"><u>How to Get the Sound Back in PC Warzone Games - Expert Fixes & Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-sound-problems-in-windows-11-easily/"><u>How to Resolve Sound Problems in Windows 11 Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-using-the-conexant-smartaudio-hd-driver-in-windows-10/"><u>How to Restore Sound Using the Conexant SmartAudio HD Driver in Windows 10</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Honor X7b? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-cutting-edge-extraction-the-top-10-sdk-powered-fb-video-downloads-on-android/"><u>In 2024, Cutting-Edge Extraction The Top 10 SDK-Powered FB Video Downloads on Android</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/maximize-your-audio-experience-a-guide-to-amplifying-volume-in-windows-10/"><u>Maximize Your Audio Experience: A Guide to Amplifying Volume in Windows 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-with-toms-hardware-expertise/"><u>Navigating the World of Electronics with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-vn-video-editor-pc-review-a-quick-look/"><u>New VN Video Editor PC Review A Quick Look</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-tecno-pova-6-pro-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Tecno Pova 6 Pro 5G Device</u></a></li>
 </ul></div>
 

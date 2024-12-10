@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Volume Woes? Simple Tips to Restore Your Computer's Sound
-date: 2024-08-27T21:03:18.174Z
-updated: 2024-08-28T21:03:18.174Z
+date: 2024-12-06T21:36:34.552Z
+updated: 2024-12-10T17:17:38.825Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 2. [Check audio settings](https://tools.techidaily.com/drivereasy/download/)
 3. [Roll back your audio driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your audio driver
 
  It’s likely your audio driver becomes incompatible after upgrading Windows system, so it’s recommended to update your audio driver to fix the no sound issue.
@@ -51,9 +55,6 @@ Check if there’s any sound in your computer.
 
  If the problem still persists, don’t worry. We have other solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Check audio settings
 
  The improper audio settings can also result in the no sound issue in your computer, so you should configure the audio settings properly.
@@ -63,23 +64,24 @@ To do so:
 1. Right click on the**Volume icon** at the bottom right corner, and click**Sounds** (or**Playback devices** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 2. In the**Sound** pane, click the**Playback** tab.  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7201dbcc98.jpg)
 3. Select your speaker audio device, and click**Set Default** to set it as your default device.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If your device has been the default device, you’ll see a green check mark next to your device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72066a032c.jpg)
 4. Restart your computer, and plug a headphone to see if there’s any sound.
 
 Still no luck? Okay, there’s one more thing to try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ### Fix 3: Roll back your audio driver
 
  Another effective method to resolve the no sound issue is to roll back your audio driver. To do so:
@@ -90,16 +92,20 @@ Still no luck? Okay, there’s one more thing to try.
 3. Double click**Sound, video and game controllers** to expand it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72165a0e6f.jpg)
 4. Double click on your**audio device** to open the properties pane.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7218e14fa5.jpg)
 5. Click the**Driver** tab, and click**Roll Back Driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721ba8a50e.jpg)
 6. Follow the on-screen instructions to finish the process.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 7. Restart your computer.
 
 Test your computer and see if it fixes the sound problem.
@@ -117,8 +123,6 @@ Feel free to leave a comment below if you have any questions.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +130,24 @@ Feel free to leave a comment below if you have any questions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-ultimate-guide-to-top-6-creative-mojave-dwellings-for-2024/"><u>[New] Ultimate Guide to Top 6 Creative Mojave Dwellings for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-delving-into-asmrs-potential-upsides/"><u>[Updated] In 2024, Delving Into ASMR's Potential Upsides</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-leveraging-fb-instream-ad-techniques-to-boost-engagement/"><u>[Updated] In 2024, Leveraging FB Instream Ad Techniques to Boost Engagement</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-integrating-music-into-unboxing-videos-a-comprehensible-manual/"><u>[Updated] Integrating Music Into Unboxing Videos A Comprehensible Manual</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-not-working-fixes-for-silent-playbacks-in-firefox-unveiled/"><u>Audio Not Working? Fixes for Silent Playbacks in Firefox Unveiled</u></a></li>
+<li><a href="https://win-blog.techidaily.com/city-skylines-2-stability-fixes-for-a-seamless-gaming-experience-on-pc/"><u>City Skylines 2 Stability Fixes for a Seamless Gaming Experience on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-resolving-game-sounds-issues-in-outriders/"><u>Expert Advice on Resolving Game Sounds Issues in Outriders</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-restoring-sound-in-csglobal-offensive-pc-version/"><u>Expert Advice on Restoring Sound in CS:Global Offensive PC Version</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fast-track-mic-diagnostics-a-step-by-step-guide-to-easy-microphone-testing/"><u>Fast-Track Mic Diagnostics: A Step-by-Step Guide to Easy Microphone Testing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-voice-chat-glitches-for-an-uninterrupted-experience-in-valorant/"><u>Fixing Voice Chat Glitches for an Uninterrupted Experience in VALORANT</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-malfunctioning-corsair-audio-device-troubleshooting-tips/"><u>Fixing Your Malfunctioning Corsair Audio Device: Troubleshooting Tips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Itel P55+? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-basic-to-brilliant-top-10-pixlr-techniques/"><u>In 2024, From Basic to Brilliant Top 10 Pixlr Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/lights-camera-action-mastering-fundamental-shots-first/"><u>Lights, Camera, Action! Mastering Fundamental Shots First</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016491959-solve-the-mystery-of-a-quiet-logitech-g933-quick-fixes-revealed/"><u>Solve the Mystery of a Quiet Logitech G933 - Quick Fixes Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-guide-fixing-non-responsive-desktop-speakers/"><u>Ultimate Troubleshooting Guide: Fixing Non-Responsive Desktop Speakers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/zero-expense-image-manipulation-mastery-using-gimp-for-multiple-operating-systems-a-complete-review/"><u>Zero Expense Image Manipulation Mastery Using GIMP for Multiple Operating Systems: A Complete Review</u></a></li>
+</ul></div>
 

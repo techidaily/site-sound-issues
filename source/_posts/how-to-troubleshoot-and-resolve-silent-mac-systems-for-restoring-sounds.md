@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot and Resolve Silent Mac Systems for Restoring Sounds
-date: 2024-08-27T21:04:59.243Z
-updated: 2024-08-28T21:04:59.243Z
+date: 2024-12-05T21:36:35.313Z
+updated: 2024-12-10T21:10:35.961Z
 tags:
   - win11
   - win10
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/32523e559641d9ec27c8a10ab7be14cb0b35f831c
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your audio drivers
 
  A missing or outdated audio driver may also stop your audio service from running. You should update your audio drivers to better troubleshoot your problem.
@@ -62,22 +66,17 @@ OR
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1fc67e2400.jpg)
 3. Click the **Update** button next to your audio driver to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc075f35e6b9.jpg)
 4. Check if your computer now plays music properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 3, below.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Reinstall your audio drivers
 
  If the above steps didn’t work for you, you can also try reinstalling your audio drivers via Device Manager:
@@ -86,18 +85,23 @@ OR
 2. Type **devmgmt.msc** and click**OK** to access Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f6f812df0.png)
 3. Expand the **Sound, video and game controllers** category.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f7aec80f7.jpg)
 4. For each audio device under that category, right-click on it and select**Uninstall device** . Note: Click**Uninstall** if prompted for confirmation.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f91648965.png)
 5. Restart your computer, then check if your problem is resolved.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -114,8 +118,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +125,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-how-can-you-stream-a-pre-recorded-video-live-on-facebook/"><u>[New] In 2024, How Can You Stream A Pre-Recorded Video Live on Facebook?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-get-hooked-our-curated-12-best-pc-clicker-titles/"><u>[Updated] Get Hooked Our Curated 12 Best PC Clicker Titles</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-cutting-to-the-chase-solutions-for-stagnant-srt-exports-in-premiere/"><u>2024 Approved Cutting to the Chase Solutions for Stagnant SRT Exports in Premiere</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-discover-strength-in-cinema-our-list-of-motivational-flicks/"><u>2024 Approved Discover Strength in Cinema Our List of Motivational Flicks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-ultimate-guide-to-superior-4ks/"><u>2024 Approved The Ultimate Guide to Superior 4Ks</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/enhancing-your-printer-output-a-guide-by-yl-computing-and-yl-software/"><u>Enhancing Your Printer Output: A Guide by YL Computing and YL Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-disabling-advanced-audio-effects-in-windows-10/"><u>Expert Tips for Disabling Advanced Audio Effects in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-overcome-squad-communication-hurdles-mic-not-working-fixes/"><u>Expert Tips to Overcome Squad Communication Hurdles - Mic Not Working Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/improve-your-sound-quality-increase-speaker-volume-like-a-pro-in-windows-10/"><u>Improve Your Sound Quality – Increase Speaker Volume Like a Pro in Windows 10</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 with/without SIM Card</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-key-to-youtube-stardom-reaching-submillion-status/"><u>In 2024, The Key to YouTube Stardom Reaching Submillion Status</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-artificial-intelligence-for-enhanced-content-generation-exploring-chatbot-capabilities/"><u>Leveraging Artificial Intelligence for Enhanced Content Generation: Exploring Chatbot Capabilities</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silence-no-more-resolving-laptop-speaker-problems-efficiently/"><u>Silence No More: Resolving Laptop Speaker Problems Efficiently</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-fix-a-non-functional-microphone-in-fortnite/"><u>Solved: How to Fix a Non-Functional Microphone in Fortnite</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-eliminating-the-cant-play-test-sound-problem-with-ease/"><u>Step-by-Step Guide: Eliminating the Can't Play Test Sound Problem with Ease</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-repairing-your-skype-mic-setup-on-the-latest-microsoft-operating-system/"><u>Step-by-Step Solutions: Repairing Your Skype Mic Setup on the Latest Microsoft Operating System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015783019-unstuck-at-last-fix-windows-11s-malfunctioning-microphone-today/"><u>Unstuck at Last: Fix Windows 11'S Malfunctioning Microphone Today!</u></a></li>
+</ul></div>
 

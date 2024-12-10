@@ -1,7 +1,7 @@
 ---
 title: Fixing Audio Issues on Your Computer Without Hearing a Beep
-date: 2024-11-09T16:57:23.805Z
-updated: 2024-11-15T17:27:57.921Z
+date: 2024-12-04T16:37:54.628Z
+updated: 2024-12-10T19:04:24.254Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes for the Realtek microphone not working problem
 
  You don’t have to try all the following fixes: simply work your way down the list until you find the one that does the trick to fix the Realtek microphone not working problem for you.
@@ -40,10 +44,7 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Make sure your microphone is not muted
@@ -69,18 +70,24 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then try your Realtek microphone again to see if it works properly now. If the problem remains, please move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update the sound card driver
 
@@ -95,13 +102,6 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
@@ -131,13 +131,6 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Repair corrupted or damaged system files
 
 **Repairing corrupted or damaged system files** could also help fix issues like the Realtek microphone not working on PC. This is because the integrity of Windows system files is essential for proper operation and stability, while errors in critical system files can cause all sorts of problems that affect the overall system performance.
@@ -148,14 +141,12 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -182,13 +173,6 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
  If the Realtek microphone remains not working even after a reset, then the next thing you should do is seek help from a hardware technician to see if your hardware components (the motherboard or the Realtek sound card) are at fault.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Final thought
 
@@ -217,16 +201,24 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/bypassing-directdraw-errors-solutions-for-smooth-performance/"><u>Bypassing DirectDraw Errors: Solutions for Smooth Performance</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/improve-your-cyberpunk-2077-experience-resolving-the-games-infamous-sound-distortion-problems/"><u>Improve Your Cyberpunk 2077 Experience: Resolving the Game's Infamous Sound Distortion Problems</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-top-rated-8-android-tools-for-team-video-calls/"><u>In 2024, The Top-Rated 8 Android Tools for Team Video Calls</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/oculus-quest-2-headset-solutions-for-a-malfunctioning-built-in-microphone/"><u>Oculus Quest 2 Headset: Solutions for a Malfunctioning Built-In Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-audio-hurdles-in-re8-solutions-for-a-smoother-gaming-experience/"><u>Overcoming Audio Hurdles in RE8 – Solutions for a Smoother Gaming Experience</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-strategy-for-detecting-deleting-and-defending-your-phone-from-android-ransomware-threats/"><u>Step-by-Step Strategy for Detecting, Deleting, and Defending Your Phone From Android Ransomware Threats</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-push-for-non-partisan-non-denominational-profile-spaces/"><u>The Push for Non-Partisan, Non-Denominational Profile Spaces</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-tech-manual-for-saving-web-streamed-television-for-2024/"><u>The Ultimate Tech Manual for Saving Web-Streamed Television for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixes-restoring-audio-in-apex-legends/"><u>Troubleshooting Fixes: Restoring Audio in Apex Legends</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-tcls-32s325-the-ultimate-guide-to-a-stylish-brains-powered-roku-smart-led-tv-of-2019/"><u>Unveiling TCL's 32S325: The Ultimate Guide to a Stylish, Brains-Powered Roku Smart LED TV of 2019</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/winx-platinum-dvd-ripper-ultimate-fast-efficient-burner-and-duplicator-for-secured-discs-on-windows-10/"><u>WinX Platinum DVD Ripper Ultimate - Fast, Efficient Burner & Duplicator for Secured Discs on Windows 10</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-digital-delight-designer-for-2024/"><u>[New] Digital Delight Designer for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-quick-guide-to-capturing-moments-during-google-meets/"><u>[New] Quick Guide to Capturing Moments During Google Meets</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-ranking-the-top-8-apps-to-increase-popularity-on-facebook/"><u>[Updated] 2024 Approved Ranking the Top 8 Apps to Increase Popularity on Facebook</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-expertise-in-edits-selecting-premier-video-tools-for-2024/"><u>[Updated] Expertise in Edits Selecting Premier Video Tools for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/blue-yeti-unrecognized-by-computer-essential-troubleshooting-steps-to-follow/"><u>Blue Yeti Unrecognized by Computer? Essential Troubleshooting Steps to Follow</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bringing-beats-integrating-music-in-inshot-editor-for-2024/"><u>Bringing Beats Integrating Music in InShot Editor for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/capturing-clear-and-clean-vocal-audio-for-your-videos/"><u>Capturing Clear and Clean Vocal Audio for Your Videos</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/cumuluspro-desk-mat-assessment-the-perfect-foundation-for-ergonomic-health/"><u>CumulusPRO Desk Mat Assessment: The Perfect Foundation for Ergonomic Health</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-the-logitech-g430-mic-connection-problems/"><u>Diagnosing and Repairing the Logitech G430 Mic Connection Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-restoring-realtek-microphone-functionality/"><u>Diagnosing and Restoring Realtek Microphone Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repairs-how-to-restore-functionality-to-your-sound-blaster-mic/"><u>DIY Repairs: How to Restore Functionality to Your Sound Blaster Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015087351-modern-warfare-voice-communication-issues-solved/"><u>Modern Warfare Voice Communication Issues - Solved</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/h-cinematography-premium-stabilizer-recommendations-for-2024/"><u>Smooth Cinematography Premium Stabilizer Recommendations for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016849789-solution-steps-why-is-my-razer-kraken-mic-not-working-find-out-here/"><u>Solution Steps: Why Is My Razer Kraken Mic Not Working? Find Out Here</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/transforma-tus-archivos-mp3-a-formato-webm-gratuitamente-online-con-convertidor-de-audio-movavi/"><u>Transforma Tus Archivos MP3 a Formato Webm Gratuitamente Online Con Convertidor De Audio - Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015017246-trouble-with-pc-microphone-in-zoom-heres-how-to-restore-it/"><u>Trouble with PC Microphone in Zoom? Here's How to Restore It!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016967623-troubleshooting-tips-for-solving-logitech-g533-headset-mic-issues-all-cases-covered/"><u>Troubleshooting Tips for Solving Logitech G533 Headset Mic Issues - All Cases Covered!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-tricks-for-maximizing-sound-output-in-windows-10-systems/"><u>Ultimate Tricks for Maximizing Sound Output in Windows 10 Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/upgraded-windows-experience-release-of-new-amd-radeon-hd-6950-drivers/"><u>Upgraded Windows Experience: Release of New AMD Radeon HD 6950 Drivers</u></a></li>
 </ul></div>
 

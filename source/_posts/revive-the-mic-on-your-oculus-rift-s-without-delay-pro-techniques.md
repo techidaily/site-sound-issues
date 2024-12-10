@@ -1,7 +1,7 @@
 ---
 title: Revive the Mic on Your Oculus Rift S Without Delay - Pro Techniques
-date: 2024-12-01T16:36:18.275Z
-updated: 2024-12-04T02:17:37.207Z
+date: 2024-12-08T17:49:02.120Z
+updated: 2024-12-10T16:13:27.771Z
 tags:
   - win11
   - win10
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/99fe81a7264fad21c10b59936e2340ed2f52f70dd
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-36-29-1.png)
 2. In the Windows audio settings window, navigate to**the Recording tab** , select the microphone you want to test and click**Configure** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-37-58.png)
 3. Click**Set up microphone** .  
 
@@ -65,19 +69,15 @@ Follow the steps below to test your microphone in Windows audio settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-41-21.png)
 2. Navigate to**the Recording tab** . Select the microphone you’re going to test, then try speaking into your microphone to test if it works properly. If it is, you should see some green in the bar on the right. Click**OK** to close the window after testing.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-42-45.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-42-45.png)
 
  If the microphone you’re going to test is not the default device for recording, you need to click**the Set Default button** to set it as the default device first.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Mic testing with the built-in Voice Recorder app
 
@@ -87,18 +87,22 @@ Follow the steps below to test your microphone in Windows audio settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-44-48.png)
 2. Click**the record icon** to start recording. Try speaking into your microphone.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-45-47.png)
 3. Click**the stop button** to stop recording.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-46-27.png)
 4. Click the recording file to replay it. If your microphone is fine, you should be able to hear your voice clearly.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-47-16.png)
@@ -123,15 +127,11 @@ Follow the steps below to test your microphone in Windows audio settings:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Alternatively if you’re comfortable manually installing drivers, you can click**Update** next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-49-09.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade. Don’t worry; it comes with a**30-day money-back guarantee** , so if you don’t like it you can get a full refund, no questions asked.
 
@@ -155,19 +155,18 @@ Follow the steps below to test your microphone in Windows audio settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-the-art-of-viral-videos-no-budget-necessary/"><u>[New] 2024 Approved The Art of Viral Videos No Budget Necessary</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-enhance-visibility-the-most-effective-30-freefire-tags-for-video-marketing/"><u>[Updated] 2024 Approved Enhance Visibility The Most Effective 30 FreeFire Tags for Video Marketing</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-pioneering-posts-a-facebook-guide-to-going-viral/"><u>[Updated] 2024 Approved Pioneering Posts A Facebook Guide to Going Viral</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-in-depth-review-of-razers-high-res-cam/"><u>2024 Approved In-Depth Review of Razer's High-Res Cam</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-streamline-your-content-on-youtube-a-detailed-tutorial/"><u>2024 Approved Streamline Your Content on YouTube A Detailed Tutorial</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-tips-for-efficient-music-import-in-inshot-app/"><u>2024 Approved Tips for Efficient Music Import in InShot App</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-confusion-solved-ensuring-sound-goes-to-headphones-not-speakers/"><u>Audio Confusion Solved: Ensuring Sound Goes to Headphones, Not Speakers</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-vivo-v30-pro-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Vivo V30 Pro FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-to-correctly-configure-mystery-speakers-in-windows-10-os/"><u>Expert Tips to Correctly Configure Mystery Speakers in Windows 10 OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-restore-disappeared-desktop-folder-at-cwindowssystem32configsystemprofile/"><u>Guide to Restore Disappeared Desktop Folder at C: Windows System32 Config SystemProfile</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-resolving-headphone-malfunction-on-windows-11-devices/"><u>Guide: Resolving Headphone Malfunction on Windows 11 Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-on-a-paired-bluetooth-gadget-fixed/"><u>How to Restore Audio on a Paired Bluetooth Gadget [FIXED]</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-honor-magic-5-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Honor Magic 5 to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-audio-problems-with-windows-11-effective-strategies-for-working-speakers/"><u>Resolving Audio Problems with Windows 11: Effective Strategies for Working Speakers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-youtube-rights-vs-cc-licensing/"><u>[New] 2024 Approved YouTube Rights Vs. CC Licensing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-correcting-accidental-youself-reappearances-on-social-media-for-2024/"><u>[New] Correcting Accidental 'Youself' Reappearances on Social Media for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-mastering-the-art-of-podcast-scheduling/"><u>[New] Mastering the Art of Podcast Scheduling</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/advanced-argon-dashboard-v2-pro-enhanced-php-management-with-creative-tims-expertise/"><u>Advanced Argon Dashboard v2 Pro: Enhanced PHP Management with Creative Tim's Expertise</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-laptop-speaker-problems-effectively/"><u>Diagnosing and Repairing Laptop Speaker Problems Effectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-fixes-for-a-non-functional-corsair-virtuoso-microphone/"><u>DIY Fixes for a Non-Functional Corsair Virtuoso Microphone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/echo-chamber-best-online-spots-for-free-skype-music/"><u>Echo Chamber Best Online Spots for Free Skype Music</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/experiencing-problems-with-your-blue-yeti-microphone-discover-how-to-quickly-resolve-recognition-glitches/"><u>Experiencing Problems with Your Blue Yeti Microphone? Discover How to Quickly Resolve Recognition Glitches</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-reactivating-one-or-more-malfunctioning-sound-services/"><u>Expert Advice on Reactivating One or More Malfunctioning Sound Services</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-no-audio-on-your-astro-a50-effective-steps-taken-swiftly/"><u>Fixing No Audio on Your Astro A50: Effective Steps Taken Swiftly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-corsair-earphones-troubleshooting-when-they-stop-functioning/"><u>Fixing Your Corsair Earphones: Troubleshooting When They Stop Functioning</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-sony-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Sony</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-visual-guide-to-aspect-ratios-on-platforms-like-youtube-for-2024/"><u>The Visual Guide to ASPECT RATIOS on Platforms Like YouTube for 2024</u></a></li>
 </ul></div>
 

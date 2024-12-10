@@ -1,7 +1,7 @@
 ---
 title: Astro A50 Silent Problem? Here's How to Get Sound Working Again!
-date: 2024-11-28T18:15:23.983Z
-updated: 2024-12-03T16:49:26.825Z
+date: 2024-12-06T20:08:55.328Z
+updated: 2024-12-10T16:59:35.827Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ If you run into the**Lenovo laptop no sound** issue, don’t panic. It’s often
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes for**Lenovo laptop no sound**
 
@@ -47,10 +51,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Make sure the volume is audible
 
  Sometimes you can’t hear sound from your speakers simply because the volume is mute or set too low.
@@ -68,7 +68,7 @@ To make sure the volume is audible:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
@@ -85,23 +85,19 @@ To make sure the volume is audible:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e879b5615.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e8c0387a6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
  4) **Restart** your computer and test if you get sound back on your Lenovo laptop. If yes, then congrats! If the no sound issue persists, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Set default audio devices
 
@@ -123,6 +119,10 @@ To do so:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable audio enhancements
 
  Audio enhancements, as the name suggests, are features that allow for highest sound fidelity from your hardware. But depending on your configuration, they can also interfere with your system and trigger sound problems. So we should disable audio enhancements to see if it fixes the no sound on laptop problem.
@@ -133,10 +133,6 @@ Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7f6955a2d7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the **Playback** tab, right-click on **your default audio device** and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd80da9483df.jpg)
@@ -144,6 +140,10 @@ Here’s how:
  3) Click the **Enhancements** tab, then tick **the bo** x for **Disable all enhancements** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd80d9349581.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Test your audio device and see if the no sound issue is resolved.
 
@@ -172,24 +172,16 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-from-script-to-screen-cutting-edge-video-editing-for-youtubers/"><u>[New] 2024 Approved From Script to Screen Cutting-Edge Video Editing for YouTubers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-3-step-guide-to-ascertain-googles-profitable-potential-youtube-analysis/"><u>[Updated] In 2024, 3-Step Guide to Ascertain Google's Profitable Potential YouTube Analysis</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-future-frameworks-exclusive-list-of-top-cameras/"><u>2024 Approved Future Frameworks Exclusive List of Top Cameras</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-airpods-mic-not-working-on-windows-11/"><u>Fix Airpods Mic Not Working on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016872786-fixing-persistent-audio-glitches-on-your-pc-solutions-inside/"><u>Fixing Persistent Audio Glitches on Your PC: Solutions Inside!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-clear-audio-back-in-no-time-fixed-skype-volume-problems-demystified/"><u>Get Clear Audio Back in No Time: Fixed Skype Volume Problems Demystified</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-enable-and-repair-microsoft-teams-microphone-in-windows-1011/"><u>How to Enable and Repair Microsoft Teams Microphone in Windows 10/11</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-realme-gt-neo-5-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-hp-envy-27-4k-usb-c-monitor-review/"><u>In 2024, HP Envy 27 4K USB-C Monitor Review</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-honor-70-lite-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Honor 70 Lite 5G</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-virtual-venues-clash-obstwitch-live/"><u>In 2024, Virtual Venues Clash OBS/Twitch Live</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/inside-chatgpt-jailbreaking-is-it-worth-the-risks/"><u>Inside ChatGPT Jailbreaking: Is It Worth The Risks?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/master-the-art-of-reviving-your-rust-microphone-with-our-expert-tips-and-tricks/"><u>Master the Art of Reviving Your Rust Microphone with Our Expert Tips & Tricks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-logitech-g733-ultimate-guide-to-mic-repair/"><u>Revive Your Logitech G733 - Ultimate Guide to Mic Repair</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-speakers-a-guide-to-overcoming-conexant-smartaudio-hds-no-sound-dilemma-in-windows-10/"><u>Revive Your Speakers: A Guide to Overcoming Conexant SmartAudio HD's No Sound Dilemma in Windows 10</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/rhythm-discoveries-at-your-fingertips-free-online-for-2024/"><u>Rhythm Discoveries at Your Fingertips (Free, Online) for 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/top-logiciels-de-synchronisation-en-direct-pour-les-environnements-locaux-et-reticulaires/"><u>Top Logiciels De Synchronisation en Direct Pour Les Environnements Locaux Et Réticulaires</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/touch-id-disconnectivity-in-os/"><u>Touch ID Disconnectivity in OS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/update-overcoming-muted-web-browsing-experience-with-firefox/"><u>Update: Overcoming Muted Web Browsing Experience with Firefox</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-yuneecs-aerodrone-typhoon-h-evaluation-report/"><u>[New] In 2024, Yuneec’s AeroDrone Typhoon H Evaluation Report</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-journey-to-the-ultimate-vr-cycling-spaces-for-2024/"><u>[Updated] Journey to the Ultimate VR Cycling Spaces for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-screen-saving-snapchat-memories-on-phone/"><u>[Updated] Screen Saving Snapchat Memories on Phone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-non-functional-razer-blackshark-v2-microphones/"><u>Effective Fixes for Non-Functional Razer Blackshark V2 Microphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-solving-connectivity-issues-in-the-kotion-g2000-series-mics/"><u>Expert Advice: Solving Connectivity Issues in the Kotion G2000 Series Mics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-correct-recent-audio-malfunctions-in-games/"><u>Expert Tips to Correct Recent Audio Malfunctions in Games</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-resolving-non-functional-realtek-mic-situations/"><u>Expert Tips: Resolving Non-Functional Realtek Mic Situations</u></a></li>
+<li><a href="https://driver-install.techidaily.com/intuitive-software-installation-toolkit-model-2650-epson/"><u>Intuitive Software Installation Toolkit: Model 2650 Epson</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/master-updating-the-centrino-advanced-n-6235-drivers-made-simple/"><u>Master Updating: The Centrino Advanced-N 6235 Drivers Made Simple</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/red-free-offer-unlock-our-exclusive-youtube-banner-pack-in-2024/"><u>Tailored Free Offer - Unlock Our Exclusive YouTube Banner Pack, In 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ate-mic-selection-for-online-talent-for-2024/"><u>Ultimate Mic Selection for Online Talent for 2024</u></a></li>
 </ul></div>
 

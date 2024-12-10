@@ -1,7 +1,7 @@
 ---
 title: "Get Your Sound Back: Fix Voice Chat and Microphone Malfunctions on PC & Consoles for Call of Duty's Battle Royale Game."
-date: 2024-11-30T02:10:29.150Z
-updated: 2024-12-03T20:03:37.802Z
+date: 2024-12-05T16:21:18.863Z
+updated: 2024-12-10T20:30:39.626Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 4. **[Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Check out the obvious
@@ -55,16 +55,8 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.png)
 3. Under the**Voice** tab, make sure the Join voice channel automatically option is checked.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-1.png)
 4. Check to see if you can use the voice chat feature properly in game. If yes, then great! If it’s no joy, please move on to**Fix 3** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Configure the audio settings
 
@@ -82,14 +74,22 @@ You can follow the steps below to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio-2.png)
 4. Speak into yout mic to test if the indicator bar on the right moves. If yes, your mic should be working properly. If it doesn’t, check your headphone device to make sure it’s not muted.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click the**Advanced**  tab. Under the **Default Format** section, choose a different sample rate and bit depth and click**Test** . Repeat this process until you find a format that works for you. After that, make sure the box for**Allow application to take exclusive control of this deviice** is**unticked** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/111-1.png)
 6. Once finished, click**Apply** \>**OK** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Test in WoW to see if you can communicate with your friends. If it still gives you no luck, you should try**Fix 4** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your audio drivers
@@ -105,12 +105,12 @@ You can follow the steps below to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Re-launch LoL, then test voice chatting with your friends to see if it solves the error.
@@ -135,20 +135,21 @@ You can follow the steps below to check:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-the-insiders-guide-to-recording-games-in-windows-11-for-2024/"><u>[New] The Insider's Guide to Recording Games in Windows 11 for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-a-peek-into-the-best-mac-applications-for-sniping-perfectly/"><u>[Updated] 2024 Approved A Peek Into the Best Mac Applications for Sniping Perfectly</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-decoding-firefoxs-pip-multimedia-feature-for-2024/"><u>[Updated] Decoding Firefox's PIP Multimedia Feature for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-inside-the-world-of-xmedia-workshop-a-thorough-examination/"><u>2024 Approved Inside the World of XMedia Workshop A Thorough Examination</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-fixes-to-restore-audio-functionality-on-toshiba-devices/"><u>Comprehensive Fixes to Restore Audio Functionality on Toshiba Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/effortless-mp4-video-editing-with-no-re-encoding-advanced-splitting-and-cropping-tools/"><u>Effortless MP4 Video Editing with No Re-Encoding: Advanced Splitting & Cropping Tools</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-sizzling-sound-in-earbuds-simple-solutions-for-noise-free-listening/"><u>Fix Sizzling Sound in Earbuds: Simple Solutions for Noise-Free Listening!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722971370458-get-your-free-techkey-bluetooth-drivers-for-win-10-7-and-8-instant-download/"><u>Get Your Free Techkey Bluetooth Drivers for Win 10, 7 & 8 - Instant Download!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-fortnites-microphone-issues-fast-solutions/"><u>How to Fix Fortnite's Microphone Issues - Fast Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-astro-a50s-nonfunctional-mic-easily/"><u>How to Repair Your Astro A50's Nonfunctional Mic Easily</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-fixing-obs-audio-gear-malfunctions/"><u>How to Restore Functionality: FIXing OBS Audio Gear Malfunctions</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Realme GT 5? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-cutting-edge-techniques-for-saving-insta-videos/"><u>In 2024, Cutting-Edge Techniques for Saving Insta Videos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-restoring-sounds-to-your-black-ops-cold-war-gaming-experience-on-computer/"><u>Solution Guide: Restoring Sounds to Your Black Ops Cold War Gaming Experience on Computer</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/rt-of-attraction-mastering-youtubes-glamour-trove/"><u>The Art of Attraction Mastering Youtube's Glamour Trove</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-top-9-camera-extras-for-professional-level-vlogging-on-smartphones/"><u>[New] 2024 Approved Top 9 Camera Extras for Professional-Level Vlogging on Smartphones</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-quality-matters-the-advantages-and-disadvantages-of-different-fps/"><u>[Updated] In 2024, Quality Matters The Advantages & Disadvantages of Different FPS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dive-into-chilling-tales-the-ultimate-list-of-top-13-true-crime-narratives-on-podcasts/"><u>Dive Into Chilling Tales: The Ultimate List of Top 13 True Crime Narratives on Podcasts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/end-silent-screenings-top-strategies-to-restore-audio-in-pc-users-facebook-video-playbacks/"><u>End Silent Screenings: Top Strategies to Restore Audio in PC Users' Facebook Video Playbacks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-guide-to-enable-sound-capturing-in-discord-during-games/"><u>Expert Guide to Enable Sound Capturing in Discord During Games</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-solutions-reviving-a-broken-corsair-audio-gear-easily/"><u>Expert Solutions: Reviving a Broken Corsair Audio Gear Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-discords-push-to-talk-issue-a-comprehensive-guide/"><u>Fixing Discord's Push-to-Talk Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-no-sound-in-fortnite-expert-tips-and-techniques-to-restore-audio-quality/"><u>Fixing No Sound in Fortnite: Expert Tips and Techniques to Restore Audio Quality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/game-sounds-on-resolving-discords-game-audio-issues/"><u>Game Sounds On! - Resolving Discord's Game Audio Issues</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-vivo-v27-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo V27 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-the-art-of-cross-platform-skype-chats-with-this-comprehensive-guide-for-2024/"><u>Mastering the Art of Cross-Platform Skype Chats with This Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi-dts-to-wav/"><u>Movavi의 공식 DTS to WAV 코어 이동 서비스 - 인터넷을 통한 제대로 무료 구현</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/paso-a-paso-para-aumentar-la-capacidad-de-almacenamiento-con-una-unidad-ssd-o-hdd-mas-grande-en-windows-11/"><u>Paso a Paso Para Aumentar La Capacidad De Almacenamiento Con Una Unidad SSD O HDD Más Grande en Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016500272-solve-airpods-microphone-failure-in-windows-10-with-easy-fixes/"><u>Solve 'AirPods Microphone Failure' In Windows 10 with Easy Fixes!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/spectrum-savvy-the-filmmakers-guide-to-color-for-2024/"><u>Spectrum Savvy The Filmmaker's Guide to Color for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-realme-c55-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Realme C55 without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
 

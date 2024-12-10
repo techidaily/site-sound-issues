@@ -1,7 +1,7 @@
 ---
 title: "A Step-by-Step Fix for No Sound Error During Call of Duty: Black Ops Cold War on PC Gaming Rigs"
-date: 2024-08-27T21:02:59.746Z
-updated: 2024-08-28T21:02:59.746Z
+date: 2024-12-09T21:24:27.212Z
+updated: 2024-12-10T19:26:21.692Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ If you get**HDMI no sound** error in**Windows 10** , don’t worry. You’re not
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: Check if all hardware devices work properly
 
  Broken hardware devices probably cause HDMI not to work. So before moving on to other solutions, check if all hardware devices work properly:
@@ -45,6 +49,11 @@ If you get**HDMI no sound** error in**Windows 10** , don’t worry. You’re not
 1. Right-click on the sound volume icon in the lower right corner of Windows. A context menu will pop up. Click **Playback devices** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_59a3d159c97f2.png)
 2. In the**Playback** tab, select**Digital Output Device** or**HDMI** option. Click**Set Default** and click**OK** . Then the HDMI sound output will be set as default.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-29.png)
 
  If you do not see the Digital Output Device or HDMI option in the Playback tab, right-click on the blank place, then click Show disconnected devices and Show disabled devices on the context menu. Then set it as the default device.
@@ -54,8 +63,9 @@ If you get**HDMI no sound** error in**Windows 10** , don’t worry. You’re not
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Solution 3: Update the Sound Driver
 
  Your HDMI no sound problem can be caused by corrupt or missing audio driver issues. To fix the problem, you can try to update the sound driver.
@@ -70,16 +80,18 @@ If you get**HDMI no sound** error in**Windows 10** , don’t worry. You’re not
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. Restart your computer for the changes to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -87,16 +99,10 @@ If you get**HDMI no sound** error in**Windows 10** , don’t worry. You’re not
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 4: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
  Now that we have the internet, fast connection speeds, free cloud storage, and endless web apps (like Gmail, Google Docs, Slack, Facebook, Dropbox and Spotify), the entire Windows way of doing things – with locally installed programs and local file storage – is totally outdated.
@@ -127,8 +133,6 @@ And that’s just the start of the benefits…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +140,24 @@ And that’s just the start of the benefits…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-encompassing-vsco-photo-editor-explained/"><u>[New] Encompassing VSCO Photo Editor Explained</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-reversing-the-flow-a-guide-to-tracing-instagram-pics-backwards/"><u>[Updated] In 2024, Reversing the Flow A Guide to Tracing Instagram Pics Backwards</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/comprehensive-guide-ps4-recording-via-obs-studio/"><u>Comprehensive Guide PS4 Recording via OBS Studio</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-840-g3-drivers-download-and-install/"><u>HP 840 G3 Drivers Download and Install</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/optimizing-your-pcs-sound-settings-by-removing-enhancements-in-windows-11/"><u>Optimizing Your PC's Sound Settings by Removing Enhancements in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-audio-irregularities-and-warping-problems-in-windows-os-117-step-by-step-remedies-available-now/"><u>Overcome Audio Irregularities and Warping Problems in Windows OS (11/7): Step-by-Step Remedies Available Now</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/pro-tips-to-perfectly-capture-your-mac-with-ease-and-speed/"><u>Pro Tips to Perfectly Capture Your Mac with Ease and Speed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-man-o-war-mic-failure-resolved-steps-to-restore-functionality/"><u>Razer Man O' War Mic Failure Resolved: Steps to Restore Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-disruptive-sound-cuts-in-windows-11-with-these-proven-techniques/"><u>Resolve Disruptive Sound Cuts in Windows 11 with These Proven Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-silent-pcs-following-the-latest-windows-11-patch/"><u>Resolve Silent PCs Following the Latest Windows 11 Patch</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-headphone-and-speaker-connectivity-problems-on-microsoft-windows-platforms/"><u>Resolving Headphone and Speaker Connectivity Problems on Microsoft Windows Platforms</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-issues-and-upgrading-to-idt-hd-audio-codec-for-optimal-performance-on-your-windows-10-system/"><u>Resolving Issues & Upgrading to IDT HD Audio Codec for Optimal Performance on Your Windows 10 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-a-non-functioning-sound-blaster-audio-input-device/"><u>Reviving a Non-Functioning Sound Blaster Audio Input Device</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionize-your-repository-adding-meaning-through-labels/"><u>Revolutionize Your Repository: Adding Meaning Through Labels</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-walkthrough-to-offline-minecraft-gaming-on-windows-11-systems/"><u>The Ultimate Walkthrough to Offline Minecraft Gaming on Windows 11 Systems</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/tiktok-malfunctions-resetting-or-repairing-in-2024/"><u>TikTok Malfunctions Resetting or Repairing, In 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-dvd-unlocking-software-options-for-windows-10-and-11-users/"><u>Top DVD Unlocking Software Options for Windows 10 & 11 Users</u></a></li>
+</ul></div>
 

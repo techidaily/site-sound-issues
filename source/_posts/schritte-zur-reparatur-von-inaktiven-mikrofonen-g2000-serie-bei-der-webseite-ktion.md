@@ -1,7 +1,7 @@
 ---
 title: Schritte Zur Reparatur Von Inaktiven Mikrofonen G2000-Serie Bei Der Webseite Ktion
-date: 2024-11-13T18:01:31.569Z
-updated: 2024-11-15T16:30:38.693Z
+date: 2024-12-07T22:20:10.465Z
+updated: 2024-12-10T18:03:10.329Z
 tags:
   - win11
   - win10
@@ -62,13 +62,6 @@ Here’s how you can do this:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
 2. Click**Sound Control Panel** .![open sound control panel](https://images.drivereasy.com/wp-content/uploads/2021/03/sound-control-panel.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Under the**Playback** tab, click on your Creative Pebble speakers and click**Set Default** .
 
  Once you’ve done that, verify via the speaker icon in the taskbar that the audio is not muted and is turned up. Then you can test by playing a song. If your Creative Pebble speakers still won’t produce any sound, don’t worry, there are a few other fixes you can try.
@@ -91,10 +84,7 @@ Here’s how to update drivers with Driver Easy:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
@@ -103,10 +93,7 @@ Here’s how to update drivers with Driver Easy:
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -124,18 +111,23 @@ Here’s how to update drivers with Driver Easy:
 ![run the audio troubleshooter Windows](https://images.drivereasy.com/wp-content/uploads/2021/03/audion-troubleshooter.png)
 2. Select your device and click**Next** to start the troubleshooting process. Then wait for it to complete and you may be asked to restart your computer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![run the audio troubleshooter Windows](https://images.drivereasy.com/wp-content/uploads/2021/03/next.png)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After it’s all done, try to use your speakers to check if they can be functioning well. If you’re still encountering sound failures, proceed to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Contact the customer service
 
@@ -162,21 +154,15 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-maximizing-roi-setting-up-and-assessing-fb-instream-ads/"><u>[New] Maximizing ROI Setting Up & Assessing FB Instream Ads</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-checklist-for-selecting-prime-streaming-services-of-cricket/"><u>[New] The Ultimate Checklist for Selecting Prime Streaming Services of Cricket</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-list-best-for-android-pics/"><u>[Updated] The Ultimate List Best for Android Pics</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-redmi-note-12r-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/apex-legends-audio-restoration-overcoming-the-mute-dilemma-effectively/"><u>Apex Legends Audio Restoration: Overcoming the Mute Dilemma Effectively</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/chinas-economical-virtual-reality-options/"><u>China's Economical Virtual Reality Options</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-for-when-your-instagram-stories-fail-to-upload/"><u>Effective Solutions for When Your Instagram Stories Fail to Upload</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-prime-day-bargain-with-the-99-fire-tv-stick-on-amazon-your-guide-to-the-best-deal-available-today/"><u>Get Prime Day Bargain with the $99 Fire TV Stick on Amazon - Your Guide to the Best Deal Available Today!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-microphone-challenges-in-windows-7-expert-fix-strategies/"><u>Overcoming Microphone Challenges in Windows 7: Expert Fix Strategies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-realtek-speakers-a-step-by-step-solution-for-loss-of-audio-feedback/"><u>Revive Your Realtek Speakers: A Step-by-Step Solution for Loss of Audio Feedback</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/scrutinizing-chatgpt-for-personal-data-exposure/"><u>Scrutinizing ChatGPT for Personal Data Exposure</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016117161-solution-recording-and-playing-games-audio-on-discord-now-possible/"><u>Solution: Recording and Playing Games Audio on Discord, Now Possible!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-discords-problem-with-recording-gaming-sounds-effectively/"><u>Solving Discord's Problem with Recording Gaming Sounds Effectively</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-restoring-audio-on-laptops-with-silent-onboard-speakers/"><u>Step-by-Step Tutorial: Restoring Audio on Laptops with Silent Onboard Speakers</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/the-secret-to-viral-videos-get-the-best-thumbnail-size-guide/"><u>The Secret to Viral Videos? Get the Best Thumbnail Size Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unstuck-your-voice-expert-tips-for-resolving-mic-not-working-problems-with-beyond-the-wire-devices/"><u>Unstuck Your Voice: Expert Tips for Resolving 'Mic Not Working' Problems with Beyond The Wire Devices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-fb-flicks-grabber-tool/"><u>[Updated] 2024 Approved FB Flicks Grabber Tool</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-find-the-perfect-mix-funny-touching-ig-meme-stories-of-ten/"><u>2024 Approved Find the Perfect Mix Funny, Touching IG Meme Stories of Ten</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/discovering-the-best-image-restoration-providers-of-2024-a-comprehensive-review-of-benefits-and-limitations/"><u>Discovering the Best Image Restoration Providers of 2024 - A Comprehensive Review of Benefits and Limitations</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016658102-fast-track-microphone-diagnosis-ensuring-optimal-audio-performance/"><u>Fast-Track Microphone Diagnosis: Ensuring Optimal Audio Performance!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sounds-in-your-borderlands-3-game-on-windowspc/"><u>How To Restore Sounds In Your Borderlands 3 Game On Windows/PC?</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-divx-video-editing-made-easy-top-free-cutting-tools/"><u>In 2024, Divx Video Editing Made Easy Top Free Cutting Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-silent-calls-on-skype-with-these-simple-steps/"><u>Resolve Silent Calls on Skype with These Simple Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-your-razer-mic-heres-a-quick-step-by-step-solution/"><u>Trouble With Your Razer Mic? Here's a Quick Step-by-Step Solution!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-invisible-social-signals-in-online-media-for-2024/"><u>Understanding Invisible Social Signals in Online Media for 2024</u></a></li>
 </ul></div>
 

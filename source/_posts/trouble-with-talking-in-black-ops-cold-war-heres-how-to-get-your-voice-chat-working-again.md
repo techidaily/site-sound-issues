@@ -1,7 +1,7 @@
 ---
 title: "Trouble with Talking in Black Ops: Cold War? Here's How to Get Your Voice Chat Working Again!"
-date: 2024-12-02T04:52:33.146Z
-updated: 2024-12-03T21:06:28.766Z
+date: 2024-12-05T21:02:37.890Z
+updated: 2024-12-10T21:34:35.142Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ Randomly can’t hear anyone on Discord? You’re not alone. This can happen whe
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Refresh your Discord app
@@ -46,6 +46,10 @@ If that didn’t work, proceed to the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Use Legacy Audio Subsystem
 
  There are instances where there’s an incompatibility between your hardware and Discord’s latest subsystem. Therefore, it’s recommended to revert to Legacy Audio Subsystem to fix the issue. To do this, follow these steps:
@@ -54,25 +58,25 @@ If that didn’t work, proceed to the next fix.
   
 ![open Discord settings](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the left pane, select**Voice & Video** . Scroll down to the**AUDIO SUBSYSTEM** section. Click on the down arrow and select**Legacy** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-AUDIO-SUBSYSTEM-Legacy.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) When a prompt message appears, click**Okay** . Then your Discord app will be relaunched.
 
 ![confirm to change audio subsystem Discord](https://images.drivereasy.com/wp-content/uploads/2020/12/confirm-to-change-audio-subsystem.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once Discord reboots, check to see if the problem is resolved.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your audio driver
 
@@ -94,10 +98,6 @@ Here’s how to update drivers with Driver Easy:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.
@@ -117,10 +117,6 @@ Here’s how to update drivers with Driver Easy:
  1) On your taskbar, right-click on the sound icon and select**Open Sound settings** .  
   
 ![open sound setitngs](https://images.drivereasy.com/wp-content/uploads/2020/12/open-sound-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) In the**Output** and**Input** section, make sure your audio device is set correctly.  
   
@@ -146,12 +142,16 @@ Here’s how to update drivers with Driver Easy:
   
 ![open Discord settings](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the left pane, select**Voice & Video** . Under the**OUTPUT DEVICE** section, click on the down arrow and select your output device instead of Default.
 
 ![use the correct output device Discord](https://images.drivereasy.com/wp-content/uploads/2020/12/use-the-correct-output-device.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Exit the Settings and you should be able to hear something from Discord.
@@ -185,21 +185,20 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-curated-insta-photos-in-slideshow/"><u>[New] 2024 Approved Curated Insta Photos in Slideshow</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-diverse-video-realms-sites-outshining-youtube/"><u>[New] 2024 Approved Diverse Video Realms Sites Outshining Youtube</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-ranking-premium-free-excellence-the-finest-free-lut-selections-for-2024/"><u>[New] Ranking Premium-Free Excellence The Finest Free LUT Selections for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-telegram-edge-advanced-tactics-for-effective-promotion/"><u>[Updated] In 2024, The Telegram Edge Advanced Tactics for Effective Promotion</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easy-fixes-for-your-dells-sound-driver-challenges-in-windows-7/"><u>Easy Fixes for Your Dell's Sound Driver Challenges in Windows 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-fixes-what-to-do-when-your-headset-microphone-wont-work/"><u>Expert Fixes: What to Do When Your Headset Microphone Won't Work</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-misidentified-no-audio-situations-with-speakers-or-headphones-plugged-in-on-pcs-windows-1087/"><u>Fixing Misidentified No-Audio Situations with Speakers or Headphones Plugged In on PCs (Windows 10/8/7)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hdmi-connectivity-problems-and-application-interference-fixes/"><u>HDMI Connectivity Problems and Application Interference Fixes</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-microphone-matchmaking-adapting-to-your-youtube-channels-needs/"><u>In 2024, Microphone Matchmaking Adapting to Your YouTube Channel's Needs</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-sound-output-overcoming-low-volume-issues-on-windows-11-systems/"><u>Mastering Sound Output: Overcoming Low Volume Issues on Windows 11 Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-steams-disc-writing-problem-effective-strategies/"><u>Solving Steam's Disc Writing Problem: Effective Strategies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-diagnosing-and-repairing-hissingbuzzing-issues-with-earbuds-or-overheads/"><u>Step-by-Step Guide: Diagnosing and Repairing Hissing/Buzzing Issues with Earbuds or Overheads</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/techniques-to-block-chatgpts-storage-of-conversations/"><u>Techniques to Block ChatGPT's Storage of Conversations</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-getting-your-steelseries-arctis-7-mic-back-on-track/"><u>Troubleshooting Tips: Getting Your SteelSeries Arctis 7 Mic Back on Track</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-steps-to-modify-your-insta-posts/"><u>Ultimate Guide: Steps to Modify Your Insta Posts</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-effortless-strategy-deleting-dislikes-from-youtube-discussions/"><u>[Updated] Effortless Strategy Deleting Dislikes From YouTube Discussions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-step-by-step-implementing-effective-transitions-on-inshot/"><u>2024 Approved Step-by-Step Implementing Effective Transitions on Inshot</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-science-of-sensor-based-hands-monitoring/"><u>2024 Approved The Science of Sensor-Based Hands Monitoring</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/google-assistant-vs-alexa-determining-the-ideal-smart-speaker-companion/"><u>Google Assistant Vs. Alexa: Determining the Ideal Smart Speaker Companion</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-fixing-the-no-sound-issue-when-connecting-your-pc-to-both-tv-and-screen-via-hdmi/"><u>Guide: Fixing the 'No Sound' Issue When Connecting Your PC to Both TV & Screen via HDMI</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-malfunctioning-logitech-g633-mic-success-stories-inside/"><u>How To Repair A Malfunctioning Logitech G633 Mic - Success Stories Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-output-in-lenovo-computer-systems/"><u>How to Restore Sound Output in Lenovo Computer Systems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p55plus-phone-without-pin-by-drfone-android/"><u>How to Unlock Itel P55+ Phone without PIN</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-engage-efficiently-strategies-for-surge-in-social-media-shares/"><u>In 2024, Engage Efficiently Strategies for Surge in Social Media Shares</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-samsung-galaxy-a23-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Samsung Galaxy A23 5G</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/in-depth-solutions-for-fixing-your-unresponsive-turtle-beach-elite-atlas-mic/"><u>In-Depth Solutions For Fixing Your Unresponsive Turtle Beach Elite Atlas Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g-pro-x-troubleshooting-how-to-eradicate-unwanted-cracking-and-clicking-sounds-on-your-pc/"><u>Logitech G Pro X Troubleshooting: How to Eradicate Unwanted Cracking and Clicking Sounds on Your PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/lost-your-system-sounds-following-a-windows-10-update-lets-rectify-that-now/"><u>Lost Your System Sounds Following a Windows 10 Update? Let's Rectify That Now</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-digital-destinations-for-text-overlays/"><u>Ultimate Digital Destinations for Text Overlays</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-literature-how-to-buy-and-read-e-books-on-iphones-with-the-app-store-books-feature/"><u>Unlocking Literature: How to Buy and Read E-Books on iPhones with the App Store Books Feature</u></a></li>
 </ul></div>
 

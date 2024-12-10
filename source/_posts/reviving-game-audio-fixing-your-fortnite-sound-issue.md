@@ -1,7 +1,7 @@
 ---
 title: Reviving Game Audio - Fixing Your Fortnite Sound Issue
-date: 2024-11-26T20:44:42.845Z
-updated: 2024-12-03T20:57:12.098Z
+date: 2024-12-04T19:36:58.827Z
+updated: 2024-12-10T17:54:13.524Z
 tags:
   - win11
   - win10
@@ -58,27 +58,23 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-1-2.jpg)
 3. Navigate to the**Microphone** tab on the left pane. Then, click the**Change** button and**turn on** Microphone access for this device.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-2-1.jpg)
 4. **Toggle on the button** below Allow apps to access your microphone.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-3-1.jpg)
 5. Scroll to locate Allow desktop apps to access your microphone, and set the option to**On** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you should be able to use the Onikuma headset mic with whatever applications. But if the problem persists, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Set your Onikuma mic as the default device
 
@@ -88,23 +84,23 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-1-3.jpg)
 2. Select**Small icons** next to View by and click**Sound** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-2-1.jpg)
 3. Select the**Recording** tab. Then right-click your Onikuma headset mic and click**Enable** (if it’s not) and click**Set as Default Device** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you don’t see it listed, right-click any blank space and tick**Show Disabled Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-0-1.jpg)
 4. Right-click the microphone again and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-3-1.jpg)
 5. On the**Levels** tab, check whether the microphone is muted. If yes, click the**speaker icon** to unmute it and**drag the volume slider to the max** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-8-1.jpg)
 
@@ -138,10 +134,14 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click**Update** to do it for free, but it’s partly manual.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -170,22 +170,20 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/solved-jabra-headset-not-working-2024-guide/"><u>[SOLVED] Jabra Headset Not Working - 2024 Guide</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-prime-collection-best-10-apps-for-extracting-high-quality-vimeo-videos/"><u>[Updated] 2024 Approved Prime Collection Best 10 Apps for Extracting High-Quality Vimeo Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-unleashing-the-power-of-obs-macos-install-and-usage-tips/"><u>[Updated] 2024 Approved Unleashing the Power of OBS MacOS Install & Usage Tips</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elite-audio-modifying-tools-tailored-to-youtube-creators/"><u>[Updated] In 2024, Elite Audio Modifying Tools Tailored to YouTube Creators</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-voice-call-issues-within-world-of-warcraft/"><u>Diagnosing and Repairing Voice Call Issues Within World of Warcraft</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/digital-painting-made-easy-with-free-online-editors/"><u>Digital Painting Made Easy with Free Online Editors</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-laptop-speaker-issues-solutions-for-restoring-sound/"><u>Fixing Laptop Speaker Issues: Solutions for Restoring Sound</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/gaming-gear-maintenance-repairing-gamecube-microphone-issues-with-easy-to-follow-tips/"><u>Gaming Gear Maintenance: Repairing Gamecube Microphone Issues with Easy-to-Follow Tips</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-navigating-stardew-the-complete-guide-to-ginger/"><u>In 2024, Navigating Stardew The Complete Guide to Ginger</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-streamline-your-content-a-tutorial-for-instagram-video-sharing/"><u>In 2024, Streamline Your Content A Tutorial for Instagram Video Sharing</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-xiaomi-13t-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Xiaomi 13T Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/online-image-transformation-guide-switching-from-bmp-to-png-without-costs-using-top-tools/"><u>Online Image Transformation Guide: Switching From BMP to PNG without Costs Using Top Tools!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-device-usage-restrictions-for-smooth-hdmi-functionality/"><u>Overcoming Device Usage Restrictions for Smooth HDMI Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restart-sound-settings-for-anthem-on-windows-11-ultimate-fix-tips/"><u>Restart Sound Settings for Anthem on Windows 11 – Ultimate Fix Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016915997-trouble-with-capturing-desktop-audio-via-obs-heres-how-you-can-fix-it/"><u>Trouble with Capturing Desktop Audio via OBS? Here's How You Can Fix It</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-tricks-for-amplifying-your-audio-experience-in-windows-10/"><u>Ultimate Tricks for Amplifying Your Audio Experience in Windows 10</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unleash-your-inner-editor-with-these-premium-androidpc-apps/"><u>Unleash Your Inner Editor with These Premium Android/PC Apps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-building-your-thriving-youtube-space-for-gamers/"><u>[New] In 2024, Building Your Thriving YouTube Space for Gamers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-navigating-social-sharing-pining-on-snapchat-for-2024/"><u>[Updated] Navigating Social Sharing Pining on Snapchat for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-which-screen-recorder-delivers-more-insights-into-bandicam-vs-camtasia/"><u>[Updated] Which Screen Recorder Delivers More? Insights Into Bandicam vs Camtasia</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/directly-connect-tweeting-with-videos-on-whatsapp-for-2024/"><u>Directly Connect Tweeting with Videos on WhatsApp for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-depth-look-at-djis-drone-model-3-for-2024/"><u>In-Depth Look at DJI's Drone Model 3 for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/league-of-legends-troubleshooting-overcoming-black-screen-glitches/"><u>League of Legends Troubleshooting: Overcoming Black Screen Glitches</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/lucidsound-ls30-microphone-repair-guide-solved-problems/"><u>LucidSound LS30 Microphone Repair Guide - Solved Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-file-security-with-automated-password-integration/"><u>Mastering File Security with Automated Password Integration</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-the-audio-hurdle-restoring-conexant-smartaudio-hd-sound-in-windows-11/"><u>Overcoming the Audio Hurdle: Restoring Conexant SmartAudio HD Sound in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-for-low-sound-output-on-a-windows-10-computer/"><u>Quick Solutions for Low Sound Output on a Windows 10 Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-how-to-repair-a-malfunctioning-google-hangouts-mic/"><u>Quick Solutions: How to Repair a Malfunctioning Google Hangouts Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-audio-device-detection-problems-for-windows-10-users/"><u>Resolving Audio Device Detection Problems for Windows 10 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-microphone-functionality-a-step-by-nstep-guide-to-fixing-zoom-audio-problems-on-your-computer/"><u>Restoring Microphone Functionality: A Step-by-nStep Guide to Fixing Zoom Audio Problems on Your Computer</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915306474-the-digital-mosaic-a-guide-to-successful-branding-on-facebook-twitter-instagram-and-youtube/"><u>The Digital Mosaic: A Guide to Successful Branding on Facebook, Twitter, Instagram & Youtube</u></a></li>
 </ul></div>
 

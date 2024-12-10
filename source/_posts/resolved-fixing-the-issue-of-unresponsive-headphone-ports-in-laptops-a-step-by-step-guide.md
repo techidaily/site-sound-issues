@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing the Issue of Unresponsive Headphone Ports in Laptops - A Step-by-Step Guide"
-date: 2024-11-09T16:09:18.349Z
-updated: 2024-11-15T17:00:49.998Z
+date: 2024-12-08T16:53:42.431Z
+updated: 2024-12-10T19:35:23.120Z
 tags:
   - win11
   - win10
@@ -52,27 +52,26 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
 2. Click the**Change** button and make sure**Microphone access for this device is turned on** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-6.jpg)
 3. Scroll down and**turn on** the button for**Allow apps to access your microphone** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3-6.jpg)
 4. Also, **toggle on Allow desktop apps’ access to your microphone** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg)
 
- After applying the settings, you can restart Rec Room to test the issue. If it’s not resolved, try the next fix.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ After applying the settings, you can restart Rec Room to test the issue. If it’s not resolved, try the next fix.
 
 ### Fix 3 – Set your headset mic as the default device
 
@@ -84,16 +83,17 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel-0.jpg)
 2. Select**Small icons** from the menu next to View by and click**Sound** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-4.jpg)
 3. Go to the**Recording** tab. Then right-click other recording devices you’re not using and click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-2.jpg)
 4. Make sure your preferred headset mic is**enabled** , which should be covered with a green check mark, and**set as default** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
@@ -116,13 +116,6 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
 
  See if your microphone works in Rec Room. If not, continue to the next method below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4 – Update your audio driver
 
  If you’ve been constantly running into mic not working with Rec Room or other apps, chances are that your audio driver is faulty or out-of-date. In this case, you should update the driver to keep your VR rig up and running, and there are two ways for you:
@@ -135,13 +128,6 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-oculus-headset-driver.jpg)
@@ -158,14 +144,11 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1-10.jpg)
 2. Right-click each application you want to close and click**End task** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
@@ -193,22 +176,16 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-expert-breakdown-vsdc-review-and-alternative-comparisons/"><u>[New] Expert Breakdown VSDC Review & Alternative Comparisons</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-discover-the-most-reliable-royalty-free-audio-libraries/"><u>[New] In 2024, Discover the Most Reliable Royalty-Free Audio Libraries</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-the-best-of-both-worlds-screenflow-for-mac-creatives-reviewed-for-2024/"><u>[New] The Best of Both Worlds ScreenFlow for Mac Creatives Reviewed for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-gain-profit-power-the-secret-of-successful-youtube-marketing-and-500plus/"><u>[Updated] Gain Profit Power The Secret of Successful Youtube Marketing & 500+</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-instagram-filters-applying-them-to-old-memories/"><u>2024 Approved Mastering Instagram Filters Applying Them to Old Memories</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-toolwiz-photosapp-insights-the-full-2023-perspective-on-photography-tools/"><u>2024 Approved Toolwiz PhotosApp Insights - The Full 2023 Perspective on Photography Tools</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bluetooth-connected-but-cant-hear-a-thing-expert-solutions-inside/"><u>Bluetooth Connected, but Can't Hear a Thing? Expert Solutions Inside</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-for-windows-1eb-error-0x80072fed-a-complete-walkthrough/"><u>Comprehensive Fixes for Windows 1Eb Error (0X80072FED) – A Complete Walkthrough</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnose-and-repair-why-isnt-my-logitech-g6letec-g633-mic-working/"><u>Diagnose and Repair: Why Isn't My Logitech G6letec G633 Mic Working?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-correcting-the-steam-voice-chatting-problem/"><u>Diagnosing and Correcting the Steam Voice Chatting Problem</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723017046838-diagnosing-and-fixing-the-problem-of-unplugged-speakersheadphones-in-windows-os-a-step-by-step-guide-for-windows-10-8-and-7-users/"><u>Diagnosing and Fixing the Problem of Unplugged Speakers/Headphones in Windows OS: A Step-by-Step Guide for Windows 10, 8 & 7 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortlessly-end-pc-quietness-top-tricks-for-immediate-audio-recovery/"><u>Effortlessly End PC Quietness: Top Tricks for Immediate Audio Recovery</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-set-up-advanced-security-features-ms-defender-aguard-for-windows-11-edge/"><u>How to Set Up Advanced Security Features: MS Defender Aguard for Windows 11 Edge</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-streamlining-ad-revenue-post-monetization-yt-tips-and-tricks/"><u>In 2024, Streamlining Ad Revenue Post-Monetization YT Tips & Tricks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/simple-troubleshooting-guide-solving-logitech-g933-microphone-issues/"><u>Simple Troubleshooting Guide: Solving Logitech G933 Microphone Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-solving-issues-with-your-corsair-virtuosity-mic/"><u>Troubleshooting Tips: Solving Issues with Your Corsair Virtuosity Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-solution-for-onikuma-headset-mic-problems-and-malfunctions/"><u>Ultimate Solution for Onikuma Headset Mic Problems and Malfunctions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-expert-analysis-top-5-high-end-recording-apps/"><u>[Updated] In 2024, Expert Analysis Top 5 High-End Recording Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-screen-recorders-in-chrome-os-free-version-for-2024/"><u>[Updated] Top Screen Recorders in Chrome OS, Free Version for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-visual-victory-top-10-online-apps-to-sharpen-your-snaps/"><u>[Updated] Visual Victory Top 10 Online Apps to Sharpen Your Snaps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-motorola-edge-40-neo-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Motorola Edge 40 Neo Phone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/danny-from-colombias-assistance-program-for-vulnerable-populations/"><u>Danny From Colombia's Assistance Program for Vulnerable Populations</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/g435-headset-no-sound-how-to-fix/"><u>G435 Headset No Sound: How to Fix?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-counter-strike-2-mic-working-again-expert-tips-and-tricks/"><u>Get Your Counter-Strike 2 Mic Working Again - Expert Tips & Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-the-conversation-going-fixes-for-voice-chat-problems-in-black-ops-cold-war/"><u>Getting the Conversation Going: Fixes for Voice Chat Problems in Black Ops: Cold War</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-headphone-detection-issues-for-windows-10-media-streams/"><u>How to Fix Headphone Detection Issues for Windows 10 Media Streams</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-stereo-sound-issues-on-your-device-quick-guide/"><u>How to Fix Stereo Sound Issues on Your Device - Quick Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-reno-11f-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo Reno 11F 5G? | Dr.fone</u></a></li>
 </ul></div>
 

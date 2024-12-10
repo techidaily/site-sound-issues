@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Oculus Quest 2'S Malfunctioning Microphone Problem
-date: 2024-12-02T07:09:31.908Z
-updated: 2024-12-03T21:53:59.081Z
+date: 2024-12-03T22:26:24.994Z
+updated: 2024-12-10T22:06:48.909Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Try these fixes**
@@ -54,26 +54,22 @@ This issue may occur if your Logitech G230 is not set as the default device, or 
 6. Select the microphone you’re using and click **Set Default** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. While still in the **Recording** tab, try **speaking into your microphone**  to test if it works properly. If it is, you should see some green in the bar on the right:![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Click **OK** .
 
 See if your Logitech G230 mic works. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 2: Allow access to your headset microphone (for Windows 10 users)**
 
@@ -83,10 +79,14 @@ If you don’t allow Windows 10 and applications to access your microphone, you 
 2. Click**Microphone** on the left panel. On the right,**if** **microphone access for this device is off** , click**Change** **to** **turn it on** . You should also all apps to access your microphone. If it is turned off, turn it on.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000088.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Check if your Logitech G230 mic works. If not, try the next fix below to update your audio driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 3: Update your audio driver**
 
@@ -136,20 +136,17 @@ Hopefully one of the fixes above resolved this issue for you. If you have any qu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-a-beginners-guide-to-youtube-shorts-nuances/"><u>[New] A Beginner's Guide to YouTube Shorts Nuances</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/he-insiders-manual-posting-youtube-videos-on-yourfb-page/"><u>[New] The Insider's Manual Posting YouTube Videos on YourFB Page</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-tecno-pova-6-pro-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Tecno Pova 6 Pro 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/complete-guide-to-help-you-choose-the-best-hdr-cameras-for-2024/"><u>Complete Guide to Help You Choose the Best HDR Cameras for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-ways-to-restore-sound-on-your-silent-laptop-computer/"><u>Effective Ways to Restore Sound on Your Silent Laptop Computer</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-resolving-sound-problems-in-iphones-no-audio-and-distorted-playback-explained/"><u>Expert Tips for Resolving Sound Problems in iPhones: No Audio & Distorted Playback Explained</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fraudgpt-exposed-how-to-defend-against-this-hazardous-chatbot-and-protect-your-data/"><u>FraudGPT Exposed: How to Defend Against This Hazardous Chatbot and Protect Your Data</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/headphone-connector-malfunctions-in-laps-causes-and-solutions-unveiled/"><u>Headphone Connector Malfunctions in Laps: Causes & Solutions Unveiled</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-windows-audio-glitches-a-comprehensive-guide/"><u>How to Fix Windows Audio Glitches: A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/in-2024-unlocking-advanced-visuals-how-to-use-picture-in-picture-in-final-cut-pro/"><u>In 2024, Unlocking Advanced Visuals How to Use Picture-in-Picture in Final Cut Pro</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-sound-problems-in-windows-7/"><u>Troubleshooting Guide: Resolving Sound Problems in Windows 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-to-restore-audio-in-conexant-smartaudio-hd-under-windows-11/"><u>Troubleshooting Steps to Restore Audio in Conexant SmartAudio HD Under Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-realme-gt-5-pro-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Realme GT 5 Pro Has Black Screen of Death? | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/whens-the-ideal-time-for-a-social-media-visual-update/"><u>When's the Ideal Time for a Social Media Visual Update?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/astering-creative-splitscreens-in-youtube-filmmaking/"><u>[New] Mastering Creative Splitscreens in YouTube Filmmaking</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-amplify-your-insta-impact-essential-5-lessons-for-influencers-and-real-life-proofs/"><u>[Updated] 2024 Approved Amplify Your Insta Impact Essential 5 Lessons for Influencers & Real-Life Proofs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-streamline-filmmaking-install-xps-media-tools/"><u>[Updated] 2024 Approved Streamline Filmmaking Install XP's Media Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-basics-for-windows-users-how-to-connect-and-configure-unfamiliar-speakers/"><u>Audio Basics for Windows Users: How to Connect and Configure Unfamiliar Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-problems-and-fixes-making-your-blue-yeti-microphone-function-correctly/"><u>Common Problems and Fixes: Making Your Blue Yeti Microphone Function Correctly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-how-to-switch-off-the-built-in-audio-upgrade-on-windows-10-devices/"><u>Comprehensive Guide: How to Switch Off the Built-In Audio Upgrade on Windows 10 Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-disconnected-nvidia-display-port-issues/"><u>Diagnosing and Repairing Disconnected Nvidia Display Port Issues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/first-rate-6-software-for-visual-text-conversion/"><u>First-Rate 6 Software for Visual Text Conversion</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-techniques-for-high-quality-xbox-game-recordings/"><u>In 2024, Techniques for High-Quality Xbox Game Recordings</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016191088-no-more-quiet-battles-wows-sound-problem-solved/"><u>No More Quiet Battles: WoW's Sound Problem Solved!</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/ssd-duplication-made-easy-on-windows-how-to-replicate-your-samsung-m-use-case-specific-applications-for-cloning/"><u>SSD Duplication Made Easy on Windows: How to Replicate Your Samsung M.# Use Case-Specific Applications for Cloning</u></a></li>
 </ul></div>
 

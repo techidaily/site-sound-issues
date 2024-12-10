@@ -1,7 +1,7 @@
 ---
 title: Expert Tips on Making Discord's Push-to-Talk Function Work Properly Again
-date: 2024-08-27T21:05:19.331Z
-updated: 2024-08-28T21:05:19.331Z
+date: 2024-12-04T17:05:54.671Z
+updated: 2024-12-10T22:10:30.547Z
 tags:
   - win11
   - win10
@@ -40,10 +40,6 @@ Here’s how:
 
  If you didn’t run your game as administrator, you can check other fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Reset your Discord settings and check your KeyBind Set
 
  If you’ve changed your Discord settings and have this problem, you need to bring it back to normal.
@@ -51,15 +47,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. In the Discord, click the**Setting** button on the bottom.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-16_19-25-02.jpg)
 2. Click**Voice & Video** tab and click**Keybind Settings** . Make sure push-to-talk and push-to-mute aren’t bound under the same key.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-16_19-40-50.jpg)
 3. Make sure your headset is set as the default input/output device in both Discord and your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Scroll to the bottom and click**Reset Voice Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-16_19-27-03-1.jpg)
 5. Try to send an audio message on Discord by PTT to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your audio driver
 
  This glitch could be probably caused by an old, wrong or missing audio driver. You can solve it easily by updating your audio driver.
@@ -76,9 +79,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Try to send an audio message on Discord by PTT to see if it works.
@@ -87,8 +87,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Uninstall newly installed programs
 
  If you have this issue after you newly update or install some programs, try to uninstall them, it may solve the problem. It’s possible that the third-party programs conflict with Discord and make trouble.
@@ -102,8 +103,9 @@ Uninstall the programs then check Discord.
 3. Right-click **Discord**  and click **Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_19-04-30.jpg)
 4. Download and install **[](https://discordapp.com/) [Discord](https://discordapp.com/)**  . Check the ppt function again.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
@@ -114,14 +116,18 @@ Uninstall the programs then check Discord.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -140,8 +146,6 @@ Uninstall the programs then check Discord.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +153,22 @@ Uninstall the programs then check Discord.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-core-principles-in-crafting-persuasive-facebook-ads/"><u>[New] 2024 Approved Core Principles in Crafting Persuasive Facebook Ads</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-beyond-the-basics-streamlabs-competitors-analyzed-for-2024/"><u>[New] Beyond the Basics Streamlabs Competitors Analyzed for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-srt-power-play-transforming-macwindows-experience-for-2024/"><u>[Updated] SRT Power Play Transforming Mac/Windows Experience for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/best-3ip-apps-to-record-clear-speech-on-ipads/"><u>Best 3iP Apps to Record Clear Speech on iPads</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-honor-v-purse-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Honor V Purse? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-correcting-obs-microphone-setup-problems/"><u>Guide to Correcting OBS Microphone Setup Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-malfunctioning-skype-mic-in-windows-10-expert-advice/"><u>How to Repair a Malfunctioning Skype Mic in Windows 10 - Expert Advice</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-vivo-y27-4g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Vivo Y27 4G for Free? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oneplus-11r-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your OnePlus 11R Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-video-storytelling-integrating-audio-narration/"><u>In 2024, The Art of Video Storytelling Integrating Audio Narration</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/laptop-sound-issues-resolved-repairing-silent-speakers-easily/"><u>Laptop Sound Issues Resolved - Repairing Silent Speakers Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-lost-sounds-on-mac-a-comprehensive-guide-for-users/"><u>Reviving Lost Sounds on Mac: A Comprehensive Guide for Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-dealing-with-google-hangouts-microphone-problems-efficiently/"><u>Step-by-Step Fix: Dealing with Google Hangouts Microphone Problems Efficiently</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-logitech-g933-a-simple-guide/"><u>Troubleshooting Silent Logitech G933: A Simple Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-nonfunctioning-mic-on-your-sennheiser-game-one-tips-and-fixes/"><u>Troubleshooting the Nonfunctioning Mic on Your Sennheiser Game One - Tips and Fixes</u></a></li>
+</ul></div>
 

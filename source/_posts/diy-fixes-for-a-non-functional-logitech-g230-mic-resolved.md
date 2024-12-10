@@ -1,7 +1,7 @@
 ---
 title: DIY Fixes for a Non-Functional Logitech G230 Mic – Resolved
-date: 2024-12-01T18:29:51.642Z
-updated: 2024-12-03T21:58:28.205Z
+date: 2024-12-08T16:39:21.002Z
+updated: 2024-12-10T17:06:06.469Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/1b78f915ab1094bf850841925a5fb1c5096342e86
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Try these fixes**
 
  Here’s a list of fixes that have resolved this problem for other Logitech users. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -39,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/1b78f915ab1094bf850841925a5fb1c5096342e86
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 1: Check your microphone settings**
 
 This issue may occur if your Logitech G230 is not set as the default device, or if it is disabled on your PC. In this case, you can follow the instructions below to check your microphone settings on your PC:
@@ -52,19 +44,27 @@ This issue may occur if your Logitech G230 is not set as the default device, or 
 
 3. Click**Sound** to continue.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000094.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click the **Recording**  tab, then**right-click** on any empty place inside the device list and tick **Show Disabled Devices** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap892.png)
 5. Right-click the**Headset Microphone** and click **Enable** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap893-1.png)
 
 6. Select the microphone you’re using and click **Set Default** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. While still in the **Recording** tab, try **speaking into your microphone**  to test if it works properly. If it is, you should see some green in the bar on the right:![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
 8. Click **OK** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 See if your Logitech G230 mic works. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 2: Allow access to your headset microphone (for Windows 10 users)**
 
@@ -74,7 +74,7 @@ If you don’t allow Windows 10 and applications to access your microphone, you 
 2. Click**Microphone** on the left panel. On the right,**if** **microphone access for this device is off** , click**Change** **to** **turn it on** . You should also all apps to access your microphone. If it is turned off, turn it on.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000088.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Check if your Logitech G230 mic works. If not, try the next fix below to update your audio driver.
@@ -95,17 +95,17 @@ An outdated or corrupted audio driver can also be the root of this issue. To fix
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000027-4.png)
 3. Click **Update**  next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee ).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap0029-1.png)  
  You can do it for free if you like, but it’s partly manual.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 4: Troubleshoot hardware issues**
@@ -135,16 +135,18 @@ Hopefully one of the fixes above resolved this issue for you. If you have any qu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-google-ar-stickers-an-introduction-and-comparisons/"><u>[New] Google AR Stickers An Introduction & Comparisons</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ersonalized-music-collection-enhancement-from-spotify-to-youtube-music/"><u>[New] Personalized Music Collection Enhancement From Spotify to YouTube Music</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-top-editors-for-virtual-backgrounds-spectrumswitch-studio-for-2024/"><u>[New] Top Editors for Virtual Backgrounds SpectrumSwitch Studio for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-adopting-the-way-of-google-meet-webinars/"><u>[Updated] In 2024, Adopting the Way of Google Meet Webinars</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-the-quick-pathway-to-establishing-a-video-channel-on-your-phone/"><u>2024 Approved The Quick Pathway to Establishing a Video Channel on Your Phone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-guide-to-repairing-the-inactive-microphone-on-your-turtle-beach-elite-atlas-gaming-headset/"><u>Expert Guide to Repairing the Inactive Microphone on Your Turtle Beach Elite Atlas Gaming Headset</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-mic-problems-on-windows-7-expert-advice-and-tips/"><u>Fixing Mic Problems on Windows 7: Expert Advice & Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-persistent-bluetooth-errors-in-windows-11-expert-solutions-and-tips/"><u>Fixing Persistent Bluetooth Errors in Windows 11: Expert Solutions and Tips</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-multi-video-viewing-on-youtube/"><u>In 2024, Mastering Multi-Video Viewing on YouTube</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/losungsweg-fur-fehlende-partitionsfestplatten-warum-pc-nicht-zuruckgesetzt-werden-kann-und-wie-es-gelost-wird/"><u>Lösungsweg Für Fehlende Partitionsfestplatten: Warum PC Nicht Zurückgesetzt Werden Kann Und Wie Es Gelöst Wird</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-resolving-undetected-speakers-in-windows-11-systems/"><u>Troubleshooting and Resolving Undetected Speakers in Windows 11 Systems</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-effortless-video-streaming-on-your-facebook-page/"><u>[New] 2024 Approved Effortless Video Streaming on Your Facebook Page</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-edit-instagram-photos-like-a-pro/"><u>[Updated] How to Edit Instagram Photos Like a Pro</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-7-voice-changer-recorder-apps-for-2024/"><u>[Updated] Top 7 Voice Changer Recorder Apps for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/banishing-buzz-a-guide-to-silence-your-headphones-irritating-sound/"><u>Banishing Buzz: A Guide to Silence Your Headphones' Irritating Sound</u></a></li>
+<li><a href="https://blog-min.techidaily.com/die-top-3-wege-um-dvds-effizient-als-avi-dateien-zu-konvertieren-im-jahr-2023/"><u>Die Top-3 Wege, Um DVDs Effizient Als AVI-Dateien Zu Konvertieren Im Jahr 2023</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-acquainted-with-claude-3s-power/"><u>Get Acquainted with Claude 3'S Power</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/guia-passo-a-passo-para-reencontrar-um-disco-apagado-no-windows-10-tecnicas-simplificadas/"><u>Guia Passo-a-Passo Para Reencontrar Um Disco Apagado No Windows 10: Técnicas Simplificadas</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-sony-xperia-1-v-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Sony Xperia 1 V to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-best-8-video-chat-apps-on-android-for-more-than-four/"><u>In 2024, Best 8 Video Chat Apps on Android for More Than Four</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-top-rated-free-video-editors-for-beginners-no-experience-needed/"><u>New Top-Rated Free Video Editors for Beginners No Experience Needed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-how-to-fix-audio-issues-with-your-counter-strike-go-microphone/"><u>Troubleshooting Steps: How to Fix Audio Issues with Your Counter-Strike GO Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-restoring-audio-on-your-logitech-g933-mouse-a-step-by-step-guide/"><u>Troubleshooting Tips: Restoring Audio on Your Logitech G933 Mouse - A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-audio-dilemma-expert-solutions-for-restoring-your-devices-audio-features/"><u>Windows 11 Audio Dilemma? Expert Solutions for Restoring Your Device's Audio Features</u></a></li>
 </ul></div>
 

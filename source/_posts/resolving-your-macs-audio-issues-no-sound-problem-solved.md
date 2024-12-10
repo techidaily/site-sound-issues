@@ -1,7 +1,7 @@
 ---
 title: "Resolving Your Mac's Audio Issues: No Sound Problem Solved"
-date: 2024-11-29T20:34:46.211Z
-updated: 2024-12-04T03:49:32.052Z
+date: 2024-12-08T16:17:00.673Z
+updated: 2024-12-10T20:41:11.325Z
 tags:
   - win11
   - win10
@@ -47,10 +47,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Make sure the volume is audible
 
  Sometimes you can’t hear sound from your speakers simply because the volume is mute or set too low.
@@ -86,7 +82,7 @@ To make sure the volume is audible:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e8c0387a6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
@@ -106,22 +102,22 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7f6955a2d7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the **Playback** tab, click on **the audio device you wish to play** , then click **Set Default** . Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7f797e4504.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If **the audio device you’re to play** doesn’t show up in the device list, and right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the device** once it appears and click **Enable** before you do step **2)** .
 
  3) Check to see if your Lenovo no sound problem has been fixed. If yes, then great! But if it’s still no joy, please move on to**Fix 5,** below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable audio enhancements
 
@@ -133,6 +129,10 @@ Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7f6955a2d7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the **Playback** tab, right-click on **your default audio device** and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd80da9483df.jpg)
@@ -142,7 +142,7 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd80d9349581.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Test your audio device and see if the no sound issue is resolved.
@@ -172,22 +172,24 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-best-websites-for-downloading-skype-ringtone-for-2024/"><u>[Updated] Best Websites For Downloading Skype Ringtone for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/affordable-pruveeo-fhd-dashcam-with-full-hd-recording-in-depth-review/"><u>Affordable Pruveeo FHD Dashcam with Full HD Recording - In-Depth Review!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/amazonbasics-6-sheet-cross-cut-shredder-review-affordable/"><u>AmazonBasics 6-Sheet Cross-Cut Shredder Review: Affordable</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/common-solutions-for-fixing-voice-chat-glitches-in-pubg/"><u>Common Solutions for Fixing Voice Chat Glitches in PUBG</u></a></li>
-<li><a href="https://article-tips.techidaily.com/deciphering-the-multifaceted-nature-of-mixed-reality-for-2024/"><u>Deciphering the Multifaceted Nature of Mixed Reality for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easily-repair-audio-errors-dealing-with-the-no-response-from-audio-driver-complication/"><u>Easily Repair Audio Errors: Dealing with the 'No Response From Audio Driver' Complication</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-11-pro-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 11 Pro With or Without Password</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-potential-pitfalls-in-virtual-realms/"><u>In 2024, Potential Pitfalls in Virtual Realms</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-top-6-minecraft-abodes-for-survivors/"><u>In 2024, Top 6 Minecraft Abodes for Survivors</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-12-pro-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 12 Pro Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-quiet-revolution-cutting-edge-approaches-to-taming-sibilance-in-audio-editing/"><u>New 2024 Approved The Quiet Revolution Cutting-Edge Approaches to Taming Sibilance in Audio Editing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-for-when-your-laptops-headphone-jack-wont-work/"><u>Solution Steps for When Your Laptop's Headphone Jack Won't Work</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-common-issues-with-your-headsets-built-in-mic-that-wont-work/"><u>Solving Common Issues with Your Headset's Built-In Mic That Won’t Work</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-free-solutions-for-a-malfunctioning-logitech-g633-mic/"><u>Trouble-Free Solutions for a Malfunctioning Logitech G633 Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-lack-of-sound-in-apex-legends-tips-and-tricks/"><u>Troubleshooting Complete Lack of Sound in Apex Legends – Tips & Tricks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-guide-solving-your-non-responsive-pc-speaker-problems/"><u>Ultimate Troubleshooting Guide: Solving Your Non-Responsive PC Speaker Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/warzone-audio-restoration-blueprint-for-gamers-troubleshooting-tips/"><u>Warzone Audio Restoration Blueprint for Gamers: Troubleshooting Tips</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-altvmix-cross-platform-virtual-mixer/"><u>[New] AltVMix Cross-Platform Virtual Mixer</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-from-storyboard-to-screenplay-a-youtube-video-writers-journey/"><u>[New] In 2024, From Storyboard to Screenplay A YouTube Video Writer's Journey</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-most-popular-free-photography-and-film-archives/"><u>[New] In 2024, Most Popular Free Photography and Film Archives</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-perfect-shots-effortless-streaming-dslr-on-pcmac/"><u>[New] In 2024, Perfect Shots, Effortless Streaming DSLR on PC/Mac</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-set-new-directory-for-mac-image-backups/"><u>[New] Set New Directory for Mac Image Backups</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-how-to-record-video-with-quick-video-recorder/"><u>[Updated] In 2024, How to Record Video with Quick Video Recorder</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-revamping-images-with-advanced-features/"><u>In 2024, Revamping Images with Advanced Features</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-oppo-a1x-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Oppo A1x 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-common-rust-mic-malfunctions-expert-fixes/"><u>Overcoming Common Rust Mic Malfunctions: Expert Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-and-effective-troubleshooting-for-loudspeakers-not-working/"><u>Quick and Effective Troubleshooting for Loudspeakers Not Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-for-non-functioning-razer-headset-microphones-5-steps-to-success/"><u>Quick Fix for Non-Functioning Razer Headset Microphones - 5 Steps to Success!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-to-microsoft-teams-microphone-compatibility-challenges-on-windows-11-and-windows-10/"><u>Quick Solutions to Microsoft Teams Microphone Compatibility Challenges on Windows 11 and Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-eliminate-unwanted-noise-from-your-speakers/"><u>Quick Solutions: Eliminate Unwanted Noise From Your Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-dell-audio-driver-issues-on-windows-7-systems/"><u>Resolving Dell Audio Driver Issues on Windows 7 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-solutions-to-the-mic-not-working-issue-with-your-corsair-hs35-headset-on-windows-machines/"><u>Restoring Audio: Solutions to the 'Mic Not Working' Issue with Your Corsair HS35 Headset on Windows Machines</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-nvidia-hd-audio-sound-issues-practical-tips-and-steps-for-users/"><u>Reviving Nvidia HD Audio Sound Issues: Practical Tips and Steps for Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-the-battle-horns-solving-pc-audio-issues-in-valheim-game/"><u>Reviving the Battle Horns: Solving PC Audio Issues in Valheim Game</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-your-iphone-now-learn-the-quick-fixes-to-hide-your-device-from-others/"><u>Secure Your iPhone Now: Learn the Quick Fixes to Hide Your Device From Others</u></a></li>
 </ul></div>
 

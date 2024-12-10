@@ -1,7 +1,7 @@
 ---
 title: No Sound From HP Laptop? Quick Fixes for Audio Issues in Windows 10
-date: 2024-12-02T03:40:25.000Z
-updated: 2024-12-03T19:59:10.662Z
+date: 2024-12-07T16:59:54.280Z
+updated: 2024-12-10T18:45:40.950Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for speakers crackling
 
  All the screenshots below are from**Windows 10** , but the fixes also work in**Windows 7** .
@@ -44,12 +48,12 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
@@ -59,14 +63,10 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -84,6 +84,10 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
@@ -100,15 +104,11 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 3. Click **Change advanced power settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
@@ -137,22 +137,21 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-bridge-the-gap-youtube-tweet-functionality/"><u>[New] 2024 Approved Bridge the Gap YouTube Tweet Functionality</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-paper-playground-fun-and-effective-collage-making/"><u>[New] Paper Playground Fun & Effective Collage Making</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-selecting-your-favorite-free-game-capture-software/"><u>[Updated] 2024 Approved Selecting Your Favorite Free Game Capture Software</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-instagram-highlights-comprehensive-photography-tips-for-2024/"><u>[Updated] Mastering Instagram Highlights Comprehensive Photography Tips for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/6-reasons-why-macs-arent-great-for-gaming/"><u>6 Reasons Why Macs Aren't Great for Gaming</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/accelerating-bings-intelligence-the-latest-upgrades-with-new-interactive-features/"><u>Accelerating Bing's Intelligence: The Latest Upgrades with New Interactive Features</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/enhance-your-listening-experience-by-increasing-volume-on-windows-11/"><u>Enhance Your Listening Experience by Increasing Volume on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-your-sennheiser-game-one-microphone-back-online-a-how-to-guide/"><u>Getting Your Sennheiser Game One Microphone Back Online - A How-To Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-quiet-sounds-from-your-laptop-in-windows-10-easily/"><u>How to Fix Quiet Sounds From Your Laptop in Windows 10 Easily</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-and-get-your-corsair-hs60-headset-microphone-back-on-track/"><u>How to Repair and Get Your Corsair HS60 Headset Microphone Back on Track</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-and-restart-your-broken-sound-blaster-microphone/"><u>How to Repair and Restart Your Broken Sound Blaster Microphone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-high-quality-capture-the-best-applications-reviewed/"><u>In 2024, High-Quality Capture The Best Applications Reviewed</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-refining-your-digital-footprint-editing-the-look-back-feature/"><u>In 2024, Refining Your Digital Footprint Editing the Look Back Feature</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcome-your-window-to-clear-sounds-addressing-bluetooth-delays-and-stutters-for-a-seamless-listening-experience/"><u>Overcome Your Window to Clear Sounds: Addressing Bluetooth Delays and Stutters for a Seamless Listening Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/realtek-microphone-problems-heres-how-to-resolve-them/"><u>Realtek Microphone Problems? Here's How to Resolve Them</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-restoring-audio-in-your-windows-media-player/"><u>Solved! Restoring Audio in Your Windows Media Player</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-precision-in-online-viewing-a-zoomers-handbook/"><u>[New] Precision in Online Viewing A Zoomer's Handbook</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/teering-to-your-own-musical-selections-on-youtube-for-2024/"><u>[New] Steering to Your Own Musical Selections on Youtube for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-counter-strike-2-mic-not-working/"><u>[SOLVED] Counter-Strike 2 Mic Not Working</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/5-premier-racer-simulators-that-captivate-you/"><u>5 Premier Racer Simulators That Captivate You</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-craft-your-narrative-implementing-inshot-transitions-professionally/"><u>In 2024, Craft Your Narrative Implementing Inshot Transitions Professionally</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-samsung-galaxy-a24-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Samsung Galaxy A24 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-free-divx-video-trimming-tools-top-picks/"><u>New 2024 Approved Free Divx Video Trimming Tools Top Picks</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-comprehensive-guide-advanced-avs-sound-editing-tools-and-comparative-analysis/"><u>New In 2024, Comprehensive Guide Advanced AVS Sound Editing Tools and Comparative Analysis</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-logitech-g430-microphone-effective-fixes-to-restore-audio-functionality/"><u>Revive Your Logitech G430 Microphone - Effective Fixes to Restore Audio Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-steps-to-restore-microphone-functionality-in-google-hangouts/"><u>Simple Steps to Restore Microphone Functionality in Google Hangouts</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-to-stop-fallout-3-game-crashes-on-windows-11-computers/"><u>Solutions to Stop Fallout 3 Game Crashes on Windows 11 Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sound-keeps-cutting-out-on-windows-11-solved/"><u>Sound Keeps Cutting Out on Windows 11 [Solved]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-your-broken-beyond-the-wire-microphone/"><u>Step-by-Step Fix for Your Broken Beyond The Wire Microphone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-essentials-of-ar-vr-mr-and-xr-explained-knowing-their-key-characteristics/"><u>The Essentials of AR, VR, MR & XR Explained - Knowing Their Key Characteristics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-formula-for-calculating-the-amount-of-heat-q-involved-in-changing-the-temperature-is-q-mcdt-where-m-is-mass-c-is-specific-heat-and-dt-is-the-change-in-t655/"><u>The Formula for Calculating the Amount of Heat (Q) Involved in Changing the Temperature Is Q = mcΔT, Where M Is Mass, C Is Specific Heat, and ΔT Is the Change in Temperature</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixes-how-to-restore-voice-communication-in-call-of-duty-modern-warfare/"><u>Troubleshooting Fixes: How to Restore Voice Communication in Call of Duty Modern Warfare</u></a></li>
 </ul></div>
 

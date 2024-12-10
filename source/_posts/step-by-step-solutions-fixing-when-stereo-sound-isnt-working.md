@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solutions: Fixing When Stereo Sound Isn't Working"
-date: 2024-11-11T17:29:58.764Z
-updated: 2024-11-15T16:54:58.267Z
+date: 2024-12-04T22:19:16.201Z
+updated: 2024-12-10T16:25:41.462Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
  Note: The screens shown below are from Windows 10, but all the fixes apply to Windows 11 as well.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **1\. Set Minimum Processor State to 100%**
 
  Popping sound from your speakers or headphones could relate to your driver’s problem. To fix it:
@@ -48,13 +52,6 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52ae2775a7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click **Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52b27c8486.png)
@@ -63,14 +60,11 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52b6ad9a11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6) Check to see if your audio crackling problem is gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **2\. Disable ATI HDMI Audio**
 
@@ -87,10 +81,7 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 If you don’t see this option here, move on to the next steps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **3\. DPC Latency**
@@ -104,10 +95,7 @@ If you don’t see this option here, move on to the next steps.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a5313c8fd13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) If this screenshot is different from what you’re seeing, you’ll also see which device is causing the latency like this:
@@ -115,10 +103,7 @@ If you don’t see this option here, move on to the next steps.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a533a0c245d.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Try disabling your device drivers from Device Manager as shown in **[Step 2](https://tools.techidaily.com/drivereasy/download/)**  one by one.
@@ -159,22 +144,22 @@ If you don’t see this option here, move on to the next steps.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discovering-8-ultimate-mirrorless-vlogging-cameras/"><u>[New] In 2024, Discovering 8 Ultimate Mirrorless Vlogging Cameras</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-masterful-discord-ux-with-these-top-10-essentials/"><u>[New] Masterful Discord UX with These Top 10 Essentials</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-building-brand-authority-top-tips-for-novice-marketers-on-reddit/"><u>[Updated] 2024 Approved Building Brand Authority Top Tips for Novice Marketers on Reddit</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-boost-your-tiktok-video-speed-easy-methods-explored-for-2024/"><u>[Updated] Boost Your TikTok Video Speed Easy Methods Explored for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pioneering-techniques-for-superior-fullscreen-presentation-in-premiere/"><u>[Updated] Pioneering Techniques for Superior Fullscreen Presentation in Premiere</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-real-time-broadcast-periscope-essentials/"><u>2024 Approved Mastering Real-Time Broadcast Periscope Essentials</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-non-functioning-voice-chat-in-league-of-legends-step-by-step/"><u>How to Fix Non-Functioning Voice Chat in League of Legends – Step by Step</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-distorted-and-missing-sounds-in-your-outriders-experience/"><u>How to Repair Distorted and Missing Sounds in Your Outriders Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-logitech-g230-headsets-microphone-quick-fixes-inside/"><u>How to Repair Your Logitech G230 Headset's Microphone - Quick Fixes Inside</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-device-usage-restrictions-on-hdmi-channels-when-shared-between-apps/"><u>Overcoming Device Usage Restrictions on HDMI Channels When Shared Between Apps</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-honor-90-gt-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Honor 90 GT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-setup-techniques-for-your-home-entertainment-with-chromecast/"><u>Seamless Setup Techniques for Your Home Entertainment with Chromecast</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-silence-expert-guide-to-restoring-conexant-smartaudio-hd-on-windows-11/"><u>Solving the Silence: Expert Guide to Restoring Conexant SmartAudio HD on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-repairing-non-responsive-hyperx-cloud-mic/"><u>Step-By-Step Tutorial: Repairing Non-Responsive HyperX Cloud Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/top-solutions-to-fix-voicemod-not-launching-or-functioning-expert-advice-for-2n24/"><u>Top Solutions to Fix Voicemod Not Launching or Functioning - Expert Advice for 2N24</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solving-hdmi-sound-problems-on-windows-7-systems/"><u>Troubleshooting and Solving HDMI Sound Problems on Windows 7 Systems</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-9-elite-webmicrone-recording-systems-for-professional-use-23/"><u>[New] 2024 Approved 9 Elite Webmicrone Recording Systems for Professional Use ('23)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-action-packed-shoots-creating-dynamic-video-stories-on-youtube/"><u>[Updated] In 2024, Action-Packed Shoots Creating Dynamic Video Stories on YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-convert-youtube-videos-smoothly-into-professional-webm-files/"><u>[Updated] In 2024, Convert YouTube Videos Smoothly Into Professional WebM Files</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dying-light-optimization-overcoming-in-game-latency-issues/"><u>Dying Light Optimization: Overcoming In-Game Latency Issues</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-navigating-the-markets-youtubes-top-picks/"><u>In 2024, Navigating the Markets YouTube's Top Picks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-10-hidden-strategies-in-canvas-image-design-toolkit/"><u>In 2024, Top 10 Hidden Strategies in Canva's Image Design Toolkit</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-speaker-recognition-in-windows-11-fixes-for-hidden-audio-devices/"><u>Mastering Speaker Recognition in Windows 11: Fixes for Hidden Audio Devices</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-a-less-distracted-digital-world-by-reducing-fb-reels/"><u>Navigating a Less Distracted Digital World by Reducing FB Reels</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-no-sound-issues-when-external-speaker-is-connected-with-windows/"><u>Overcoming No Sound Issues When External Speaker Is Connected with Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/post-update-quiet-zone-simple-solutions-to-revive-audio-in-windows-10/"><u>Post-Update Quiet Zone? Simple Solutions to Revive Audio in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-microphone-troubles-heres-what-you-need-to-do/"><u>Realtek Microphone Troubles? Here's What You Need to Do!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-the-missing-headphones-problem-for-successful-audio-output-on-windows-nt/"><u>Resolve the Missing Headphones Problem for Successful Audio Output on Windows nT</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-harmony-remedying-issues-within-the-landscape-of-new-world/"><u>Restoring Audio Harmony: Remedying Issues Within the Landscape of New World</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-sound-to-your-conexant-smartaudio-hd-device-under-windows-11/"><u>Restoring Sound to Your Conexant SmartAudio HD Device Under Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-soundscape-harmony-troubleshooting-wows-muted-mystery/"><u>Restoring Soundscape Harmony: Troubleshooting WoW's Muted Mystery</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ltimate-guide-to-memorable-youtube-names/"><u>The Ultimate Guide to Memorable YouTube Names</u></a></li>
 </ul></div>
 

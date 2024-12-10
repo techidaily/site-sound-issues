@@ -1,7 +1,7 @@
 ---
 title: Solving Common Problems with the Corsair Void Microphone - A Step-by-Step Tutorial
-date: 2024-11-08T16:40:30.399Z
-updated: 2024-11-15T17:39:53.308Z
+date: 2024-12-09T22:36:56.957Z
+updated: 2024-12-10T16:50:34.260Z
 tags:
   - win11
   - win10
@@ -41,31 +41,25 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d7eb4645.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the **Allow apps to access your microphon** e section, make sure the toggle is **On** so that you can allow apps access to your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Check your **Corsair Void headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, please try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -86,16 +80,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -120,35 +105,29 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-249.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If**Headset** **Microphone Corsair VOID Wireless Gaming Dongle** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 
  3) Click on **Headset** **Microphone Corsair VOID Wireless Gaming Dongle** and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-250.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click the **Levels** tab, then drag **the Microphone slider** all the way to _its top_ and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Click **OK** to apply the changes in the windows.
 
  Now that with microphone set as default device and the volume turned up, test your mic and see if the**microphone on Corsair Void headset** problem has been fixed. If yes, then great! If the mic still doesn’t work, please move on to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Check for hardware issues
 
@@ -179,20 +158,22 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-mastering-screen-recording-on-skype-innovative-uses-of-obs/"><u>[New] 2024 Approved Mastering Screen Recording on Skype Innovative Uses of OBS</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-harnessing-techniques-for-superior-pics-free-of-charge/"><u>[New] Harnessing Techniques for Superior Pics, Free of Charge</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-jailbreak-joy-top-funny-faces-at-the-social-networks-limits/"><u>[New] In 2024, Jailbreak Joy - Top Funny Faces at the Social Network’s Limits</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-reimagining-game-logging-with-no-fbx-technology/"><u>[Updated] 2024 Approved Reimagining Game Logging with No-FBX Technology</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-advice-on-editing-away-backgrounds/"><u>[Updated] Expert Advice on Editing Away Backgrounds</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015765423-bluetooth-speaker-lags-resolve-now-with-ease/"><u>Bluetooth Speaker Lags - Resolve Now with Ease!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-nvidia-high-definition-audio-no-sound/"><u>How to Fix Nvidia High Definition Audio No Sound</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-audio-on-your-window-10-computer-easy-fixes-to-get-it-working-again/"><u>No Audio on Your Window 10 Computer? Easy Fixes to Get It Working Again</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/optimizing-edit-videos-with-m1-powered-macbook-air-for-2024/"><u>Optimizing Edit Videos with M1 Powered MacBook Air for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-audio-dropouts-and-glitches-on-a-windows-11-system-expert-tips-and-tricks/"><u>Resolving Audio Dropouts and Glitches on a Windows 11 System – Expert Tips & Tricks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-silent-laps-effective-techniques-for-fixing-laptop-speaker-issues/"><u>Resolving Silent Laps: Effective Techniques for Fixing Laptop Speaker Issues</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-vivo-y78t-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo Y78t Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-your-sound-blaster-mic-issues/"><u>Troubleshooting Guide: Solving Your Sound Blaster Mic Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-fixing-non-functional-creative-pebble-wireless-speakers/"><u>Troubleshooting Tips: Fixing Non-Functional Creative Pebble Wireless Speakers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/ultimate-tutorial-for-professional-gopro-cinematography-for-2024/"><u>Ultimate Tutorial for Professional GoPro Cinematography for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-proven-steps-to-distance-friendly-podcasting-excellence/"><u>[New] 2024 Approved Proven Steps to Distance-Friendly Podcasting Excellence</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-11-best-streaming-audio-recorders/"><u>[Updated] 11 Best Streaming Audio Recorders</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-sound-of-skype-find-and-save-ringtones-easily/"><u>[Updated] 2024 Approved Sound of Skype Find and Save Ringtones Easily</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-screen-recording-with-internal-devices-on-huaweis-mate-mate-1020-and-p-p20-p10/"><u>2024 Approved Screen Recording with Internal Devices on Huawei’s Mate (Mate 10/20) and P (P20, P10)</u></a></li>
+<li><a href="https://discover-community.techidaily.com/die-ultimativen-12-kostenlosen-tools-fur-pcmac-um-videos-in-4k-zu-konvertieren-von-1080p-bis-hin-zum-high-end-format/"><u>Die Ultimativen 12 Kostenlosen Tools Für PC/Mac, Um Videos in 4K Zu Konvertieren: Von 1080P Bis Hin Zum High-End Format</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-astros-quick-solutions-for-the-astro-a50-audio-issue/"><u>Fixing Silent Astros: Quick Solutions for the Astro A50 Audio Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-annoying-windows-audio-glitch-a-complete-guide/"><u>Fixing the Annoying Windows Audio Glitch: A Complete Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fortnite-voice-chat-issue-discover-how-to-fix-microphone-problems-quickly/"><u>Fortnite Voice Chat Issue? Discover How to Fix Microphone Problems Quickly</u></a></li>
+<li><a href="https://games-able.techidaily.com/graphic-finesse-for-the-financially-prudent/"><u>Graphic Finesse for the Financially Prudent</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-black-ops-cold-war-missing-audio-in-pc-version-complete-guide/"><u>How to Fix Black Ops: Cold War Missing Audio in PC Version - Complete Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/meme-crafters-companion/"><u>Meme Crafter's Companion</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-ultimate-list-of-adobe-premiere-pro-plugins-free-downloads-inside/"><u>New In 2024, The Ultimate List of Adobe Premiere Pro Plugins Free Downloads Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-persistent-speaker-noise-in-windows-117-expert-tips-revealed/"><u>Solving the Persistent Speaker Noise in Windows 11/7 - Expert Tips Revealed!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-repairing-mic-problems-on-fortnite-platform/"><u>Step-by-Step Guide: Repairing Mic Problems on Fortnite Platform</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-hdmi-problems-caused-by-conflicting-application-usage/"><u>Troubleshooting HDMI Problems Caused by Conflicting Application Usage</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fix-for-audio-glitches-in-windows-operating-systems/"><u>Ultimate Fix for Audio Glitches in Windows Operating Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Honor 90 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Silent USB Headphones on Windows 7 – A Complete Guide
-date: 2024-11-14T16:59:53.154Z
-updated: 2024-11-15T16:39:20.182Z
+date: 2024-12-04T16:53:58.322Z
+updated: 2024-12-10T22:20:16.591Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/c169b3dacf2f59341958f21d25bf2991aa2ae1cda
 
 ###
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure Microphone is set to On for Skype (Windows 10 users)
 
  If you’re running Skype on**Windows 10** , firstly please check if the Microphone is set to **On**  for Skype in the Privacy settings.
@@ -49,27 +42,34 @@ Follow these:
 1. On your keyboard, press the**Windows logo key**  and **I** (at the same time).
 2. Click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e2b7da45.png)
 3. Click**Microphone** on the left pane. Check if the status is**On**  for Skype.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
 
 ###
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust the audio settings on Skype
 
 1. Login Skype with your own account.
 2. On Skype window, Click**Tools** \>**Options** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599a3fd935df2.png)
 3. Click**Audio settings** on the left pane. Then set your Microphone device and un-tick**Automatically adjust microphone settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
 4. Check to see if your Microphone works.
 
 ###
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your sound card driver
 
@@ -81,16 +81,13 @@ Follow these:
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. You sound driver is no exception.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your computer and run Skype to see if your Microphone works.
 
 ###
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Restart Windows audio service
 
@@ -100,10 +97,7 @@ Follow these:
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Log in Skype and check to see if your Microphone works.
@@ -125,20 +119,19 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-professional-motion-blur-techniques-for-digital-artists/"><u>[Updated] Professional Motion Blur Techniques for Digital Artists</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-the-ultimate-seo-playbook-increase-channels-with-effortless-techniques/"><u>2024 Approved The Ultimate SEO Playbook Increase Channels with Effortless Techniques</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-trailblazers-in-vr-eyewear-design/"><u>2024 Approved Trailblazers in VR Eyewear Design</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/common-issues-and-remedies-reviving-your-dead-headset-microphone/"><u>Common Issues & Remedies: Reviving Your Dead Headset Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-anthems-game-sounds-working-again-on-your-new-windows-11-pc/"><u>Get Anthem's Game Sounds Working Again on Your New Windows 11 PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-sound-back-fixing-conexant-smartaudio-hd-issues-on-windows-10-computers/"><u>Get Your Sound Back: Fixing Conexant SmartAudio HD Issues on Windows 10 Computers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016890898-getting-the-best-audio-quality-in-fortnite-mic-not-working-heres-how-to-fix-it/"><u>Getting the Best Audio Quality in Fortnite: Mic Not Working? Here's How to Fix It!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-mastering-luts-in-obs-for-premium-visual-output/"><u>In 2024, Mastering LUTs in OBS for Premium Visual Output</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/overcoming-imgburns-persistent-file-transfer-issues-a-step-by-step-guide/"><u>Overcoming ImgBurn's Persistent File Transfer Issues - A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-logitech-g933-malfunctions-a-step-by-step-fix-for-a-broken-mic/"><u>Overcoming Logitech G933 Malfunctions: A Step-by-Step Fix for a Broken Mic</u></a></li>
-<li><a href="https://win-able.techidaily.com/reconnect-to-fun-in-terraria-discover-6-confirmed-fixes/"><u>Reconnect to Fun in Terraria - Discover 6 Confirmed Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015808028-resolving-oculus-rift-s-headset-audio-glitches-quickly-5-proven-techniques-for-2-groggy-morning-users/"><u>Resolving Oculus Rift S Headset Audio Glitches Quickly: 5 Proven Techniques for 2 Groggy Morning Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solving-dark-screen-with-active-cursor-in-win10/"><u>Solving Dark Screen with Active Cursor in Win10</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-complete-guide-for-wireless-bluetooth-speaker-connection-with-pcmac-systems/"><u>The Complete Guide for Wireless Bluetooth Speaker Connection with PC/MAC Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/zoom-microphone-problems-get-them-fixed-now-on-windows-11-and-windows-10-platforms/"><u>Zoom Microphone Problems? Get Them Fixed Now on Windows 11 and Windows 10 Platforms</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unleash-creativity-on-instagram-stories-with-branded-emojis/"><u>[New] Unleash Creativity on Instagram Stories with Branded Emojis</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-interactive-tips-youtube-to-facebook-shareability/"><u>[Updated] 2024 Approved Interactive Tips YouTube to Facebook Shareability</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-dynamic-duo-display-youtubes-way-of-creative-splitting/"><u>[Updated] In 2024, Dynamic Duo Display YouTube’s Way of Creative Splitting</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/addressing-mutism-problems-on-your-discord-conversations/"><u>Addressing Mutism Problems on Your Discord Conversations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dual-monitors-101-seamless-screen-expansion-on-windows-7-8-and-10-pcs/"><u>Dual Monitors 101: Seamless Screen Expansion on Windows 7, 8 and 10 PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-making-your-microsoft-teams-microphone-work-properly-on-latest-windows-versions/"><u>Expert Advice: Making Your Microsoft Teams Microphone Work Properly on Latest Windows Versions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-restore-functionality-of-your-hyperx-cloud-alpha-mic-troubleshooting-steps/"><u>Expert Tips to Restore Functionality of Your HyperX Cloud Alpha Mic - Troubleshooting Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-your-iphones-call-problem-top-10-tips-and-tricks/"><u>Fixing Your iPhone's Call Problem: Top 10 Tips and Tricks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/hacking-htc-vive-for-a-nausea-free-session/"><u>Hacking HTC Vive for a Nausea-Free Session</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-windows-11-bluetooth-connectivity-problems/"><u>How to Repair Windows 11 Bluetooth Connectivity Problems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-the-persistent-freezing-issue-in-god-of-war-game-for-pc-players/"><u>How to Stop the Persistent Freezing Issue in God of War Game for PC Players</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Itel P55+? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-sounds-in-pc-gaming-overcoming-silent-mode-on-black-ops-cold-war/"><u>Restoring Sounds in PC Gaming - Overcoming Silent Mode on Black Ops: Cold War</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-vn-video-editor-app-review-is-it-worth-downloading/"><u>Updated In 2024, VN Video Editor App Review Is It Worth Downloading?</u></a></li>
 </ul></div>
 

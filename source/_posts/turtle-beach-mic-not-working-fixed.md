@@ -1,7 +1,7 @@
 ---
 title: Turtle Beach Mic Not Working [FIXED]
-date: 2024-11-28T06:38:27.395Z
-updated: 2024-12-04T02:28:22.517Z
+date: 2024-12-03T16:21:10.983Z
+updated: 2024-12-10T19:50:47.037Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -42,13 +46,13 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Select **Sound** .
 
@@ -57,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 **4)**  Select the **Recording** tab, then right click on any empty place inside the device list and tick **Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Right click the**Headset Microphone** and click **Enable** .
 
@@ -67,16 +75,12 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **7)** Right click**Headset Microphone** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **8)** Click the**Levels** tab, then drag the volume slider towards the_largest value_ .
 
@@ -87,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Update your audio drivers
 
@@ -117,7 +117,7 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Troubleshoot hardware issues
@@ -148,22 +148,18 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-direct-download-of-youtube-videos/"><u>[New] 2024 Approved Direct Download of YouTube Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-effortless-production-of-fb-ad-videos-with-complimentary-kit-for-2024/"><u>[New] Effortless Production of FB Ad Videos with Complimentary Kit for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-new-lens-on-sony-s3700-blu-ray-play-reviews/"><u>[New] New Lens on Sony S3700 Blu-Ray PLAY Reviews</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-80s-movie-magic-for-contemporary-edits-for-2024/"><u>Best 80S Movie Magic for Contemporary Edits for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-activatedeactivate-your-built-in-virtual-keyboard-on-windows-11-devices/"><u>Guide: Activate/Deactivate Your Built-In Virtual Keyboard on Windows 11 Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-boost-volume-levels-on-your-pc-running-windows-11/"><u>How to Boost Volume Levels on Your PC Running Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-non-functional-push-to-talk-on-discord-a-step-by-step-guide/"><u>How to Resolve Non-Functional Push-to-Talk on Discord - A Step-by-Step Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-samsung-galaxy-m14-4g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Samsung Galaxy M14 4G</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On iPhone 13 Pro Max?</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/obs-vs-streamlabs-for-2024/"><u>OBS vs Streamlabs for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-airpods-microphone-malfunctions-in-windows-11-a-step-by-step-guide/"><u>Overcoming AirPods Microphone Malfunctions in Windows 11 – A Step-by-Step Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/pro-level-strategies-for-remote-audio-capture-for-2024/"><u>Pro-Level Strategies for Remote Audio Capture for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-a-dead-razer-blackshark-v2-mic-solutions-that-work/"><u>Quick Fixes for a Dead Razer BlackShark V2 Mic – Solutions That Work!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-audio-problems-in-the-latest-software-update/"><u>Troubleshooting Guide: Resolving Audio Problems in the Latest Software Update</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-screens-resolve-no-sound-issues-on-laptops-easily/"><u>Troubleshooting Silent Screens: Resolve No Sound Issues on Laptops Easily</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unblocking-audio-on-logitech-g933-headset-with-effortless-fixes/"><u>Unblocking Audio on Logitech G933 Headset with Effortless Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/winning-the-battle-with-broken-audio-restoring-headphone-functionality-in-windows-11/"><u>Winning the Battle with Broken Audio: Restoring Headphone Functionality in Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-full-spectrum-analysis-understanding-xmedia-suite-workshop-details/"><u>[New] Full Spectrum Analysis Understanding XMedia Suite Workshop Details</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-modern-audio-errors-tips-for-restoring-clear-sounds-after-an-update/"><u>Fixing Modern Audio Errors: Tips for Restoring Clear Sounds After an Update</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-worlds-solutions-for-no-audio-in-valheim-pc-edition/"><u>Fixing Silent Worlds: Solutions for 'No Audio' In Valheim PC Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-rpc-server-not-responding-error-for-a-smooth-windows-experience/"><u>Fixing the 'RPC Server Not Responding' Error for a Smooth Windows Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-get-your-corsair-hs30-headset-microphone-up-and-running-on-windows/"><u>Fixing the Issue: How to Get Your Corsair HS30 Headset Microphone Up and Running on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-solutions-for-your-non-functional-oculus-quest-2-headset-microphone/"><u>Fixing the Issue: Solutions for Your Non-Functional Oculus Quest 2 Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-sound-problem-in-call-of-duty-black-ops-cold-war-for-pc-users/"><u>Fixing the Sound Problem in Call of Duty: Black Ops Cold War for PC Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-voice-back-to-work-in-modern-warfare-comprehensive-guide/"><u>Get Your Voice Back to Work in Modern Warfare - Comprehensive Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-picks-the-ideal-thinkpad-models-for-hybrid-professionals-excluding-the-latest-release-insights/"><u>Top Picks: The Ideal ThinkPad Models for Hybrid Professionals, Excluding the Latest Release - Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transforma-archivos-de-musica-aac-a-formatos-ringtone-sin-costo-con-convertidor-audio-on-line/"><u>Transforma Archivos De Música AAC a Formatos Ringtone Sin Costo Con Convertidor Audio On-Line</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-trim-videos-like-a-pro-10-free-online-editors-2023-guide/"><u>Updated 2024 Approved Trim Videos Like a Pro 10 Free Online Editors 2023 Guide</u></a></li>
 </ul></div>
 

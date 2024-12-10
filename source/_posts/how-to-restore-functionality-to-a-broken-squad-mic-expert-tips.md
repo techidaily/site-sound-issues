@@ -1,7 +1,7 @@
 ---
 title: How to Restore Functionality to a Broken Squad Mic - Expert Tips
-date: 2024-11-10T17:52:25.541Z
-updated: 2024-11-15T17:32:17.291Z
+date: 2024-12-04T17:45:12.557Z
+updated: 2024-12-10T16:04:22.526Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/cf4cfca74e707c3edc4a37fda10a303db8db8787c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/cf4cfca74e707c3edc4a37fda10a303db8db8787c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
@@ -51,10 +59,7 @@ thumbnail: https://thmb.techidaily.com/cf4cfca74e707c3edc4a37fda10a303db8db8787c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Select the **Recording** tab, then right click on any empty place inside the device list and tick **Show Disabled Devices** .
@@ -73,22 +78,12 @@ thumbnail: https://thmb.techidaily.com/cf4cfca74e707c3edc4a37fda10a303db8db8787c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **8)** Click the**Levels** tab, then drag the volume slider towards the_largest value_ .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **9)** Click**OK** , then click**OK** .
@@ -111,22 +106,12 @@ thumbnail: https://thmb.techidaily.com/cf4cfca74e707c3edc4a37fda10a303db8db8787c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the**Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) — if you don’t already have it, you’ll be prompted to upgrade when you click**Update All** .)  
@@ -163,24 +148,16 @@ thumbnail: https://thmb.techidaily.com/cf4cfca74e707c3edc4a37fda10a303db8db8787c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-unlock-the-secret-to-youtube-success-reaching-a-milestone-of-500plus-views/"><u>[Updated] Unlock the Secret to YouTube Success Reaching a Milestone of 500+ Views</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-the-great-income-clash-dailymovement-vs-youtube-economic-strategies/"><u>2024 Approved The Great Income Clash DailyMovement Vs YouTube Economic Strategies</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722960721205-comprehensive-driver-set-for-logitech-k400-plus-free-download-options-here/"><u>Comprehensive Driver Set for Logitech K400 Plus - Free Download Options Here!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/discord-voice-connection-problems-here-are-the-solutions/"><u>Discord Voice Connection Problems? Here Are the Solutions!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-resolving-the-corsair-hs60-microphone-problem-efficiently/"><u>Expert Tips: Resolving the Corsair HS60 Microphone Problem Efficiently</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-microphone-thats-not-capturing-your-sound/"><u>How to Fix a Microphone That's Not Capturing Your Sound</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-nokia-c22-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Nokia C22 Phone that is Locked?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Oppo F25 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-stand-out-with-these-pfp-gems-for-tiktok-profiles/"><u>In 2024, Stand Out with These PFP Gems for TikTok Profiles</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-finance-with-microsoft-excel-determining-loan-amounts-and-repayment-schedules/"><u>Mastering Finance with Microsoft Excel: Determining Loan Amounts and Repayment Schedules</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-xbox-s-x-controllers-bluetooth-linkage/"><u>Mastering Xbox S X Controller's Bluetooth Linkage</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ary-gains-mr-beast-in-focus-for-2024/"><u>Monetary Gains Mr. Beast in Focus for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-obscured-post-fix-install/"><u>Screen Obscured Post-Fix Install</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-on-fixing-your-rust-mic-issues-updated-for-2e4-tech-needs/"><u>Step-by-Step Tutorial on Fixing Your Rust Mic Issues: Updated for 2E4 Tech Needs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-solve-playback-failed-audio-issues-in-no-time/"><u>Troubleshoot & Solve Playback Failed Audio Issues in No Time</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-tozo-t6-compatibility-in-windows-11/"><u>Troubleshooting Guide: Resolving Issues with Tozo T6 Compatibility in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-a-nonfunctional-corsair-void-headset-microphone/"><u>Troubleshooting Steps for a Nonfunctional Corsair Void Headset Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-the-no-audio-problem-with-intel-conexant-hdt-advanced-micro-devices-in-windows-10/"><u>Troubleshooting Steps: Resolving the 'No Audio' Problem with Intel Conexant HDT Advanced Micro Devices in Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/two-system-sync-fixes-remedying-the-absence-of-audio-on-your-dual-computer-setup/"><u>Two-System Sync Fixes: Remedying the Absence of Audio on Your Dual Computer Setup</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-first-time-filmmaker-guide-setting-up-logitech-cam-for-2024/"><u>[New] First-Time Filmmaker Guide Setting up Logitech Cam for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-idea-to-execution-a-comprehensive-youtube-video-guide/"><u>[New] In 2024, From Idea to Execution A Comprehensive YouTube Video Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-optimizing-your-macos-sierra-easy-instructions-for-2024/"><u>[New] Optimizing Your macOS Sierra Easy Instructions for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unleash-the-power-of-stars-with-these-top-7-mods-7/"><u>[New] Unleash the Power of Stars with These Top 7 Mods (#7)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/b4b-gobi-crash-troubleshooting-on-udk-fixing-ue4-game-issues-easily/"><u>B4B Gobi Crash Troubleshooting on UDK - Fixing UE4 Game Issues Easily!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/chrome-silent-problems-resolved-restoring-audio-backup/"><u>Chrome Silent Problems Resolved: Restoring Audio Backup</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cod-vanguard-voice-communication-errors-how-to-solve-them-effectively/"><u>Cod: Vanguard Voice Communication Errors – How to Solve Them Effectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-issues-and-resolutions-for-the-logitech-g230-microphone-not-working/"><u>Common Issues & Resolutions for the Logitech G230 Microphone Not Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-steps-to-fix-broken-laptop-audio-systems/"><u>Comprehensive Steps to Fix Broken Laptop Audio Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Realme Narzo N53? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/why-my-photos-are-upside-down-on-instagram-feed-for-2024/"><u>Why My Photos Are Upside Down on Instagram Feed for 2024</u></a></li>
 </ul></div>
 

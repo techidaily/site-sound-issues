@@ -1,7 +1,7 @@
 ---
 title: No Sounds in Apex Legends? Here's How You Can Resolve It!
-date: 2024-11-13T17:44:23.373Z
-updated: 2024-11-15T16:02:57.284Z
+date: 2024-12-03T16:02:14.727Z
+updated: 2024-12-10T16:40:10.416Z
 tags:
   - win11
   - win10
@@ -36,22 +36,12 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 5. **[Reinstall Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Restart your computer
 
  Some programs running in the background may conflict with Apex Legends, causing audio issues. In this case, try rebooting your computer to turn off unwanted programs completely. After your computer restarts, relaunch your game to check if you get the sound back. If not, read on and check the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Run the Windows audio troubleshooter
 
@@ -64,20 +54,21 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-322.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**Playing Audio** , then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-323.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Follow the on-screen instructions to troubleshoot your problem.
 
 If Windows fails to detect your issue, move on and try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -117,16 +108,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-281.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Restart Windows Audio Services
 
@@ -139,6 +127,10 @@ OR
 **2)** Right-click**Windows Audio** , then select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-326.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Relaunch your game to test your issue.
 
@@ -182,16 +174,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-googles-goldmine-a-simplified-three-step-blueprint-for-calculating-subscriber-earning-potential/"><u>[Updated] Google's Goldmine A Simplified Three-Step Blueprint for Calculating Subscriber Earning Potential</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnose-and-correct-your-pcs-sound-troubles-in-five-strategic-moves-for-windows-11/"><u>Diagnose & Correct Your PC's Sound Troubles in Five Strategic Moves for Windows 11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-your-instagram-presence-with-these-9-game-changing-tips/"><u>Elevate Your Instagram Presence with These 9 Game-Changing Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/epson-scanner-issues-in-windows-11-a-guide-to-solve-them/"><u>Epson Scanner Issues in Windows 11: A Guide to Solve Them</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-nokia-c300-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Nokia C300 Devices | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-vivo-y27s-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Vivo Y27s Phone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huge-savings-on-top-rated-fully-adjustable-led-light-bars-get-yours-at-a-30-discount-today-zdnet-exclusive/"><u>Huge Savings on Top-Rated, Fully Adjustable LED Light Bars – Get Yours at a 30% Discount Today! (ZDNet Exclusive)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-rise-of-new-titans-against-vlc/"><u>In 2024, The Rise of New Titans Against VLC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-audio-functionality-addressing-non-recording-microphones-on-obs/"><u>Reviving Audio Functionality: Addressing Non-Recording Microphones on OBS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-rainbow-six-sieges-voice-chat-problem-post-2024-update-a-step-by-step-guide/"><u>Solving Rainbow Six Siege's Voice Chat Problem Post-2024 Update: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-troubleshooting-your-corsair-void-microphone-issues/"><u>Ultimate Guide: Troubleshooting Your Corsair Void Microphone Issues</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-easy-sound-transformation-ios-tools-to-convert-youtube-songs-to-mp3-files/"><u>2024 Approved Easy Sound Transformation IOS Tools to Convert YouTube Songs to MP3 Files</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminating-cyberpunk-2077-sound-glitches-for-a-smoother-gaming-experience/"><u>Eliminating Cyberpunk 2077 Sound Glitches for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/epson-printer-error-on-windows-1011/"><u>Epson Printer Error on Windows 10/11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-mic-malfunctions-a-users-guide-to-restoring-logitech-g935-in-windows/"><u>Fixing Mic Malfunctions: A User's Guide to Restoring Logitech G935 in Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-issues-resolving-lack-of-audio-in-borderlands-3-for-windows/"><u>Fixing Silent Issues: Resolving Lack of Audio in Borderlands 3 for Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-astro-a50-microphone-issue-troubleshooting-steps/"><u>Fixing the Astro A50 Microphone Issue: Troubleshooting Steps</u></a></li>
+<li><a href="https://win-online.techidaily.com/scopri-i-programmi-di-sincronizzazione-e-restaurazione-piu-efficienti-per-posta-inoltrata-di-outlook-valutazione-comparativa/"><u>Scopri I Programmi Di Sincronizzazione E Restaurazione Più Efficienti per Posta Inoltrata Di Outlook: Valutazione Comparativa</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/select-the-superior-a-guide-to-8-outstanding-free-android-mp3-downloaders-for-2024/"><u>Select the Superior A Guide to 8 Outstanding Free Android MP3 Downloaders for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-art-of-changing-meeting-screens-on-microsoft-teams-for-2024/"><u>The Art of Changing Meeting Screens on Microsoft Teams for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-heart-of-indonesia-greetings-and-more/"><u>The Heart of Indonesia: Greetings and More</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-the-secrets-of-pcs-with-toms-system-advice/"><u>Unlock the Secrets of PCs with Tom's System Advice</u></a></li>
 </ul></div>
 

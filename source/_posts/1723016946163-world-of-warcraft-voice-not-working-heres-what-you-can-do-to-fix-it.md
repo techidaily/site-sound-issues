@@ -1,7 +1,7 @@
 ---
 title: World of Warcraft Voice Not Working? Here's What You Can Do to Fix It!
-date: 2024-08-27T21:04:38.059Z
-updated: 2024-08-28T21:04:38.059Z
+date: 2024-12-03T20:46:07.765Z
+updated: 2024-12-10T17:46:18.332Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/7d12c1a2b9062c22c49da3112113895938f2f8420
 5. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Update DirectX](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Some quick checks
 
  Before we move on to fix the Fortnite sound not working on Windows problem, here are some quick and usually effective fixes that you can try:
@@ -50,23 +54,23 @@ Here’s how to do it:
 4. In**View by** , select**Large icons** . Then click**Sound** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-82.png)
 5. In the**Playback** tab, click on**the device you use** , and then click**Set default** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-87.png)
 6. Click the**Recording** tab, then**make sure your microphone device is set as default** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Open Fortnite and check to see if the Fortnite no sound problem is resolved. If yes, then great! If the problem remains, please try the next fix, below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Disable all enhancements
 
  Audio enhancement packages aim to enhance your sound performance. But this feature sometimes causes problems with audio and sound. If you encounter a problem that you have no audio in Fortnite, you can try disabling audio enhancements to solve the problem. To do so:
@@ -75,24 +79,12 @@ Here’s how to do it:
 2. Type **mmsys.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/mmsyssound.jpg)
 3. Right-click your default playback device (the one with a green tick) and click **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/sound.jpg)
 4. In the **Enhancements** tab, tick**Disable all sound effects** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
 5. For some sound cards, this feature is listed under the**Advanced** tab, and you should untick the box for**Enable audio enhancements** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/disable-audio-enhancements.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Try your Fortnite again to see if the no sound issue is fixed. If not, please move on.
 
 ---
@@ -108,18 +100,24 @@ Here is how to adjust Fortnite game settings:
 2. Click**SETTINGS** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-101.png)
 3. Click**the sound icon** . Then make sure**Voice Chat** and**Push To Talk** are both set**On** . In**Voice Chat Input Device** and**Voice Chat Output Device** , make sure**the devices are the ones you’ve set in Fix 1** . Once one, click**Apply** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-104.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Open Fortnite to see if the no sound on Fortnite issue is fixed. If yes, then congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your audio driver
 
@@ -145,8 +143,9 @@ No advertising on the website.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Update DirectX
 
  DirectX is a suite of components in Windows that allows heavy multimedia apps such as games to interact with your video and audio cards. If you’re running an old version of DirectX, it’s possible that it won’t be able to handle the processing task, which might cause the no sound in Fortnite error. So you should update DirectX to the latest version to see if it fixes the issue.
@@ -171,8 +170,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +177,17 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-digitally-chronicled-tweets-of-the-year-so-far/"><u>[New] 2024 Approved Digitally Chronicled Tweets of the Year So Far</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expertly-elevating-images-premier-frame-apps-in-2e-24-for-2024/"><u>Expertly Elevating Images Premier Frame Apps in 2E '24 for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016389182-fix-your-crackling-headphones-instantly-simple-solutions/"><u>Fix Your Crackling Headphones Instantly: Simple Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-input-for-voice-chat-in-dota-2-pc-users/"><u>How to Restore Audio Input for Voice Chat in Dota 2 (PC Users)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-instructors-blueprint-for-video-assisted-learning/"><u>In 2024, The Instructor's Blueprint for Video-Assisted Learning</u></a></li>
+<li><a href="https://fox-info.techidaily.com/pioneering-viewer-retention-discovering-6-video-forms/"><u>Pioneering Viewer Retention Discovering 6 Video Forms</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-removing-wifi-networks-from-your-pcs-memory-in-windows-10/"><u>Step-by-Step Guide: Removing WiFi Networks From Your PC's Memory in Windows 10</u></a></li>
+<li><a href="https://discover-data.techidaily.com/step-by-step-guide-successfully-moving-active-directory-backup-to-a-fresh-host/"><u>Step-by-Step Guide: Successfully Moving Active Directory Backup to a Fresh Host</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-silent-logitech-g933-headset-simple-guide/"><u>Troubleshooting Tips: Resolving Silent Logitech G933 Headset [Simple Guide]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unmuted-solution-restoring-audio-to-your-desktops-fb-watchlist-modern-fixes/"><u>Unmuted Solution: Restoring Audio to Your Desktop's FB Watchlist – Modern Fixes</u></a></li>
+</ul></div>
 

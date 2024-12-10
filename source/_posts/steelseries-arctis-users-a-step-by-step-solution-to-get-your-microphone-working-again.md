@@ -1,7 +1,7 @@
 ---
 title: "SteelSeries Arctis Users: A Step-by-Step Solution to Get Your Microphone Working Again"
-date: 2024-11-09T16:01:10.422Z
-updated: 2024-11-15T17:53:47.982Z
+date: 2024-12-06T17:02:49.175Z
+updated: 2024-12-10T16:19:26.973Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 * The sound card driver is outdated/corrupted
 * Your microphone cannot access your device
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to fix your mic issues
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -50,6 +43,10 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 5. **[Make sure to use the correct Default Format](https://tools.techidaily.com/drivereasy/download/)**
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Set up the microphone correctly
 
@@ -66,13 +63,6 @@ Here’s how to do it:
  1) In the Windows Search box, type**microphone,** and select**Microphone privacy settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/privacy.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Please be sure to turn on “**Allow access to the microphone on this device** ” and “**Allow apps to access your microphone** “.
 
@@ -92,16 +82,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) In the Sound windows, select the **Recording**  tab.
 
@@ -110,10 +97,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In your VoIP application, select Actis Pro Chat Audio as the default audio device.
@@ -124,18 +108,15 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Also go to the**Enhancements** tab, and check the box Disable all sound effects.
 
  8) Click**Apply** \>**OK** .
 
  Now your SteelSeries Actis Pro should be working, and if you still have problems with the microphone, you can try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update the headset driver
 
@@ -150,6 +131,10 @@ Here’s how to do it:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will scan your computer and detect any problem drivers.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Activate & Update** button next to the headset to download the latest and correct driver for it.
 
@@ -173,10 +158,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) In the Sound windows, select the **Recording**  tab.
@@ -212,17 +194,18 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-a-lifetime-love-affair-with-top-15-classic-stop-motion-movies/"><u>[New] In 2024, A Lifetime Love Affair with Top 15 Classic Stop-Motion Movies</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-universal-video-concepts-the-10-simplest-ideas-everyone-can-execute/"><u>[Updated] 2024 Approved Universal Video Concepts The 10 Simplest Ideas Everyone Can Execute</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-streamline-music-craft-with-our-high-quality-beat-detection-software/"><u>[Updated] In 2024, Streamline Music Craft with Our High-Quality Beat Detection Software</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-fcps-ultimate-effect-upgrade-the-best-10-plugins/"><u>2024 Approved FCP’s Ultimate Effect Upgrade The Best 10 Plugins</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-techniques-diagnosing-and-repairing-sound-issues-with-hdmi-connected-computers-and-tvs/"><u>Expert Techniques: Diagnosing & Repairing Sound Issues with HDMI Connected Computers and TVs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-back-to-clear-communication-fixing-zoom-sound-issues-on-windows-and-mac/"><u>Get Back To Clear Communication: Fixing Zoom Sound Issues On Windows & Mac</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-nonfunctional-microphone-for-skype-in-windows-11/"><u>How to Fix a Nonfunctional Microphone for Skype in Windows 11</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-youtube-lighting-essentials-17-tops-reviewed/"><u>In 2024, YouTube Lighting Essentials - #17 Tops Reviewed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/logitechs-best-offer-complimentary-webcam-driver-downloads-for-window-users/"><u>Logitech's Best Offer: Complimentary Webcam Driver Downloads for Window Users</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-best-avi-video-joiners-top-10-free-solutions-for-merging-avi-files/"><u>New In 2024, Best AVI Video Joiners Top 10 Free Solutions for Merging AVI Files</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-fixing-issues-with-the-lucidsound-ls30-microphone/"><u>Troubleshooting Tips: Fixing Issues with the LucidSound LS30 Microphone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726223914280-4/"><u>원귀한 이미지를 다시 만들기: 4단계 컬러화 방법</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-seamless-3d-cinema-at-home-best-3d-blu-ray-systems/"><u>[Updated] In 2024, Seamless 3D Cinema at Home Best 3D Blu-Ray Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/clarifying-mistakes-discover-how-to-identify-and-avoid-non-existent-chatgpt-for-windows-malware-threats/"><u>Clarifying Mistakes: Discover How to Identify and Avoid Non-Existent 'ChatGPT for Windows' Malware Threats</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-samsung-ru7300-55-4k-uhd-smart-led-tv-analysis-are-the-unique-features-justified/"><u>Comprehensive Samsung RU7300 55 4K UHD Smart LED TV Analysis - Are the Unique Features Justified?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/customizing-audio-preferences-a-users-guide-to-removing-sound-effects-from-windows-11-systems/"><u>Customizing Audio Preferences: A User's Guide to Removing Sound Effects From Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solutions-for-counter-strike-2-players-dealing-with-mic-failures/"><u>DIY Solutions for Counter-Strike 2 Players Dealing With Mic Failures</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-installation-of-corsair-void-pro-on-windows-get-your-drivers-now/"><u>Effortless Installation of Corsair Void Pro on Windows - Get Your Drivers Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/improve-your-gaming-experience-eliminate-cyberpunk-2077s-sound-irregularities-with-these-fixes/"><u>Improve Your Gaming Experience: Eliminate Cyberpunk 2077'S Sound Irregularities with These Fixes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-viber-out-calling-app-feedback/"><u>In-Depth Analysis of Viber Out Calling App Feedback</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-resolution-of-error-0x800f0922-in-windows-11/"><u>Mastering Resolution of Error 0X800F0922 in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-to-restore-functionality-of-your-unresponsive-blue-yeti-microphone/"><u>Quick Fixes To Restore Functionality Of Your Unresponsive Blue Yeti Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-voicemod-problems-with-these-latest-tips/"><u>Resolve Your Voicemod Problems with These Latest Tips</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-impactful-power-of-customer-testimonials-on-sales-for-2024/"><u>The Impactful Power of Customer Testimonials on Sales for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-restore-sounds-on-a-realtek-audio-device-after-silence/"><u>Troubleshooting Guide: How to Restore Sounds on a Realtek Audio Device After Silence</u></a></li>
 </ul></div>
 
