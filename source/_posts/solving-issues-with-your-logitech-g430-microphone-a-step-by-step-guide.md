@@ -1,7 +1,7 @@
 ---
 title: "Solving Issues with Your Logitech G430 Microphone: A Step-by-Step Guide"
-date: 2024-12-04T21:06:55.354Z
-updated: 2024-12-10T18:53:35.722Z
+date: 2024-12-09T17:56:35.762Z
+updated: 2024-12-16T18:34:16.234Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  Here are all the 5 fixes that helped many users solve the Rec Room mic not working problem. You don’t need to try them all. Just work your way down the list until you find the one that does the trick.
@@ -35,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 5. **[Close unnecessary background apps](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Troubleshoot the hardware issue
@@ -58,18 +62,18 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-6.jpg)
 3. Scroll down and**turn on** the button for**Allow apps to access your microphone** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3-6.jpg)
 4. Also, **toggle on Allow desktop apps’ access to your microphone** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After applying the settings, you can restart Rec Room to test the issue. If it’s not resolved, try the next fix.
 
@@ -92,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### On Oculus or SteamVR
@@ -112,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 2. Select the**Audio** tab. Then click**Set Record Device** and set it to your preferred headset mic.
 
  See if your microphone works in Rec Room. If not, continue to the next method below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Update your audio driver
 
@@ -148,7 +148,7 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
@@ -177,19 +177,20 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-essential-top-5-zero-cost-windows-10-screen-recorder-tools/"><u>[New] 2024 Approved Essential Top 5 Zero Cost Windows 10 Screen Recorder Tools</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ree-fx-library-to-enhance-youtube-productions-for-2024/"><u>[New] Free FX Library to Enhance YouTube Productions for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-the-annoying-buzz-in-your-earphones-or-headset/"><u>Diagnosing & Repairing the Annoying Buzz in Your Earphones or Headset</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ic-viewership-statistics-platforms-for-2024/"><u>Dynamic Viewership Statistics Platforms for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/getting-started-with-windows-movie-maker-6-installs/"><u>Getting Started with Windows Movie Maker 6 Installs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-distorted-sounds-in-cyberpunk-2077-for-an-immersive-experience/"><u>How to Repair Distorted Sounds in Cyberpunk 2077 for an Immersive Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-onikuma-mic-no-sound-solved-today/"><u>How to Repair Your Onikuma Mic – No Sound Solved Today</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-turn-on-volume-for-anthem-while-playing-on-a-windows-10-device/"><u>How to Turn On Volume for Anthem While Playing on a Windows 10 Device</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-comprehensive-guide-to-vsco-image-enhancement/"><u>In 2024, Comprehensive Guide to VSCO Image Enhancement</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-xiaomi-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Xiaomi? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-terrain-of-excessive-disk-space-in-windows/"><u>Navigating the Terrain of Excessive Disk Space in Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/top-4-solutions-to-resolve-your-webex-mic-issues/"><u>Top 4 Solutions to Resolve Your Webex Mic Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-the-functionality-of-electric-motorcycles-how-they-operate/"><u>Understanding the Functionality of Electric Motorcycles: How They Operate</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-and-install-the-complete-guide-to-hp-laserjet-pro-m404n-printer-drivers/"><u>Update & Install: The Complete Guide to HP LaserJet Pro M404n Printer Drivers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-effortless-video-integration-into-blog-posts-and-essays-for-2024/"><u>[New] Effortless Video Integration Into Blog Posts & Essays for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-echo-emporium-a-selection-of-top-sites-for-skype-audio/"><u>[New] In 2024, Echo Emporium A Selection of Top Sites for Skype Audio</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-superior-locations-for-purchasing-youtube-ringtone-content/"><u>[New] Superior Locations for Purchasing YouTube Ringtone Content</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-young-filmmakers-guide-to-selecting-video-gear/"><u>[Updated] In 2024, The Young Filmmaker's Guide to Selecting Video Gear</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/44cm44k344oz44ox44or44gq44or44k544ov44o844oj44gr44ki44kl44ov44kh44kk44or44o744oq44od44kv44ki44od44ox44gu5pqx5yplus35yyw5pa55rov6kej6kqs44cn/"><u>「シンプルなパスワードによるファイル・バックアップの暗号化方法解説」</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unseen-youtube-videos-the-meaning-of-unlisted-status/"><u>2024 Approved Unseen YouTube Videos The Meaning of 'Unlisted' Status</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/addressing-persistent-sound-interruptions-in-windows-11-comprehensive-fixes-and-advice/"><u>Addressing Persistent Sound Interruptions in Windows 11 - Comprehensive Fixes and Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-devices-not-detected-by-windows-windows-7810/"><u>How to Fix Audio Devices Not Detected by Windows (Windows 7/8/10)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/idt-high-definition-codec-driver-configuration-and-installation-tips-for-windows-10-users/"><u>IDT High Definition Codec Driver Configuration & Installation Tips for Windows 10 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/immediate-fixes-for-overcoming-the-cant-play-sound-error-messages/"><u>Immediate Fixes for Overcoming the 'Can't Play Sound' Error Messages</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722958779555-pioneer-dj-enthusiast-grab-your-ddjs-x2-software-today-for-seamless-experience/"><u>Pioneer DJ Enthusiast? Grab Your DDJS-X2 Software Today for Seamless Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014290109-razer-kraken-microphone-troubleshooting-guide-problem-solved/"><u>Razer Kraken Microphone Troubleshooting Guide - Problem Solved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-ensuring-sound-directs-to-headphones-not-external-speakers/"><u>Troubleshooting Guide: Ensuring Sound Directs to Headphones, Not External Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-solving-non-functional-fortnite-audio/"><u>Troubleshooting Steps for Solving Non-Functional Fortnite Audio</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-intel-integrated-graphics-driver-on-windows-11-free-download/"><u>Update Your Intel Integrated Graphics Driver on Windows 11 - Free Download</u></a></li>
 </ul></div>
 

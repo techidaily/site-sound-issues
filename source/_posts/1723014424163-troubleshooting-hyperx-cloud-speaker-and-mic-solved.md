@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting HyperX Cloud Speaker and Mic: Solved!"
-date: 2024-12-07T21:12:02.375Z
-updated: 2024-12-10T21:48:57.641Z
+date: 2024-12-12T16:32:50.009Z
+updated: 2024-12-16T23:20:31.481Z
 tags:
   - win11
   - win10
@@ -45,15 +45,11 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Right-click on**speakers** and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
@@ -63,7 +59,7 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -82,7 +78,7 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
@@ -103,7 +99,7 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 3. Click **Change advanced power settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
@@ -111,6 +107,10 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
@@ -136,24 +136,16 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-key-strategies-for-adding-timestamps-in-youtube-content/"><u>[New] 2024 Approved Key Strategies for Adding Timestamps in YouTube Content</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-professional-insights-io-screen-capturing-demystified/"><u>[Updated] Professional Insights IO Screen Capturing Demystified</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/9-ways-to-fix-the-no-servers-found-error-in-apex-legends-for-windows/"><u>9 Ways to Fix the No Servers Found Error in Apex Legends for Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/access-latest-compatible-epson-xp-420-drivers-secure-download-instructions/"><u>Access Latest, Compatible Epson XP-420 Drivers – Secure Download Instructions</u></a></li>
-<li><a href="https://win-dash.techidaily.com/complete-guide-upgrading-and-downloading-sas-driver-for-windows-10-8-7-systems/"><u>Complete Guide: Upgrading & Downloading SAS Driver for Windows 10, 8, 7 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-device-used-by-another-application-for-seamless-hdmi-connection/"><u>Fixing 'Device Used by Another Application' For Seamless HDMI Connection</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-nonfunctioning-mic-on-your-oculus-quest-2-headset/"><u>How to Fix a Nonfunctioning Mic on Your Oculus Quest 2 Headset</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-your-devices-inactive-front-audio-port-easy-diy-methods/"><u>How To Fix Your Device's Inactive Front Audio Port - Easy DIY Methods</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-reconnect-your-realtek-high-definition-sound-device-when-it-shows-as-unplugged/"><u>How to Reconnect Your Realtek High Definition Sound Device When It Shows as Unplugged</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-league-of-legends-voip-problems-quickly-and-easily/"><u>How to Resolve League of Legends VOIP Problems Quickly and Easily</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-stabilize-interrupted-sounds-on-windows-11-quick-and-effective-tips/"><u>How to Stabilize Interrupted Sounds on Windows 11: Quick and Effective Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-repair-your-logitech-g933-mic/"><u>How to Troubleshoot and Repair Your Logitech G933 Mic</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-8-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 8 without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-audio-stability-on-windows-11-fixes-for-the-cutting-out-glitch/"><u>Mastering Audio Stability on Windows 11: Fixes for the Cutting Out Glitch</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-discords-feature-broadcasting-gameplay-sound-seamlessly/"><u>Mastering Discord's Feature: Broadcasting Gameplay Sound Seamlessly</u></a></li>
-<li><a href="https://win-blog.techidaily.com/oxygen-not-included-masterclass-on-preventing-game-crashes-and-bugs/"><u>Oxygen Not Included - Masterclass on Preventing Game Crashes and Bugs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-issues-with-your-lenovo-laptops-webcam/"><u>Troubleshooting Tips: Resolving Issues with Your Lenovo Laptop's Webcam</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-scansnap-s1300i-driver-with-these-easy-steps-do-it-now/"><u>Update Your ScanSnap S1300i Driver with These Easy Steps – Do It Now!</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-s18-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S18 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-what-lies-unseen-in-instagram-story-watching-for-2024/"><u>[New] What Lies Unseen in Instagram Story Watching for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pixicapture-studio-winos-series-for-2024/"><u>[Updated] PixiCapture Studio WinOS Series for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-verdict-on-actives-place-among-best-recorders/"><u>[Updated] The Verdict on Active's Place Among Best Recorders</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016008656-common-problems-and-fixes-for-a-malfunctioning-logitech-g230-microphone-resolved/"><u>Common Problems and Fixes for a Malfunctioning Logitech G230 Microphone - Resolved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/dragon-ball-fighterz-network-error-resolved-initialization-successful/"><u>Dragon Ball FighterZ Network Error Resolved – Initialization Successful</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-s24-ultra-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Samsung Galaxy S24 Ultra to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/instant-data-integration-essential-steps-for-file-movement-onto-computer-for-2024/"><u>Instant Data Integration Essential Steps for File Movement Onto Computer for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/kotion-each-g2-cuisine-g2000-mic-malfunctions-how-to-restore-audio-functionality/"><u>Kotion Each G2 Cuisine G2000 Mic Malfunctions: How to Restore Audio Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/recognizing-and-fixing-blue-yeti-not-detected-error-messages-effectively/"><u>Recognizing and Fixing Blue Yeti Not Detected Error Messages Effectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016983310-reviving-hdmi-sound-outputs-for-your-windows-presso-pc-easy-fixes/"><u>Reviving HDMI Sound Outputs for Your Windows Presso PC - Easy Fixes!</u></a></li>
 </ul></div>
 

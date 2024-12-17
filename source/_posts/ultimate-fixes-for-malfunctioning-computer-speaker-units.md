@@ -1,7 +1,7 @@
 ---
 title: Ultimate Fixes for Malfunctioning Computer Speaker Units
-date: 2024-08-23T12:23:33.940Z
-updated: 2024-08-24T12:23:33.940Z
+date: 2024-12-13T21:29:25.677Z
+updated: 2024-12-16T20:25:26.805Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 2. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Try the back audio jacks**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Set your audio device as default
 
  Perhaps your device connected to your front audio jack is not working properly because it’s not set as the default device. To check your default audio device:
@@ -39,6 +43,10 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b348efb28884.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Right click your_audio device_ , then click**Set as Default Device** . After that, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b34902f6d664.jpg)
@@ -48,8 +56,9 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
  Hopefully this works for you. But if not, there are two more fixes for you to try…
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Update your device drivers
 
  Your front audio jack may not be working if you’re using a wrong driver or it’s out of date. You should update your device drivers to see if that’s the case for you. If you don’t have the time, patience or skills to update your drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -64,24 +73,22 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b344dbcb3a78.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 **3)**  Click the **Update**  button next to_each of your devices_ to download the latest and correct driver for it, then you can manually install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b3494ff64802.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can do it for free, but it’s partly manual.
 
  If you have any issue with Driver Easy, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  for advice. You should attach the URL of this article so they can help you better.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Try the back audio jacks
 
  You may have hardware issues with your front audio jacks. So it’s worth checking the audio jacks on your motherboard to see if your issues are occurring on your front jack only.
@@ -96,8 +103,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +110,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-optimal-practices-for-archiving-interactive-online-workshops/"><u>[New] 2024 Approved Optimal Practices for Archiving Interactive Online Workshops</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-advanced-methods-for-securing-vimeo-recordings/"><u>[New] In 2024, Advanced Methods for Securing Vimeo Recordings</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-must-see-vr-platforms-and-places/"><u>[Updated] In 2024, Must-See VR Platforms and Places</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-oppo-reno-10-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Oppo Reno 10 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-a-non-functioning-mic-in-microsoft-teams-for-windows-operating-systems/"><u>How to Troubleshoot a Non-Functioning Mic in Microsoft Teams for Windows Operating Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-fortnite-audio-problems-in-no-time-with-these-easy-steps/"><u>Resolve Fortnite Audio Problems in No Time with These Easy Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-skype-audio-repairing-microphone-problems-in-windows-10/"><u>Revive Your Skype Audio: Repairing Microphone Problems in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-audacity-problem-how-to-fix-sound-device-not-found-glitch/"><u>Solve Your Audacity Problem: How to Fix 'Sound Device Not Found' Glitch</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-how-to-restore-functionality-to-your-corsair-hs60-headsets-mic/"><u>Troubleshooting Tips: How to Restore Functionality to Your Corsair HS60 Headset's Mic</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-nubia-z50-ultra-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Nubia Z50 Ultra Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/winx-dvd-ripper-pro-ultimate-dvd-copying-and-conversion-tool-compatible-with-windows-10/"><u>WinX DVD Ripper Pro: Ultimate DVD Copying and Conversion Tool Compatible with Windows 10</u></a></li>
+</ul></div>
 

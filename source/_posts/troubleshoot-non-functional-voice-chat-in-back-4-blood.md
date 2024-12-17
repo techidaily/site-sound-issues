@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Non-Functional Voice Chat in 'Back 4 Blood'
-date: 2024-12-06T16:26:28.314Z
-updated: 2024-12-10T16:58:36.816Z
+date: 2024-12-11T16:26:20.014Z
+updated: 2024-12-16T18:03:30.504Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/c02c898eea6d72b9e37093c851ecd855aff6005dd
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -46,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/c02c898eea6d72b9e37093c851ecd855aff6005dd
 
  If you’ve attached the microphone to your headset correctly but your mic still won’t catch your voice, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Enable your headset mic for recording
 
  When your microphone doesn’t have access to your PC to record your audio, it won’t work. Here’s how to enable your headset mic:
@@ -58,26 +58,26 @@ thumbnail: https://thmb.techidaily.com/c02c898eea6d72b9e37093c851ecd855aff6005dd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_16-48-56.jpg)
 2. Go to the**Recording** tab and you should see your headset. If you can’t find it, it could be hidden or disabled. You can right-click an empty area then select Show**Disabled Devices** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_16-57-37.jpg)
 3. Right-click your headset, then click**Enable** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-05-17.jpg)
 4. Click**Apply** then**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-06-58.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your headset is enabled for recording but the microphone is still not working, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Set your headset as the audio input device
@@ -101,14 +101,10 @@ thumbnail: https://thmb.techidaily.com/c02c898eea6d72b9e37093c851ecd855aff6005dd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-08-05.jpg)
 2. Click**Change** , then**turn on the microphone access** **for this device** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-10-26.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this doesn’t fix your mic problem, try the next fix.
@@ -130,6 +126,10 @@ If this doesn’t fix your mic problem, try the next fix.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-54-43.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -154,18 +154,18 @@ If this doesn’t fix your mic problem, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-enhancing-outreach-with-strategic-partner-selection-on-youtube/"><u>[New] In 2024, Enhancing Outreach with Strategic Partner Selection on YouTube</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-premium-lineup-8-prime-5k-display-models/"><u>[New] In 2024, Premium Lineup 8 Prime 5K Display Models</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-non-tripod-techniques-for-still-cameras/"><u>[Updated] 2024 Approved Non-Tripod Techniques for Still Cameras</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-youtube-comment-finder-you-should-try/"><u>[Updated] In 2024, YouTube Comment Finder You Should Try</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-version-of-the-killer-network-driver-for-all-supported-windows-versions/"><u>Download the Latest Version of the Killer Network Driver for All Supported Windows Versions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-lava-yuva-2-pro-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Lava Yuva 2 Pro Activity | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-lava-storm-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-eliminating-audio-lag-for-crystal-clear-playback/"><u>Step-by-Step Tutorial: Eliminating Audio Lag for Crystal Clear Playback</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/top-solutions-for-troubleshooting-non-functional-pc-speakers/"><u>Top Solutions for Troubleshooting Non-Functional PC Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-resolve-bluetooth-sound-glitches-in-windows-10-and-11/"><u>Troubleshoot & Resolve Bluetooth Sound Glitches in Windows 10 and 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-your-turtle-beach-gaming-earpods-microphone/"><u>Troubleshooting and Repairing Your Turtle Beach Gaming EarPods' Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-what-to-do-when-your-corsair-headset-wont-turn-on/"><u>Troubleshooting Guide: What to Do When Your Corsair Headset Won't Turn On</u></a></li>
-<li><a href="https://fox-http.techidaily.com/ultra-fast-picture-reader-for-windows-11/"><u>Ultra-Fast Picture Reader for Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-x-audiomaster-personal-computing/"><u>[New] 2024 Approved X-AudioMaster Personal Computing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-cultivating-a-community-the-key-to-surpassing-1000-views/"><u>[Updated] In 2024, Cultivating a Community The Key to Surpassing 1000 Views</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-repair-guide-how-to-get-your-beyond-the-wire-mic-working-again/"><u>Comprehensive Repair Guide: How To Get Your 'Beyond The Wire' Mic Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-to-get-your-tozo-t6-software-running-smoothly-on-windows-11/"><u>Effective Solutions to Get Your Tozo T6 Software Running Smoothly on Windows 11</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/elevate-your-stream-game-mastering-onestream-platforms/"><u>Elevate Your Stream Game Mastering OneStream Platforms</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-logitech-sound-system-up-to-date-with-latest-drivers-for-win10win7win8/"><u>Get Your Logitech Sound System Up-to-Date with Latest Drivers for Win10/Win7/Win8</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-with-headphones-on-a-windows-7-pc-expert-tips-and-tricks/"><u>How to Restore Audio with Headphones on a Windows 7 PC - Expert Tips & Tricks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-exploring-the-neuroscience-of-decision-making-and-its-implications-for-leadership/"><u>In 2024, Exploring the Neuroscience of Decision-Making and Its Implications for Leadership</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-nvidia-high-definition-audio-challenges-expert-tips-for-bringing-back-system-sounds/"><u>Overcoming NVIDIA High Definition Audio Challenges: Expert Tips for Bringing Back System Sounds</u></a></li>
+<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-realme-c55-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Realme C55 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revitalizing-a-malfunctioning-windows-printerscanner/"><u>Revitalizing a Malfunctioning Windows Printer/Scanner</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-setup-how-to-get-your-canon-pro-100-printer-running-on-windows/"><u>Seamless Setup: How to Get Your Canon PRO 100 Printer Running on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-repair-kotion-each-model-g2000-mic-problems/"><u>Step-by-Step Guide to Repair Kotion Each Model G2000 Mic Problems</u></a></li>
 </ul></div>
 

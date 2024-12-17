@@ -1,7 +1,7 @@
 ---
 title: DIY Fixes for a Non-Functional Logitech G230 Mic – Resolved
-date: 2024-12-08T16:39:21.002Z
-updated: 2024-12-10T17:06:06.469Z
+date: 2024-12-11T22:50:53.129Z
+updated: 2024-12-16T18:21:11.028Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/1b78f915ab1094bf850841925a5fb1c5096342e86
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 1: Check your microphone settings**
 
 This issue may occur if your Logitech G230 is not set as the default device, or if it is disabled on your PC. In this case, you can follow the instructions below to check your microphone settings on your PC:
@@ -43,10 +47,6 @@ This issue may occur if your Logitech G230 is not set as the default device, or 
 2. **View Control Panel by Category** . Then click**Hardware and Sound** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000093.png)
 
 3. Click**Sound** to continue.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000094.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Click the **Recording**  tab, then**right-click** on any empty place inside the device list and tick **Show Disabled Devices** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap892.png)
 5. Right-click the**Headset Microphone** and click **Enable** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap893-1.png)
@@ -62,10 +62,6 @@ This issue may occur if your Logitech G230 is not set as the default device, or 
 
 See if your Logitech G230 mic works. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 2: Allow access to your headset microphone (for Windows 10 users)**
 
 If you don’t allow Windows 10 and applications to access your microphone, you may also encounter this issue. You can follow the steps below to check:
@@ -74,7 +70,7 @@ If you don’t allow Windows 10 and applications to access your microphone, you 
 2. Click**Microphone** on the left panel. On the right,**if** **microphone access for this device is off** , click**Change** **to** **turn it on** . You should also all apps to access your microphone. If it is turned off, turn it on.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000088.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Check if your Logitech G230 mic works. If not, try the next fix below to update your audio driver.
@@ -96,16 +92,20 @@ An outdated or corrupted audio driver can also be the root of this issue. To fix
 3. Click **Update**  next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee ).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap0029-1.png)  
  You can do it for free if you like, but it’s partly manual.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 4: Troubleshoot hardware issues**
@@ -135,18 +135,21 @@ Hopefully one of the fixes above resolved this issue for you. If you have any qu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-effortless-video-streaming-on-your-facebook-page/"><u>[New] 2024 Approved Effortless Video Streaming on Your Facebook Page</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-how-to-edit-instagram-photos-like-a-pro/"><u>[Updated] How to Edit Instagram Photos Like a Pro</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-top-7-voice-changer-recorder-apps-for-2024/"><u>[Updated] Top 7 Voice Changer Recorder Apps for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/banishing-buzz-a-guide-to-silence-your-headphones-irritating-sound/"><u>Banishing Buzz: A Guide to Silence Your Headphones' Irritating Sound</u></a></li>
-<li><a href="https://blog-min.techidaily.com/die-top-3-wege-um-dvds-effizient-als-avi-dateien-zu-konvertieren-im-jahr-2023/"><u>Die Top-3 Wege, Um DVDs Effizient Als AVI-Dateien Zu Konvertieren Im Jahr 2023</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-acquainted-with-claude-3s-power/"><u>Get Acquainted with Claude 3'S Power</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/guia-passo-a-passo-para-reencontrar-um-disco-apagado-no-windows-10-tecnicas-simplificadas/"><u>Guia Passo-a-Passo Para Reencontrar Um Disco Apagado No Windows 10: Técnicas Simplificadas</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-sony-xperia-1-v-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Sony Xperia 1 V to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-best-8-video-chat-apps-on-android-for-more-than-four/"><u>In 2024, Best 8 Video Chat Apps on Android for More Than Four</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-top-rated-free-video-editors-for-beginners-no-experience-needed/"><u>New Top-Rated Free Video Editors for Beginners No Experience Needed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-how-to-fix-audio-issues-with-your-counter-strike-go-microphone/"><u>Troubleshooting Steps: How to Fix Audio Issues with Your Counter-Strike GO Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-restoring-audio-on-your-logitech-g933-mouse-a-step-by-step-guide/"><u>Troubleshooting Tips: Restoring Audio on Your Logitech G933 Mouse - A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-11-audio-dilemma-expert-solutions-for-restoring-your-devices-audio-features/"><u>Windows 11 Audio Dilemma? Expert Solutions for Restoring Your Device's Audio Features</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-zooms-true-power-tripled-transformation-techniques/"><u>[New] In 2024, Zoom's True Power Tripled Transformation Techniques</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-professional-path-to-broadcasting-full-dome-content-on-fb/"><u>[New] The Professional Path to Broadcasting Full-Dome Content on FB</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-the-top-gaming-talents-on-tiktok/"><u>2024 Approved The Top Gaming Talents on TikTok</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-logitech-g533-microphone-issues-a-step-by-step-guide/"><u>Fixing the Logitech G533 Microphone Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-clear-audio-functionality-on-your-iphone-noisedistortion-solutions/"><u>How to Restore Clear Audio Functionality on Your iPhone (Noise/Distortion Solutions)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-tecno-pop-8-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Tecno Pop 8 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-demystifying-instagrams-guidelines-for-sharing-songs/"><u>In 2024, Demystifying Instagram’s Guidelines for Sharing Songs</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-discover-new-favorites-top-10-free-game-download-sites-for-pc-android-and-more/"><u>New In 2024, Discover New Favorites Top 10 Free Game Download Sites for PC, Android, and More</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/raising-the-decibels-advanced-tips-to-maximize-sound-in-windows-10-systems/"><u>Raising the Decibels: Advanced Tips to Maximize Sound in Windows 10 Systems</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-vivo-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Vivo</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-silent-issue-in-windows-media-player-step-by-step-guide/"><u>Solving the Silent Issue in Windows Media Player - Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-when-your-steelseries-arctis-7-mic-fails-to-work/"><u>Step-by-Step Solutions for When Your SteelSeries Arctis 7 Mic Fails to Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-onikuma-headset-mic-solutions-for-common-issues/"><u>Troubleshooting Your Onikuma Headset Mic – Solutions for Common Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fix-for-audio-glitches-top-five-solutions-for-windows-10-users/"><u>Ultimate Fix for Audio Glitches: Top Five Solutions for Windows 10 Users</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-bringing-your-drawings-to-life-the-best-animation-software-for-artists/"><u>Updated 2024 Approved Bringing Your Drawings to Life The Best Animation Software for Artists</u></a></li>
 </ul></div>
 

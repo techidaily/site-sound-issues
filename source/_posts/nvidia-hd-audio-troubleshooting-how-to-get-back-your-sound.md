@@ -1,7 +1,7 @@
 ---
 title: "Nvidia HD Audio Troubleshooting: How To Get Back Your Sound"
-date: 2024-08-23T12:21:11.978Z
-updated: 2024-08-24T12:21:11.978Z
+date: 2024-12-13T21:18:23.367Z
+updated: 2024-12-16T18:13:19.954Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 
  If you’re also experiencing this Stereo Mix not working issue, don’t worry. The following are a few methods that have helped many users.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -27,6 +31,10 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 2. [**Update your sound driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Enable Stereo Mix**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Method 1: Make sure your computer sound is going through your sound card
 
  To ensure your Stereo Mix works well, all your audio output has to go through your sound card so that it can record the output. If your sound is sent around the sound card (using HDMI to output video and audio together, for example), your Stereo Mix is unable to work.
@@ -34,8 +42,9 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
  To use Stereo Mix, you should make sure your computer sound is coming from your sound card. Connect your sound card directly to your speakers and set up the proper output. After that, check to see if your Stereo Mix works normally.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Method 2: Update your sound driver
 
  Your Stereo Mix may not be working properly if you’re using a wrong sound driver or it’s out of date. You should update your driver to see if this is able to resolve your problem. If you don’t have the time, patience or skills to update your driver, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -51,8 +60,9 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abddea556a6b.png)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)**  Click the **Update**  button next to the sound card to download the latest and correct driver for it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abddeecd0d61.jpg)
@@ -65,31 +75,22 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abde029539aa.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Right click any empty space inside the device box, then make sure**Show Disabled Devices** is**ticked** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abde288b285c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Right click**Stereo Mix** , then click**Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abde32cf0472.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 **4)** Right click**Stereo Mix** , then click**Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abde42a1495a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **5)** Click**OK** , then check to see if you’re able to record audio on your computer with Stereo Mix.
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -100,8 +101,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +108,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-ultimate-path-to-igtv-popularity-top-strategies-unveiled/"><u>[New] In 2024, The Ultimate Path to IGTV Popularity Top Strategies Unveiled</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prime-soundstage-narratives-for-radio/"><u>[New] Prime Soundstage Narratives for Radio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-vanguard-of-virtual-storage-top-choices/"><u>[New] The Vanguard of Virtual Storage Top Choices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-legends-unite-battle-for-midgard/"><u>[Updated] In 2024, Legends Unite Battle for Midgard</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-beginners-blueprint-for-mobile-youtube-videos-for-2024/"><u>[Updated] The Beginner's Blueprint for Mobile YouTube Videos for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-boost-photographic-vision-get-free-and-paid-lut-upgrades/"><u>2024 Approved Boost Photographic Vision - Get FREE & Paid LUT Upgrades</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repair-get-your-razer-blackshark-v2-microphone-working-again/"><u>DIY Repair: Get Your Razer BlackShark V2 Microphone Working Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-real-time-sound-coordination-overcoming-audio-latency/"><u>Mastering Real-Time Sound Coordination: Overcoming Audio Latency</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/mastering-teamsnap-essential-photography-tips-for-2024/"><u>Mastering TeamSnap Essential Photography Tips for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-volume-control-tips-for-louder-sounds-on-windows-10/"><u>Mastering Volume Control: Tips for Louder Sounds on Windows 10</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/peals-of-laughter-fun-tones-websites-unveiled/"><u>Peals of Laughter Fun Tones Websites Unveiled</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-for-non-functioning-logitech-g933-microphone-step-by-step/"><u>Quick Fix for Non-Functioning Logitech G933 Microphone - Step by Step</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016725544-troubleshoot-fortnites-voice-chatting-glitches-fast-and-efficiently/"><u>Troubleshoot Fortnite's Voice Chatting Glitches Fast & Efficiently</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-fixing-microphone-issues-with-your-sony-wh-1000xm3-or-wh-1000xm4-headphones/"><u>Troubleshooting Tips: Fixing Microphone Issues with Your Sony WH-1000XM3 or WH-1000XM4 Headphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/world-of-warcraft-restore-your-voice-chat-functionality-expert-tips-and-tricks/"><u>World of Warcraft: Restore Your Voice Chat Functionality – Expert Tips & Tricks</u></a></li>
+</ul></div>
 

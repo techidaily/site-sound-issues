@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Solving Issues with Steam's Voice Communication"
-date: 2024-08-23T12:22:48.196Z
-updated: 2024-08-24T12:22:48.196Z
+date: 2024-12-15T18:01:22.138Z
+updated: 2024-12-16T23:25:43.407Z
 tags:
   - win11
   - win10
@@ -44,8 +44,9 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
  Wait for the process to complete and follow the on-screen instructions to repair the detected issues. If your microphone still doesn’t work, proceed to the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2 – Check the privacy settings
 
  To ensure your Onikuma headset mic functions as intended, you should allow the system and applications to access it. You can adjust the setup in your privacy settings.
@@ -56,25 +57,15 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 3. Navigate to the**Microphone** tab on the left pane. Then, click the**Change** button and**turn on** Microphone access for this device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-2-1.jpg)
 4. **Toggle on the button** below Allow apps to access your microphone.  
+
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-3-1.jpg)
 5. Scroll to locate Allow desktop apps to access your microphone, and set the option to**On** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now you should be able to use the Onikuma headset mic with whatever applications. But if the problem persists, try the next fix below.
 
 ### Fix 3 – Set your Onikuma mic as the default device
@@ -91,21 +82,25 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 4. Right-click the microphone again and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-3-1.jpg)
 5. On the**Levels** tab, check whether the microphone is muted. If yes, click the**speaker icon** to unmute it and**drag the volume slider to the max** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-8-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In some cases, Onikuma headset mic not working only occurs in specific applications. If so, you should**check the application settings** and manually**set the Onikuma headset as your preferred audio device** .
 
  If this method doesn’t help either, move on to the next fix to check your audio driver.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4 – Update your audio driver
 
  If the audio driver is faulty or outdated, your Onikuma headset may constantly act up and the mic isn’t working. To keep your gaming headset up and running at all times, you should update the audio driver on a regular basis.
@@ -130,9 +125,11 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click**Update** to do it for free, but it’s partly manual.  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-1.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -153,8 +150,6 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +157,26 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-issues.techidaily.com/fixed-speaker-plugged-in-but-no-sound-in-windows/"><u>[Fixed] Speaker Plugged In But No Sound in Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-zero-to-hero-creating-an-online-gaming-empire/"><u>[New] 2024 Approved From Zero to Hero Creating an Online Gaming Empire</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-navigating-the-legal-landscape-check-tiktok-video-compliance/"><u>[New] Navigating the Legal Landscape Check TikTok Video Compliance</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-playbook-for-captivating-youtube-audiences-with-strategic-banners/"><u>[New] The Ultimate Playbook for Captivating YouTube Audiences with Strategic Banners</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-innovative-text-techniques-in-videos/"><u>2024 Approved Innovative Text Techniques in Videos</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/budget-friendly-mobvoi-ticwatch-e2-review-a-closer-look-at-value-vs-performance/"><u>Budget Friendly Mobvoi TicWatch E2 Review: A Closer Look at Value Vs. Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/correcting-misconfigured-speaker-settings-in-windows-11-a-comprehensive-guide/"><u>Correcting Misconfigured Speaker Settings in Windows 11 - A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-sound-troubleshooting-for-windows-11-users-now-playing/"><u>Cyberpunk 2077 Sound Troubleshooting for Windows 11 Users - Now Playing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016866089-fixing-bluetooth-audio-latency-issues-in-no-time/"><u>Fixing Bluetooth Audio Latency Issues in No Time</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-speakers-up-and-running-on-windows-1178-driver-downloads-available-now/"><u>Get Your Logitech Speakers Up & Running on Windows 11/7/8: Driver Downloads Available Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-sound-back-fixing-conexant-smartaudio-hd-issues-on-windows-10-computers/"><u>Get Your Sound Back: Fixing Conexant SmartAudio HD Issues on Windows 10 Computers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/give-classic-computers-a-modern-edge-with-these-5-linux-distros/"><u>Give Classic Computers a Modern Edge with These 5 Linux Distros</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-fix-cant-play-recorded-videos/"><u>How to Fix Can't Play Recorded Videos?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-non-functioning-fortnite-mic-in-minutes-step-by-step-guide/"><u>How To Repair Non-Functioning Fortnite Mic in Minutes - Step By Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016763871-no-audio-post-windows-10-upgrade-heres-the-quick-fix/"><u>No Audio Post-Windows 10 Upgrade? Here's the Quick Fix!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-game-sounds-to-cod-black-ops-cold-war-a-comprehensive-no-sound-fix-for-pc-players/"><u>Restore Game Sounds to COD: Black Ops Cold War – A Comprehensive No Sound Fix for PC Players</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-no-audio-output-problem-unplugging-the-mystery-in-windows-11-8-and-7/"><u>Solving 'No Audio Output' Problem: Unplugging the Mystery in Windows 11, 8 & 7</u></a></li>
+<li><a href="https://win-unique.techidaily.com/ultra-high-definition-romantic-wallpapers-premium-picture-collections-by-yl-computing/"><u>Ultra-High Definition Romantic Wallpapers - Premium Picture Collections by YL Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-most-accessible-triple-decker-cpu-the-amd-ryzen-student-when-did-world-war-ii-start/"><u>Unveiling the Most Accessible Triple-Decker CPU: The AMD Ryzen # Student: When Did World War II Start?</u></a></li>
+</ul></div>
 

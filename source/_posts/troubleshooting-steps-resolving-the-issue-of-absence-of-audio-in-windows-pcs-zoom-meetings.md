@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Resolving the Issue of Absence of Audio in Windows PC's Zoom Meetings"
-date: 2024-12-07T16:32:25.663Z
-updated: 2024-12-10T16:57:58.495Z
+date: 2024-12-15T18:58:22.856Z
+updated: 2024-12-16T21:56:18.177Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ If you’re on Windows 10 or Windows 7, and you can only get stuttering, static 
 
 Audio enhancement is designed to make your system sound perfect. But things can go wrong somethings. To fix your sound stuttering problem, please perform: 1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad000fc9bbd.png)and**R**at the same time. Type in**mmsys.cpl**and press**Enter**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad00cdcd6fd.png)
 
 2) Right-click your default playback device (the one with a green tick) and click**Properties**.
@@ -43,10 +47,6 @@ Audio enhancement is designed to make your system sound perfect. But things can 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad012001816.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If you don’t have an Enhancement tab here, the culprit is not enhancement then. Move on to methods below for more help.
 
 ## **2: Change Audio Formats**
@@ -55,23 +55,23 @@ If your audio driver or software doesn’t support the current audio format you 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad00cdcd6fd.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Right-click your default playback device (the one with a green tick) and click**Properties**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad00c40fe6e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Click**Advanced**tab. Select**16 bit, 48000 Hz (DVD Quality)**. Click**Apply**and**OK**to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad05947a249.png)
 
-4) Test to see if your sound is still stuttering. If yes, go back to step 3 and try some other formats until you find the one works for you. If your audio problem remains, move on to method 3 for more help.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4) Test to see if your sound is still stuttering. If yes, go back to step 3 and try some other formats until you find the one works for you. If your audio problem remains, move on to method 3 for more help.
 
 ## **3: Reinstall Audio Driver**
 
@@ -84,15 +84,19 @@ If you’re with faulty audio driver, incompatibility problem between your sound
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad07e6a7dc8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad000fc9bbd.png)and**R**at the same time. Type in**devmgmt.msc**and press**Enter**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad0821313b4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Double-click to expand**Sound, video and game controllers**. Right-click the driver for your default audio device and click**Uninstall**device.
@@ -104,14 +108,10 @@ If you’re with faulty audio driver, incompatibility problem between your sound
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad08d16834e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6) When the uninstall finishes, restart your computer. Windows will automatically find and install a correct audio driver for you. If your sound is still stuttering after reinstalling audio driver, move on to the method below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **4: Update Audio Driver**
 
@@ -143,22 +143,19 @@ If you need more help with your audio issue on Windows 10, feel free to leave us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-transform-your-videography-youtubes-secret-to-stunning-greenscreens/"><u>[Updated] 2024 Approved Transform Your Videography YouTube's Secret to Stunning Greenscreens</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-learn-to-record-mac-display-like-a-pro/"><u>[Updated] In 2024, Learn to Record MAC Display Like a Pro</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-logitechs-4k-pro-webcam-a-complete-exploration/"><u>[Updated] Logitech's 4K Pro Webcam A Complete Exploration</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-revolutionize-your-photos-with-these-best-grid-makers-for-ig/"><u>2024 Approved Revolutionize Your Photos with These Best Grid Makers for IG</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-razer-barracuda-x-microphone-step-by-step-guide-on-win10-and-win11/"><u>Fix Your Razer Barracuda X Microphone - Step-by-Step Guide on Win10 & Win11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-audio-connectivity-glitches-when-windows-11-doesnt-recognize-your-headphones/"><u>Fixing Audio Connectivity Glitches: When Windows 11 Doesn't Recognize Your Headphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-audio-issues-by-disabling-enhancement-options-in-windows-10-system/"><u>Fixing Audio Issues by Disabling Enhancement Options in Windows 10 System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-one-or-several-stalled-audio-services-a-complete-walkthrough/"><u>Fixing One or Several Stalled Audio Services – A Complete Walkthrough</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-windows-117-audio-issues-the-speaker-crackling-solution/"><u>Fixing Windows 11/7 Audio Issues: The Speaker Crackling Solution</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-windows-11-audio-back-on-track-solutions-inside/"><u>How To Get Your Windows 11 Audio Back On Track - Solutions Inside!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-and-restore-sound-on-a-malfunctioning-logiteche-g933-microphone/"><u>How to Repair & Restore Sound on a Malfunctioning Logiteche G933 Microphone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-insight-into-lgs-360-camera-updates-and-features-for-todays-photographers/"><u>In 2024, Insight Into LG's 360 Camera Updates and Features for Today's Photographers</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-the-future-is-now-hot-10-vr-gear-options/"><u>In 2024, The Future Is Now Hot 10 VR Gear Options</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/instant-repairs-resolve-oculus-rift-s-mic-issues-in-just-five-steps/"><u>Instant Repairs: Resolve Oculus Rift S Mic Issues in Just Five Steps</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-top-10-free-video-rotators-to-rotateflip-videos/"><u>New Top 10 Free Video Rotators to Rotate/Flip Videos</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-iphone-app-download-issues-top-10-tips-and-tricks/"><u>Solving iPhone App Download Issues: Top 10 Tips & Tricks</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-nokia-105-classic-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Nokia 105 Classic</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-blueprint-for-designing-eye-catching-thumbnails-for-your-youtube-channel/"><u>[New] The Blueprint for Designing Eye-Catching Thumbnails for Your YouTube Channel</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-add-personality-to-your-device-a-comprehensively-tailored-sound-and-ringtone-guide-for-android/"><u>[Updated] 2024 Approved Add Personality to Your Device A Comprehensively Tailored Sound & Ringtone Guide for Android</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-top-tier-funny-editing-tool/"><u>[Updated] 2024 Approved Top-Tier Funny Editing Tool</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-nine-all-inclusive-free-holiday-movies-streamed-on-youtube/"><u>2024 Approved Nine All-Inclusive Free Holiday Movies Streamed on YouTube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enjoy-uninterrupted-playtime-with-the-updated-stable-age-of-ashes-for-windows-and-mac/"><u>Enjoy Uninterrupted Playtime with the Updated, Stable 'Age of Ashes' For Windows and Mac</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-seamless-data-transfer-download-intel-usb-30-drivers-compatible-with-windows-11/"><u>Ensure Seamless Data Transfer: Download Intel USB 3.0 Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-and-solutions-for-cod-vanguard-voice-communication-issues/"><u>Fixes & Solutions for Cod: Vanguard Voice Communication Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functional-logitech-g935-mic-on-windows-systems/"><u>How to Fix a Non-Functional Logitech G935 Mic on Windows Systems</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-from-apple-iphone-se-2022-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-common-realtek-headset-malfunctions-for-clear-audio/"><u>Overcoming Common Realtek Headset Malfunctions for Clear Audio</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-issue-getting-speakers-back-in-action-for-windows-10-users/"><u>Resolved Issue: Getting Speakers Back in Action for Windows 10 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-oculus-quest-2-when-the-mic-wont-work/"><u>Troubleshooting Oculus Quest 2 When the Mic Won't Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-resolving-your-webex-microphone-issues/"><u>Ultimate Guide: Resolving Your WebEx Microphone Issues</u></a></li>
 </ul></div>
 

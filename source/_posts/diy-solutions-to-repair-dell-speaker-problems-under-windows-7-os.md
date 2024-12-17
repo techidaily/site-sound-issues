@@ -1,7 +1,7 @@
 ---
 title: DIY Solutions to Repair Dell Speaker Problems Under Windows 7 OS
-date: 2024-12-04T21:13:26.418Z
-updated: 2024-12-10T19:00:52.608Z
+date: 2024-12-09T23:02:54.687Z
+updated: 2024-12-16T22:21:02.768Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
  When the above check is done, and you find the problem on your computer, please move on.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 2, make sure the connection between your speakers and computer is good
 
  If the speakers work properly on a second device, make sure that the connection between your speakers and your computer is intact.
@@ -45,7 +41,7 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b5314e30c21.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 3, check the volume settings
@@ -57,22 +53,18 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a379fb55982a.png)
 3. In Control Panel, view by Category, click **Hardware and Sound** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a37a0193f08b.jpg)
 4. Under **Sound** , click **Adjust system volume** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-24.png)
 5. If the sound is unmuted, move to the next step.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Try to move the slider up to increase the volume.  
@@ -89,14 +81,22 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 2. Highlight**Speakers** or**Speakers /Headphones** and click**Set Default** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/set-as-default.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don’t see the speakers in the device list, it may be disabled. In this case, right-click on the blank area and select**Show disabled devices** on the context menu.
 
 ![show disabled device](https://images.drivereasy.com/wp-content/uploads/2016/08/show-disabled-device.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After it is listed, right-click on the speakers and click**Enable** .
 
@@ -112,6 +112,10 @@ Follow these steps:
 2. Type **devmgmt.msc** in the run box and click**OK** button. This is to open Device Manager Window.  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57354ce2ad87d.png)
 3. In Device Manager, double-click**Sound, video and game controllers** and right-click your sound card. A context menu will pop up. Then select**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
 4. Tick the box for**Delete the driver software for this device** and click**OK** .  
@@ -135,10 +139,6 @@ Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
 4. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Hope the above helps to solve your speakers’ no sound issue in Windows 10\. If you have any other suggestions, please leave a comment below.
 
 <ins class="adsbygoogle"
@@ -156,24 +156,16 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-11-must-know-hues-for-professional-grading/"><u>[Updated] 11 Must-Know Hues for Professional Grading</u></a></li>
-<li><a href="https://win11.techidaily.com/decrypting-wacatacbml-trojan-a-step-by-step-windows-cleanup/"><u>Decrypting Wacatac.B!ml Trojan: A Step-by-Step Windows Cleanup</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/exclusive-deal-buy-an-alienware-gaming-powerhouse-for-only-1499-equiped-with-rtx-4070-and-intel-i7/"><u>Exclusive Deal: Buy an Alienware Gaming Powerhouse for Only $1,499! Equiped with RTX #4070 and Intel I7</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-x50iplus-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor X50i+ to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-fix-what-to-do-if-this-device-cannot-start-due-to-code-10/"><u>Mastering the Fix: What to Do If 'This Device Cannot Start' Due to Code 10</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ling-the-secrets-accessing-forgotten-youtube-vids-for-2024/"><u>Revealing the Secrets Accessing Forgotten YouTube Vids for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/simple-solutions-for-quickly-resolving-directx-issues-in-fifa-19/"><u>Simple Solutions for Quickly Resolving DirectX Issues in FIFA 19</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-dilemma-how-to-restore-audio-functionality-on-your-laptop/"><u>Solving the Dilemma: How to Restore Audio Functionality on Your Laptop</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-windows-audio-issues-when-new-speakers-are-installed-but-not-producing-sound/"><u>Solving Windows Audio Issues When New Speakers Are Installed but Not Producing Sound</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/step-by-step-tutorial-for-editing-photos-using-the-preview-feature-on-macos/"><u>Step-by-Step Tutorial for Editing Photos Using the Preview Feature on macOS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/stepwise-instructions-on-shutting-down-the-cortana-assistant-on-windows-10-computers/"><u>Stepwise Instructions on Shutting Down the Cortana Assistant on Windows 10 Computers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-issues-fixing-loudspeaker-problems-in-windows-10/"><u>Troubleshooting Audio Issues: Fixing Loudspeaker Problems in Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fix-microsoft-teams-microphone-issues-on-windows-11-and-10/"><u>Troubleshooting Guide: Fix Microsoft Teams Microphone Issues on Windows 11 & 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-inoperative-headphones-in-windows-11/"><u>Troubleshooting Guide: Fixing Inoperative Headphones in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-tozo-t6-software-in-windows-11/"><u>Troubleshooting Guide: Resolving Issues with Tozo T6 Software in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-no-sound-problems-on-pc-while-playing-call-of-duty-black-ops-cold-war/"><u>Troubleshooting No Sound Problems on PC While Playing Call of Duty: Black Ops Cold War</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-quiet-computers-resolving-the-lenovo-pc-speaker-problem/"><u>Troubleshooting Quiet Computers: Resolving the Lenovo PC Speaker Problem</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-macs-effective-techniques-for-restoring-audio/"><u>Troubleshooting Silent Macs: Effective Techniques for Restoring Audio</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-performance-issues-with-seatech-blu-ray-usb-writers-in-our-latest-test/"><u>Unveiling the Performance Issues with SeaTech Blu-Ray USB Writers in Our Latest Test</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-a-toast-to-trending-celebrating-reddit-writings-top-10/"><u>[New] A Toast to Trending Celebrating Reddit’ Writings (Top 10)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-share-tweets-whatsapp-video-broadcasting/"><u>[New] In 2024, Share Tweets WhatsApp Video Broadcasting</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-core-principles-for-online-storytelling-craftsmanship/"><u>[Updated] In 2024, Core Principles for Online Storytelling Craftsmanship</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-how-watermarks-safeguard-your-digital-pictures/"><u>2024 Approved How Watermarks Safeguard Your Digital Pictures</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-tucked-into-narratives-a-review-of-evening-storytelling-videos/"><u>2024 Approved Tucked Into Narratives A Review of Evening Storytelling Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/amazons-must-have-bargains-in-august-2e24-find-out-more-with-zdnet/"><u>Amazon's Must-Have Bargains in August 2E24: Find Out More with ZDNet!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/banish-voice-chat-glitches-in-wow-expert-solutions-for-players/"><u>Banish Voice Chat Glitches in WOW - Expert Solutions for Players</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solutions-how-to-silence-unwanted-static-or-rumble-in-headphone-experience/"><u>DIY Solutions: How to Silence Unwanted Static or Rumble in Headphone Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-noise-issues-how-to-restore-audio-on-your-hp-laptop-running-windows-11/"><u>Fixing Noise Issues: How to Restore Audio on Your HP Laptop Running Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-volume-control-on-xbox-s-and-x-series-x/"><u>Mastering Volume Control on Xbox S & X Series X</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-kraken-microphone-error-resolved-tips-for-a-quick-fix/"><u>Razer Kraken Microphone Error Resolved - Tips for a Quick Fix</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Malfunctioning Skype Mic in Windows 10 - Expert Advice
-date: 2024-12-03T17:45:16.515Z
-updated: 2024-12-10T17:55:01.894Z
+date: 2024-12-15T20:28:45.393Z
+updated: 2024-12-16T22:09:30.774Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for ‘Skype Microphone not working’
 
 1. [Make sure your Microphone is set to On for Skype users (Windows 10 users)](https://www.drivereasy.com/knowledge/fix-skype-microphone-not-working-on-windows-solved/#M1)
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b0
 4. [Restart the Windows audio service](https://tools.techidaily.com/drivereasy/download/)
 
 ###
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure Microphone is set to On for Skype (Windows 10 users)
 
@@ -48,13 +48,17 @@ Follow these:
 3. Click**Microphone** on the left pane. Check if the status is**On**  for Skype.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
 
 ###
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust the audio settings on Skype
 
@@ -77,17 +81,13 @@ Follow these:
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. You sound driver is no exception.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your computer and run Skype to see if your Microphone works.
 
 ###
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Restart Windows audio service
 
@@ -95,11 +95,12 @@ Follow these:
 2. Type**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996978261d98.png)
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
-4. Log in Skype and check to see if your Microphone works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Log in Skype and check to see if your Microphone works.
 
 * [sound problem](https://tools.techidaily.com/drivereasy/download/)
 
@@ -118,16 +119,18 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-blog-thumbnail-proportions-tips/"><u>[New] 2024 Approved Blog Thumbnail Proportions Tips</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-maximize-video-discoverability-key-youtube-seo-techniques/"><u>2024 Approved Maximize Video Discoverability Key YouTube SEO Techniques</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-realme-10t-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Realme 10T 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Motorola Moto G34 5G? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-mute-mysteries-how-to-restore-sound-in-your-valheim-gameplay-on-pc/"><u>Resolving Mute Mysteries: How to Restore Sound in Your Valheim Gameplay on PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restore-sound-to-your-windows-media-player-with-these-easy-fixes/"><u>Restore Sound to Your Windows Media Player with These Easy Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silence-breaker-a-step-by-step-tutorial-to-restore-conexants-smartaudio-hd-on-windows-10/"><u>Silence Breaker: A Step-by-Step Tutorial to Restore Conexant's SmartAudio HD on Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-cyberpunk-2077-heres-how-to-turn-up-the-volume-on-your-pc/"><u>Silent Cyberpunk 2077? Here's How to Turn Up the Volume on Your PC!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-logitech-g-pro-x-microphone-clicks-and-whistles-issue-a-step-by-step-guide/"><u>Solving the Logitech G Pro X Microphone Clicks and Whistles Issue : A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-buzz-around-city-planning-a-riveting-review-of-cities-skylines/"><u>The Buzz Around City Planning: A Riveting Review of 'Cities: Skylines'</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/1726223291457-vobwmv-wmv-movavi/"><u>영상형 VOB/WMV를 원격용 WMV로 자유성 전환해야 합니까? - Movavi</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-beginners-essential-guide-to-youtube-video-editing-magic/"><u>[New] In 2024, Beginner’s Essential Guide to YouTube Video Editing Magic</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-maximizing-reach-and-impact-on-facebook-using-wirecast-for-live-broadcasts/"><u>[New] Maximizing Reach & Impact on Facebook - Using Wirecast for Live Broadcasts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-integrating-picture-in-picture-into-everyday-browsing-habits/"><u>[Updated] In 2024, Integrating Picture in Picture Into Everyday Browsing Habits</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/boosting-sound-on-facebook-videos-on-windows-computers-latest-fixes-and-tips-2-groovy/"><u>Boosting Sound on Facebook Videos on Windows Computers - Latest Fixes and Tips (2 Groovy)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-magic-6-pro-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Honor Magic 6 Pro support - Forgotten screen lock.</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-oppo-a78-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-non-functional-speakers-on-your-windows-10-pc-expert-tips/"><u>How to Fix Non-Functional Speakers on Your Windows 10 PC - Expert Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-pc-startup-issues-with-world-of-warcraft-solutions-revealed/"><u>How to Overcome PC Startup Issues with World of Warcraft - Solutions Revealed!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/maximizing-mobile-profits-enabling-youtubers-revenue-for-2024/"><u>Maximizing Mobile Profits Enabling YouTubers' Revenue for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-in-game-communications-fixing-mic-problems-on-dota-2-pc-edition/"><u>Revive Your In-Game Communications: Fixing Mic Problems on Dota 2 PC Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-bluetooth-device-connectivity-on-windows-11/"><u>Step-by-Step Solutions for Bluetooth Device Connectivity on Windows 11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-basics-of-dynamic-media-artistry/"><u>The Basics of Dynamic Media Artistry</u></a></li>
+<li><a href="https://extra-information.techidaily.com/why-are-instavids-tilted-upside-down/"><u>Why Are InstaVids Tilted Upside Down?</u></a></li>
 </ul></div>
 

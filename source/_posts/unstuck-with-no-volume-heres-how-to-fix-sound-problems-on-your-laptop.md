@@ -1,7 +1,7 @@
 ---
 title: Unstuck with No Volume? Here's How to Fix Sound Problems on Your Laptop
-date: 2024-12-07T18:13:41.091Z
-updated: 2024-12-10T18:58:40.795Z
+date: 2024-12-14T17:55:02.545Z
+updated: 2024-12-16T16:53:02.172Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 2. [**Update your audio drivers**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Check your microphone device settings
@@ -49,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Select **Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
@@ -57,17 +61,21 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)**  Right click the**Headset Microphone** and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Right click it again and select **Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)** Right click**Headset Microphone** and click**Properties** .
 
@@ -77,17 +85,9 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **9)** Click**OK** , then click**OK** .
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem. But if not, you may need to…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Update your audio drivers
 
@@ -104,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the**Activate & Update** button next to your sound device or your headset to download the latest and correct driver for it.
@@ -132,22 +132,18 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/days-gone-ps4-fps-hits-computers-unleash-the-wild-bandit-in-epic-open-world/"><u>'Days Gone': PS4 FPS Hits Computers, Unleash the Wild Bandit in Epic Open World</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-captivating-subscription-making-an-animated-button-for-youtube-with-filmora-for-2024/"><u>[New] Captivating Subscription Making an Animated Button for YouTube with Filmora for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-concept-to-creation-youtube-trailer-production-via-filmora-for-2024/"><u>[New] From Concept to Creation YouTube Trailer Production via Filmora for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-obs-alternatives-reviewed-by-experienced-broadcinas-for-2024/"><u>[New] OBS Alternatives Reviewed by Experienced Broadcinas for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-overcoming-quietness-fixes-for-silent-obs-streams/"><u>[New] Overcoming Quietness Fixes for Silent OBS Streams</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-satirical-space-the-ultimate-guide-to-20plus-humorous-metaverse-imagery/"><u>[Updated] Satirical Space The Ultimate Guide to 20+ Humorous Metaverse Imagery</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-hdmi-no-sound-after-connecting-computer-to-monitor-and-tv/"><u>How to Fix HDMI No Sound After Connecting Computer to Monitor and TV</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-logiteche-g733-mic-working-again-successfully/"><u>How to Get Your Logiteche G733 Mic Working Again Successfully</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-non-functional-voice-chat-in-call-of-duty-modern-warfare/"><u>How to Resolve Non-Functional Voice Chat in Call of Duty: Modern Warfare</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-of-your-kotion-g2000-microphones/"><u>How to Restore Functionality of Your Kotion G2000 Microphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/master-key-for-dolby-playback-problems-tackling-the-unable-to-initiate-dolby-audio-driver-on-windows-10-devices/"><u>Master Key for Dolby Playback Problems: Tackling the 'Unable to Initiate Dolby Audio Driver' On Windows 10 Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/master-these-5-techniques-to-repair-errors-related-to-sound-devices-when-using-audacity/"><u>Master These 5 Techniques to Repair Errors Related to Sound Devices When Using Audacity</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-the-art-of-setting-up-unfamiliar-speakers-on-a-windows-10-system/"><u>Mastering the Art of Setting Up Unfamiliar Speakers on a Windows 10 System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/maximizing-speaker-loudness-advanced-settings-for-windows-10-audio-control/"><u>Maximizing Speaker Loudness: Advanced Settings for Windows 10 Audio Control</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-the-best-disney-holiday-films-essential-watches-for-a-perfect-christmas/"><u>Ultimate Guide to the Best Disney Holiday Films: Essential Watches for a Perfect Christmas</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721469927381-why-does-my-rightleft-airpod-play-louder-heres-how-to-fix-it/"><u>Why Does My Right/Left AirPod Play Louder? Here's How to Fix It!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-the-chatgpt-ios-version-outshines-its-web-counterpart-a-comparison/"><u>Why the ChatGPT iOS Version Outshines Its Web Counterpart: A Comparison</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixed-epson-not-connecting-to-pc/"><u>[FIXED] Epson Not Connecting to PC</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-ultimate-guide-to-iphone-ringtones-refinement/"><u>[New] 2024 Approved The Ultimate Guide to iPhone Ringtones Refinement</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-9-fitness-trends-to-captivate-your-online-audience-with-action/"><u>[Updated] In 2024, 9 Fitness Trends to Captivate Your Online Audience with Action</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-to-mp4-perfection-uncover-2-most-effective-techniques/"><u>[Updated] Instagram to MP4 Perfection Uncover 2 Most Effective Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-navigating-the-virtual-landscape-an-overview-for-2024/"><u>[Updated] Navigating the Virtual Landscape An Overview for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016333284-cant-get-your-blue-yeti-microphone-to-connect-check-out-these-helpful-tips/"><u>Can't Get Your Blue Yeti Microphone to Connect? Check Out These Helpful Tips!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effective-strategies-for-converting-h264-videos-into-high-quality-h265-format-at-reduced-file-sizes/"><u>Effective Strategies for Converting H.264 Videos Into High-Quality H.265 Format at Reduced File Sizes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-achieve-viral-success-a-guide-with-eight-key-tactics-for-youtube/"><u>How to Achieve Viral Success: A Guide with Eight Key Tactics for YouTube</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-oppo-a59-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Oppo A59 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Lava Agni 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015784354-obs-desktop-audio-not-capturing-heres-how-to-fix-it/"><u>OBS Desktop Audio Not Capturing? Here's How to Fix It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-when-your-discord-voice-call-wont-connect/"><u>Solution Steps When Your Discord Voice Call Won't Connect</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-troubleshooting-and-fixing-conexants-smartaudio-hd-lack-of-sound-in-windows-11/"><u>Step-by-Step Guide: Troubleshooting and Fixing Conexant's SmartAudio HD Lack of Sound in Windows 11</u></a></li>
 </ul></div>
 

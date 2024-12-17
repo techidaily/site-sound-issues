@@ -1,7 +1,7 @@
 ---
 title: "In Depth: Solutions to Get Your Microphone Working Again on Windows 11 Devices"
-date: 2024-08-23T12:18:38.660Z
-updated: 2024-08-24T12:18:38.660Z
+date: 2024-12-13T21:25:09.776Z
+updated: 2024-12-16T23:09:39.866Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
 
  If your**Microphone stops working on Skype** , you would be very annoyed. But don’t worry, you won’t be stuck there. You can fix it with this guide. We’re going to walk you through how to troubleshoot the Skype Microphone not working problem step by step. Read on to find how…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for ‘Skype Microphone not working’
 
 1. [Make sure your Microphone is set to On for Skype users (Windows 10 users)](https://www.drivereasy.com/knowledge/fix-skype-microphone-not-working-on-windows-solved/#M1)
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
 4. [Restart the Windows audio service](https://tools.techidaily.com/drivereasy/download/)
 
 ###
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure Microphone is set to On for Skype (Windows 10 users)
 
@@ -40,11 +48,12 @@ Follow these:
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Adjust the audio settings on Skype
 
 1. Login Skype with your own account.
@@ -52,9 +61,6 @@ Follow these:
 3. Click**Audio settings** on the left pane. Then set your Microphone device and un-tick**Automatically adjust microphone settings** .  
  Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
 4. Check to see if your Microphone works.
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###
 
@@ -67,29 +73,25 @@ Follow these:
 1. [Download](https://tools.techidaily.com/drivereasy/download/)  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. You sound driver is no exception.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart your computer and run Skype to see if your Microphone works.
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Restart Windows audio service
 
 1. On your keyboard, press the **Windows logo** **key** and **R** (at the same time) to invoke the run command.
 2. Type**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996978261d98.png)
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Log in Skype and check to see if your Microphone works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * [sound problem](https://tools.techidaily.com/drivereasy/download/)
 
@@ -99,8 +101,6 @@ Follow these:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,4 +108,23 @@ Follow these:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-mixease-mac-and-windows-unifier/"><u>[New] MIXEase Mac & Windows Unifier</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mastering-the-craft-of-digital-cinematography-with-ipad/"><u>[Updated] Mastering the Craft of Digital Cinematography with iPad</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-superior-sound-transformation-gear-for-online-vloggers/"><u>[Updated] Superior Sound Transformation Gear for Online Vloggers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/battlefield-4-volume-problem-here-are-effective-fixes/"><u>Battlefield #4 Volume Problem? Here Are Effective Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016942295-eradicate-your-bluetooth-audio-buffering-issues-instantly-and-effortlessly/"><u>Eradicate Your Bluetooth Audio Buffering Issues Instantly & Effortlessly</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/exploring-the-top-8-facebook-extractors-for-films-for-2024/"><u>Exploring the Top 8 Facebook Extractors for Films for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/g435-headset-not-producing-any-sounds-diagnosis-and-fixes/"><u>G435 Headset Not Producing Any Sounds: Diagnosis and Fixes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/highlighting-heroics-at-the-x-olympics-2022/"><u>Highlighting Heroics at the X-Olympics 2022</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-mpow-microphone-working-on-windows-computers/"><u>How to Get Your MPOW Microphone Working on Windows Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/leap-ahead-of-lags-expert-techniques-to-get-your-computer-racing-again/"><u>Leap Ahead of Lags: Expert Techniques to Get Your Computer Racing Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-no-sound-dilemmas-a-guide-to-fixing-conexants-smartaudio-hd-for-windows-10-devices/"><u>Overcoming No Sound Dilemmas: A Guide to Fixing Conexant's SmartAudio HD for Windows 10 Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/resolved-overcoming-silence-fixing-the-lack-of-sound-during-mp4-file-imports-into-imovie/"><u>Resolved: Overcoming Silence - Fixing the Lack of Sound During MP4 File Imports Into iMovie</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steelseries-arctis-model-number-mic-issues-solved-detailed-guide-for-audio-restoration/"><u>SteelSeries Arctis ([Model Number]) Mic Issues Solved: Detailed Guide for Audio Restoration</u></a></li>
+<li><a href="https://win-bits.techidaily.com/step-by-step-guide-to-modifying-your-computers-mouse-configuration-via-the-control-panel-expert-tips-from-yl-computing/"><u>Step-by-Step Guide to Modifying Your Computer's Mouse Configuration via the Control Panel - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-subtle-art-of-acceptance-unveiling-fb-friending-rules/"><u>The Subtle Art of Acceptance: Unveiling FB Friending Rules</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/windows-11-google-drive/"><u>Windows 11へのデータ保存: Google Driveで最適な上位２手法</u></a></li>
+</ul></div>
 

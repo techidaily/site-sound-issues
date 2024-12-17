@@ -1,7 +1,7 @@
 ---
 title: "No More Silence: Solve Your Audacity Sound Device Issues with These Proven Techniques [5 Expert Tips]"
-date: 2024-08-23T12:22:45.124Z
-updated: 2024-08-24T12:22:45.124Z
+date: 2024-12-12T01:12:56.251Z
+updated: 2024-12-16T20:30:46.678Z
 tags:
   - win11
   - win10
@@ -32,6 +32,11 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 5. **[Update the audio driver](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Restart the Windows Audio Endpoint Builder service](https://tools.techidaily.com/drivereasy/download/)**
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: Ensure the external sound device is plugged in (desktop only)
 
  If you’re using a desktop computer, _**ensure the device you use to listen to the sound such as external speakers, is plugged in**_  .  
@@ -67,6 +72,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d5e494746.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##
   
  Solution 3: Ensure audio device settings in Audacity are configured correctly
@@ -84,6 +93,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  3) Click**Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6c34f39b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Ensure the**Host** field set to**Windows WASAPI** .
 
@@ -141,6 +154,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d8b093ee6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) After updating the driver, check to see if you can record sound successfully.
 
 ##
@@ -156,6 +173,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  2) Type**services.msc** and press**Enter** to open the Services window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d9350bf7b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Windows Audio Endpoint Builder** , then click**Restart** . The follow the on-screen instructions.
 
@@ -174,8 +195,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,8 +202,22 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-30fps-versus-60fps-best-choice-for-clear-video-capture/"><u>[New] In 2024, 30Fps versus 60Fps - Best Choice for Clear Video Capture</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-quick-guide-to-rearranging-your-youtube-collection/"><u>[New] Quick Guide to Rearranging Your YouTube Collection</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-making-money-with-videos-strategies-for-the-aspiring-vlogger/"><u>2024 Approved Making Money with Videos Strategies for the Aspiring Vlogger</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/act-now-easy-guide-to-building-a-bootable-windows-11-installation-usb-for-immediate-recovery-needs/"><u>Act Now: Easy Guide to Building a Bootable Windows 11 Installation USB for Immediate Recovery Needs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-hs60-headset-microphone-repairs-a-complete-guide/"><u>Corsair HS60 Headset Microphone Repairs: A Complete Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cure-marvels-guardians-of-the-galaxy-pc-glitches-with-these-8-essential-fixes/"><u>Cure Marvel's Guardians of the Galaxy PC Glitches with These 8 Essential Fixes!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-solutions-for-steelseries-arctis-headsets-resolving-the-non-working-mic-conundrum/"><u>Expert Solutions for SteelSeries Arctis Headsets - Resolving the Non-Working Mic Conundrum</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/exploring-blockchain-how-to-utilize-a-bitcoin-address-balance-verification-service-by-yl-software/"><u>Exploring Blockchain: How to Utilize a Bitcoin Address Balance Verification Service by YL Software</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/horas-y-dias-ensenanza-diaria-en-espanol/"><u>Horas Y Días: Enseñanza Diaria en Español</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-maximize-your-footage-pro-level-tips-for-gopro-studio-users/"><u>In 2024, Maximize Your Footage Pro-Level Tips for GoPro Studio Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-dolby-windows-problems-guide-to-enable-dolby-audio-driver-in-windows-11/"><u>Resolving Dolby Windows Problems: Guide to Enable Dolby Audio Driver in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-the-mute-mystery-expert-advice-on-getting-heard-on-discord/"><u>Resolving the Mute Mystery: Expert Advice on Getting Heard on Discord</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-list-of-public-domain-image-sources-for-2024/"><u>The Ultimate List of Public Domain Image Sources for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-fixing-issues-with-call-of-dutys-modern-warfare-voice-communication/"><u>Troubleshooting Steps: Fixing Issues with Call of Duty's Modern Warfare Voice Communication</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-10-how-to-repair-your-airpods-microphone-issues/"><u>Troubleshooting Windows 10: How to Repair Your AirPods' Microphone Issues</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->

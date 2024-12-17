@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Resolving When Another Software Controls Your Device on HDMI
-date: 2024-12-07T18:17:59.273Z
-updated: 2024-12-10T19:14:25.269Z
+date: 2024-12-11T20:54:23.117Z
+updated: 2024-12-16T16:18:32.990Z
 tags:
   - win11
   - win10
@@ -42,7 +42,15 @@ To verify the integrity of game files, simply do the following:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify.jpg)
 2. Click **Options**  and select **Scan and Repair** from the drop-down menu. Wait until the checking finishes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can now launch Black Ops Cold War and check if the audio is back.
 
@@ -56,25 +64,21 @@ If the no sound issue persists, you can take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-ms-settings-sound.jpg)
 2. Under the**Input** section, make sure your input device is set to the one you’re using. Then click**Device properties and test microphone** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/input-device-testing.jpg)
 3. Make sure the box next to**Disable** is unchecked, and the slider under**Volume** is set to**100** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
 4. Now you can check the in-game audio.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If there’s nothing wrong with your settings, or you can hear the computer sound everywhere except in Black Ops Cold War, check out the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -106,6 +110,10 @@ If the no sound issue persists, you can take a look at the next fix.
 
  If the latest driver doesn’t give you luck, simply try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Install all Windows updates
 
  Besides drivers, you should also make sure that your system is up to date. Windows updates provide bugs fixes and performance boosts that might cure some strange issues.
@@ -116,6 +124,10 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
@@ -124,19 +136,11 @@ Here’s how you can check for updates manually:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
 After rebooting your PC, return to Black Ops Cold War and test the audio.
 
 If this trick doesn’t help you, try the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Check your in-game audio settings
 
@@ -147,10 +151,6 @@ Here’s what you should check:
 1. Open Black Ops Cold War and go to**Settings** .
 2. Navigate to the**AUDIO** tab. Under the**GAME SOUND** section, make sure you didn’t mute the game and all the**Volume settings** are toggled to the highest**100** . Then you can try changing**Audio Presets** and see which option gives you luck. (You can start with High Boost.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/bocw-audio.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -171,21 +171,20 @@ Here’s what you should check:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-chronicles-uncovered-top-10-historians-youtube-picks/"><u>[Updated] 2024 Approved The Chronicles Uncovered Top 10 Historian's YouTube Picks</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-understanding-youtubes-hidden-content-the-unlisted-reality/"><u>[Updated] Understanding YouTube's Hidden Content The Unlisted Reality</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/ecorepairmedia-easy-damage-recovery/"><u>EcoRepairMedia: Easy Damage Recovery</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-x-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on Apple iPhone X</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-iphone-12-pro-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From iPhone 12 Pro - 4 Easy Ways</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-8-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From Apple iPhone 8</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/online-cinema-free-movies-and-tv-episodes-with-crackle-no-subscription-required/"><u>Online Cinema: Free Movies & TV Episodes with Crackle - No Subscription Required</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-arctis-headset-distortion-on-windows-effective-strategies-and-tips/"><u>Resolve Arctis Headset Distortion on Windows - Effective Strategies and Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-no-sound-from-internal-laptop-speakers-with-these-simple-tips/"><u>Resolving No Sound From Internal Laptop Speakers with These Simple Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-hyperx-cloud-alpha-microphone-expert-fixes-for-common-problems/"><u>Revive Your HyperX Cloud Alpha Microphone - Expert Fixes for Common Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-corsair-headset-steps-to-restore-functionality/"><u>Reviving Your Corsair Headset: Steps to Restore Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silence-the-clicks-effective-solutions-to-stop-your-arctis-7-headset-from-making-crackling-sounds-on-pc/"><u>Silence the Clicks: Effective Solutions to Stop Your Arctis 7 Headset From Making Crackling Sounds on PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-for-resolving-no-sound-problems-in-windows-11-on-hp-computers/"><u>Solution Steps for Resolving No-Sound Problems in Windows 11 on HP Computers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-airpods-silence-audio-restoration-tips-for-windows-users/"><u>Solve Your AirPods Silence: Audio Restoration Tips for Windows Users</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-8-mejores-aplicaciones-de-reconstruccion-de-imagenes-viejas-utilizando-inteligencia-artificial-totalmente-gratis/"><u>Top 8 Mejores Aplicaciones De Reconstrucción De Imágenes Viejas Utilizando Inteligencia Artificial, Totalmente Gratis</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-conversations-with-new-chatgpt-capabilities-a-closer-look-at-essential-updates/"><u>Transforming Conversations with New ChatGPT Capabilities: A Closer Look at Essential Updates</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-capture-the-moment-enhancing-and-cutting-video-for-instagram-impact/"><u>[New] 2024 Approved Capture the Moment Enhancing and Cutting Video for Instagram Impact</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-maintaining-mystery-techniques-for-smoothing-out-visuals/"><u>[Updated] 2024 Approved Maintaining Mystery Techniques for Smoothing Out Visuals</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flipping-the-script-mobile-filmmaking-and-youtube-thumbnail-tricks-for-2024/"><u>[Updated] Flipping the Script Mobile Filmmaking & YouTube Thumbnail Tricks for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-live-commerce-next-chapter-can-ai-unlock-its-true-potential/"><u>2024 Approved Live Commerce Next Chapter Can AI Unlock Its True Potential?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/a-strategic-plan-for-top-tier-advertising-results/"><u>A Strategic Plan for Top-Tier Advertising Results</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-fixes-for-a-malfunctioning-steam-voice-chat-service/"><u>DIY Fixes for a Malfunctioning Steam Voice Chat Service</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solutions-repairing-dell-audio-driver-mishaps-in-the-windows-7-operating-system/"><u>DIY Solutions: Repairing Dell Audio Driver Mishaps in the Windows 7 Operating System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-disruptions-in-windows-10-solutions-unveiled/"><u>How to Fix Audio Disruptions in Windows 10: Solutions Unveiled</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-highlights-from-the-lg-bp350-monitor-user-experience-review/"><u>In 2024, Highlights From the LG BP350 Monitor User Experience Review</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-internal-laptop-speakers-no-more-soundless-screens/"><u>Reviving Internal Laptop Speakers: No More Soundless Screens</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-silence-a-guide-to-restoring-your-nvidia-hd-audio-output/"><u>Solving the Silence: A Guide to Restoring Your NVIDIA HD Audio Output</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/step-by-step-guide-mastering-the-art-of-taking-screenshots-on-your-lg-device/"><u>Step-by-Step Guide: Mastering the Art of Taking Screenshots on Your LG Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-bluetooth-audio-jitter-when-using-windows-11-systems/"><u>Troubleshooting Bluetooth Audio Jitter When Using Windows 11 Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-33-off-on-fire-tv-stick-packages-including-xbox-game-pass-exclusive-post-prime-deals-now-live-technewsz/"><u>Unlock 33% Off on Fire TV Stick Packages Including Xbox Game Pass - Exclusive Post-Prime Deals Now Live | TechNewsZ</u></a></li>
 </ul></div>
 

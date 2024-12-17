@@ -1,7 +1,7 @@
 ---
 title: "Overcoming HDMI Audio Hiccups: A Guide on Restoring Sound After Connecting PC to Display Unit & TV"
-date: 2024-08-23T12:24:08.167Z
-updated: 2024-08-24T12:24:08.167Z
+date: 2024-12-09T21:26:54.056Z
+updated: 2024-12-17T01:17:46.915Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
 
  You can also try to plug in the cables again and see if you hear any sound. If possible, you can connect to other devices such as your cellphone or MP3 player for troubleshooting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Change your default playback device
 
  You’ll have no sound when you set the wrong playback device. You can follow these steps to do a quick check:
@@ -46,9 +50,6 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
 2. Check if there’s a**green tick** on your desired playback device. If not, select your device and click**Set Default** . Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/set-default-output-device.jpg)
 3. Open Modern Warfare and see if your problem has gone away. If the problem is still there,**repeat step 1** and select your playback device, then click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/no-sound-set-default-format.jpg)
 4. Navigate to the**Advanced** tab. Under the**Default Format** section, select a different sample rate and bit depth, then click**Test** . Repeat this process until you find a format that works with your device. Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/no-sound-set-default-format-2.jpg)
@@ -57,8 +58,9 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
  If this method doesn’t give you any luck, please continue to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Run the Windows audio troubleshooter
 
  The Windows audio troubleshooter is a built-in utility that detects and repairs common sound issues automatically. You can follow these steps to use this troubleshooter:
@@ -66,15 +68,13 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
 1. On your keyboard, press the**Windows logo key** and type**troubleshoot settings** . Then click**Troubleshoot settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/troubleshoot-settings.jpg)
 2. Click**Additional troubleshooters** .  
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/troubleshoot-settings-2.jpg)
 3. Select**Playing Audio** and click**Run the troubleshooter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/troubleshoot-settings-3.jpg)
 4. Follow the on-screen instructions to troubleshoot your audio issue.
 
@@ -82,9 +82,6 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
 
  If the troubleshooter failed to detect your issue, please check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your audio driver
 
  One of the most common causes of in-game sound issue is the**broken or outdated audio driver** . So you should update your audio driver to see it it fixes your problem.
@@ -95,12 +92,14 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-realtek-audio-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your audio driver, restart your computer and see if it fixes your problem.
@@ -108,8 +107,9 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
  If updating audio driver doesn’t do the trick for you, please take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Install all the Windows updates
 
  There’re many reports that installing system updates fixes the audio issue on Windows, so this could be a potential solution to your sound issue with Modern Warfare.
@@ -122,19 +122,24 @@ And it’s quite easy to update too:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed the updates, restart your computer for it to take full effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To install all the system updates, you might need to**repeat these steps** **several times** until it prompts that “you’re up to date” when you click Check for updates.
 
 You can now open Modern Warfare and check the in-game audio.
 
  If this method doesn’t work for you, simply move on to the next one below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Close conflicting software
 
  Some players reported that they managed to get the sound back by closing programs that have audio output. You can try this method by closing apps such as**Discord** ,**Skype** and**Chrome** , as they might affect the in-game audio.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7: Change your audio channel
 
  In some cases, output devices with some high-end features (e.g. 5.1 surround sound) might not work so well on your system, so you’ll need to change your audio channel for the audio output. This solution also apply to the case where players have only cinematic music and no sound effects.
@@ -146,16 +151,20 @@ Here’s how to do it:
 2. Navigate to the **Playback** tab. Select your **default playback device** and click **Configure** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-audio-channel-1.jpg)
 3. For**Audio channels** , select**Stereo** and click**Next** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap108.jpg)
 4. Check the box **next to Front left and right** . Then click **Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap109.jpg)
 5. Click **Finish** to save the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap110.jpg)
 
 ---
@@ -168,8 +177,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +184,22 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-issues.techidaily.com/fixed-google-meet-microphone-not-working-on-window-1110/"><u>[FIXED] Google Meet Microphone Not Working on Window 11/10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-cyberpunk-2077-no-sound-on-windows-10/"><u>[SOLVED] Cyberpunk 2077 No Sound on Windows 10</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-aerial-imaging-warfare-djis-pro-vs-gopro-k20-for-2024/"><u>[Updated] Aerial Imaging Warfare DJI's Pro Vs GoPro K20 for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-dissecting-instagrams-maximum-video-duration-rule/"><u>[Updated] In 2024, Dissecting Instagram's Maximum Video Duration Rule</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/10-key-devices-for-effective-zoom-sessions/"><u>10 Key Devices for Effective Zoom Sessions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-leading-5-facebook-updates-to-note-this-year/"><u>2024 Approved The Leading 5 Facebook Updates to Note This Year</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-ways-to-stop-that-annoying-sound-from-your-headphones-today/"><u>Easy Ways to Stop That Annoying Sound From Your Headphones Today</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fix-your-airpods-now-unravel-the-mystery-of-persistent-connectivity-breakdowns-with-our-top-8-quick-solutions/"><u>Fix Your AirPods Now! Unravel the Mystery of Persistent Connectivity Breakdowns with Our Top 8 Quick Solutions</u></a></li>
+<li><a href="https://facebook.techidaily.com/governments-counteroffensive-against-monopolistic-tech-firms/"><u>Government's Counteroffensive Against Monopolistic Tech Firms</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-logitech-g933-microphone-problems-effectively/"><u>How To Resolve Logitech G933 Microphone Problems Effectively</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/metaverse-mingle-match-ultimate-pairings/"><u>Metaverse Mingle Match Ultimate Pairings</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/patched-problem-noise-not-working-correctly-on-firebox-browser/"><u>Patched Problem: Noise Not Working Correctly on Firebox Browser</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-corsair-virtuoso-microphone-quick-fix-solutions/"><u>Revive Your Corsair Virtuoso Microphone - Quick Fix Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-problems-behind-us-play-games-and-stream-sound-on-discord-effectively/"><u>The Problem's Behind Us! Play Games and Stream Sound on Discord Effectively.</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-things-to-think-about-prior-to-investing-in-an-unlocked-cell-phone/"><u>Top Things to Think About Prior to Investing in an Unlocked Cell Phone</u></a></li>
+</ul></div>
 

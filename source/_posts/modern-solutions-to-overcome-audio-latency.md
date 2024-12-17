@@ -1,7 +1,7 @@
 ---
 title: Modern Solutions to Overcome Audio Latency
-date: 2024-12-06T19:54:18.129Z
-updated: 2024-12-10T22:17:38.664Z
+date: 2024-12-11T01:09:20.213Z
+updated: 2024-12-16T22:47:24.834Z
 tags:
   - win11
   - win10
@@ -30,15 +30,15 @@ It’s annoying that your Discord is picking up game audio all of a sudden. But 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Discord audio issues?
 
 * [1. Update audio drivers](https://tools.techidaily.com/drivereasy/download/)
 * [2. Change sound settings](https://tools.techidaily.com/drivereasy/download/)
 * [3. Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Update audio drivers
 
@@ -56,6 +56,10 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver-1.jpeg)
@@ -67,6 +71,10 @@ There’re mainly two ways for you to update an audio driver:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Change sound settings
 
  This issue happens when Stereo Mix (instead of your headset microphone) is set to the default device. To fix it, you should disable Stereo Mix, and set your microphone as the default device:
@@ -75,15 +83,15 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Go to the**Recording** tab.
 
  3) Right-click**Stereo Mix** and select **Disable** , and make sure you have set your headphone as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Open Discord application, and go to**User Settings** .
 
@@ -92,14 +100,10 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Reinstall Discord
 
@@ -110,10 +114,6 @@ There’re mainly two ways for you to update an audio driver:
  2) Type in**appwiz.cpl** and press**Enter** .
 
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Right-click Discord, and select**Uninstall** .
 
@@ -142,16 +142,22 @@ There’re mainly two ways for you to update an audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-cinematic-capture-a-device-friendly-movie-guidebook-for-2024/"><u>[New] Cinematic Capture A Device-Friendly Movie Guidebook for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-video-enthusiasts-guide-to-the-best-photo-backdrop-swappers/"><u>[New] In 2024, Video Enthusiasts' Guide to the Best Photo Backdrop Swappers</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-balancing-consistency-and-quality-a-key-to-increasing-youtube-viewership/"><u>[Updated] In 2024, Balancing Consistency & Quality A Key to Increasing YouTube Viewership</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-filmmaking-made-simple-crafting-an-impactful-youtube-subscribe-button/"><u>[Updated] In 2024, Filmmaking Made Simple Crafting an Impactful YouTube Subscribe Button</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-expert-techniques-for-capturing-and-recording-streamed-content/"><u>2024 Approved Expert Techniques for Capturing & Recording Streamed Content</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-windows-7-hdmi-audio-issues-solutions-guide/"><u>Fixing Windows 7 HDMI Audio Issues - Solutions Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-configure-mystery-or-unrecognized-speakers-in-windows-11/"><u>How to Configure Mystery or Unrecognized Speakers in Windows 11?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-responsive-microphone-in-fortnite-a-step-by-step-guide/"><u>How to Fix a Non-Responsive Microphone in Fortnite: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-lack-of-sound-on-your-hp-laptop-with-windows-11-update/"><u>How to Resolve Lack of Sound on Your HP Laptop with Windows 11 Update</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/logitech-g230-microphone-malfunction-discover-proven-repair-methods/"><u>Logitech G230 Microphone Malfunction? Discover Proven Repair Methods!</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-natural-look-how-to-smooth-skin-in-fcpx-without-plugins-for-2024/"><u>Updated The Natural Look How to Smooth Skin in FCPX without Plugins for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-digital-domain-decision-which-platform-for-your-videos/"><u>[New] In 2024, Digital Domain Decision Which Platform for Your Videos?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-integrating-past-videos-into-current-live-feeds-on-fb-for-2024/"><u>[New] Integrating Past Videos Into Current Live Feeds on FB for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-windows-11-audio-not-working/"><u>[SOLVED] Windows 11 Audio Not Working</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-deciphering-youtube-conversations/"><u>[Updated] Deciphering YouTube Conversations</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-master-the-art-of-movie-capture-on-any-device/"><u>[Updated] In 2024, Master the Art of Movie Capture on Any Device</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-snapshots-of-progress-windows-10s-new-features/"><u>[Updated] In 2024, Snapshots of Progress Windows 10'S New Features</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-why-you-adore-filmora-the-10-key-edits-that-matter/"><u>[Updated] In 2024, Why You Adore Filmora The 10 Key Edits That Matter</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-mastering-drone-image-shake-reduction/"><u>[Updated] Mastering Drone Image Shake Reduction</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-sony-headsets-mic-working-again-on-a-windows-computer-step-by-step-guide/"><u>Get Your Sony Headset's Mic Working Again on a Windows Computer - Step by Step Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-nokia-c12-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Nokia C12 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-clear-voice-communication-resolve-discords-echo-glitches-on-pc-latest-techniques-202n4/"><u>Mastering Clear Voice Communication: Resolve Discord's Echo Glitches on PC - Latest Techniques (202N4)</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-blue-screen-fixation-error-code-0x8007007e/"><u>Mastering Windows Blue Screen Fixation - Error Code 0X8007007E</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016494472-no-audio-in-hp-laptop-heres-the-complete-fix/"><u>No Audio in HP Laptop? Here's the Complete Fix</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/phasmophobia-player-guide-fixing-malfunctioning-voice-chat-feature/"><u>Phasmophobia Player Guide: Fixing Malfunctioning Voice Chat Feature</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-and-easy-ways-to-stop-headphone-sound-irregularities/"><u>Quick & Easy Ways to Stop Headphone Sound Irregularities!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-nonfunctional-astro-a20-mic-issues/"><u>Step-by-Step Fix for Nonfunctional Astro A20 Mic Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solving-dell-audio-driver-issues-in-windows-7/"><u>Troubleshooting and Solving Dell Audio Driver Issues in Windows 7</u></a></li>
 </ul></div>
 

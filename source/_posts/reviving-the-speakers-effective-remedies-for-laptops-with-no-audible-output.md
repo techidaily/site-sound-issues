@@ -1,7 +1,7 @@
 ---
 title: "Reviving the Speakers: Effective Remedies for Laptops with No Audible Output"
-date: 2024-08-23T12:20:05.466Z
-updated: 2024-08-24T12:20:05.466Z
+date: 2024-12-15T21:16:39.023Z
+updated: 2024-12-17T01:28:43.710Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ When you try to play music or video on your laptop, but just find**no sound on t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-22.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Set your speakers as default device
 
  1) Right-click on the**s** **ound** icon on your taskbar. Then click**Playback devices** .
@@ -43,6 +47,10 @@ When you try to play music or video on your laptop, but just find**no sound on t
  2)Highlight your speakers, then click **Set Default** . Click **OK.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:**  If you couldn’t find your speakers on the playback device list, it might be disabled.
 
@@ -57,8 +65,9 @@ Go with the easy steps to show it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3:**Reinstall your sound card driver**
 
 1) Press the **Windows** logo key + **R** key together to open the **Run** box.
@@ -67,30 +76,22 @@ Go with the easy steps to show it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2) Expand **Sound, video and game controllers** . Then right click on your sound card’s name and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) Tick on **Delete the driver software for this device.** Then click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  4) Restart your PC to make change take effect. Windows will automatically reinstall sound driver for you now.
 
  5) Check if speakers works on your laptop now.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## Fix 4: Update**your sound card driver**
 
  If the 1-3 fixes didn’t solve your issue, make sure to update your sound card driver.
@@ -102,9 +103,9 @@ It has two versions. Have a try on its **[Free Version](https://tools.techidaily
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -121,8 +122,6 @@ Any problems just feel free to leave your comment below, thanks.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +129,22 @@ Any problems just feel free to leave your comment below, thanks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-hulu-capture-windows-mac-and-mobile-edition-for-2024/"><u>[New] Mastering Hulu Capture Windows, Mac & Mobile Edition for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-resident-evil-village-audio-issues/"><u>[Solved] Resident Evil Village Audio Issues</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-detailed-exploration-samsungs-photo-editor-capabilities-2023/"><u>[Updated] A Detailed Exploration Samsung's Photo Editor Capabilities, 2023</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-free-cross-platform-4k-playback-tools-for-win-and-os-x-devices/"><u>[Updated] Free, Cross-Platform 4K Playback Tools for Win & OS X Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-step-by-step-full-ps4-game-recording-in-obs-studio/"><u>2024 Approved Step-by-Step Full PS4 Game Recording in OBS Studio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repairs-restoring-function-to-a-malfunctioning-headphone-socket/"><u>DIY Repairs: Restoring Function to a Malfunctioning Headphone Socket 🎶</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-sound-glitches-and-audio-warping-in-windows-11-and-7-a-comprehensive-guide/"><u>Fixing Sound Glitches and Audio Warping in Windows 11 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-the-unresponsive-headset-mic-on-sony-wh-1000-series-for-desktop-computers/"><u>How to Repair the Unresponsive Headset Mic on Sony WH-1000 Series for Desktop Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/improve-your-iphones-audio-experience-remedies-for-sound-problems/"><u>Improve Your iPhone's Audio Experience - Remedies for Sound Problems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-natural-language-for-excel-excellence-via-chatgpt/"><u>Leveraging Natural Language for Excel Excellence via ChatGPT</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722901621827-prospect-of-a-new-era-with-apples-touchscreen-macbook-price-estimates-release-dates-and-rumored-capabilities-inside/"><u>Prospect of a New Era with Apple's Touchscreen MacBook – Price Estimates, Release Dates and Rumored Capabilities Inside.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-tips-for-a-nonfunctional-hyperx-cloud-gaming-microphone/"><u>Step-by-Step Repair Tips for a Nonfunctional HyperX Cloud Gaming Microphone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforma-tus-archivos-bmp-directamente-al-formato-tiff-sin-coste-alguno-usando-movavi/"><u>Transforma Tus Archivos BMP Directamente Al Formato TIFF Sin Coste Alguno Usando Movavi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-x50s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Honor X50s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-the-recommended-natural-ai-hindi-voice-generator/"><u>Updated In 2024, The Recommended Natural AI Hindi Voice Generator</u></a></li>
+</ul></div>
 

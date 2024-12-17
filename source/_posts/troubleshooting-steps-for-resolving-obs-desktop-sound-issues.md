@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Resolving OBS Desktop Sound Issues
-date: 2024-08-23T12:20:56.906Z
-updated: 2024-08-24T12:20:56.906Z
+date: 2024-12-09T18:02:03.444Z
+updated: 2024-12-16T20:25:57.846Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/1ea610ac45d115520a80068437a0213bae487d694
 Only saints can remain calm and relax when you’re about to present in a Zoom meeting but only to find that your microphone is not working, so everyone else has to sit through the silence while you fumble on your computer. Not to mention that all the fumbling doesn’t guarantee a fix for the microphone not working problem on your PC.
 
  If this is also you, and your Realtek microphone is not working no matter what software programs you’re using: Skype, Zoom, and all sorts of multi-player games, don’t worry: you’re definitely not alone. This has been a long-term problem for Windows users since Windows 7\. Here we have some fixes that’ll help to get this problem sorted. Read on and see what more you can do.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes for the Realtek microphone not working problem
 
@@ -57,17 +61,19 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then try your Realtek microphone again to see if it works properly now. If the problem remains, please move on to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Update the sound card driver
 
  An outdated or incorrect sound card driver could also be the culprit to your Realtek microphone not working problem, so if the above two methods don’t help to restore your microphone, it’s likely that you have a corrupted or outdated audio driver. So you should update your drivers to see if it helps.
@@ -80,13 +86,12 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -107,9 +112,6 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-53.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
  For instance, my keyword combination should be**Dell Vostro 3670 driver download**
 
  Go only to the official website of your manufacturer, then find the driver for your Realtek sound card, and download and install the correct driver for your computer.
@@ -130,6 +132,10 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
  Tips: Still unsure if Fortect is what you need? Check this [Fortec Review](https://tools.techidaily.com/drivereasy/download/) !
@@ -137,8 +143,9 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Update BIOS
 
  If the above still doesn’t help to fix the Realtek microphone not working issue on your computer, you may need to consider a BIOS update, as it could be a problem between the Realtek sound card on the motherboard and your system. But you should always check your motherboard’s BIOS update release note to see if the microphone issue is mentioned.
@@ -149,9 +156,6 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## 7\. Reset your computer
 
  If none of the above helps to restore your Realtek microphone, not even the BIOS update, you may need to consider a Windows reset: it wipes out all software incompatibilities and problems, it’s also the rule of thumb in telling a software problem from a hardware one: if the problem remains even after a system reset, then it’s definitely a hardware problem.
@@ -162,9 +166,6 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Final thought
 
  If you’ve tried fixes 1 to 6 mentioned here but are a bit reluctant to try a system reset, you can also an easier (and rather inexpensive) alternative: an external USB sound card.
@@ -183,8 +184,6 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +191,24 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-compre-point-guide-to-instagrams-inquiry-tool/"><u>[New] The Compre Point Guide to Instagram's Inquiry Tool</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-perfecting-obs-broadcasts-for-facebook-audience/"><u>[Updated] 2024 Approved Perfecting OBS Broadcasts for Facebook Audience</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-rich-resource-repository-prime-sites-for-free-high-quality-vector-art/"><u>[Updated] Rich Resource Repository Prime Sites for Free High-Quality Vector Art</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/discerning-the-causes-of-discord-sound-interruptions-the-definitive-2024-solution-manual/"><u>Discerning the Causes of Discord Sound Interruptions - The Definitive 2024 Solution Manual</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-8-premier-no-cost-roku-tv-channels/"><u>Discover the 8 Premier No-Cost Roku TV Channels</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-vivo-v30-lite-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Vivo V30 Lite 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/guia-simple-para-migracion-de-sistemas-operativos-y-archivos-entre-discos-ssd/"><u>Guía Simple Para Migración De Sistemas Operativos Y Archivos Entre Discos SSD</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-vivo-s17-pro-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Vivo S17 Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-secret-ingredient-to-success-15-activities-that-enhance-learning-while-listening-to-podcasts/"><u>In 2024, The Secret Ingredient to Success 15 Activities that Enhance Learning While Listening to Podcasts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-noise-troubles-a-user-friendly-fix-for-logitech-g935-microphone-problems/"><u>Overcoming Noise Troubles: A User-Friendly Fix for Logitech G935 Microphone Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-solutions-for-a-noisy-pc-overcoming-sound-interruptions-and-windows-glitches/"><u>Silent Solutions for a Noisy PC: Overcoming Sound Interruptions and Windows Glitches</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sony-wh-1000xm4-headphones-microphone-repair-solutions-for-non-functioning-mic-on-windows-computers/"><u>Sony WH-1000XM4 Headphones Microphone Repair: Solutions for Non-Functioning Mic on Windows Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-persistent-audio-drops-on-windows-10-solutions-revealed/"><u>Troubleshooting Persistent Audio Drops on Windows 10 – Solutions Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-sound-interruptions-on-windows-11-a-step-by-step-guide/"><u>Troubleshooting Sound Interruptions on Windows 11 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-fixing-your-hyperx-cloud-alpha-mic-malfunction/"><u>Troubleshooting Tips: Fixing Your HyperX Cloud Alpha Mic Malfunction</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-and-your-hp-laptop-solve-the-silent-screen-issue-now/"><u>Windows 11 and Your HP Laptop: Solve the Silent Screen Issue Now</u></a></li>
+</ul></div>
 

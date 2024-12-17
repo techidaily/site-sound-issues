@@ -1,7 +1,7 @@
 ---
 title: How to Get Your AirPods Mic Working Again on Windows 11 Computers
-date: 2024-12-05T19:06:18.412Z
-updated: 2024-12-10T18:35:25.028Z
+date: 2024-12-12T20:39:55.589Z
+updated: 2024-12-17T01:04:40.242Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for ‘Skype Microphone not working’
 
 1. [Make sure your Microphone is set to On for Skype users (Windows 10 users)](https://www.drivereasy.com/knowledge/fix-skype-microphone-not-working-on-windows-solved/#M1)
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
 4. [Restart the Windows audio service](https://tools.techidaily.com/drivereasy/download/)
 
 ###
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure Microphone is set to On for Skype (Windows 10 users)
 
@@ -46,11 +54,11 @@ Follow these:
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
 
-###
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+###
 
 ### Fix 2: Adjust the audio settings on Skype
 
@@ -58,15 +66,11 @@ Follow these:
 2. On Skype window, Click**Tools** \>**Options** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599a3fd935df2.png)
 3. Click**Audio settings** on the left pane. Then set your Microphone device and un-tick**Automatically adjust microphone settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
 4. Check to see if your Microphone works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###
@@ -82,10 +86,6 @@ Follow these:
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 4. Restart your computer and run Skype to see if your Microphone works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###
 
 ### Fix 4: Restart Windows audio service
@@ -96,7 +96,7 @@ Follow these:
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Log in Skype and check to see if your Microphone works.
@@ -118,22 +118,24 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-enhanced-photoshoot-with-online-backdrop-swap/"><u>[New] In 2024, Enhanced Photoshoot with Online Backdrop Swap</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-professional-insights-top-10-capture-cards-for-youtube-enthusiasts/"><u>[Updated] 2024 Approved Professional Insights Top 10 Capture Cards for YouTube Enthusiasts</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-efficient-ad-elimination-select-7-android-adblockers/"><u>[Updated] Efficient Ad Elimination Select 7 Android AdBlockers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-how-to-create-a-new-twitter-account-for-2024/"><u>[Updated] How to Create a New Twitter Account for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accessing-windows-11s-network-settings/"><u>Accessing Windows 11'S Network Settings</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-correcting-the-silent-issue-restoring-sounds-in-your-fortnite-gameplay/"><u>Diagnosing & Correcting the Silent Issue: Restoring Sounds in Your Fortnite Gameplay</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-correcting-problems-with-steelseries-arctis-prime-microphones/"><u>Diagnosing and Correcting Problems with SteelSeries Arctis Prime Microphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-resolving-issues-in-discord-voice-communication/"><u>Diagnosing and Resolving Issues in Discord Voice Communication</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-guide-what-to-do-when-your-bose-sound-system-wont-turn-on/"><u>DIY Guide: What To Do When Your Bose Sound System Won't Turn On</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/drive-engagement-using-our-cookiebot-solutions/"><u>Drive Engagement Using Our Cookiebot Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortless-fixes-for-audacity-sound-device-malfunctions-5-reliable-methods/"><u>Effortless Fixes for Audacity Sound Device Malfunctions – 5 Reliable Methods</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortless-fixes-making-your-google-hangouts-mic-work-again/"><u>Effortless Fixes: Making Your Google Hangouts Mic Work Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-solutions-to-the-common-problem-of-connected-yet-quiet-bluetooth-audio/"><u>Expert Solutions to the Common Problem of Connected Yet Quiet Bluetooth Audio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixed-no-sound-in-firefox/"><u>Fixed: No Sound in Firefox</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-boosting-visual-impact-the-11-best-practices-for-color-workflow/"><u>In 2024, Boosting Visual Impact The 11 Best Practices for Color Workflow</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-sony-xperia-5-v-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Sony Xperia 5 V Devices</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-a-professionals-primer-to-perfecting-picture-colors/"><u>[New] 2024 Approved A Professional's Primer to Perfecting Picture Colors</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-crafting-captivating-instagram-puzzles-a-step-by-step-approach/"><u>[New] 2024 Approved Crafting Captivating Instagram Puzzles A Step-by-Step Approach</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-top-10-filmora-editing-traits-for-fan-loyalty/"><u>[New] 2024 Approved Top 10 Filmora Editing Traits for Fan Loyalty</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/trategic-synergy-in-streams-dissecting-your-videos-from-rivals/"><u>[New] Strategic Synergy in Streams Dissecting Your Videos From Rivals'</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/does-asus-rt-ac88u-really-meet-the-high-demands-of-gamers-a-thorough-review/"><u>Does Asus RT-AC88U Really Meet the High Demands of Gamers? A Thorough Review</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-common-problems-with-your-steelseries-arctis1-headset-mic/"><u>Effective Fixes for Common Problems with Your SteelSeries Arctis^1 Headset Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-non-functional-speakers-on-your-pc-a-complete-guide/"><u>Fixing Non-Functional Speakers on Your PC: A Complete Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016318388-fixing-the-issue-bluetooth-paired-but-still-silent-solutions-inside/"><u>Fixing the Issue: Bluetooth Paired but Still Silent – Solutions Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-problem-with-realteks-digital-output/"><u>Fixing the Silent Problem with Realtek's Digital Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-unexpected-audio-distortions-on-your-windows-pc/"><u>How to Fix Unexpected Audio Distortions on Your Windows PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-lava-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Lava?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-honor-x50-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Honor X50</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-journey-to-mastery-discovering-the-quintessential-5-online-title-makers/"><u>In 2024, Journey to Mastery Discovering the Quintessential 5 Online Title Makers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-fixing-the-lack-of-audio-on-anthem-gameplay-in-windows-10/"><u>Solved: Fixing the Lack of Audio on Anthem Gameplay in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-your-pcs-rec-room-mic-malfunction-2024-edition/"><u>Troubleshooting and Fixing Your PC's Rec Room Mic Malfunction - 2024 Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solutions-for-malfunctioning-audio-jacks/"><u>Troubleshooting and Solutions for Malfunctioning Audio Jacks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-fixing-black-ops-cold-wars-voice-communication-issues/"><u>Troubleshooting Steps: Fixing Black Ops Cold War's Voice Communication Issues</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-proxy-perfection-top-video-editing-software-for-4k-creators/"><u>Updated In 2024, Proxy Perfection Top Video Editing Software for 4K Creators</u></a></li>
 </ul></div>
 

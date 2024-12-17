@@ -1,7 +1,7 @@
 ---
 title: "Effective Solutions for Unresponsive In-Game Mics on CS:GO"
-date: 2024-12-07T22:16:04.147Z
-updated: 2024-12-10T22:20:06.810Z
+date: 2024-12-14T22:24:32.841Z
+updated: 2024-12-16T21:59:24.329Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 1: Plug in and take out your headphone
 
@@ -62,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to any falgged driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -76,13 +76,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdf8f58307f.png)**  and **R**  (at the same time) to invoke the Run command.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **devmgmt.msc**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac1fec110a5a.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Right-click on your sound card to choose**Disable device** .
 
@@ -93,13 +93,13 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c3e821f53.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then you may find its icon ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c3c1585ef.png) change into ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c4aebac0d.png) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Wait for a while. Right-click on your sound card again and this time click**Enable device** .
@@ -107,7 +107,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c4fd4b764.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Play a music or video on your laptop to see if the sound comes from the speakers.
@@ -129,14 +129,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-seek-out-all-shared-media-on-messenger-platform/"><u>[New] Seek Out All Shared Media on Messenger Platform</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-pc-video-magic-discovering-apowersofts-recorder/"><u>[Updated] 2024 Approved PC Video Magic Discovering Apowersoft’s Recorder</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-understanding-when-people-drop-off-on-instagram/"><u>2024 Approved Understanding When People Drop Off on Instagram</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-honor-70-lite-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Honor 70 Lite 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-when-your-nvidia-hardware-isnt-recognized/"><u>Troubleshooting Steps When Your NVIDIA Hardware Isn't Recognized</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-solving-issues-with-your-bose-speakers/"><u>Troubleshooting Tips: Solving Issues with Your Bose Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-resolving-pc-playback-problems-with-facebook-videos-sound-issues/"><u>Ultimate Guide: Resolving PC Playback Problems with Facebook Videos (Sound Issues)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-the-power-of-hot-corners-in-macos-a-complete-guide-tech-tips-today/"><u>Unlock the Power of Hot Corners in macOS: A Complete Guide | Tech Tips Today</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-10-audio-troubleshooting-swift-methods-for-noise-restoration/"><u>Windows 10 Audio Troubleshooting: Swift Methods for Noise Restoration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-tier-technical-tips-to-secure-flawless-broadcasting/"><u>2024 Approved Top-Tier Technical Tips to Secure Flawless Broadcasting</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-honor-magic-6-pro-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Honor Magic 6 Pro Phone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/acoustic-dissolve-windowsmac-playback-guide-for-2024/"><u>Acoustic Dissolve Windows/Mac Playback Guide for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/ascending-altitudes-in-depth-analysis-of-the-gopro-karma-drone/"><u>Ascending Altitudes In-Depth Analysis of the GoPro Karma Drone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/eliminate-osetupdll-missing-alerts-with-expert-tips-and-effective-remedies/"><u>Eliminate osetup.dll Missing Alerts with Expert Tips & Effective Remedies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-restoring-speakers-to-working-order-on-your-hp-laptop-windows-10/"><u>Expert Advice: Restoring Speakers to Working Order on Your HP Laptop (Windows 10)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-restore-functionality-of-your-oculus-quest-2-headset-microphone/"><u>Fixing the Issue: How to Restore Functionality of Your Oculus Quest 2 Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-zoom-microphone-working-again-tips-and-solutions-for-windows-1110-problem-solving/"><u>Get Your Zoom Microphone Working Again! Tips & Solutions for Windows 11/10 Problem-Solving</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-itel-p40-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Itel P40</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-issues-with-your-mpow-mic-not-functional-on-pcs/"><u>How to Resolve Issues with Your MPOW Mic Not Functional on PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-on-your-pc-fixing-the-connexant-smartaudio-hd-not-playing-sounds-issue-in-windows-10/"><u>How To Restore Audio on Your PC? Fixing the Connexant SmartAudio HD Not Playing Sounds Issue in Windows 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-pro-max-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Pro Max To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-eliminate-no-sound-in-skype-calls/"><u>How to Troubleshoot and Eliminate No-Sound in Skype Calls</u></a></li>
+<li><a href="https://win-blog.techidaily.com/new-world-fixed-resolved-freezing-issues-now/"><u>New World Fixed: Resolved Freezing Issues Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-hd-audio-fix-how-to-resolve-unplugged-connection-issues/"><u>Realtek HD Audio Fix: How to Resolve Unplugged Connection Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-issues-fixing-no-sound-on-your-hp-laptop-with-windows-11/"><u>Troubleshooting Audio Issues: Fixing No Sound on Your HP Laptop with Windows 11</u></a></li>
+<li><a href="https://win-community.techidaily.com/understanding-the-causes-of-slow-loading-times-in-your-windows-applications-expert-insights-from-yl-computing/"><u>Understanding the Causes of Slow Loading Times in Your Windows Applications - Expert Insights From YL Computing</u></a></li>
 </ul></div>
 

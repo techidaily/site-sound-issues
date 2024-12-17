@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Compatibility with IDT High Definition Sound Card - Solved
-date: 2024-12-08T20:02:43.207Z
-updated: 2024-12-10T16:37:01.581Z
+date: 2024-12-13T18:07:26.321Z
+updated: 2024-12-16T18:52:37.184Z
 tags:
   - win11
   - win10
@@ -24,24 +24,24 @@ If you’re on Windows 10 and your sound suddenly stops working, or that you can
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 1: Re-install Driver**
 
 Faulty audio driver can be the lead cause of this problem. You can reinstall its driver to fix the problem: 1) On your keyboard, press the**Windows logo key**and**R**at the same time, type**devmgmt.msc**and press**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8de5b73cd9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Expand**Sound, video and game controllers** and locate**IDT High Definition Audio CODEC**.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5784665dcbc35.png)3) Right-click **IDT High Definition Audio CODEC** and select**Uninstall**.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5784923683fba.png)Select**OK**when the confirmation window pops up. 4) Restart your computer after this change to make sure that Windows Update help you with the update of the driver for your audio device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 2: Update driver automatically (Recommended)**
@@ -51,7 +51,7 @@ If reinstalling driver doesn’t help you with it, you should try update your au
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b091e04542e1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Click the**Update**button next to the flagged sound card driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click**_Update All_**).
@@ -59,7 +59,7 @@ If reinstalling driver doesn’t help you with it, you should try update your au
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b091e18a76b3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’ve encountered any questions while using Driver Easy, please feel free to contact our support team at <support@drivereasy.com> for further assistance. Our support team would be happy to help you resolve this issue.**Please attach the URL of this article** so we could assist you better.
@@ -81,21 +81,17 @@ If you have any ideas or questions, please feel free to leave your comments belo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-effortless-digital-preservation-how-to-record-live-tv-shows/"><u>[New] In 2024, Effortless Digital Preservation How To Record Live TV Shows</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-unlock-fb-story-potential-4-effective-techniques-for-2024/"><u>[New] Unlock FB Story Potential - 4 Effective Techniques for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-harmonizing-highlights-how-to-embed-songs-on-instagram-stories/"><u>[Updated] 2024 Approved Harmonizing Highlights How to Embed Songs on Instagram Stories</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-optimize-chromes-voice-the-best-web-based-vocal-modification-apps/"><u>[Updated] In 2024, Optimize Chrome's Voice The Best Web-Based Vocal Modification Apps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premium-web-outlets-for-gift-boxes-that-speak-to-you/"><u>2024 Approved Premium Web Outlets for Gift Boxes That Speak to You</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016959515-apex-legends-troubleshooting-guide-fix-your-voice-chat-issues-now/"><u>Apex Legends: Troubleshooting Guide - Fix Your Voice Chat Issues Now!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723017029621-conservation-of-energy-applies-meaning-total-energy-gained-total-energy-lost-in-an-isolated-system/"><u>Conservation of Energy Applies, Meaning Total Energy Gained = Total Energy Lost in an Isolated System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/corsair-hs60-mic-malfunction-heres-what-you-need-to-know/"><u>Corsair HS60 Mic Malfunction? Here's What You Need to Know</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-fixes-for-when-your-steelseries-arctis-1-mic-stops-working/"><u>DIY Fixes for When Your SteelSeries Arctis 1 Mic Stops Working</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/educational-purposes/"><u>Educational Purposes:</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-when-your-headphones-arent-recognized-by-windows-11/"><u>Effective Fixes for When Your Headphones Aren't Recognized by Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-strategies-integrating-chatgpt-into-cbt-practices/"><u>Effective Strategies: Integrating ChatGPT Into CBT Practices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-fixing-microphone-problems-in-the-steelseries-arctis-5-restoring-sound-what-to-do-when-your-steelseries-arctis-7-mic-fails-to-work/"><u>Expert Advice: Fixing Microphone Problems in the SteelSeries Arctis 5. Restoring Sound: What To Do When Your SteelSeries Arctis 7 Mic Fails to Work</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/navigating-the-windows-path-a-definitive-companion-to-the-photo-8-manual/"><u>Navigating the Windows Path: A Definitive Companion to the Photo ^8 Manual</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/personalized-instagram-notification-melodies/"><u>Personalized Instagram Notification Melodies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/protect-yourself-key-gpt-frauds-exposed/"><u>Protect Yourself: Key GPT Frauds Exposed</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-dji-phantom-3-capability-assessment/"><u>[New] In 2024, DJI Phantom 3 Capability Assessment</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-seamlessly-add-music-to-inshot-on-mobile-devices/"><u>[New] In 2024, Seamlessly Add Music to InShot on Mobile Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-unlocking-audacitys-full-potential-for-professional-audio/"><u>[New] In 2024, Unlocking Audacity's Full Potential for Professional Audio</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/eyword-kickstart-the-top-7-free-user-friendly-video-tag-extractors-analyzed/"><u>[New] Keyword Kickstart The Top 7 Free, User-Friendly Video Tag Extractors Analyzed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-no-response-from-epson-printer-on-windows-11/"><u>[SOLVED] No Response From Epson Printer on Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-samsung-galaxy-s24-ultra-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Samsung Galaxy S24 Ultra Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-fortnite-voice-chat-working-again-with-these-easy-fixes/"><u>Get Your Fortnite Voice Chat Working Again with These Easy Fixes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-reinstall-and-ensure-proper-functionality-of-the-ryzen-master-utility/"><u>How to Reinstall and Ensure Proper Functionality of the Ryzen Master Utility</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-the-challenge-correct-audio-output-from-headphones-rather-than-computer-speakers/"><u>Overcoming the Challenge: Correct Audio Output From Headphones Rather than Computer Speakers</u></a></li>
+<li><a href="https://techidaily.com/some-mp4-wont-play-on-my-moto-g-5g-2023-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Moto G 5G (2023)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016036993-unlock-seamless-game-sound-integration-with-this-solved-discord-method/"><u>Unlock Seamless Game Sound Integration with This Solved Discord Method</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/upping-the-decibels-mastering-windows-10-audio-enhancement-techniques/"><u>Upping the Decibels: Mastering Windows 10 Audio Enhancement Techniques</u></a></li>
 </ul></div>
 

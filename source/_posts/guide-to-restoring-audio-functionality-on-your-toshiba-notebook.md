@@ -1,7 +1,7 @@
 ---
 title: Guide to Restoring Audio Functionality on Your Toshiba Notebook
-date: 2024-12-09T20:09:18.799Z
-updated: 2024-12-10T19:09:03.550Z
+date: 2024-12-15T23:21:14.831Z
+updated: 2024-12-16T16:52:44.017Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
 4. [Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Troubleshoot hardware issues](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Turn on app permissions for your microphone
 
  To use your microphone with apps on Windows, you’ll need to turn on some permissions in Microphone settings. Here’s how:
@@ -53,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
 ![turn on app permissions on your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/turn-on-app-permissions-for-your-micropho0ne.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Under the**Allow apps to access your microphone** section, make sure it’s turned**On** .  
@@ -74,24 +70,32 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the**Input** section, make sure that your headset is showing. Then click**Device Properties** .  
   
 ![sound settings input section](https://images.drivereasy.com/wp-content/uploads/2021/02/Input-section-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Make sure that your headset is not disabled.  
   
 ![make sure your headset isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/02/make-sure-your-headset-isnt-disabled.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you’ve confirmed that your microphone is enabled, do a test to check if it’s now back to normal. If the microphone is still not working properly, try the next fix below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Set your microphone device as default
@@ -111,7 +115,7 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
 ![set your device as default](https://images.drivereasy.com/wp-content/uploads/2021/02/set-it-as-default.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When it’s all done, use your microphone to check if it’s working now. If you’re still having the same problem, try the next fix below.
@@ -131,10 +135,6 @@ Here’s how to update drivers with Driver Easy:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
@@ -174,17 +174,21 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-exclusive-collection-vimeo-video-clippers/"><u>[New] 2024 Approved Exclusive Collection Vimeo Video Clippers</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-viral-video-vibes-essential-quotable-phrases-for-your-tiktok-journey-for-2024/"><u>[New] Viral Video Vibes Essential Quotable Phrases for Your TikTok Journey for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitter-to-tween-creating-free-animated-videos/"><u>[Updated] In 2024, Twitter to Tween Creating FREE Animated Videos</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/constructing-a-futuristic-smart-home-top-5-essentials-chosen-from-the-start-insights-from-zdnet/"><u>Constructing a Futuristic Smart Home: Top 5 Essentials Chosen From the Start - Insights From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-strategies-to-overcome-504-gateway-timeouts-in-web-services/"><u>Effective Strategies to Overcome 504 Gateway Timeouts in Web Services</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/harmony-through-communication-multilingual-relationship-guide/"><u>Harmony Through Communication: Multilingual Relationship Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-realme-11x-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Realme 11X 5G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/instas-friendship-breakdown-detect-it-fast-for-2024/"><u>Insta's Friendship Breakdown Detect It Fast for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-pc-audio-issues-restoring-sound-during-a-zoom-call/"><u>Solving PC Audio Issues: Restoring Sound During a Zoom Call</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-mute-mystery-how-to-get-sound-back-on-a-lenovo-notebook/"><u>Solving the Mute Mystery: How to Get Sound Back on a Lenovo Notebook</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-mystery-of-muted-sounds-in-hearthstone/"><u>Solving the Mystery of Muted Sounds in Hearthstone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-problem-with-your-turtle-beach-mic-step-by-step-solutions/"><u>Solving the Problem with Your Turtle Beach Mic – Step-by-Step Solutions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-enhanced-team-collaboration-with-slack-plus-filmora-timelines/"><u>[New] 2024 Approved Enhanced Team Collaboration with Slack + Filmora Timelines</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-grassroot-game-gear-free-film-tips-for-fans/"><u>[New] Grassroot Game Gear - Free Film Tips for Fans</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mastering-instagram-alter-your-tone-effectively/"><u>[Updated] 2024 Approved Mastering Instagram Alter Your Tone Effectively</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-speedy-iphone-timelapses-made-simple/"><u>[Updated] Speedy iPhone Timelapses Made Simple</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/abbyy-anleitung-zur-elektronischen-rechnungsstellungsmethode-im-kontext-von-rechnungsabrechnungen-ein-praktischer-leitfaden/"><u>ABBYY-Anleitung Zur Elektronischen Rechnungsstellungsmethode Im Kontext Von Rechnungsabrechnungen: Ein Praktischer Leitfaden</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-service-outage-heres-how-you-can-restart-them-successfully/"><u>Audio Service Outage? Here's How You Can Restart Them Successfully</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016214694-disconnect-other-usb-devices-from-the-pc-and-try-connecting-tozo-t6-again-since-a-device-may-not-function-correctly-due-to-limited-usb-ports/"><u>Disconnect Other USB Devices From the PC and Try Connecting Tozo T6 Again, Since a Device May Not Function Correctly Due to Limited USB Ports</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-unplugged-microphone-or-headset-problems-on-windows-11-8-and-7/"><u>How to Resolve Unplugged Microphone or Headset Problems on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016369439-logitech-g933-sound-issues-follow-these-quick-fixes/"><u>Logitech G933 Sound Issues? Follow These Quick Fixes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210454199-9780991010998-party-of-twelve/"><u>Party of Twelve | Free Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-hd-audio-manager-wont-open-heres-the-solution/"><u>Realtek HD Audio Manager Won't Open? Here's The Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-a-nonfunctional-corsair-virtuoso-headset/"><u>Step-by-Step Solutions for a Nonfunctional Corsair Virtuoso Headset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-logitech-webcam-and-mic-issues-for-smooth-online-communication/"><u>Troubleshooting Logitech Webcam & Mic Issues for Smooth Online Communication</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-strengths-of-the-dell-xps-13-2-in-1-in-our-latest-laptop-review/"><u>Unveiling the Strengths of the Dell XPS 13 2-in-1 in Our Latest Laptop Review</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-streamline-your-workflow-6-productivity-boosting-adobe-premiere-pro-tips-for-2024/"><u>Updated Streamline Your Workflow 6 Productivity-Boosting Adobe Premiere Pro Tips for 2024</u></a></li>
 </ul></div>
 

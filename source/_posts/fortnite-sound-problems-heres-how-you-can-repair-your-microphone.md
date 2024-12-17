@@ -1,7 +1,7 @@
 ---
 title: Fortnite Sound Problems? Here's How You Can Repair Your Microphone
-date: 2024-12-08T22:28:26.657Z
-updated: 2024-12-10T20:01:32.220Z
+date: 2024-12-10T21:47:19.460Z
+updated: 2024-12-16T16:15:38.421Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Is your **Corsair Void Mic Not Working** ? Don’t worry, it’s often quite eas
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes For**Corsair Void Mic Not Working**
@@ -49,6 +49,10 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
@@ -56,10 +60,6 @@ Here’s how to do it:
  4) Check your **Corsair Void headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, please try **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -80,7 +80,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -91,6 +91,10 @@ Here’s how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Adjust your audio settings
 
  Ideally Windows can automatically detect your microphone and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -100,10 +104,6 @@ Here is how to do it:
  1) Right-click on **the sound icon** on the lower-right of your computer screen, then click **Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13543b462f5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Click the **Recording** tab, then click on **Headset** **Microphone Corsair VOID Wireless Gaming Dongle** and click **Set Default** .
 
@@ -126,7 +126,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Check for hardware issues
@@ -158,21 +158,24 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-seamless-online-gif-to-video-conversion-top-5-for-2024/"><u>[Updated] Seamless Online GIF to Video Conversion (Top 5) for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/hering-content-control-youtube-vs-creative-commons-license-for-2024/"><u>Deciphering Content Control YouTube Vs. Creative Commons License for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-window-11s-perpetual-reboot-problem/"><u>Diagnosing and Repairing Window 11'S Perpetual Reboot Problem</u></a></li>
-<li><a href="https://facebook.techidaily.com/dive-into-facebooks-updated-policy-framework-with-hub-debut/"><u>Dive Into Facebook’s Updated Policy Framework with Hub Debut</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-11-pro-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 11 Pro Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-10-sites-for-high-end-vector-graphics/"><u>In 2024, Top 10 Sites for High-End Vector Graphics</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/photographic-precision-the-ultimate-list-of-photo-framing-software-for-2024/"><u>Photographic Precision The Ultimate List of Photo Framing Software for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-silent-bluetooth-pairings-a-comprehensive-fix-guide/"><u>Resolving Silent Bluetooth Pairings - A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-the-issue-of-no-sound-in-anthem-on-your-new-windows-11-pc/"><u>Resolving the Issue of No Sound in Anthem on Your New Windows 11 PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restored-harmony-expert-tips-for-when-your-laptops-headphone-jack-is-silent-no-more/"><u>Restored Harmony: Expert Tips for When Your Laptop's Headphone Jack Is Silent No More</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-the-audio-expert-solutions-for-silent-hp-notebook-users/"><u>Revive the Audio: Expert Solutions for Silent HP Notebook Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-turtle-beach-recon-eby-fixing-a-non-functional-mic/"><u>Reviving Your Turtle Beach Recon Eby Fixing a Non-Functional Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silenced-airpods-get-them-working-with-sound-again-on-your-windows-computer-version-111n/"><u>Silenced AirPods? Get Them Working with Sound Again on Your Windows Computer (Version 11/1N)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-how-to-repair-non-functional-mic-on-steelseries-arctis-pro/"><u>Solution Guide: How to Repair Non-Functional Mic on SteelSeries Arctis Pro</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-realme-c51-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Realme C51 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixed-headphones-not-showing-up-in-playback-devices-on-windows-11/"><u>[Fixed] Headphones Not Showing Up in Playback Devices on Windows 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-navigating-copyright-laws-when-turning-social-media-videos-into-gifs-for-educational-purposes/"><u>[New] In 2024, Navigating Copyright Laws When Turning Social Media Videos Into GIFS for Educational Purposes</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-tagging-techniques-to-skyrocket-your-game-vids/"><u>[Updated] In 2024, Tagging Techniques to Skyrocket Your Game Vids</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimizing-podcast-visibility-via-instagram-channels/"><u>2024 Approved Optimizing Podcast Visibility via Instagram Channels</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-my-data-if-my-iphone-se-2022-screen-turns-black-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Can I recover my data if my iPhone SE (2022) screen turns black? | Stellar</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dive-into-securing-ai-with-openai-your-roadmap-to-contributing-in-the-bug-bounty-program/"><u>Dive Into Securing AI with OpenAI: Your Roadmap to Contributing in the Bug Bounty Program</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-when-your-logitech-g230-mic-stops-functioning/"><u>Effective Solutions for When Your Logitech G230 Mic Stops Functioning</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effortlessly-upgrade-to-extra-storage-space-for-just-12-how-i-converted-idle-ssds-into-external-backup-units/"><u>Effortlessly Upgrade to Extra Storage Space for Just $12 - How I Converted Idle SSDs Into External Backup Units</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhancing-your-gaming-soundscape-in-outriders-expert-advice-on-clearing-up-audio-hitches/"><u>Enhancing Your Gaming Soundscape in Outriders: Expert Advice on Clearing Up Audio Hitches</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-kick-starting-the-dolby-audio-driver-under-windows-11-a-comprehensive-fix/"><u>Expert Advice on Kick-Starting the Dolby Audio Driver Under Windows 11 - A Comprehensive Fix</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-bluetooth-sound-delay-simple-steps-for-a-smooth-listening-experience/"><u>Fixing Bluetooth Sound Delay: Simple Steps for a Smooth Listening Experience</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-12-mini-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 12 mini</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-efficient-video-downloading-vimeo-to-mp4-tutorial/"><u>In 2024, Efficient Video Downloading Vimeo to MP4 Tutorial</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/neues-leben-in-deutschen-zahlen-eine-einfuhrung-ab-1-100/"><u>Neues Leben in Deutschen Zahlen: Eine Einführung Ab 1-100</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-windows-10-users-with-nonworking-headset-devices/"><u>Quick Fixes for Windows 10 Users with Nonworking Headset Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionary-update-apple-music-unveils-groundbreaking-feature-to-transfer-spotify-lists-seamlessly/"><u>Revolutionary Update: Apple Music Unveils Groundbreaking Feature to Transfer Spotify Lists Seamlessly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-steps-for-resolving-google-hangouts-microphone-problems-quickly/"><u>Simple Steps for Resolving Google Hangouts Microphone Problems Quickly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-fixing-sudden-popping-audio-problems-on-windows/"><u>Step-by-Step Guide to Fixing Sudden 'Popping' Audio Problems on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-audio-improvement-tool-deactivation-tips-for-better-listening-experience/"><u>Windows 11 Audio Improvement Tool Deactivation Tips for Better Listening Experience</u></a></li>
 </ul></div>
 

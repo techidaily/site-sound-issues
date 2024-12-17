@@ -1,7 +1,7 @@
 ---
 title: Google Chrome Audio Restored – Fixing the Silent Mode Dilemma
-date: 2024-08-23T12:24:05.817Z
-updated: 2024-08-24T12:24:05.817Z
+date: 2024-12-10T18:57:33.520Z
+updated: 2024-12-16T23:22:30.126Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 
  If your**Astro A50 headset’s microphone** **is not working** , please check the[microphone troubleshooting guide](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  We’ve put together 4 simple fixes for you when your Astro A50 has no sound. You may not need to try them all; just walk your way down until you find the one that works.
@@ -27,6 +31,10 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 2. [**Set your Astro A50 as the default**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update the sound card driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Disable Audio Enhancement**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Troubleshoot the connection
 
@@ -41,17 +49,16 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 ![connect astro a50](https://images.drivereasy.com/wp-content/uploads/2021/02/connect.jpg)
 5. Ensure that the game voice balance on the right ear cup of the headset is somewhere in the middle.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When the connections are fine, but the Astro A50 no sound issue persists, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Set your Astro A50 as the default
 
  Next, you need to**check if your headset is properly configured on Windows** .
@@ -61,11 +68,12 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 1. Right-click the **volume icon** at the bottom right corner, and click **Open Volume mixer** .  
 ![open volume mixer](https://images.drivereasy.com/wp-content/uploads/2021/02/open-volume-mixer.jpg)
 2. Make sure all the entries set at an appropriate level. In my case, I set headphones and my applications to 100.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![volume appropriate](https://images.drivereasy.com/wp-content/uploads/2021/02/volume-mixer.jpg)
 3. Now test and see if there is any sound from your Astro A50.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2\. Make sure your Astro A50 is set as default
 
@@ -75,9 +83,6 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 3. Go to the**Playback** tab and make sure your Astro A50 is the default output device and shows strong signals.  
 ![set as default](https://images.drivereasy.com/wp-content/uploads/2021/02/default-device.jpg)
 4. Test the audio.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 
 If the problem remains, you can move on to the next method.
 
@@ -101,18 +106,11 @@ If the problem remains, you can move on to the next method.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/de-update-all-Realtek-Audio.jpg)
 4. Restart your computer for the changes to take effect.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -124,23 +122,13 @@ If the problem remains, you can move on to the next method.
 1. On your keyboard, press the **Windows logo key** and **R** at the same time. Type in **mmsys.cpl** and press **Enter** .  
 ![playback settings](https://images.drivereasy.com/wp-content/uploads/2021/02/playback.jpg)
 2. Right-click your default playback device and click **Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![headphone properties](https://images.drivereasy.com/wp-content/uploads/2021/02/properties-headphone.jpg)
 3. Go to the **Enhancement** tab. Select the box for **Disable all enhancements** , and click **Apply** \> **OK** to save.  
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![audio emhancements](https://images.drivereasy.com/wp-content/uploads/2021/02/audio-1.jpg)
 4. Test the audio.
 
@@ -158,8 +146,6 @@ If the problem remains, you can move on to the next method.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +153,26 @@ If the problem remains, you can move on to the next method.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-glacial-gala-winter-olympics-excellence/"><u>[New] Glacial Gala Winter Olympics Excellence</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-6-secure-mc-domains-for-2024/"><u>[New] Top 6 Secure MC Domains for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeo-revenue-a-step-by-step-money-making-blueprint/"><u>[Updated] In 2024, Vimeo Revenue A Step-by-Step Money-Making Blueprint</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-21plus-puzzling-pictures-assemble-a-joyous-vision/"><u>2024 Approved 21+ Puzzling Pictures Assemble a Joyous Vision</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comment-rationaliser-efficientment-la-conversion-h264-en-h265-pour-diminuer-la-taille-du-fichier-sans-compromettre-la-qualite/"><u>Comment Rationaliser Efficientment La Conversion H.264 En H.265 Pour Diminuer La Taille Du Fichier Sans Compromettre La Qualité?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-troubleshooting-for-non-functioning-laptop-audio-systems/"><u>DIY Troubleshooting for Non-Functioning Laptop Audio Systems</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/download-full-length-lessons-in-mp4-from-teachertube-easy-conversion-guide/"><u>Download Full-Length Lessons in MP4 From TeacherTube - Easy Conversion Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-how-to-fix-your-broken-logiteche-g633-headset-microphone/"><u>Expert Advice on How to Fix Your Broken Logiteche G633 Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-resolving-nonfunctional-headphone-issue-on-windows-7-pcs/"><u>Expert Tips: Resolving Nonfunctional Headphone Issue on Windows 7 PCs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-defeating-dissidence-a-guide-for-content-makers/"><u>In 2024, Defeating Dissidence A Guide for Content Makers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-honor-v-purse-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Honor V Purse ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/insider-tips-for-fixing-audio-problems-in-resident-evil-village-title/"><u>Insider Tips for Fixing Audio Problems in Resident Evil Village Title</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016027727-insiders-trick-for-fixing-nonfunctional-speakers-in-the-latest-windows-os/"><u>Insider's Trick for Fixing Nonfunctional Speakers in the Latest Windows OS!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722960875926-optimize-your-wireless-connection-access-updated-drivers-for-killer-e2500-chips-at-no-cost/"><u>Optimize Your Wireless Connection: Access Updated Drivers for Killer E2500 Chips at No Cost!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-the-roar-of-battle-how-to-get-sounds-back-in-valheim-for-pc-players/"><u>Restoring the Roar of Battle: How to Get Sounds Back in Valheim for PC Players</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-2024-solution-resolving-rec-room-microphone-problems-on-personal-computers/"><u>The Definitive 2024 Solution: Resolving Rec Room Microphone Problems on Personal Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-discord-voice-here-are-the-fixes-you-need/"><u>Trouble with Discord Voice? Here Are the Fixes You Need!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-issues-when-your-discord-voice-call-wont-connect/"><u>Troubleshooting: Fixing Issues When Your Discord Voice Call Won't Connect</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-xiaomi-civi-3-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Xiaomi Civi 3 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+</ul></div>
 

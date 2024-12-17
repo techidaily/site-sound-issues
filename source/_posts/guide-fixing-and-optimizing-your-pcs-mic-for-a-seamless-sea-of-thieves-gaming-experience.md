@@ -1,7 +1,7 @@
 ---
 title: "Guide: Fixing and Optimizing Your PC's Mic for a Seamless Sea of Thieves Gaming Experience"
-date: 2024-12-06T17:04:45.636Z
-updated: 2024-12-10T16:57:37.831Z
+date: 2024-12-16T00:43:37.367Z
+updated: 2024-12-17T00:39:51.928Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not have to try them all; simply work down the list until you find the one that works for you.
@@ -34,15 +38,15 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
 6. [**Close conflicting software**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Change your audio channel](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check your headphone or speaker
 
  When troubleshooting audio problems, the first thing is to check your cable connection. You should check if the cables have worn out, and make sure they’re securely plugged into the right port.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-port.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also try to plug in the cables again and see if you hear any sound. If possible, you can connect to other devices such as your cellphone or MP3 player for troubleshooting.
 
@@ -60,18 +64,14 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/no-sound-set-default-format.jpg)
 4. Navigate to the**Advanced** tab. Under the**Default Format** section, select a different sample rate and bit depth, then click**Test** . Repeat this process until you find a format that works with your device. Then click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/no-sound-set-default-format-2.jpg)
 5. Launch Modern Warfare and see if you hear any sound.
 
- If this method doesn’t give you any luck, please continue to the next one.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If this method doesn’t give you any luck, please continue to the next one.
 
 ### Fix 3: Run the Windows audio troubleshooter
 
@@ -81,18 +81,18 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/troubleshoot-settings.jpg)
 2. Click**Additional troubleshooters** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/troubleshoot-settings-2.jpg)
 3. Select**Playing Audio** and click**Run the troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/troubleshoot-settings-3.jpg)
 4. Follow the on-screen instructions to troubleshoot your audio issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After running the troubleshooter, you can join a game and see how things go.
@@ -100,7 +100,7 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
  If the troubleshooter failed to detect your issue, please check out the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
@@ -122,10 +122,6 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
  Once you’ve updated your audio driver, restart your computer and see if it fixes your problem.
 
  If updating audio driver doesn’t do the trick for you, please take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Install all the Windows updates
 
@@ -150,10 +146,6 @@ You can now open Modern Warfare and check the in-game audio.
 
  Some players reported that they managed to get the sound back by closing programs that have audio output. You can try this method by closing apps such as**Discord** ,**Skype** and**Chrome** , as they might affect the in-game audio.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Change your audio channel
 
  In some cases, output devices with some high-end features (e.g. 5.1 surround sound) might not work so well on your system, so you’ll need to change your audio channel for the audio output. This solution also apply to the case where players have only cinematic music and no sound effects.
@@ -164,6 +156,10 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap106.jpg)
 2. Navigate to the **Playback** tab. Select your **default playback device** and click **Configure** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-audio-channel-1.jpg)
 3. For**Audio channels** , select**Stereo** and click**Next** .  
 
@@ -171,13 +167,17 @@ Here’s how to do it:
 4. Check the box **next to Front left and right** . Then click **Next** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap109.jpg)
 5. Click **Finish** to save the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap110.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -198,18 +198,22 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-discovering-logitechs-top-tier-4k-video-camera/"><u>[New] Discovering Logitech's Top-Tier 4K Video Camera</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-unveil-prodigious-profits-with-our-12-top-tycoon-gaming-selection/"><u>[Updated] 2024 Approved Unveil Prodigious Profits with Our #12 Top Tycoon Gaming Selection</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-capturing-itunes-media-three-recording-techniques-for-2024/"><u>[Updated] Capturing iTunes Media Three Recording Techniques for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-cutting-edge-concepts-for-captivating-youtube-video-thumbnails/"><u>[Updated] Cutting-Edge Concepts for Captivating YouTube Video Thumbnails</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/2024-solutions-to-fix-voicemod-functionality-problems/"><u>2024 Solutions to Fix Voicemod Functionality Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/astro-a20-sound-troubles-straightforward-repair-steps-for-a-broken-mic/"><u>Astro A20 Sound Troubles: Straightforward Repair Steps for a Broken Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bypassing-common-windows-11-glitches-with-working-headphones/"><u>Bypassing Common Windows 11 Glitches with Working Headphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/clear-crisp-audio-awaits-troubleshooting-your-bluetooth-sound-hiccups-on-windows/"><u>Clear, Crisp Audio Awaits: Troubleshooting Your Bluetooth Sound Hiccups on Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016119876-corsair-void-microphone-problems-heres-how-to-fix-them/"><u>Corsair Void Microphone Problems? Here's How to Fix Them</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-no-sound-on-laptop-built-in-speakers-effective-fixes/"><u>Diagnosing and Repairing No Sound on Laptop Built-In Speakers – Effective Fixes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gamifying-language-text-based-quests-via-chatgpt/"><u>Gamifying Language: Text-Based Quests via ChatGPT</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-taking-screen-captures-on-a-hewlett-packard-notebook/"><u>Mastering the Art of Taking Screen Captures on a Hewlett-Packard Notebook</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-on-device-artific/"><u>Understanding On-Device Artific</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instas-music-guide-essentials/"><u>[New] In 2024, Insta's Music Guide Essentials</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-premier-mobile-and-desktop-mkv-software/"><u>[Updated] In 2024, Premier Mobile & Desktop MKV Software</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-revolutionize-editing-the-secret-techniques-for-background-obliteration-in-affinity-for-2024/"><u>[Updated] Revolutionize Editing The Secret Techniques for Background Obliteration in Affinity for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-intergalactic-visions-the-best-sci-fi-movies-in-virtual-universes/"><u>2024 Approved Intergalactic Visions The Best Sci-Fi Movies in Virtual Universes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/elevate-your-audio-levels-a-comprehensive-guide-to-increasing-volume-in-windows-10/"><u>Elevate Your Audio Levels: A Comprehensive Guide to Increasing Volume in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-mpow-mic-up-and-running-a-step-by-step-guide-for-windows-users/"><u>Getting Your MPOW Mic Up and Running: A Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/green-walls-in-grey-buildings-a-step-towards-eco-cities-for-2024/"><u>Green Walls in Grey Buildings A Step Towards Eco-Cities for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-vivo-s17-pro-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Vivo S17 Pro Through Google Earth?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-samsung-galaxy-a25-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Samsung Galaxy A25 5G Phone Screen?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-redragon-microphone-problems-on-windows-computers-with-simple-fixes/"><u>Overcome Redragon Microphone Problems on Windows Computers with Simple Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-issues-with-your-logitech-g733-microphone-a-comprehensive-guide/"><u>Overcoming Issues with Your Logitech G733 Microphone - A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-silent-modems-tips-for-restoring-laptop-audio-functionality/"><u>Resolving Silent Modems: Tips for Restoring Laptop Audio Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-solution-for-a-nonfunctional-steelseries-arctis-pro-mic/"><u>The Ultimate Solution for a Nonfunctional SteelSeries Arctis Pro Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-lack-of-audio-in-call-of-duty-black-ops-cold-war-for-windows-users/"><u>Troubleshooting Complete Lack of Audio in Call of Duty: Black Ops - Cold War for Windows Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-when-your-astro-a2-mic-wont-work/"><u>Troubleshooting Steps When Your Astro A2 Mic Won't Work</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/wi-fi-6e-unveiled-how-it-shapes-the-present-of-connectivity-while-navigating-its-challenges-zdnet/"><u>Wi-Fi 6E Unveiled: How It Shapes the Present of Connectivity While Navigating Its Challenges | ZDNet</u></a></li>
 </ul></div>
 

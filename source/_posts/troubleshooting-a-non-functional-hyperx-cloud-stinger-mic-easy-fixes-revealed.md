@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting a Non-Functional HyperX Cloud Stinger Mic - Easy Fixes Revealed
-date: 2024-12-07T17:05:43.059Z
-updated: 2024-12-10T20:52:19.374Z
+date: 2024-12-12T23:28:21.513Z
+updated: 2024-12-16T17:29:19.149Z
 tags:
   - win11
   - win10
@@ -38,7 +38,7 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 * **Check the mute switches** on your microphone and make sure it’s disabled.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Run the audio troubleshooter
@@ -50,10 +50,14 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 2. Scroll down to**Recording Audio** . Then select it and click**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/run-troubleshooter-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for the process to complete and follow the on-screen instructions to repair the detected issues. If your microphone still doesn’t work, proceed to the next method.
 
@@ -73,7 +77,7 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 5. Scroll to locate Allow desktop apps to access your microphone, and set the option to**On** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-2.jpg)
@@ -90,23 +94,15 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-2-1.jpg)
 3. Select the**Recording** tab. Then right-click your Onikuma headset mic and click**Enable** (if it’s not) and click**Set as Default Device** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you don’t see it listed, right-click any blank space and tick**Show Disabled Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-0-1.jpg)
 4. Right-click the microphone again and select**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-3-1.jpg)
 5. On the**Levels** tab, check whether the microphone is muted. If yes, click the**speaker icon** to unmute it and**drag the volume slider to the max** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-8-1.jpg)
@@ -114,6 +110,10 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
  In some cases, Onikuma headset mic not working only occurs in specific applications. If so, you should**check the application settings** and manually**set the Onikuma headset as your preferred audio device** .
 
  If this method doesn’t help either, move on to the next fix to check your audio driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Update your audio driver
 
@@ -169,20 +169,24 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-ultimate-mic-showdown-for-podcasters/"><u>[New] 2024 Approved Ultimate Mic Showdown for Podcasters</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-essential-guide-integrating-virtual-backgrounds-for-webcasters-for-2024/"><u>[Updated] Essential Guide Integrating Virtual Backgrounds for Webcasters for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-11-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Realme 11 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-vivo-v29-pro-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Vivo V29 Pro Phone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/infographic-insight-whats-hot-on-23-social-sphere/"><u>Infographic Insight What's Hot on '23 Social Sphere</u></a></li>
-<li><a href="https://video-capture.techidaily.com/quick-and-simple-methods-speedy-conversion-from-amv-to-avi-format/"><u>Quick & Simple Methods: Speedy Conversion From AMV to AVI Format</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/roku-or-fire-tv-stick-choosing-the-perfect-streaming-device/"><u>Roku or Fire TV Stick: Choosing the Perfect Streaming Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-functionality-of-non-working-stereo-mixes/"><u>Solved! How to Restore Functionality of Non-Working Stereo Mixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-common-problems-with-the-sennheiser-headset-microphone-in-games/"><u>Solving Common Problems with the Sennheiser Headset Microphone in Games</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-bluetooth-not-working-error-for-windows-11-users/"><u>Solving the 'Bluetooth Not Working' Error for Windows 11 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-when-your-hyperx-cloud-mic-fails-to-work-properly/"><u>Step-by-Step Fixes When Your HyperX Cloud Mic Fails to Work Properly</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-complete-guide-to-scheduling-and-recording-online-meetings-with-slack-and-filmora/"><u>The Complete Guide to Scheduling & Recording Online Meetings with Slack & Filmora</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-noiseless-astro-a50-speakers-in-minutes-with-these-tips/"><u>Troubleshoot Noiseless Astro A50 Speakers in Minutes with These Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-your-airpods-microphone-issues-on-windows-10/"><u>Troubleshooting Guide: How to Fix Your AirPods Microphone Issues on Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-non-functional-microphone-on-the-turtle-beach-elite-atlas/"><u>Troubleshooting Steps for Non-Functional Microphone on the Turtle Beach Elite Atlas</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-ultimate-tutorial-from-webp-to-jpeg/"><u>[Updated] 2024 Approved Ultimate Tutorial From WebP to JPEG</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-earning-on-youtube-a-step-by-step-guide-for-newbies/"><u>[Updated] Earning on YouTube A Step-by-Step Guide for Newbies</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-navigating-the-obscured-realm-of-youtube-a-methodical-approach-for-2024/"><u>[Updated] Navigating the Obscured Realm of YouTube A Methodical Approach for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-headset-woes-overcome-common-issues-with-easy-repairs-and-adjustments/"><u>Corsair Headset Woes? Overcome Common Issues with Easy Repairs and Adjustments</u></a></li>
+<li><a href="https://windows11.techidaily.com/decode-and-dissolve-rectifying-win11-webcam-issue-error-a00f4289/"><u>Decode & Dissolve: Rectifying Win11 Webcam Issue - Error A00F4289</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-solving-sound-issues-turtle-beach-elite-atlas-mic-failure-guide/"><u>Diagnosing and Solving Sound Issues: Turtle Beach Elite Atlas Mic Failure Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-poco-x6-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Poco X6 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-samsung-galaxy-a14-4g-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Samsung Galaxy A14 4G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-se-2022-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone SE (2022) Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-alpha-mic-not-working-heres-how-to-restore-functionality/"><u>HyperX Cloud Alpha Mic Not Working? Here's How to Restore Functionality!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014761595-immediate-remedies-for-lack-of-sound-on-astro-a50-headphones-get-the-fix-now/"><u>Immediate Remedies for Lack of Sound on Astro A50 Headphones - Get the Fix Now</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-formulating-flashy-podcast-moments/"><u>In 2024, Formulating Flashy Podcast Moments</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-tecno-camon-20-premier-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Tecno Camon 20 Premier 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/instant-fixes-for-pc-audio-problems-regain-sound-without-delay/"><u>Instant Fixes for PC Audio Problems: Regain Sound Without Delay</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-troubleshoot-your-astro-a50-when-theres-no-audio/"><u>Quick Solutions: Troubleshoot Your Astro A50 When There's No Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-how-to-restore-voice-communication-in-back-4-blood/"><u>Resolved! How to Restore Voice Communication in 'Back 4 Blood'</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-the-main-earphone-socket-issues/"><u>Troubleshooting and Repairing the Main Earphone Socket Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-for-starting-dolby-sound-system-driver-in-windows-10-operating-system/"><u>Troubleshooting Guide for Starting Dolby Sound System Driver in Windows 10 Operating System</u></a></li>
 </ul></div>
 

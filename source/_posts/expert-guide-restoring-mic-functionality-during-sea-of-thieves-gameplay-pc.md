@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Restoring Mic Functionality During Sea of Thieves Gameplay (PC)"
-date: 2024-12-07T19:59:41.580Z
-updated: 2024-12-10T19:28:32.407Z
+date: 2024-12-14T22:34:30.471Z
+updated: 2024-12-17T00:02:11.251Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -39,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
 5. [Troubleshoot hardware issues](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn on app permissions for your microphone
@@ -56,9 +52,17 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
   
 ![turn on app permissions on your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/turn-on-app-permissions-for-your-micropho0ne.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Under the**Allow apps to access your microphone** section, make sure it’s turned**On** .  
   
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Once you’ve allowed microphone access to your apps, you can change the settings for each app. Simply head to the**Choose which Microsoft apps can access your microphone** , and turn on apps you want to use with it. For desktop apps, make sure that**Allow desktop apps to access your microphone** is turned**On** .
 
@@ -78,17 +82,21 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
   
 ![sound settings input section](https://images.drivereasy.com/wp-content/uploads/2021/02/Input-section-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Make sure that your headset is not disabled.  
   
 ![make sure your headset isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/02/make-sure-your-headset-isnt-disabled.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After you’ve confirmed that your microphone is enabled, do a test to check if it’s now back to normal. If the microphone is still not working properly, try the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Set your microphone device as default
 
@@ -97,10 +105,6 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
  1) Right-click on the Speaker icon on the bottom-right corner of your screen. Then select**Open Sound settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Scroll down to the section of **Related Settings** and click **Sound Control Panel** .  
   
@@ -113,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
  When it’s all done, use your microphone to check if it’s working now. If you’re still having the same problem, try the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Update your audio driver
 
@@ -133,19 +141,11 @@ Here’s how to update drivers with Driver Easy:
 
 ![update audio driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/12/update-audio-driver-automatically-with-Driver-Easy.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and do a mic test to check if it’s back to a normal state. If the microphone is still not working properly, try the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Troubleshoot hardware issues
 
@@ -174,24 +174,17 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-step-by-step-audio-preservation-in-the-digital-age/"><u>[New] 2024 Approved Step-by-Step Audio Preservation in the Digital Age</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-comprehensive-m1-max-clip-insight/"><u>[New] 2024 Approved The Comprehensive M1 Max Clip Insight</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-crafting-personalized-instagram-story-sections/"><u>[New] Crafting Personalized Instagram Story Sections</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-savvy-elevating-your-photographic-style-with-app-edits/"><u>[Updated] Snapchat Savvy Elevating Your Photographic Style with App Edits</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-future-of-cosmetics-youtube-gurus-on-the-rise/"><u>2024 Approved Future of Cosmetics YouTube Gurus on the Rise</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ace-the-upgrade-how-to-rectify-problems-when-installing-windows-11-on-your-device/"><u>Ace the Upgrade: How to Rectify Problems When Installing Windows 11 on Your Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/clear-audio-capture-eliminating-crackles-and-pop-ins-from-your-arctic-7-mic-on-a-pc/"><u>Clear Audio Capture: Eliminating Crackles and Pop-Ins From Your Arctic 7 Mic on a PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/creative-journey-combining-mindmaps-and-chatai/"><u>Creative Journey: Combining Mindmaps & ChatAI</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-strategies-to-fix-your-games-audio-issues-in-new-world/"><u>Expert Strategies to Fix Your Game's Audio Issues in New World</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-fixing-overwatchs-stalled-push-to-talk-communication-tool/"><u>Expert Tips for Fixing Overwatch's Stalled Push-to-Talk Communication Tool</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-resolving-sound-problems-in-windows-7-computers/"><u>Expert Tips for Resolving Sound Problems in Windows 7 Computers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fast-solutions-repairing-your-oculus-rift-s-headset-microphone-in-minutes-2024-edition/"><u>Fast Solutions: Repairing Your Oculus Rift S Headset Microphone in Minutes - 2024 Edition</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-no-audio-issue-with-usb-headphones-on-windows-7/"><u>Fixing the No Audio Issue with USB Headphones on Windows 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-back-your-sound-troubleshooting-zoom-microphone-problems-for-pc-users/"><u>Get Back Your Sound: Troubleshooting Zoom Microphone Problems for PC Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-activate-your-dolby-digital-live-sound-drivers-on-a-windows-11-pc/"><u>How To Activate Your Dolby Digital Live Sound Drivers on a Windows 11 PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-your-dota-2-pcs-non-functional-mic-problem/"><u>How to Resolve Your Dota 2 PC's Non-Functional Mic Problem</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-infinix-smart-7-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Infinix Smart 7 FRP</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/optical-opus-the-elite-list-of-8k-cameras/"><u>Optical Opus The Elite List of 8K Cameras</u></a></li>
-<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Vivo T2x 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-effortless-methods-to-swiftly-erase-signatures-for-2024/"><u>[New] Effortless Methods to Swiftly Erase Signatures for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-elite-gaming-spectacle-cut-to-best-7-shooters/"><u>[Updated] 2024 Approved Elite Gaming Spectacle Cut to Best 7 Shooters</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-of-android-collage-a-curation-of-superiority/"><u>[Updated] Best-Of Android Collage A Curation of Superiority</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-spotifys-top-10-viral-songs/"><u>[Updated] Spotify’s Top 10 Viral Songs</u></a></li>
+<li><a href="https://win-info.techidaily.com/comment-recuperer-des-images-specifiques-a-partir-dun-backup-complet-du-systeme-windows-10-une-methode-etape-par-etape/"><u>Comment Récupérer Des Images Spécifiques À Partir D'un Backup Complet Du Système Windows 10 : Une Méthode Étape Par Étape</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-airpods-back-to-normal-a-comprehensive-guide-for-fixing-the-mic-on-windows-pc/"><u>Get Your AirPods Back to Normal: A Comprehensive Guide for Fixing the Mic on Windows PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-recognize-and-setup-unidentified-speakers-with-windows-11-drivers/"><u>How to Recognize and Setup Unidentified Speakers with Windows 11 Drivers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-in-anthem-after-upgrading-to-windows-11/"><u>How to Restore Audio in Anthem After Upgrading to Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-dolby-speaker-setup-errors-start-your-dolby-driver-successfully-in-windows-10/"><u>Overcoming Dolby Speaker Setup Errors: Start Your Dolby Driver Successfully in Windows 10</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pro-level-hdr-techniques-elevate-your-photography-skills-for-2024/"><u>Pro-Level HDR Techniques Elevate Your Photography Skills for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-sound-interruptions-in-windows-11-a-comprehensive-guide/"><u>Resolving Sound Interruptions in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/when-order-falls-premium-lineup-of-best-zombie-games-for-2024/"><u>When Order Falls Premium Lineup of Best Zombie Games for 2024</u></a></li>
 </ul></div>
 

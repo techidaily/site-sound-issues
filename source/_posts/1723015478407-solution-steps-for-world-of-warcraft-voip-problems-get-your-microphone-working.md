@@ -1,7 +1,7 @@
 ---
 title: Solution Steps for World of Warcraft VOIP Problems – Get Your Microphone Working!
-date: 2024-08-23T12:18:10.577Z
-updated: 2024-08-24T12:18:10.577Z
+date: 2024-12-10T23:49:42.742Z
+updated: 2024-12-16T19:31:41.819Z
 tags:
   - win11
   - win10
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd4f2b0a08.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Secondly: Ensure the sound is not muted**
 
  It could happen that the sound is muted by accident. Check the speaker icon at the bottom left corner of desktop, and make sure there is no red circle with a cross going through it.
@@ -63,6 +67,10 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9642d9827b4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Expand the category “**Sound, video and game controllers** “. Under this category, right-click on the audio device name. A context menu will pop up, then select **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd515db2c0.jpg)
@@ -72,8 +80,9 @@ Follow these steps:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Method 2: Update the audio driver**
 
  The problem can be caused by faulty audio drivers. The above steps above may resolve your laptop no sound issue, but if they don’t, you can update the audio driver. If you don’t have the time, patience or computer skills to update the audio driver manually,  you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -89,14 +98,9 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-405.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Update** button next to a flagged audio driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/)   – you’ll be prompted to upgrade when you click Update All).
@@ -104,8 +108,9 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-406.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Hopefully you can fix your laptop no sound issues with the steps above. If you have any questions, please feel free to leave your comment below.
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -116,8 +121,6 @@ Follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +128,26 @@ Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-from-action-to-archive-top-screenshot-tools-reviewed/"><u>[New] From Action to Archive Top Screenshot Tools Reviewed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-poll-power-play-best-election-strategy-games/"><u>[Updated] 2024 Approved Poll Power Play Best Election Strategy Games</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-thriving-in-the-digital-age-mastering-facebook-interaction-for-2024/"><u>[Updated] Thriving in the Digital Age Mastering Facebook Interaction for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-precision-preservation-adding-dates-to-photos-with-ease/"><u>2024 Approved Precision Preservation Adding Dates to Photos with Ease</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/5-best-mesh-wi-fi-network-kits-dominating-the-market-this-year/"><u>5 Best Mesh Wi-Fi Network Kits Dominating the Market This Year</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/battlefield-4-sound-issues-find-relief-in-our-detailed-fixes/"><u>Battlefield 4 Sound Issues? Find Relief in Our Detailed Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-8-best-no-cost-html-code-editors-available-for-windows/"><u>Discover the 8 Best No-Cost HTML Code Editors Available for Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-to-fix-failed-to-play-test-tone-error/"><u>Easy to Fix “Failed to Play Test Tone” Error</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-troubleshooting-a-non-functioning-webex-mic/"><u>Effective Solutions for Troubleshooting a Non-Functioning WebEx Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-when-your-hyperx-cloud-headset-mic-fails-to-work-properly/"><u>Effective Solutions When Your HyperX Cloud Headset Mic Fails to Work Properly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fast-track-fixes-for-audio-playback-error-test-tones-not-working/"><u>Fast-Track Fixes for 'Audio Playback Error: Test Tones Not Working'</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-airpods-issue-how-to-restore-audio-on-windows-11-or-10/"><u>Fixing the Silent AirPods Issue: How to Restore Audio on Windows 11 or 10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-your-iphones-microphone-capabilities-diagnosis-and-fixes-at-hand/"><u>How to Restore Your iPhone's Microphone Capabilities: Diagnosis and Fixes at Hand</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-wi-fi-6e-gigplus-driver-install-guide-version-updates-included/"><u>Intel Wi-Fi 6E (Gig+) Driver Install Guide - Version Updates Included</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-audio-timing-troubleshooting-delays-for-optimal-listening-experience-2erky/"><u>Mastering Audio Timing: Troubleshooting Delays for Optimal Listening Experience, 2Erky</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015627116-resolve-bluetooth-audio-delay-in-no-time-with-these-simple-fixes/"><u>Resolve Bluetooth Audio Delay in No Time with These Simple Fixes</u></a></li>
+<li><a href="https://facebook.techidaily.com/smart-strategies-no-cost-top-10-free-social-management-apps/"><u>Smart Strategies, No Cost - Top 10 Free Social Management Apps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-solving-your-sound-blaster-mic-issues/"><u>Troubleshooting Tips: Solving Your Sound Blaster Mic Issues</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-video-editing-face-off-sony-vegas-vs-adobe-premiere-pro-pros-cons-and-verdict/"><u>Updated 2024 Approved Video Editing Face-Off Sony Vegas vs Adobe Premiere Pro - Pros, Cons, and Verdict</u></a></li>
+</ul></div>
 

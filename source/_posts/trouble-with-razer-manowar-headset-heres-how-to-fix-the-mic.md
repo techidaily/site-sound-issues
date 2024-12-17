@@ -1,7 +1,7 @@
 ---
 title: Trouble with Razer ManO’War Headset? Here’s How to Fix the Mic
-date: 2024-12-05T18:48:02.179Z
-updated: 2024-12-10T16:12:04.638Z
+date: 2024-12-09T16:55:57.318Z
+updated: 2024-12-16T16:40:40.770Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all. Simply work your way down the list until you find the one that does the trick.
@@ -38,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
 4. **[Check sound settings](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Check in-game audio settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Perform basic troubleshooting
 
@@ -60,13 +60,13 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/microphone-allow-desktop-apps.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After you’ve done these, relaunch Vanguard to see if your voice chat works properly.
 
 If this fix doesn’t do the trick, check out the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -87,11 +87,11 @@ If this fix doesn’t do the trick, check out the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-scan-audio.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-update-all-realtek-audio.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -108,7 +108,7 @@ If this fix doesn’t do the trick, check out the next one.
 2. Under the**Playback** tab, select the**speakers or headphones** you want to use and click**Set Default** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/headphones-set-default.jpg)
@@ -121,11 +121,11 @@ If this fix doesn’t do the trick, check out the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/battle-net-settings-1.jpg)
 6. Select**Voice Chat** , then set**OUTPUT DEVICE** and**INPUT DEVICE** to**System Default Device** . Click**Done** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-voice-chat.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now launch Vanguard and see if you can talk to your teammates.
 
@@ -141,7 +141,7 @@ If the voice chat still doesn’t work, move on to the next fix.
 3. Navigate to the**AUDIO** tab. Under the**Voice Chat** section, make sure**VOICE CHAT** is set to**On** . Set**VOICE CHAT DEVICE** and**MICROPHONE DEVICE** to**Default Communication Device** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/vanguard-voice-chat-on.jpg)
@@ -150,6 +150,10 @@ If the voice chat still doesn’t work, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/vanguard-microphone-activation-mode.jpg)
 5. Set**VOICE CHAT VOLUME** and**MICROPHONE VOLUME** to a moderate value. Then set**VOICE CHAT EFFECT** to**No Effect** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/vanguard-voice-chat-volume.jpg)
 
 Now you can restart Vanguard and check if the voice chat is working.
@@ -157,7 +161,7 @@ Now you can restart Vanguard and check if the voice chat is working.
 If your problem remains, try the last fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Install all Windows updates
@@ -167,10 +171,6 @@ If your problem remains, try the last fix.
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the**Windows Settings** . Then select**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under Windows Update, click**Check for updates** . Then Windows will automatically download and install the available updates.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Windows update check for updates](https://images.drivereasy.com/wp-content/uploads/2021/10/Windows-update-check-for-updates.png)
 
@@ -198,24 +198,14 @@ If your problem remains, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-essential-mobile-tips-for-saving-your-snapchat-videos/"><u>[New] 2024 Approved Essential Mobile Tips for Saving Your Snapchat Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/est-youtube-video-reaction-ideas/"><u>[New] Best YouTube Video Reaction Ideas</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-uniting-sections-smoothly-inshot-transition-essentials/"><u>[Updated] In 2024, Uniting Sections Smoothly Inshot Transition Essentials</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-pitfall-of-superficial-engagement-on-insta-for-2024/"><u>[Updated] The Pitfall of Superficial Engagement on Insta for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-timekeeping-tutorial-setting-up-a-timer-in-obs-studio/"><u>2024 Approved Timekeeping Tutorial Setting Up a Timer in OBS Studio</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-to-the-powerful-features-of-the-linksys-ea8300-wireless-router-review/"><u>Comprehensive Guide to the Powerful Features of the Linksys EA8300 Wireless Router Review</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/crosshairs-on-complications-resolving-your-corsair-hs70s-silent-streak/"><u>Crosshairs on Complications: Resolving Your Corsair HS70's Silent Streak</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/dealing-with-recent-system-glitches-expert-tips-for-fixing-sounds/"><u>Dealing with Recent System Glitches: Expert Tips for Fixing Sounds</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015598348-diy-fixes-getting-your-logitech-g230-microphone-back-in-action/"><u>DIY Fixes: Getting Your Logitech G230 Microphone Back in Action</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-guide-repairing-non-functional-microphone-on-corsair-hs70-headphones/"><u>DIY Guide: Repairing Non-Functional Microphone on Corsair HS70 Headphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-diagnosing-and-solving-discord-audio-malfunctions-quickly/"><u>Expert Tips for Diagnosing and Solving Discord Audio Malfunctions Quickly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-hp-laptop-volume-issues-troubleshooting-guide-silent-mode-resolved/"><u>Fix HP Laptop Volume Issues: Troubleshooting Guide - Silent Mode Resolved!</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-how-to-quickly-capture-iphone-screens-on-the-fly/"><u>In 2024, How to Quickly Capture iPhone Screens on the Fly</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/mac-high-quality-video-and-audible-recording/"><u>Mac High-Quality Video & Audible Recording</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016533120-revitalize-your-webex-audio-the-essential-guide-to-mic-fixes-in-2n4/"><u>Revitalize Your Webex Audio - The Essential Guide to Mic Fixes in 2N4</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016252065-solving-destiny-2s-silent-streets-reactivating-voice-chat-for-gaming-communication/"><u>Solving Destiny 2'S Silent Streets: Reactivating Voice Chat for Gaming Communication.</u></a></li>
-<li><a href="https://facebook.techidaily.com/timing-your-marketing-to-reach-more-users/"><u>Timing Your Marketing to Reach More Users</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-strengths-and-weaknesses-of-using-webex-for-virtual-gatherings/"><u>Unveiling the Strengths and Weaknesses of Using Webex for Virtual Gatherings</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/winning-the-battle-against-unstable-sound-output-on-windows-10-a-step-by-step-guide/"><u>Winning the Battle Against Unstable Sound Output on Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-optimal-settings-for-watching-nba-live-streams/"><u>[New] 2024 Approved Optimal Settings for Watching NBA LIVE STREAMs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-premium-online-audio-solutions-guide/"><u>[New] Premium Online Audio Solutions Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unleashing-popularity-the-best-discord-screen-names-ever-for-2024/"><u>[New] Unleashing Popularity The Best Discord Screen Names Ever for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/crafting-your-signature-tone-a-comprehensive-zoom-recording-workshop-for-2024/"><u>Crafting Your Signature Tone A Comprehensive ZOOM Recording Workshop for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-avoid-pitfalls-in-facebooks-marketplace-space/"><u>How to Avoid Pitfalls in Facebook's Marketplace Space</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/immediate-solutions-for-fixing-voice-chat-problems-in-fortnite-get-started-today/"><u>Immediate Solutions for Fixing Voice Chat Problems in Fortnite - Get Started Today!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-resolving-the-silent-airpods-problem-on-windows-1110-systems/"><u>Restoring Audio: Resolving the Silent AirPods Problem on Windows 11/10 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-setting-up-new-audio-devices-on-windows-10/"><u>Step-by-Step Guide: Setting Up New Audio Devices on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-overcoming-issues-with-the-non-opening-of-realtek-sound-driver/"><u>Troubleshooting Guide: Overcoming Issues with the Non-Opening of Realtek Sound Driver</u></a></li>
 </ul></div>
 

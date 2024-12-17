@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Fixing Common Problems with the HyperX Cloud Stinger Headset
-date: 2024-12-09T18:04:26.116Z
-updated: 2024-12-10T21:27:52.732Z
+date: 2024-12-11T17:59:22.242Z
+updated: 2024-12-16T19:16:30.004Z
 tags:
   - win11
   - win10
@@ -45,15 +45,7 @@ Many users are reporting that they’re having microphone issues with their Hype
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/hyper-X.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Is the mic working now? If unfortunately not, you can try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Allow access to your headset microphone
 
@@ -68,6 +60,10 @@ Many users are reporting that they’re having microphone issues with their Hype
 ![Click the Start button](https://images.drivereasy.com/wp-content/uploads/2020/12/click-start.jpg)
 2. Select **Privacy** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Privacy.jpg)
 3. Click**Microphone** from the left pane.  
 
@@ -77,20 +73,28 @@ Many users are reporting that they’re having microphone issues with their Hype
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/make-sure-its-on.jpg)
 5. Scroll down and make sure the**Allow apps to access your microphone** is**On** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/allow-apps.jpg)
 6. Also, make sure the app you’re using now is turned on.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![select the app you're using and turn it on](https://images.drivereasy.com/wp-content/uploads/2020/12/which-app.jpg)
 7. Now check if HyperX Cloud Stinger’s microphone is working. If you have granted all the permissions to the microphone but you still can’t be heard, you can try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **To allow apps to access your Microphone on a Mac**
 
 1. Choose Apple menu ![](https://help.apple.com/assets/5E3B07C0094622B541F026E3/5E3B07C3094622B541F026EA/en_GB/2f77cc85238452e25cb517130188bf99.png) \>**System Preferences** , click**Sound** , then click**Input** .  
  (Note: _The options that appear depend on your Mac model and the audio devices plugged into your Mac._ )
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2. Select your headphone in the list of sound input devices and adjust the volume to make sure it can record your voice.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/micro.png)
@@ -98,14 +102,10 @@ Many users are reporting that they’re having microphone issues with their Hype
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/privacy-microphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you can talk to Siri but this app still isn’t working, check the app’s preferences to see if there are separate settings for input devices. But if everything works just fine in other apps, you can try reinstalling this app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Check your microphone settings
@@ -116,15 +116,19 @@ Many users are reporting that they’re having microphone issues with their Hype
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/control.png)
 2. In Control Panel, expand**View by** and select**Large icons** from the drop-down menu.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/large-icons.jpg)
 3. Select **Sound** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/sound.jpg)
 4. Select the **Recording** tab, then right-click on any empty place inside the device list and tick **Show Disabled Devices** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/show-disabled-devices.jpg)
 5. Make sure your HyperX headset is enabled and set as the default device. If not, right-click your headphone to**Enabl** e it and**Set as Default Device** .  
@@ -133,10 +137,6 @@ Many users are reporting that they’re having microphone issues with their Hype
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/properties-sound.jpg)
 7. Click the**Levels** tab, then drag the volume slider towards the largest value.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/levels-100.jpg)
 8. Click **OK** to apply the changes, then click**OK** from the last opened window.
@@ -161,6 +161,10 @@ Many users are reporting that they’re having microphone issues with their Hype
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)  
  You can also click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , which comes with**full technical support** and a**30-day money back guarantee** . You ’ll be prompted to upgrade when you click Update All.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Once the update is complete, restart your computer for it to take full effect and reinsert the headset.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -169,7 +173,7 @@ Many users are reporting that they’re having microphone issues with their Hype
  Now test your HyperX Cloud Stinger’s microphone by recording your voice and playing your recording.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Close other apps that have access to your headset microphone
@@ -182,10 +186,6 @@ Many users are reporting that they’re having microphone issues with their Hype
 
  Sometimes the culprit may not be on your audio or control box settings, but in the game or app, you use instead. Check the audio settings in the game, or in the app, then confirm whether this will make your HyperX Cloud Stinger mic work again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Perform Windows Update
 
  Microsoft keeps releasing new updates constantly; usually, you would want to have the latest update for security and compatibility fixes. If you haven’t installed the latest update, be sure to do it for this might fix your problem.
@@ -196,7 +196,7 @@ Many users are reporting that they’re having microphone issues with their Hype
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/check-for-updates-now.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Contact the manufacturer for troubleshooting
@@ -227,20 +227,22 @@ Many users are reporting that they’re having microphone issues with their Hype
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-elevate-your-presence-online-capture-high-definition-webcam-footage-in-vlc/"><u>[New] In 2024, Elevate Your Presence Online Capture High-Definition Webcam Footage in VLC</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-professional-tips-for-ios-screen-capture-techniques/"><u>[Updated] 2024 Approved Professional Tips for iOS Screen Capture Techniques</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-discovering-the-full-potential-of-toolwiz-app-2023-edition/"><u>[Updated] In 2024, Discovering the Full Potential of Toolwiz App, 2023 Edition</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-top-30-trending-tiktok-anime-inspirations/"><u>2024 Approved Top 30 Trending TikTok Anime Inspirations</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unraveling-the-purpose-behind-facebooks-blue-icon/"><u>2024 Approved Unraveling the Purpose Behind Facebook's Blue Icon</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-nokia-g42-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Nokia G42 5G</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-on-resolving-razer-manowar-microphone-failure/"><u>Expert Advice on Resolving Razer ManO'War Microphone Failure</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-repairing-the-inoperative-mic-on-an-oculus-quest-2-device/"><u>Expert Tips for Repairing the Inoperative Mic on an Oculus Quest 2 Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fast-fixes-for-bluetooth-audio-delay-simple-solutions/"><u>Fast Fixes for Bluetooth Audio Delay - Simple Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-black-ops-cold-war-missing-audio-issues-in-pc-version/"><u>Fix Black Ops: Cold War Missing Audio Issues in PC Version</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-quiet-speakers-expert-tips-to-restore-audio-on-windows-systems/"><u>Fix Your Quiet Speakers: Expert Tips to Restore Audio on Windows Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-issues-with-your-kotion-g2000-microphone-expert-tips-and-solutions/"><u>Fixing Issues with Your Kotion G2000 Microphone: Expert Tips and Solutions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-corsair-keyboard-up-and-running-on-windows-with-these-reliable-driver-downloads-free/"><u>Get Your Corsair Keyboard Up and Running on Windows with These Reliable Driver Downloads (Free)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/google-hangouts-mic-not-working-heres-how-to-solve-it-easily/"><u>Google Hangouts Mic Not Working? Here's How to Solve It Easily</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-webvidrecorder-download-fb-content-easily-for-2024/"><u>[New] WebVidRecorder Download FB Content Easily for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-broadcasting-showdown-deciding-between-obs-and-twitch-studio/"><u>[Updated] 2024 Approved Broadcasting Showdown Deciding Between OBS and Twitch Studio</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-free-open-source-video-conferencing-solutions-the-ultimate-list-for-corporates-and-schools/"><u>[Updated] Free, Open Source Video Conferencing Solutions The Ultimate List for Corporates & Schools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-easier-than-ever-2023s-fire-browser-addons-for-capturing-your-fb-videos/"><u>[Updated] In 2024, Easier Than Ever 2023'S Fire-Browser Addons for Capturing Your FB Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/5-key-solutions-to-repair-audio-malfunctions-on-windows-10-computers/"><u>5 Key Solutions to Repair Audio Malfunctions on Windows 10 Computers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/can-you-legally-change-files-to-epub-format-without-drm-restrictions/"><u>Can You Legally Change Files to ePUB Format Without DRM Restrictions?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-audiovisual-issues-in-new-world-game/"><u>Diagnosing and Repairing Audiovisual Issues in New World Game</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-steelseries-arctis-prime-microphone-working-again-a-step-by-step-tutorial/"><u>Get Your SteelSeries Arctis Prime Microphone Working Again: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-quickly-fix-a-non-functional-astro-a20-audio-input/"><u>How to Quickly Fix a Non-Functional Astro A20 Audio Input</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-on-your-logitech-g-pro-x-headset-effective-fixes-unveiled/"><u>How to Restore Sound on Your Logitech G Pro X Headset: Effective Fixes Unveiled</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-tiktok-profile-updates-with-linktree-integration/"><u>In 2024, Navigating TikTok Profile Updates with Linktree Integration</u></a></li>
+<li><a href="https://review-topics.techidaily.com/iphone-xs-data-recovery-software-to-recover-lost-ios-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone XS® Data Recovery Software to Recover Lost iOS® Data | Stellar</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-window-gloss-your-guide-to-a-clearer-taskbar-in-win11/"><u>Mastering Window Gloss: Your Guide to a Clearer Taskbar in Win11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-essential-202course-on-resolving-discords-audio-disruption-issues-a-complete-how-to/"><u>The Essential 202Course on Resolving Discord's Audio Disruption Issues - A Complete How-To</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-speaker-distortion-issues-on-windows-107-a-step-by-step-guide/"><u>Troubleshooting and Fixing Speaker Distortion Issues on Windows 10/7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-common-fixes-for-non-functional-voice-communication-in-pubg/"><u>Troubleshooting: Common Fixes for Non-Functional Voice Communication in PUBG</u></a></li>
+<li><a href="https://discover-able.techidaily.com/ultimate-guide-to-flac-file-splitting-discover-the-best-software-for-converting-single-flacs-into-multiple-tracks-with-cue-support/"><u>Ultimate Guide to FLAC File Splitting: Discover the Best Software for Converting Single FLACs Into Multiple Tracks with CUE Support</u></a></li>
 </ul></div>
 

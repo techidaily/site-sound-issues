@@ -1,7 +1,7 @@
 ---
 title: Stop the Popping Sounds in Your Speakers on Windows PCs (Windows 10 & 7)
-date: 2024-12-06T22:15:21.417Z
-updated: 2024-12-10T18:46:36.396Z
+date: 2024-12-14T22:19:38.080Z
+updated: 2024-12-17T00:53:33.428Z
 tags:
   - win11
   - win10
@@ -47,7 +47,15 @@ But first, ensure that your device has been connected and set correctly.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the Playback tab, select your device and click**Set Default** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/mi.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Go back to the Anthem and check it has sound or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run audio troubleshooting
 
@@ -56,15 +64,11 @@ But first, ensure that your device has been connected and set correctly.
 1. Press the **Windows logo key**  \+ **R** to open the Run box. Type “ms-settings: troubleshoot” and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/troubleshoot.jpg)
 2. Click **Playing Audio** . Then click **Run the troubleshooter** . Wait for the investigation complete. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/10-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Follow the on-screen instructions to finish the process.
 4. Restart your computer and check whether Anthem has sound or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Set the Default Format in the lowest mode
@@ -76,16 +80,8 @@ But first, ensure that your device has been connected and set correctly.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the **Playback** tab, choose the device you’re using and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click the **Advanced** tab, select the lowest setting on the Default Format drop-down menu. Then click **OK** . Back to the Sound window, click **Apply** \> **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/12.jpg)
 5. Reboot your computer and check whether Anthem has sound or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Uncheck “Disable all sound effects”
 
@@ -96,14 +92,14 @@ But first, ensure that your device has been connected and set correctly.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the **Playback** tab, choose the device you’re using and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. In the **Enhancements** tab, uncheck “**Disable all sound effects** “. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
 
 5. Click **Apply > OK** .
 6. Reboot your computer and go back to the game, you should have audio now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Update your audio driver
 
@@ -121,7 +117,7 @@ But first, ensure that your device has been connected and set correctly.
 3. Click the **Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -129,7 +125,11 @@ But first, ensure that your device has been connected and set correctly.
 4. Restart your computer and check the Anthem has sound or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Restart the game
@@ -159,22 +159,24 @@ But first, ensure that your device has been connected and set correctly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-ultimate-flashy-game-collection-quick-and-lightweight/"><u>[Updated] 2024 Approved Ultimate Flashy Game Collection - Quick and Lightweight</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/comprehensive-guide-converting-wmv-videos-to-mpeg-for-windows-users/"><u>Comprehensive Guide: Converting WMV Videos to MPEG for Windows Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eradicated-erratic-code-22-in-gdriver/"><u>Eradicated Erratic Code #22 in GDRIVER</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-mode-resolving-lack-of-sound-in-lenovo-laptops/"><u>Fixing Silent Mode: Resolving Lack of Sound in Lenovo Laptops</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-to-diagnose-and-repair-mysterious-speaker-setups-on-your-pc-with-windows-10/"><u>Guide to Diagnose and Repair Mysterious Speaker Setups on Your PC with Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/harmonizing-combat-and-exploration-addressing-silent-playthroughs-of-valheim-on-pc/"><u>Harmonizing Combat & Exploration: Addressing Silent Playthroughs of Valheim on PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-mic-functionality-on-your-steelseries-arctis-pro-step-by-step-fixes/"><u>How to Restore Mic Functionality on Your SteelSeries Arctis Pro - Step-by-Step Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-fixing-hdmi-audio-problems-from-laptop-or-desktop-to-tv-and-monitor/"><u>How To Restore Sound: Fixing HDMI Audio Problems From Laptop or Desktop to TV and Monitor</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hp-notebook-trouble-heres-how-to-get-your-windows-11-audio-working-again/"><u>HP Notebook Trouble? Here's How to Get Your Windows 11 Audio Working Again!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/immediate-solutions-to-restore-sound-on-your-computer-step-by-step-guide/"><u>Immediate Solutions to Restore Sound on Your Computer – Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/improve-your-listening-experience-guide-to-turning-off-sound-amplification-on-windows-10-devices/"><u>Improve Your Listening Experience - Guide to Turning Off Sound Amplification on Windows 10 Devices</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Realme V30T? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/no-pay-unlock-fcp-paths-to-a-free-edit-suite/"><u>No Pay? Unlock FCP Paths to a Free Edit Suite</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/sonneteers-struggle-versed-valiantry-against-woolly-kinfolk/"><u>Sonneteer's Struggle - Versed Valiantry Against Woolly Kinfolk</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/streamlining-short-form-content-leading-edits-for-iosandroid-for-2024/"><u>Streamlining Short-Form Content Leading Edits for iOS/Android for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oppo-find-x6-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Oppo Find X6 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-computer-speakers-of-2024-finding-the-perfect-match-from-economy-to-high-end/"><u>Top-Rated Computer Speakers of 2024: Finding the Perfect Match From Economy to High-End</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-immediate-favorites-weeks-top-youtube-clips/"><u>[Updated] Immediate Favorites Week's Top Youtube Clips</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-honor-90-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solutions-for-when-your-hyperx-cloud-mic-fails-to-function/"><u>DIY Solutions for When Your HyperX Cloud Mic Fails to Function</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/file-rejuvenation-toolkit-for-windows-os/"><u>File Rejuvenation Toolkit for Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-windows-10-sound-issues-a-comprehensive-guide/"><u>Fixing Windows 10 Sound Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-manage-and-reset-autocomplete-features-on-your-web-browsers/"><u>How to Manage and Reset Autocomplete Features on Your Web Browsers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-comprehensive-explanation-deciphering-google-podcasts-app/"><u>In 2024, Comprehensive Explanation Deciphering Google Podcasts App</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-farmers-fields-the-essential-10-agriculture-titles-for-playmates/"><u>In 2024, Farmers' Fields The Essential 10 Agriculture Titles for Playmates</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-honor-90-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Honor 90 Phones with/without a PC</u></a></li>
+<li><a href="https://facebook.techidaily.com/metas-influence-amplifying-creators-reels-and-their-profits/"><u>Meta's Influence: Amplifying Creators' Reels and Their Profits</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-ai-script-wondershare-virbo-online-for-2024/"><u>New AI Script | Wondershare Virbo Online for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-facebook-video-mute-mode-on-windows-expert-tips-and-hacks/"><u>Overcoming Facebook Video Mute Mode on Windows - Expert Tips & Hacks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-rich-audio-on-nvidia-systems-the-definitive-fixes-you-need/"><u>Reviving Rich Audio on Nvidia Systems: The Definitive Fixes You Need</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tech-redemption-story-strategies-for-apple-to-support-dissatisfied-customers-of-sonos-products/"><u>Tech Redemption Story: Strategies for Apple to Support Dissatisfied Customers of Sonos Products</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-your-oculus-quest-2s-mic-heres-how-you-can-fix-it/"><u>Trouble with Your Oculus Quest 2'S Mic? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-for-a-defective-headphone-jack-on-your-notebook-issues-resolved/"><u>Troubleshooting Guide for a Defective Headphone Jack on Your Notebook (ISSUES RESOLVED)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-mic-and-speaker-issues-in-sea-of-thieves-pc-guide/"><u>Troubleshooting Mic & Speaker Issues in Sea of Thieves: PC Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-sounds-in-new-world-tips-and-solutions-for-optimal-performance/"><u>Troubleshooting Sounds in 'New World': Tips and Solutions for Optimal Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-restoring-audio-functionality-in-lenovo-devices/"><u>Troubleshooting Tips for Restoring Audio Functionality in Lenovo Devices</u></a></li>
 </ul></div>
 

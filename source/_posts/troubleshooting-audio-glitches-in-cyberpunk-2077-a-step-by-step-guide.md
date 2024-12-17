@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Audio Glitches in Cyberpunk 2077: A Step-by-Step Guide"
-date: 2024-12-04T20:46:35.083Z
-updated: 2024-12-10T21:28:18.456Z
+date: 2024-12-10T19:34:40.914Z
+updated: 2024-12-16T21:15:08.933Z
 tags:
   - win11
   - win10
@@ -32,20 +32,20 @@ After several patches, many gamers are still reporting a no sound/no dialogue au
 4. [**Verify the integrity of your game files**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check the connection of your audio device
 
  Let’s start with some easy troubleshooting. If your in-game audio isn’t working, first you want to**make sure the physical connection is robust** . Be sure the cable is not broken, and is securely plugged into the correct headphone jack. You can also try a replug and see if it gets your audio back. And if you’re using a headset with a volume switch, make sure it’s set to a moderate value.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-port.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If the connection is fine, you can take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Make sure your audio device is set up properly
@@ -58,16 +58,8 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/open-sound-settings-1.jpg)
 2. Under the**Output** section, expand the menu below**Choose your output device** . Then select your desired output device. On the bar below**Master volume** , toggle the slider several times until you hear beeps coming out your device.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/set-up-output-device.jpg)
 3. Now you can launch Cyberpunk 2077 and test the audio.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If the problem remains, you can move on to the next method.
 
@@ -82,11 +74,15 @@ If the problem remains, you can move on to the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -123,6 +119,10 @@ Here’re the guides on how to do that on different platforms:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/epic-games-launcher-library.jpg)
 2. Click the Cyberpunk 2077 tile and click the icon with three dots. Then click **Verify** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-verify-epic-2.jpg)
 
  You might need to verify the game a couple of times to repair all the files.
@@ -130,6 +130,10 @@ Here’re the guides on how to do that on different platforms:
 Now launch Cyberpunk 2077 and see if you can hear anything.
 
 If this solution doesn’t help you, you can try the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
 
@@ -142,14 +146,10 @@ Here’s how:
 2. Click **Check for updates** . It might take up to an hour for Windows to download and install available updates.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -172,17 +172,14 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-explore-the-full-potential-of-picsart-a-comprehensive-review/"><u>[New] 2024 Approved Explore the Full Potential of PicsArt - A Comprehensive Review</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-quickcapture-stop-and-save-screenshot-command/"><u>[New] In 2024, QuickCapture Stop & Save Screenshot Command</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-how-to-sculpt-the-perfect-youtube-moniker-tips-and-tricks-for-2024/"><u>[Updated] How to Sculpt the Perfect YouTube Moniker Tips & Tricks for 2024</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/aacitunes/"><u>AAC形式でiTunesへ曲転送するための対処法</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-boundless-adventures-exploring-vr-in-games/"><u>In 2024, Boundless Adventures Exploring VR in Games</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-sudden-audio-disruptions-during-windows-11-sessions-effectively/"><u>Resolving Sudden Audio Disruptions During Windows 11 Sessions Effectively</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-soundscape-a-user-friendly-guide-to-resolving-hd-audio-problems-on-nvidia-graphics-cards/"><u>Restoring Soundscape: A User-Friendly Guide to Resolving HD Audio Problems on Nvidia Graphics Cards</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-battlefield-4-how-to-restore-your-game-audio/"><u>Silent Battlefield 4: How to Restore Your Game Audio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-restoring-soundscape-in-valheim-on-your-computer/"><u>Solution Guide: Restoring Soundscape in Valheim on Your Computer</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-hidden-exodus-uncovering-facebooks-user-drop/"><u>The Hidden Exodus: Uncovering Facebook's User Drop</u></a></li>
-<li><a href="https://win-web.techidaily.com/top-7-tools-and-extensions-for-screenshots-in-mozilla-firefox-how-to-guide/"><u>Top 7 Tools and Extensions for Screenshots in Mozilla Firefox - How To Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ffortless-youtube-playback-downloading-content-to-idevices-for-2024/"><u>[New] Effortless Youtube Playback Downloading Content to iDevices for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-step-into-the-future-samsungs-new-k850-ultrablade-unveiled/"><u>[New] In 2024, Step Into the Future - Samsung's New K850 UltraBlade Unveiled</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-lightweight-obs-adjustments-for-thriftier-systems-for-2024/"><u>[New] Lightweight OBS Adjustments for Thriftier Systems for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-popping-on-your-pc-lets-resolve-it-together-a-complete-walkthrough-for-windows-users/"><u>Audio Popping on Your PC? Let's Resolve It Together - A Complete Walkthrough for Windows Users</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/conversion-gratuita-online-de-archivos-asf-a-avi-mediante-movavi-compruebe-la-oferta-hoy/"><u>Conversión Gratuita Online De Archivos ASF a AVI Mediante Movavi - Compruebe La Oferta Hoy!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-solutions-to-eliminate-sound-issues-on-windows-11-a-five-step-strategy/"><u>Easy Solutions to Eliminate Sound Issues on Windows 11 - A Five-Step Strategy</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-audio-issues-how-to-troubleshoot-mic-problems-in-zoom-on-windows-11-and-10/"><u>Fixing Your Audio Issues: How to Troubleshoot Mic Problems in Zoom on Windows 11 and 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-pcs-discord-echo-issues-a-comprehensive-step-by-step-guide/"><u>Resolve Your PC's Discord Echo Issues: A Comprehensive Step-by-Step Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-honor-x8b-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Honor X8b Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

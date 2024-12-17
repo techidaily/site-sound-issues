@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Repair Steps for a Non-Functional HyperX Cloud Mic
-date: 2024-12-04T16:04:42.303Z
-updated: 2024-12-10T18:55:07.671Z
+date: 2024-12-15T21:04:53.289Z
+updated: 2024-12-16T22:31:14.610Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  **Before trying the fixes below, you should have a simple check first:**
@@ -41,10 +45,6 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1 – Allow access to your microphone on your PC
 
  If your Corsair HS35 is not activated in the Window settings, your PC will lack the access to your microphone and so the mic just won’t start to work at all. Follow these steps to allow access to your microphone:
@@ -54,17 +54,13 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 2. Select**Microphone** on the left panel, then click the**Change** button to see if the toggle is**On** in the pop-up menu. If it isn’t, change the toggle to On.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-1.jpg)
 3. Check to see if the toggle in the**Allow apps to access your microphone** section is turned**On** . If it isn’t, change the toggle to On.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-2-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Try your mic to see if it’s working now. If it isn’t, move on to the next fix.
 
@@ -78,12 +74,12 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/volume-icon-sounds.jpg)
 2. Under the**Recording** tab, check to see if your headset microphone is set to disabled. If it is, right-click on it and select**Enable** . (If your mic is not the default device, click**Set Default** to set it as default)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-enable.jpg)
 3. Right-click the headset microphone again and select **Properties.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-properties.jpg)
 4. Under the**Levels** tab, move the slider to the highest value and then click**OK** to save your settings.
@@ -112,16 +108,12 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 4. After updating your audio driver, restart your PC for the trick to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at <support@drivereasy.com> .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4 – Reinstall the Corsair headset and iCUE software
 
@@ -131,6 +123,10 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/quick-access-menu-device-manger.jpg)
 2. Click on the**Audio inputs and outputs** to expand the category, right-click your Corsair device and then select**Uninstall device** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DM-Audio-unindtall.jpg)
 3. Click**Uninstall** in the confirmation box that pops up.
 
@@ -138,12 +134,12 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-4.jpg)
 5. Select**iCUE** and then click**Uninstall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-5.jpg)
 6. Click**Yes** in the confirmation box.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Restart your PC and replug your Corsair headset into your computer.
 8. Relaunch the iCUE software. You can click **[here](https://r.brandreward.com/?key=3882aba4cadd4473e0195097fdf20855&url=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Ficue&mktsrc=drivereasyen%5F166866)**  to download the latest version of iCUE.
@@ -184,6 +180,10 @@ Top Pick
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 6 – Seek technical support or after-sales service
 
  If you’ve tried all of the above fixes and still can’t get your mic boom to function, the issue could be with your headset rather than your computer.**You can try connecting your headset to another PC** ; if it’s still not working, there may be an issue with your Corsair Mic. In this situation, you should **[contact Corsair for support](https://help.corsair.com/hc/en-us)**  or have your headset serviced.
@@ -207,18 +207,18 @@ Top Pick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-photographers-guide-top-editing-and-writing-apps/"><u>[Updated] 2024 Approved Photographer's Guide Top Editing & Writing Apps</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-top-15-webcams-for-quality-youtube-live-streams/"><u>2024 Approved Top 15 Webcams for Quality YouTube Live Streams</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/brother-mfc-7360n-printer-smooth-installation-of-drivers-across-windows-1087-platforms/"><u>Brother MFC-7360N Printer: Smooth Installation of Drivers Across Windows 10/8/7 Platforms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tips-for-win-10s-cc-troubleshooting/"><u>Essential Tips for Win 10'S CC Troubleshooting</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-zte-nubia-z60-ultra-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from ZTE Nubia Z60 Ultra to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-the-impactful-journey-with-gopro-hero5/"><u>In 2024, The Impactful Journey with GoPro Hero5</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/instant-cure-for-laptop-or-desktop-without-sounds-a-step-by-step-guide/"><u>Instant Cure for Laptop or Desktop Without Sounds – A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/jabra-audio-woes-a-step-by-step-fix-guide-to-get-it-working/"><u>Jabra Audio Woes? A Step-by-Step Fix Guide to Get It Working</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-speaker-configuration-in-windows-10-when-facing-an-unknown-status/"><u>Mastering Speaker Configuration in Windows 10 when Facing an Unknown Status</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-audio-hurdles-razer-barracuda-x-mic-troubleshooting-guide-for-windows-users/"><u>Overcoming Audio Hurdles: Razer Barracuda X Mic Troubleshooting Guide for Windows Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-the-hurdles-a-comprehensive-solution-for-overwatchs-ptt-issues/"><u>Overcoming the Hurdles: A Comprehensive Solution for Overwatch's PTT Issues</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-post-update-blue-screen-issues-on-windows-11/"><u>Troubleshooting Post-Update Blue Screen Issues on Windows 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-y77t-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo Y77t Device</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-obscured-feedback-on-youtube-videos/"><u>[Updated] Exploring Obscured Feedback on YouTube Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-from-beginner-to-star-top-25-vlogging-ideas-for-2024/"><u>[Updated] From Beginner to Star Top 25 Vlogging Ideas for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-loom-studio-sync-screen-record-features-explained/"><u>[Updated] In 2024, Loom Studio Sync Screen Record Features Explained</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-swift-sketches-of-fortnite-game-screenshots/"><u>[Updated] Swift Sketches of Fortnite Game Screenshots</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cracking-the-code-of-silence-effortless-solutions-to-restore-sound-on-windows-7-with-usb-headphones/"><u>Cracking the Code of Silence: Effortless Solutions to Restore Sound on Windows 7 with USB Headphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-resolving-issues-with-the-lucidsound-ls30-microphone/"><u>Expert Tips on Resolving Issues with the LucidSound LS30 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-non-functional-google-meet-mic-on-windows-11-and-10-systems/"><u>How to Resolve Non-Functional Google Meet Mic on Windows 11 and 10 Systems</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/maximizing-insights-with-twitter-archive-analysis/"><u>Maximizing Insights with Twitter Archive Analysis</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-fortnite-game-chat-ultimate-guide-to-fixing-microphone-problems/"><u>Revive Your Fortnite Game Chat: Ultimate Guide to Fixing Microphone Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016885317-troubleshooting-and-repairing-your-stereo-audio-problems-quickly/"><u>Troubleshooting and Repairing Your Stereo Audio Problems Quickly!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/voicemod-not-working-top-tips-for-successful-repair-and-optimization/"><u>Voicemod Not Working? Top Tips for Successful Repair & Optimization</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/yl-software-collection-of-professional-night-sky-backgrounds-and-images/"><u>YL Software Collection of Professional Night Sky Backgrounds & Images</u></a></li>
 </ul></div>
 

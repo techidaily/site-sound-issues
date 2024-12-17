@@ -1,7 +1,7 @@
 ---
 title: "Restoring Volume Control on Your PC: No More Silent Windows 10"
-date: 2024-12-06T21:22:26.081Z
-updated: 2024-12-10T17:19:38.753Z
+date: 2024-12-13T20:19:57.760Z
+updated: 2024-12-16T18:42:58.275Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Before getting started, be sure**NOT** **to mute** your computer in the Volume icon. And drag the Volume slider to**Maximum** .
@@ -35,10 +31,6 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 1. [Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 2. [Check audio settings](https://tools.techidaily.com/drivereasy/download/)
 3. [Roll back your audio driver](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your audio driver
 
@@ -57,13 +49,25 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72204e5e8f.jpg)
 3. Click the**Update** button next to a flagged audio driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version of Driver Easy).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update** **All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72220f11f9.jpg)
 4. Restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Check if there’s any sound in your computer.
 
  If the problem still persists, don’t worry. We have other solutions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Check audio settings
 
@@ -78,19 +82,15 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7201dbcc98.jpg)
 3. Select your speaker audio device, and click**Set Default** to set it as your default device.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If your device has been the default device, you’ll see a green check mark next to your device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72066a032c.jpg)
 4. Restart your computer, and plug a headphone to see if there’s any sound.
 
-Still no luck? Okay, there’s one more thing to try.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Still no luck? Okay, there’s one more thing to try.
 
 ### Fix 3: Roll back your audio driver
 
@@ -108,7 +108,7 @@ Still no luck? Okay, there’s one more thing to try.
 5. Click the**Driver** tab, and click**Roll Back Driver** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721ba8a50e.jpg)
@@ -140,19 +140,15 @@ Feel free to leave a comment below if you have any questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-discover-11-secrets-of-windows-11/"><u>[New] In 2024, Discover 11 Secrets of Windows 11</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-purge-personal-youtube-history-records/"><u>[New] In 2024, How to Purge Personal YouTube History Records</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015017771-airpods-not-recognizing-mic-in-windows-11-heres-what-to-do/"><u>AirPods Not Recognizing Mic in Windows 11? Here’s What to Do</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/comprehensive-guide-to-correcting-lg-display-issues-on-different-windows-platforms/"><u>Comprehensive Guide to Correcting LG Display Issues on Different Windows Platforms</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015713614-corsair-hs60-not-picking-up-sound-heres-what-you-can-do/"><u>Corsair HS60 Not Picking Up Sound? Here's What You Can Do</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014897607-diagnosing-and-repairing-your-logitech-g633-mic-issues-solved/"><u>Diagnosing and Repairing Your Logitech G633 Mic Issues - Solved</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enigma-explorers-guide-top-10-online-deals-on-boxes/"><u>Enigma Explorers' Guide - Top 10 Online Deals on Boxes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/humor-unleashed-top-meme-creator/"><u>Humor Unleashed Top Meme Creator</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-elite-20-anime-series-opener-tunes/"><u>In 2024, Elite 20 Anime Series Opener Tunes</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mending-broken-video-formats-in-macos/"><u>Mending Broken Video Formats in macOS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016483030-no-sounds-in-apex-legends-heres-a-step-by-step-guide-to-troubleshoot-and-resolve/"><u>No Sounds in Apex Legends? Here's a Step-by-Step Guide to Troubleshoot and Resolve!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016346102-overcoming-hurdles-with-destiny-2-making-the-voice-chat-work-again/"><u>Overcoming Hurdles with Destiny 2 - Making the Voice Chat Work Again!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014889570-the-specific-heat-capacity-of-water-is-approximately-418-jgk-which-is-relatively-high-compared-to-many-other-substances/"><u>The Specific Heat Capacity of Water Is Approximately 4.18 J/G·K, Which Is Relatively High Compared to Many Other Substances</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/unraveling-the-mystery-behind-your-faulty-wi-fi-expert-insights-from-yl-computing/"><u>Unraveling the Mystery Behind Your Faulty Wi-Fi: Expert Insights From YL Computing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-youtube-creator-studio-unleashing-the-power-of-your-channel/"><u>[Updated] YouTube Creator Studio Unleashing the Power of Your Channel</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-soundless-facebook-video-glitches-on-pc-expert-tips/"><u>Fixing Soundless Facebook Video Glitches on PC - Expert Tips</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-recover-hidden-shorts-thumbnails-in-videos-for-2024/"><u>How to Recover Hidden Shorts' Thumbnails in Videos for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-realme-narzo-60-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Realme Narzo 60 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/snapedit-story-complete-video-editor-features-for-2024/"><u>SnapEdit Story – Complete Video Editor Features for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-your-blue-yeti-microphone-expert-tips-to-get-it-working-again/"><u>Trouble With Your Blue Yeti Microphone? Expert Tips to Get It Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-no-sound-in-windows-11-effective-strategies-for-audio-restoration/"><u>Troubleshoot and Repair No Sound in Windows 11: Effective Strategies for Audio Restoration</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unmuted-success-diagnosing-and-repairing-audio-failures-in-lenovo-systems/"><u>Unmuted Success: Diagnosing and Repairing Audio Failures in Lenovo Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-best-5-artificial-intelligence-tools-to-guide-your-next-literary-journey/"><u>Unveiling the Best 5 Artificial Intelligence Tools to Guide Your Next Literary Journey</u></a></li>
+<li><a href="https://win-great.techidaily.com/wonderfox-unveils-new-feature-the-ultimate-guide-for-locating-elusive-content/"><u>WonderFox Unveils New Feature: The Ultimate Guide for Locating Elusive Content</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: No Sound From AirPods? Here's How to Fix It When They're Paired with a Windows 11 or 10 Computer
-date: 2024-12-05T19:58:40.513Z
-updated: 2024-12-10T16:12:43.111Z
+date: 2024-12-09T17:05:17.468Z
+updated: 2024-12-16T22:43:54.136Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
  Before you proceed to the more complicated fixes, try**restarting your browser and computer** . A simple restart can sometimes perfectly resolve the microphone glitch.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Update your audio driver
 
  If you’re using a faulty, corrupted or outdated audio driver, various audio issues will occur. You may find the microphone is malfunctioning or there’s no sound when using Google Meet. To fix the issue, make sure you install the latest correct audio driver.
@@ -48,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-3.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** to do it for free, but it’s partly manual.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-driver-update-de.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
  Restart your computer for the changes to take full effect. If the driver update doesn’t give you luck, there are more fixes to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Allow access to your microphone
@@ -75,10 +75,14 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 3. Scroll down and make sure the button under**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** is set to**On** . This makes it possible for your browser to access the microphone.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you complete the steps, check if Google Meet can pick up your voice. If not, move on to the next method below.
 
@@ -93,17 +97,21 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-3.jpg)
 3. Click the**Microphone** you would like to use and click**Set Default** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
 4. You also need to set the microphone volume to a proper level: right-click the microphone and select**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-6-1.jpg)
 5. Click the**Levels** tab and drag the microphone slider to turn the volume to the max. Then click**OK** to save the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Test your microphone again to see if it works without problem. If the issue persists, check out the next solution below.
 
@@ -115,17 +123,9 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting.jpg)
 2. Make sure your microphone is not turned off.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click the**vertical ellipsis icon** at the top left and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-2.jpg)
 4. From the drop-down menu under Microphone, select your primary microphone.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-3.jpg)
 
@@ -156,20 +156,20 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-modern-photo-editing-wonders-frame-integration-essentials-2023/"><u>[Updated] 2024 Approved Modern Photo Editing Wonders Frame Integration Essentials, 2023</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-t2x-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo T2x 5G Users</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-youtube-earnings-estimator-tools/"><u>In 2024, YouTube Earnings Estimator Tools</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/inside-look-best-practices-for-splitting-audiences-with-fb-live/"><u>Inside Look Best Practices for Splitting Audiences with FB Live</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/non-working-steelseries-arctis-prime-mic-heres-how-to-restore-its-functionality/"><u>Non-Working SteelSeries Arctis Prime Mic? Here's How to Restore Its Functionality</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-and-effective-techniques-to-diagnose-and-repair-windows-code-19-error/"><u>Quick and Effective Techniques to Diagnose and Repair Windows -Code 19 Error</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-how-to-repair-your-malfunctioning-astro-a20-mic/"><u>Quick Fixes: How to Repair Your Malfunctioning Astro A20 Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solution-guide-realtek-hd-sound-manager-failure-resolution/"><u>Quick Solution Guide: Realtek HD Sound Manager Failure Resolution</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solutions-resolve-the-test-tone-failed-to-play-issue/"><u>Quick Solutions: Resolve the Test Tone Failed to Play Issue</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/redragon-headset-mic-issues-discover-steps-to-restore-audio-input-on-windows-or-mac-computers/"><u>Redragon Headset Mic Issues? Discover Steps to Restore Audio Input on Windows or Mac Computers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-audio-not-playing-on-mozilla-firefox/"><u>Resolved: Audio Not Playing on Mozilla Firefox</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-common-issues-with-jabra-audio-devices-a-step-by-step-guide/"><u>Resolving Common Issues with Jabra Audio Devices - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/tres-formas-seguros-para-quitar-el-disco-duro-c-en-windows/"><u>Tres Formas Seguros Para Quitar El Disco Duro C en Windows</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/windows-111087raw/"><u>Windows 11/10/8/7用RAWパーティションの修復と再生方法</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-astronomys-best-showcase-10-prime-hd-sky-archives/"><u>[New] In 2024, Astronomy's Best Showcase - 10 Prime HD Sky Archives</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-amplify-video-impact-leading-trackers-for-youtube-ranks/"><u>[Updated] 2024 Approved Amplify Video Impact Leading Trackers for YouTube Ranks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-quick-fixes-screen-capturing-on-instagrams-feed/"><u>[Updated] 2024 Approved Quick Fixes Screen Capturing on Instagram's Feed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-melodic-moments-curating-the-best-10-sounds-for-podcasts/"><u>[Updated] Melodic Moments Curating the Best 10 Sounds for Podcasts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-vlogging-hurdles-how-to-triumph-over-ten-common-obstacles-for-2024/"><u>[Updated] Vlogging Hurdles How to Triumph Over Ten Common Obstacles for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-xiaomi-redmi-note-13-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Xiaomi Redmi Note 13 5G without App | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/dive-into-data-reducing-high-cpu-usage-with-resource-monitor/"><u>Dive Into Data: Reducing High CPU Usage with Resource Monitor</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-get-your-headphones-functional-again-on-windows-10/"><u>Fixing the Issue: How To Get Your Headphones Functional Again On Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-unrecognized-speaker-or-headphone-connections-on-windows-11-8-and-7/"><u>How to Troubleshoot Unrecognized Speaker or Headphone Connections on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-the-top-tales-youtubes-best-narrative-channels-this-year/"><u>In 2024, The Top Tales YouTube’s Best Narrative Channels This Year</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-audio-dropping-problems-in-windows-11-a-step-by-step-guide/"><u>Solving Your Audio Dropping Problems in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-resolving-dell-speaker-issues-on-windows-7-pcs/"><u>Step-by-Step Guide: Resolving Dell Speaker Issues on Windows 7 PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-resolution-for-laptops-with-no-sound-output/"><u>Step-by-Step Resolution for Laptops with No Sound Output</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-nokia-c12-plus-by-fonelab-android-recover-music/"><u>The way to get back lost music from Nokia C12 Plus</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-your-razer-man-o-war-mic-heres-how-to-fix-it/"><u>Trouble with Your Razer Man O' War Mic? Here’s How to Fix It!</u></a></li>
 </ul></div>
 

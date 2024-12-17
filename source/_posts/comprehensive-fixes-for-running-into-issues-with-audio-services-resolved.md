@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Fixes for Running Into Issues with Audio Service(s) [Resolved]
-date: 2024-08-23T12:19:34.025Z
-updated: 2024-08-24T12:19:34.025Z
+date: 2024-12-09T22:31:51.485Z
+updated: 2024-12-16T18:28:33.782Z
 tags:
   - win11
   - win10
@@ -32,6 +32,11 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 5. **[Update the audio driver](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Restart the Windows Audio Endpoint Builder service](https://tools.techidaily.com/drivereasy/download/)**
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: Ensure the external sound device is plugged in (desktop only)
 
  If you’re using a desktop computer, _**ensure the device you use to listen to the sound such as external speakers, is plugged in**_  .  
@@ -55,6 +60,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d47875fcc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re using a**laptop computer** , you also need to check if the**microphone** device is disabled.  
   
  Follow these steps:  
@@ -66,6 +75,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  2) If you see the Microphone disabled, right-click on the item, then select**Enable** . If you see the Microphone enabled, skip this step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d5e494746.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##
   
@@ -80,6 +93,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  2) Click**Edit** in the menu bar and select**Preferences** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6ee48396.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Devices** .
 
@@ -108,6 +125,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  2) Click**Edit** in the menu bar and select**Preferences** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6ee48396.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Recording** .
 
@@ -174,8 +195,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,9 +202,20 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-how-to-record-lol-gameplay3-methods/"><u>[New] How To Record LOL Gameplay?(3 Methods)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-ultimate-guide-to-best-internet-recording-tools-2023/"><u>[New] In 2024, Ultimate Guide to Best Internet Recording Tools 2023</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-strategies-for-improving-youtubefacebook-video-quality/"><u>[New] Strategies for Improving YouTube/Facebook Video Quality</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-google-hangout-improvement-strategies-roundup-4/"><u>[Updated] 2024 Approved Google Hangout Improvement Strategies, Roundup #4</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-approaches-to-run-a-winning-fb-giveaway/"><u>2024 Approved Innovative Approaches to Run a Winning FB Giveaway</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-streamline-your-screen-recording-on-mac-with-these-tools/"><u>2024 Approved Streamline Your Screen Recording on Mac with These Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/amplify-your-experience-correcting-underwhelming-volume-settings-in-windows-11/"><u>Amplify Your Experience: Correcting Underwhelming Volume Settings in Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/changing-the-aesthetic-of-chromecast-with-personalized-background-settings/"><u>Changing the Aesthetic of Chromecast with Personalized Background Settings</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/error-no-valid-biometric-data-received/"><u>Error: No Valid Biometric Data Received</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/farm-fun-quest-the-leading-10-farm-themed-gaming-titles-for-2024/"><u>Farm Fun Quest The Leading 10 Farm-Themed Gaming Titles for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/htc-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>HTC ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-solving-iphones-audio-issues-silence-and-distortion-fixes/"><u>Resolved: Solving iPhone's Audio Issues - Silence & Distortion Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-audio-issues-with-windows-computers-windows-10-and-7/"><u>Resolving Audio Issues with Windows Computers (Windows 10 and 7)</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->

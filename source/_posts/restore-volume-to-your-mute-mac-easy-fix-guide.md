@@ -1,7 +1,7 @@
 ---
 title: Restore Volume to Your Mute Mac – Easy Fix Guide
-date: 2024-12-06T19:03:01.230Z
-updated: 2024-12-10T20:11:42.329Z
+date: 2024-12-11T20:25:25.416Z
+updated: 2024-12-16T23:25:02.071Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 fixes for Headphones Crackling
 
  Here are 4 fixes that have helped other users resolve their**Windows 10** /**8** **.1/7** **sound crackling in headphones** issue.  
@@ -37,6 +33,10 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 4. [**Adjust the minimum processor state**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check for hardware issues
 
@@ -52,10 +52,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 2: Disable Exclusive Mode and change the sound format**
 
  Having **Exclusive Mode**   on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the **crackling or popping sound** in headphone  problem. To disable **Exclusive Mode** :
@@ -64,16 +60,12 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/12sound.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the**Playback** tab, right-click on**speakers** and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the**Advanced** tab, un-check **the box** before **Allow applications to take exclusive control of this device** . Then click **Apply** \> **OK** .
 
@@ -85,15 +77,15 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Hopefully the popping/crackling sound in your headphone problem has gone by now. If not, you might also want to change it to other audio formats to see if it works.
 
  Check if the headphone crackling problem persists. If yes, then congrats! But if it still persists, you should try **Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -120,8 +112,16 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
@@ -155,21 +155,22 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-a-list-nintendo-switch-fighter-titles-max-156/"><u>[Updated] A-List Nintendo Switch Fighter Titles (Max 156)</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-essentials-facebooks-breakthrough-features-unveiled/"><u>[Updated] Essentials Facebook's Breakthrough Features Unveiled</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-how-to-add-logo-or-watermark-to-youtube-video/"><u>[Updated] In 2024, How to Add Logo or Watermark to YouTube Video</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-reappear-headphone-options-on-your-device-list-after-upgrading-to-windows-11/"><u>How to Reappear Headphone Options on Your Device List After Upgrading to Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-voice-communication-in-fortnite-simple-solutions-inside/"><u>How to Restore Voice Communication in Fortnite - Simple Solutions Inside</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-zero-cost-zest-the-ultimate-guide-to-free-game-film/"><u>In 2024, Zero Cost Zest The Ultimate Guide to Free Game Film</u></a></li>
-<li><a href="https://games-able.techidaily.com/integration-challenge-switch-oled-and-past-docks/"><u>Integration Challenge: Switch OLED and Past Docks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/nvidia-not-plugged-in-discover-effective-fixes-for-seamless-performance/"><u>Nvidia Not Plugged In? Discover Effective Fixes for Seamless Performance</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcome-audio-problems-a-guide-to-making-your-logitech-g935-work-with-windows-systems/"><u>Overcome Audio Problems: A Guide to Making Your Logitech G935 Work with Windows Systems</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/pirates-of-yore-talk-guidebook-20-expressions-dropped/"><u>Pirates of Yore Talk Guidebook: 20 Expressions Dropped</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fix-for-loud-popping-in-your-earbuds-expert-advice/"><u>Quick Fix for Loud Popping in Your Earbuds: Expert Advice!</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-palworld-search-session-issues-a-step-by-step-guide/"><u>Resolving PalWorld Search Session Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-razer-barracuda-xs-microphone-expert-advice-for-quick-wins-on-windows-10-and-11/"><u>Revive Your Razer Barracuda X's Microphone: Expert Advice for Quick Wins on Windows 10 and 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-found-re-enable-voice-chat-in-co-op-game-back-4-blood/"><u>Solution Found: Re-Enable Voice Chat in Co-Op Game 'Back 4 Blood'</u></a></li>
-<li><a href="https://windows11.techidaily.com/swift-reset-of-windows-icon-positions/"><u>Swift Reset of Windows Icon Positions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-elevate-your-gopro-videos-with-simple-edits/"><u>[New] Elevate Your GoPro Videos with Simple Edits</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-boosting-social-reach-share-tiktoks-with-a-twist-of-twitter/"><u>2024 Approved Boosting Social Reach Share TikToks with a Twist of Twitter</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/anthem-sound-not-working-expert-advice-for-restoring-volume-on-windows-10/"><u>Anthem Sound Not Working? Expert Advice for Restoring Volume on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-problems-with-the-lucidsound-ls30-headset-mic/"><u>Diagnosing and Repairing Problems with the LucidSound LS30 Headset Mic</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-imperator-rome-mastering-an-empire-or-embracing-defeat/"><u>Evaluating 'Imperator: Rome': Mastering an Empire or Embracing Defeat</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-cluttered-canvases-to-crystal-clear-captures-using-photopea-for-2024/"><u>From Cluttered Canvases to Crystal Clear Captures Using Photopea for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-12-pro-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 12 Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-restoring-audio-in-zoom-meetings-for-windows-users/"><u>Guide: Restoring Audio in Zoom Meetings for Windows Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-audio-working-again-on-an-hp-laptop-issue-resolved/"><u>How to Get Your Audio Working Again on an HP Laptop (Issue Resolved)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-quickly-troubleshoot-a-non-functioning-mic-on-google-hangouts/"><u>How to Quickly Troubleshoot a Non-Functioning Mic on Google Hangouts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-reactivate-in-game-sounds-in-eas-anthem-for-pc-users/"><u>How to Reactivate In-Game Sounds in EA's Anthem for PC Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-leverage-social-blades-platform-for-in-depth-video-analytics/"><u>In 2024, Leverage Social Blade's Platform for In-Depth Video Analytics</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-transform-videos-into-stunning-live-photos-with-these-top-apps/"><u>New 2024 Approved Transform Videos Into Stunning Live Photos with These Top Apps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-soundscape-of-valheim-expert-tips-for-fixing-silent-gameplay-on-computers/"><u>Reviving Soundscape of Valheim: Expert Tips for Fixing Silent Gameplay on Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-a-non-functional-logitech-g430-microphone/"><u>Troubleshooting Steps for a Non-Functional Logitech G430 Microphone</u></a></li>
 </ul></div>
 

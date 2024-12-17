@@ -1,7 +1,7 @@
 ---
 title: Enabling and Repairing Windows Scanning Functionality
-date: 2024-12-04T21:08:33.478Z
-updated: 2024-12-10T20:26:30.078Z
+date: 2024-12-09T21:37:33.627Z
+updated: 2024-12-16T18:36:04.278Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 
  But don’t worry. We’ll help you fix the scanner not working on HP.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix the HP scanner not working
 
  Here are solutions that have helped people resolve the same issue. You don’t need to try them all; just work your way down the list.
@@ -57,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Enable Windows Image Acquisition (WIA) service and associated services
@@ -73,14 +77,14 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 4. In the popup pane, ensure the**Startup type** is set**Automatic** , and the**Service status** is**Running** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd168549db26.jpg)  
  If the**Service status** is already**Running** , click**Stop** to stop the service, then click**Start** to re-enable the service.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**Apply** and**OK** to save the changes.  
@@ -101,10 +105,6 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
    * **Shell Hardware Detection**  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd169897b1a1.jpg)  
    **INFORMATION:**  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
     The**Windows Image Acquisition (WIA)** service is dependent upon the**Shell Hardware Detection Service** , while the**Shell Hardware Detection Service** is dependent upon these services: Remote Procedure Call RPC, DCOM Server Process Launcher, and RPC Endpoint Mapper.
 4. Save the changes and try your scanner again to see if it works.
@@ -136,7 +136,7 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/update-dell-touchpad-driver.jpg.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -175,19 +175,16 @@ Then try scanning with your scanner to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0319454560.jpg)
 2. In Command Prompt, type the following command, then press**Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd031d993e59.jpg)
 3. Then wait for**Verification 100% complete** . This can take a while.
-4. Once complete, Type**exit** in Command Prompt and press**Enter** to close the window.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd036dad46be.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Once complete, Type**exit** in Command Prompt and press**Enter** to close the window.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd036dad46be.jpg)
 
 Restart your computer and see if your scanner begins to work.
 
@@ -200,6 +197,10 @@ To fix your issues, follow the steps below to run a full scan of your PC:
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.
 
@@ -225,20 +226,18 @@ To fix your issues, follow the steps below to run a full scan of your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-cutting-edge-methods-for-recording-presentations/"><u>[New] 2024 Approved Cutting Edge Methods for Recording Presentations</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-80s-revivalists-handbook-for-dynamic-editing-techniques/"><u>[New] The 80S Revivalist's Handbook for Dynamic Editing Techniques</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-mobile-communication-redefined-best-10-secured-free-video-call-apps-to-keep-you-covered-on-devices/"><u>[Updated] 2024 Approved Mobile Communication Redefined Best 10 Secured, Free Video Call Apps to Keep You Covered on Devices</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-perfecting-your-youtube-presence-a-video-upload-manual/"><u>[Updated] 2024 Approved Perfecting Your YouTube Presence A Video Upload Manual</u></a></li>
-<li><a href="https://extra-information.techidaily.com/navigating-the-intricacies-of-networked-livestream-with-vlc/"><u>Navigating the Intricacies of Networked Livestream with VLC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-persistent-click-issue-eliminating-sound-problems-on-windows-computers/"><u>Solving the Persistent 'Click' Issue: Eliminating Sound Problems on Windows Computers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-your-speaker-problems-on-windows-11-quickly-and-easily/"><u>Solving Your Speaker Problems on Windows 11 Quickly and Easily</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/speakers-best-friend-a-step-by-step-approach-to-rapid-mic-evaluation/"><u>Speaker's Best Friend: A Step-by-Step Approach to Rapid Mic Evaluation</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/steelseries-arctis-prime-headset-mic-failure-solutions-at-hand/"><u>SteelSeries Arctis Prime Headset Mic Failure - Solutions at Hand</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-overcoming-audio-glitches-in-pcs-zoom-video-conferences/"><u>Step-by-Step Fixes: Overcoming Audio Glitches in PC's Zoom Video Conferences</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-to-restore-hdmi-audio-in-your-windows-n-7-pc/"><u>Step-by-Step Solution to Restore HDMI Audio in Your Windows N 7 PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/steps-to-restore-functionality-of-your-steelseries-arctis-7-audio-input/"><u>Steps to Restore Functionality of Your SteelSeries Arctis 7 Audio Input</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/top-5-reliable-and-easy-flac-audio-file-conversion-tools-free-for-2018-2019/"><u>Top 5 Reliable & Easy FLAC Audio File Conversion Tools (Free) for 2018-2019</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-7-must-try-alarm-clock-applications/"><u>Top 7 Must-Try Alarm Clock Applications</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-and-fixing-d3d9dll-missing-file-challenges/"><u>Understanding and Fixing d3d9.dll: Missing File Challenges</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/abbyy-at-the-joint-conference-on-shared-services-and-outsourcing/"><u>ABBYY at the Joint Conference on Shared Services & Outsourcing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetooth-pairing-success-but-silent-playback-how-to-restore-audio/"><u>Bluetooth Pairing Success but Silent Playback: How to Restore Audio</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-on-repairing-barcode-reader-errors/"><u>Expert Tips on Repairing Barcode Reader Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-the-device-is-being-used-by-another-application-hdmi-issue/"><u>Fix The Device Is Being Used by Another Application HDMI Issue</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-xiaomi-redmi-note-12t-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Xiaomi Redmi Note 12T Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-and-repair-bluetooth-functionality-in-windows-11/"><u>How to Restore and Repair Bluetooth Functionality in Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-microsoft-teams-audio-on-windows-1110-with-these-fixes/"><u>Revive Your Microsoft Teams Audio on Windows 11/10 with These Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/skype-no-sound-dilemma-effortless-troubleshooting-techniques/"><u>Skype No Sound Dilemma: Effortless Troubleshooting Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/swiftly-adapt-your-chatgpt-a-plugin-installation-guide/"><u>Swiftly Adapt Your ChatGPT: A Plugin Installation Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-next-generation-of-compression-how-does-av1-stack-up-against-hevc-for-enhanced-media-delivery/"><u>The Next Generation of Compression: How Does AV1 Stack Up Against HEVC for Enhanced Media Delivery?</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/ultimate-guide-transferring-your-iphone-screen-to-television-seamlessly/"><u>Ultimate Guide: Transferring Your iPhone Screen to Television Seamlessly</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1728501963856-windows-10114/"><u>Windows 10/11用：削除された写真や画像の確実な回復手段トップ4</u></a></li>
 </ul></div>
 

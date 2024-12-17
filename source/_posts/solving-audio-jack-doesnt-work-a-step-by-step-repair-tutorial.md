@@ -1,7 +1,7 @@
 ---
 title: "Solving 'Audio Jack Doesn't Work': A Step-by-Step Repair Tutorial"
-date: 2024-12-03T21:09:24.214Z
-updated: 2024-12-10T16:43:15.555Z
+date: 2024-12-13T17:20:52.963Z
+updated: 2024-12-16T17:50:07.651Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/a3825c53acb734eda563e5e8193fa7e586da129de
 4. [Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Troubleshoot hardware issues](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Turn on app permissions for your microphone
 
  To use your microphone with apps on Windows, you’ll need to turn on some permissions in Microphone settings. Here’s how:
@@ -47,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/a3825c53acb734eda563e5e8193fa7e586da129de
  2) Click**Privacy** .  
   
 ![Privacy in Settings](https://images.drivereasy.com/wp-content/uploads/2021/02/privacy.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Microphone** on the left pane. Then click on the**Change** button and make sure**Microphone access for this device** is turned on.  
   
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/a3825c53acb734eda563e5e8193fa7e586da129de
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Under the**Input** section, make sure that your headset is showing. Then click**Device Properties** .  
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/a3825c53acb734eda563e5e8193fa7e586da129de
 ![sound settings input section](https://images.drivereasy.com/wp-content/uploads/2021/02/Input-section-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Make sure that your headset is not disabled.  
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/a3825c53acb734eda563e5e8193fa7e586da129de
 ![make sure your headset isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/02/make-sure-your-headset-isnt-disabled.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you’ve confirmed that your microphone is enabled, do a test to check if it’s now back to normal. If the microphone is still not working properly, try the next fix below.
@@ -106,17 +106,21 @@ thumbnail: https://thmb.techidaily.com/a3825c53acb734eda563e5e8193fa7e586da129de
   
 ![Open Sound Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-control-panel.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select the**Recording** tab. Select your microphone and then click**Set Default > OK** .  
   
 ![set your device as default](https://images.drivereasy.com/wp-content/uploads/2021/02/set-it-as-default.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When it’s all done, use your microphone to check if it’s working now. If you’re still having the same problem, try the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Update your audio driver
 
@@ -136,10 +140,6 @@ Here’s how to update drivers with Driver Easy:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![update audio driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/12/update-audio-driver-automatically-with-Driver-Easy.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -174,21 +174,20 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ffortlessly-convert-youtube-audio-top-4-low-cost-apps/"><u>[New] Effortlessly Convert YouTube Audio - Top 4 Low-Cost Apps</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-ultimate-guide-to-best-liked-ae-templates/"><u>[Updated] 2024 Approved The Ultimate Guide to Best-Liked AE Templates</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/anthem-game-muting-mystery-reviving-sounds-on-the-latest-windows-11-system/"><u>Anthem Game Muting Mystery: Reviving Sounds on the Latest Windows 11 System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/apex-legends-audio-troubleshooting-diagnosing-and-fixing-the-soundless-gameplay/"><u>Apex Legends Audio Troubleshooting: Diagnosing and Fixing the Soundless Gameplay</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/breaking-down-mic-problems-on-windows-7-and-how-you-can-easily-solve-them/"><u>Breaking Down Mic Problems on Windows 7 & How You Can Easily Solve Them</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-tecno-spark-20-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Tecno Spark 20?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/critical-solutions-for-lost-audio-after-updating-your-pc-to-win-11/"><u>Critical Solutions for Lost Audio After Updating Your PC to Win 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosis-and-fixes-for-hyperx-cloud-mic-that-wont-work-a-guide/"><u>Diagnosis & Fixes for HyperX Cloud Mic That Won't Work: A Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-voice-chat-problems-in-back-4-blood-multiplayer-mode/"><u>Effective Fixes for Voice Chat Problems in 'Back 4 Blood' Multiplayer Mode</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-infinix-hot-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-infinix-gt-10-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Infinix GT 10 Pro</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or iPhone 12 Pro Max?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723017045248-mastering-the-fix-reviving-a-broken-rec-room-microphone-in-your-pc-a-step-by-step-guide-to-success/"><u>Mastering the Fix: Reviving a Broken Rec Room Microphone in Your PC - A Step-by-Step Guide to Success</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-process-on-securing-help-with-your-iphone-via-the-apple-support-application/"><u>Step-by-Step Process on Securing Help with Your iPhone via the Apple Support Application</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-video-lighting-choices-professional-reviews-techradar/"><u>Top Video Lighting Choices: Professional Reviews | TechRadar</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unbeatable-offer-save-up-to-69-on-zyro-your-ideal-web-development-partner/"><u>Unbeatable Offer: Save Up to 69% on Zyro - Your Ideal Web Development Partner!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-premier-zombie-apocalypse-battles-ranking-top-titles/"><u>[Updated] In 2024, Premier Zombie Apocalypse Battles Ranking Top Titles</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-step-by-step-gopro-4k-editing-basics-for-2024/"><u>[Updated] Step-by-Step GoPro 4K Editing Basics for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2022s-pinnacle-moments-in-snowboarding-x-for-2024/"><u>2022'S Pinnacle Moments in Snowboarding X for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cyber-monday-deals-unbeatable-price-on-apples-newest-13-inch-macbook-air-with-m2-chip-exclusive-report/"><u>Cyber Monday Deals: Unbeatable Price on Apple's Newest 13-Inch MacBook Air with M2 Chip - Exclusive Report</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-glitches-in-resident-evil-village-a-step-by-step-guide/"><u>Fixing Audio Glitches in Resident Evil Village: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-speaker-issues-a-comprehensive-guide-for-windows-10-users/"><u>Fixing Speaker Issues: A Comprehensive Guide for Windows 10 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-laptops-audio-back-on-track-expert-fixes-and-tips/"><u>Getting Your Laptop's Audio Back on Track – Expert Fixes and Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Life360 Notify When You Log Out On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-conversation-with-ai-an-introductory-guide-to-chatgpt/"><u>Mastering the Art of Conversation with AI: An Introductory Guide to ChatGPT</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-quiet-game-night-cyberpunk-2077-sound-fixes-for-windows-11-users/"><u>Solve Your Quiet Game Night: Cyberpunk 2077 Sound Fixes for Windows 11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-restoring-microphone-functionality-in-warzone-across-all-platforms/"><u>Step-by-Step Solutions for Restoring Microphone Functionality in Warzone Across All Platforms</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-motorola-by-drfone-android/"><u>Top 10 Password Cracking Tools For Motorola</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-resolve-pc-audio-malfunctions-step-by-step-solutions-for-zero-output/"><u>Troubleshoot and Resolve PC Audio Malfunctions - Step-by-Step Solutions for Zero Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-instantly-fixing-that-annoying-speaker-vibration-issue/"><u>Troubleshoot Instantly: Fixing that Annoying Speaker Vibration Issue</u></a></li>
 </ul></div>
 

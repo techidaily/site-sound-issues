@@ -1,7 +1,7 @@
 ---
 title: Laptop Audio Malfunction? Here Are Effective Solutions
-date: 2024-12-05T18:24:02.616Z
-updated: 2024-12-10T19:06:30.038Z
+date: 2024-12-14T19:22:28.971Z
+updated: 2024-12-17T00:56:41.301Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Firstly, Ensure the audio device is enabled**
 
  If the speakers are disabled, you can’t hear sound. Follow steps below to check for it.
@@ -35,16 +39,12 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9642607bba2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) **View by large icons** and click **Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd4d734d2c.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) See the Speakers is disabled:
 
@@ -60,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd4f2b0a08.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **Secondly: Ensure the sound is not muted**
 
  It could happen that the sound is muted by accident. Check the speaker icon at the bottom left corner of desktop, and make sure there is no red circle with a cross going through it.
@@ -71,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
  If you ensure above sound settings have no problems, move on and try the below methods.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 1: Disable the audio device in Device Manager and restart your PC**
 
@@ -83,10 +83,6 @@ Follow these steps:
  2) Expand the category “**Sound, video and game controllers** “. Under this category, right-click on the audio device name. A context menu will pop up, then select **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd515db2c0.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Restart your PC. Then a Window will pop up to ask you to solve the sound problem. Just follow the on-screen instructions. Then the sound issue should resolve.
 
@@ -107,7 +103,7 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-405.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to a flagged audio driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
@@ -115,6 +111,10 @@ Follow these steps:
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/)   – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-406.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully you can fix your laptop no sound issues with the steps above. If you have any questions, please feel free to leave your comment below.
 
@@ -135,18 +135,18 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-behind-the-scenes-of-iphones-audio-alteration-techniques/"><u>[Updated] In 2024, Behind the Scenes of iPhone's Audio Alteration Techniques</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-expert-tips-for-blending-multiple-hdr-photographs-in-lightroom/"><u>[Updated] In 2024, Expert Tips for Blending Multiple HDR Photographs in Lightroom</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-guide-maximizing-apple-podcast-listing-chances/"><u>[Updated] In 2024, Guide Maximizing Apple Podcast Listing Chances</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-complete-guide-for-capturing-stunning-details-on-film/"><u>2024 Approved The Complete Guide for Capturing Stunning Details on Film</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016929160-audacity-error-resolution-overcome-sound-device-hurdles-with-our-top-n-solutions/"><u>Audacity Error Resolution: Overcome Sound Device Hurdles with Our Top N Solutions!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/common-fixes-for-corsair-void-microphone-failure-problems/"><u>Common Fixes for Corsair Void Microphone Failure Problems</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-from-novice-to-pro-a-comprehensive-reference-on-using-zds-video-capturing-features/"><u>In 2024, From Novice to Pro A Comprehensive Reference on Using ZD's Video Capturing Features</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/navigating-twitch-recording-a-users-playbook/"><u>Navigating Twitch Recording A User's Playbook</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/reliable-providers-a-guide-to-safely-increasing-your-youtube-traffic/"><u>Reliable Providers A Guide to Safely Increasing Your YouTube Traffic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016623906-restoring-volume-control-on-your-pc-no-more-silent-windows-10/"><u>Restoring Volume Control on Your PC: No More Silent Windows 10!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-unknown-speaker-configuration-in-windows-10/"><u>Troubleshooting Unknown Speaker Configuration in Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unmuted-adventure-resolving-pc-sounds-failure-in-valheim/"><u>Unmuted Adventure: Resolving PC Sounds Failure in Valheim</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/why-your-creative-pebble-speakers-arent-working-and-how-to-rectify-them/"><u>Why Your Creative Pebble Speakers Aren't Working and How to Rectify Them</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-fishermans-field-guide-to-prime-camers/"><u>[New] The Fisherman's Field Guide to Prime Camers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-top-20-anime-opener-hits/"><u>[Updated] Exploring Top 20 Anime Opener Hits</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-what-lies-beneath-the-surface-of-instagrams-reels/"><u>2024 Approved What Lies Beneath the Surface of Instagram's Reels</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-itel-p55-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Itel P55 Phone When You Forget the Password</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-sound-communication-on-whatsapp/"><u>In 2024, Mastering Sound Communication on WhatsApp</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/maximizing-ram-for-enhanced-minecraft-experience/"><u>Maximizing RAM for Enhanced Minecraft Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-sound-discrepancy-headset-plugged-in-but-output-is-routed-to-external-loudspeakers/"><u>Solving Sound Discrepancy: Headset Plugged In but Output Is Routed to External Loudspeakers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2593899-9781785259852-su-horoscopo-chino-rata/"><u>Su horóscopo chino. Rata | Free Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-restore-dell-speaker-functionality-in-minutes/"><u>Troubleshoot and Restore Dell Speaker Functionality in Minutes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-obs-microphone-issues-on-your-computer/"><u>Troubleshooting Guide: Resolving OBS Microphone Issues on Your Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fix-for-windows-speaker-crackle-problems-windows-117-audio-tips-and-tricks/"><u>Ultimate Fix for Window's Speaker Crackle Problems - Windows 11/7 Audio Tips & Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlock-clear-audio-step-by-step-fixes-when-your-voice-goes-unheard/"><u>Unlock Clear Audio: Step-by-Step Fixes When Your Voice Goes Unheard</u></a></li>
 </ul></div>
 

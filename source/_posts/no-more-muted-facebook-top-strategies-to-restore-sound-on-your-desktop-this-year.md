@@ -1,7 +1,7 @@
 ---
 title: No More Muted Facebook - Top Strategies to Restore Sound on Your Desktop This Year!
-date: 2024-08-23T12:20:33.795Z
-updated: 2024-08-24T12:20:33.795Z
+date: 2024-12-15T23:30:44.546Z
+updated: 2024-12-16T20:38:18.594Z
 tags:
   - win11
   - win10
@@ -48,11 +48,12 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 1. On the lower-right corner of your desktop, right-click the**volume icon** and select**Open Volume mixer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/open-volume-mixer.jpg)
 2. In the Volume Mixer window,**hold and drag** the slider for your browser (mine is Chrome) to turn up the volume.  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/volume-mixer-hold-and-drag.jpg)
 3. Play your video and see if you hear any sound.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this method doesn’t fix your problem, please take a look at the next one.
 
@@ -63,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
  For a better testing result, you should stop using Internet Explorer and shift to other modern counterparts, such as[Firefox](https://www.mozilla.org/en-US/firefox/new/) ,[Chrome](https://www.google.com/chrome/) and[Opera](https://www.opera.com/) .
 
  If the problem persists after changing your browser, please move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4:**Restart your computer**
 
@@ -88,24 +93,19 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-realtek-audio-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your audio driver, restart your computer for it to take full effect. Then you can play some videos and see if your problem has gone away.
 
  If this fix doesn’t give you any luck, please try the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ### Fix 6:**Change your default playback device**
 
  If you set a wrong playback device, it’s normal that you don’t hear any sound. To check if you set the playback device correctly, follow these steps:
@@ -115,16 +115,19 @@ This method also applies to Windows 10, 8 or 7
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then type**mmsys.cpl** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-mmsys-cpl-audio-interface.jpg)
 2. Make sure you’re in the**Playback** tab. Select your desired output device (in my case it’s**Speakers** ) then click**Set default** . Finally, click**OK** to save the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/set-default-output-device.jpg)
-3. Play some videos and see if it fixed your no sound issue.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/set-default-output-device.jpg)
+3. Play some videos and see if it fixed your no sound issue.
+
  If changing your default output device doesn’t solve your problem, don’t worry. There’s still one last fix you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7:**Change your audio channel**
 
@@ -137,18 +140,22 @@ Here’s how to do it:
 2. Select your default playback device and click**Configure** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-audio-channel-1.jpg)
 3. For**Audio channels** , select**Stereo** and click**Next** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap108.jpg)
 4. Check the box next to**Front left and right** . Click **Next** to continue.  
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap109.jpg)
 5. Click **Finish** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap110.jpg)
 6. Play some Facebook videos and see if your problem has disappeared.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -162,8 +169,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +176,26 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-prepare-for-the-metaverse-the-7-indispensable-tools/"><u>[New] Prepare for the Metaverse - The 7 Indispensable Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-scripting-signal-sequences/"><u>[New] Scripting Signal Sequences</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-fierce-competition-gopro-vs-sonys-dslr-for-adventure-films/"><u>[Updated] Fierce Competition GoPro Vs. Sony's DSLR for Adventure Films</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-entering-social-media-world-sign-up-for-facebook-now/"><u>2024 Approved Entering Social Media World Sign Up for Facebook Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-free-roccat-mouse-driver-software-now/"><u>Get Your Free Roccat Mouse Driver Software Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-the-windows-11-no-audio-problem-a-complete-guide/"><u>How to Fix the 'Windows 11 No Audio' Problem - A Complete Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-audio-issues-on-conexant-smartaudio-hd-under-windows-11/"><u>How to Resolve Audio Issues on Conexant SmartAudio HD Under Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Itel P55 5G? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-xiaomi-redmi-12-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Xiaomi Redmi 12 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-tunes-twining-a-new-multimedia-approach/"><u>In 2024, Tunes Twining A New Multimedia Approach</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-audio-hurdles-a-comprehensive-guide-on-fixing-rust-mics/"><u>Overcoming Audio Hurdles: A Comprehensive Guide on Fixing Rust Mics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-issues-with-your-lucidsound-ls30-mic-a-comprehensive-walkthrough/"><u>Resolving Issues with Your LucidSound LS30 Mic - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-frame-smart-tv-evolution-unveiling-changes-from-2023-to-2024-in-depth-analysis-by-zdnet/"><u>Samsung Frame Smart TV Evolution: Unveiling Changes From 2023 to 2024 - In-Depth Analysis by ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-google-meet-microphone-problems-for-users-of-windows-11-and-10/"><u>Solving Google Meet Microphone Problems for Users of Windows 11 & 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-instructions-for-disabling-enhanced-audio-settings-in-windows-11/"><u>Step-by-Step Instructions for Disabling Enhanced Audio Settings in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-instructions-logitech-g935-microphone-compatibility-with-windows/"><u>Step-by-Step Repair Instructions: Logitech G935 Microphone Compatibility with Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/stop-stutter-comprehensive-guide-for-fixing-bluetooth-audio-issues-on-windows-1011/"><u>Stop Stutter: Comprehensive Guide for Fixing Bluetooth Audio Issues on Windows 10/11</u></a></li>
+<li><a href="https://win-studio.techidaily.com/unveiling-the-impact-of-the-qing-empire-a-deep-dive-into-chinas-historical-journey-yl-computing/"><u>Unveiling the Impact of the Qing Empire: A Deep Dive Into China's Historical Journey - YL Computing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-7-sound-trouble-heres-how-to-get-it-working-again/"><u>Windows 7 Sound Trouble? Here's How to Get It Working Again!</u></a></li>
+</ul></div>
 

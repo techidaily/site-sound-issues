@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Repairing Your Razer BlackShark V2's Nonfunctional Mic
-date: 2024-12-06T18:23:54.977Z
-updated: 2024-12-10T16:14:06.058Z
+date: 2024-12-11T21:08:45.172Z
+updated: 2024-12-17T00:34:12.400Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -39,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
 5. [Troubleshoot hardware issues](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn on app permissions for your microphone
@@ -51,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
  2) Click**Privacy** .  
   
 ![Privacy in Settings](https://images.drivereasy.com/wp-content/uploads/2021/02/privacy.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Microphone** on the left pane. Then click on the**Change** button and make sure**Microphone access for this device** is turned on.  
   
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Make sure your mic isn’t disabled
@@ -90,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Set your microphone device as default
 
  Normally, when your microphone is connected, Windows can automatically detect it and set it as the default input device. But sometimes it just fails to do that and you have to set it manually:
@@ -107,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
 ![Open Sound Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-control-panel.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select the**Recording** tab. Select your microphone and then click**Set Default > OK** .  
@@ -117,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
  When it’s all done, use your microphone to check if it’s working now. If you’re still having the same problem, try the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Update your audio driver
 
@@ -132,6 +132,10 @@ Here’s how to update drivers with Driver Easy:
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -142,10 +146,6 @@ Here’s how to update drivers with Driver Easy:
  After updating your drivers, restart your computer and do a mic test to check if it’s back to a normal state. If the microphone is still not working properly, try the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Troubleshoot hardware issues
 
@@ -174,20 +174,18 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-the-digital-moguls-guide-to-vimeo-earnings-mastery-for-2024/"><u>[New] The Digital Mogul's Guide to Vimeo Earnings Mastery for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-from-silence-to-symphony-adding-audio-elements-to-instareels-for-2024/"><u>[Updated] From Silence to Symphony Adding Audio Elements to InstaReels for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-effortless-recording-of-netflix-a-step-by-step-guide/"><u>2024 Approved Effortless Recording of Netflix A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-art-of-coherent-audio-segments/"><u>2024 Approved The Art of Coherent Audio Segments</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-update-hp-printer-drivers-compatible-with-windows-11/"><u>Download & Update HP Printer Drivers: Compatible with Windows 11</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-earnings-escalate-500-subscriber-marker-achieved/"><u>In 2024, Earnings Escalate 500-Subscriber Marker Achieved</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pinnacle-5-iphone-apps-for-auditory-escapades/"><u>In 2024, Pinnacle 5 iPhone Apps for Auditory Escapades</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/securing-devices-against-logofail-a-comprehensive-guide-tips-from-zdnet/"><u>Securing Devices Against LogoFAIL: A Comprehensive Guide - Tips From ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/specific-heat-capacity-is-the-energy-required-to-raise-1-gram-of-substance-by-1-kelvin/"><u>Specific Heat Capacity Is the Energy Required to Raise 1 Gram of Substance by 1 Kelvin</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-smooth-playback-for-bluetooth-devices-on-windows-1110/"><u>Step-by-Step Guide: Smooth Playback for Bluetooth Devices on Windows 11/10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-for-realtek-hdmi-audio-software-that-wont-open/"><u>Step-by-Step Repair for Realtek HDMI Audio Software That Won't Open</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/steps-for-repairing-a-malfunctioning-mic-on-your-steelseries-arctis-headset/"><u>Steps for Repairing a Malfunctioning Mic on Your SteelSeries Arctis Headset</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-quiet-problem-solved-boosting-facebook-video-sounds-on-desktop-top-tricks-of-2024/"><u>The Quiet Problem Solved: Boosting Facebook Video Sounds on Desktop - Top Tricks of 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-a-nonfunctional-corsair-headset/"><u>Troubleshooting Guide: Fixing a Nonfunctional Corsair Headset</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-amplify-your-videos-impact-7-royalty-free-sounds/"><u>[New] In 2024, Amplify Your Video's Impact 7 Royalty-Free Sounds</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-bring-your-vision-to-life-youtube-trailers-using-filmoras-magic/"><u>[New] In 2024, Bring Your Vision to Life YouTube Trailers Using Filmora's Magic</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-power-of-azure-voice-recognition-api/"><u>[Updated] Unveiling the Power of Azure Voice Recognition API</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-directory-of-premium-tamil-ringtone-downloads/"><u>2024 Approved Comprehensive Directory of Premium Tamil Ringtone Downloads</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-maximizing-your-reach-live-360-videos-on-facebook/"><u>2024 Approved Maximizing Your Reach Live 360 Videos on Facebook</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-obs-not-recording-audio-solved/"><u>2024 Approved OBS Not Recording Audio [Solved]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-overwatch-voice-chat-push-to-talk-failures/"><u>Fixing the Issue: Overwatch Voice Chat (Push-to-Talk) Failures</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-increase-and-restore-default-audio-levels-in-windows-10/"><u>How to Increase and Restore Default Audio Levels in Windows 10</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-honor-100-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor 100 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-silent-logiteche-g933-headset-easily-with-these-tips/"><u>Resolve Silent Logiteche G933 Headset Easily with These Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-sound-on-your-gameplay-fixing-warzones-mute-dilemma/"><u>Restore Sound on Your Gameplay: Fixing Warzone's Mute Dilemma</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/trackcast-analysis/"><u>TrackCast Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-potential-of-forefront-ai-is-it-a-step-up-from-chatgpt/"><u>Unveiling the Potential of Forefront AI: Is It a Step Up From ChatGPT?</u></a></li>
 </ul></div>
 

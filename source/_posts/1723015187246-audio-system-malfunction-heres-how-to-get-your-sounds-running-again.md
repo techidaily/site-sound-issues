@@ -1,7 +1,7 @@
 ---
 title: Audio System Malfunction? Here’s How to Get Your Sounds Running Again
-date: 2024-12-05T19:30:56.358Z
-updated: 2024-12-10T22:36:40.336Z
+date: 2024-12-15T16:33:46.937Z
+updated: 2024-12-16T22:32:18.291Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 2. [**Update your audio drivers**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Reinstall your audio drivers**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Check the status of your audio services
 
  Whenever you encounter the **One or more audio service isn’t running** problem, the first thing you should do is make sure the service in question is running. Here’s how to check the status of your audio services:
@@ -46,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9f60971b1b9.png)
 3. Scroll down to and right-click**Windows Audio** , then select**Restart** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f04b48d3d.jpg)
 4. Double-click**Windows Audio** , make sure the **Service status** is**running** and the**Startup type** is set to**Automatic** .  
 
@@ -55,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f2e4d5191.jpg)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f2290c014.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click**OK** , then close the Service window.
 
 7. Test by playing a song. If your problem still exists, try Fix 2, below.
@@ -66,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your audio drivers
@@ -86,15 +82,19 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1fc67e2400.jpg)
 3. Click the **Update** button next to your audio driver to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc075f35e6b9.jpg)
 4. Check if your computer now plays music properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 3, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall your audio drivers
 
@@ -112,7 +112,7 @@ OR
 5. Restart your computer, then check if your problem is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -138,24 +138,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/fixed-how-to-restore-voice-chat-capabilities-in-back-4-blood/"><u>[FIXED] How to Restore Voice Chat Capabilities in 'Back 4 Blood'</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-from-basic-to-breathtaking-elevating-your-instagram-edits/"><u>[Updated] 2024 Approved From Basic to Breathtaking Elevating Your Instagram Edits</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-from-concept-art-to-cinematic-masterpiece-utilizing-luts-from-cg-central-for-2024/"><u>[Updated] From Concept Art to Cinematic Masterpiece Utilizing Luts From CG Central for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hues-harmonized-implementing-color-strategies/"><u>[Updated] Hues Harmonized Implementing Color Strategies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-hobbyist-to-host-mac-sports-channel-creation/"><u>[Updated] In 2024, From Hobbyist to Host Mac Sports Channel Creation</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-gear-up-with-smart-techniques-elevating-your-ps4-gameplay-capture-abilities/"><u>[Updated] In 2024, Gear Up with Smart Techniques Elevating Your PS4 Gameplay Capture Abilities</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-top-gear-for-yi-4k-cameras-ultimate-accessory-selection/"><u>[Updated] Top Gear for YI 4K Cameras Ultimate Accessory Selection</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/essential-tips-to-reactivate-audio-during-zoom-video-conferences-on-your-desktop/"><u>Essential Tips to Reactivate Audio During Zoom Video Conferences on Your Desktop</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-what-to-do-when-your-sennheiser-gaming-mic-wont-work-anymore/"><u>Expert Advice: What to Do When Your Sennheiser Gaming Mic Won't Work Anymore</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fast-fixes-for-flawless-bluetooth-sound-say-goodbye-to-latency/"><u>Fast Fixes for Flawless Bluetooth Sound - Say Goodbye to Latency</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-gameplay-how-to-restore-audio-in-hearthstone/"><u>Fixing Silent Gameplay: How to Restore Audio in Hearthstone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/front-speaker-connector-not-working-heres-how-you-can-fix-it-at-home/"><u>Front Speaker Connector Not Working? Here's How You Can Fix It at Home!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-voice-chat-back-on-track-in-apex-legends-expert-solutions/"><u>Get Your Voice Chat Back on Track in Apex Legends – Expert Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-your-voice-heard-again-fixing-mic-issues-in-counter-strike-global-offensive/"><u>Getting Your Voice Heard Again: Fixing Mic Issues in Counter-Strike Global Offensive</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-enable-and-fix-voice-chat-disruption-issues-for-a-seamless-phasmophobia-experience/"><u>How to Enable and Fix Voice Chat Disruption Issues for a Seamless Phasmophobia Experience</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/losung-fur-outlook-fehler-bei-mail-empfang-erkennen-und-beheben-der-ursachen/"><u>Lösung Für Outlook: Fehler Bei Mail-Empfang, Erkennen Und Beheben Der Ursachen</u></a></li>
-<li><a href="https://review-topics.techidaily.com/nokia-c12-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Nokia C12 support - Forgotten screen lock.</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-convert-mts-for-13t-pro-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for 13T Pro</u></a></li>
-<li><a href="https://win-web.techidaily.com/understanding-why-your-final-pages-appear-empty-insights-from-flipbuilder/"><u>Understanding Why Your Final Pages Appear Empty: Insights From FlipBuilder</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-explore-the-world-of-video-calls-hangouts-for-android-for-2024/"><u>[Updated] Explore the World of Video Calls Hangouts for Android for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-supreme-4k-tvs-for-the-ultimate-gaming-experience/"><u>2024 Approved Supreme 4K TVs for the Ultimate Gaming Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discover-how-to-tailor-your-snapchat-videos-speed-and-tempo/"><u>Discover How To Tailor Your Snapchat Videos' Speed & Tempo</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-non-responsive-keyboard-troubleshooting-guide/"><u>How To Fix A Non-Responsive Keyboard: Troubleshooting Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-control-youtube-audio-mobiledesktop-approach/"><u>In 2024, Control YouTube Audio Mobile/Desktop Approach</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-update-for-tp-links-80211ac-adapter-software-on-windows-pcs/"><u>Latest Update for TP-Link's 802.11Ac Adapter Software on Windows PCs!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-for-handling-silent-audio-channels-in-applications/"><u>Quick Solutions for Handling Silent Audio Channels in Applications</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/repair-tips-mending-the-primary-audio-interface-for-better-sound-quality/"><u>Repair Tips: Mending The Primary Audio Interface For Better Sound Quality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-skype-audio-problems-with-these-simple-fixes/"><u>Resolve Your Skype Audio Problems with These Simple Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-deactivating-sound-amplification-on-windows-10/"><u>Step-by-Step Guide: Deactivating Sound Amplification on Windows 10</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/turtle-beachs-atlas-air-earphones-surpassing-audio-expectations/"><u>Turtle Beach's ATLAS Air Earphones: Surpassing Audio Expectations</u></a></li>
 </ul></div>
 

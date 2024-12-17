@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Repair Tips for Corsair Void Microphone Malfunction Issues
-date: 2024-12-03T22:39:42.437Z
-updated: 2024-12-10T17:11:13.943Z
+date: 2024-12-11T22:57:31.781Z
+updated: 2024-12-17T01:37:48.765Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/60c0536f1fc5d6831a20d36d45e0ac93bc7d119ca
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **How to fix Logitech G430 mic not working**
 
  If you didn’t mute the mic, if you’ve troubleshot the hardware and tried plugging your headset into different USB ports but your mic is still not working, try the solutions below:
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/60c0536f1fc5d6831a20d36d45e0ac93bc7d119ca
 4. [**Reinstall Logitech Game Software**](https://tools.techidaily.com/drivereasy/download/)
 
  Note: the screenshots below come from Windows 10, and the fixes also work on Windows 8 and Windows 7.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 1: Allow access to microphone (for Windows 10 users)**
 
@@ -46,20 +54,20 @@ thumbnail: https://thmb.techidaily.com/60c0536f1fc5d6831a20d36d45e0ac93bc7d119ca
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2665c0c8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Microphone** on the left pane, and make sure**Microphone access for this device** **is on** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ad8d38e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (If this issue happens in the voice chat when you play games, you can also check if the microphone status for that game is**ON** .)
 
  Re-plug your microphone again to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 2: Update your audio driver**
 
@@ -87,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/60c0536f1fc5d6831a20d36d45e0ac93bc7d119ca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd61613c73.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -99,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/60c0536f1fc5d6831a20d36d45e0ac93bc7d119ca
 5) Try your Logitech microphone again to see if it works now.
 
  If your issue still persists, don’t worry. We have other solutions for you to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 3: Check your sound settings**
 
@@ -124,17 +124,21 @@ thumbnail: https://thmb.techidaily.com/60c0536f1fc5d6831a20d36d45e0ac93bc7d119ca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627553bb550.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Right click on your microphone again and select**Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6275be6bfc9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Right click your microphone, and click**Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62766a93d1c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Click the**Levels** tab, and drag the volume slider to**maximum** .
 
@@ -145,10 +149,6 @@ thumbnail: https://thmb.techidaily.com/60c0536f1fc5d6831a20d36d45e0ac93bc7d119ca
  Try your Logitech G430 mic again and see if it works.
 
  Still no luck? Okay, there’s one more thing to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 4: Reinstall Logitech Game Software**
 
@@ -178,22 +178,22 @@ thumbnail: https://thmb.techidaily.com/60c0536f1fc5d6831a20d36d45e0ac93bc7d119ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-the-ultimate-compilation-of-top-7-android-adblocking-apps/"><u>[New] 2024 Approved The Ultimate Compilation of Top 7 Android AdBlocking Apps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-apex-athletes-snowspeedcross-22-recaps/"><u>[New] Apex Athletes Snowspeedcross '22 Recaps</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/op-10-strategies-for-youtube-musicians-make-the-perfect-reaction-video/"><u>[New] Top 10 Strategies for YouTube Musicians Make the Perfect Reaction Video</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-decoding-faux-support-a-guide-for-savvy-social-network-users/"><u>[Updated] Decoding Faux Support A Guide for Savvy Social Network Users</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-close-up-cinematography-secrets-with-kinemaster/"><u>[Updated] In 2024, Close-Up Cinematography Secrets with Kinemaster</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-secrets-to-discreetly-fading-out-sounds-using-audacity/"><u>[Updated] The Secrets to Discreetly Fading Out Sounds Using Audacity</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-harvesting-hits-and-heads-how-to-profit-from-your-youtube-presence-without-ads/"><u>2024 Approved Harvesting Hits and Heads How to Profit From Your YouTube Presence Without Ads</u></a></li>
-<li><a href="https://win-forum.techidaily.com/engage-online-with-leading-sites-facebook-twitter-instagram-youtube/"><u>Engage Online with Leading Sites: Facebook, Twitter, Instagram, Youtube</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-voice-chat-problems-in-players-unknown-battlegrounds-pubg-efficiently/"><u>How To Fix Voice Chat Problems in Players Unknown: Battlegrounds (PUBG) Efficiently</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-malfunctioning-turtle-beach-headset-mic-for-optimal-performance/"><u>How to Repair a Malfunctioning Turtle Beach Headset Mic for Optimal Performance</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-connectivity-problems-between-corsair-hs35-headset-and-windows-system/"><u>How to Resolve Connectivity Problems Between Corsair HS35 Headset and Windows System</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro Max To Others ios devices? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hp-laptop-muting-problem-solved-a-comprehensive-fixing-manual/"><u>HP Laptop Muting Problem Solved: A Comprehensive Fixing Manual</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-output-from-airpods-step-by-step-guide-for-playing-audio-via-windows-11-and-10-systems/"><u>No Output From AirPods? Step-by-Step Guide for Playing Audio via Windows 11 and 10 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-your-skype-audio-problems-repairing-microphone-functionality-on-windows-11/"><u>Resolve Your Skype Audio Problems: Repairing Microphone Functionality on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-no-speaker-or-headphones-detected-problems-on-windows-11-8-and-7/"><u>Resolving 'No Speaker or Headphones Detected' Problems on Windows 11, 8 & 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restore-your-game-audio-expert-tips-for-resolving-fortnites-sound-issues/"><u>Restore Your Game Audio: Expert Tips for Resolving Fortnite's Sound Issues</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-deciphering-the-innovative-world-of-youtube-studio/"><u>[New] 2024 Approved Deciphering the Innovative World of YouTube Studio</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-vloggers-guide-to-optimal-lens-performance/"><u>[New] 2024 Approved The Vlogger's Guide to Optimal Lens Performance</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-secure-your-brand-on-youtube-adding-logos-and-watermarks/"><u>[New] In 2024, Secure Your Brand on YouTube Adding Logos & Watermarks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-make-a-statement-with-free-profile-pics/"><u>[Updated] Make a Statement With Free Profile Pics</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/tless-youtube-live-with-step-by-step-obs-guide-for-beginners-for-2024/"><u>Effortless YouTube Live with Step-by-Step OBS Guide for Beginners for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminate-pesky-latency-how-to-get-crystal-clear-audio-on-bluetooth-devices/"><u>Eliminate Pesky Latency: How to Get Crystal Clear Audio on Bluetooth Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-destiny-2-resolving-the-centipede-bug-effectively/"><u>Fixing Destiny 2: Resolving the Centipede Bug Effectively</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-and-fastest-download-of-realtek-drivers-compatible-with-windows-10/"><u>Get the Latest & Fastest Download of RealTek Drivers Compatible with Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-connectivity-problems-with-logitech-g-pro-x-for-gamers-and-streamers/"><u>Resolving Connectivity Problems with Logitech G Pro X for Gamers and Streamers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-heroes-shouts-overcoming-complete-silence-issues-in-hearthstone/"><u>Reviving Heroes' Shouts: Overcoming Complete Silence Issues in Hearthstone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tackling-silent-toshiba-devices-a-comprehensive-fix-for-sound-problems/"><u>Tackling Silent Toshiba Devices: A Comprehensive Fix for Sound Problems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722877048883-the-ultimate-fix-for-msvcr100dll-not-found-tips-and-tricks-inside/"><u>The Ultimate Fix for 'MSVCR100.DLL' Not Found – Tips and Tricks Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-audacity-sound-device-failures-with-these-5-effective-solutions/"><u>Troubleshoot Audacity Sound Device Failures with These 5 Effective Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-missing-headphones-fix-playback-device-issues-in-windows-11/"><u>Troubleshooting Missing Headphones: Fix Playback Device Issues in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-windows-n11-overcoming-the-challenge-of-non-functional-dolby-audio-driver/"><u>Troubleshooting Steps for Windows N11: Overcoming the Challenge of Non-Functional Dolby Audio Driver</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-solving-the-silence-tips-to-restore-audio-in-call-of-duty-mobile-warzone-for-players/"><u>Ultimate Guide: Solving the Silence - Tips to Restore Audio in Call of Duty Mobile (Warzone) for Players</u></a></li>
+<li><a href="https://win11.techidaily.com/wsl-contribution-to-linux-user-growth/"><u>WSL Contribution to Linux User Growth</u></a></li>
 </ul></div>
 

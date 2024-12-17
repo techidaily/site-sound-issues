@@ -1,7 +1,7 @@
 ---
 title: "Call of Duty Mobile Silence Solved: Top Tips and Tricks to Bring Back Warzone Sound for PC Users"
-date: 2024-12-05T21:59:35.725Z
-updated: 2024-12-10T18:15:32.929Z
+date: 2024-12-16T00:28:00.294Z
+updated: 2024-12-16T16:58:39.784Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/8f68fe379c1fc55633560bfb567af056a8ac88cb0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try all of them. Just work your way down until you find a fix that works for you.
@@ -39,15 +35,15 @@ thumbnail: https://thmb.techidaily.com/8f68fe379c1fc55633560bfb567af056a8ac88cb0
 5. **[Change the in-game audio settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check the connection of your audio device
 
  When your voice chat stops working, the first thing you want to do is check your connection. You need to **make sure the device cable is not broken or worn out, and is securely plugged into the correct headphone jack of your PC** . Or you can simply do a replug and see how it goes. If you’re using a headset with a switch, make sure you’ve turned on the mic.
 
 If the connection is fine, check out the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Disable your peripherals
 
@@ -66,15 +62,20 @@ First you need to check the default audio device on your system:
 1. On your keyboard, press**Win+R** (the Windows logo button and the r button) at the same time to invoke the Run box. Type or paste **ms-settings:sound** and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-ms-settings-sound.jpg)
 2. Under the**Input** section, make sure your input device is set to your desired one. Then click**Device properties and test microphone** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/input-device-testing.jpg)
 3. Make sure the box next to**Disable** is unchecked, and the slider under**Volume** is set to 100.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
 4. Click **Start test** and tap or speak to your microphone. Then click **Stop test** . If you’re prompted **The highest value we saw was xx (xx > 0) percent** , it means your microphone has been set up correctly.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/sound-test-percent.jpg)
 
@@ -88,13 +89,13 @@ Next, you need to check the voice chat settings in the Battle.net client:
 3. On the menu to your left, select **Voice Chat** . Set **OUTPUT DEVICE** and **INPUT DEVICE** to **System Default Device** . Then click **Done** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-voice-chat.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now launch Black Ops Cold War and see if you can talk to others.
@@ -121,6 +122,10 @@ Now launch Black Ops Cold War and see if you can talk to others.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
@@ -156,14 +161,10 @@ Here’s a quick guide for that:
 2. Click**Check for updates** . Windows will download and install the available updates. Wait for the process to complete.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -188,20 +189,20 @@ Here’s a quick guide for that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/1723014981754-fixed-no-sound-on-computer-quickly-and-easily/"><u>[Fixed] No Sound on Computer - Quickly & Easily</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015007126-fixed-rec-room-mic-not-working-on-pc-2024-guide/"><u>[FIXED] Rec Room Mic Not Working on PC – 2024 Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-engage-more-dissuade-less-top-6-ways-to-increase-watch-time-and-stayers/"><u>[New] 2024 Approved Engage More, Dissuade Less Top 6 Ways to Increase Watch Time and Stayers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-innovative-approaches-to-record-and-archive-roblox-gameplay-on-apple-systems/"><u>[Updated] In 2024, Innovative Approaches to Record & Archive Roblox Gameplay on Apple Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/apex-legends-voice-chat-not-working-solved/"><u>Apex Legends Voice Chat Not Working [SOLVED]</u></a></li>
-<li><a href="https://games-able.techidaily.com/bypassing-steam-login-issues-on-rust-platforms-windows/"><u>Bypassing Steam Login Issues on Rust Platforms Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/conquer-the-challenge-of-echo-during-voice-chats-on-discord-a-detailed-2024-troubleshooting-tutorial-for-pc-users/"><u>Conquer the Challenge of Echo During Voice Chats on Discord - A Detailed 2024 Troubleshooting Tutorial for PC Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-muted-troubleshoot-game-sounds-for-a-perfect-gaming-experience-on-windows-11/"><u>Cyberpunk 2077 Muted? Troubleshoot Game Sounds for a Perfect Gaming Experience on Windows 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-oppo-find-x7-ultra-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Oppo Find X7 Ultra Pattern Lock Screen</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/ideal-screen-capture-apps-for-perfect-android-displays-for-2024/"><u>Ideal Screen Capture Apps for Perfect Android Displays for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-video-content-potential-integrating-interactive-features-in-youtube-cards/"><u>In 2024, Unlocking Video Content Potential Integrating Interactive Features in Youtube Cards</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/leading-speech-recording-software-for-mac-discovering-our-five-favorites-for-2024/"><u>Leading Speech Recording Software for Mac Discovering Our Five Favorites for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-poco-m6-pro-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Poco M6 Pro 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016868170-windows-11-audio-hiccups-uncover-the-ultimate-fix-to-continuous-sound-interruptions/"><u>Windows 11 Audio Hiccups? Uncover the Ultimate Fix to Continuous Sound Interruptions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016882973-windows-11-sounds-dropping-out-heres-how-you-can-fix-it/"><u>Windows 11 Sounds Dropping Out? Here's How You Can Fix It</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-copyright-free-audio-treasury-for-gamers-online/"><u>[New] 2024 Approved Copyright-Free Audio Treasury for Gamers Online</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-discover-the-innovations-in-iphone-xs-imaging-system-for-2024/"><u>[New] Discover the Innovations in iPhone X's Imaging System for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-optimal-strategies-for-mobile-snapchat-recordings/"><u>[New] Optimal Strategies for Mobile Snapchat Recordings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-5-simple-steps-to-record-your-youtube-streams/"><u>[Updated] 5 Simple Steps to Record Your YouTube Streams</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-a-comprehensible-guide-to-adding-images-on-instagram-for-2024/"><u>[Updated] A Comprehensible Guide to Adding Images on Instagram for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-uninterrupted-airdrop-connections-in-the-world-of-iphones-and-macs/"><u>2024 Approved Uninterrupted AirDrop Connections in the World of iPhones & Macs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/2024-guide-resolving-deadlocks-in-your-startups-launch-process/"><u>2024 Guide: Resolving Deadlocks in Your Startup's Launch Process</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-microphone-solutions-when-it-wont-capture-sound/"><u>Fix Your Microphone: Solutions When It Won't Capture Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-common-issues-how-to-restore-voice-communication-in-destiny-2/"><u>Fixing Common Issues: How To Restore Voice Communication In Destiny 2?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-samsung-galaxy-z-fold-5-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Samsung Galaxy Z Fold 5 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-fortnite-audio-issues-microphone-hacked-and-fixed/"><u>Solve Your Fortnite Audio Issues: Microphone Hacked and Fixed!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-skype-audio-problems-a-comprehensive-fix-for-windows-11-users/"><u>Solve Your Skype Audio Problems: A Comprehensive Fix for Windows 11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-to-restart-dolby-digital-driver-issues-on-microsofts-latest-os/"><u>Step-by-Step Solution to Restart Dolby Digital Driver Issues on Microsoft's Latest OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-tricks-enhancing-speaker-output-for-a-louder-experience/"><u>Windows 10 Tricks: Enhancing Speaker Output for a Louder Experience</u></a></li>
 </ul></div>
 

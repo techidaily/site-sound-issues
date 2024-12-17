@@ -1,7 +1,7 @@
 ---
 title: "Get Your Sound Back: Fix Voice Chat and Microphone Malfunctions on PC & Consoles for Call of Duty's Battle Royale Game."
-date: 2024-12-05T16:21:18.863Z
-updated: 2024-12-10T20:30:39.626Z
+date: 2024-12-11T23:55:59.317Z
+updated: 2024-12-16T17:10:13.387Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix League of Legends Voice Chat Not Working
 
  Here are four fixes that have helped other users resolve the voice chat not working problem in LoL. You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
@@ -34,7 +38,7 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 4. **[Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Check out the obvious
@@ -55,8 +59,16 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.png)
 3. Under the**Voice** tab, make sure the Join voice channel automatically option is checked.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-1.png)
 4. Check to see if you can use the voice chat feature properly in game. If yes, then great! If it’s no joy, please move on to**Fix 3** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Configure the audio settings
 
@@ -74,22 +86,14 @@ You can follow the steps below to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio-2.png)
 4. Speak into yout mic to test if the indicator bar on the right moves. If yes, your mic should be working properly. If it doesn’t, check your headphone device to make sure it’s not muted.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click the**Advanced**  tab. Under the **Default Format** section, choose a different sample rate and bit depth and click**Test** . Repeat this process until you find a format that works for you. After that, make sure the box for**Allow application to take exclusive control of this deviice** is**unticked** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/111-1.png)
 6. Once finished, click**Apply** \>**OK** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Test in WoW to see if you can communicate with your friends. If it still gives you no luck, you should try**Fix 4** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your audio drivers
@@ -107,10 +111,6 @@ You can follow the steps below to check:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Re-launch LoL, then test voice chatting with your friends to see if it solves the error.
@@ -135,21 +135,20 @@ You can follow the steps below to check:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-top-9-camera-extras-for-professional-level-vlogging-on-smartphones/"><u>[New] 2024 Approved Top 9 Camera Extras for Professional-Level Vlogging on Smartphones</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-quality-matters-the-advantages-and-disadvantages-of-different-fps/"><u>[Updated] In 2024, Quality Matters The Advantages & Disadvantages of Different FPS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dive-into-chilling-tales-the-ultimate-list-of-top-13-true-crime-narratives-on-podcasts/"><u>Dive Into Chilling Tales: The Ultimate List of Top 13 True Crime Narratives on Podcasts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/end-silent-screenings-top-strategies-to-restore-audio-in-pc-users-facebook-video-playbacks/"><u>End Silent Screenings: Top Strategies to Restore Audio in PC Users' Facebook Video Playbacks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-guide-to-enable-sound-capturing-in-discord-during-games/"><u>Expert Guide to Enable Sound Capturing in Discord During Games</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-solutions-reviving-a-broken-corsair-audio-gear-easily/"><u>Expert Solutions: Reviving a Broken Corsair Audio Gear Easily</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-discords-push-to-talk-issue-a-comprehensive-guide/"><u>Fixing Discord's Push-to-Talk Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-no-sound-in-fortnite-expert-tips-and-techniques-to-restore-audio-quality/"><u>Fixing No Sound in Fortnite: Expert Tips and Techniques to Restore Audio Quality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/game-sounds-on-resolving-discords-game-audio-issues/"><u>Game Sounds On! - Resolving Discord's Game Audio Issues</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-vivo-v27-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo V27 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-the-art-of-cross-platform-skype-chats-with-this-comprehensive-guide-for-2024/"><u>Mastering the Art of Cross-Platform Skype Chats with This Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/movavi-dts-to-wav/"><u>Movavi의 공식 DTS to WAV 코어 이동 서비스 - 인터넷을 통한 제대로 무료 구현</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/paso-a-paso-para-aumentar-la-capacidad-de-almacenamiento-con-una-unidad-ssd-o-hdd-mas-grande-en-windows-11/"><u>Paso a Paso Para Aumentar La Capacidad De Almacenamiento Con Una Unidad SSD O HDD Más Grande en Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016500272-solve-airpods-microphone-failure-in-windows-10-with-easy-fixes/"><u>Solve 'AirPods Microphone Failure' In Windows 10 with Easy Fixes!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/spectrum-savvy-the-filmmakers-guide-to-color-for-2024/"><u>Spectrum Savvy The Filmmaker's Guide to Color for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-realme-c55-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Realme C55 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-dominate-online-chatter-secrets-to-buzz-creating-for-2024/"><u>[New] Dominate Online Chatter Secrets to Buzz-Creating for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-create-an-nft-easily-an-ultimate-guide-for-beginners/"><u>[New] How to Create an NFT Easily An Ultimate Guide for Beginners</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-freshwater-frontiers-prime-camers-for-fishing-enthusiasts/"><u>[Updated] Freshwater Frontiers Prime Camers for Fishing Enthusiasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-precision-in-podcast-promotion-timelines/"><u>[Updated] Precision in Podcast Promotion Timelines</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-streamlining-your-digital-liftoffs-using-vlc-for-mp4-and-more/"><u>2024 Approved Streamlining Your Digital Liftoffs Using VLC for MP4 and More</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advanced-techniques-to-manage-safe-area-multitasking/"><u>Advanced Techniques to Manage Safe Area Multitasking</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/defending-your-messages-a-comprehensive-guide-to-safeguard-whatsapp-against-unauthorized-access/"><u>Defending Your Messages: A Comprehensive Guide to Safeguard WhatsApp Against Unauthorized Access</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-guidance-on-restoring-functionality-to-the-lucidsound-ls30-microphone/"><u>Expert Guidance on Restoring Functionality to the LucidSound LS30 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-sudden-sound-drops-in-windows-11-simple-troubleshooting-steps/"><u>Fixing Sudden Sound Drops in Windows 11 - Simple Troubleshooting Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-microphone-functionality-on-windows-11-devices/"><u>How to Restore Microphone Functionality on Windows 11 Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016898666-logitech-g633-not-working-expert-advice-and-fixes-inside/"><u>Logitech G633 Not Working? Expert Advice and Fixes Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/repairing-a-non-functional-kotion-each-g2000-mic-a-step-by-step-guide/"><u>Repairing a Non-Functional Kotion Each G2000 Mic: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-blue-yeti-microphone-effective-methods-for-unrecognizable-units/"><u>Reviving Your Blue Yeti Microphone: Effective Methods for Unrecognizable Units</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/shining-light-on-dark-screens-expert-advice-for-rectifying-blackouts-during-facetime-calls/"><u>Shining Light on Dark Screens: Expert Advice for Rectifying Blackouts During FaceTime Calls</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-hyperx-cloud-mic-ultimate-guide-for-non-stop-audio-performance/"><u>Troubleshooting Your HyperX Cloud Mic - Ultimate Guide for Non-Stop Audio Performance</u></a></li>
 </ul></div>
 

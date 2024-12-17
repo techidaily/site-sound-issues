@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Fixing a Nonfunctional Logitech G230 Mic - A Step-by-Step Guide
-date: 2024-12-09T21:03:12.001Z
-updated: 2024-12-10T21:54:31.577Z
+date: 2024-12-09T19:10:53.968Z
+updated: 2024-12-16T16:43:45.096Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes For **LucidSound LS30 Mic Not Working** In Windows
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 4. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
@@ -48,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
  Check if the microphone is still not working. If yes, then great. But if it’s not working, move on to **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Make sure the volume is audible
 
@@ -69,6 +69,10 @@ To make sure the volume is audible:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Adjust your audio settings
 
  Ideally when a new audio device is inserted, Windows will automatically set it as the default audio playback device. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -78,10 +82,6 @@ To do so:
  1) Right-click on **the sound icon** on the lower-right of your computer screen, then click **Sounds** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-139.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
@@ -103,6 +103,10 @@ To do so:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Update your audio driver
 
  This problem may occur if you are using the wrong audio driver or it’s out of date. So you should update your audio driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -117,16 +121,12 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-142.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-144.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.
@@ -160,20 +160,19 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-eradicating-flutter-phenomenon-from-drones-footage-for-2024/"><u>[New] Eradicating Flutter Phenomenon From Drones' Footage for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-facing-copyright-challenges-on-youtube-know-your-rights-for-2024/"><u>[Updated] Facing Copyright Challenges on YouTube Know Your Rights for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-unlocking-potential-metaverse-marketing-secrets/"><u>[Updated] Unlocking Potential Metaverse Marketing Secrets</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-honor-x8b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-use-of-macs-chatgpt-say-goodbye-to-paid-subscriptions/"><u>Free Use of Mac's ChatGPT: Say Goodbye to Paid Subscriptions</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2022-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2022) without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/overcome-your-phasmophobia-game-glitch-fix-the-endless-load-screen-of-90/"><u>Overcome Your Phasmophobia Game Glitch - Fix the Endless Load Screen of 90%!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-no-sound-issues-in-pcs-post-windows-11-enhancement-step-by-step-guide/"><u>Resolve No-Sound Issues in PCs Post Windows 11 Enhancement – Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-audio-problems-on-your-windows-7-computer/"><u>Resolving Audio Problems on Your Windows 7 Computer</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restore-sound-input-in-windows-eboot-ultimate-guide-to-solving-pc-microphone-problems/"><u>Restore Sound Input in Windows Eboot - Ultimate Guide to Solving PC Microphone Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-the-battle-cries-how-to-fix-missing-sounds-in-borderlands-3-for-your-computer/"><u>Restoring the Battle Cries: How to Fix Missing Sounds in Borderlands 3 for Your Computer</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-audio-fixes-for-a-broken-corsair-hs60-headset-mic/"><u>Revive Your Audio: Fixes for a Broken Corsair HS60 Headset Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-why-are-my-headphones-not-working-with-windows-10/"><u>Solution Guide: Why Are My Headphones Not Working with Windows 10?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-choosing-a-gaming-mini-pc-small-size-big-performance/"><u>Ultimate Guide to Choosing a Gaming Mini PC: Small Size, Big Performance</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-evaluating-tunefab-for-video-capture-excellence/"><u>[New] Evaluating Tunefab for Video Capture Excellence</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-lawful-ways-to-attain-a-million-followers-on-youtube/"><u>[Updated] Lawful Ways to Attain a Million Followers on YouTube</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-best-free-youtube-comment-finder-you-should-try/"><u>2024 Approved Best Free YouTube Comment Finder You Should Try</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-rise-of-micro-video-a-tiktok-vs-snapchat-study/"><u>2024 Approved The Rise of Micro-Video A TikTok vs Snapchat Study</u></a></li>
+<li><a href="https://games-able.techidaily.com/apples-game-selection-mastery-the-arcade-advantage/"><u>Apple's Game Selection Mastery – The Arcade Advantage</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-silent-laptop-computers-a-comprehensive-guide/"><u>Diagnosing and Fixing Silent Laptop Computers: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-the-sony-headset-mic-malfunction-when-connected-to-your-pc/"><u>Effective Fixes for the Sony Headset Mic Malfunction When Connected to Your PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-guide-on-repairing-non-functional-realtek-microphones/"><u>Expert Guide on Repairing Non-Functional Realtek Microphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-pcs-resolving-complete-lack-of-audio-in-cyberpunk-2077-on-windows-10/"><u>Fixing Silent PCs: Resolving Complete Lack of Audio in Cyberpunk 2077 on Windows 10</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-learn-the-art-of-engaging-video-startups-with-imovie/"><u>In 2024, Learn the Art of Engaging Video Startups with iMovie</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-tecno-pova-5-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Tecno Pova 5 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-mic-trouble-on-windows-7-expert-guides-and-tips-uncovered/"><u>Resolving Mic Trouble on Windows 7: Expert Guides & Tips Uncovered</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-when-your-windows-10-sound-fails/"><u>Step-by-Step Solution: When Your Windows 10 Sound Fails</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-six-best-apps-for-monitoring-your-diet/"><u>The Ultimate List: Six Best Apps for Monitoring Your Diet</u></a></li>
 </ul></div>
 

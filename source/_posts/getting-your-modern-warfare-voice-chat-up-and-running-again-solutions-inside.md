@@ -1,7 +1,7 @@
 ---
 title: Getting Your Modern Warfare Voice Chat Up and Running Again – Solutions Inside!
-date: 2024-08-23T12:18:54.875Z
-updated: 2024-08-24T12:18:54.875Z
+date: 2024-12-16T01:13:33.980Z
+updated: 2024-12-16T19:53:41.772Z
 tags:
   - win11
   - win10
@@ -38,15 +38,20 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 2. In the left panel, select**Microphone** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/settings-privacy-microphone.jpg)
 3. Under**Allow apps to access your microphone** , make sure the toggle is set to**ON** , and the status is**On** for**Back 4 Blood** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/tun-on-allow-apps-to-access-your-microphone.jpg)
 4. Launch the game again to see if the voice chat works now.
 
 If the in-game voice chat is still not working, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your audio driver
 
  The voice chat not working issue can be caused by a corrupted or outdated audio driver. To fix it, you’ll need to update your audio driver.
@@ -67,6 +72,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  If updating your audio driver doesn’t solve your problem, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Set your audio device as the default device
 
  If you don’t have the correct audio devices set in Windows and Steam, your microphone or headset may not work properly. To ensure the voice chat works properly, you’ll need to set your audio device as the default device. Here’s how:
@@ -74,32 +83,34 @@ DbSchema database designer for all databases, schema design in the team, schema 
 1. On your keyboard, press the**Windows logo key** and**R** together to open the Run dialog box. Then type**mmsys.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/mmsys.cpl_.jpg)
 2. Under the**Playback** tab, select the**speakers or headset** you want to use and click**Set Default** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/headphones-set-default.jpg)
 3. Click the**Recording** tab, select the**microphone or headset** you want to use and click**Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/microphone-set-default.jpg)
 4. Launch Steam. At the bottom-right corner of the Steam client, click**FRIENDS & CHAT** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/b4b-friends-chat.jpg)
 5. In the pop-up window, click**the gear icon** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/friends-chat-gear.jpg)
 6. Select**VOICE** . In**VOICE INPUT DEVICE** , select the microphone you set as the default device in step 3). In**VOICE OUTPUT DEVICE** , select the headset you set as the default device in step 2).  
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-voice-set.jpg)
 7. Launch Back 4 Blood again to see if the voice chat is working properly.
 
 If the issue remains, check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Fix 4: Connect your microphone directly to your controller
 
  Some console players have found that the voice chat may not work if you’ve your headset connected through a Mixamp. To ensure the voice chat works properly in Back 4 Blood, you might need to connect your microphone directly to your controller.
@@ -112,9 +123,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. **Right-click** Back 4 Blood and select**Manage** \>**Uninstall** . Then follow the on-screen instructions to uninstall the game.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/b4b-uninstall-game.jpg)
 3. After the process completes, reinstalling the game.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
  The Back 4 Blood voice chat not working issue should have been resolved after trying all the fixes mentioned above. But if not, you can contact the Back 4 Blood support directly and[submit a ticket](https://go.wbgames.com/B4BHelp) .
 
@@ -130,8 +138,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +145,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-masterful-filmmaking-moves-with-kinemaster/"><u>[New] 2024 Approved Masterful Filmmaking Moves with Kinemaster</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-giggle-genie-selecting-the-finest-jokes-makers/"><u>[Updated] 2024 Approved Giggle Genie Selecting the Finest Jokes Makers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-altering-visuals-in-teams-calls-timely-setup-adjustments-for-2024/"><u>[Updated] Altering Visuals in Teams Calls Timely Setup Adjustments for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-unleash-a-flood-of-supporters-attain-a-million-ish-on-ig-each-month/"><u>[Updated] In 2024, Unleash a Flood of Supporters Attain a Million-Ish on IG Each Month</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-quick-and-easy-iphone-burst-techniques/"><u>[Updated] Quick and Easy iPhone Burst Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016288639-fix-your-fortnite-voice-chat-issues-instantly-simple-solutions/"><u>Fix Your Fortnite Voice Chat Issues Instantly: Simple Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-hp-notebook-audio-issues-step-by-step-troubleshooting-guide/"><u>Fixing HP Notebook Audio Issues: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-with-a-nonfunctional-logitech-camera-and-mic/"><u>Fixing Issues with a Nonfunctional Logitech Camera and Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-noisy-or-distorted-sounds-tips-to-enhance-your-outriders-gaming-experience/"><u>Fixing Noisy or Distorted Sounds: Tips to Enhance Your Outriders Gaming Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/navigate-through-common-voicemod-errors-essential-repair-techniques-for-a-seamless-2024-experience/"><u>Navigate Through Common Voicemod Errors – Essential Repair Techniques for a Seamless 2024 Experience</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-asus-rog-phone-8-pro-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-when-your-corsair-hs60-mic-stops-working/"><u>Solution Guide: When Your Corsair HS60 Mic Stops Working</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-a-detailed-guide-on-cutting-edge-gadgets/"><u>Tom's Tech Review: A Detailed Guide on Cutting-Edge Gadgets</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-oppo-a18-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Oppo A18 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-skype-mic-not-working-heres-how-to-repair-it/"><u>Windows 11 Skype Mic Not Working? Here's How to Repair It</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolve Audio Troubles: Top 5 Fixes for 'Opening Sound Device' Problems in Audacity"
-date: 2024-12-03T16:46:25.208Z
-updated: 2024-12-10T18:09:55.044Z
+date: 2024-12-12T00:06:31.497Z
+updated: 2024-12-16T20:10:11.108Z
 tags:
   - win11
   - win10
@@ -54,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Check the audio settings
 
  If the volume on your computer is set mute or too low, you won’t be able to hear the sound. To make sure you have turned up the volume:
@@ -62,12 +66,16 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b026dbda51a8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Output** tab > **Internal Speakers** . Move the**Output volume** slider all the way to the right and make sure the box before**Mute** is**unchecked** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b038f642ae65.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If instead of**Internal Speakers** , you see **Digital Output** or**No output devices found** , then insert your headphone into the headphone port and pull it out. Keep plugging and unplugging until **Internal Speakers** appears. Then repeat step 2).
@@ -86,21 +94,17 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b037f3956a98.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * If**no** (i.e. **Bluetooth: Off** ): click the**Close** button. Proceed to Fix 5.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03a1e86842f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Check if the**no sound problem** has been solved.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Restart your Mac
 
@@ -109,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Reset **NVRAM**
@@ -127,10 +131,6 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
 5) Test to see if the sound works properly.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix **7: Create a testing account on safe mode**
 
@@ -150,10 +150,6 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0388cd4df0e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) In**New Account** , choose**Administrator** . In**Full Name** , enter a name for your testing account (TEST, in my case). Then click**Create User** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b038a64edd48.jpg)
@@ -170,6 +166,10 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
  9) Click **System Preferences** \> **Users & Groups** \> the**Lock** icon > the**Minus** icon to delete your testing account.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix **8: Update your Mac OS**
 
@@ -211,18 +211,19 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-pros-and-cons-gopro-hero-4-vs-drift-ghost-s-racing-edition/"><u>[Updated] Pros & Cons GoPro Hero 4 Vs. Drift Ghost-S Racing Edition</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-and-why-is-the-leader-of-openai-advocating-stricter-rules-on-artificial-intelligence/"><u>How and Why Is the Leader of OpenAI Advocating Stricter Rules on Artificial Intelligence</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-rated-free-mov-video-editing-tools-a-comprehensive-list/"><u>New In 2024, Top-Rated Free MOV Video Editing Tools A Comprehensive List</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-audio-functionality-in-windows-11-expert-solutions-to-common-problems/"><u>Restoring Audio Functionality in Windows 11: Expert Solutions to Common Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-audio-to-your-hearthstone-adventures-no-more-silent-battles/"><u>Restoring Audio to Your Hearthstone Adventures: No More Silent Battles!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-sound-functionality-on-windows-a-comprehensive-fix-for-speakers-and-headphones-compatibility-11-8-7/"><u>Restoring Sound Functionality on Windows: A Comprehensive Fix for Speakers & Headphones Compatibility (11, 8, 7)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-computers-audio-solutions-for-silent-speakers-in-windows-11/"><u>Revive Your Computer's Audio - Solutions for Silent Speakers in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-laptops-audio-solutions-for-non-working-sound-systems/"><u>Revive Your Laptop's Audio: Solutions for Non-Working Sound Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-audio-on-your-pc-winning-the-soundless-battle-in-cyberpunk-2077-windows-11-fixes/"><u>Reviving Audio on Your PC: Winning the Soundless Battle in Cyberpunk 2077 (Windows 11 Fixes)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-essential-guide-to-choosing-the-right-gaming-display-samsung-cf591-review/"><u>The Essential Guide to Choosing the Right Gaming Display - Samsung CF591 Review</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unmatched-speed-in-revamping-intel-gfx-for-windows-users/"><u>Unmatched Speed in Revamping Intel GFX for WIndows Users</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-ultimate-list-top-android-video-editing-apps-for-chromebook/"><u>Updated In 2024, The Ultimate List Top Android Video Editing Apps for Chromebook</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/winos-resilience-handling-cominterface-errors-effectively/"><u>WinOS Resilience: Handling COMInterface Errors Effectively</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-webcam-wonders-your-macbook-video-journey/"><u>[New] 2024 Approved Webcam Wonders Your MacBook Video Journey</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-uncovering-the-essence-of-obss-screen-capture-features-for-2024/"><u>[New] Uncovering the Essence of OBS's Screen Capture Features for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/astro-a10-microphone-malfunction-heres-how-to-restore-sound/"><u>Astro A10 Microphone Malfunction? Here's How to Restore Sound!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repair-for-non-functional-mpow-microphones-on-windows-systems/"><u>DIY Repair for Non-Functional MPOW Microphones on Windows Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-dolby-pro-logic-iix-driver-errors-to-enable-audio-in-windows-11-systems/"><u>Fixing Dolby Pro Logic IIx Driver Errors to Enable Audio in Windows 11 Systems</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-motorola-g24-power-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamless-intel-graphics-update-in-windows-7-pros-and-tips/"><u>Seamless Intel Graphics Update in Windows 7 Pros & Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-troubleshooting-and-fixing-your-onikuma-microphone-headset/"><u>Solved: Troubleshooting and Fixing Your Onikuma Microphone Headset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/struggling-with-a-silent-blue-yeti-mic-discover-these-proven-rectifying-steps/"><u>Struggling with a Silent Blue Yeti Mic? Discover These Proven Rectifying Steps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-djis-sky-artistry-20-free-color-filters-offer-for-2024/"><u>Transform DJI's Sky Artistry 20 Free Color Filters Offer for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/understanding-spyware-insights-and-protection-with-malwarefox/"><u>Understanding Spyware: Insights & Protection with MalwareFox</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-10-excellent-free-movie-editors-for-mov-files-for-2024/"><u>Updated 10 Excellent Free Movie Editors for MOV Files for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-mac-compatibility-download-vllo-and-explore-alternative-apps/"><u>Updated 2024 Approved Mac Compatibility Download VLLO and Explore Alternative Apps</u></a></li>
 </ul></div>
 

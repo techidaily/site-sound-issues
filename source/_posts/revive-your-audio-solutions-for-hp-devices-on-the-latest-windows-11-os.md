@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Audio: Solutions for HP Devices on the Latest Windows 11 OS"
-date: 2024-12-03T21:31:25.747Z
-updated: 2024-12-10T17:39:53.127Z
+date: 2024-12-09T20:55:47.198Z
+updated: 2024-12-16T22:00:59.413Z
 tags:
   - win11
   - win10
@@ -51,12 +51,16 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d55d7e26c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) If you see the Speakers disabled, right-click on the item, then select**Enable** . If you see the Speakers enabled, skip this step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d47875fcc.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re using a**laptop computer** , you also need to check if the**microphone** device is disabled.  
@@ -72,7 +76,7 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d5e494746.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##
@@ -89,6 +93,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6ee48396.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6c34f39b.png)
@@ -96,10 +104,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  3) Ensure the**Host** field set to**Windows WASAPI** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6a682959.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After you set the Host to Windows WASAPI, you’ll see the values of Device field under Playback and the Device under Recording change automatically.
 
@@ -128,10 +132,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  4) Under Playthrough, if you see**Software Playthrough of input** is checked, uncheck it. Then click the**OK** button. If not, skip this solution then try other solutions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d7d97fc21.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##
   
@@ -174,7 +174,7 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d9350bf7b.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Windows Audio Endpoint Builder** , then click**Restart** . The follow the on-screen instructions.
@@ -203,22 +203,15 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-infuse-humor-in-content-simple-text-meme-creation/"><u>[New] In 2024, Infuse Humor in Content Simple Text Meme Creation</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-overcoming-sync-issues-ensuring-smooth-video-sharing-on-mobile-messengers/"><u>[Updated] In 2024, Overcoming Sync Issues Ensuring Smooth Video Sharing on Mobile Messengers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-why-choose-av1-for-youtube-unlock-potential-for-2024/"><u>[Updated] Why Choose AV1 for YouTube? – Unlock Potential for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/grammar-gap-analysis-south-america-meets-old-world/"><u>Grammar Gap Analysis: South America Meets Old World</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-realme-11-pro-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Realme 11 Pro by Name | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Realme V30? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-xs-max-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone XS Max When You Forget the Passcode?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/installation-failure-canon-pixma-mp620-driver-missing-in-win10/"><u>Installation Failure: Canon Pixma MP620 Driver Missing in WIN10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/top-solutions-get-your-webex-mic-up-and-running/"><u>Top Solutions: Get Your WebEx Mic Up & Running</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-silent-pc-sounds-in-windows-10-simple-solutions-for-swift-resolution/"><u>Troubleshoot and Repair Silent PC Sounds in Windows 10: Simple Solutions for Swift Resolution</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-issues-fixing-silent-speakers-on-windows/"><u>Troubleshooting Audio Issues: Fixing Silent Speakers on Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-mic-issues-how-to-fix-a-nonfunctioning-skype-microphone-on-windows-11/"><u>Troubleshooting Mic Issues: How to Fix a Nonfunctioning Skype Microphone on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-calls-a-guide-for-discord-users/"><u>Troubleshooting Silent Calls: A Guide for Discord Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-repairing-a-malfunctioning-corsair-hs70-microphone/"><u>Troubleshooting Tips for Repairing a Malfunctioning Corsair HS70 Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-when-your-oculus-quest-s-mic-wont-work/"><u>Troubleshooting Tips for When Your Oculus Quest ^'S Mic Won't Work</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-corsair-virtuoso-mic-steps-to-resolve-connectivity-issues/"><u>Troubleshooting Your Corsair Virtuoso Mic: Steps to Resolve Connectivity Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/why-you-should-consider-ditching-gas-for-electric-vehicles-today/"><u>Why You Should Consider Ditching Gas for Electric Vehicles Today</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-simplifying-audio-transcription-insights-into-azures-speech-recognition/"><u>[New] Simplifying Audio Transcription Insights Into Azure's Speech Recognition</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-exclusive-list-of-the-top-10-digital-recording-apps/"><u>[Updated] In 2024, Exclusive List of the Top 10 Digital Recording Apps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/blue-yeti-not-working-here-are-the-best-fixes-to-get-it-recognized-again/"><u>Blue Yeti Not Working? Here Are the Best Fixes to Get It Recognized Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-making-your-steelseries-arctis-pro-headset-mic-work-again/"><u>Expert Advice: Making Your SteelSeries Arctis Pro Headset Mic Work Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-windows-11-sound-issues-troubleshooting-steps-and-solutions/"><u>Fixing Windows 11 Sound Issues: Troubleshooting Steps and Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-to-your-headphones-when-theyre-not-working-with-windows-10/"><u>How to Restore Sound to Your Headphones When They're Not Working with Windows 10</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-vivo-y78plus-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-unlocking-potential-the-best-6-for-nft-artistry/"><u>In 2024, Unlocking Potential The Best 6 for NFT Artistry</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-visualslice-software/"><u>In 2024, VisualSlice Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-boot-issues-tips-for-unsticking-a-pc-from-windows-preparation-mode/"><u>Resolving Boot Issues: Tips for Unsticking a PC From 'Windows Preparation Mode'</u></a></li>
 </ul></div>
 

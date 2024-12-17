@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions to Rectify Google Meet's Microphone Problems on Your PC with Windows 11/10
-date: 2024-12-04T20:50:32.304Z
-updated: 2024-12-10T19:51:04.819Z
+date: 2024-12-12T19:14:01.005Z
+updated: 2024-12-16T17:15:20.645Z
 tags:
   - win11
   - win10
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/d3b76096f4c9dcaff472cd20aa342807816191e8d
  Before you proceed to the more complicated fixes, try**restarting your browser and computer** . A simple restart can sometimes perfectly resolve the microphone glitch.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Update your audio driver
@@ -52,20 +52,12 @@ thumbnail: https://thmb.techidaily.com/d3b76096f4c9dcaff472cd20aa342807816191e8d
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-3.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** to do it for free, but it’s partly manual.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-driver-update-de.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your computer for the changes to take full effect. If the driver update doesn’t give you luck, there are more fixes to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Allow access to your microphone
 
@@ -76,15 +68,11 @@ thumbnail: https://thmb.techidaily.com/d3b76096f4c9dcaff472cd20aa342807816191e8d
 2. Select**Microphone** . Then on the right pane, click the**Change** button and turn Microphone access for this device to**On** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 3. Scroll down and make sure the button under**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** is set to**On** . This makes it possible for your browser to access the microphone.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
 
@@ -104,12 +92,28 @@ thumbnail: https://thmb.techidaily.com/d3b76096f4c9dcaff472cd20aa342807816191e8d
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
 4. You also need to set the microphone volume to a proper level: right-click the microphone and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-6-1.jpg)
 5. Click the**Levels** tab and drag the microphone slider to turn the volume to the max. Then click**OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Test your microphone again to see if it works without problem. If the issue persists, check out the next solution below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Check Google Meet’s settings
 
@@ -124,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/d3b76096f4c9dcaff472cd20aa342807816191e8d
 4. From the drop-down menu under Microphone, select your primary microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you still can’t use the microphone in Google Meet, the last resort is to**double-check the physical connection** .
 
@@ -156,19 +156,22 @@ thumbnail: https://thmb.techidaily.com/d3b76096f4c9dcaff472cd20aa342807816191e8d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-capturing-action-in-hd-with-ultimate-sj-cam-s6-review/"><u>[Updated] Capturing Action in HD with Ultimate SJ-CAM S6 Review</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-youtubes-glamour-guild-comprehensive-style-compendium/"><u>[Updated] Youtube's Glamour Guild Comprehensive Style Compendium</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-photoshops-jiggle-minimizing-effective-or-overstated/"><u>2024 Approved Photoshop's Jiggle Minimizing - Effective or Overstated?</u></a></li>
-<li><a href="https://games-able.techidaily.com/finding-calm-amidst-virtual-chaos-6-approaches/"><u>Finding Calm Amidst Virtual Chaos: 6 Approaches</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-modern-methods-rapidly-turning-srt-into-txt-format/"><u>In 2024, Modern Methods Rapidly Turning SRT Into TXT Format</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-the-great-dvr-debate-tivo-vs-comcast-xfinity-for-2024/"><u>New The Great DVR Debate TiVo vs Comcast Xfinity for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/pioneering-seven-water-resilient-camera-brands/"><u>Pioneering Seven Water-Resilient Camera Brands</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-cod-vanguard-fixing-voice-chat-issues/"><u>Troubleshooting Cod: Vanguard - Fixing Voice Chat Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-solve-voice-chat-issues-in-rainbow-six-siege-202-4-update/"><u>Troubleshooting Guide: How to Solve Voice Chat Issues in Rainbow Six Siege (202 4 Update)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-plugged-in-issues-with-realtek-ads/"><u>Troubleshooting Guide: Solving 'Plugged In' Issues with Realtek ADS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-shared-hdmi-use-between-apps-for-smooth-device-functionality/"><u>Troubleshooting Shared HDMI Use Between Apps for Smooth Device Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-sony-headphones-fixing-nonfunctional-mic-issues-with-wh-1000xm3-or-wh-1000xm4/"><u>Troubleshooting Sony Headphones: Fixing Nonfunctional Mic Issues with WH-1000XM3 or WH-1000XM4</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-boundaries-when-content-writers-shouldnt-depend-on-ai/"><u>Understanding the Boundaries: When Content Writers Shouldn't Depend on AI</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-mastering-mp3-metadata-the-five-highest-rated-tag-editors-you-should-try/"><u>Updated 2024 Approved Mastering MP3 Metadata The Five Highest-Rated Tag Editors You Should Try</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-dodge-without-disruption-bypassing-edgenuity-courses-effortlessly/"><u>[New] How to Dodge Without Disruption Bypassing Edgenuity Courses Effortlessly</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-mastering-your-digital-footprint-facebook-lives-made-easy-for-2024/"><u>[New] Mastering Your Digital Footprint Facebook Lives Made Easy for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-key-practices-to-amplify-your-social-media-impact-on-fb/"><u>[Updated] 2024 Approved Key Practices to Amplify Your Social Media Impact on FB</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boost-performance-and-avoid-interruptions-top-7-fixes-to-keep-your-pc-running-smoothly-while-playing-halo-infinite/"><u>Boost Performance & Avoid Interruptions: Top 7 Fixes to Keep Your PC Running Smoothly While Playing Halo Infinite</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-fixing-the-voice-chat-feature-in-black-ops-cold-war/"><u>Expert Advice on Fixing the Voice Chat Feature in Black Ops Cold War</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-non-functional-mic-during-zoom-calls-on-windows-11-and-10/"><u>Fixing the Issue: Non-Functional Mic During Zoom Calls on Windows 11 & 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/harmonizing-electronics-effective-fixes-for-hdmi-sound-failures-when-merging-pc-display-and-tv-outputs/"><u>Harmonizing Electronics: Effective Fixes for HDMI Sound Failures When Merging PC, Display & TV Outputs</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-honor-90-gt-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Honor 90 GT Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-honor-magic5-ultimate-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Honor Magic5 Ultimate Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016994045-no-more-silence-restore-fortnite-microphone-functionality-easy-fixes-inside/"><u>No More Silence: Restore Fortnite Microphone Functionality – Easy Fixes Inside</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/pcmp3/"><u>PCでビデオをMP3音楽ファイルへと変換するための包括的な手順</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016323661-quick-fixes-for-a-silent-pc-get-your-computer-speakers-working-now/"><u>Quick Fixes for a Silent PC – Get Your Computer Speakers Working Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tips-and-techniques-for-correcting-sound-problems-in-resident-evil-village/"><u>Tips and Techniques for Correcting Sound Problems in Resident Evil Village</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-clear-up-a-white-login-screen-on-windows-1011/"><u>Tips to Clear Up a White Login Screen on Windows 10/11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-fixing-hp-monitor-driver-troubles-windows-1087-solutions/"><u>Troubleshooting & Fixing HP Monitor Driver Troubles: Windows 10/8/7 Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-unknown-speaker-configuration-in-windows-11-a-step-by-step-guide/"><u>Troubleshooting Unknown Speaker Configuration in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fixes-for-no-sound-errors-in-your-windows-media-player-experience/"><u>Ultimate Fixes for No Sound Errors in Your Windows Media Player Experience</u></a></li>
 </ul></div>
 

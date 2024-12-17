@@ -1,7 +1,7 @@
 ---
 title: "How To Get Your Computer's Sound System Back On Track: A Step by Step Guide"
-date: 2024-12-09T21:01:52.216Z
-updated: 2024-12-10T17:31:43.334Z
+date: 2024-12-13T20:07:41.659Z
+updated: 2024-12-16T22:08:20.548Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/3f8283f501ee0d430cb6d4495367186d5cee7442e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are 5 tried-and-true fixes for the**Zoom no sound** issue. You may not try them all. Just work your way down the list until you find the one that does the trick.
@@ -43,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/3f8283f501ee0d430cb6d4495367186d5cee7442e
 ### Fix 1 – Troubleshoot the connection
 
  Before moving on to the more complicated tricks, make sure you have everything connected securely. You could simply replug your audio device, whether a speaker or headset, into the jack and see if the sound returns. If not, take a look at the second fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Update your sound card driver
 
@@ -67,16 +59,16 @@ thumbnail: https://thmb.techidaily.com/3f8283f501ee0d430cb6d4495367186d5cee7442e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click the**Update** button next to the flagged audio driver to do it for free, but it’s partly manual.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-2-1.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  So does the driver update get your Zoom audio back on track? If not, there are a few more fixes to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Configure the PC sound settings
 
@@ -91,29 +83,37 @@ Below is how to configure a a correct setup:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-2.jpg)
 3. Choose your preferred output device and click**Set Default** . Then click**Apply** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/set-as-default.jpg)
 4. Click the device and select**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-audio-enhancements-3.jpg)
 5. On the**Enhnacements** tab, check**Disable all enhancements** and click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-audio-enhancements.jpg)
 6. Back to your desktop, right-click the**speaker icon** on the taskbar and click**Open Volume mixer** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-2.jpg)
 7. **Hold and drag the slider for Zoom** to turn up the volume.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/volume-mixer-2.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/volume-mixer-2.jpg)
+
  Now see if the Zoom audio works as expected. If not, check out the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Check the Zoom settings
 
@@ -129,10 +129,14 @@ Below is how to configure a a correct setup:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/zoom-settings-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Join a Zoom meeting to test. If the issue persists, proceed to the last solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Install all Windows updates
 
@@ -141,10 +145,6 @@ Below is how to configure a a correct setup:
 1. In the Windows search box, type**check for updates** and click**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/check-for-windows-updates-1.jpg)
 2. Click the **Check for updates**  button. The available updates will be automatically downloaded and installed.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/check-for-windows-updates-2.jpg)
 
@@ -171,22 +171,18 @@ Below is how to configure a a correct setup:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-dive-into-the-positive-side-of-asmr/"><u>[Updated] In 2024, Dive Into The Positive Side Of ASMR</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-seamless-navigation-to-your-individual-playlist-library-on-youtube/"><u>[Updated] Seamless Navigation to Your Individual Playlist Library on YouTube</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-list-the-top-10-thrilling-action-packed-games/"><u>[Updated] Ultimate List The Top 10 Thrilling Action-Packed Games</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-mastery-guide-securely-archiving-snapchat-media-on-devices/"><u>2024 Approved Mastery Guide Securely Archiving Snapchat Media on Devices</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/apple-iphone-15-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>Apple iPhone 15 Pro Max iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/childhood-wings-5-best-drone-companions-for-2024/"><u>Childhood Wings 5 Best Drone Companions for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/delaying-microsoft-edge-tabs-a-win11-guide/"><u>Delaying Microsoft Edge Tabs: A Win11 Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014880518-discover-how-to-get-your-games-soundtrack-onto-live-discord-chats-problem-solved/"><u>Discover How to Get Your Game's Soundtrack Onto Live Discord Chats: Problem Solved.</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/effective-strategies-for-resolving-boot-file-damage-on-microsoft-operating-systems/"><u>Effective Strategies for Resolving Boot File Damage on Microsoft Operating Systems</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-redmi-a2plus-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Xiaomi Redmi A2+ Phone Hassle-Free</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubled-by-an-inactive-nvidia-gpu-here-are-some-quick-fixes-to-try/"><u>Troubled by an Inactive Nvidia GPU? Here Are Some Quick Fixes to Try</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-a-non-functional-headphone-port-on-your-laptop/"><u>Troubleshooting & Fixing a Non-Functional Headphone Port on Your Laptop</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-airpods-microphone-issues-on-windows-11/"><u>Troubleshooting AirPods Microphone Issues on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-lenovo-lack-of-volume-solutions/"><u>Troubleshooting and Repairing Lenovo Lack of Volume Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-sound-loss-in-windows-11-effortless-resolution-steps/"><u>Troubleshooting Sound Loss in Windows 11 – Effortless Resolution Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-device-not-recognized-by-windows-10-fix-headphone-issues/"><u>Troubleshooting: Audio Device Not Recognized by Windows 10 - Fix Headphone Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-10-audio-fixes-resolving-issues-with-inadequate-speaker-volume-on-your-pc/"><u>Windows 10 Audio Fixes: Resolving Issues with Inadequate Speaker Volume on Your PC</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-firecapture-plugins-for-firefox/"><u>[New] 2024 Approved FireCapture Plugins for Firefox</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-emulating-old-hollywood-style-in-modern-videos/"><u>[New] In 2024, Emulating Old Hollywood Style in Modern Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-the-ultimate-guide-to-10-leading-pc-vr-headsets/"><u>2024 Approved The Ultimate Guide to 10 Leading PC VR Headsets</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/breezing-through-fixing-javascript-hiccups-on-discord-platform/"><u>Breezing Through Fixing JavaScript Hiccups on Discord Platform</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnose-and-mend-your-rust-mic-comprehensive-troubleshooting-techniques/"><u>Diagnose and Mend Your Rust Mic: Comprehensive Troubleshooting Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016847638-how-to-fix-continuous-cutting-out-of-sound-issues-in-windows-11-solved/"><u>How to Fix Continuous Cutting Out of Sound Issues in Windows 11 – Solved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-gameplay-audio-problems-for-warzone-players-on-both-pc-and-consoles/"><u>How to Fix Gameplay Audio Problems for Warzone Players on Both PC and Consoles</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-guide-repairing-your-steelseries-arctis-7-headsets-microphone-malfunction/"><u>Quick Guide: Repairing Your SteelSeries Arctis 7 Headset's Microphone Malfunction</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/recette-reussie-surmontez-lechec-de-clonage-en-macrium-reflect-avec-ces-5-astuces-eprouvees/"><u>Recette Réussie: Surmontez L'Échec De Clonage en Macrium Reflect Avec Ces 5 Astuces Éprouvées!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/rescue-your-game-from-ruin-proven-techniques-for-rectifying-arks-terminating-error-codes/"><u>Rescue Your Game From Ruin: Proven Techniques for Rectifying ARK’s Terminating Error Codes</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-google-pixel-7a-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Google Pixel 7a Screen | Dr.fone</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/wechsel-von-hdd-zu-ssd-bei-asus-laptops-einfach-gestalten/"><u>Wechsel Von HDD Zu SSD Bei ASUS Laptops Einfach Gestalten</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-isnt-my-microphone-working-common-issues-and-fixes-explained/"><u>Why Isn’t My Microphone Working? Common Issues and Fixes Explained</u></a></li>
 </ul></div>
 

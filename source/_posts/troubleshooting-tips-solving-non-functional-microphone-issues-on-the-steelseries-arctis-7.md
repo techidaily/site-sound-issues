@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Solving Non-Functional Microphone Issues on the SteelSeries Arctis 7"
-date: 2024-08-23T12:22:56.455Z
-updated: 2024-08-24T12:22:56.455Z
+date: 2024-12-09T20:46:48.562Z
+updated: 2024-12-16T19:53:42.474Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/a23b6166dff1d71405deccff3c580ba47c280d1fa
 
 ###
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure Microphone is set to On for Skype (Windows 10 users)
 
  If you’re running Skype on**Windows 10** , firstly please check if the Microphone is set to **On**  for Skype in the Privacy settings.
@@ -40,30 +44,35 @@ Follow these:
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Adjust the audio settings on Skype
 
 1. Login Skype with your own account.
 2. On Skype window, Click**Tools** \>**Options** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599a3fd935df2.png)
 3. Click**Audio settings** on the left pane. Then set your Microphone device and un-tick**Automatically adjust microphone settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
 4. Check to see if your Microphone works.
+
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your sound card driver
 
  Skype Microphone not working problem can be also cause by the incorrect or outdated sound card driver. The solutions above may solve the problem, but if they don’t, please update your sound card driver.
@@ -73,9 +82,6 @@ Follow these:
 1. [Download](https://tools.techidaily.com/drivereasy/download/)  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. You sound driver is no exception.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 4. Restart your computer and run Skype to see if your Microphone works.
 
 ###
@@ -87,10 +93,6 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996978261d98.png)
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
 4. Log in Skype and check to see if your Microphone works.
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 
 * [sound problem](https://tools.techidaily.com/drivereasy/download/)
 
@@ -100,8 +102,6 @@ Follow these:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +109,26 @@ Follow these:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-photo-puzzles-crafted-spark-joy-and-inspiration/"><u>[Updated] In 2024, Photo Puzzles Crafted Spark Joy and Inspiration</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fast-fixes-for-a-non-working-microphone-in-google-hangouts/"><u>Fast Fixes for a Non-Working Microphone in Google Hangouts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016999377-headphone-sound-quality-improvement-solve-crackling-noises-instantly/"><u>Headphone Sound Quality Improvement: Solve Crackling Noises Instantly!</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-unleashing-the-power-of-color-in-final-cut-pro/"><u>New 2024 Approved Unleashing the Power of Color in Final Cut Pro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/plan-pioneers-guide-discover-7-economical-ai-powered-travel-assistants/"><u>Plan Pioneer’s Guide: Discover 7 Economical AI-Powered Travel Assistants</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pubg-mobile-voice-communication-problems-heres-how-to-solve-them/"><u>PUBG Mobile Voice Communication Problems? Here's How to Solve Them!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/qualcomm-atheros-ar3011-free-download-of-the-official-bluetooth-30-drivers/"><u>Qualcomm Atheros AR3011: Free Download of the Official Bluetooth 3.0 Drivers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revamp-your-visual-experience-the-comprehastern-pocket-sized-guide-for-updating-apple-studio-displays-system-software-cnet/"><u>Revamp Your Visual Experience: The Comprehastern Pocket-Sized Guide for Updating Apple Studio Display's System Software - CNET</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/securing-spotlight-uploading-imovie-to-vimeo-successfully/"><u>Securing Spotlight Uploading iMovie to Vimeo Successfully</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-hp-victus-15-gaming-notebook-at-an-unbeatable-price-of-just-515-during-best-buys-prime-day-event-exclusive-offer-from-zdnet/"><u>Snag the HP Victus 15 Gaming Notebook at an Unbeatable Price of Just $515 During Best Buy's Prime Day Event - Exclusive Offer From ZDNet!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-silent-pc-post-windows-11-upgrade-restore-your-systems-audio/"><u>Solved: Silent PC Post-Windows 11 Upgrade – Restore Your System's Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-issue-silent-videos-on-your-pcs-facebook/"><u>Solving the Issue: Silent Videos on Your PC's Facebook</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-windows-sound-problems-no-more-popping-or-hissing/"><u>Solving Windows Sound Problems: No More Popping or Hissing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-correcting-the-persistent-minecraft-error-exiting-with-code-zero/"><u>Step-by-Step Guide to Correcting the Persistent Minecraft Error: Exiting with Code Zero</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016020783-trouble-with-astro-a50s-mic-heres-how-you-can-fix-it/"><u>Trouble with Astro A50's Mic? Here’s How You Can Fix It!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-gaming-headsets-the-ultimate-guide-to-solving-g435-audio-issues/"><u>Troubleshooting Silent Gaming Headsets: The Ultimate Guide to Solving G435 Audio Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-unknown-speaker-configurations-in-windows-11-a-step-by-step-guide/"><u>Troubleshooting Unknown Speaker Configurations in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-motorola-g54-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Motorola G54 5G</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-potential-the-future-of-conversational-ai/"><u>Unleashing Potential: The Future of Conversational AI</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Master Fortnite Audio Glitches - Effective Solutions for Mic Not Working
-date: 2024-12-08T17:53:01.253Z
-updated: 2024-12-10T18:29:05.502Z
+date: 2024-12-16T01:26:25.567Z
+updated: 2024-12-16T21:02:07.041Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix no sound on computers?
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 6. **[Switch to ChromeOS](https://tools.techidaily.com/drivereasy/download/)**
 
 **Note** : Make sure that the volume icon at the bottom right is not mute or silent. If the icon is displayed with a red cross, it means that no volume on your computer and you should click the icon to unmute it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why is there no sound on my computer?
 
@@ -71,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Check the audio settings on your computer
 
  If the hardware works properly after troubleshooting but still has no sound on your computer, you can check the audio settings on your computer.
@@ -87,13 +87,13 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure all the entries at not in the minimum level. In my case, I set Speakers, System Sounds and HyperSnap to 20.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Now test and see if there is any sound from your computer.
 
@@ -106,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
  2) Check your audio device in the**Playback** tab. Make sure there is a**green check** next to your audio device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b59d5056.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) If your audio device is not the default device,**select your audio device** , and click**Set Default** . Then click**OK** to save.
 
@@ -121,10 +125,6 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2)**Select your audio device** in the Playback tab, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962c8cd39cb.png)
@@ -133,10 +133,6 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962d0ec718d.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) You will need to repeat this until you find a proper audio format. Once you find the proper audio format to work, click**OK** to save the settings.
 
 If the issue persists, go to the next solution.
@@ -144,7 +140,7 @@ If the issue persists, go to the next solution.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Reinstall your audio driver
@@ -156,10 +152,6 @@ If the issue persists, go to the next solution.
  2) Double click**Sound, video and game controllers** to expand it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962e2ade37c.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Right-click your**audio card** , and click**Uninstall device** .
 
@@ -197,16 +189,16 @@ If the issue persists, go to the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2dec588b55a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer and check whether your problem is solved.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Troubleshoot the sound issue
 
@@ -219,16 +211,24 @@ If the issue persists, go to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af030d516ecb.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) In the**Hardware** **and** **Sound** section, click**Troubleshoot audio recording** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af031019f411.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Make sure to check the box next to**Apply repairs automatically** , and click**Next** to start troubleshooting.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af0313d5958d.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Follow the on-screen wizard to continue and fix the no-sound issue on your computer.
 
@@ -284,20 +284,18 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-best-dramatic-writing-site/"><u>[New] 2024 Approved Best Dramatic Writing Site</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-fast-format-transformation-youtube-for-mac-ratio-for-2024/"><u>[Updated] Fast Format Transformation YouTube for Mac Ratio for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/sma-in-characters-two-ways-to-enliven-text/"><u>Charisma in Characters Two Ways to Enliven Text</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-continuous-crashes-in-stardew-valley-on-your-windows-computer/"><u>Fixing Continuous Crashes in Stardew Valley on Your Windows Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-enter-safe-mode-in-windows-10-7-8-81-xp-and-vista/"><u>How to Enter Safe Mode in Windows 10, 7, 8, 8.1, XP & Vista</u></a></li>
-<li><a href="https://techidaily.com/remove-samsung-lock-screen-without-password-samsung-galaxy-s23-fe-by-drfone-android-unlock-android-unlock/"><u>Remove Samsung Lock Screen without Password(Samsung Galaxy S23 FE)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-your-logitech-g933-mic-follow-these-steps-to-fix-it/"><u>Trouble with Your Logitech G933 Mic? Follow These Steps to Fix It!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-quietness-sound-issues-in-pcs-borderlands-3/"><u>Troubleshooting Complete Quietness - Sound Issues in PC's Borderlands 3</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixes-how-to-repair-a-non-functional-steelseries-arctis-product-model-microphone/"><u>Troubleshooting Fixes: How To Repair a Non-Functional SteelSeries Arctis ([Product Model]) Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-for-smooth-bluetooth-audio-on-windows-10-and-11-without-interruptions/"><u>Troubleshooting Guide for Smooth Bluetooth Audio on Windows 10 and 11 Without Interruptions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-a-malfunctioning-logitech-webcam-mic/"><u>Troubleshooting Guide: Fixing a Malfunctioning Logitech Webcam Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-discord-voice-chat-issues-push-to-talk-not-responding/"><u>Troubleshooting Guide: Fixing Discord Voice Chat Issues - Push-to-Talk Not Responding</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-common-outriders-sound-problems/"><u>Troubleshooting Guide: Solving Common Outriders Sound Problems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-most-innovative-keyboards-of-2024-professional-insights-and-ratings-pcworld/"><u>Ultimate Guide to the Most Innovative Keyboards of 2024 - Professional Insights and Ratings | PCWorld</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/ultimate-platforms-for-mastering-new-tongues/"><u>Ultimate Platforms for Mastering New Tongues</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-15-must-see-investment-channels-online/"><u>[New] 2024 Approved 15 Must-See Investment Channels Online</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-guffaw-generator-pictorial-editor/"><u>[New] Guffaw Generator Pictorial Editor</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-picpinch-a-study-of-micro-recording-tools/"><u>[New] In 2024, PicPinch A Study of Micro-Recording Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016538580-easy-fixes-for-no-audio-in-windows-solve-your-sound-issues-fast/"><u>Easy Fixes for No Audio in Windows: Solve Your Sound Issues Fast!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-pc-gear-with-toms-hardware-resource-hub/"><u>Expert Advice on PC Gear with Tom's Hardware Resource Hub</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-dolby-sound-issues-on-windows-11-starting-dolby-audio-driver-easily/"><u>Fixing Dolby Sound Issues on Windows 11: Starting Dolby Audio Driver Easily</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-the-use-of-facebooks-shield-against-threats/"><u>Mastering the Use of Facebook’s Shield Against Threats</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-regular-to-revolutionary-how-to-convert-videos-for-vr/"><u>New 2024 Approved Regular to Revolutionary How to Convert Videos for VR</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/not-patient-enough-for-chatgpts-official-release-check-out-these-great-open-source-options/"><u>Not Patient Enough for ChatGPT's Official Release? Check Out These Great Open Source Options!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-methods-for-converting-m4r-files-to-mp3-format/"><u>Simple Methods for Converting M4R Files to MP3 Format</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-no-sound-issues-in-your-laptop/"><u>Troubleshooting and Fixing No Sound Issues in Your Laptop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-solving-the-issue-with-your-razer-blackshark-v2-microphone/"><u>Troubleshooting Tips: Solving the Issue with Your Razer BlackShark V2 Microphone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For OnePlus Ace 2 Pro | Dr.fone</u></a></li>
 </ul></div>
 

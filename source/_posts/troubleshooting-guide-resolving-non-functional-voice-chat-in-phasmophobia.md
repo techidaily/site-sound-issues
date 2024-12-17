@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Non-Functional Voice Chat in Phasmophobia"
-date: 2024-12-07T19:05:18.740Z
-updated: 2024-12-10T21:28:51.018Z
+date: 2024-12-15T18:09:21.448Z
+updated: 2024-12-16T21:26:31.480Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1 – Check your microphone settings
 
  To troubleshot your Logitech G533 microphone not working issue, you should first make sure it’s correctly configured on your PC.
@@ -48,32 +44,33 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-4-1.jpg)
 5. Make sure the microphone is set as the default device. If not, click it and click**Set Default** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-5.jpg)
-6. Right-click your microphone and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-5.jpg)
+6. Right-click your microphone and click**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-7.jpg)
 7. Select the**Levels** tab. If the microphone is muted, click the**speaker icon** to unmute it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-3-2.jpg)
 8. Drag the slider under Microphone to the left to maximize the volume. Then, click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-3-3.jpg)
 
  Now that your Logitech G533 headset microphone is set as the default device and not disabled or muted, it should work as expected. If not, we’ve got more fixes for you below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2 – Update your audio driver
 
@@ -84,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
  Logitech keeps updating drivers for its devices. All you need is go to the **[Logitech’s support website](https://support.logi.com/hc/en-us/articles/360024844153--Downloads-G533-Wireless-Gaming-Headset)**  , find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
 
  Once you’ve downloaded the correct driver for your system, double-click the downloaded file and follow the on-screen instructions to install it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2 – Automatically update the driver (recommended)
 
@@ -98,12 +99,12 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-1-3.jpg)
 3. Click the **Update**  button next to the flagged _Logitech G533 driver_ to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-2-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Check how your Logitech G533 headset microphone works after the driver update. Still no luck? Then try the next fix below.
 
@@ -118,26 +119,26 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-1-3.jpg)
 3. Click**Logitech Gaming Software** and click**Uninstall/Change** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-4-1.jpg)
 4. Follow the on-screen instructions to completely uninstall the program.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Go to **[Logitech’s support website](https://support.logi.com/hc/en-us/articles/360024844153--Downloads-G533-Wireless-Gaming-Headset)**  . Then find the latest version of Logitech Gaming Software that is suitable for your operating system and click**Download Now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-5-1.jpg)
 6. Once you finish downloading, double-click the downloaded file and follow the wizard to install the software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now reconnect the Logitech G533 headset to your PC and the microphone should transmit your voice normally.
 
  If you’re on Windows 10 and only see the Logitech G533 mic-not-working issue while using certain applications, there might be something wrong with the privacy setting. Follow the method below to make it right.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4 – Allow access to your headset microphone (for Windows 10 users)
 
@@ -153,7 +154,7 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-3-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After finishing the steps above, check if your mic-not-working issue is resolved. If unfortunately, none of the preceding fixes does the trick, chances are that the microphone is physically broken and you may consider contacting the vendor for further assistance.
@@ -180,24 +181,19 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-amalgamate-ppts-for-video-creation/"><u>[New] 2024 Approved Amalgamate PPTs for Video Creation</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-prime-buzz-generator-prodigy/"><u>[New] 2024 Approved Prime Buzz Generator Prodigy</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-seamlessly-embedding-youtube-subtitles-an-easy-to-follow-guide/"><u>[New] In 2024, Seamlessly Embedding YouTube Subtitles An Easy-to-Follow Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-step-by-step-ensuring-accurate-age-on-tiktok/"><u>[New] Step-by-Step Ensuring Accurate Age on TikTok</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016399959-solved-squad-mic-not-working-2024-guide/"><u>[Solved] Squad Mic Not Working - 2024 Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-immediate-insta-photo-series-viewing-for-2024/"><u>[Updated] Immediate Insta Photo Series Viewing for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-mastering-the-science-of-writing-magnetic-vlogs/"><u>[Updated] In 2024, Mastering the Science of Writing Magnetic Vlogs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014872210-beat-bluetooth-audio-lag-a-step-by-step-guide-to-smooth-sounds/"><u>Beat Bluetooth Audio Lag: A Step-by-Step Guide to Smooth Sounds!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bust-the-silence-effective-fixes-for-hyperx-cloud-headset-microphone-failures/"><u>Bust the Silence: Effective Fixes for HyperX Cloud Headset Microphone Failures</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/clear-up-sound-issues-on-your-windows-10-system-with-this-handy-5-step-method/"><u>Clear up Sound Issues on Your Windows 10 System with This Handy 5-Step Method</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/essential-tips-for-fixing-your-skype-microphone-in-windows-10-a-comprehensive-guide/"><u>Essential Tips for Fixing Your Skype Microphone in Windows 10 - A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-on-resolving-computers-missing-sound-dilemma-your-ultimate-fix-guide/"><u>Expert Advice on Resolving Computer's Missing Sound Dilemma – Your Ultimate Fix Guide</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/free-full-stack-development-with-vue-and-laravel-create-professional-websites-using-creative-tims-vue-paper-ui-framework-and-updivision-techniques/"><u>Free Full-Stack Development with Vue and Laravel - Create Professional Websites Using Creative Tim's Vue Paper UI Framework and UPDIVISION Techniques</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/grab-your-perfectly-rated-affordable-alienware-oled-monitor-with-360hz-refresh-rate-today/"><u>Grab Your Perfectly Rated, Affordable Alienware OLED Monitor with 360Hz Refresh Rate Today!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-enable-miracast-on-unsupported-devices-with-updated-graphic-card-software/"><u>How to Enable Miracast on Unsupported Devices with Updated Graphic Card Software</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-realme-12-pro-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Realme 12 Pro 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016582580-no-audio-post-windows-11-upgrade-quick-fixes-inside/"><u>No Audio Post-Windows 11 Upgrade? Quick Fixes Inside</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723017012302-winning-back-your-windows-11-soundscape-noise-issues-corrected/"><u>Winning Back Your Windows 11 Soundscape – Noise Issues Corrected</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/world-of-warcraft-troubleshooting-guide-eliminating-audio-glitches/"><u>World of Warcraft Troubleshooting Guide: Eliminating Audio Glitches</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-swift-moments-visual-and-auditory-sniped/"><u>[Updated] 2024 Approved Swift Moments Visual & Auditory Sniped</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-complete-guide-to-selecting-and-raising-valheim-crops/"><u>[Updated] 2024 Approved The Complete Guide to Selecting & Raising Valheim Crops</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-efficient-techniques-screen-recording-in-google-meet-for-2024/"><u>[Updated] Efficient Techniques Screen Recording in Google Meet for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-get-both-sides-right-expert-tips-on-crafting-compelling-pov-based-youtube-reaction-videos-2-pov-perspective/"><u>[Updated] Get Both Sides Right – Expert Tips on Crafting Compelling POV-Based YouTube Reaction Videos (2 POV Perspective)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-hs35-headset-unresponsive-in-windows-heres-how-to-restore-mic-functionality/"><u>Corsair HS35 Headset Unresponsive in Windows? Here's How to Restore Mic Functionality</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-itel-a70-frp-by-drfone-android/"><u>How Can We Bypass Itel A70 FRP?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oppo-reno-10-pro-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Oppo Reno 10 Pro 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximizing-your-viewing-experience-on-a-budget-the-in-depth-review-of-hisenses-50h8f-screen/"><u>Maximizing Your Viewing Experience on a Budget: The In-Depth Review of Hisense's 50H8F Screen</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015633340-no-audio-from-bluetooth-heres-how-you-can-resolve-it/"><u>No Audio From Bluetooth? Here's How You Can Resolve It</u></a></li>
+<li><a href="https://solve-help.techidaily.com/optimal-timing-how-often-should-you-perform-data-backups-expert-tips-from-yl-computings-software-solutions/"><u>Optimal Timing: How Often Should You Perform Data Backups? - Expert Tips From YL Computing's Software Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/rec-room-pc-mic-fixes-a-comprehensive-2024-step-by-step-tutorial/"><u>Rec Room PC Mic Fixes: A Comprehensive 2024 Step-by-Step Tutorial</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/simple-guide-transforming-your-dvds-into-avi-files-without-hitches/"><u>Simple Guide: Transforming Your DVDs Into AVI Files Without Hitches</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-opening-voicemod-top-strategies-to-get-your-software-running-smoothly/"><u>Trouble Opening Voicemod ? Top Strategies to Get Your Software Running Smoothly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-unplugged-headphones-yet-still-hear-audio-from-laptop/"><u>Troubleshooting Guide: Unplugged Headphones Yet Still Hear Audio From Laptop</u></a></li>
 </ul></div>
 

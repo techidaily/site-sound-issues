@@ -1,7 +1,7 @@
 ---
 title: Guide to Fixing Silent Realtek Digital Output - Now with Sound!
-date: 2024-08-23T12:18:43.483Z
-updated: 2024-08-24T12:18:43.483Z
+date: 2024-12-12T00:59:53.548Z
+updated: 2024-12-16T16:05:21.605Z
 tags:
   - win11
   - win10
@@ -48,10 +48,6 @@ Here’s how you can do this:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 2\. Update your webcam driver
 
  The built-in microphone won’t be functioning properly if you’re using a corrupted or outdated webcam driver. It would stop you from getting the most out of your device and you may be lacking a new feature required for the microphone to work as expected. Therefore, to troubleshoot the issue you’re having, you need to update your webcam driver.
@@ -75,9 +71,6 @@ Here’s how to update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/logitech-C920-1200x906.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and do a mic test to check if the problem is solved. If not, then continue trying the fixes below.
@@ -85,8 +78,9 @@ Here’s how to update your drivers with Driver Easy:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Allow access to your webcam built-in microphone
 
  On Windows, you can decide whether your system and apps can access the microphone. In case you’ve disabled the access for some reasons, you should check the settings and grant the permission for the access by following the instructions below:
@@ -97,20 +91,18 @@ Here’s how to update your drivers with Driver Easy:
   
 ![Privacy in Settings](https://images.drivereasy.com/wp-content/uploads/2021/02/privacy.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Microphone**  on the left pane. Then click on the **Change**  button and make sure **Microphone access for this device**  is turned on.  
   
 ![turn on app permissions on your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/turn-on-app-permissions-for-your-micropho0ne.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Under the **Allow apps to access your microphone**  section, make sure it’s turned **On** .  
   
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Once you’ve allowed the microphone to access your apps, you can change the settings for each app. Simply head to the **Choose which Microsoft apps can access your microphone** , and turn on apps you want to use with it. For desktop apps, make sure that **Allow desktop apps to access your microphone**  is turned **On** .
 
  After you’ve done all of these, try to use your webcam microphone and check if it’s working properly. If the issue persists, try the next fix below.
@@ -118,8 +110,9 @@ Here’s how to update your drivers with Driver Easy:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Make sure your mic isn’t disabled
 
  Sometimes you may not notice that your microphone has accidentally been disabled. To check if that’s your case, take these steps:
@@ -132,16 +125,25 @@ Here’s how to update your drivers with Driver Easy:
   
 ![make sure your device isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/03/Input-section-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Make sure the box next to**Disable** is unchecked.  
   
 ![make sure your device isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/03/make-sure-your-headset-isnt-disabled.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After you’ve confirmed that the microphone is enabled, try to speak something to see if it’s now back to the normal state. If the microphone is still not working, try the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Set your device as default
 
@@ -165,9 +167,6 @@ Here’s how to update your drivers with Driver Easy:
 
  2) Go to the**Levels** tab. Then, drag the slider to adjust the volume. While performing this step, you need to do a mic test at the same time.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## If your microphone is still not working properly…
 
  If nothing else helps and your microphone is still not working or you’re encountering some sound issues, give repairing your PC a try. It might be a system-level issue. By running a scan of your PC, you’ll be able to check if there are any corrupted system files and identify your issue easily without scratching your head. And for that job, we recommend **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , a 100% legit repair tool that**automatically** helps you find and fix different issues in Windows OS without losing any data.
@@ -176,6 +175,10 @@ Here’s how to update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Run Fortect and it will run a FREE scan of your PC. Once the scan is finished, you’ll see a complete overview of your system and issues.
 
  3) Click **Start Repair** to start the repair process and wait for Fortect to fix the problem.
@@ -183,8 +186,9 @@ Here’s how to update your drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
  Hopefully, this post helps. If you have any suggestions or questions, feel free to leave us a comment below.
@@ -197,8 +201,6 @@ Here’s how to update your drivers with Driver Easy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -206,4 +208,26 @@ Here’s how to update your drivers with Driver Easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-essential-errors-to-dodge-beginner-youtubers-guide/"><u>[New] In 2024, Essential Errors to Dodge Beginner YouTuber's Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-podcast-release-schedules/"><u>[New] Mastering Podcast Release Schedules</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nveiling-youtubes-most-engrossing-virtual-reality-shows/"><u>[New] Unveiling YouTube's Most Engrossing Virtual Reality Shows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-free-online-photo-tools-ranked-15/"><u>[Updated] Best Free Online Photo Tools Ranked #15</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-secure-your-travel-documents-grab-10-free-passport-photos-onlinedesktop/"><u>[Updated] Secure Your Travel Documents Grab 10 FREE Passport Photos Online/Desktop</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-guide-to-locating-vanished-eyes-only-images-on-snapchat/"><u>2024 Approved Guide to Locating Vanished Eyes-Only Images on Snapchat</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-solutions-for-the-crashy-windows-11-photos-app/"><u>2024 Approved Quick Solutions for the Crashy Windows 11 Photos App</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/all-about-facetune-in-depth-user-guide-and-analysis/"><u>All About Facetune In-Depth User Guide & Analysis</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetooth-sound-delay-solutions-fast-and-simple-fixes/"><u>Bluetooth Sound Delay Solutions - Fast and Simple Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/discords-push-to-talk-problem-diagnosis-and-solutions-for-not-working-issues/"><u>Discord's Push-To-Talk Problem: Diagnosis and Solutions for Not Working Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-counter-strike-source-microphone-issues/"><u>Fixing Counter-Strike Source Microphone Issues</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-2024-approved-best-tool-to-translate-youtube-video-to-arabic/"><u>New 2024 Approved Best Tool to Translate YouTube Video to Arabic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/newest-techniques-to-fix-your-squad-mic-a-comprehensive-202cu-guide/"><u>Newest Techniques To Fix Your Squad Mic: A Comprehensive 202Cu Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-speaker-output-on-laptop-computers-a-step-by-step-guide/"><u>Restoring Speaker Output on Laptop Computers - A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silence-the-hum-top-5-tricks-to-stop-buzzing-in-audio-equipment/"><u>Silence the Hum: Top 5 Tricks to Stop Buzzing in Audio Equipment</u></a></li>
+<li><a href="https://win-special.techidaily.com/step-by-step-solution-manual-for-fixing-windows-11s-error-code-0x800f0954/"><u>Step-by-Step Solution Manual for Fixing Windows 11'S Error Code 0X800F0954</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steps-to-fix-a-nonfunctional-razer-blackshark-v2-headset-mic/"><u>Steps to Fix a Nonfunctional Razer BlackShark V2 Headset Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016695565-trouble-with-csgo-voice-chat-heres-the-solution/"><u>Trouble with CS:GO Voice Chat? Here's the Solution!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-troubleshooting-guide-getting-sounds-back-for-anthem-game/"><u>Windows 10 Troubleshooting Guide: Getting Sounds Back for Anthem Game</u></a></li>
+</ul></div>
 

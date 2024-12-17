@@ -1,7 +1,7 @@
 ---
 title: "Get Your Skype Microphone Working Again on Windows 11: Step-by-Step Fixes"
-date: 2024-12-05T22:10:29.610Z
-updated: 2024-12-10T17:51:42.851Z
+date: 2024-12-13T22:01:26.611Z
+updated: 2024-12-16T20:36:27.967Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the charm.
@@ -40,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 6. [**Scan and pair Windows**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Reset Windows](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure your device is working
 
  Before you start, you need to make sure the output device (speaker/headphone) is working without any issues.
@@ -51,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/audio-headphone-ports.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  First you need to make sure the device is**connected to the right port** of your PC. You can also check by testing it on another computer or device (e.g. your phone). Note that some headphones come with**switches** that need to be turned on manually.
@@ -69,7 +61,15 @@ If the output device works as expected, simply continue to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-troubleshooter-2.jpg)
 3. Select**Playing Audio** . Then follow the on-screen instructions to proceed.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-troubleshooter-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the troubleshooter doesn’t get the audio back, you can take a look at the next fix.
 
@@ -85,6 +85,10 @@ Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-2.jpg)
 3. Under**Output settings** , you can test different**output formats** . Make sure**Volume** is set to**above 50** . You can also**turn Enhance audio on and off** to see if that helps.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-3.jpg)
 
@@ -102,14 +106,14 @@ If the issue lingers on, check out the next fix below.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-update-all-realtek-audio.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -117,6 +121,10 @@ If the issue lingers on, check out the next fix below.
  After updating all the drivers, restart your PC and check if the issue persists.
 
  If the latest drivers can’t fix the problem, you can take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Check for the latest system updates
 
@@ -126,11 +134,11 @@ If the issue lingers on, check out the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
 ### Fix 6: Scan and pair Windows
 
@@ -147,10 +155,6 @@ If the issue lingers on, check out the next fix below.
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Reset Windows
 
  If the sound issues only appear after upgrading from Windows 10, you might need to do a**clean reinstall** —we always recommend a clean reinstall instead of direct upgrade so as to avoid strange issues.
@@ -166,10 +170,6 @@ If the issue lingers on, check out the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-2.jpg)
 3. In the pop-up window, select**Remove everything** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-3.jpg)
 4. Click**Cloud download** . This will get you the latest system files.  
 
@@ -177,7 +177,7 @@ If the issue lingers on, check out the next fix below.
 5. Follow the on-screen instructions to reset your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -201,20 +201,22 @@ If the issue lingers on, check out the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-experts-choice-gimbals-top-ranked-for-4k-cameras/"><u>[New] 2024 Approved Expert's Choice Gimbals Top-Ranked For 4K Cameras</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-the-art-of-analytics-understanding-metrics-without-fancy-tools/"><u>[New] In 2024, The Art of Analytics Understanding Metrics Without Fancy Tools</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-uncover-the-most-stellar-yt-gamers-intros-no-cost-high-quality/"><u>[New] In 2024, Uncover the Most Stellar YT Gamers' Intros No Cost, High Quality?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-quintessential-6-realistic-mojave-homes-for-2024/"><u>[New] Quintessential 6 Realistic Mojave Homes for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-tech-savvy-simplified-your-guide-to-making-10-easy-youtube-videos/"><u>[New] Tech Savvy Simplified Your Guide to Making 10 Easy YouTube Videos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-surging-views-selecting-best-hashtags-for-yt/"><u>[Updated] 2024 Approved Surging Views Selecting Best Hashtags for YT</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-visualize-for-a-friendly-facebook/"><u>[Updated] In 2024, Visualize for a Friendly Facebook</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/crackling-noise-woes-heres-how-to-fix-them-asap-with-headphones/"><u>Crackling Noise Woes? Here's How to Fix Them ASAP with Headphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-when-your-logitech-g633-microphone-stops-working/"><u>Effective Solutions for When Your Logitech G633 Microphone Stops Working</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-going-fast-instant-downloads-of-arduino-mega-2560-compatible-drivers/"><u>Get Going Fast: Instant Downloads of Arduino Mega 2560 Compatible Drivers</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-a1x-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Oppo A1x 5G Phone Without Password?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-your-corsair-void-microphone/"><u>Troubleshooting Guide: Resolving Issues with Your Corsair Void Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-restoring-sound-with-a-realtek-digital-output/"><u>Troubleshooting Steps for Restoring Sound with a Realtek Digital Output</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-silent-conexant-smartaudio-hd-in-windows-10-easy-fixes-and-solutions/"><u>Troubleshooting the Silent Conexant SmartAudio HD in Windows 10 - Easy Fixes and Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/why-isnt-my-corsair-hs3ebeam-not-working-solutions-for-windows-users/"><u>Why Isn't My Corsair HS3ebeam Not Working? Solutions for Windows Users</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-prime-20-anime-openers-soundscape/"><u>[New] 2024 Approved Prime 20 Anime Openers' Soundscape</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-best-practices-for-filming-and-sharing-immersive-content-on-fb/"><u>[New] In 2024, Best Practices for Filming and Sharing Immersive Content on FB</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-how-to-convert-youtube-videos-to-mp3-songs-on-mac-2023-update-for-2024/"><u>[Updated] How to Convert YouTube Videos to MP3 Songs on Mac-2023 Update for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/a-step-by-step-igtv-translation-guide/"><u>A Step-By-Step IGTV Translation Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-problems-and-solutions-for-lucidsound-ls30-malfunctioning-mic/"><u>Common Problems & Solutions for LucidSound LS30 Malfunctioning Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/echoes-of-the-past-fixing-no-sound-problems-with-nvidias-high-definition-audio/"><u>Echoes of the Past? Fixing No Sound Problems with Nvidia's High Definition Audio</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epson-v700-driver-installation-guide-for-various-windows-platforms-win7win10win81/"><u>Epson V700 Driver Installation Guide for Various Windows Platforms (Win7/Win10/Win8.1)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-samsung-galaxy-m34-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Samsung Galaxy M34 Lock Screen Password</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-the-cyber-soundscape-solving-mute-problems-in-cyberpunk-2077-for-windows-11-users/"><u>Restoring the Cyber Soundscape: Solving Mute Problems in Cyberpunk 2077 for Windows 11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-why-cant-you-hear-your-games-on-discord/"><u>Solved: Why Can't You Hear Your Games on Discord?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-steelseries-arctis-pro-microphone-issues-expert-advice-for-fixes/"><u>Solved! SteelSeries Arctis Pro Microphone Issues – Expert Advice for Fixes</u></a></li>
+<li><a href="https://discover-great.techidaily.com/step-by-step-guide-resolving-graphics-card-issues-tips-from-yl-computing/"><u>Step-by-Step Guide: Resolving Graphics Card Issues - Tips From YL Computing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-no-sound-problem-in-windows-media-player-expert-solutions-revealed/"><u>Troubleshoot No Sound Problem in Windows Media Player – Expert Solutions Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repair-for-non-functional-corsair-hs35-microphones-on-pcs-with-windows-os/"><u>Troubleshooting and Repair for Non-Functional Corsair HS35 Microphones on PCs with Windows OS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-the-secrets-of-sdr-to-hdr-enhancement-techniques/"><u>Unveiling the Secrets of SDR-to-HDR Enhancement Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-isnt-cod-vanguards-voice-chat-working-expert-fixes-and-tips/"><u>Why Isn't COD: Vanguard's Voice Chat Working? Expert Fixes & Tips</u></a></li>
 </ul></div>
 

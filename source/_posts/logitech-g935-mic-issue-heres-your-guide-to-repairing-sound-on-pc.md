@@ -1,7 +1,7 @@
 ---
 title: Logitech G935 Mic Issue? Here's Your Guide to Repairing Sound on PC
-date: 2024-12-08T21:08:25.619Z
-updated: 2024-12-10T19:18:20.332Z
+date: 2024-12-15T01:52:03.114Z
+updated: 2024-12-16T20:17:42.653Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -51,20 +55,16 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/setting-Privacy.jpg)
 2. On the left panel, select**Microphone** , then click the**Change** button. Check if the toggle is**On** in the pop-up window. If it isn’t, toggle the switch to On.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-1.jpg)
 3. Now check to see if the toggle under**Allow apps to access your microphone** is turned On. If it isn’t, toggle the switch to On.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-2-1.jpg)
 
- Check your microphone to see if it’s back to normal. If it isn’t, proceed to the next fix down below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Check your microphone to see if it’s back to normal. If it isn’t, proceed to the next fix down below.
 
 ## Method 2: Update your audio drivers
 
@@ -79,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/Driver-Easy-5.7.2.jpg)
 3. Click the**Update** button next to the flagged audio drivers to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/DE-realtek-audio.jpg)
 4. After updating your audio drivers, reboot your computer for the trick to take effect.
@@ -90,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
  The **[Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  comes with full technical support. If you need assistance, please contact Driver Easy’s support team at <support@drivereasy.com> .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Check the sound settings
@@ -100,25 +96,30 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
 1. Right-click the volume icon on the right side of the taskbar, and then select**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/volume-icon-sounds.jpg)
 2. Under the**Recording** tab, right-click on any empty space inside the device list and then tick**Show Disabled Devices** .  
-![Show disabled Recording Devices](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dc36f136c6.jpg)
-3. If your Logitech G935 microphone is disabled in the sound settings, right-click on it and then select**Enable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Show disabled Recording Devices](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dc36f136c6.jpg)
+3. If your Logitech G935 microphone is disabled in the sound settings, right-click on it and then select**Enable** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-enable.jpg)
 4. Check if the mic is the default device. If not, click**Set Default** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/2-5-1.jpg)
 5. Now right-click the Headset Microphone again and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-properties.jpg)
 6. Under the**Levels** tab, drag the microphone slider to the highest value and then click**OK** to save your changes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-3-3.jpg)
 
@@ -132,15 +133,19 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-4.jpg)
 2. Find the**Logitech Gaming Software** . Click on it and then click**Uninstall/Change** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-4-1.jpg)
 3. After uninstalling the program, head to ​[**Logitech’s support website**](https://support.logi.com/hc/en-us/articles/360025298053) and download the latest version of Logitech Gaming Software that matches your operating system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/logitech-gaming-software-dedownlaod.jpg)
 4. Open the downloaded file and follow the on-screen instructions to install the software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Connect your Logitech G935 to your computer and check the mic to see if you can use it now.
 
@@ -184,10 +189,6 @@ Top Pick
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/audio-troubleshooter-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
  ​​​​​​That’s it! Hopefully, this post can help you resolve the Logitech G935 mic not working problems. Feel free to add a comment below to let us know your ideas or which fix helps.
@@ -209,18 +210,15 @@ Top Pick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-memetic-masterpieces-a-photo-journey-for-2024/"><u>[New] Memetic Masterpieces A Photo Journey for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-avoid-complexity-easy-video-edits-on-windows-10-for-everyone/"><u>[Updated] Avoid Complexity Easy Video Edits on Windows 10 for Everyone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-mastering-multimedia-slides-with-speech-recordings-powerpoint/"><u>[Updated] In 2024, Mastering Multimedia Slides with Speech Recordings (PowerPoint)</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-secrets-to-exposing-videos-in-the-news-feed/"><u>2024 Approved Secrets to Exposing Videos in the News Feed</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-securing-your-content-adobe-presenter-captures/"><u>2024 Approved Securing Your Content Adobe Presenter Captures</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/logitech-g230-mic-not-working-solved/"><u>Logitech G230 Mic Not Working [SOLVED]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-the-battlefield-with-a-functional-microphone-in-counter-strike-2/"><u>Mastering the Battlefield with a Functional Microphone in Counter-Strike 2</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/modern-warfare-voice-communication-issues-solved/"><u>Modern Warfare Voice Communication Issues - Solved!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/navigating-data-protection-simplified-through-cookiebot-technology/"><u>Navigating Data Protection - Simplified Through Cookiebot Technology</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ornamentation/"><u>Ornamentation</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-hdmi-issues-how-to-fix-a-device-tied-up-by-other-apps/"><u>Resolving HDMI Issues: How to Fix a Device Tied Up by Other Apps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-the-audio-on-your-hp-notebook-expert-troubleshooting-steps/"><u>Reviving the Audio on Your HP Notebook: Expert Troubleshooting Steps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-advanced-setup-setting-up-an-elapsed-time-display-in-obs/"><u>[New] Advanced Setup Setting up an Elapsed Time Display in OBS</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ynamic-duo-shots-perfecting-youtube-video-splitting-for-2024/"><u>[New] Dynamic Duo Shots Perfecting YouTube Video Splitting for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-shake-eliminator-gear-for-handhocal-cams-2022-for-2024/"><u>[New] Shake Eliminator Gear for Handhocal Cams 2022 for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/best-shot-worthy-unveiling-the-premier-web-print-providers-of-24/"><u>Best Shot Worthy: Unveiling the Premier Web Print Providers of '24</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-rectify-sound-issues-with-headphones-on-a-windows-7-system/"><u>How to Rectify Sound Issues with Headphones on a Windows 7 System</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-setup-fully-operational-now/"><u>Nvidia Setup: Fully Operational Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-chivalry-2s-stability-issues-updated-version-successful/"><u>Resolving Chivalry 2'S Stability Issues – Updated Version Successful</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sony-wh-1000xm3-vs-wh-1000xm4-overcoming-connectivity-issues-on-pcs/"><u>Sony WH-1000XM3 vs WH-1000XM4: Overcoming Connectivity Issues on PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-solution-manual-for-defective-jabra-bluetooth-devices/"><u>The Definitive Solution Manual for Defective Jabra Bluetooth Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-getting-your-lucidsound-ls30-mic-back-in-action/"><u>Troubleshooting Tips: Getting Your LucidSound LS30 Mic Back in Action</u></a></li>
 </ul></div>
 

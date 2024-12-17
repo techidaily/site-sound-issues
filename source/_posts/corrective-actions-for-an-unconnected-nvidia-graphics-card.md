@@ -1,7 +1,7 @@
 ---
 title: Corrective Actions for an Unconnected Nvidia Graphics Card
-date: 2024-12-08T21:33:22.369Z
-updated: 2024-12-10T17:19:11.940Z
+date: 2024-12-11T01:38:54.780Z
+updated: 2024-12-16T16:19:45.992Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -32,10 +32,6 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 2. **[Update NVIDIA Graphics Driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Rollback your driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Use the generic high definition audio device driver](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Check NVIDIA Output settings
 
@@ -55,7 +51,7 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 [How to Fix HDMI No Sound after Connecting Computer to Monitor and TV.](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update NVIDIA graphics driver
@@ -87,7 +83,7 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 7. Follow the on-screen instructions to complete the installation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Restart your computer for the changes to take effect.
@@ -112,7 +108,7 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Go to Playback devices and see if the issue has been solved. Your audio output devices should be “ready” instead of “not plugged in” now.
@@ -127,15 +123,15 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/device-manger.png)
 2. Double click**Display Adapters** , then right click your graphics card driver and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/properties.png)
 3. Go to the**Driver** tab, and select**Roll Back Driver** if the option is not gray.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/driver.png)
 4. Follow the on-screen instructions to proceed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Use the generic high definition audio device driver
 
@@ -151,6 +147,10 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 6. Select**High Definition Audio Device** . Then click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/update.png)
 7. Click**No** if you’re prompted for a restart.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8. Go back to Device Manager and click Action, then select**Scan for hardware changes** .
 9. Check if the issue still persists.
@@ -174,20 +174,14 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-battle-begins-tiktok-vs-snapchat-analysis/"><u>[New] The Battle Begins TikTok vs Snapchat Analysis</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-designing-effective-thumbnails-with-imagery-for-2024/"><u>[Updated] Designing Effective Thumbnails with Imagery for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-technique-to-embed-gopro-clips-in-panoramic-movies/"><u>[Updated] Ideal Technique to Embed GoPro Clips in Panoramic Movies</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-lava-blaze-curve-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Lava Blaze Curve 5G Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-meizu-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Meizu Phone without Google Account?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-streamline-creative-processes-efficiently-adding-text-to-videos-with-microsoft-photos/"><u>In 2024, Streamline Creative Processes Efficiently Adding Text to Videos with Microsoft Photos</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209982868-9781071534502-megan-en-de-vermiste-kat/"><u>Megan en de Vermiste Kat | Free Book</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/secure-saving-of-display-configurations-in-win-7-10-editions-settled/"><u>Secure Saving of Display Configurations in WIN 7-10 Editions [Settled]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-for-windows-11-speaker-malfunctions-quick-troubleshooting-steps/"><u>Solution for Windows 11 Speaker Malfunctions: Quick Troubleshooting Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-for-logitech-webcam-and-mic-connectivity-issues/"><u>Solution Steps for Logitech Webcam & Mic Connectivity Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-common-problems-with-the-logitech-g-pro-x-microphone/"><u>Solve Common Problems with the Logitech G PRO X Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-silent-windows-media-player-with-these-simple-steps/"><u>Solve Your Silent Windows Media Player with These Simple Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-no-sound-in-duo-troubleshooting-audio-problems-between-two-computers/"><u>Solving 'No Sound' In Duo: Troubleshooting Audio Problems Between Two Computers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-silent-bluetooth-issue-effective-tips-for-restoring-sound/"><u>Solving the Silent Bluetooth Issue: Effective Tips for Restoring Sound</u></a></li>
-<li><a href="https://win-blog.techidaily.com/untangling-pc-instability-for-robocop-rupture-city-essential-troubleshooting-steps/"><u>Untangling PC Instability for 'RoboCop: Rupture City': Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/essential-tips-for-monitoring-facebook-live-streams/"><u>Essential Tips for Monitoring Facebook Live Streams</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-the-world-of-exclusive-ps5-video-games-you-cant-miss/"><u>Explore the World of Exclusive PS5 Video Games You Can't Miss</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-google-hangouts-microphone-problem-fast-and-easy/"><u>Fix Your Google Hangouts Microphone Problem Fast and Easy</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-how-to-get-your-realtek-mic-up-and-running-again/"><u>Fixing Issues: How To Get Your Realtek Mic Up And Running Again</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-apple-iphone-11-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From Apple iPhone 11 Smoothly</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-finest-selection-of-economical-free-lut-tools/"><u>In 2024, Unveiling the Finest Selection of Economical, Free LUT Tools</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/remote-control-racing-fun-insightful-review-of-the-holy-stone-cartoon-race-set/"><u>Remote Control Racing Fun - Insightful Review of the Holy Stone Cartoon Race Set</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-issues-with-discords-push-to-talk-feature/"><u>Troubleshooting: Fixing Issues with Discord's Push-to-Talk Feature</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-is-my-logitech-g430-mic-not-working-proven-fixes-to-get-you-back-on-track/"><u>Why Is My Logitech G430 Mic Not Working? Proven Fixes to Get You Back on Track</u></a></li>
 </ul></div>
 

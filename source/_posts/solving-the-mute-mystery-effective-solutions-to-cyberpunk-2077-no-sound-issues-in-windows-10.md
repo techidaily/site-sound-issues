@@ -1,7 +1,7 @@
 ---
 title: "Solving the Mute Mystery: Effective Solutions to 'Cyberpunk 2077' No Sound Issues in Windows 10"
-date: 2024-12-08T18:35:11.165Z
-updated: 2024-12-10T16:38:28.958Z
+date: 2024-12-11T16:39:35.135Z
+updated: 2024-12-17T00:59:48.535Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 6. **[Restart the Windows Audio Endpoint Builder service](https://tools.techidaily.com/drivereasy/download/)**
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solution 1: Ensure the external sound device is plugged in (desktop only)
 
  If you’re using a desktop computer, _**ensure the device you use to listen to the sound such as external speakers, is plugged in**_  .  
@@ -57,16 +53,12 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d55d7e26c.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) If you see the Speakers disabled, right-click on the item, then select**Enable** . If you see the Speakers enabled, skip this step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d47875fcc.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’re using a**laptop computer** , you also need to check if the**microphone** device is disabled.  
   
@@ -75,6 +67,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  1) Right-click on the speaker icon in the system tray, and select**Recording devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d59326203.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) If you see the Microphone disabled, right-click on the item, then select**Enable** . If you see the Microphone enabled, skip this step.
 
@@ -94,6 +90,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6ee48396.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6c34f39b.png)
@@ -101,10 +101,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  3) Ensure the**Host** field set to**Windows WASAPI** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6a682959.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After you set the Host to Windows WASAPI, you’ll see the values of Device field under Playback and the Device under Recording change automatically.
 
@@ -130,10 +126,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d78abf2fa.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Under Playthrough, if you see**Software Playthrough of input** is checked, uncheck it. Then click the**OK** button. If not, skip this solution then try other solutions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d7d97fc21.png)
@@ -156,11 +148,19 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d83603b51.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged audio driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d8b093ee6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) After updating the driver, check to see if you can record sound successfully.
 
@@ -204,20 +204,22 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-advanced-remote-collaboration-tools-post-zoom/"><u>[New] Advanced Remote Collaboration Tools, Post-Zoom</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-cognitive-conclave-selective-general-knowledge-channels/"><u>[New] Cognitive Conclave Selective General Knowledge Channels</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-the-ultimate-guide-to-androids-premium-music-video-watching-apps-for-2024/"><u>[New] The Ultimate Guide to Android's Premium Music Video Watching Apps for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-avoid-common-mistakes-mastering-youtube-tags-wisely/"><u>[Updated] 2024 Approved Avoid Common Mistakes - Mastering YouTube Tags Wisely</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-your-handy-hint-downloading-youtube-videos-to-your-apple-device-for-2024/"><u>[Updated] Your Handy Hint Downloading YouTube Videos to Your Apple Device for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-personal-exploration-of-3d-printing-in-3dr/"><u>2024 Approved Personal Exploration of 3D Printing in '3DR'</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/correccion-importante-no-se-ofrece-el-servicio-de-respaldo-para-windows-server-ediciones-2008-2012-y-201/"><u>Corrección Importante: No Se Ofrece El Servicio De Respaldo Para Windows Server Ediciones 2008, 2012 Y 201</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-the-voicemod-not-working-issue-step-by-step-tips-for-optimal-performance/"><u>Fix the Voicemod Not Working Issue: Step-by-Step Tips for Optimal Performance</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-battlefield-4-sound-glitches-with-these-expert-troubleshooting-tips/"><u>Fix Your Battlefield 4 Sound Glitches with These Expert Troubleshooting Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-gameplay-how-to-restore-audio-in-borderlands-3-on-your-pc/"><u>Fixing Silent Gameplay: How to Restore Audio in Borderlands 3 on Your PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-silence-a-guide-to-enable-voice-chatting-in-lol/"><u>Fixing The Silence: A Guide to Enable Voice Chatting in LoL</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-onikuma-headsets-mic-working-again-a-step-by-step-guide/"><u>Get Your Onikuma Headset's Mic Working Again - A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/headphone-sounds-gone-wrong-solve-crackling-noises-with-ease/"><u>Headphone Sounds Gone Wrong? Solve Crackling Noises with Ease!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-windows-speaker-sound-distortion-issue/"><u>How to Fix Window's Speaker Sound Distortion Issue</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/weibo-stars-quick-chats-on-snapchat-for-2024/"><u>Weibo Stars Quick Chats on Snapchat for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-enhance-engagement-personalize-twitter-videos-with-new-thumbnails-for-2024/"><u>[New] Enhance Engagement Personalize Twitter Videos with New Thumbnails for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-superfast-fb-downloader-mp4-files-in-minutes/"><u>[New] SuperFast FB Downloader MP4 Files in Minutes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-top-4-proven-tactics-for-exceptional-loop-videos-on-ig/"><u>[New] Top 4 Proven Tactics for Exceptional Loop Videos on IG</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-respond-to-a-youtube-copyright-claim-best-practices/"><u>[Updated] How to Respond to a YouTube Copyright Claim Best Practices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-secret-pathway-to-premium-pristine-pictures/"><u>2024 Approved The Secret Pathway to Premium, Pristine Pictures</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-quality-restoration-overcoming-sound-distortions-and-delays-in-windows-11-and-7-environments/"><u>Audio Quality Restoration: Overcoming Sound Distortions and Delays in Windows 11 & 7 Environments</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor 90 GT? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-the-error-of-unrecognized-hardware-by-idt-software-package/"><u>Correcting the Error of Unrecognized Hardware by IDT Software Package</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/discord-on-desktop-eliminating-echo-problems-with-our-latest-troubleshooting-manual/"><u>Discord on Desktop: Eliminating Echo Problems with Our Latest Troubleshooting Manual</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-resolving-logitech-g935-sound-device-errors-in-microsofts-os/"><u>Expert Tips: Resolving Logitech G935 Sound Device Errors in Microsoft's OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reactivate-your-bose-g435s-voice-practical-solutions-for-restoring-headphone-sounds/"><u>Reactivate Your Bose G435's Voice: Practical Solutions for Restoring Headphone Sounds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-audio-to-your-mute-mac-with-these-effective-fixes-and-tips/"><u>Restore Audio to Your Mute Mac with These Effective Fixes and Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-audio-in-windows-11-fast-fixes-to-tackle-sound-problems/"><u>Reviving Audio in Windows 11: Fast Fixes to Tackle Sound Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-repair-techniques-for-astro-a20-microphone-connectivity-problems/"><u>Simple Repair Techniques for Astro A20 Microphone Connectivity Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-restore-audio-playback-in-your-pcs-borderlands-3-adventure/"><u>Solved: Restore Audio Playback in Your PC's Borderlands 3 Adventure</u></a></li>
+<li><a href="https://app-tips.techidaily.com/stability/"><u>Stability</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/xbox-gameplay-perfect-screen-recording-guide/"><u>Xbox Gameplay Perfect Screen Recording Guide</u></a></li>
 </ul></div>
 

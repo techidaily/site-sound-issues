@@ -1,7 +1,7 @@
 ---
 title: "Fast Fixes: Dealing with the Playback Test Tone Error Smoothly and Easily"
-date: 2024-12-06T21:50:25.006Z
-updated: 2024-12-10T21:56:13.850Z
+date: 2024-12-15T18:58:19.536Z
+updated: 2024-12-16T16:52:47.105Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 7. **[Change your audio channel](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1:**Check if it’s a video problem**
@@ -51,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
  Also don’t forget to check the video volume control in Facebook. It pops up at the bottom when you hover your mouse cursor over the video. Make sure you set the video volume correctly.
 
  If the volume is set correctly and your no sound issue reappears on other videos, please move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2:**Unmute your browser**
 
@@ -62,22 +66,14 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/open-volume-mixer.jpg)
 2. In the Volume Mixer window,**hold and drag** the slider for your browser (mine is Chrome) to turn up the volume.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/volume-mixer-hold-and-drag.jpg)
 3. Play your video and see if you hear any sound.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this method doesn’t fix your problem, please take a look at the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: **Change to another browser**
 
@@ -86,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
  For a better testing result, you should stop using Internet Explorer and shift to other modern counterparts, such as[Firefox](https://www.mozilla.org/en-US/firefox/new/) ,[Chrome](https://www.google.com/chrome/) and[Opera](https://www.opera.com/) .
 
  If the problem persists after changing your browser, please move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4:**Restart your computer**
 
@@ -118,6 +110,10 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-realtek-audio-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -153,18 +149,22 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-audio-channel-1.jpg)
 3. For**Audio channels** , select**Stereo** and click**Next** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap108.jpg)
 4. Check the box next to**Front left and right** . Click **Next** to continue.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap109.jpg)
 5. Click **Finish** to save the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap110.jpg)
 6. Play some Facebook videos and see if your problem has disappeared.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -187,22 +187,17 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-earning-hacks-for-youtube-short-creators/"><u>[New] 2024 Approved Earning Hacks for YouTube Short Creators</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-elite-methods-to-broadcast-and-record-sporting-events/"><u>[New] Elite Methods to Broadcast and Record Sporting Events</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-gecata-game-recorder-review-complete/"><u>[Updated] In 2024, Gecata Game Recorder Review [Complete]</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-optimize-your-content-youtube-seo-techniques-and-gadgets/"><u>[Updated] In 2024, Optimize Your Content YouTube SEO Techniques and Gadgets</u></a></li>
-<li><a href="https://win-guides.techidaily.com/creative-tims-premium-angular-bootstrap-admin-control-panel-with-over-11-advanced-features/"><u>Creative Tim's Premium Angular-Bootstrap Admin Control Panel with Over 11 Advanced Features</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-windows-11s-bluetooth-connectivity-problems/"><u>Diagnosing and Repairing Windows 11'S Bluetooth Connectivity Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-fixes-for-a-malfunctioning-corsair-void-microphone-step-by-step-tips/"><u>DIY Fixes for a Malfunctioning Corsair Void Microphone - Step-by-Step Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-fixes-for-when-your-hyperx-cloud-alpha-mic-stops-working/"><u>DIY Fixes for When Your HyperX Cloud Alpha Mic Stops Working</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-on-iphone-7-plus-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud on iPhone 7 Plus Safe and Legal</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-nonfunctioning-hdmi-sound-output-on-windows-7/"><u>Effective Fixes for Nonfunctioning HDMI Sound Output on Windows 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-to-reactivate-a-non-responsive-corsair-hs70-mic/"><u>Effective Solutions to Reactivate a Non-Responsive Corsair HS70 Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/enhance-your-video-calls-solving-the-dilemma-of-a-broken-skype-mic-on-windows-11/"><u>Enhance Your Video Calls: Solving the Dilemma of a Broken Skype Mic on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/epson-scanner-woes-on-windows-os/"><u>Epson Scanner Woes on Windows OS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-issues-with-corsair-hs70-headset-mic-effective-solutions-inside/"><u>Fixing Issues with Corsair HS70 Headset Mic - Effective Solutions Inside</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-utorrent-when-its-unresponsive-top-7-tips/"><u>How to Fix Utorrent When It's Unresponsive - Top 7 Tips</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/olympic-spirits-2022s-short-track-feat/"><u>Olympic Spirits 2022'S Short-Track Feat</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-apple-iphone-15-pro-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 15 Pro Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-essential-software-for-high-quality-video-capture-on-windows-pcs/"><u>[Updated] In 2024, Essential Software for High-Quality Video Capture on Windows PCs</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-social-media-synopsis-top-trending-twitvideos/"><u>[Updated] In 2024, Social Media Synopsis Top Trending TwitVideos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-powerdirector-guidebook-2024-overview/"><u>[Updated] PowerDirector Guidebook 2024 Overview</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-accessible-and-quality-the-best-10-online-passport-photo-tools-revealed/"><u>2024 Approved Accessible & Quality The Best 10 Online Passport Photo Tools Revealed</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-advanced-strategies-for-endless-online-spaces/"><u>2024 Approved Advanced Strategies for Endless Online Spaces</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-malfunctioning-speakers-on-your-windows-11-system/"><u>Effective Solutions for Malfunctioning Speakers on Your Windows 11 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-setting-up-idt-hd-audio-codec-for-windows-10-system/"><u>Step-by-Step Solution: Setting Up IDT HD Audio Codec for Windows 10 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-mac-sound-problems-effectively-with-these-proven-techniques/"><u>Troubleshoot Mac Sound Problems Effectively with These Proven Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015367066-troubleshooting-audio-issues-post-update-in-windows-11-fast-solutions/"><u>Troubleshooting Audio Issues Post-Update in Windows 11 – Fast Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-techniques-for-clear-audio-playback-via-bluetooth-in-windows-1011/"><u>Troubleshooting Techniques for Clear Audio Playback via Bluetooth in Windows 10/11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-windows-1110-users-with-non-working-spatial-audio-issues/"><u>Troubleshooting Tips for Windows 11/10 Users with Non-Working Spatial Audio Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-choosing-the-ideal-ipad-air-case-for-your-needs-the-2024-review-toms-hardware/"><u>Ultimate Guide to Choosing the Ideal iPad Air Case for Your Needs: The 2024 Review | Tom's Hardware</u></a></li>
 </ul></div>
 

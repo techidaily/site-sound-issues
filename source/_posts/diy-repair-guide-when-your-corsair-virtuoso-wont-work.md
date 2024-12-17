@@ -1,7 +1,7 @@
 ---
 title: "DIY Repair Guide: When Your Corsair Virtuoso Won't Work"
-date: 2024-12-03T19:53:18.772Z
-updated: 2024-12-10T20:03:04.725Z
+date: 2024-12-14T16:39:25.734Z
+updated: 2024-12-16T18:49:19.837Z
 tags:
   - win11
   - win10
@@ -37,7 +37,7 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
  Then, ensure the detachable microphone is firmly plugged in and check if the RGB LED ring indicates the live status (green).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Set Virtuoso as the default recording device
@@ -48,10 +48,6 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 2. Go to the**Recording** tab and set your headset as the default device. Your device should be displayed as**Corsair Virtuoso** and shows strong signals when you speak.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
 3. Right-click your**Corsair Virtuoso** and select**Properties** .  
 
@@ -59,15 +55,11 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 4. Go to the**Levels** tab and drag the slider to a proper volume.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 5. Click**OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now you can test your microphone by recording your own voice using some voice apps such as Voice Recorder. If the Virtuoso mic works now, you can just join a league and enjoy talking with your teammates. But if the Corsaire mic is still not working, you can try the next fix below.
 
@@ -86,6 +78,10 @@ There are mainly two ways for you to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now.jpg)
 3. Click the**Update** button next to the flagged**Corsaire Virtuoso** driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/gaming-headset.jpg)
@@ -103,7 +99,7 @@ There are mainly two ways for you to do this:
 2. In the**Input** section, click**Device properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/device.jpg)
@@ -112,11 +108,11 @@ There are mainly two ways for you to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/additional.jpg)
 4. Go to the**Advanced** tab, and select**DVD Quality** in the**Default Format** section. ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-format.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Let Windows find the problem for you
 
@@ -125,6 +121,10 @@ There are mainly two ways for you to do this:
 1. Right-click the volume button in the notification area, and select**Troubleshoot sound problems** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/troubleshoot.jpg)
 2. Follow the instructions given in the popped-up Help window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. You may need to restart your computer for the changes to take effect.
 
@@ -151,20 +151,21 @@ There are mainly two ways for you to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/esign-principles-for-eye-catching-yt-previews/"><u>[New] Design Principles for Eye-Catching YT Previews</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-simplified-steps-for-capturing-google-voice-calls-for-2024/"><u>[New] Simplified Steps for Capturing Google Voice Calls for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-transforming-your-shots-with-ease-in-photoshop/"><u>[Updated] 2024 Approved Transforming Your Shots with Ease in Photoshop</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-recommendation-best-websites-for-downloading-snapchat-ringtone-for-2024/"><u>[Updated] Recommendation Best Websites For Downloading Snapchat Ringtone for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015429486-apex-legends-quiet-zone-heres-how-to-get-game-sounds-back/"><u>Apex Legends Quiet Zone? Here's How to Get Game Sounds Back</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015027012-battlefield-4-no-sound-heres-the-fix/"><u>Battlefield 4 No Sound? Here’s The Fix!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dark-souls-crashes-and-bugs-heres-how-you-can-resolve-them/"><u>Dark Souls 지미: Crashes and Bugs? Here's How You Can Resolve Them</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-asus-rog-phone-8-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Asus ROG Phone 8 Phone? Unlock It Now</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-top-tier-rivals-to-apples-airpods-comprehensive-analysis-and-insights/"><u>The Top-Tier Rivals to Apple's AirPods - Comprehensive Analysis and Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transferez-un-fichier-m4a-a-format-aiff-sans-frais-conversion-sur-terrain-virtuel-avec-movavi/"><u>Transférez Un Fichier M4A À Format AIFF Sans Frais - Conversion Sur Terrain Virtuel Avec Movavi</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-unplugged-realtek-high-quality-sound/"><u>Troubleshooting Tips for Unplugged Realtek High-Quality Sound</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ways-to-switch-off-windows-10s-built-in-speaker-amplification-settings/"><u>Ways to Switch Off Windows 10'S Built-In Speaker Amplification Settings</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-11-sound-problems-heres-how-to-get-your-volume-back-quickly/"><u>Windows 11 Sound Problems? Here's How to Get Your Volume Back Quickly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-compatibility-epson-scanner-problems/"><u>Windows Compatibility: Epson Scanner Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/world-of-warcraft-voice-chat-not-functioning-heres-how-you-can-fix-it-now/"><u>World of Warcraft Voice Chat Not Functioning? Here's How You Can Fix It Now</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-olympic-sprint-spotlight-year-2022/"><u>[Updated] Olympic Sprint Spotlight Year 2022</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-share-your-vids-youtube-to-insta-stories-for-2024/"><u>[Updated] Share Your Vids YouTube to Insta-Stories for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-conversion-of-tiktok-to-facebook/"><u>[Updated] The Ultimate Conversion of TikTok to Facebook</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effectively-dealing-with-cs-go-microphone-issues-top-solutions-explored/"><u>Effectively Dealing with CS: GO Microphone Issues - Top Solutions Explored</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-for-smooth-video-trimming-in-photos-for-2024/"><u>Expert Tips for Smooth Video Trimming in Photos for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/front-earphone-sock-unresponsive-a-step-by-step-fix-guide/"><u>Front Earphone Sock Unresponsive? A Step-by-Step Fix Guide!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-game-on-point-with-solved-apex-legends-voice-communication-problems/"><u>Getting Your Game On Point with Solved Apex Legends Voice Communication Problems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/guide-to-downloading-and-installing-hps-cross-platform-print-driver-for-windows-users/"><u>Guide to Downloading & Installing HP's Cross-Platform Print Driver for Windows Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-sound-adapter-optimization-on-dell-pcs/"><u>Mastering Sound Adapter Optimization on Dell PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-your-pcs-audio-problems-easy-solutions/"><u>Quick Fixes for Your PC's Audio Problems | Easy Solutions!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-update-nvidias-geforce-gtx-460-driver-software-for-windows-computers/"><u>Step-by-Step Guide: Update NVIDIA's GeForce GTX 460 Driver Software for Windows Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-instructions-disabling-windows-aturate-audio-enhancements-to-improve-sound-clarity/"><u>Step-by-Step Instructions: Disabling Windows Aturate Audio Enhancements to Improve Sound Clarity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-a-broken-corsair-soundperfection-mic/"><u>Step-by-Step Solutions for a Broken Corsair SoundPerfection Mic</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/ultimate-capture-app-windows-10-edition/"><u>Ultimate Capture App - Windows 10 Edition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-top-10-no-cost-video-cropping-apps-of-the-year/"><u>Ultimate Guide: Top 10 No-Cost Video Cropping Apps of the Year</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-troubleshooting-and-repairing-your-malfunctioning-corsair-void-headset-microphone/"><u>Ultimate Guide: Troubleshooting and Repairing Your Malfunctioning Corsair Void Headset Microphone</u></a></li>
 </ul></div>
 

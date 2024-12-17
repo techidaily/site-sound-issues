@@ -1,7 +1,7 @@
 ---
 title: Overcoming Voice Chat Failures During Your Phasmophobia Gameplay
-date: 2024-12-04T20:16:53.883Z
-updated: 2024-12-10T16:17:14.863Z
+date: 2024-12-10T21:36:21.385Z
+updated: 2024-12-16T20:47:29.542Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -43,7 +47,7 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2020/10/open-sound-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Make sure that your input device is set to whatever microphone you’re currently using or prefer to use. Then click**Device properties** .
@@ -53,6 +57,10 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 3) Set the volume to at least 50.
 
 ![set the volume](https://images.drivereasy.com/wp-content/uploads/2020/10/set-the-volume-to-as-least-50-1200x571.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After applying the changes, play your game to check if the problem persists.
 
@@ -66,17 +74,9 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 
 ![check in-game audio settings Phasmophobia voice chat not working](https://images.drivereasy.com/wp-content/uploads/2020/10/click-options-1200x722.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure your Microphone has been set correctly. Then click**Test** to test the voice recognition.
 
 ![check in-game audio settings Phasmophobia voice chat not working](https://images.drivereasy.com/wp-content/uploads/2020/10/test-Microphone-1200x715.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Remember to click**Apply** if you change the**Microphone** .
 
@@ -91,6 +91,10 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
  This voice chat not working issue may indicate that**the audio driver you’re using is out of date** . If you can’t remember when was the last time you updated your drivers, definitely do it right now. This is probably the best shot you have got without doing a lot of troubleshooting.
 
  There are mainly two ways you can update your audio driver: [manually](https://tools.techidaily.com/drivereasy/download/) and [**automatically**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Manually update your audio driver
 
@@ -108,6 +112,10 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 
 ![update drivers automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
   
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.
@@ -119,10 +127,6 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
  After updating your drivers, restart your computer and play your game to check if your voice chat is working now.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Reset your network
 
@@ -136,13 +140,13 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 
 ![reset network to fix Phasmophobia voice chat not working issue](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-reset-now.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once it’s finished, play your game to check if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Verify the integrity of game files
 
@@ -153,16 +157,12 @@ Once it’s finished, play your game to check if it works.
 ![verify integrity of game files Phasmophobia voice chat not working](https://images.drivereasy.com/wp-content/uploads/2020/10/click-on-Properties-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Select the **Installed Files**  tab and click the **Verify integrity of game files** button.
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-1200x610.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Steam will verify the game’s files and this process may take several minutes. After it’s finished, launch your game to check if it works for you.
 
@@ -187,18 +187,14 @@ Once it’s finished, play your game to check if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-going-against-the-grain-instagram-video-reversal/"><u>[New] 2024 Approved Going Against the Grain Instagram Video Reversal</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-budget-friendly-twit-to-gif-guide-for-2024/"><u>[Updated] Budget-Friendly Twit-to-GIF Guide for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-predicting-the-new-wave-of-social-media-infographic-style/"><u>[Updated] In 2024, Predicting the New Wave of Social Media - Infographic Style</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-unlocking-efficiency-the-top-5-video-shortener-tools/"><u>2024 Approved Unlocking Efficiency The Top 5 Video Shortener Tools</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/download-ios-18-on-your-compatible-iphone-model-a-step-by-step-guide-techexplorer/"><u>Download iOs 18 on Your Compatible iPhone Model - A Step-by-Step Guide | TechExplorer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-linux-and-gpt-the-ultimate-shellguide-to-chatgpt/"><u>Leveraging Linux & GPT: The Ultimate ShellGuide to ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-language-tech-unpacking-bert-and-gpt/"><u>Navigating Language Tech: Unpacking BERT & GPT</u></a></li>
-<li><a href="https://fox-info.techidaily.com/quadcopter-showdown-dji-pro-and-hero-4-black-for-2024/"><u>Quadcopter Showdown DJI Pro and Hero 4 Black for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-poco-c55-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Poco C55 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-obs-effective-solutions-for-non-functioning-microphone-recordings/"><u>Troubleshooting OBS: Effective Solutions for Non-Functioning Microphone Recordings</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-solving-issues-with-your-corsair-virtuoso-mic/"><u>Troubleshooting Tips: Solving Issues with Your Corsair Virtuoso Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-guide-how-to-fix-unresponsive-pc-speakers/"><u>Ultimate Troubleshooting Guide: How to Fix Unresponsive PC Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unsilencing-discord-effective-troubleshooting-steps-for-audio-problems/"><u>Unsilencing Discord: Effective Troubleshooting Steps for Audio Problems</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-perfecting-music-in-instagram-videos-and-stories/"><u>[New] In 2024, Perfecting Music in Instagram Videos & Stories</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-streamline-memory-management-via-mematic-for-2024/"><u>[New] Streamline Memory Management via Mematic for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-breakdown-of-mr-beasts-financial-powerhouse/"><u>[Updated] Breakdown of Mr. Beast's Financial Powerhouse</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-muted-problems-get-facebook-videos-back-with-sound-on-your-computer/"><u>Fix Muted Problems: Get Facebook Videos Back with Sound on Your Computer</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-s17-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo S17 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-windows-11-bluetooth-problems-a-comprehensive-fix-guide/"><u>Resolve Your Windows 11 Bluetooth Problems: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/simplifying-zero-data-erasure-on-seagate-drives-unveiling-2-easy-methods/"><u>Simplifying Zero Data Erasure on Seagate Drives: Unveiling 2 Easy Methods</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-auditory-issues-essential-tricks-to-restore-sounds-in-fortnites-battle-royale-2024-edition/"><u>Solving Auditory Issues: Essential Tricks to Restore Sounds in Fortnite's Battle Royale - 2024 Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-headphone-issues-on-your-windows-10-pc/"><u>Step-by-Step Solution for Headphone Issues on Your Windows 10 PC</u></a></li>
 </ul></div>
 

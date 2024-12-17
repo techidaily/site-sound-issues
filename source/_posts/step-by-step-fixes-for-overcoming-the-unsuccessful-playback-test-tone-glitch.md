@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fixes for Overcoming the Unsuccessful Playback Test Tone Glitch
-date: 2024-08-23T12:23:39.776Z
-updated: 2024-08-24T12:23:39.776Z
+date: 2024-12-14T22:49:46.870Z
+updated: 2024-12-16T22:56:18.368Z
 tags:
   - win11
   - win10
@@ -55,6 +55,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d47875fcc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re using a**laptop computer** , you also need to check if the**microphone** device is disabled.  
   
  Follow these steps:  
@@ -63,9 +67,17 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d59326203.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) If you see the Microphone disabled, right-click on the item, then select**Enable** . If you see the Microphone enabled, skip this step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d5e494746.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##
   
@@ -84,6 +96,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  3) Click**Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6c34f39b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Ensure the**Host** field set to**Windows WASAPI** .
 
@@ -141,6 +157,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d8b093ee6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) After updating the driver, check to see if you can record sound successfully.
 
 ##
@@ -174,8 +194,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,8 +201,20 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-unleashing-your-gaming-potential-with-win10-recordings/"><u>[New] In 2024, Unleashing Your Gaming Potential with Win10 Recordings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-bandicam-your-compreayer-for-high-quality-screen-recording-for-2024/"><u>[Updated] Bandicam Your Compreayer for High-Quality Screen Recording for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-navigating-backwards-youtubes-way-to-rearrange-watch-queue-for-2024/"><u>[Updated] Navigating Backwards YouTube’s Way to Rearrange Watch Queue for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-swift-screen-capture-with-your-idevice-for-2024/"><u>[Updated] Swift Screen Capture with Your iDevice for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-6-tools-to-remove-signature-backgrounds-effortlessly/"><u>2024 Approved Prime 6 Tools to Remove Signature Backgrounds Effortlessly</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-tecno-camon-20-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Tecno Camon 20 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/astro-a50-audio-trouble-expert-tips-for-repairing-the-built-in-mic/"><u>Astro A50 Audio Trouble? Expert Tips for Repairing the Built-In Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016744164-audacity-sound-device-malfunction-here-are-5-reliable-fixes/"><u>Audacity Sound Device Malfunction? Here Are 5 Reliable Fixes!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-motorola-moto-g73-5g-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Motorola Moto G73 5G.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-communication-how-to-fix-the-apex-legends-voice-chat-problem/"><u>Mastering Communication - How to Fix the Apex Legends Voice Chat Problem</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-new-dawn-of-creativity-spotlight-on-six-visionary-nftos-for-2024/"><u>The New Dawn of Creativity Spotlight on Six Visionary NFTOs for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-troubleshooting-guide-for-installing-idt-high-quality-sound-card-drivers-on-windows-10-pcs/"><u>The Ultimate Troubleshooting Guide for Installing IDT High-Quality Sound Card Drivers on Windows 10 PCs</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-vivo-x-flip-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Vivo X Flip? Fixed | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
