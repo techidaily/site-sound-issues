@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Redragon Headset Microphone Malfunctions on Desktops
-date: 2024-12-10T23:43:26.838Z
-updated: 2024-12-16T16:56:06.351Z
+date: 2024-12-19T20:22:37.707Z
+updated: 2024-12-25T17:08:22.580Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
 4. **[Check Google Meet’s settings](https://tools.techidaily.com/drivereasy/download/)**
 
  Before you proceed to the more complicated fixes, try**restarting your browser and computer** . A simple restart can sometimes perfectly resolve the microphone glitch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 – Update your audio driver
 
@@ -70,13 +74,13 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 3. Scroll down and make sure the button under**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** is set to**On** . This makes it possible for your browser to access the microphone.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
 
  When you complete the steps, check if Google Meet can pick up your voice. If not, move on to the next method below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Check your PC sound settings
 
@@ -89,19 +93,15 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-3.jpg)
 3. Click the**Microphone** you would like to use and click**Set Default** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
 4. You also need to set the microphone volume to a proper level: right-click the microphone and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-6-1.jpg)
 5. Click the**Levels** tab and drag the microphone slider to turn the volume to the max. Then click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-2-1.jpg)
 
@@ -116,18 +116,18 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
 2. Make sure your microphone is not turned off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click the**vertical ellipsis icon** at the top left and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-2.jpg)
 4. From the drop-down menu under Microphone, select your primary microphone.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you still can’t use the microphone in Google Meet, the last resort is to**double-check the physical connection** .
 
@@ -156,24 +156,19 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-the-branding-edge-design-strategies-for-game-changing-banners/"><u>[New] In 2024, The Branding Edge Design Strategies for Game-Changing Banners</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-gazing-into-clarity-in-depth-on-the-hp-z32x-monitor/"><u>[Updated] In 2024, Gazing Into Clarity In-Depth on the HP Z32X Monitor</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-motorola-edge-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722967608780-canon-imageclass-mf4800-printer-driver-download-get-started-now/"><u>Canon ImageCLASS MF4800 Printer Driver Download - Get Started Now!</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-message-0x80071ac3-decoded-steps-for-reparing-your-storage-device/"><u>Error Message 0X80071AC3 Decoded: Steps for Reparing Your Storage Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/firefox-no-sound-problem-heres-how-you-can-get-your-audio-back/"><u>Firefox No Sound Problem? Here’s How You Can Get Your Audio Back</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-oculus-rift-s-microphone-glitches-quickly-proven-steps/"><u>Fixing Oculus Rift S Microphone Glitches Quickly: Proven Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-apex-legends-voice-chat-up-and-running-again-expert-solutions-inside/"><u>Get Your Apex Legends Voice Chat Up and Running Again! Expert Solutions Inside</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/harmonizing-apple-and-windows-calendars-effectively/"><u>Harmonizing Apple and Windows Calendars Effectively</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-iphone-11-pro-max-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For iPhone 11 Pro Max?</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-redmi-note-13-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Redmi Note 13 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-of-a-non-working-logitech-g2-30-mic-expert-advice/"><u>How to Restore Functionality of a Non-Working Logitech G2 30 Mic - Expert Advice</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-oppo-find-n3-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Oppo Find N3 Phones? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-sony-xperia-5-v-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Sony Xperia 5 V Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/modern-hacks-to-revive-your-quieted-rust-microphone-a-2024-users-handbook/"><u>Modern Hacks to Revive Your Quieted Rust Microphone - A 2024 User's Handbook</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-audio-hurdles-how-to-get-your-google-meet-microphone-working-again-in-windows-11-and-10/"><u>Overcoming Audio Hurdles: How to Get Your Google Meet Microphone Working Again in Windows 11 and 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016529136-pubg-voice-communication-breakdown-heres-how-to-get-it-working-again/"><u>PUBG Voice Communication Breakdown? Here's How to Get It Working Again!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-when-your-corsair-void-microphone-fails-to-work/"><u>Quick Fixes for When Your Corsair Void Microphone Fails to Work</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016783858-ultimate-troubleshooting-tips-to-overcome-stuttering-speakers-on-your-pc-running-windows-os-versions-117/"><u>Ultimate Troubleshooting Tips to Overcome Stuttering Speakers on Your PC Running Windows OS Versions (11/7)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-building-an-engaging-listenership-through-rss-crafting/"><u>[New] 2024 Approved Building an Engaging Listenership Through RSS Crafting</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-champions-of-3d-spatial-displays/"><u>[New] Champions of 3D Spatial Displays</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-100-unique-instagram-captions-to-show-yourself-to-the-world-for-2024/"><u>[Updated] 100 Unique Instagram Captions to Show Yourself to the World for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-virtual-horizons-where-is-the-new-frontier-of-vr/"><u>[Updated] 2024 Approved Virtual Horizons Where Is the New Frontier of VR?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-best-sfpr-settings-for-leisurely-scenes/"><u>[Updated] In 2024, Best SFPR Settings for Leisurely Scenes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-essential-tips-for-discarding-unwanted-youtube-files/"><u>[Updated] The Essential Tips for Discarding Unwanted YouTube Files</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/distinguished-pioneers-elite-insta-hlv-page-builders-for-2024/"><u>Distinguished Pioneers Elite Insta HLV Page Builders for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-major-advancements-with-the-latest-4th-generation-echo-gadget/"><u>Experience Major Advancements with the Latest 4Th Generation Echo Gadget</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-voice-back-in-fortnite-a-step-by-cstep-solution-for-fixing-mics/"><u>Get Your Voice Back in Fortnite: A Step-by-CStep Solution for Fixing Mics</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-dial-up-the-tempo-top-apps-speed-up-videos/"><u>In 2024, Dial Up the Tempo Top Apps Speed Up Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pubg-voice-communication-errors-quick-fix-and-troubleshooting-guide/"><u>PubG Voice Communication Errors: Quick Fix and Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-troubleshooting-guide-for-non-functioning-redragon-pc-microphone/"><u>Solved: Troubleshooting Guide for Non-Functioning Redragon PC Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-techniques-for-new-world-sound-glitches/"><u>Troubleshooting Techniques for New World Sound Glitches</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/turtle-beach-recon-70-headset-mic-issue-heres-how-to-repair-it/"><u>Turtle Beach Recon 70 Headset Mic Issue? Here's How to Repair It</u></a></li>
 </ul></div>
 

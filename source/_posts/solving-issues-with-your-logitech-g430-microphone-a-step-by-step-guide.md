@@ -1,7 +1,7 @@
 ---
 title: "Solving Issues with Your Logitech G430 Microphone: A Step-by-Step Guide"
-date: 2024-12-09T17:56:35.762Z
-updated: 2024-12-16T18:34:16.234Z
+date: 2024-12-19T16:26:31.681Z
+updated: 2024-12-25T20:07:28.243Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
  Here are all the 5 fixes that helped many users solve the Rec Room mic not working problem. You don’t need to try them all. Just work your way down the list until you find the one that does the trick.
@@ -39,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 5. **[Close unnecessary background apps](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Troubleshoot the hardware issue
@@ -63,19 +59,19 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 3. Scroll down and**turn on** the button for**Allow apps to access your microphone** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3-6.jpg)
 4. Also, **toggle on Allow desktop apps’ access to your microphone** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg)
 
  After applying the settings, you can restart Rec Room to test the issue. If it’s not resolved, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Set your headset mic as the default device
 
@@ -87,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel-0.jpg)
 2. Select**Small icons** from the menu next to View by and click**Sound** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-4.jpg)
 3. Go to the**Recording** tab. Then right-click other recording devices you’re not using and click**Disable** .  
 
@@ -94,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 4. Make sure your preferred headset mic is**enabled** , which should be covered with a green check mark, and**set as default** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### On Oculus or SteamVR
 
@@ -130,6 +126,10 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-oculus-headset-driver.jpg)
 
@@ -145,11 +145,11 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1-10.jpg)
 2. Right-click each application you want to close and click**End task** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-2-1.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-2-1.jpg)
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
@@ -177,20 +177,18 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-effortless-video-integration-into-blog-posts-and-essays-for-2024/"><u>[New] Effortless Video Integration Into Blog Posts & Essays for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-echo-emporium-a-selection-of-top-sites-for-skype-audio/"><u>[New] In 2024, Echo Emporium A Selection of Top Sites for Skype Audio</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-superior-locations-for-purchasing-youtube-ringtone-content/"><u>[New] Superior Locations for Purchasing YouTube Ringtone Content</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-young-filmmakers-guide-to-selecting-video-gear/"><u>[Updated] In 2024, The Young Filmmaker's Guide to Selecting Video Gear</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/44cm44k344oz44ox44or44gq44or44k544ov44o844oj44gr44ki44kl44ov44kh44kk44or44o744oq44od44kv44ki44od44ox44gu5pqx5yplus35yyw5pa55rov6kej6kqs44cn/"><u>「シンプルなパスワードによるファイル・バックアップの暗号化方法解説」</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unseen-youtube-videos-the-meaning-of-unlisted-status/"><u>2024 Approved Unseen YouTube Videos The Meaning of 'Unlisted' Status</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/addressing-persistent-sound-interruptions-in-windows-11-comprehensive-fixes-and-advice/"><u>Addressing Persistent Sound Interruptions in Windows 11 - Comprehensive Fixes and Advice</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-devices-not-detected-by-windows-windows-7810/"><u>How to Fix Audio Devices Not Detected by Windows (Windows 7/8/10)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/idt-high-definition-codec-driver-configuration-and-installation-tips-for-windows-10-users/"><u>IDT High Definition Codec Driver Configuration & Installation Tips for Windows 10 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/immediate-fixes-for-overcoming-the-cant-play-sound-error-messages/"><u>Immediate Fixes for Overcoming the 'Can't Play Sound' Error Messages</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722958779555-pioneer-dj-enthusiast-grab-your-ddjs-x2-software-today-for-seamless-experience/"><u>Pioneer DJ Enthusiast? Grab Your DDJS-X2 Software Today for Seamless Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014290109-razer-kraken-microphone-troubleshooting-guide-problem-solved/"><u>Razer Kraken Microphone Troubleshooting Guide - Problem Solved</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-ensuring-sound-directs-to-headphones-not-external-speakers/"><u>Troubleshooting Guide: Ensuring Sound Directs to Headphones, Not External Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-solving-non-functional-fortnite-audio/"><u>Troubleshooting Steps for Solving Non-Functional Fortnite Audio</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-your-intel-integrated-graphics-driver-on-windows-11-free-download/"><u>Update Your Intel Integrated Graphics Driver on Windows 11 - Free Download</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-secrets-to-choosing-the-ultimate-free-online-srt-translators/"><u>[New] Secrets to Choosing the Ultimate Free Online SRT Translators</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-extensive-investigation-the-future-of-panorama-cams-with-samsung/"><u>[Updated] 2024 Approved Extensive Investigation The Future of Panorama Cams with Samsung</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-stream-power-showdown-vmix-clashes-with-wirecast-for-broadcast-excellence/"><u>[Updated] In 2024, Stream Power Showdown VMix Clashes with Wirecast for Broadcast Excellence</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/all-you-need-to-know-about-the-high-end-microsoft-surface-studio-2/"><u>All You Need to Know About the High-End Microsoft Surface Studio 2</u></a></li>
+<li><a href="https://win-forum.techidaily.com/elevate-to-admin-every-open-the-definitive-guide-for-windows-hemove-11-application-access/"><u>Elevate to Admin Every Open - The Definitive Guide for Windows Hemove 11 Application Access</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-mode-a-guide-to-restoring-sound-on-your-lenovo-notebook/"><u>Fixing the Silent Mode: A Guide to Restoring Sound on Your Lenovo Notebook</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfected-techniques-for-high-quality-webp-to-jpg-conversion/"><u>In 2024, Perfected Techniques for High-Quality WebP to JPG Conversion</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722868351196-say-goodbye-to-lost-keys-with-2e-top-sound-wave-tracker-picks-for-a-hassle-free-2024/"><u>Say Goodbye to Lost Keys with 2E – Top Sound Wave Tracker Picks for a Hassle-Free 2024!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-restoring-functionality-of-your-logitech-g230-microphone/"><u>Solution Guide: Restoring Functionality of Your Logitech G230 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-unplugged-sound-dilemma-in-windows-1187-a-step-by-nstep-guide-for-fixing-audio-issues/"><u>Solving the Unplugged Sound Dilemma in Windows 11/8/7: A Step-by-nStep Guide for Fixing Audio Issues</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-essential-guide-to-understanding-facebook-metrics/"><u>The Essential Guide to Understanding Facebook Metrics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-gaming-headsets-a-guide-to-resolving-the-issue-with-g435/"><u>Troubleshooting Silent Gaming Headsets: A Guide to Resolving the Issue with G435</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Vivo S17e | Dr.fone</u></a></li>
 </ul></div>
 

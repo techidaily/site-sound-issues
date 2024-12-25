@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Overcome Squad Communication Hurdles - Mic Not Working Fixes
-date: 2024-12-10T00:56:36.354Z
-updated: 2024-12-16T21:37:13.736Z
+date: 2024-12-20T16:09:22.697Z
+updated: 2024-12-25T18:15:51.520Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/6d08ef0c51b7d66c7e631fe3667e11cb568cec8b1
 3. **[Check Windows sound settings](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Troubleshoot the hardware issues
 
  Just do some basic troubleshooting steps before trying anything more complicated:
@@ -42,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/6d08ef0c51b7d66c7e631fe3667e11cb568cec8b1
 3. If the microphone is not muted and is connected properly, then**try the microphone on another device** to see if the mic works.
 
  If the mic of your Logitech G733 works on other devices, it suggests that the hardware is fine. If it’s the case, read on and try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Allow access to your Logitech G733 microphone
 
@@ -58,16 +58,20 @@ thumbnail: https://thmb.techidaily.com/6d08ef0c51b7d66c7e631fe3667e11cb568cec8b1
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/win11-microphone-privacy.jpg)
 3. Ensure microphpne access for this device is**on** . If it is off, then check the**Change** button below to turn it on. You should also**turn on the toggle** under**Allow apps to access your microphone** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Allow access to the microphone on this device and allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-access-to-the-microphone-on-this-device-and-allow-apps-to-access-your-microphone.jpg)
 4. Scroll down to check if the**Allow desktop apps access to your microphone** part is set to **On** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Allow desktop apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-desktop-apps-to-access-your-microphone.jpg)
 
  Then check if your Logitech G733 mic works on your computer. If not, don’t worry. Just try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Check Windows sound settings
 
@@ -81,22 +85,18 @@ thumbnail: https://thmb.techidaily.com/6d08ef0c51b7d66c7e631fe3667e11cb568cec8b1
 3. **Right-click** the**Headset Microphone** and click **Enable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Enable headset microphone recording](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4daac96f5e7.jpg)
 4. Then**right-click** it again and select **Set as Default Device** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Set as default recording device](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
 5. Right-click **Headset Microphone** and click **Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Headset microphone properties](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
 6. Click the **Levels** tab, then drag the volume slider towards the _maximum value_ .  
@@ -105,10 +105,6 @@ thumbnail: https://thmb.techidaily.com/6d08ef0c51b7d66c7e631fe3667e11cb568cec8b1
 7. Click**OK** to save the changes.
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Update your audio drivers
 
@@ -122,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/6d08ef0c51b7d66c7e631fe3667e11cb568cec8b1
 2. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy** will scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to your sound device or your headset to download the latest and correct driver for it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — if you don’t already have it, you’ll be prompted to upgrade when you click **Update All** .)  
 ![audio-driver-update](https://images.drivereasy.com/wp-content/uploads/2021/03/audio-driver-update.jpg)
@@ -153,20 +153,24 @@ thumbnail: https://thmb.techidaily.com/6d08ef0c51b7d66c7e631fe3667e11cb568cec8b1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-windows-best-video-talks-ranked-1-8/"><u>[Updated] 2024 Approved Windows' Best Video Talks Ranked #1-8</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-artisans-shaping-virtual-marvel-universes/"><u>[Updated] In 2024, Artisans Shaping Virtual Marvel Universes</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-decide-your-videoclip-layout-fbs-dilemma/"><u>2024 Approved Decide Your Videoclip Layout FB’s Dilemma</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723017016972-astro-a50-no-audio-problem-heres-how-to-rectify-it-fast/"><u>Astro A50 No Audio Problem? Here’s How to Rectify It Fast!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/banishing-auto-correct-errors-a-guide-to-perfect-iphone-spellings-with-six-essential-strategies/"><u>Banishing Auto-Correct Errors: A Guide to Perfect iPhone Spellings with Six Essential Strategies</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/dominate-the-chart-with-this-high-engagement-video/"><u>Dominate the Chart with This High-Engagement Video</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixes-for-audio-glitches-and-warping-issues-in-windows-10-and-7-systems/"><u>Fixes for Audio Glitches and Warping Issues in Windows 10 & 7 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-realtek-mic-issues-troubleshooting-guide/"><u>Fixing Realtek Mic Issues: Troubleshooting Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/full-tutorial-on-repairing-non-functional-xbox-one-controllers/"><u>Full Tutorial on Repairing Non-Functional Xbox One Controllers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/lose-yourself-to-laughter-best-10-jokes/"><u>Lose Yourself to Laughter Best 10 Jokes</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/iting-the-golden-age-of-cinema-video-tutorials-for-2024/"><u>Revisiting the Golden Age of Cinema Video Tutorials for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-repairing-a-nonfunctional-bose-sound-system/"><u>Step-by-Step Guide: Repairing a Nonfunctional Bose Sound System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-dolby-on-windows-11-start-the-dolby-audio-driver-now-step-by-step-solution/"><u>Trouble with Dolby on Windows 11? Start the Dolby Audio Driver Now - Step by Step Solution</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-guide-for-solving-discords-audio-interruptions/"><u>Ultimate Troubleshooting Guide for Solving Discord's Audio Interruptions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/wavpackmp3wav/"><u>WavPack形式のファイルをMP3やWAVに効率良く変換するための手順</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-corrected-clandestine-miniature-video-absence/"><u>[Updated] 2024 Approved Corrected Clandestine Miniature Video Absence</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-ultimate-chart-watcher-rank-tracking-of-youtube-videos/"><u>[Updated] 2024 Approved Ultimate Chart Watcher Rank Tracking of YouTube Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-best-of-battles-10-most-epic-royale-games-for-2024/"><u>[Updated] Best of Battles 10 Most Epic Royale Games for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bypassing-application-lockouts-on-your-hdmi-devices-for-uninterrupted-usage/"><u>Bypassing Application Lockouts on Your HDMI Devices for Uninterrupted Usage</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-unleashing-new-potentials-in-data-collection/"><u>Cookiebot: Unleashing New Potentials in Data Collection</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-sound-interruptions-a-users-guide-to-solving-windows-groovy-11-audio-glitches/"><u>Diagnosing and Repairing Sound Interruptions: A User's Guide to Solving Windows Groovy 11 Audio Glitches</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/discover-the-top-5-no-cost-reader-programs-for-your-mac-computer/"><u>Discover the Top 5 No-Cost Reader Programs for Your Mac Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-fixes-for-dell-computer-speakers-not-playing-sound/"><u>Easy Fixes for Dell Computer Speakers Not Playing Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-overcome-audio-hurdles-in-resident-evil-village-gaming-experience/"><u>Expert Tips to Overcome Audio Hurdles in Resident Evil Village Gaming Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-non-functional-mic-during-a-zoom-call-on-your-computer/"><u>Fixing Non-Functional Mic During a Zoom Call on Your Computer</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-constructive-steps-to-personalized-google-vr-headset/"><u>In 2024, Constructive Steps to Personalized Google VR Headset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-the-soundscape-on-your-computer-simple-steps-to-restore-audio/"><u>Revive the Soundscape on Your Computer - Simple Steps to Restore Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-fixing-realtek-hd-audio-issues-with-zero-sound-output/"><u>Solved: Fixing Realtek HD Audio Issues with Zero Sound Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-getting-tozo-t6-running-again-in-windows-11/"><u>Step-by-Step Solutions: Getting Tozo T6 Running Again in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fix-for-rpcrt4dll-missing-or-unavailable-mistakes-in-windows/"><u>The Ultimate Fix for RPCRT4.DLL Missing or Unavailable Mistakes in Windows</u></a></li>
+<li><a href="https://win-net.techidaily.com/the-ultimate-guide-to-fixing-your-frozen-desktops-and-laptops-by-yl-software-experts/"><u>The Ultimate Guide to Fixing Your Frozen Desktops and Laptops by YL Software Experts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-no-sound-problems-during-black-ops-cold-war-missions-pc-edition/"><u>Troubleshooting No Sound Problems During Black Ops Cold War Missions (PC Edition)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-bargain-alert-snag-a-high-end-512gb-m1-macbook-pro-for-just-450-less-featured-by-zdnet/"><u>Unbeatable Bargain Alert: Snag a High-End 512GB M1 MacBook Pro for Just $450 Less, Featured by ZDNET!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveil-windows-xps-essential-movie-making-features/"><u>Unveil Windows XP’s Essential Movie Making Features</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions to Unplugged Nvidia Card Issues - Get Back To Gaming
-date: 2024-12-13T23:36:24.204Z
-updated: 2024-12-16T19:06:04.255Z
+date: 2024-12-21T17:07:47.353Z
+updated: 2024-12-25T16:53:03.209Z
 tags:
   - win11
   - win10
@@ -46,10 +46,6 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
  If you bump into HDMI no sound issues, you can check this article:  
 [How to Fix HDMI No Sound after Connecting Computer to Monitor and TV.](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update NVIDIA graphics driver
 
  In most cases, if this error persists, you may have faulty or outdated NVIDIA drivers installed. To fix it, you should update your NVIDIA graphics driver to the latest version. Although it seems like a sound card driver issue, many users solved the issue by updating their NVIDIA graphics driver.
@@ -65,7 +61,7 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 2. Click the**DOWNLOAD** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Double click the downloaded file and follow the onscreen instructions to extract it to your computer.  
@@ -75,20 +71,12 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/select.jpg)
 5. Select**Custom(Advanced)** \>**NEXT** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/installation-options.jpg)
 6. Be sure to tick the box next to**Perform a clean installation** , then click**NEXT** .  
 
  (You can uncheck the software you don’t need.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/perform-a-clean-install.jpg)
 7. Follow the on-screen instructions to complete the installation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Restart your computer for the changes to take effect.
 
@@ -108,20 +96,20 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 3. Click the**Update** button next to your sound card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will get**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/update-all-your-drivers-3.jpg)
 4. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Go to Playback devices and see if the issue has been solved. Your audio output devices should be “ready” instead of “not plugged in” now.
 
  If you need assistance, please contact **Driver Easy’s support** **team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Rollback your driver
 
@@ -131,11 +119,19 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/device-manger.png)
 2. Double click**Display Adapters** , then right click your graphics card driver and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/properties.png)
 3. Go to the**Driver** tab, and select**Roll Back Driver** if the option is not gray.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/driver.png)
 4. Follow the on-screen instructions to proceed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Use the generic high definition audio device driver
 
@@ -146,6 +142,10 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 3. Right-click your NVIDIA High Definition Audio and select Update driver.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/update-driver.png)
 4. Click**Browse my computer for driver software** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Click**Let me pick from a list of available driver on my computer** .
 6. Select**High Definition Audio Device** . Then click**Next** .  
@@ -174,22 +174,22 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/2024-approved-a-trifecta-guide-for-extracting-youtube-subtitled-content/"><u>2024 Approved A Trifecta Guide for Extracting YouTube Subtitled Content</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ue590-review-top-4k-game-display-with-fs/"><u>2024 Approved The UE590 Review Top 4K Game Display with FS</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-5-ios-platforms-for-experiencing-classic-psp-games/"><u>2024 Approved Top 5 iOS Platforms for Experiencing Classic PSP Games</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/a-complete-walkthrough-on-how-to-get-your-steelseries-arctis-mic-working-again/"><u>A Complete Walkthrough on How to Get Your SteelSeries Arctis Mic Working Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-to-fix-dell-speakersound-card-drivers-in-windows-e7/"><u>Effective Solutions to Fix Dell Speaker/Sound Card Drivers in Windows E7</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-apple-iphone-se-by-drfone-ios/"><u>How to jailbreak iCloud locked Apple iPhone SE</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016349427-hp-laptop-has-no-sound-heres-the-ultimate-solution-for-windows-10-users/"><u>HP Laptop Has No Sound? Here's the Ultimate Solution for Windows 10 Users!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-vivo-v30-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Vivo V30 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-how-to-restore-sound-on-your-astro-a50-headphones/"><u>Quick Fixes: How to Restore Sound on Your Astro A50 Headphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/razer-barracuda-x-not-picking-up-audio-solutions-for-windows-11-and-10-users/"><u>Razer Barracuda X Not Picking Up Audio? Solutions for Windows 11 & 10 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/razer-man-o-war-mic-troubleshooting-tips-to-get-it-working-again/"><u>Razer Man O' War Mic Troubleshooting: Tips to Get It Working Again</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/revitalize-missing-data-now-unmatched-recovery-rate-at-hand/"><u>Revitalize Missing Data Now! Unmatched Recovery Rate at Hand</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-repairing-a-nonfunctional-razer-blackshark-v2-mic/"><u>Step-by-Step Guide to Repairing a Nonfunctional Razer BlackShark V2 Mic</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-xiaomi-14-ultra-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Xiaomi 14 Ultra Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-successfully-running-the-idt-high-definition-sound-driver-in-windows-11/"><u>Troubleshooting: Successfully Running the IDT High Definition Sound Driver in Windows 11</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/tutorial-on-crafting-dual-techniques-for-windows-server-2016/"><u>Tutorial on Crafting Dual Techniques for Windows Server 2016</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-elevate-your-invitations-top-video-creation-apps-for-mobile-devices/"><u>Updated In 2024, Elevate Your Invitations Top Video Creation Apps for Mobile Devices</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-eliminating-fb-live-ads-a-step-by-step-guide/"><u>[New] 2024 Approved Eliminating FB Live Ads A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-secrets-of-saving-screenshots-tips-and-tricks-for-dell-users/"><u>[New] 2024 Approved Secrets of Saving Screenshots Tips & Tricks for Dell Users</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-exclusive-list-the-most-reliable-10-vimeo-downloader-apps/"><u>[Updated] Exclusive List The Most Reliable 10 Vimeo Downloader Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/10-metaverse-mingles-gaming-with-pals-for-2024/"><u>10 Metaverse Mingles Gaming with Pals for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-sound-issues-on-your-windows-10-device/"><u>Effective Solutions for Sound Issues on Your Windows 10 Device</u></a></li>
+<li><a href="https://fox-http.techidaily.com/effortless-video-magic-classic-80s-vhs-techniques-for-2024/"><u>Effortless Video Magic Classic 80S VHS Techniques for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/embracing-the-digital-shift-how-i-became-dependent-on-my-ereader-instead-of-hardcover-hits/"><u>Embracing the Digital Shift: How I Became Dependent on My eReader Instead of Hardcover Hits.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-fixing-the-unresponsive-steelseries-arctis-mic-product-code-problems/"><u>Expert Advice on Fixing the Unresponsive SteelSeries Arctis Mic ([Product Code]) Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-no-sound-problems-in-apex-legends-quickly/"><u>How to Resolve No Sound Problems in Apex Legends Quickly</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-depth-review-exploring-the-features-of-the-blackberry-playbook/"><u>In-Depth Review: Exploring the Features of the BlackBerry PlayBook</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138621210-9781601636348-odyssey-of-the-gods/"><u>Odyssey of the Gods | Free Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silence-no-more-expert-tips-for-restoring-sound-to-your-hp-laptop/"><u>Silence No More: Expert Tips for Restoring Sound to Your HP Laptop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-resolving-issues-with-your-turtle-beach-recon-70-mic/"><u>Solution Guide: Resolving Issues with Your Turtle Beach Recon 70 Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-non-functional-windows-11-audio-devices/"><u>Troubleshooting Guide: Fixing Non-Functional Windows 11 Audio Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-resolve-laptop-not-producing-any-sound-problem/"><u>Troubleshooting Guide: How To Resolve 'Laptop Not Producing Any Sound' Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-wow-voice-chat-solutions-for-players-experiencing-difficulties/"><u>Troubleshooting WoW Voice Chat - Solutions for Players Experiencing Difficulties</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wipe-out-all-information-from-a-dell-notebook-best-methods/"><u>Wipe Out All Information From a Dell Notebook - Best Methods</u></a></li>
 </ul></div>
 

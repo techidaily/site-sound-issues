@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Diagnosing & Repairing Lack of Sound on Your HP Device
-date: 2024-08-23T12:13:36.000Z
-updated: 2024-08-24T12:13:36.000Z
+date: 2024-12-21T17:37:56.776Z
+updated: 2024-12-25T18:00:00.718Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 
  This is very annoying. You can’t use your headphone or microphone with the front jacks. But don’t worry. It can be fixed…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  The following are a few methods that have helped many people fix their front audio jack issues. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -35,9 +39,17 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b348985cac7a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** If you connect your_headphone_ or your_speakers_ to the front audio jack, click the**Playback** tab. If you connect your_microphone_ , click the**Recording** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b348efb28884.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Right click your_audio device_ , then click**Set as Default Device** . After that, click**OK** .
 
@@ -48,8 +60,9 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
  Hopefully this works for you. But if not, there are two more fixes for you to try…
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Update your device drivers
 
  Your front audio jack may not be working if you’re using a wrong driver or it’s out of date. You should update your device drivers to see if that’s the case for you. If you don’t have the time, patience or skills to update your drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -65,23 +78,17 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b344dbcb3a78.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)**  Click the **Update**  button next to_each of your devices_ to download the latest and correct driver for it, then you can manually install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b3494ff64802.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free, but it’s partly manual.
 
  If you have any issue with Driver Easy, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  for advice. You should attach the URL of this article so they can help you better.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Try the back audio jacks
 
  You may have hardware issues with your front audio jacks. So it’s worth checking the audio jacks on your motherboard to see if your issues are occurring on your front jack only.
@@ -96,8 +103,6 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +110,21 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-cutting-edge-zoom-recording-techniques/"><u>[Updated] Cutting-Edge Zoom Recording Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-complete-self-guided-tour-to-host-and-participate-in-google-meet/"><u>[Updated] In 2024, Complete Self-Guided Tour to Host & Participate in Google Meet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-the-troubling-0x80072efd-error-in-windows-11-system/"><u>Effective Fixes for the Troubling 0X80072EFD Error in Windows 11 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-mpow-mic-issues-on-pc-troubleshooting-guide/"><u>Fixing MPOW Mic Issues on PC - Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-logitech-g933-microphone-working-again-fixes-inside/"><u>Get Your Logitech G933 Microphone Working Again - Fixes Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-warzones-audio-connections-tips-for-console-and-computer-users/"><u>How to Repair Warzone's Audio Connections - Tips for Console and Computer Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-resolve-iphone-visibility-problems-when-connected-to-a-windows-1011-desktop/"><u>How to Resolve iPhone Visibility Problems when Connected to a Windows 10/11 Desktop</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-oppo-a2-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Oppo A2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-workday-efficiency-with-these-proven-time-saving-tactics-according-to-zdnets-experts/"><u>Maximize Workday Efficiency with These Proven Time-Saving Tactics, According to ZDNet's Experts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/play-avi-videos-on-apple-tv-3-easy-strategies-for-seamless-viewing/"><u>Play AVI Videos on Apple TV: 3 Easy Strategies for Seamless Viewing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-repairing-your-corsair-hs60-when-the-mic-wont-work/"><u>Solution Guide: Repairing Your Corsair HS60 When the Mic Won't Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-what-to-do-when-your-voice-is-unheard-by-the-mic/"><u>Solved: What To Do When Your Voice Is Unheard By The Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sound-rescue-mission-effective-methods-for-repairing-nonfunctional-microphones-on-toshiba-laptops/"><u>Sound Rescue Mission: Effective Methods for Repairing Nonfunctional Microphones on Toshiba Laptops</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-updating-and-downloading-the-latest-epson-printer-drivers-on-windows-10/"><u>Step-by-Step Guide: Updating and Downloading the Latest Epson Printer Drivers on Windows 10</u></a></li>
+</ul></div>
 

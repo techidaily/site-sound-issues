@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Reactivating the Razer BlackShark V2 Microphone Functionality"
-date: 2024-12-12T00:47:33.056Z
-updated: 2024-12-16T20:49:38.699Z
+date: 2024-12-18T20:01:06.771Z
+updated: 2024-12-25T17:16:49.609Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -34,6 +34,10 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 4. [**Change to DVD quality**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Let Windows find the problem for you**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Make sure you use the right ports
 
  You can connect your Virtuoso headset using the Slipstream Wireless dongle, a 3.5mm jack, or a USB connection. No matter what wired connection you use, you should first make sure you’re utilizing the correct port.
@@ -41,7 +45,7 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
  Then, ensure the detachable microphone is firmly plugged in and check if the RGB LED ring indicates the live status (green).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Set Virtuoso as the default recording device
@@ -58,13 +62,17 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
 4. Go to the**Levels** tab and drag the slider to a proper volume.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 5. Click**OK** .
 
  Now you can test your microphone by recording your own voice using some voice apps such as Voice Recorder. If the Virtuoso mic works now, you can just join a league and enjoy talking with your teammates. But if the Corsaire mic is still not working, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Re-installing drivers
@@ -87,16 +95,8 @@ There are mainly two ways for you to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/gaming-headset.jpg)
 4. Reboot your PC for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance or the issue persists after updating all the drivers, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Change to DVD quality
 
@@ -109,14 +109,14 @@ There are mainly two ways for you to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/device.jpg)
 3. Click**Additional device properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/additional.jpg)
 4. Go to the**Advanced** tab, and select**DVD Quality** in the**Default Format** section. ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-format.jpg)
 
 5. Click**OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Let Windows find the problem for you
 
@@ -151,18 +151,19 @@ There are mainly two ways for you to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-exploring-the-top-10-budget-friendly-youtube-spaces-for-artistry-for-2024/"><u>[New] Exploring the Top 10 Budget-Friendly YouTube Spaces for Artistry for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-cha-cha-chickadees/"><u>[New] In 2024, Cha-Cha Chickadees</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-canon-pro-editing-essentials-10plus-available-paid-and-free-choice/"><u>2024 Approved Canon Pro-Editing Essentials – 10+ Available, Paid & Free Choice</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-conquer-the-world-of-video-downloads-software-or-freely-whats-best-for-you/"><u>2024 Approved Conquer the World of Video Downloads Software or Freely, What's Best for You?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-the-tp-link-ub400-bluetooth-adapter-compatible-drivers/"><u>Download and Update the TP-Link UB400 Bluetooth Adapter - Compatible Drivers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-dolby-advanced-audio-issue-how-to-resolve-dolby-audio-driver-not-starting-on-windows-11/"><u>Fixing Dolby Advanced Audio Issue: How to Resolve 'Dolby Audio Driver Not Starting' On Windows 11</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/revenue-video-visionaries/"><u>High-Revenue Video Visionaries</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-announce-your-first-social-giving-drive/"><u>How to Announce Your First Social Giving Drive</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-call-of-duty-black-ops-cold-war-players-voice-connectivity-problems/"><u>Solving Call of Duty: Black Ops Cold War Players' Voice Connectivity Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-solving-missing-sound-device-problems-in-windows-xpvista710/"><u>Step-by-Step Guide to Solving Missing Sound Device Problems in Windows (XP/Vista/7/10)</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96317589-9781401932992-the-journey-home/"><u>The Journey Home | Free Book</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-nonfunctional-discord-push-to-talk-feature/"><u>Troubleshooting Guide: Fixing Nonfunctional Discord Push-to-Talk Feature</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-when-your-laptops-audio-jack-wont-work/"><u>Troubleshooting Steps When Your Laptop's Audio Jack Won't Work</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-crafting-your-niche-top-8-courses-for-aspiring-creators/"><u>[New] 2024 Approved Crafting Your Niche Top 8 Courses for Aspiring Creators</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-disrupt-bot-patterns-for-natural-viewer-increase/"><u>[Updated] 2024 Approved Disrupt Bot Patterns for Natural Viewer Increase</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-reposition-mac-picture-cache-destination/"><u>[Updated] 2024 Approved Reposition Mac Picture Cache Destination</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/changing-the-soundtrack-of-conversation-whatsapp-ringtones-for-ios-android/"><u>Changing the Soundtrack of Conversation WhatsApp Ringtones for iOS, Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/critics-cliches-the-fallacies-behind-review-scores/"><u>Critics' Cliches: The Fallacies Behind Review Scores</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cure-your-sony-vegas-breakdowns-with-these-troubleshooting-steps/"><u>Cure Your Sony Vegas Breakdowns with These Troubleshooting Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dell-speaker-woes-heres-how-to-correct-sound-driver-issues-in-windows-7/"><u>Dell Speaker Woes? Here's How to Correct Sound Driver Issues in Windows 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-fixes-for-unknown-speaker-setup-challenges-on-windows-11-systems/"><u>Easy Fixes for Unknown Speaker Setup Challenges on Windows 11 Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-major-online-interaction-hubs-facebook-twitter-instagram-youtube/"><u>Exploring Major Online Interaction Hubs: Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-back-online-a-quick-fix-guide-for-non-responsive-voice-chat-in-modern-warfare/"><u>Getting Back Online: A Quick Fix Guide for Non-Responsive Voice Chat in Modern Warfare</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-realme-11-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Realme 11 Pro Quickly? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-network-error-code-0x800704cf/"><u>How to Resolve Windows Network Error Code 0X800704CF</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-audio-issues-following-windows-11-upgrade-step-by-step-solution/"><u>Resolve Audio Issues Following Windows 11 Upgrade - Step by Step Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-to-solving-rec-room-mic-problems-on-your-computer/"><u>Ultimate Guide to Solving Rec Room Mic Problems on Your Computer</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing Issues: How to Restore Functionality of the LucidSound LS30 Microphone"
-date: 2024-12-14T21:09:24.870Z
-updated: 2024-12-16T17:56:08.222Z
+date: 2024-12-18T16:40:05.244Z
+updated: 2024-12-25T19:59:26.383Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -33,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 3. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: Check your microphone device settings
 
@@ -58,13 +66,13 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)** Right click it again and select **Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)** Right click**Headset Microphone** and click**Properties** .
 
@@ -75,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **9)** Click**OK** , then click**OK** .
@@ -83,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Update your audio drivers
 
@@ -102,16 +106,12 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the**Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) — if you don’t already have it, you’ll be prompted to upgrade when you click**Update All** .)  
@@ -148,21 +148,22 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-innovative-approaches-to-social-media-video-making/"><u>[Updated] Innovative Approaches to Social Media Video Making</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/amplify-audio-on-windows-10-tips-and-tricks-for-maximum-volume-control/"><u>Amplify Audio on Windows 10: Tips and Tricks for Maximum Volume Control</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/cod-vanguard-guide-overcoming-voice-chat-connectivity-problems-successfully/"><u>COD: Vanguard Guide – Overcoming Voice Chat Connectivity Problems Successfully</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/corsair-virtuoso-headset-troubleshooting-what-to-do-when-it-wont-work-anymore/"><u>Corsair Virtuoso Headset Troubleshooting: What To Do When It Won't Work Anymore</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/crafting-compelling-podcast-cliffhangers-for-2024/"><u>Crafting Compelling Podcast Cliffhangers for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-remedies-to-restore-google-hangouts-microphone-functionality/"><u>Effective Remedies to Restore Google Hangouts Microphone Functionality</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-honor-90-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Honor 90 FRP</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nokia-xr21s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Nokia XR21s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/lightroom-guide-creating-and-merging-stunning-hdr-images-for-2024/"><u>Lightroom Guide Creating & Merging Stunning HDR Images for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcome-your-lol-communication-hurdles-a-guide-when-voice-chat-wont-work/"><u>Overcome Your LoL Communication Hurdles: A Guide When Voice Chat Won't Work</u></a></li>
-<li><a href="https://win11.techidaily.com/remedies-for-the-malfunction-of-windows-11s-brightness-control-fn/"><u>Remedies for the Malfunction of Windows 11'S Brightness Control Fn</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-counter-strike-audio-problems-mic-malfunction-resolved/"><u>Solve Counter-Strike Audio Problems: Mic Malfunction Resolved</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/strategies-to-skirt-gan-faux-pas-effectively/"><u>Strategies to Skirt GAN Faux Pas Effectively</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-steam-cloud-glitch-on-windows/"><u>Troubleshooting Steam Cloud Glitch on Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/wake-up-the-sound-addressing-cyberpunk-2077s-audio-problems-in-windows-11-environment/"><u>Wake Up the Sound: Addressing Cyberpunk 2077'S Audio Problems in Windows 11 Environment</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/bes-premier-gatherings-top-events-beyond-vidcon-for-2024/"><u>Youtube's Premier Gatherings Top Events Beyond VidCon for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-comparing-stream-quality-with-obs-studio-and-fraps/"><u>[New] 2024 Approved Comparing Stream Quality with OBS Studio and Fraps</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-a-primer-on-using-azures-voice-to-text-service-for-2024/"><u>[New] A Primer on Using Azure's Voice-to-Text Service for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-action-sequence-alerts-mastering-4-techniques-on-the-xbox-one/"><u>[New] In 2024, Action Sequence Alerts Mastering 4 Techniques on the Xbox One</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-how-to-start-a-channel-a-beginners-guide-to-reviewing-books-and-ebooks/"><u>[Updated] How To Start a Channel A Beginner's Guide to Reviewing Books & Ebooks</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/easy-guide-modifying-your-graphics-card-options-tips-from-yl-computing-and-yl-software/"><u>Easy Guide: Modifying Your Graphics Card Options - Tips From YL Computing & YL Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-remedies-when-your-desktop-speakers-fail-to-work/"><u>Effective Remedies when Your Desktop Speakers Fail to Work</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721421041266-gpt-4-free-and-open-to-all-yet-premium-users-reap-rewards-from-platinums-unparalleled-experience/"><u>GPT-4: Free and Open to All; Yet Premium Users Reap Rewards From Platinum's Unparalleled Experience.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-identify-and-set-up-unrecognized-audio-devices-in-windows-10/"><u>How to Identify and Set Up Unrecognized Audio Devices in Windows 10</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-iphone-8-plus-by-drfone-ios/"><u>How To Unlink Apple ID From iPhone 8 Plus</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-your-pcs-audio-with-idt-hd-codec-setup-on-windows-nt-troubleshooting-tips/"><u>Mastering Your PC's Audio with IDT HD Codec Setup on Windows nT | Troubleshooting Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-hdmi-access-restrictions-fixes-when-another-program-is-in-use-of-the-device/"><u>Overcoming HDMI Access Restrictions: Fixes When Another Program Is in Use of the Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-guide-mend-noise-issues-during-your-skype-chats/"><u>Quick-Fix Guide: Mend Noise Issues During Your Skype Chats</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagine-windows-task-execution-via-enhanced-run-toolkit-implementation/"><u>Reimagine Windows Task Execution via Enhanced Run Toolkit Implementation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-pcs-audio-effective-fixes-for-windows-11-sound-problems/"><u>Revive Your PC’s Audio: Effective Fixes for Windows 11 Sound Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-non-functional-epson-scanner/"><u>Troubleshooting: Non-Functional Epson Scanner</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/why-microsofts-flight-simulator-x-gold-edition-is-a-must-have-for-enthusiasts/"><u>Why Microsoft's Flight Simulator X: Gold Edition Is a Must-Have for Enthusiasts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-navigate-through-the-settings-to-disable-sound-enhancements/"><u>Windows Navigate Through the Settings to Disable Sound Enhancements</u></a></li>
 </ul></div>
 

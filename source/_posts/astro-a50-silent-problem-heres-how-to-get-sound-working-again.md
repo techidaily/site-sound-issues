@@ -1,7 +1,7 @@
 ---
 title: Astro A50 Silent Problem? Here's How to Get Sound Working Again!
-date: 2024-12-13T22:36:10.846Z
-updated: 2024-12-16T21:23:24.428Z
+date: 2024-12-18T20:16:47.321Z
+updated: 2024-12-25T17:43:48.457Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ If you run into the**Lenovo laptop no sound** issue, don’t panic. It’s often
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes for**Lenovo laptop no sound**
 
@@ -51,10 +47,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Make sure the volume is audible
 
  Sometimes you can’t hear sound from your speakers simply because the volume is mute or set too low.
@@ -66,7 +58,7 @@ To make sure the volume is audible:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7da01ab6db.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
@@ -100,7 +92,7 @@ To make sure the volume is audible:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Set default audio devices
@@ -113,19 +105,23 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7f6955a2d7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the **Playback** tab, click on **the audio device you wish to play** , then click **Set Default** . Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7f797e4504.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If **the audio device you’re to play** doesn’t show up in the device list, and right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the device** once it appears and click **Enable** before you do step **2)** .
 
  3) Check to see if your Lenovo no sound problem has been fixed. If yes, then great! But if it’s still no joy, please move on to**Fix 5,** below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable audio enhancements
 
@@ -140,6 +136,10 @@ Here’s how:
  2) In the **Playback** tab, right-click on **your default audio device** and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd80da9483df.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Enhancements** tab, then tick **the bo** x for **Disable all enhancements** and click **OK** .
 
@@ -172,24 +172,17 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-unlocking-the-full-potential-of-googles-podcast-tools/"><u>[New] In 2024, Unlocking the Full Potential of Google's Podcast Tools</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-perfecting-the-art-of-subtle-sound-enhancements-in-lumafusion/"><u>[Updated] Perfecting the Art of Subtle Sound Enhancements in Lumafusion</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/are-user-dialogues-pivotal-for-the-progress-of-chatgpts-knowledge/"><u>Are User Dialogues Pivotal for the Progress of ChatGPT's Knowledge?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-correcting-the-issues-when-your-turtle-beach-elite-atlas-microphone-wont-work/"><u>Expert Advice: Correcting the Issues When Your Turtle Beach Elite Atlas Microphone Won't Work</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-advice-how-to-seamlessly-refresh-dell-xps-15-hardware-components-with-updated-drivers-on-windows/"><u>Expert Advice: How to Seamlessly Refresh Dell XPS 15 Hardware Components with Updated Drivers on Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-and-restore-microphone-functionality-in-astro-a50/"><u>How to Repair and Restore Microphone Functionality in Astro A50</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-your-kotion-each-g2000-microphones-audio-input-functionality/"><u>How to Restore Your Kotion EACH-G2000 Microphone's Audio Input Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-alpha-headphones-microphone-not-working-heres-how-to-resolve-it/"><u>HyperX Cloud Alpha Headphones Microphone Not Working? Here’s How to Resolve It</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-tecno-camon-20-pro-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Tecno Camon 20 Pro 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-game-chat-problems-restoring-fortnite-mic-functionality/"><u>Quick Fixes for Game Chat Problems: Restoring Fortnite Mic Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-the-roar-how-world-of-warcraft-restored-audio/"><u>Reviving the Roar: How World of Warcraft Restored Audio</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/secure-download-of-canon-printer-mg3620-drivers-quick-guide/"><u>Secure Download of Canon Printer MG3620 Drivers - Quick Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-skype-audio-problems-instantly/"><u>Solve Skype Audio Problems Instantly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-restoring-functionality-to-your-steelseries-arctis-primes-mic/"><u>Step-by-Step Fix: Restoring Functionality to Your SteelSeries Arctis Prime's Mic</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-ai-assistants-for-idea-enthusiasts/"><u>The Ultimate AI Assistants for Idea Enthusiasts</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-realme-gt-5-pro-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Realme GT 5 Pro Location | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-solution-to-audio-pops-and-crackles-on-windows-devices/"><u>Ultimate Solution to Audio Pops and Crackles on Windows Devices</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-webm-to-mp3-top-10-webm-to-mp3-converters-for-2024/"><u>Updated WebM to MP3 Top 10 WebM to MP3 Converters for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-bypassing-buffer-blocks-in-photo-booth-videos/"><u>[New] 2024 Approved Bypassing Buffer Blocks in Photo Booth Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-premier-automatic-text-creators-from-videos/"><u>[New] 2024 Approved Premier Automatic Text Creators From Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-becoming-a-visionary-in-depth-guide-to-hdr-photography/"><u>[New] Becoming a Visionary In-Depth Guide to HDR Photography</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sdr-upgrade-manual-unveiling-the-secrets-of-hdr-transformation/"><u>[New] SDR Upgrade Manual Unveiling the Secrets of HDR Transformation</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-mastering-video-broadcasts-wirecast-and-its-allies-for-2024/"><u>[Updated] Mastering Video Broadcasts Wirecast and Its Allies for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-not-enough-privileges-error-during-installation-on-windows/"><u>Eliminating Not Enough Privileges Error During Installation on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-speaker-distortion-issue-on-windows-11-and-7-a-step-by-step-guide/"><u>Fixing the Speaker Distortion Issue on Windows 11 and 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-hdmi-audio-output-for-your-windows/"><u>How to Restore HDMI Audio Output for Your Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-audio-malfunction-heres-how-to-get-the-sound-back/"><u>Realtek Audio Malfunction? Here's How to Get the Sound Back!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-audio-in-wow-heres-how-you-successfully-silenced-the-sound-problem/"><u>Reviving Audio in WoW? Here's How You Successfully Silenced The Sound Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solutions-to-fix-tozo-t6-device-malfunction-on-windows-11/"><u>Solutions to Fix Tozo T6 Device Malfunction on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-future-unveiled-expected-details-on-samsungs-galaxy-s25-price-speculations-launch-date-and-hardware-insights/"><u>The Future Unveiled: Expected Details on Samsung's Galaxy S25 - Price Speculations, Launch Date & Hardware Insights</u></a></li>
 </ul></div>
 

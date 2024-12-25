@@ -1,7 +1,7 @@
 ---
 title: "DIY Repair Guide: When Your Corsair Virtuoso Won't Work"
-date: 2024-12-14T16:39:25.734Z
-updated: 2024-12-16T18:49:19.837Z
+date: 2024-12-18T17:15:27.424Z
+updated: 2024-12-25T16:58:08.796Z
 tags:
   - win11
   - win10
@@ -30,15 +30,15 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 4. [**Change to DVD quality**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Let Windows find the problem for you**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Make sure you use the right ports
 
  You can connect your Virtuoso headset using the Slipstream Wireless dongle, a 3.5mm jack, or a USB connection. No matter what wired connection you use, you should first make sure you’re utilizing the correct port.
 
  Then, ensure the detachable microphone is firmly plugged in and check if the RGB LED ring indicates the live status (green).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Set Virtuoso as the default recording device
 
@@ -55,13 +55,17 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 4. Go to the**Levels** tab and drag the slider to a proper volume.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 5. Click**OK** .
 
  Now you can test your microphone by recording your own voice using some voice apps such as Voice Recorder. If the Virtuoso mic works now, you can just join a league and enjoy talking with your teammates. But if the Corsaire mic is still not working, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Re-installing drivers
 
@@ -78,17 +82,21 @@ There are mainly two ways for you to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now.jpg)
 3. Click the**Update** button next to the flagged**Corsaire Virtuoso** driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/gaming-headset.jpg)
 4. Reboot your PC for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance or the issue persists after updating all the drivers, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Change to DVD quality
 
@@ -99,7 +107,7 @@ There are mainly two ways for you to do this:
 2. In the**Input** section, click**Device properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/device.jpg)
@@ -110,10 +118,6 @@ There are mainly two ways for you to do this:
 
 5. Click**OK** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Let Windows find the problem for you
 
  The Windows built-in sound troubleshooter may help you out of this Virtuoso microphone not working issue. Although this method has varying success, you can try this simple troubleshooting and see if it does the trick.
@@ -121,10 +125,6 @@ There are mainly two ways for you to do this:
 1. Right-click the volume button in the notification area, and select**Troubleshoot sound problems** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/troubleshoot.jpg)
 2. Follow the instructions given in the popped-up Help window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. You may need to restart your computer for the changes to take effect.
 
@@ -151,21 +151,24 @@ There are mainly two ways for you to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-olympic-sprint-spotlight-year-2022/"><u>[Updated] Olympic Sprint Spotlight Year 2022</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-share-your-vids-youtube-to-insta-stories-for-2024/"><u>[Updated] Share Your Vids YouTube to Insta-Stories for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-conversion-of-tiktok-to-facebook/"><u>[Updated] The Ultimate Conversion of TikTok to Facebook</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effectively-dealing-with-cs-go-microphone-issues-top-solutions-explored/"><u>Effectively Dealing with CS: GO Microphone Issues - Top Solutions Explored</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-tips-for-smooth-video-trimming-in-photos-for-2024/"><u>Expert Tips for Smooth Video Trimming in Photos for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/front-earphone-sock-unresponsive-a-step-by-step-fix-guide/"><u>Front Earphone Sock Unresponsive? A Step-by-Step Fix Guide!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-your-game-on-point-with-solved-apex-legends-voice-communication-problems/"><u>Getting Your Game On Point with Solved Apex Legends Voice Communication Problems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/guide-to-downloading-and-installing-hps-cross-platform-print-driver-for-windows-users/"><u>Guide to Downloading & Installing HP's Cross-Platform Print Driver for Windows Users</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-sound-adapter-optimization-on-dell-pcs/"><u>Mastering Sound Adapter Optimization on Dell PCs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-your-pcs-audio-problems-easy-solutions/"><u>Quick Fixes for Your PC's Audio Problems | Easy Solutions!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-update-nvidias-geforce-gtx-460-driver-software-for-windows-computers/"><u>Step-by-Step Guide: Update NVIDIA's GeForce GTX 460 Driver Software for Windows Computers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-instructions-disabling-windows-aturate-audio-enhancements-to-improve-sound-clarity/"><u>Step-by-Step Instructions: Disabling Windows Aturate Audio Enhancements to Improve Sound Clarity</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-a-broken-corsair-soundperfection-mic/"><u>Step-by-Step Solutions for a Broken Corsair SoundPerfection Mic</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/ultimate-capture-app-windows-10-edition/"><u>Ultimate Capture App - Windows 10 Edition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-top-10-no-cost-video-cropping-apps-of-the-year/"><u>Ultimate Guide: Top 10 No-Cost Video Cropping Apps of the Year</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-troubleshooting-and-repairing-your-malfunctioning-corsair-void-headset-microphone/"><u>Ultimate Guide: Troubleshooting and Repairing Your Malfunctioning Corsair Void Headset Microphone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-analyzing-earnings-disparity-dailymovement-and-youtube-profits-compared/"><u>[New] 2024 Approved Analyzing Earnings Disparity DailyMovement and YouTube Profits Compared</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-transform-your-work-from-home-experience-with-skype-screen-sharing-techniques-for-2024/"><u>[New] Transform Your Work-From-Home Experience with Skype Screen Sharing Techniques for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beat-bluetooth-sound-lags-simple-tips-and-tricks-to-enhance-your-listening-experience/"><u>Beat Bluetooth Sound Lags: Simple Tips & Tricks to Enhance Your Listening Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/boosting-sound-ultimate-guide-to-amplifying-volume-in-windows-11/"><u>Boosting Sound: Ultimate Guide to Amplifying Volume in Windows 11</u></a></li>
+<li><a href="https://win-trending.techidaily.com/comprehensive-step-by-step-tutorial-for-data-restoration-after-hard-drive-partition-loss-in-windows-11-10-8-and/"><u>Comprehensive Step-by-Step Tutorial for Data Restoration After Hard Drive Partition Loss in Windows 11, 10, 8 &</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-robloxs-frame-rate-upscaler-risks/"><u>Decoding Roblox's Frame Rate Upscaler Risks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-revolutionary-lenovo-thinkpad-x1-fold-stunning-features-and-slight-shortcomeings/"><u>Evaluating the Revolutionary Lenovo ThinkPad X1 Fold: Stunning Features and Slight Shortcomeings</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-of-the-playstation-4-pro-combining-console-gaming-with-ultra-hd-visuals/"><u>Expert Analysis of the PlayStation 4 Pro: Combining Console Gaming with Ultra HD Visuals</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-crackling-headphones-instantly-simple-solutions/"><u>Fix Your Crackling Headphones Instantly - Simple Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016467208-fixes-for-when-discords-speaking-channel-malfunctions-expert-tips-and-tricks/"><u>Fixes for When Discord's Speaking Channel Malfunctions – Expert Tips and Tricks!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-of-the-valorant-in-game-voip-feature/"><u>How to Restore Functionality of the VALORANT In-Game VOIP Feature</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-easy-screenshot-methods-for-mac-users/"><u>In 2024, Easy Screenshot Methods for Mac Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-oppo-find-n3-flip-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Oppo Find N3 Flip</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-fix-for-undetected-speaker-systems-in-windows-11/"><u>Mastering the Fix for Undetected Speaker Systems in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-audio-hurdles-get-your-zoom-mic-working-again-on-windows-1110/"><u>Overcome Audio Hurdles: Get Your Zoom Mic Working Again on Windows 11/10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solution-guide-resolving-test-tone-could-not-be-played-issues/"><u>Quick Solution Guide: Resolving 'Test Tone Could Not Be Played' Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-reactivating-and-repairing-voice-communication-in-valorant/"><u>Step-by-Step Solution: Reactivating and Repairing Voice Communication in Valorant</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/transforming-accounts-payable-how-iguras-integration-with-abbyy-enhances-efficiency-for-businesses/"><u>Transforming Accounts Payable: How Igura's Integration with ABBYY Enhances Efficiency for Businesses</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-selecting-superior-dvd-copy-software-on-windows-1011-ensuring-seamless-playbacks-and-reliable-data-saving/"><u>Ultimate Guide to Selecting Superior DVD Copy Software on Windows 10/11: Ensuring Seamless Playbacks and Reliable Data Saving</u></a></li>
 </ul></div>
 

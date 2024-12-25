@@ -1,7 +1,7 @@
 ---
 title: "Resolving Your Mac's Audio Issues: No Sound Problem Solved"
-date: 2024-12-09T21:59:53.348Z
-updated: 2024-12-16T19:07:45.752Z
+date: 2024-12-18T18:44:51.015Z
+updated: 2024-12-25T17:41:22.209Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ If you run into the**Lenovo laptop no sound** issue, don’t panic. It’s often
 5. **[Disable audio enhancements](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
 
@@ -86,7 +82,7 @@ To make sure the volume is audible:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e8c0387a6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
@@ -94,10 +90,6 @@ To make sure the volume is audible:
  4) **Restart** your computer and test if you get sound back on your Lenovo laptop. If yes, then congrats! If the no sound issue persists, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Set default audio devices
 
@@ -114,7 +106,7 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7f797e4504.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If **the audio device you’re to play** doesn’t show up in the device list, and right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the device** once it appears and click **Enable** before you do step **2)** .
@@ -122,6 +114,10 @@ To do so:
  3) Check to see if your Lenovo no sound problem has been fixed. If yes, then great! But if it’s still no joy, please move on to**Fix 5,** below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable audio enhancements
 
@@ -134,7 +130,7 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7f6955a2d7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the **Playback** tab, right-click on **your default audio device** and click **Properties** .
@@ -144,6 +140,10 @@ Here’s how:
  3) Click the **Enhancements** tab, then tick **the bo** x for **Disable all enhancements** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd80d9349581.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Test your audio device and see if the no sound issue is resolved.
 
@@ -172,19 +172,22 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-distraction-free-deliberations-perfecting-backdrop-blur-on-mobile-devices-for-2024/"><u>[New] Distraction-Free Deliberations Perfecting Backdrop Blur on Mobile Devices for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-mac-enhancement-synchronized-screen-plus-audio-tracking-for-2024/"><u>[New] Mac Enhancement Synchronized Screen + Audio Tracking for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-xiaomi-redmi-note-12t-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Xiaomi Redmi Note 12T Pro without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bypassing-glitches-ensure-seamless-in-game-voice-chat-in-call-of-duty-warzone-on-pc-and-console-systems/"><u>Bypassing Glitches: Ensure Seamless In-Game Voice Chat in Call of Duty Warzone on PC and Console Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-guide-to-restoring-your-lucidsound-ls30-microphones-functionality/"><u>DIY Guide to Restoring Your LucidSound LS30 Microphone's Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016270231-get-your-windows-groove-back-why-the-mic-isnt-working-and-how-to-fix-it/"><u>Get Your Windows Groove Back: Why the Mic Isn't Working and How to Fix It</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-nubia-red-magic-9-proplus-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nubia Red Magic 9 Pro+ Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-analysis-of-srt-unpacking-its-significance/"><u>In 2024, Expert Analysis of SRT Unpacking Its Significance</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-5-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 5 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011235151-resolving-yakuza-6-for-pc-instability-top-solutions-discovered/"><u>Resolving Yakuza 6 for PC Instability: Top Solutions Discovered</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-razer-headsets-mic-in-just-5-steps-expert-tips-for-crystal-clear-sound/"><u>Revive Your Razer Headset's Mic in Just 5 Steps – Expert Tips for Crystal Clear Sound</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-hyperx-cloud-gaming-mic-diagnosis-and-remedies-for-sound-dilemmas/"><u>Reviving Your HyperX Cloud Gaming Mic: Diagnosis and Remedies for Sound Dilemmas</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014947595-solve-your-pubg-voice-call-issues-with-these-simple-steps/"><u>Solve Your PUBG Voice Call Issues with These Simple Steps</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/video-vanguard-sj6-legend-against-xiaomis-yi-kickstart/"><u>Video Vanguard SJ6 Legend Against Xiaomi's Yi Kickstart</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-immediate-mp3-download-from-facebook-media-posts/"><u>[New] 2024 Approved Immediate MP3 Download From Facebook Media Posts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/uilding-a-channel-team-up-videography-guide-for-2024/"><u>[New] Building a Channel Team-Up Videography Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expedited-photographic-viewing-in-windows-10/"><u>[Updated] Expedited Photographic Viewing in Windows 10</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-mobile-uploads-ios-guide-for-youtube-sharing/"><u>2024 Approved Mastering Mobile Uploads IOS Guide for YouTube Sharing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/banishing-bluetooth-audio-glitches-with-ease-a-practical-approach/"><u>Banishing Bluetooth Audio Glitches with Ease: A Practical Approach</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-getting-your-logitech-g633-mic-back-online/"><u>Expert Advice on Getting Your Logitech G633 Mic Back Online</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-guide-to-repairing-the-inactive-microphone-on-your-turtle-beach-elite-atlas-gaming-headset/"><u>Expert Guide to Repairing the Inactive Microphone on Your Turtle Beach Elite Atlas Gaming Headset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-pcs-audio-issues-in-minutes-simple-troubleshooting-guide/"><u>Fix Your PC's Audio Issues in Minutes - Simple Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-mic-problems-on-windows-7-expert-advice-and-tips/"><u>Fixing Mic Problems on Windows 7: Expert Advice & Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-persistent-bluetooth-errors-in-windows-11-expert-solutions-and-tips/"><u>Fixing Persistent Bluetooth Errors in Windows 11: Expert Solutions and Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-onedrive-sign-in-error-0x8004dec5-on-windows-11/"><u>How to Fix the OneDrive Sign In Error 0X8004dec5 on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-max-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro Max to other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-shoppers-quick-guide-to-choosing-top-notch-360cams/"><u>In 2024, The Shopper’s Quick Guide to Choosing Top-Notch 360Cams</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/screenmagic-pro-the-windows-10-companion-for-2024/"><u>ScreenMagic Pro The Windows 10 Companion for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-restoring-fortnite-game-sounds/"><u>Step-by-Step Solution for Restoring Fortnite Game Sounds</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-xiaomi-redmi-k70-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Xiaomi Redmi K70 Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016076211-windows-11-update-heres-how-to-get-your-airpods-mic-working-perfectly/"><u>Windows 11 Update? Here’s How to Get Your AirPods Mic Working Perfectly</u></a></li>
 </ul></div>
 
