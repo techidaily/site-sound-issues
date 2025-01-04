@@ -1,7 +1,7 @@
 ---
 title: Laptop Audio Malfunction? Here Are Effective Solutions
-date: 2024-12-21T16:42:59.752Z
-updated: 2024-12-25T18:00:11.376Z
+date: 2024-12-30T05:01:54.722Z
+updated: 2025-01-03T18:25:13.427Z
 tags:
   - win11
   - win10
@@ -35,16 +35,24 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9642607bba2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) **View by large icons** and click **Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd4d734d2c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) See the Speakers is disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd4dfc1fa7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If it is disabled, right click on it and select **Enable** .
 
@@ -56,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd4f2b0a08.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **Secondly: Ensure the sound is not muted**
 
  It could happen that the sound is muted by accident. Check the speaker icon at the bottom left corner of desktop, and make sure there is no red circle with a cross going through it.
@@ -67,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
  If you ensure above sound settings have no problems, move on and try the below methods.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 1: Disable the audio device in Device Manager and restart your PC**
 
@@ -80,16 +88,12 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd515db2c0.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Restart your PC. Then a Window will pop up to ask you to solve the sound problem. Just follow the on-screen instructions. Then the sound issue should resolve.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 2: Update the audio driver**
@@ -112,10 +116,6 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-406.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Hopefully you can fix your laptop no sound issues with the steps above. If you have any questions, please feel free to leave your comment below.
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -135,18 +135,20 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-easeus-recexperts-review/"><u>[New] 2024 Approved EaseUS RecExperts Review</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/experience-cutting-edge-radio-frequencies-effortlessly-with-our-in-depth-examination-of-the-clearstream-eclipse-antenna/"><u>Experience Cutting-Edge Radio Frequencies Effortlessly with Our In-Depth Examination of the ClearStream Eclipse Antenna</u></a></li>
-<li><a href="https://fox-place.techidaily.com/how-to-retrieve-information-from-a-formatted-disk-expert-guide-by-yl-computing/"><u>How to Retrieve Information From a Formatted Disk: Expert Guide by YL Computing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-tecno-spark-go-2023-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Tecno Spark Go (2023) Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-lava-blaze-2-pro-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Lava Blaze 2 Pro for Parents | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/master-content-creation-video-and-photo-synergy/"><u>Master Content Creation Video & Photo Synergy</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-fixing-crackling-audio-problems-in-windows-operating-systems/"><u>Resolved: Fixing Crackling Audio Problems in Windows Operating Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016915050-revive-your-logitech-g933-microphone-troubleshooting-and-fixes/"><u>Revive Your Logitech G933 Microphone: Troubleshooting & Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-audio-in-world-of-warcraft-step-by-step-guide-to-silence-solution/"><u>Reviving Audio in World of Warcraft: Step-by-Step Guide to Silence Solution</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-the-windows-blue-screen-of-death-swiftly/"><u>Ultimate Guide: Resolving the Windows Blue Screen of Death Swiftly</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-producing-polished-professional-looking-videos-for-2024/"><u>Updated The Ultimate Guide to Producing Polished, Professional-Looking Videos for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-1011-how-to-eliminate-your-bluetooth-headsets-audio-skips-and-pauses/"><u>Windows 10/11 How-To: Eliminate Your Bluetooth Headset's Audio Skips and Pauses</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-apples-ios-a-treasure-trove-of-vr-game-hits/"><u>[Updated] 2024 Approved Apple's iOS A Treasure Trove of VR Game Hits</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-crafting-powerful-video-titles-and-sizes/"><u>[Updated] 2024 Approved Crafting Powerful Video Titles & Sizes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-shining-through-hd-is-it-a-wise-pick-for-hdr-in-2024/"><u>[Updated] Shining Through HD Is It a Wise Pick for HDR, In 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-nubia-red-magic-8s-proplus-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/blue-yeti-unrecognized-by-computer-essential-troubleshooting-steps-to-follow/"><u>Blue Yeti Unrecognized by Computer? Essential Troubleshooting Steps to Follow</u></a></li>
+<li><a href="https://facebook.techidaily.com/breaking-down-vk-russias-alternative-to-facebook-revealed/"><u>Breaking Down VK: Russia’s Alternative to Facebook Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-the-logitech-g430-mic-connection-problems/"><u>Diagnosing and Repairing the Logitech G430 Mic Connection Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-restoring-realtek-microphone-functionality/"><u>Diagnosing and Restoring Realtek Microphone Functionality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/discord-streamers-relief-stop-your-app-from-crashing-during-live-sessions-now/"><u>Discord Streamers' Relief: Stop Your App From Crashing During Live Sessions Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015087351-modern-warfare-voice-communication-issues-solved/"><u>Modern Warfare Voice Communication Issues - Solved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016849789-solution-steps-why-is-my-razer-kraken-mic-not-working-find-out-here/"><u>Solution Steps: Why Is My Razer Kraken Mic Not Working? Find Out Here</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-xbox-recorders-handbook-for-gamers/"><u>The Xbox Recorder’s Handbook for Gamers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-5-premium-mechanical-keyboards-gamers-choice-revealed-techradar/"><u>Top 5 Premium Mechanical Keyboards : Gamer's Choice Revealed | TechRadar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015017246-trouble-with-pc-microphone-in-zoom-heres-how-to-restore-it/"><u>Trouble with PC Microphone in Zoom? Here's How to Restore It!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016967623-troubleshooting-tips-for-solving-logitech-g533-headset-mic-issues-all-cases-covered/"><u>Troubleshooting Tips for Solving Logitech G533 Headset Mic Issues - All Cases Covered!</u></a></li>
 </ul></div>
 

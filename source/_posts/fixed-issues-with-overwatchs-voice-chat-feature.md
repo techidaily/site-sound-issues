@@ -1,7 +1,7 @@
 ---
 title: "Fixed: Issues with Overwatch's Voice Chat Feature"
-date: 2024-08-18T08:15:22.100Z
-updated: 2024-08-19T08:15:22.100Z
+date: 2024-12-30T05:12:33.712Z
+updated: 2025-01-03T18:12:39.490Z
 tags:
   - win11
   - win10
@@ -26,15 +26,16 @@ Blue Yeti is an excellent microphone for beginners. However, many users may expe
 3. **[Show disabled devices in settings](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Use the audio troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1\. Try another USB port/cable
 
  First, to rule out a hardware issue, you can try another USB port and make sure your USB cable is properly connected. Check whether your microphone goes back to work. Many users find it works when they switch the USB port from 3.0 to 2.0.
 
  If Blue Yeti is still not showing up on your PC, you can try another USB cable. You can easily get a[**replacement cable**](https://www.amazon.com/Cable-Snowball-Product-Picture-Compatibility/dp/B08JG1SNB7?tag=drivereasycom-20) at Amazon. Check that the status light is illuminated.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2\. Update the microphone driver
 
  If there’s nothing wrong with your hardware, the culprit might be your software. When the related driver software gets corrupted or outdated, your Blue Yeti microphone won’t be recognized.
@@ -54,8 +55,9 @@ There are mainly two methods for you to fix this driver issue:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/sound-driver-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click**Update all** to automatically update all the drivers. This requires the **[Pro Version](https://tools.techidaily.com/drivereasy/download/)**  , which comes with full support and a 30-day money back guarantee. You will be prompted to update when you click**Update All** .
 
 4) Reboot your PC for the changes to take effect.
@@ -74,6 +76,10 @@ There are mainly two methods for you to fix this driver issue:
 3) Type**devmgmt.msc** and press**Enter** .
 
 ![devmgmt.msc](https://images.drivereasy.com/wp-content/uploads/2021/01/devmgmt.msc_.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Expand the**Sound, video and game controllers** category, check if your Blue Yeti device is listed there.
 
@@ -97,9 +103,6 @@ There are mainly two methods for you to fix this driver issue:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Update-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  11) Select**Search automatically for drivers** .
 
  12) Once the update is complete, your Blue Yeti will be visible. Your microphone should be recognized by now.
@@ -115,24 +118,23 @@ There are mainly two methods for you to fix this driver issue:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/sound-set.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Select the**Recording** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/recording-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Check if the**Blue Yeti Microphone** is listed. If so, you need to set Blue Yeti as your default device. But if not, you can right-click the empty space and select**Show Disabled Devices** and**Show Disconnected Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/show-disabled.jpg)
 
 4) Enable/reconnect your Blue Yeti Microphone if it appears.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### Fix 4\. Use the audio troubleshooter
 
  If none of the methods above fixed the Blue Yeti microphone not being recognized issue, you may need to try the Windows built-in tool. Here’s how:
@@ -155,8 +157,6 @@ There are mainly two methods for you to fix this driver issue:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +164,22 @@ There are mainly two methods for you to fix this driver issue:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/2024-approved-craft-professional-episodes-a-comprehensive-guide-to-editing-in-garageband/"><u>2024 Approved Craft Professional Episodes A Comprehensive Guide to Editing in GarageBand</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/airpods-not-working-heres-how-to-get-your-windows-10-mic-up-and-running-again/"><u>AirPods Not Working? Here's How to Get Your Windows 10 Mic Up & Running Again</u></a></li>
+<li><a href="https://win11.techidaily.com/boosted-app-opening-top-techniques-for-windows-11/"><u>Boosted App Opening: Top Techniques for Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cracking-out-the-crackles-top-strategies-for-silencing-your-logitech-g-pro-x-on-pc-this-year/"><u>Cracking Out the Crackles: Top Strategies for Silencing Your Logitech G Pro X on PC This Year</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solutions-for-corsair-hs70-headphones-when-the-microphone-fails/"><u>DIY Solutions for Corsair HS70 Headphones When the Microphone Fails</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Nokia XR21? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-guide-restoring-your-mics-functionality-in-microsoft-teams-for-winodws-11-users/"><u>Expert Guide: Restoring Your Mic's Functionality in Microsoft Teams for Winodws 11 Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-can-i-watch-netflix-on-my-nintendo-switch-console/"><u>How Can I Watch Netflix On My Nintendo Switch Console?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-the-persistent-buzzing-noise-on-your-windows-pc/"><u>How to Fix the Persistent Buzzing Noise on Your Windows PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016194624-how-to-get-your-onikuma-headset-mic-up-and-running-again/"><u>How To Get Your Onikuma Headset Mic Up And Running Again!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-samsung-galaxy-f14-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Samsung Galaxy F14 5G Phone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/master-the-art-of-fighting-top-5-martial-arts-gaming-experience-for-2024/"><u>Master the Art of Fighting Top 5 Martial Arts Gaming Experience for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-platforms-facebook-twitter-instagram-and-youtube/"><u>Mastering Social Media Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/outsourcing-and-shared-service-week-abbyys-role-in-industry-discussions/"><u>Outsourcing and Shared Service Week: ABBYY's Role in Industry Discussions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-a-non-functional-front-panel-audio-jack/"><u>Troubleshooting and Fixing a Non-Functional Front Panel Audio Jack</u></a></li>
+</ul></div>
 

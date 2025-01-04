@@ -1,7 +1,7 @@
 ---
 title: "Easy Fixes for Noisy Earbuds: Stop the Crackles Now"
-date: 2024-12-21T19:55:13.429Z
-updated: 2024-12-25T19:49:49.366Z
+date: 2024-12-28T02:25:54.377Z
+updated: 2025-01-03T17:27:58.010Z
 tags:
   - win11
   - win10
@@ -48,10 +48,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 2: Disable Exclusive Mode and change the sound format**
 
  Having **Exclusive Mode**   on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the **crackling or popping sound** in headphone  problem. To disable **Exclusive Mode** :
@@ -59,27 +55,27 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
  1) On the bottom right of your screen, right-click on**the sound icon** , then click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/12sound.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the**Playback** tab, right-click on**speakers** and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Advanced** tab, un-check **the box** before **Allow applications to take exclusive control of this device** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Play some music and check if the sound coming through is noise-free now. If not, continue with **5)** to **change the audio format** .
 
  5) Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Hopefully the popping/crackling sound in your headphone problem has gone by now. If not, you might also want to change it to other audio formats to see if it works.
 
@@ -88,7 +84,7 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
@@ -117,15 +113,19 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)
 
@@ -156,22 +156,18 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-classification-of-fb-video-sizes-for-2024/"><u>[New] Classification of FB Video Sizes for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-building-panoramic-pictures-through-image-fusion/"><u>[Updated] Building Panoramic Pictures Through Image Fusion</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-discover-device-friendly-ways-to-locate-your-yt-comments-for-2024/"><u>[Updated] Discover Device-Friendly Ways to Locate Your YT Comments for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-6-video-editing-apps-for-macos-big-sur-11/"><u>2024 Approved Top 6 Video Editing Apps for macOS Big Sur 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016782531-audacity-sound-device-trouble-here-are-five-proven-solutions-to-correct-the-problem/"><u>Audacity Sound Device Trouble? Here Are Five Proven Solutions to Correct the Problem</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-between-google-and-apple-a-comprehensive-guide-to-their-new-smartwatches-deciding-which-one-gets-your-attention/"><u>Choosing Between Google and Apple: A Comprehensive Guide to Their New Smartwatches | Deciding Which One Gets Your Attention</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/conquer-bluetooth-sound-delays-quick-fixes-for-flawless-playback/"><u>Conquer Bluetooth Sound Delays: Quick Fixes for Flawless Playback</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/exploring-8-open-source-video-collaboration-software-picks/"><u>Exploring 8 Open Source Video Collaboration Software Picks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-resolve-your-dota-2-in-game-microphone-problems/"><u>How to Troubleshoot and Resolve Your Dota 2 In-Game Microphone Problems</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-youtube-yielding-the-manual-to-merging-media-with-moolah/"><u>In 2024, YouTube Yielding The Manual to Merging Media with Moolah</u></a></li>
-<li><a href="https://win-blog.techidaily.com/netflix-access-restored-for-xbox-one-users-bid-goodbye-to-buffering-and-start-watching/"><u>Netflix Access Restored for Xbox One Users – Bid Goodbye to Buffering and Start Watching</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fix-guide-resolve-computer-audio-issues-in-minutes/"><u>Quick Fix Guide: Resolve Computer Audio Issues in Minutes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-sound-interruptions-in-windows-11/"><u>Troubleshooting Sound Interruptions in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-how-to-fix-a-microphone-that-wont-capture-your-voice/"><u>Troubleshooting: How To Fix a Microphone That Won't Capture Your Voice</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-making-the-sounds-work-in-fortnite-again/"><u>Ultimate Guide: Making the Sounds Work in Fortnite Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/why-is-battlefield-4-quiet-and-how-to-turn-up-the-volume/"><u>Why Is Battlefield 4 Quiet & How to Turn Up the Volume?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-accidental-tiktok-reset-how-to-restore-content/"><u>[New] Accidental TikTok Reset How to Restore Content</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-chuckle-chasers-your-ultimate-list-of-funny-tools/"><u>[Updated] Chuckle Chasers Your Ultimate List of Funny Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-improving-chromebook-tone-with-top-voice-extensions/"><u>[Updated] The Ultimate Guide to Improving Chromebook Tone with Top Voice Extensions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-video-creator-hub-for-2024/"><u>[Updated] Video Creator Hub for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-back-4-blood-troubleshooting-the-voice-chat-issue/"><u>Fixing Back 4 Blood: Troubleshooting the Voice Chat Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-common-issues-how-to-troubleshoot-voice-communication-in-destiny-2/"><u>Fixing Common Issues: How to Troubleshoot Voice Communication in Destiny 2</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-transform-your-games-into-a-live-stream-spectacle/"><u>In 2024, Transform Your Games Into a Live Stream Spectacle</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016575811-pubg-mobile-voice-communication-problems-heres-how-to-solve-them/"><u>PUBG Mobile Voice Communication Problems? Here's How to Solve Them</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016673143-squad-mic-problems-heres-how-to-solve-them-using-our-expertise-updated/"><u>Squad Mic Problems? Here's How to Solve Them Using Our Expertise - Updated</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/step-by-step-voice-memo-creation-on-ios-devices/"><u>Step-by-Step Voice Memo Creation on iOS Devices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-discord-voice-chat-here-are-solutions-for-the-push-to-talk-problem/"><u>Trouble with Discord Voice Chat? Here Are Solutions for the Push-To-Talk Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-overcoming-voice-chat-glitches-in-your-league-matches/"><u>Ultimate Guide: Overcoming Voice Chat Glitches in Your League Matches</u></a></li>
 </ul></div>
 

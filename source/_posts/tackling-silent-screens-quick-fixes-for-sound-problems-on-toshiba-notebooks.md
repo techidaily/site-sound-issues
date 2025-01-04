@@ -1,7 +1,7 @@
 ---
 title: "Tackling Silent Screens: Quick Fixes for Sound Problems on Toshiba Notebooks"
-date: 2024-08-18T08:19:55.294Z
-updated: 2024-08-19T08:19:55.294Z
+date: 2024-12-29T03:47:14.954Z
+updated: 2025-01-03T18:17:09.084Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex.jpg)
 
  Microphone not working when you’re on a Webex meeting? You’re not alone! Such audio issues are quite common but they’re usually not hard to fix. Even if you’re not familiar with computer, follow this post and you’ll be able to tackle the Webex microphone not working issue easily and quickly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -38,8 +42,9 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
  If your mic is securely plugged in but still not working in Webex, continue to more solutions below.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2 – Allow Webex to access your microphone
 
  On a Windows PC, you can manually adjust the permission for your microphone and choose specific apps to access it. To let your microphone work with Webex and pick up voice without problems, you’ll need to turn on the permission.
@@ -48,22 +53,21 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
 2. Select**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-2.jpg)
 3. Select**Microphone** from the left pane. Then click the**Change** button and**turn on** Microphone access for this device.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 4. Scroll down and toggle on the button below**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’ve allowed the microphone access to your apps, check if the problem is resolved. If not, try the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ### Fix 2 – Update your audio driver
 
  The audio driver is the most important component that connects your audio device and computer. If it’s incompatible, faulty or outdated, you may encounter various problems when using your headset or microphone. And a driver update could well tackle the problem.
@@ -94,8 +98,9 @@ There are mainly two ways you can update the audio driver:
  Now check if your microphone works in the Webex meeting. If not, there’s one more fix to try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3 – Check the Webex settings
 
  If your microphone works well with the browser or any programs but your Webex app, the cause may be related to the app’s settings. There’s a good chance that Webex doesn’t recognize the microphone you’re using and you’ll need to set it up properly via the following steps.
@@ -108,9 +113,6 @@ There are mainly two ways you can update the audio driver:
 4. You can also adjust the volume by dragging the slider. Then click Save to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  Once completed, you can click the Test button under Microphone to see if everything goes back to normal.
 
 ---
@@ -125,8 +127,6 @@ There are mainly two ways you can update the audio driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +134,26 @@ There are mainly two ways you can update the audio driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/rom-songs-to-symphony-building-a-cohesive-youtube-playlist-on-webapp-for-2024/"><u>[New] From Songs to Symphony Building a Cohesive YouTube Playlist on Web/App for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-become-a-pro-downloading-and-setting-up-vrecord/"><u>[New] In 2024, Become a Pro Downloading & Setting Up VRecord</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-minicam-snapshot-review-and-substitutes/"><u>[New] MiniCam Snapshot Review and Substitutes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-mastery-guide-securely-archiving-snapchat-media-on-devices/"><u>[Updated] 2024 Approved Mastery Guide Securely Archiving Snapchat Media on Devices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-reviewing-ion-air-pro-3-capturing-life-in-high-definition-for-2024/"><u>[Updated] Reviewing ION Air Pro 3 - Capturing Life in High Definition for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-the-error-effective-techniques-to-get-your-minecraft-up-and-running-on-a-pc-again/"><u>Beat the Error: Effective Techniques to Get Your Minecraft Up and Running on a PC Again</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-11-how-to-unlock-a-disabled-iphone-11-by-drfone-ios/"><u>Disabled iPhone 11 How to Unlock a Disabled iPhone 11?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-your-airpods-a-guide-to-resolving-sound-problems-and-audio-interference/"><u>How to Troubleshoot Your AirPods: A Guide to Resolving Sound Problems and Audio Interference</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/laptop-internal-speakers-no-sound-solved/"><u>Laptop Internal Speakers No Sound [Solved]</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ate-through-settings-enabledisable-video-comments/"><u>Navigate Through Settings Enable/Disable Video Comments</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-nokia-105-classic-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Nokia 105 Classic has been deleted.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-sound-glitches-and-echo-issues-in-windows-10-and-7-a-comprehensive-guide/"><u>Resolving Sound Glitches and Echo Issues in Windows 10 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016224435-solve-windows-10-sound-card-troubles-with-these-easy-solutions/"><u>Solve Windows 10 Sound Card Troubles with These Easy Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-reactivate-audio-inputs-on-your-pc-with-windows-1187/"><u>Step-by-Step Guide to Reactivate Audio Inputs on Your PC with Windows 11/8/7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-non-functional-speakers-on-your-pc-or-macbook/"><u>Troubleshooting and Repairing Non-Functional Speakers on Your PC or MacBook</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-problems-how-to-resolve-no-sound-error-on-windows-10-8-and-7/"><u>Troubleshooting Audio Problems: How to Resolve 'No Sound' Error on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-issues-with-every-g2000-mic-on-your-kotion-system/"><u>Troubleshooting Steps: Resolving Issues with Every G2000 Mic on Your Kotion System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-repair-guide-fixing-beyond-the-wire-microphone-issues/"><u>Ultimate Repair Guide: Fixing 'Beyond The Wire' Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/uninterrupted-audio-experience-on-your-pc-with-these-solutions-for-windows-117-sound-problems/"><u>Uninterrupted Audio Experience on Your PC with These Solutions for Windows 11/7 Sound Problems</u></a></li>
+</ul></div>
 

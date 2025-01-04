@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solutions: Repairing Your Skype Mic Setup on the Latest Microsoft Operating System"
-date: 2024-12-18T17:49:14.912Z
-updated: 2024-12-25T18:25:29.794Z
+date: 2025-01-03T03:46:18.932Z
+updated: 2025-01-03T23:08:12.869Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -51,7 +51,7 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Select**Microphone** on the left pane. Then, click the**Change** button, and make sure**Microphone access for this device** is turned**on** .
@@ -66,10 +66,6 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Test how the microphone works in Beyond The Wire. If the mic-not-working issue reoccurs, read on to more solutions below.
 
 ### Fix 3 – Configure the sound settings correctly
@@ -80,25 +76,25 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Select**Small icons** under**View by** . Then, click**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-2-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click the**Recording** tab. Then, right-click on any empty space and tick**Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-0-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Right-click microphones you’re not using and click**Disable** one by one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Click the microphone you’re using and click**Set Default** .
 
@@ -109,18 +105,18 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **7)** Click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-49.jpg)
 
- Now that you’ve set your desired microphone as the default device, disabled other microphones, and also turned up the volume to the max, it should be working fine when you’re playing Beyond The Wire. If not, check out the next fix below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Now that you’ve set your desired microphone as the default device, disabled other microphones, and also turned up the volume to the max, it should be working fine when you’re playing Beyond The Wire. If not, check out the next fix below.
 
 ### Fix 4 – Update your audio driver
 
@@ -142,6 +138,10 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-2-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -187,18 +187,20 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-cutting-edge-design-for-beginners-premiere-pro-templates-free/"><u>[New] Cutting-Edge Design for Beginners Premiere Pro Templates (Free!)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-your-go-to-resource-mastering-the-use-of-mobizen-recorders/"><u>[Updated] 2024 Approved Your Go-To Resource Mastering the Use of Mobizen Recorders</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-acclaimed-top-5-compact-cameras-for-filming/"><u>[Updated] Acclaimed Top 5 Compact Cameras for Filming</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-global-scoreboard-the-premier-six-of-video-downloads/"><u>[Updated] Global Scoreboard The Premier Six of Video Downloads</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/conquer-your-pcs-audio-troubles-on-windows-11-with-our-proven-5-step-method/"><u>Conquer Your PC's Audio Troubles on Windows 11 with Our Proven 5-Step Method</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-capabilities-in-your-pc-during-a-zoom-call/"><u>How to Restore Sound Capabilities in Your PC During a Zoom Call</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-securely-wipe-personal-information-off-your-windows-laptop-a-comprehensive-guide-and-freebies/"><u>How to Securely Wipe Personal Information Off Your Windows Laptop: A Comprehensive Guide & Freebies</u></a></li>
-<li><a href="https://app-tips.techidaily.com/implications-of-embracing-decentralization-and-web3-technologies-for-businesses-an-in-depth-analysis-by-zdnet/"><u>Implications of Embracing Decentralization & Web3 Technologies for Businesses - An In-Depth Analysis by ZDNET</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ispring-screencap-tech-explored-in-detail/"><u>In 2024, ISpring Screencap Tech Explored in Detail</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/live-broadcast-showdown-obs-or-streamlabs-which-is-superior-for-2024/"><u>Live Broadcast Showdown OBS or Streamlabs – Which Is Superior for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-astro-a50-audio-malfunction-speedily-expert-guidelines/"><u>Solve Your Astro A50 Audio Malfunction Speedily: Expert Guidelines</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-of-malfunctioning-turtle-beach-headset-mics-expert-advice/"><u>Step-by-Step Repair of Malfunctioning Turtle Beach Headset Mics: Expert Advice</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-11-gamers-rejoice-fixing-the-no-sound-glitch-in-cyberpunk-2077/"><u>Windows 11 Gamers Rejoice! Fixing the No-Sound Glitch in Cyberpunk 2077</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-initiating-conversations-on-instagram-live/"><u>[New] 2024 Approved Initiating Conversations on Instagram Live</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-steady-snapstreaks-tips-to-never-miss-a-snap/"><u>[New] In 2024, Steady Snapstreaks Tips to Never Miss a Snap</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-analyzing-brightness-boost-in-hd-and-its-hdr-impact/"><u>[Updated] 2024 Approved Analyzing Brightness Boost in HD and Its HDR Impact</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-melodious-modulation-techniques-in-free-fire/"><u>2024 Approved Melodious Modulation Techniques in Free Fire</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-a-faulty-corsair-audio-device-a-step-by-step-guide/"><u>Diagnosing and Repairing a Faulty Corsair Audio Device: A Step by Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-back-on-track-overcoming-destiny-2s-voice-chat-malfunctions/"><u>Get Back on Track: Overcoming Destiny 2'S Voice Chat Malfunctions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-no-sound-in-windows-pc-a-step-by-step-guide/"><u>How to Fix No Sound in Windows PC - A Step-by-Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-hd-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Infinix Smart 8 HD Phone without Any Data Loss</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-secrets-of-effortless-online-video-downloading-on-pinterest/"><u>In 2024, Secrets of Effortless Online Video Downloading on Pinterest</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-poweradd-pilot-pro2-the-ultimate-power-solution-to-keep-your-gadgets-going/"><u>In-Depth Analysis of the POWERADD Pilot Pro2: The Ultimate Power Solution to Keep Your Gadgets Going</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-for-voice-chat-failure-in-world-of-warcraft-effective-strategies-inside/"><u>Quick Fix for Voice Chat Failure in World of Warcraft - Effective Strategies Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-nvidia-connection-errors-quickly-essential-troubleshooting-steps/"><u>Resolve Nvidia Connection Errors Quickly – Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-steps-to-fix-your-google-hangouts-microphone-problems-today/"><u>Simple Steps to Fix Your Google Hangouts Microphone Problems Today</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-troubleshooting-and-resolving-lack-of-sound-in-zoom-for-desktop-users/"><u>Ultimate Guide: Troubleshooting and Resolving Lack of Sound in Zoom for Desktop Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/visionary-designs-for-future-mojave-dwellings/"><u>Visionary Designs for Future Mojave Dwellings</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Effective Solutions for Unresponsive In-Game Mics on CS:GO"
-date: 2024-12-20T17:15:38.785Z
-updated: 2024-12-25T19:08:18.545Z
+date: 2024-12-29T00:48:53.506Z
+updated: 2025-01-04T01:42:07.753Z
 tags:
   - win11
   - win10
@@ -58,20 +58,20 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to any falgged driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Play a music or video on your laptop to see if the sound comes from the speakers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3\. Reset your sound controller
@@ -85,7 +85,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac1fec110a5a.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right-click on your sound card to choose**Disable device** .
@@ -96,19 +96,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c3e821f53.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then you may find its icon ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c3c1585ef.png) change into ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c4aebac0d.png) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Wait for a while. Right-click on your sound card again and this time click**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c4fd4b764.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Play a music or video on your laptop to see if the sound comes from the speakers.
 
@@ -129,21 +129,24 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-how-to-harness-youtubes-creative-commons-in-video-making/"><u>[New] 2024 Approved How to Harness YouTube's Creative Commons in Video Making</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-the-essentials-of-youtube-gaming-livestreaming/"><u>[New] 2024 Approved The Essentials of YouTube Gaming Livestreaming</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-boost-traffic-with-effective-tools-for-youtube-videos-for-2024/"><u>[Updated] Boost Traffic with Effective Tools for YouTube Videos for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-hear-and-hold-the-2024iphone-memo-feature/"><u>[Updated] Hear & Hold - The 2024iPhone Memo Feature</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/2024-guide-resolving-non-functioning-webex-microphones-quickly/"><u>2024 Guide: Resolving Non-Functioning Webex Microphones Quickly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-animated-and-live-action-kids-flicks-on-netflix/"><u>Best Animated & Live-Action Kids' Flicks on Netflix</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/critics-choice-best-5-web-recording-applications-for-2024/"><u>Critics' Choice Best 5 Web Recording Applications for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-fixing-your-devices-primary-audio-jack-problem/"><u>Effective Solutions for Fixing Your Device's Primary Audio Jack Problem</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-distorted-sounds-in-cyberpunk-2077-a-step-by-step-solution-for-silky-smooth-gameplay/"><u>Fixing Distorted Sounds in Cyberpunk 2077 - A Step-by-Step Solution for Silky Smooth Gameplay</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-management-issues-5-approaches-with-windows-11-focus/"><u>Fixing Management Issues: 5 Approaches with Windows 11 Focus</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-for-adjusting-headphones-and-speaker-mix-up-in-sound-system/"><u>Guide for Adjusting Headphones & Speaker Mix-Up in Sound System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/razer-barracuda-x-not-recognizing-microphone-on-windows-11-heres-how-to-solve-it/"><u>Razer Barracuda X Not Recognizing Microphone on Windows 11? Here's How to Solve It!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722860846308-samsung-galaxy-s24-ultra-and-iphone-15-pro-max-face-off-features-performance-and-more/"><u>Samsung Galaxy S24 Ultra and iPhone 15 Pro Max Face-Off: Features, Performance, and More</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/seamlessly-stream-your-laptops-dvd-library-for-2024/"><u>Seamlessly Stream Your Laptop's DVD Library for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-logitech-g633-microphone-issues/"><u>Troubleshooting Guide: Fixing Logitech G633 Microphone Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-headphonespeaker-troubles-in-windows-11-get-the-sounds-back/"><u>Troubleshooting Headphone/Speaker Troubles in Windows 11 - Get the Sounds Back!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-advanced-strategies-in-ps3-gaming-broadcasting/"><u>2024 Approved Advanced Strategies in PS3 Gaming Broadcasting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/blithe-clip-recorder-appraisal/"><u>Blithe Clip Recorder Appraisal</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bring-back-the-buzz-to-your-airpods-solutions-for-when-they-wont-play-audio-in-modern-windows-environments/"><u>Bring Back the Buzz to Your AirPods: Solutions for When They Won't Play Audio in Modern Windows Environments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-astro-a10-mic-issues-and-proven-fixes-overcoming-audio-troubles/"><u>Common Astro A10 Mic Issues and Proven Fixes: Overcoming Audio Troubles</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-solutions-overcoming-silent-speakers-fixes-for-conexant-smartaudio-hd-on-windows-11/"><u>Comprehensive Solutions: Overcoming Silent Speakers – Fixes for Conexant SmartAudio HD on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-virtuoso-mic-woes-heres-how-to-get-it-working-again/"><u>Corsair Virtuoso Mic Woes? Here's How to Get It Working Again</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722998377854-destiny-navigating-the-challenges-of-beyond-light-launch-crash-fixes-on-pc-here-are-solutions/"><u>Destiny Navigating the Challenges of Beyond Light Launch Crash Fixes on PC? Here Are Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/epson-scanner-non-operative-issues-in-windows-11-fixes/"><u>Epson Scanner Non-Operative Issues in Windows 11: Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-repairing-your-google-meet-audio-setup-in-windows-1110-environments/"><u>Expert Tips: Repairing Your Google Meet Audio Setup in Windows 11/10 Environments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-windows-scanner-issues-permanently/"><u>Fixing Windows Scanner Issues Permanently</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/go-digital-with-p90x-or-insanity-converting-your-fitness-dvd-collection-to-portable-files/"><u>Go Digital with P90X or Insanity: Converting Your Fitness DVD Collection to Portable Files</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015681830-how-to-restore-audio-functionality-on-your-windows-11-pc-now-fixed/"><u>How to Restore Audio Functionality on Your Windows 11 PC - Now Fixed</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-samsung-galaxy-m34-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Samsung Galaxy M34 Without PUK Codes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-dawn-of-augmented-reality-microsofts-hololens-review/"><u>In 2024, The Dawn of Augmented Reality – Microsoft's HoloLens Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-ai-revolutionizing-academic-writing-the-impact-of-chatgpt-on-student-essays/"><u>Is AI Revolutionizing Academic Writing: The Impact of ChatGPT on Student Essays</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017054667-logitech-g633-headset-not-working-heres-how-to-get-it-up-and-running-again/"><u>Logitech G633 Headset Not Working? Here's How to Get It Up and Running Again</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-m54-5g-video-recovery-recover-deleted-videos-from-samsung-galaxy-m54-5g-by-fonelab-android-recover-video/"><u>Samsung Galaxy M54 5G Video Recovery - Recover Deleted Videos from Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-success-a-compre-pointed-guide-to-reddit-content-creation-for-2024/"><u>Unlocking Success A Compre Pointed Guide to Reddit Content Creation for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windows-10-troubleshooting-guide-resolve-kernel-data-protection-violation-issues-and-stop-bsod-from-happening/"><u>Windows 10 Troubleshooting Guide: Resolve Kernel Data Protection Violation Issues & Stop BSoD From Happening</u></a></li>
 </ul></div>
 

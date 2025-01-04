@@ -1,7 +1,7 @@
 ---
 title: "Get Your Sound Back: Fix Voice Chat and Microphone Malfunctions on PC & Consoles for Call of Duty's Battle Royale Game."
-date: 2024-12-19T19:56:57.645Z
-updated: 2024-12-25T19:45:38.978Z
+date: 2025-01-02T03:55:48.955Z
+updated: 2025-01-03T23:32:20.553Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix League of Legends Voice Chat Not Working
@@ -46,7 +46,7 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
  Once you have double-checked these items, test the voice chat feature in LoL to see if it works. If yes, then great! If the problem persists, please move on to**Fix 2** below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Join voice channel automatically
@@ -63,7 +63,7 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 4. Check to see if you can use the voice chat feature properly in game. If yes, then great! If it’s no joy, please move on to**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Configure the audio settings
@@ -76,10 +76,6 @@ You can follow the steps below to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/r.png)
 2. In**Playback** tab, make sure that your preferred headphone or speaker is set as**Default Device** . Then right-click on the default device ane click**Test** to make sure you can hear sound coming through the headset.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-2.png)
 3. Click the**Recording** tab. Then make sure that your preferred mic is set as**Default Device** and click**Properties** .  
 
@@ -91,7 +87,7 @@ You can follow the steps below to check:
 6. Once finished, click**Apply** \>**OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Test in WoW to see if you can communicate with your friends. If it still gives you no luck, you should try**Fix 4** , below.
@@ -111,6 +107,10 @@ You can follow the steps below to check:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Re-launch LoL, then test voice chatting with your friends to see if it solves the error.
@@ -135,24 +135,19 @@ You can follow the steps below to check:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-commanding-stage-confidence-with-powerpoint-voiceover-skills/"><u>[Updated] 2024 Approved Commanding Stage Confidence with PowerPoint Voiceover Skills</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/elite-endorsement-exquisite-websites-to-download-snap-alert-tunes/"><u>Elite Endorsement Exquisite Websites to Download Snap Alert Tunes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-fixing-the-lack-of-audio-in-conexants-smartaudio-hd-for-windows-11-users/"><u>Expert Tips for Fixing the Lack of Audio in Conexant's SmartAudio HD for Windows 11 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014705390-fixes-for-creative-pebble-audio-device-malfunction-success-stories-inside/"><u>Fixes for Creative Pebble Audio Device Malfunction - Success Stories Inside</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-a-malfunctioning-front-headphone-port-a-step-by-step-guide/"><u>Fixing a Malfunctioning Front Headphone Port: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-a-non-functional-logitech-g633-microphone/"><u>How to Resolve a Non-Functional Logitech G633 Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-speaker-functionality-in-an-hdmi-setup-involving-pcs-displays-and-tvs/"><u>How To Restore Speaker Functionality in an HDMI Setup Involving PCs, Displays, and TVs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/identifying-fake-gpt-binco-coins-a-guide-to-recognizing-scams/"><u>Identifying Fake GPT-Binco Coins: A Guide to Recognizing Scams</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-xiaomi-13-ultra-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Xiaomi 13 Ultra to iPod | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-top-30-video-concepts-for-engaging-audiences/"><u>In 2024, Top 30 Video Concepts for Engaging Audiences</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723017020874-no-audio-in-battlefield-4-troubleshooting-guide-and-solutions/"><u>No Audio in Battlefield 4? Troubleshooting Guide and Solutions!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oppo-find-x6-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find X6 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/rogue-company-game-continually-freezing-and-crashing-pc-troubleshooting-guide/"><u>Rogue Company Game Continually Freezing & Crashing - PC Troubleshooting Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-restore-sound-on-your-windows-11-system/"><u>Solution Steps: Restore Sound on Your Windows 11 System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-nonappearance-of-headphones-as-output-device-on-windows-10/"><u>Step-by-Step Fix for Nonappearance of Headphones as Output Device on Windows 10</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-3-simple-techniques-to-transform-3gpp-audio-files-into-mp3-without-cost/"><u>Top 3 Simple Techniques to Transform 3GPP Audio Files Into MP3 Without Cost</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-skype-microphone-issues-on-windows-11-a-comprehensive-guide/"><u>Troubleshooting Skype Microphone Issues on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fine-tuned-focus-mastering-online-zooms-and-closures/"><u>[Updated] Fine-Tuned Focus Mastering Online Zooms and Closures</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-10plus-free-apps-to-convert-youtube-videos-on-demand/"><u>[Updated] In 2024, 10+ Free Apps to Convert YouTube Videos on Demand</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnose-and-correct-your-pcs-sound-troubles-in-five-strategic-moves-for-windows-11/"><u>Diagnose & Correct Your PC's Sound Troubles in Five Strategic Moves for Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/epson-scanner-issues-in-windows-11-a-guide-to-solve-them/"><u>Epson Scanner Issues in Windows 11: A Guide to Solve Them</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-y100a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-audio-on-your-windows-10-system/"><u>Solved! How to Restore Audio on Your Windows 10 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-rainbow-six-sieges-voice-chat-problem-post-2024-update-a-step-by-step-guide/"><u>Solving Rainbow Six Siege's Voice Chat Problem Post-2024 Update: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/spectacular-movie-sneak-insights-for-2024/"><u>Spectacular Movie Sneak Insights for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Google Pixel 7a? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranking-tablet-picks-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top-Ranking Tablet Picks - In-Depth Analysis & Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-troubleshooting-your-corsair-void-microphone-issues/"><u>Ultimate Guide: Troubleshooting Your Corsair Void Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/wake-up-your-pc-soundscape-resolving-the-conexant-smartaudio-hd-no-sound-glitch-in-win10/"><u>Wake Up Your PC Soundscape: Resolving the Conexant SmartAudio HD No Sound Glitch in Win10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/whatsapp-and-icloud-making-sure-your-conversations-are-securely-saved-in-the-cloud/"><u>WhatsApp & iCloud: Making Sure Your Conversations Are Securely Saved in the Cloud</u></a></li>
+<li><a href="https://video-capture.techidaily.com/windows-best-video-talks-ranked-1-8-for-2024/"><u>Windows' Best Video Talks Ranked #1-8 for 2024</u></a></li>
 </ul></div>
 

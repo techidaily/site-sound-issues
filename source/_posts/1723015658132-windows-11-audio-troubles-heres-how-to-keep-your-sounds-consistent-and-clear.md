@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Audio Troubles? Here's How to Keep Your Sounds Consistent and Clear!
-date: 2024-08-18T08:19:48.006Z
-updated: 2024-08-19T08:19:48.006Z
+date: 2024-12-31T18:47:33.611Z
+updated: 2025-01-04T01:16:21.110Z
 tags:
   - win11
   - win10
@@ -47,13 +47,14 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72220f11f9.jpg)
 4. Restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Check if there’s any sound in your computer.
 
  If the problem still persists, don’t worry. We have other solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Check audio settings
 
  The improper audio settings can also result in the no sound issue in your computer, so you should configure the audio settings properly.
@@ -63,22 +64,26 @@ To do so:
 1. Right click on the**Volume icon** at the bottom right corner, and click**Sounds** (or**Playback devices** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 2. In the**Sound** pane, click the**Playback** tab.  
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7201dbcc98.jpg)
 3. Select your speaker audio device, and click**Set Default** to set it as your default device.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  If your device has been the default device, you’ll see a green check mark next to your device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72066a032c.jpg)
 4. Restart your computer, and plug a headphone to see if there’s any sound.
+
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Still no luck? Okay, there’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Roll back your audio driver
 
@@ -88,18 +93,17 @@ Still no luck? Okay, there’s one more thing to try.
 2. Type**devmgmt.msc** and click**OK** to open Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721431cb33.jpg)
 3. Double click**Sound, video and game controllers** to expand it.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72165a0e6f.jpg)
 4. Double click on your**audio device** to open the properties pane.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7218e14fa5.jpg)
 5. Click the**Driver** tab, and click**Roll Back Driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721ba8a50e.jpg)
 6. Follow the on-screen instructions to finish the process.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Restart your computer.
 
 Test your computer and see if it fixes the sound problem.
@@ -117,8 +121,6 @@ Feel free to leave a comment below if you have any questions.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +128,24 @@ Feel free to leave a comment below if you have any questions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-recording-real-time-action-in-overwatch/"><u>[New] 2024 Approved Recording Real-Time Action in Overwatch</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-transforming-visual-narratives-with-creative-use-of-luts-in-pro/"><u>[Updated] In 2024, Transforming Visual Narratives with Creative Use of LUTs in Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/biosecurity-policies-are-designed-to-address-the-full-spectrum-of-biological-threats-including-infectious-diseases-chemical-agents-and-radioactive-materials208/"><u>Biosecurity Policies Are Designed to Address the Full Spectrum of Biological Threats, Including Infectious Diseases, Chemical Agents, and Radioactive Materials.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/draft-droll-diagrams/"><u>Draft Droll Diagrams</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/ensuring-the-safety-of-your-crypto-assets-tips-and-guides-by-yl-software-professionals/"><u>Ensuring the Safety of Your Crypto Assets: Tips and Guides by YL Software Professionals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-access-and-view-spider-man-no-way-home-in-high-definition/"><u>Guide: Access and View 'Spider-Man: No Way Home' In High Definition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-steelseries-arctis-9-headset-microphone-issues-resolved/"><u>How to Fix: SteelSeries Arctis 9 Headset Microphone Issues Resolved</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-worlds-finest-screen-recording-software-no-deadline/"><u>In 2024, World's Finest Screen Recording Software (No Deadline)</u></a></li>
+<li><a href="https://article-files.techidaily.com/navigating-multitasking-media-expertise-in-using-picture-in-picture-for-2024/"><u>Navigating Multitasking Media Expertise in Using Picture-in-Picture for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/no-download-needed-youtube-to-vivid-animation-gif-transformation-for-2024/"><u>No Download Needed YouTube to Vivid Animation Gif Transformation for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-glitches-how-to-restore-voice-chat-feature-for-cod-black-ops-cold-war-players/"><u>Overcoming Glitches: How to Restore Voice Chat Feature for COD: Black Ops Cold War Players</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-lost-sounds-a-comprehensive-fix-for-silent-hearthstone-battles/"><u>Restoring Lost Sounds: A Comprehensive Fix for Silent Hearthstone Battles</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sensor-error-no-read-data-present/"><u>Sensor Error: No Read Data Present</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-troubleshooting-silent-issues-in-apex-legends-get-the-audio-back/"><u>Solved: Troubleshooting Silent Issues in Apex Legends - Get the Audio Back</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-to-restore-windows-7-audio-functionality/"><u>Step-by-Step Solution to Restore Windows 7 Audio Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-troubleshooting-eliminating-noise-from-your-arctis-7-headset-on-pc/"><u>Step-by-Step Troubleshooting: Eliminating Noise From Your Arctis 7 Headset on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-getting-your-windows-10-headphones-working-again/"><u>Step-by-Step Tutorial: Getting Your Windows 10 Headphones Working Again</u></a></li>
+</ul></div>
 

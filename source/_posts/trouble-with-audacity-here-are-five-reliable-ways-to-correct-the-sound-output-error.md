@@ -1,7 +1,7 @@
 ---
 title: Trouble with Audacity? Here Are Five Reliable Ways to Correct the Sound Output Error!
-date: 2024-08-18T08:22:54.119Z
-updated: 2024-08-19T08:22:54.119Z
+date: 2024-12-28T03:39:54.594Z
+updated: 2025-01-03T20:35:25.828Z
 tags:
   - win11
   - win10
@@ -67,6 +67,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d5e494746.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##
   
  Solution 3: Ensure audio device settings in Audacity are configured correctly
@@ -84,6 +88,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  3) Click**Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6c34f39b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Ensure the**Host** field set to**Windows WASAPI** .
 
@@ -108,6 +116,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  2) Click**Edit** in the menu bar and select**Preferences** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6ee48396.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Recording** .
 
@@ -135,6 +147,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d83603b51.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged audio driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -161,6 +177,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d97536340.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Check to see if you can record successfully.  
   
  Hopefully the solutions above help you resolve the problem. If you have any questions, please feel free to leave your comments. I’d love to hear of any ideas or suggestions.
@@ -174,8 +194,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,12 +201,26 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-elevate-your-content-selecting-top-thumbnail-fonts/"><u>[New] In 2024, Elevate Your Content Selecting Top Thumbnail Fonts</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-iconic-inning-cameo-examination/"><u>[Updated] In 2024, Iconic Inning - Cameo Examination</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-resolving-iphone-xs-facial-recognition-hurdles-for-2024/"><u>[Updated] Resolving iPhone X's Facial Recognition Hurdles for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-vivo-y200-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/elite-tech-list-screen-recorders-with-zero-latency/"><u>Elite Tech List Screen Recorders with Zero Latency</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015923908-expert-fixes-for-your-steelseries-arctis-pro-microphone-problems-now-working/"><u>Expert Fixes for Your SteelSeries Arctis Pro Microphone Problems - Now Working!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-turning-off-sound-enhancement-in-your-windows-11-pc/"><u>Guide to Turning Off Sound Enhancement in Your Windows 11 PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-giggle-graph-meme-trends-by-occasion-type/"><u>In 2024, Giggle Graph Meme Trends by Occasion Type</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-vivo-y200e-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Vivo Y200e 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win-online.techidaily.com/keine-mehr-warum-ihr-iphone-keine-benachrichtigungen-mehr-anzeigt/"><u>Keine Mehr: Warum Ihr iPhone Keine Benachrichtigungen Mehr Anzeigt</u></a></li>
+<li><a href="https://article-files.techidaily.com/motorcyclings-best-bits-hats-cam-with-the-highest-scores-for-2024/"><u>Motorcycling's Best Bits Hats Cam with the Highest Scores for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-team-talks-a-guide-to-fixing-voice-chat-issues-in-destiny-2/"><u>Revive Your Team Talks: A Guide to Fixing Voice Chat Issues in Destiny 2</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-mute-mystery-effective-solutions-to-cyberpunk-2077-no-sound-issues-in-windows-10/"><u>Solving the Mute Mystery: Effective Solutions to 'Cyberpunk 2077' No Sound Issues in Windows 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-top-10-mechanics-behind-console-crashes-and-how-to-tackle-them/"><u>The Top 10 Mechanics Behind Console Crashes & How to Tackle Them</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-5-simple-solutions-for-reducing-speaker-vibrations-and-humming-noises/"><u>Top 5 Simple Solutions for Reducing Speaker Vibrations & Humming Noises</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repair-steps-for-a-non-functional-hyperx-cloud-mic/"><u>Troubleshooting and Repair Steps for a Non-Functional HyperX Cloud Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-non-functional-voice-chat-in-phasmophobia/"><u>Troubleshooting Guide: Resolving Non-Functional Voice Chat in Phasmophobia</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016683153-troubleshooting-the-steelseries-arctis-pro-mic-top-fixes-to-try/"><u>Troubleshooting the SteelSeries Arctis Pro Mic – Top Fixes to Try</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-to-diagnosing-and-resolving-crackling-sounds-in-the-arctis-7-wireless-headset-for-windows-users/"><u>Ultimate Guide to Diagnosing & Resolving Crackling Sounds in the Arctis 7 Wireless Headset for Windows Users</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->

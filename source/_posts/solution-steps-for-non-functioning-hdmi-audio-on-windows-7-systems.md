@@ -1,7 +1,7 @@
 ---
 title: Solution Steps for Non-Functioning HDMI Audio on Windows 7 Systems
-date: 2024-12-18T17:13:55.989Z
-updated: 2024-12-25T19:30:46.197Z
+date: 2025-01-02T01:49:16.954Z
+updated: 2025-01-03T20:31:08.497Z
 tags:
   - win11
   - win10
@@ -30,7 +30,7 @@ If you’re on Windows 10 or Windows 7, and you can only get stuttering, static 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **1: Disable Audio Enhancement**
@@ -38,6 +38,10 @@ If you’re on Windows 10 or Windows 7, and you can only get stuttering, static 
 Audio enhancement is designed to make your system sound perfect. But things can go wrong somethings. To fix your sound stuttering problem, please perform: 1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad000fc9bbd.png)and**R**at the same time. Type in**mmsys.cpl**and press**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad00cdcd6fd.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Right-click your default playback device (the one with a green tick) and click**Properties**.
 
@@ -56,7 +60,7 @@ If your audio driver or software doesn’t support the current audio format you 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad00cdcd6fd.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Right-click your default playback device (the one with a green tick) and click**Properties**.
@@ -64,7 +68,7 @@ If your audio driver or software doesn’t support the current audio format you 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad00c40fe6e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Click**Advanced**tab. Select**16 bit, 48000 Hz (DVD Quality)**. Click**Apply**and**OK**to save the changes.
@@ -80,20 +84,20 @@ If you’re with faulty audio driver, incompatibility problem between your sound
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad00cdcd6fd.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Mark down the name of your default sound device. The screen shot shows**High Definition Audio Device**. Your could be different.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad07e6a7dc8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad000fc9bbd.png)and**R**at the same time. Type in**devmgmt.msc**and press**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad0821313b4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Double-click to expand**Sound, video and game controllers**. Right-click the driver for your default audio device and click**Uninstall**device.
 
@@ -112,16 +116,12 @@ If, trying all the above, your sound it still stuttering or distorted, it’s ti
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad0f57e9dfa.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Click the**Update**button next to the flagged audio driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad0f8b2c99b.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If you need more help with your audio issue on Windows 10, feel free to leave us comments and we’ll see what we can do to help.
 
@@ -143,21 +143,20 @@ If you need more help with your audio issue on Windows 10, feel free to leave us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-guiding-you-to-enable-auto-video-feature-on-facebook-for-2024/"><u>[New] Guiding You to Enable Auto-Video Feature on Facebook for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/kyrocket-views-on-youtube-in-minutes-2-strategies-for-2024/"><u>[New] Skyrocket Views on YouTube in Minutes (2 Strategies) for 2024</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1-marvels-black-panther-comic-inspired-wallpaper-collection-ultimate-desktop-backgrounds-by-yl-computing/"><u>1. Marvel's Black Panther Comic-Inspired Wallpaper Collection - Ultimate Desktop Backgrounds by YL Computing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/end-discords-sound-cutting-issues-your-definitive-fixes-for-202n/"><u>End Discord's Sound Cutting Issues: Your Definitive Fixes for 202N</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixes-for-silent-cyberpunk-2077-gameplay-in-windows-10-detailed-solutions/"><u>Fixes for Silent Cyberpunk 2077 Gameplay in Windows 10: Detailed Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/headphone-jack-issues-a-comprehensive-fix-for-laptops-audio-problems/"><u>Headphone Jack Issues? A Comprehensive Fix for Laptops' Audio Problems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-14-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi 14 Phone with Broken Screen</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Tecno Pop 8? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-discover-the-top-4k-video-editing-platforms-for-professionals/"><u>New In 2024, Discover the Top 4K Video Editing Platforms for Professionals</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/restoring-missing-sounds-in-obs-recordings/"><u>Restoring Missing Sounds in OBS Recordings</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-a-malfunctioning-logitech-g633-mic-expert-advice-and-fixes/"><u>Reviving a Malfunctioning Logitech G633 Mic: Expert Advice & Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-for-when-windows-cant-locate-the-right-printer-driver-fixed/"><u>Solution for When Windows Can’t Locate the Right Printer Driver [FIXED]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-wow-voice-communication-issues/"><u>Troubleshooting Guide: Fixing WoW Voice Communication Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/virtual-battles-the-9-best-and-worst-of-digital-gaming/"><u>Virtual Battles: The 9 Best and Worst of Digital Gaming</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/what-to-do-when-nvidia-gpu-isnt-detected-top-solutions/"><u>What To Do When Nvidia GPU Isn't Detected: Top Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/why-isnt-my-corsair-headset-working-step-by-step-fixes/"><u>Why Isn't My Corsair Headset Working? Step-by-Step Fixes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-choosing-your-soundtrack-the-podcast-vs-youtube-showdown/"><u>[New] Choosing Your Soundtrack The Podcast Vs. YouTube Showdown</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-tools-and-techniques-adding-frames-to-digital-images-2023-edition/"><u>[Updated] Best Tools & Techniques - Adding Frames to Digital Images, 2023 Edition</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-photos-come-alive-with-accompanied-melodies-for-2024/"><u>[Updated] Photos Come Alive with Accompanied Melodies for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-your-ad-game-a-deep-dive-into-spotify-promotion/"><u>Elevate Your Ad Game A Deep Dive Into Spotify Promotion</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016304197-getting-your-logitech-g-pro-x-microphone-to-work-perfectly-again/"><u>Getting Your Logitech G Pro X Microphone to Work Perfectly Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-play-anthem-track-in-windows-10-when-no-sound-is-detected/"><u>How to Play Anthem Track in Windows 10 When No Sound Is Detected</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-free-mpeg-merger-tools-top-5-picks/"><u>New 2024 Approved Free MPEG Merger Tools Top 5 Picks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/perfect-your-passport-portrait-a-compilation-of-top-10-free-tools-for-2024/"><u>Perfect Your Passport Portrait A Compilation of Top 10 Free Tools for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-issue-of-sound-skipping-and-failing-in-windows-11-a-step-by-step-guide/"><u>Solving the Issue of Sound Skipping and Failing in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-nokia-130-music-by-drfone-android/"><u>Three Ways to Sim Unlock Nokia 130 Music</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/top-techniques-for-resolving-registry-issues-insights-from-yl-computing-and-yl-software/"><u>Top Techniques for Resolving Registry Issues: Insights From YL Computing and YL Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-no-sound-on-hp-laptops-a-step-by-step-guide/"><u>Troubleshooting and Repairing No Sound on HP Laptops – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-why-does-fortnite-keep-freezing-find-out-here/"><u>Troubleshooting Guide: Why Does Fortnite Keep Freezing ? Find Out Here!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-issues-with-your-razer-blackshark-v2-microphone/"><u>Troubleshooting Tips: Resolving Issues with Your Razer Blackshark V2 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-hyperx-cloud-gaming-headset-microphone-issues/"><u>Troubleshooting: Fixing HyperX Cloud Gaming Headset Microphone Issues</u></a></li>
 </ul></div>
 

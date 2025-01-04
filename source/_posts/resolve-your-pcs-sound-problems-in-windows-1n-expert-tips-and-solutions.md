@@ -1,7 +1,7 @@
 ---
 title: Resolve Your PC's Sound Problems in Windows 1N - Expert Tips & Solutions
-date: 2024-12-24T16:57:02.547Z
-updated: 2024-12-25T19:59:06.089Z
+date: 2024-12-31T22:16:33.242Z
+updated: 2025-01-03T23:22:09.586Z
 tags:
   - win11
   - win10
@@ -40,6 +40,10 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b5314e30c21.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 3, check the volume settings
 
  If your speakers are muted or their volume is set to too slow, the speakers would produce no sound. You can follow the steps below to check and ensure the volume is set correctly.
@@ -48,10 +52,6 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 2. Type control panel and click**OK** . This is to open Control Panel window.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a379fb55982a.png)
 3. In Control Panel, view by Category, click **Hardware and Sound** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a37a0193f08b.jpg)
 4. Under **Sound** , click **Adjust system volume** .  
@@ -62,10 +62,6 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/volume-mixer.jpg)
 
  If the problem still cannot be resolved, try solutions below. Sound setting issues or driver issues may also cause this problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Set Speakers as Default
 
@@ -85,11 +81,11 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
 ![enable speakers](https://images.drivereasy.com/wp-content/uploads/2016/08/enable-speakers.jpg)
 
- The problem also can be caused by outdated or missing audio drivers. So try to fix audio drivers.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The problem also can be caused by outdated or missing audio drivers. So try to fix audio drivers.
 
 ## 1\. Uninstall the Audio Driver
 
@@ -101,21 +97,25 @@ Follow these steps:
 3. In Device Manager, double-click**Sound, video and game controllers** and right-click your sound card. A context menu will pop up. Then select**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
 4. Tick the box for**Delete the driver software for this device** and click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
 5. Reboot your PC and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Update the Audio Driver
@@ -129,14 +129,14 @@ Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Hope the above helps to solve your speakers’ no sound issue in Windows 10\. If you have any other suggestions, please leave a comment below.
 
@@ -155,22 +155,24 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-how-to-screen-record-instagram-story/"><u>[New] 2024 Approved How to Screen Record Instagram Story</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-top-8-best-apps-to-get-likes-on-facebook-android-and-iphone-for-2024/"><u>[New] Top 8 Best Apps to Get Likes on Facebook (Android and iPhone) for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-cam-titans-collide-sj6-and-yi-4k-showdown/"><u>[Updated] 2024 Approved Cam Titans Collide SJ6 and Yi 4K Showdown</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-differentiate-with-style-on-snapchat-top-120plus-narratives-for-your-private-stories/"><u>[Updated] Differentiate with Style on Snapchat Top 120+ Narratives for Your Private Stories</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-mastering-snap-camera-in-ms-teams/"><u>[Updated] Mastering Snap Camera in MS Teams</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/2024-solutions-overcoming-common-problems-with-voicemod-not-working-or-launching-correctly/"><u>2024 Solutions: Overcoming Common Problems with Voicemod Not Working or Launching Correctly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-malfunctions-on-pc-heres-the-fix/"><u>Audio Malfunctions on PC? Here's the Fix!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-silent-city-expert-tips-to-bring-back-audio-in-your-pc-gameplay-on-windows-nt/"><u>Cyberpunk 2077 Silent City: Expert Tips to Bring Back Audio in Your PC Gameplay on Windows nT</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/1725287807247-digiarty/"><u>Digiartyソフトウェア使用規定 - [公式]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-solving-oculus-rift-s-headset-mic-problems-swiftly/"><u>Expert Advice: Solving Oculus Rift S Headset Mic Problems Swiftly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-to-overcoming-sound-dropouts-and-glitches-on-windows-11/"><u>Guide to Overcoming Sound Dropouts and Glitches on Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-huawei-nova-12-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Huawei Nova 12 using Video Repair Utility on Windows?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovating-proposal-writing-through-ai-with-chatgpt/"><u>Innovating Proposal Writing Through AI with ChatGPT</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/logitech-g933-microphone-woes-heres-how-you-can-fix-them/"><u>Logitech G933 Microphone Woes? Here's How You Can Fix Them</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-touchscreen-laptop-picks-thoroughly-tested-and-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Touchscreen Laptop Picks: Thoroughly Tested & Reviews by Tech Gurus - ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-for-a-non-functional-logitech-g53e-speaker-and-mic-setup/"><u>Troubleshooting Guide for a Non-Functional Logitech G53e Speaker and Mic Setup</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-your-corsair-hs70-headset-microphone-problems/"><u>Troubleshooting Tips: Resolving Your Corsair HS70 Headset Microphone Problems</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-essential-strategies-for-uploading-to-instagram-tv/"><u>[New] Essential Strategies for Uploading to Instagram TV</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-a-song-of-ice-and-fire-top-sites-to-snatch-game-of-thrones-ringtones-for-2024/"><u>[Updated] A Song of Ice and Fire Top Sites to Snatch Game of Thrones Ringtones for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-professional-sound-capture-top-10-microphones/"><u>[Updated] Professional Sound Capture Top 10 Microphones</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-reversing-the-flow-a-guide-to-tracing-instagram-pics-backwards/"><u>[Updated] Reversing the Flow A Guide to Tracing Instagram Pics Backwards</u></a></li>
+<li><a href="https://driver-download.techidaily.com/abode/"><u>Abode</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/best-practices-choosing-the-top-ios-video-downloaders-on-fb/"><u>Best Practices Choosing the Top iOS Video Downloaders on FB</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-xr-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone XR Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-input-on-your-csgo-setup/"><u>How to Restore Audio Input on Your CS:GO Setup</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-voice-chatting-capabilities-in-your-phasmophobia-gameplay-experience/"><u>How to Restore Voice Chatting Capabilities in Your Phasmophobia Gameplay Experience</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-x-flip-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo X Flip Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-job-market-with-confidence-how-linkedins-revamped-search-feature-shields-you-against-fraudulent-postings-insights-from-zdnet/"><u>Navigating the Job Market with Confidence: How LinkedIn's Revamped Search Feature Shields You Against Fraudulent Postings | Insights From ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solution-guide-resolving-failed-to-play-test-tone-glitch-effortlessly/"><u>Quick Solution Guide: Resolving 'Failed to Play Test Tone' Glitch Effortlessly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-idt-high-definition-audio-codec-driver-issues-on-windows-10/"><u>Resolving IDT High Definition Audio Codec Driver Issues on Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-for-resolving-netflix-error-nw-1-19/"><u>Step-by-Step Solution for Resolving Netflix Error NW-1-19</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-issues-with-your-corsair-hs70-headset-microphone/"><u>Troubleshooting Tips: Resolving Issues with Your Corsair HS70 Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-unresponsive-pebble-sound-systems/"><u>Troubleshooting Unresponsive Pebble Sound Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-astro-a10-microphone-issues-solutions-and-fixes/"><u>Troubleshooting Your Astro A10 Microphone Issues: Solutions & Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-turtle-beach-headset-solving-microphone-problems-easily/"><u>Troubleshooting Your Turtle Beach Headset: Solving Microphone Problems Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-media-player-no-sound-solved/"><u>Windows Media Player No Sound [SOLVED]</u></a></li>
 </ul></div>
 

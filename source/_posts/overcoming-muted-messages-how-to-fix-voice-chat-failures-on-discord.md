@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Muted Messages: How to Fix Voice Chat Failures on Discord"
-date: 2024-08-18T08:19:20.269Z
-updated: 2024-08-19T08:19:20.269Z
+date: 2024-12-30T21:26:15.747Z
+updated: 2025-01-03T22:47:54.764Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ Randomly can’t hear anyone on Discord? You’re not alone. This can happen whe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/how-to-fix-cant-hear-anyone-on-Discord-1200x396.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Refresh your Discord app
 
  Sometimes the problem is temporary and performing a refresh on the Discord app can fix it. To do this, simply press the**Ctrl+R** key to automatically refresh and reboot the app. This will trigger an update. Once done, check if you can hear people now.
@@ -49,18 +53,22 @@ If that didn’t work, proceed to the next fix.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-AUDIO-SUBSYSTEM-Legacy.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) When a prompt message appears, click**Okay** . Then your Discord app will be relaunched.
 
 ![confirm to change audio subsystem Discord](https://images.drivereasy.com/wp-content/uploads/2020/12/confirm-to-change-audio-subsystem.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once Discord reboots, check to see if the problem is resolved.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3: Update your audio driver
 
  An audio driver is an essential piece of software that lets your system communicate with your sound card. If it is outdated or misconfigured, it will cause noticeable performance problems. Therefore, you would need to update your audio driver.
@@ -88,8 +96,9 @@ Here’s how to update drivers with Driver Easy:
 ![update audio driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/12/update-audio-driver-automatically-with-Driver-Easy.png)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your audio driver, restart your PC. If your problem persists, move on to the next fix.
@@ -121,8 +130,9 @@ Here’s how to update drivers with Driver Easy:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Use the correct output device
 
  If you are not using the correct output device, you definitely can’t hear anyone on Discord. To check if that’s your case, take these steps:
@@ -132,15 +142,13 @@ Here’s how to update drivers with Driver Easy:
 ![open Discord settings](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-settings-1.jpg)
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) On the left pane, select**Voice & Video** . Under the**OUTPUT DEVICE** section, click on the down arrow and select your output device instead of Default.
 
 ![use the correct output device Discord](https://images.drivereasy.com/wp-content/uploads/2020/12/use-the-correct-output-device.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Exit the Settings and you should be able to hear something from Discord.
 
 ---
@@ -153,10 +161,6 @@ Here’s how to update drivers with Driver Easy:
 
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/10/open-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  3) Under the**Processes** tab, navigate to your game. Right-click it and select**Go to details** . Then you’ll be directed to the**Details** tab and your game will be highlighted. Till then, right-click it and select**Set priority > Normal/ Realtime** .
 
  Once done, your problem should be resolved. If you have any ideas or questions, please leave us a comment below.
@@ -167,8 +171,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +178,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-go-global-with-music-transform-your-spotify-lists-into-youtube-videos/"><u>[New] In 2024, Go Global with Music Transform Your Spotify Lists Into YouTube Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-transform-your-farm-life-with-the-best-7-14-upgrades-for-2024/"><u>[Updated] Transform Your Farm Life with the Best #7-14 Upgrades for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-six-sensational-videos-that-keep-on-watchers/"><u>2024 Approved Six Sensational Videos That Keep On Watchers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-silent-systems-expert-tips-for-restoring-sounds-on-windows-or-mac-computers/"><u>Fix Silent Systems: Expert Tips for Restoring Sounds on Windows or Mac Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-cod-vanguard-voice-chat-issues-troubleshooting-steps/"><u>Fixing Cod: Vanguard Voice Chat Issues - Troubleshooting Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-headphones-troubleshooting-sound-issues-on-your-pc-running-windows-10/"><u>Fixing Headphones: Troubleshooting Sound Issues on Your PC Running Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-logitech-g-pro-x-mic-issues-a-comprehensive-guide/"><u>Fixing Logitech G Pro X Mic Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-sennheiser-game-one-microphone-malfunctions-a-step-by-step-guide/"><u>Fixing Sennheiser Game One Microphone Malfunctions - A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-steelseries-arctis-99x-microphone-malfunction-resolved/"><u>Fixing the Issue: SteelSeries Arctis 9/9X Microphone Malfunction Resolved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-non-functional-corsair-virtueodyssey-headset-a-step-by-step-guide/"><u>Fixing the Non-Functional Corsair VirtueOdyssey Headset – A Step by Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-windows-7-microphone-issues-complete-solutions/"><u>Fixing Windows 7 Microphone Issues - Complete Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-stop-your-iphone-from-dropping-the-wi-fi-signal-a-step-by-step-guide/"><u>How To Stop Your iPhone From Dropping the Wi-Fi Signal: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-navigating-the-shadows-an-overview-of-youtubes-unlisted-videos/"><u>In 2024, Navigating the Shadows An Overview of YouTube's Unlisted Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-tier-image-manipulations/"><u>In 2024, Top-Tier Image Manipulations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/preserve-your-iphone-ns-pristine-appearance-with-these-3-must-have-accessories-insights/"><u>Preserve Your iPhone N's Pristine Appearance with These 3 Must-Have Accessories | Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-your-amd-ryzen-msis-updated-agesa-120c-tackles-the-notorious-zenbleed-issue-effectively/"><u>Secure Your AMD Ryzen: MSI's Updated AGESA 1.2.0.C Tackles the Notorious Zenbleed Issue Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-how-to-restore-functionality-when-windows-1-1-volume-settings-stop-responding/"><u>Solved! How to Restore Functionality When Windows 1 1 Volume Settings Stop Responding</u></a></li>
+</ul></div>
 

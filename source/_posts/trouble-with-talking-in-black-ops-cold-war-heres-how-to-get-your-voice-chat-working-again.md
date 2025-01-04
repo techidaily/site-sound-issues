@@ -1,7 +1,7 @@
 ---
 title: "Trouble with Talking in Black Ops: Cold War? Here's How to Get Your Voice Chat Working Again!"
-date: 2024-12-23T20:26:30.914Z
-updated: 2024-12-25T17:20:07.856Z
+date: 2025-01-01T20:51:54.511Z
+updated: 2025-01-03T23:15:17.151Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ Randomly can’t hear anyone on Discord? You’re not alone. This can happen whe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Refresh your Discord app
 
  Sometimes the problem is temporary and performing a refresh on the Discord app can fix it. To do this, simply press the**Ctrl+R** key to automatically refresh and reboot the app. This will trigger an update. Once done, check if you can hear people now.
@@ -45,6 +41,10 @@ Randomly can’t hear anyone on Discord? You’re not alone. This can happen whe
 If that didn’t work, proceed to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Use Legacy Audio Subsystem
 
@@ -54,9 +54,17 @@ If that didn’t work, proceed to the next fix.
   
 ![open Discord settings](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the left pane, select**Voice & Video** . Scroll down to the**AUDIO SUBSYSTEM** section. Click on the down arrow and select**Legacy** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-AUDIO-SUBSYSTEM-Legacy.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) When a prompt message appears, click**Okay** . Then your Discord app will be relaunched.
 
@@ -92,15 +100,15 @@ Here’s how to update drivers with Driver Easy:
 
 ![update audio driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/12/update-audio-driver-automatically-with-Driver-Easy.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your audio driver, restart your PC. If your problem persists, move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Set the audio device as the default
 
@@ -110,27 +118,15 @@ Here’s how to update drivers with Driver Easy:
   
 ![open sound setitngs](https://images.drivereasy.com/wp-content/uploads/2020/12/open-sound-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the**Output** and**Input** section, make sure your audio device is set correctly.  
   
 ![set input and output device correctly](https://images.drivereasy.com/wp-content/uploads/2020/12/input-and-output-device.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once done, follow the steps below to set your audio device as the Default Communication Device:
 
  1) On your taskbar, right-click on the sound icon and select**Sounds** to open the Sound window.  
   
 ![set audio device as default Discord can't hear anyone](https://images.drivereasy.com/wp-content/uploads/2020/12/click-on-Sounds.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Under the**Playback** tab. Click on your audio device. Then in the lower right, click on the drop-down menu next to the**Set Default** option and select**Default Communication Device** .
 
@@ -150,6 +146,10 @@ Here’s how to update drivers with Driver Easy:
 
 ![use the correct output device Discord](https://images.drivereasy.com/wp-content/uploads/2020/12/use-the-correct-output-device.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Exit the Settings and you should be able to hear something from Discord.
 
 ---
@@ -163,7 +163,7 @@ Here’s how to update drivers with Driver Easy:
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/10/open-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Under the**Processes** tab, navigate to your game. Right-click it and select**Go to details** . Then you’ll be directed to the**Details** tab and your game will be highlighted. Till then, right-click it and select**Set priority > Normal/ Realtime** .
@@ -185,16 +185,18 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-premium-steadicam-brands-for-drones-and-camera-work/"><u>[New] In 2024, Premium Steadicam Brands for Drones and Camera Work</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-expert-tips-for-crafting-immersive-soundscapes-in-youtube/"><u>[Updated] Expert Tips for Crafting Immersive Soundscapes in YouTube</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/a-detailed-breakdown-comparing-features-of-claude-pro-and-microsofts-advanced-chatgpt-plus/"><u>A Detailed Breakdown: Comparing Features of Claude Pro and Microsoft's Advanced ChatGPT Plus</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211114283-9798989037520-as-above-so-below-sun-moon-stars/"><u>As Above, So Below Sun, Moon & Stars | Free Book</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-lg-k92-5g-phone-a-comprehensive-review/"><u>Evaluating the LG K92 5G Phone: A Comprehensive Review</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-the-windows-1087-audio-problem-when-no-headset-or-earphones-are-connected/"><u>How to Fix the Windows 10/8/7 Audio Problem When No Headset or Earphones Are Connected</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-revive-your-sennheiser-gameone-mic-a-step-by-step-fixing-guide/"><u>How To Revive Your Sennheiser GameOne Mic: A Step-by-Step Fixing Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-playback-problems-for-dota-2-audio-on-windows-and-mac/"><u>Solving Playback Problems for Dota 2 Audio on Windows and Mac</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/top-10-games-just-like-stardew-valley-for-2024/"><u>Top 10 Games Just Like Stardew Valley for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-your-steelseries-arctis-pro-microphone/"><u>Troubleshooting Guide: Resolving Issues with Your SteelSeries Arctis Pro Microphone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/ultimate-guide-using-old-school-film-tricks-today-for-2024/"><u>Ultimate Guide Using Old-School Film Tricks Today for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/udget-conscious-filmmakers-essential-video-gear-list/"><u>[New] Budget-Conscious Filmmaker's Essential Video Gear List</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-androids-leading-photographic-enhancers/"><u>[New] In 2024, Android's Leading Photographic Enhancers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-ramp-up-visibility-strategies-for-engaging-shorts-on-youtub/"><u>[Updated] 2024 Approved Ramp Up Visibility Strategies for Engaging Shorts on YouTub</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capture-and-edit-like-a-pro-with-these-8-top-montage-apps/"><u>[Updated] Capture and Edit Like a Pro with These 8 Top Montage Apps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-download-youtube-playlists-with-ease-our-instructions/"><u>2024 Approved Download YouTube Playlists with Ease - Our Instructions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/all-inclusive-screen-recorder-azs-app-analysis-for-2024/"><u>All-Inclusive Screen Recorder - AZ's App Analysis for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-the-conversation-going-fixes-for-voice-chat-problems-in-black-ops-cold-war/"><u>Getting the Conversation Going: Fixes for Voice Chat Problems in Black Ops: Cold War</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-headphone-detection-issues-for-windows-10-media-streams/"><u>How to Fix Headphone Detection Issues for Windows 10 Media Streams</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-stereo-sound-issues-on-your-device-quick-guide/"><u>How to Fix Stereo Sound Issues on Your Device - Quick Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-unresponsive-microphone-in-airpods-when-using-windows-11/"><u>How to Fix Unresponsive Microphone in AirPods When Using Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/mastering-computer-monitor-recording-via-zdsoft-for-2024/"><u>Mastering Computer Monitor Recording via ZDSoft for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-stray-troubleshooting-top-10-fixes-for-a-successful-launch/"><u>Mastering Stray Troubleshooting - Top 10 Fixes for a Successful Launch</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/obs-capture-directly-on-instagram/"><u>OBS Capture Directly on Instagram</u></a></li>
 </ul></div>
 
