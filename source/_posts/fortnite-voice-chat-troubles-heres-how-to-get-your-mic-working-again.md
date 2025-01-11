@@ -1,7 +1,7 @@
 ---
 title: Fortnite Voice Chat Troubles? Here's How to Get Your Mic Working Again
-date: 2024-12-29T17:50:51.142Z
-updated: 2025-01-03T17:59:24.604Z
+date: 2025-01-03T19:18:49.462Z
+updated: 2025-01-10T22:26:03.024Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ Hey, buddy, can you hear me?
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix Fortnite mic not working?
@@ -41,7 +41,7 @@ Hey, buddy, can you hear me?
 5. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Set your microphone as your default device
@@ -53,8 +53,16 @@ Hey, buddy, can you hear me?
    ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88b171d3c2d.jpg)  
    2. At the top of the screen, click the**speaker icon** to view the**Audio** settings.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88b3985ef65.jpg)  
    3. **Turn off** Voice Chat, then click**Apply** at the bottom.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
    ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88b6b121fbd.jpg)
 2. Close Fortnite.
@@ -63,18 +71,18 @@ Hey, buddy, can you hear me?
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88bde6a8295.jpg)
 4. Click the**Recording** tab.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf478c5ca3c.jpg)
 5. **Right-click** on the device you want to use, and select**Set as Default Device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf47aa5ad97.jpg)  
 **Note:** You can try**speaking into your microphone** to test if it’s working properly. If it is, you should see a green bar rising next to it while you talk.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf47cf4729b.jpg)
@@ -107,14 +115,10 @@ Hey, buddy, can you hear me?
 4. Restart your computer and check if your mic now works properly in Fortnite. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Method 3 below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Restart the Windows Audio service
 
@@ -124,10 +128,6 @@ Hey, buddy, can you hear me?
 2. Type**services.msc** and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf51cc29fe5.png)
 3. Find and right-click on **Windows Audio** , then click **Restart** on the upper left.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf52397a39c.jpg)
 4. **Close** the Services window.
@@ -147,19 +147,15 @@ Hey, buddy, can you hear me?
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf490b0f096.jpg)
 3. In the left pane, click **Microphone** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88ebcdd1f01.jpg)
 4. In the right pane, click the**Change** button, and you’ll see your mic is turned on. Also make sure**All apps to access your microphone** is enabled:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf492ca1d0f.jpg)
 5. In the section of**Choose which apps can access your microphone** , verify that**Fortnite is turned on** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Test in Fortnite.
 
@@ -193,6 +189,10 @@ Hey, buddy, can you hear me?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b87ea7983aa7-269x300.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Enjoy your game!
 
 * [Fortnite](https://tools.techidaily.com/drivereasy/download/)
@@ -213,22 +213,21 @@ Enjoy your game!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-best-hd-visual-recorders-available/"><u>[New] In 2024, Best HD Visual Recorders Available</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-hearthstone-no-sound-issue/"><u>[SOLVED] Hearthstone No Sound Issue</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-logitech-webcam-microphone-not-working/"><u>[SOLVED] Logitech Webcam Microphone Not Working</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-cinematic-crafts-win8/"><u>[Updated] In 2024, Cinematic Crafts Win8</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-ipiccy-photo-editor-features-tutorial-and-review/"><u>[Updated] IPiccy Photo Editor Features, Tutorial and Review</u></a></li>
-<li><a href="https://win-web3.techidaily.com/1728464286351-aomei/"><u>AOMEIソフトウェアの利点を理解する - 優れたデータ管理ツール</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-hotel-stay-with-apple-airplay-elite-properties-offering-the-latest-technology-explained-by-zdnet/"><u>Revolutionize Your Hotel Stay with Apple AirPlay – Elite Properties Offering the Latest Technology Explained by ZDNET</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/standard-version-of-macs-secure-stellar-data-wiper-and-scheduled-deletion-features/"><u>Standard Version of Mac's Secure Stellar Data Wiper & Scheduled Deletion Features</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-guide-reviving-your-unresponsive-wireless-headset-mic/"><u>Step-by-Step Fix Guide: Reviving Your Unresponsive Wireless Headset Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-troubleshooting-tips-for-a-malfunctioning-mic-on-the-steelseries-arctis-7/"><u>Step-by-Step Troubleshooting Tips for a Malfunctioning Mic on the SteelSeries Arctis 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-for-resolving-disruptive-echo-on-discord-updated/"><u>Step-by-Step Tutorial for Resolving Disruptive Echo on Discord - Updated</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-2024-definitive-guide-to-fixing-your-videos-audio-delay-problems/"><u>The 2024 Definitive Guide to Fixing Your Video's Audio Delay Problems</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oppo-a56s-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Oppo A56s 5G FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-issues-with-your-non-functional-bose-speakers/"><u>Troubleshooting Steps: Resolving Issues with Your Non-Functional Bose Speakers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://win-top.techidaily.com/unable-to-locate-pages-understanding-the-page-cannot-be-found-error/"><u>Unable to Locate Pages: Understanding the 'Page Cannot Be Found' Error</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/webex-microphone-troubleshooting-fixes-you-need-to-know-for-202n4/"><u>Webex Microphone Troubleshooting: Fixes You Need to Know for 202N4!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-guide-insert-a-linked-text-in-your-tiktok-bio/"><u>[New] Step-by-Step Guide Insert a Linked Text in Your TikTok Bio</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-a-vision-realized-creating-and-launching-an-engaging-youtube-chanel/"><u>[Updated] In 2024, A Vision Realized Creating and Launching an Engaging YouTube Chanel</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-engaging-lessons-video-editing-skills-for-teachers/"><u>2024 Approved Engaging Lessons Video Editing Skills for Teachers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-sound-problems-on-windows-10-solutions-to-get-your-games-audio-working-again/"><u>Cyberpunk 2077 Sound Problems on Windows 10 - Solutions to Get Your Game's Audio Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-when-your-corsair-headset-is-not-working/"><u>Effective Fixes When Your Corsair Headset Is Not Working</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/enhance-digital-communication-on-chrome-review-of-the-best-web-based-tts-tools/"><u>Enhance Digital Communication on Chrome Review of the Best Web-Based TTS Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-non-functional-mic-in-airpods-when-used-with-microsofts-latest-os-windows-11/"><u>Fixing Non-Functional Mic in AirPods when Used with Microsoft’s Latest OS, Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-removing-sonic-boosts-from-windows-11-computers/"><u>Guide: Removing Sonic Boosts From Windows 11 Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-when-your-lol-voice-chat-stops-working/"><u>How to Restore Functionality When Your LoL Voice Chat Stops Working</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-zte-nubia-flip-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on ZTE Nubia Flip 5G</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-realme-c67-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Realme C67 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reclaiming-acoustics-effective-fixes-for-no-audio-in-valheim-on-desktop-computers/"><u>Reclaiming Acoustics: Effective Fixes for No Audio in Valheim on Desktop Computers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/see-it-through-clearly-the-top-online-photo-printers/"><u>See It Through Clearly: The Top Online Photo Printers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1727788769151-top-rated-waterproof-smartwatches-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Waterproof Smartwatches : Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722987460460-troubleshooting-success-your-online-sign-in-issue-is-now-resolved/"><u>Troubleshooting Success: Your Online Sign-In Issue Is Now Resolved!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlock-the-secret-to-transmitting-in-game-noise-via-discord-fixed/"><u>Unlock the Secret to Transmitting In-Game Noise via Discord - Fixed!</u></a></li>
 </ul></div>
 

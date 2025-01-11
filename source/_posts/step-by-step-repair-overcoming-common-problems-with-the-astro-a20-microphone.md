@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Repair: Overcoming Common Problems with the Astro A20 Microphone"
-date: 2024-08-18T08:09:55.234Z
-updated: 2024-08-19T08:09:55.234Z
+date: 2025-01-04T16:16:51.182Z
+updated: 2025-01-10T20:02:38.654Z
 tags:
   - win11
   - win10
@@ -42,6 +42,11 @@ thumbnail: https://thmb.techidaily.com/3be6004f814f322eb7c81e59f5f3e6dc5377a1a28
 2. In the Windows audio settings window, navigate to**the Recording tab** , select the microphone you want to test and click**Configure** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-37-58.png)
 3. Click**Set up microphone** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-38-40.png)
 4. Select the correct type of your microphone and click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-39-30.png)
@@ -57,6 +62,10 @@ Follow the steps below to test your microphone in Windows audio settings:
 2. Navigate to**the Recording tab** . Select the microphone you’re going to test, then try speaking into your microphone to test if it works properly. If it is, you should see some green in the bar on the right. Click**OK** to close the window after testing.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-42-45.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the microphone you’re going to test is not the default device for recording, you need to click**the Set Default button** to set it as the default device first.
 
 ---
@@ -68,26 +77,27 @@ Follow the steps below to test your microphone in Windows audio settings:
 1. On your keyboard, press**the Windows logo key** and type**recorder** . In the list of search results, click**Voice Recorder** to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-44-48.png)
 2. Click**the record icon** to start recording. Try speaking into your microphone.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-45-47.png)
-3. Click**the stop button** to stop recording.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-46-27.png)
-4. Click the recording file to replay it. If your microphone is fine, you should be able to hear your voice clearly.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-47-16.png)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-45-47.png)
+3. Click**the stop button** to stop recording.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-46-27.png)
+4. Click the recording file to replay it. If your microphone is fine, you should be able to hear your voice clearly.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-47-16.png)
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bonus tip: How to fix microphone not working on your computer?
 
@@ -105,16 +115,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-48-18.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Alternatively if you’re comfortable manually installing drivers, you can click**Update** next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-49-09.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade. Don’t worry; it comes with a**30-day money-back guarantee** , so if you don’t like it you can get a full refund, no questions asked.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -128,8 +136,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +143,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-android-gaming-delight-with-kinemaster-app-explored/"><u>[Updated] Android Gaming Delight with KineMaster App Explored</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/disable-the-acoustic-enhancements-a-comprehensive-tutorial-for-windows-11-users/"><u>Disable the Acoustic Enhancements: A Comprehensive Tutorial for Windows 11 Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-latest-speculations-on-oneplus-10s-launch-price-release-timeline-and-expected-features/"><u>Discover the Latest Speculations on OnePlus 10'S Launch - Price, Release Timeline & Expected Features</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-systems-a-guide-to-restoring-audio-on-your-lenovo-notebook/"><u>Fixing Silent Systems: A Guide to Restoring Audio on Your Lenovo Notebook</u></a></li>
+<li><a href="https://facebook.techidaily.com/guide-to-separate-your-social-media-from-music-streaming/"><u>Guide to Separate Your Social Media From Music Streaming</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xs-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone XS With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-vivo-y100-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Vivo Y100 5G FRP</u></a></li>
+<li><a href="https://fox-info.techidaily.com/is-revenue-derived-from-evaluating-products/"><u>Is Revenue Derived From Evaluating Products?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/lenovo-laptops-losing-volume-top-solutions-for-bringing-back-sounds/"><u>Lenovo Laptops Losing Volume – Top Solutions for Bringing Back Sounds</u></a></li>
+<li><a href="https://win-best.techidaily.com/losungsansatze-fur-den-windows-11-startschleifenfehler-eine-einfache-anleitung/"><u>Lösungsansätze Für Den Windows 11 Startschleifenfehler: Eine Einfache Anleitung</u></a></li>
+<li><a href="https://article-posts.techidaily.com/pixiz-essentials-from-stills-to-moving-images/"><u>Pixiz Essentials From Stills to Moving Images</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/protective-recording-strategies-to-mask-personal-information/"><u>Protective Recording Strategies to Mask Personal Information</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-kraken-microphone-troubleshooting-common-problems-and-fixes/"><u>Razer Kraken Microphone Troubleshooting: Common Problems and Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-troubleshoot-and-repair-crackling-sound-from-your-pcs-speakers-in-windows-117/"><u>Solved! How to Troubleshoot and Repair Crackling Sound From Your PC's Speakers in Windows 11/7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-fixing-soundless-facebook-videos-on-pc-latest-tips-and-tricks/"><u>The Ultimate Guide to Fixing Soundless Facebook Videos on PC - Latest Tips & Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-idt-hd-audio-codec-drivers-on-windows-11-solutions-and-fixes/"><u>Troubleshooting IDT HD Audio Codec Drivers on Windows 11 - Solutions and Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-volume-woes-simple-tips-to-restore-your-computers-sound/"><u>Windows 10 Volume Woes? Simple Tips to Restore Your Computer's Sound</u></a></li>
+</ul></div>
 

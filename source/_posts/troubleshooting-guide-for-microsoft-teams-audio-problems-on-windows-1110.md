@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide for Microsoft Teams Audio Problems on Windows 11/10
-date: 2024-08-18T08:07:31.727Z
-updated: 2024-08-19T08:07:31.727Z
+date: 2025-01-04T16:49:23.086Z
+updated: 2025-01-10T19:20:28.282Z
 tags:
   - win11
   - win10
@@ -34,12 +34,27 @@ Read on and follow the easy-doing images below!
 2. Double-click**Sound, video, and game controllers** . Then right-click the audio device driver that you have and choose**Update driver** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a27949ffeb.png)
 3. Choose**Browse my computer for driver software** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28445c675.png)
 4. Then choose**Let me pick from a list of available drivers on my computer** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a286f3d5de.png)
 5. Make sure the box for**Show compatible hardware** is**TICKED** . Then choose**High Definition Audio Device** from the list, and hit**Next** to continue.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28cccfd3f.png)
 6. You will see the warning asking you whether you want to go on with the installation, click**Yes** to continue.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a294398588.png)
 7. Restart your computer when the installation finishes.
 
@@ -51,6 +66,10 @@ Read on and follow the easy-doing images below!
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
@@ -72,13 +91,15 @@ Read on and follow the easy-doing images below!
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Option 3: Change Speaker Settings
 
  Incorrect speaker settings could also relate to the sound keeping cutting out on Windows 10 issue. To see if this is your case:
@@ -86,31 +107,24 @@ Read on and follow the easy-doing images below!
 1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
-![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
-3. Click**Next** to move forward from the sound test.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
-4. Un-tick the box for**Front left and right** and then hit**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
-5. Click**Finish** to end the configuration.  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
+3. Click**Next** to move forward from the sound test.  
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
+4. Un-tick the box for**Front left and right** and then hit**Next** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
+5. Click**Finish** to end the configuration.  
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
+
  Try to play audio with your computer again to see if the sound still cuts out.
 
  Hope one of the fixes above helps to fix the sound keeps cutting out on Windows 10 problem for you. If you have any other suggestions, please feel free to leave a comment below.
@@ -125,8 +139,6 @@ Read on and follow the easy-doing images below!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +146,24 @@ Read on and follow the easy-doing images below!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-ps4-to-video-essential-guide-for-using-obs-studio/"><u>[New] 2024 Approved PS4 to Video Essential Guide for Using OBS Studio</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-insights-how-to-communicate-effectively-with-viewers/"><u>[New] Unlocking Insights How to Communicate Effectively with Viewers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-ig-boom-technique-how-to-amass-a-massive-follower-count-quickly/"><u>[Updated] The IG Boom Technique How to Amass a Massive Follower Count Quickly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ces-2023-highlights-and-breakthroughs-from-the-first-day-insights-from-zdnet/"><u>CES 2023 Highlights and Breakthroughs From the First Day - Insights From ZDNet</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/ensuring-safety-in-digital-investments-key-insights-by-yl-software-experts/"><u>Ensuring Safety in Digital Investments: Key Insights by YL Software Experts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-8-plus-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 8 Plus to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-xr-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone XR without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-ultimate-guide-to-capturing-pc-moments-with-apowersoft/"><u>In 2024, The Ultimate Guide to Capturing PC Moments with Apowersoft</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/practical-solutions-for-activating-your-tozo-t6-device-with-windows-11-integration/"><u>Practical Solutions for Activating Your Tozo T6 Device with Windows 11 Integration</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016156971-quick-fixes-to-silence-crackling-sounds-in-your-headphones-now/"><u>Quick FIXES to Silence Crackling Sounds in Your Headphones Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-setting-up-idt-hd-audio-codec-for-windows-10-system/"><u>Step-by-Step Solution: Setting Up IDT HD Audio Codec for Windows 10 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-latest-techniques-for-rectifying-echoes-and-delays-your-guide/"><u>The Latest Techniques for Rectifying Echoes & Delays - Your Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-instantly-restoring-audio-in-google-hangouts-with-a-non-functional-mic/"><u>Troubleshoot Instantly: Restoring Audio in Google Hangouts with a Non-Functional Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-mac-sound-problems-effectively-with-these-proven-techniques/"><u>Troubleshoot Mac Sound Problems Effectively with These Proven Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-audio-issues-in-dell-computers-on-windows-7/"><u>Troubleshooting and Repairing Audio Issues in Dell Computers on Windows 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/voicemod-not-working-learn-quick-fixes-and-updates/"><u>Voicemod Not Working? Learn Quick Fixes & Updates</u></a></li>
+</ul></div>
 

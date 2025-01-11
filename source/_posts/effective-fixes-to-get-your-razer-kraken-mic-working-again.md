@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes to Get Your Razer Kraken Mic Working Again
-date: 2024-08-18T08:14:18.145Z
-updated: 2024-08-19T08:14:18.145Z
+date: 2025-01-07T22:33:42.423Z
+updated: 2025-01-10T16:10:36.522Z
 tags:
   - win11
   - win10
@@ -45,6 +45,10 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-146.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Microphone** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-150.png)
@@ -65,6 +69,10 @@ To do this, you can follow these steps:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Check your microphone device settings
 
  When any headset mic including Corsair HS70 is not working, we can check if the mic is disabled or not set as the default device on the computer. Usually, once you plug the mic to computer, it will be set as the default device automatically. But in some cases, you may need to enable the device manually.
@@ -82,18 +90,20 @@ To do this, you can follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-162.png)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Click**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-163.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Select the**Recording** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-164.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you see microphone is disabled,**right click the device** and select**Enable** .
 
@@ -105,9 +115,6 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-166.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
  b. Right click the microphone and select**Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-167.png)
@@ -118,18 +125,27 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-168.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8) Click the**Levels** tab, and drag the volume slider to the top.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-169.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  9) Click**OK** \->**OK** .
 
 10) Check to see if your Corsair HS70 mic is working.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio drivers
 
@@ -147,18 +163,12 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-142.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
  3) Click the**Update** button next to a flagged audio driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-143.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  After updating the driver, restart your computer and check to see if your Corsair HS70 mic is working.
@@ -166,8 +176,9 @@ To do this, you can follow these steps:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Troubleshoot hardware issues
 
  If the above fixes don’t resolve the problem, your Corsair HS70 mic not working might be caused by hardware issues. The mic or the port on the computer might have physical issues. To troubleshoot hardware issues, you can do these things:
@@ -190,8 +201,6 @@ To do this, you can follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +208,24 @@ To do this, you can follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-superior-screen-quality-10-in-4ks/"><u>[New] 2024 Approved Superior Screen Quality – #10 in 4Ks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-vinyls-virtual-voyage-transferring-music-selections/"><u>[New] In 2024, Vinyl's Virtual Voyage Transferring Music Selections</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-mastering-ios-screenshots-and-recordings-for-2024/"><u>[New] Mastering iOS Screenshots & Recordings for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-chrome-no-sound/"><u>[SOLVED] Chrome No Sound</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-transfer-tactics-for-seamless-online-video-sharing/"><u>2024 Approved Transfer Tactics for Seamless Online Video Sharing</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/beste-kostenlose-software-zur-migration-von-betriebssystemen-und-daten-zu-ssd-festplatten-expertenliste/"><u>Beste Kostenlose Software Zur Migration Von Betriebssystemen Und Daten Zu SSD Festplatten: Expertenliste</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975803434-easy-troubleshooting-and-installation-of-the-dell-mouse-driver-solved/"><u>Easy Troubleshooting and Installation of the Dell Mouse Driver - Solved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015013268-fix-apex-legends-audio-issues-restore-game-sounds-today/"><u>Fix Apex Legends Audio Issues: Restore Game Sounds Today</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-unrecognized-headphone-device-on-playback-in-windows-10-system/"><u>Fix: Unrecognized Headphone Device on Playback in Windows 10 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-issues-how-to-restore-sounds-in-google-chrome/"><u>Fixing Audio Issues: How to Restore Sounds in Google Chrome</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-stereo-audio-issues-solutions-for-non-working-channel-pair-settings/"><u>Fixing Stereo Audio Issues: Solutions for Non-Working Channel Pair Settings</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-continuous-cut-outs-in-windows-10s-audio-expert-tips-and-tricks/"><u>Fixing the Continuous Cut-Outs in Windows 10'S Audio: Expert Tips & Tricks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-honor-magic-6-lite-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Honor Magic 6 Lite.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silencing-the-skips-how-to-eliminate-flutter-in-wireless-audio-devices-on-windows-1011-computers/"><u>Silencing the Skips: How to Eliminate Flutter in Wireless Audio Devices on Windows 10/11 Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-game-explorers-travel-playbook/"><u>The Ultimate Game Explorer's Travel Playbook</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-noise-free-computing-a-step-by-step-solution-for-conexant-smartaudio-hd-on-windows-10/"><u>Troubleshooting Noise-Free Computing: A Step-by-Step Solution for Conexant SmartAudio HD on Windows 10</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-cream-of-the-crop-top-android-apps/"><u>Updated In 2024, The Cream of the Crop Top Android Apps</u></a></li>
+</ul></div>
 

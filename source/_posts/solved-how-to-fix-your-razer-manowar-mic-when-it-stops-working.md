@@ -1,7 +1,7 @@
 ---
 title: "Solved: How to Fix Your Razer ManO'War Mic When It Stops Working"
-date: 2024-08-18T08:07:41.139Z
-updated: 2024-08-19T08:07:41.139Z
+date: 2025-01-07T22:22:39.331Z
+updated: 2025-01-10T19:13:53.221Z
 tags:
   - win11
   - win10
@@ -43,9 +43,17 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-101.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Go to the**Recording** tab, right-click an empty area inside the devices’ display list, and then tick**Show Disabled Devices** to ensure that your headset shows up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-103.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click to highlight**Razer ManO’War** , then click**Set Default > Default Device** .
 
@@ -61,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-116.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click**OK** to save all the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-117.png)
@@ -69,9 +81,6 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### Fix 2: Modify Privacy settings
 
  There’s a possibility that your privacy settings related to the microphone has been reset after a Windows Update or other system events. If so, some programs (e.g. a video game) might be forbidden to access your mic. Here’s how to check and modify these settings:
@@ -80,9 +89,6 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-365.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  2) On the**Microphone** tab, in the results pane, click **Change** to see if**Microphone access for this device** is toggled on. If it isn’t, make sure you toggle it on.
 
  Right below you’ll see another toggle for **Allow apps to access your microphone** . Also remember to turn it on.
@@ -93,12 +99,13 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 If this fix didn’t help, please try out the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall Razer Synapse
 
@@ -113,19 +120,21 @@ If this fix didn’t help, please try out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-109.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) On the next page, scroll down and select**Razer ManO’War** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-110.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click**View software, drivers and updates for download >** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-111.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  5) Find the one compatible with your operating system, and click**Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-114.png)
@@ -150,18 +159,23 @@ If this fix didn’t help, please try out the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-07-15_14-27-17.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your audio driver for now, simply click the **Update**  button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We’re always here to help.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Check for hardware malfunction
 
@@ -187,8 +201,6 @@ If this fix didn’t help, please try out the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +208,26 @@ If this fix didn’t help, please try out the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-apples-podcast-potential-an-instructional-guide/"><u>[New] Unlocking Apple's Podcast Potential An Instructional Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-companion-for-srt-to-xml-ssa-ttml-file-transformation/"><u>[Updated] The Ultimate Companion for SRT-to-XML, SSA, TTML File Transformation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/anthem-game-crashing-or-no-sound-troubleshoot-for-windows-11-users/"><u>Anthem Game Crashing or No Sound? Troubleshoot for Windows 11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/boosting-speaker-loudness-on-windows-10-a-step-by-step-guide/"><u>Boosting Speaker Loudness on Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-shutting-down-advanced-audio-options-for-windows-10-users/"><u>Expert Tips on Shutting Down Advanced Audio Options for Windows 10 Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-capabilities-of-djis-high-end-42000-drone-model-revealed/"><u>Exploring the Capabilities of DJI's High-End $42,000 Drone Model Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hp-computer-mute-mystery-unraveled-restoring-volume-and-quality-of-sound/"><u>HP Computer Mute Mystery Unraveled: Restoring Volume and Quality of Sound</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-mastering-story-remix-windows-10-photos-for-video-editing/"><u>In 2024, Mastering Story Remix Windows 10 Photos for Video Editing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-it-worth-your-dollar-a-deep-dive-into-the-performance-of-the-amazon-fire-hd-8-8th-gen/"><u>Is It Worth Your Dollar? A Deep Dive Into the Performance of the Amazon Fire HD 8 (8Th Gen)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/motorolas-budget-smartphone-surprises-with-in-built-pen-and-extra-storage-space-on-sale-today-android-authority/"><u>Motorola's Budget Smartphone Surprises with In-Built Pen and Extra Storage Space on Sale Today | Android Authority</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-compress-videos-without-breaking-the-bank-5-best-free-ios-apps/"><u>New 2024 Approved Compress Videos Without Breaking the Bank 5 Best Free iOS Apps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-quiet-laptops-reviving-speakers-on-your-lenovo-pc/"><u>No More Quiet Laptops: Reviving Speakers on Your Lenovo PC</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211465805-9781646494071-past-lives-present-purpose/"><u>Past Lives & Present Purpose | Free Book</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/pinnacle-ai-image-manipulation-suite-for-2024/"><u>Pinnacle AI Image Manipulation Suite for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-microphone-problems-with-your-hyperx-cloud-headset-proven-fixes-that-work/"><u>Resolve Microphone Problems with Your HyperX Cloud Headset: Proven Fixes That Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-non-working-pc-mic-in-dota-2-gameplay/"><u>Step-by-Step Fixes for Non-Working PC Mic in Dota 2 Gameplay</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-eliminating-vertical-streaks-on-your-samsung-display/"><u>Step-by-Step Solutions for Eliminating Vertical Streaks on Your Samsung Display</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-non-working-headphones-on-windows-10-systems/"><u>Troubleshooting Non-Working Headphones on Windows 10 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-tricks-to-amplify-speaker-output-in-windows-10/"><u>Ultimate Tricks to Amplify Speaker Output in Windows 10</u></a></li>
+</ul></div>
 

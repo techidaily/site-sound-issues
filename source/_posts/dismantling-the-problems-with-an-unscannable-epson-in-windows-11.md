@@ -1,7 +1,7 @@
 ---
 title: Dismantling the Problems with an Unscannable Epson in Windows 11
-date: 2024-12-28T03:21:03.815Z
-updated: 2025-01-03T21:53:13.322Z
+date: 2025-01-07T18:11:59.136Z
+updated: 2025-01-10T22:01:38.162Z
 tags:
   - win11
   - win10
@@ -46,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Check the connection issue
 
  To use your scanner, you need to make sure that your scanner is**powered on** in the first place.
@@ -60,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Enable Windows Image Acquisition (WIA) service and associated services
 
 **Windows Image Acquisition** **(WIA)** is a Microsoft model that allows graphics software to communicate with imaging hardware such as scanners and cameras. So you should enable WIA service in your computer if your scanner stops working. Here’s what you need to do:
@@ -69,11 +69,15 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1678201865.jpg)
 3. Scroll down and double click**Windows Image Acquisition (WIA)** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd167eed749a.jpg)
 4. In the popup pane, ensure the**Startup type** is set**Automatic** , and the**Service status** is**Running** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd168549db26.jpg)  
@@ -81,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
 5. Click**Apply** and**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1688e0055e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then restart your computer. Try to use your HP scanner again and see if it works now.
 
@@ -102,14 +102,14 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd169897b1a1.jpg)  
    **INFORMATION:**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
     The**Windows Image Acquisition (WIA)** service is dependent upon the**Shell Hardware Detection Service** , while the**Shell Hardware Detection Service** is dependent upon these services: Remote Procedure Call RPC, DCOM Server Process Launcher, and RPC Endpoint Mapper.
 4. Save the changes and try your scanner again to see if it works.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your scanner driver (Windows PC)
 
@@ -152,13 +152,17 @@ Then try scanning with your scanner to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/cmd-run-as-admin.jpg)
 2. Copy & paste the following command line into the Command Prompt window and press**Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `**msdt.exe -id DeviceDiagnostic**`
 3. Click**Next** in the popped-up window and the troubleshooter will start detecting hardware problems automatically.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/next-step.jpg)
 4. Follow the on-screen instructions to finish the troubleshooting and fix the detected issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After that, try your scanner again and see if it’s working properly.
@@ -166,7 +170,7 @@ Then try scanning with your scanner to see if it works.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Run System File Checker
@@ -198,10 +202,6 @@ To fix your issues, follow the steps below to run a full scan of your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.
 
 ---
@@ -226,16 +226,20 @@ To fix your issues, follow the steps below to run a full scan of your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-enhance-video-conferencing-with-a-blend-of-skype-and-zoom/"><u>[New] 2024 Approved Enhance Video Conferencing with a Blend of Skype & Zoom</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-tackling-legal-differences-youtubes-restrictions-and-creative-commons-licensing/"><u>[New] 2024 Approved Tackling Legal Differences YouTube's Restrictions & Creative Commons Licensing</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-alias-transformation-on-google-meet-platforms/"><u>[New] Mastering Alias Transformation on Google Meet Platforms</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-cutting-tactics-shrinking-vids-for-instagram-mac-edition/"><u>[Updated] 2024 Approved Cutting Tactics Shrinking Vids for Instagram, Mac Edition</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-capturing-your-digital-world/"><u>In 2024, Capturing Your Digital World</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-oppo-reno-11-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Oppo Reno 11 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-3-techniques-for-capturing-sports-spectacles/"><u>In 2024, Top 3 Techniques for Capturing Sports Spectacles</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-restoring-sound-from-a-conexant-smartaudio-hd-in-windows-10/"><u>The Ultimate Guide to Restoring Sound From a Conexant SmartAudio HD in Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-your-fortnite-microphone-heres-how-to-fix-it-quickly-and-easily/"><u>Trouble With Your Fortnite Microphone? Here's How to Fix It Quickly & Easily</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-resolve-bluetooth-connectivity-issues-on-windows-11/"><u>Troubleshoot & Resolve Bluetooth Connectivity Issues on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-audio-glitches-in-headphones-quick-and-effective-methods/"><u>Troubleshoot Audio Glitches in Headphones – Quick & Effective Methods</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-optimal-video-recording-best-fullscreen-tools-for-pcmac/"><u>[New] In 2024, Optimal Video Recording Best Fullscreen Tools for PC/Mac</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-maximize-winning-proven-tips-for-capturing-games-on-the-latest-w11/"><u>[Updated] Maximize Winning Proven Tips for Capturing Games on the Latest W11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-cameras-for-full-sphere-livestream-experience/"><u>2024 Approved Ideal Cameras for Full Sphere Livestream Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/7-ways-to-fix-keyboard-input-lag-on-windows-10-and-11/"><u>7 Ways to Fix Keyboard Input Lag on Windows 10 and 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/clear-sound-no-more-buzz-fixing-irritating-noises-in-your-headphones/"><u>Clear Sound, No More Buzz: Fixing Irritating Noises in Your Headphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-windows-11-microphone-malfunctions/"><u>Diagnosing and Repairing Windows 11 Microphone Malfunctions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-repairing-discord-audio-chat-malfunctions/"><u>Expert Advice on Repairing Discord Audio Chat Malfunctions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-how-to-get-your-logitech-g733-microphone-up-and-running/"><u>Fixing Issues: How To Get Your Logitech G733 Microphone Up and Running</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-windows-11-speakers-up-and-running-effective-troubleshooting-tips/"><u>Getting Your Windows 11 Speakers Up and Running: Effective Troubleshooting Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-recurring-restart-problems-in-windows-11-effortlessly/"><u>How to Resolve Recurring Restart Problems in Windows 11 Effortlessly</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-ditch-windows-10-photos-discover-the-best-photo-editing-alternatives/"><u>In 2024, Ditch Windows 10 Photos Discover the Best Photo Editing Alternatives</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-expert-insights-on-ps3-gameplay-documentation/"><u>In 2024, Expert Insights on PS3 Gameplay Documentation</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsoft-operatives-select-6-best-usage-trackers-for-windows/"><u>Microsoft Operatives: Select 6 Best Usage Trackers for Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-soundscape-the-ultimate-guide-to-troubleshooting-nvidia-hd-audio-issues/"><u>Revive Your Soundscape: The Ultimate Guide to Troubleshooting Nvidia HD Audio Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-non-responsive-voice-chats-in-call-of-duty-black-ops-cold-war/"><u>Troubleshooting Steps for Non-Responsive Voice Chats in Call of Duty: Black Ops Cold War</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Remedies for Reviving Malfunctioning Computer Speakers
-date: 2024-08-18T08:11:30.617Z
-updated: 2024-08-19T08:11:30.617Z
+date: 2025-01-07T21:58:40.110Z
+updated: 2025-01-10T19:37:59.548Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/17263432a4da71588a462e8622eac7cc19ae8cc8f
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-124-1024x974.png)
 
  If you run into the **LucidSound LS30 mic not working** problem, don’t panic – many users have reported the same. Luckily, it’s quite easy to fix…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Fixes For **LucidSound LS30 Mic Not Working** In Windows
 
@@ -41,8 +45,9 @@ thumbnail: https://thmb.techidaily.com/17263432a4da71588a462e8622eac7cc19ae8cc8f
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Make sure the volume is audible
 
  Sometimes the mic on your**LusidSound LS30** won’t work simply because the volume is mute or set too low.
@@ -74,8 +79,9 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-140.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If **no microphone devices shows up in the device list** , then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device** once it appears and click **Enable** before you do step **2)** .  
 
  3) Click on **your microphone device** and click **Properties** .  
@@ -83,15 +89,13 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-141.png)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Click the **Levels** tab, then drag **the Microphone slider** all the way to _its top_ and click **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-137.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
  5) Click **OK** to apply the changes in the windows.
 
  6) Now with microphone set as default device and the volume turned up, try playing some audio on your LS30 headset and see if it works. If it does, then the **LucidSound LS30 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
@@ -99,9 +103,9 @@ To do so:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your audio driver
 
  This problem may occur if you are using the wrong audio driver or it’s out of date. So you should update your audio driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -116,9 +120,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-142.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-144.png)
@@ -145,8 +146,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +153,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-how-to-legally-convert-youtube-videos-to-mp4-format/"><u>[New] 2024 Approved How to Legally Convert YouTube Videos to MP4 Format</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-affordable-full-hd-cameras-for-stunts-and-sports/"><u>[New] Affordable Full HD Cameras for Stunts and Sports</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-break-down-barriers-to-sound-convert-srt-with-ease-and-precision-for-2024/"><u>[New] Break Down Barriers to Sound Convert SRT with Ease and Precision for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-follow-the-leaders-on-igtv-for-inspiration-for-2024/"><u>[Updated] Follow the Leaders on IGTV for Inspiration for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-how-to-fix-obs-studio-drop-frames-issue/"><u>[Updated] How To Fix OBS Studio Drop Frames Issue?</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-resolving-problems-with-the-lucidsound-ls30-microphone-not-working/"><u>Expert Advice on Resolving Problems with the LucidSound LS30 Microphone Not Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-restoring-functionality-to-a-broken-logitech-g733-microphone/"><u>Expert Advice: Restoring Functionality to a Broken Logitech G733 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-dolby-advanced-audio-cannot-be-launched-in-windows-10/"><u>How to Fix 'Dolby Advanced Audio' Cannot Be Launched in Windows 10</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209612325-9781547570065-meditacion-guia-de-meditacion-para-personas-ocupadas-para-curar-depresion-ansiedad-y-estres/"><u>Meditación: Guía De Meditación Para Personas Ocupadas Para Curar Depresión, Ansiedad Y Estrés | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-photoshop-scratch-disk-full-dilemma-a-comprehensive-guide/"><u>Solving the Photoshop 'Scratch Disk Full' Dilemma: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-unresponsive-csgo-microphone-problems/"><u>Troubleshooting Steps for Unresponsive CS:GO Microphone Problems</u></a></li>
+</ul></div>
 

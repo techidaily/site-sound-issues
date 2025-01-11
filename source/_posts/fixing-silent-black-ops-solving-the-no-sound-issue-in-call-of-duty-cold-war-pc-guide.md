@@ -1,7 +1,7 @@
 ---
 title: "Fixing Silent Black Ops: Solving the 'No Sound' Issue in Call of Duty Cold War - PC Guide"
-date: 2024-08-18T08:10:40.795Z
-updated: 2024-08-19T08:10:40.795Z
+date: 2025-01-04T19:36:09.120Z
+updated: 2025-01-10T23:00:20.181Z
 tags:
   - win11
   - win10
@@ -38,8 +38,9 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
  You can also try to plug in the cables again and see if you hear any sound. If possible, you can connect to other devices such as your cellphone or MP3 player for troubleshooting.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Change your default playback device
 
  You’ll have no sound when you set the wrong playback device. You can follow these steps to do a quick check:
@@ -49,20 +50,18 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
 2. Check if there’s a**green tick** on your desired playback device. If not, select your device and click**Set Default** . Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/set-default-output-device.jpg)
 3. Open Modern Warfare and see if your problem has gone away. If the problem is still there,**repeat step 1** and select your playback device, then click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/no-sound-set-default-format.jpg)
 4. Navigate to the**Advanced** tab. Under the**Default Format** section, select a different sample rate and bit depth, then click**Test** . Repeat this process until you find a format that works with your device. Then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/no-sound-set-default-format-2.jpg)
 5. Launch Modern Warfare and see if you hear any sound.
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this method doesn’t give you any luck, please continue to the next one.
@@ -74,21 +73,25 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
 1. On your keyboard, press the**Windows logo key** and type**troubleshoot settings** . Then click**Troubleshoot settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/troubleshoot-settings.jpg)
 2. Click**Additional troubleshooters** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/troubleshoot-settings-2.jpg)
 3. Select**Playing Audio** and click**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/troubleshoot-settings-3.jpg)
 4. Follow the on-screen instructions to troubleshoot your audio issue.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
  After running the troubleshooter, you can join a game and see how things go.
 
  If the troubleshooter failed to detect your issue, please check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update your audio driver
 
  One of the most common causes of in-game sound issue is the**broken or outdated audio driver** . So you should update your audio driver to see it it fixes your problem.
@@ -99,11 +102,17 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-realtek-audio-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -111,9 +120,6 @@ The Modern Warfare series has been out for a couple of years now, yet many playe
 
  If updating audio driver doesn’t do the trick for you, please take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Install all the Windows updates
 
  There’re many reports that installing system updates fixes the audio issue on Windows, so this could be a potential solution to your sound issue with Modern Warfare.
@@ -123,20 +129,18 @@ And it’s quite easy to update too:
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Type or paste**control /name Microsoft.WindowsUpdate** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-update-run-box.jpg)
 2. Click**Check for updates** . It’ll take some time for Windows to search and install system updates.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed the updates, restart your computer for it to take full effect.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 
  To install all the system updates, you might need to**repeat these steps** **several times** until it prompts that “you’re up to date” when you click Check for updates.
 
 You can now open Modern Warfare and check the in-game audio.
 
  If this method doesn’t work for you, simply move on to the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Close conflicting software
 
@@ -155,9 +159,11 @@ Here’s how to do it:
 3. For**Audio channels** , select**Stereo** and click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap108.jpg)
 4. Check the box **next to Front left and right** . Then click **Next** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap109.jpg)
 5. Click **Finish** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap110.jpg)
@@ -172,8 +178,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +185,23 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-correct-aspect-ratio-use-in-micro-video-tweets-for-2024/"><u>[Updated] Correct Aspect Ratio Use in Micro-Video Tweets for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ving-affiliate-success-with-online-videos/"><u>Achieving Affiliate Success with Online Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/call-of-duty-modern-warfare-players-unite-resolving-voice-chat-connectivity-problems/"><u>Call of Duty Modern Warfare Players Unite! Resolving Voice Chat Connectivity Problems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/can-we-depend-on-instagram-an-in-depth-analysis-by-zdnet/"><u>Can We Depend on Instagram? An In-Depth Analysis by ZDNet</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/elevate-your-site-performance-using-cookiebot-technology/"><u>Elevate Your Site Performance Using Cookiebot Technology</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-samsung-galaxy-s23-ultramirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Samsung Galaxy S23 UltraMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-make-facebook-collage-instantly/"><u>In 2024, How to Make Facebook Collage Instantly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-macos-to-optimize-mixer-streams/"><u>Navigating MacOS to Optimize Mixer Streams</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-sound-problems-on-new-software-platforms-effective-strategies/"><u>Overcoming Sound Problems on New Software Platforms: Effective Strategies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-a-non-responsive-fortnite-microphone-or-speakers-get-back-on-voice-chat-now/"><u>Quick Fixes for a Non-Responsive Fortnite Microphone or Speakers - Get Back on Voice Chat Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/rec-room-microphone-troubleshooting-fix-and-optimize-your-setup/"><u>Rec Room Microphone Troubleshooting: Fix & Optimize Your Setup</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-troubleshooting-steps-for-fixing-voice-chat-issues-in-league-of-legends/"><u>Resolved: Troubleshooting Steps for Fixing Voice Chat Issues in League of Legends</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172605573-step-up-your-game-designs-with-wide-cabinetry-options/"><u>Step Up Your Game Designs with Wide Cabinetry Options</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-interrupted-sound-solutions-for-persistent-audio-disruptions-in-windows-11/"><u>Troubleshooting Interrupted Sound: Solutions for Persistent Audio Disruptions in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-resolving-obs-desktop-sound-issues/"><u>Troubleshooting Steps for Resolving OBS Desktop Sound Issues</u></a></li>
+<li><a href="https://discover-help.techidaily.com/unrecognized-video-card-issues-diagnosing-your-pcs-display-problem-the-expert-guide-from-yl-computing/"><u>Unrecognized Video Card Issues: Diagnosing Your PC's Display Problem - The Expert Guide From YL Computing</u></a></li>
+</ul></div>
 

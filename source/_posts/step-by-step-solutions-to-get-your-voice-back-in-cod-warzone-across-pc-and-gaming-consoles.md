@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions to Get Your Voice Back in COD Warzone Across PC and Gaming Consoles
-date: 2024-12-27T18:44:59.813Z
-updated: 2025-01-03T19:26:02.725Z
+date: 2025-01-04T21:57:17.097Z
+updated: 2025-01-10T21:19:53.369Z
 tags:
   - win11
   - win10
@@ -35,19 +35,11 @@ thumbnail: https://thmb.techidaily.com/ba4d76a3836c79aa2d1ffbc408b14921a58fa2b19
 5. **[Change the in-game audio settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Check the connection of your audio device
 
  When your voice chat stops working, the first thing you want to do is check your connection. You need to **make sure the device cable is not broken or worn out, and is securely plugged into the correct headphone jack of your PC** . Or you can simply do a replug and see how it goes. If you’re using a headset with a switch, make sure you’ve turned on the mic.
 
 If the connection is fine, check out the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Disable your peripherals
 
@@ -70,12 +62,12 @@ First you need to check the default audio device on your system:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/input-device-testing.jpg)
 3. Make sure the box next to**Disable** is unchecked, and the slider under**Volume** is set to 100.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
 4. Click **Start test** and tap or speak to your microphone. Then click **Stop test** . If you’re prompted **The highest value we saw was xx (xx > 0) percent** , it means your microphone has been set up correctly.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/sound-test-percent.jpg)
 
@@ -88,19 +80,19 @@ Next, you need to check the voice chat settings in the Battle.net client:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/battle-net-settings-1.jpg)
 3. On the menu to your left, select **Voice Chat** . Set **OUTPUT DEVICE** and **INPUT DEVICE** to **System Default Device** . Then click **Done** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-voice-chat.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now launch Black Ops Cold War and see if you can talk to others.
 
  If your mic still doesn’t work in the game, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -140,10 +132,14 @@ Now launch Black Ops Cold War and see if you can talk to others.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-audio-settings.jpg)
 2. Be sure to set both**Speakers/Headphones Voice Chat Device** and**Microphone Device** to**Default Communication Device** . Set**Microphone Activation Mode** to**Open Mic** . Then increase the value of**Open Microphone Sensitivity** to over 50.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-ingame-voice-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you can restart Black Ops Cold War and check if the voice chat is working.
@@ -151,7 +147,7 @@ Now launch Black Ops Cold War and see if you can talk to others.
  If changing game settings doesn’t help, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Install all Windows updates
@@ -163,6 +159,10 @@ Here’s a quick guide for that:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will download and install the available updates. Wait for the process to complete.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -189,20 +189,19 @@ Here’s a quick guide for that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/fixed-operational-woes-epson-printer-scanning-again-in-windows-11/"><u>[FIXED] Operational Woes: Epson Printer Scanning Again in Windows 11</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ultimate-selection-of-ps1-games-now-on-your-computer/"><u>[New] 2024 Approved Ultimate Selection of PS1 Games, Now on Your Computer</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-utilizing-the-virtual-whiteboard-in-webinars-cross-platform-tips-and-tricks/"><u>[New] 2024 Approved Utilizing the Virtual Whiteboard in Webinars Cross-Platform Tips and Tricks</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-advanced-techniques-for-effective-mobile-screen-capturing-with-mobizen/"><u>[New] In 2024, Advanced Techniques for Effective Mobile Screen Capturing with Mobizen</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-tutorial-on-asus-mainboard-software-setup-for-windows-users/"><u>Comprehensive Tutorial on ASUS Mainboard Software Setup for Windows Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/eliminate-jumpy-tunes-overcoming-bluetooth-interruptions-in-windows-11-environments/"><u>Eliminate Jumpy Tunes: Overcoming Bluetooth Interruptions in Windows 11 Environments</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-fixes-for-the-dead-microphone-on-steelseries-arctis-prime-headset/"><u>Expert Fixes for the Dead Microphone on SteelSeries Arctis Prime Headset</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-common-problems-with-sound-blaster-microphones-expert-advice/"><u>Fixing Common Problems with Sound Blaster Microphones - Expert Advice</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-connectivity-problems-using-tozo-t6-with-windows-lete-the-device-is-up-to-date-and-make-sure-your-computers-drivers-are-also-current-as-outdated-driv653/"><u>Fixing Connectivity Problems: Using Tozo T6 with Windows Lete the Device Is up to Date, and Make Sure Your Computer's Drivers Are Also Current as Outdated Drivers Can Cause Compatibility Issues.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-corsair-hs35-headset-microphone-issues-in-windows-environments/"><u>Fixing Corsair HS35 Headset Microphone Issues in Windows Environments</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-persistent-sound-cutouts-in-discord-comprehensive-2-steps-to-stability/"><u>Fixing Persistent Sound Cutouts in Discord - Comprehensive 2# Steps to Stability</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/heaviest-airborran-aerial-haulers-ultimate-choices/"><u>Heaviest Airborran Aerial Haulers - Ultimate Choices</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-xiaomi-13t-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Xiaomi 13T and Browser | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-your-pc-gameplay-overcoming-roblox-error-277-with-expert-hacks-updated-guide/"><u>Master Your PC Gameplay: Overcoming Roblox Error 277 with Expert Hacks (Updated Guide )</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-the-full-potential-16-essential-functions-of-alexa-on-amazon-echo-as-revealed-by-zdnet/"><u>Unlock the Full Potential: 16 Essential Functions of Alexa on Amazon Echo as Revealed by ZDNet</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/abc-news-clips-fetcher-easily-grab-videos-from-abcnewsgocom/"><u>ABC News Clips Fetcher - Easily Grab Videos From ABCNews.Go.Com</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cant-print-your-pdf-these-simple-tips-will-help-you-succeed/"><u>Can't Print Your PDF? These Simple Tips Will Help You Succeed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/declutter-inbox-effortlessly-discover-the-ultimate-one-trick-email-solution/"><u>Declutter Inbox Effortlessly: Discover the Ultimate One-Trick Email Solution .</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016214694-disconnect-other-usb-devices-from-the-pc-and-try-connecting-tozo-t6-again-since-a-device-may-not-function-correctly-due-to-limited-usb-ports/"><u>Disconnect Other USB Devices From the PC and Try Connecting Tozo T6 Again, Since a Device May Not Function Correctly Due to Limited USB Ports</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevating-your-experience-with-my-ai-6-reasons-why-snapchat-is-more-than-just-playtime/"><u>Elevating Your Experience with My AI: 6 Reasons Why Snapchat Is More Than Just Playtime</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-fixing-the-voice-chat-feature-in-black-ops-cold-war/"><u>Expert Advice on Fixing the Voice Chat Feature in Black Ops Cold War</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-non-functional-mic-during-zoom-calls-on-windows-11-and-10/"><u>Fixing the Issue: Non-Functional Mic During Zoom Calls on Windows 11 & 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/harmonizing-electronics-effective-fixes-for-hdmi-sound-failures-when-merging-pc-display-and-tv-outputs/"><u>Harmonizing Electronics: Effective Fixes for HDMI Sound Failures When Merging PC, Display & TV Outputs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-the-boxing-streaming-websites-you-cant-afford-to-miss/"><u>New The Boxing Streaming Websites You Cant Afford To Miss</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tips-and-techniques-for-correcting-sound-problems-in-resident-evil-village/"><u>Tips and Techniques for Correcting Sound Problems in Resident Evil Village</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-contemporary-vintage-inspired-gaming-systems/"><u>Top Contemporary Vintage-Inspired Gaming Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fixes-for-no-sound-errors-in-your-windows-media-player-experience/"><u>Ultimate Fixes for No Sound Errors in Your Windows Media Player Experience</u></a></li>
 </ul></div>
 

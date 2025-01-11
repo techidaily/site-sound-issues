@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Non-Working Mic on Your Sony WH-1000XM3/4 Headphones for Laptop Use
-date: 2024-08-18T08:12:09.536Z
-updated: 2024-08-19T08:12:09.536Z
+date: 2025-01-04T21:19:53.174Z
+updated: 2025-01-10T23:09:30.971Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/bebadbeb051f48ac7f74b5607da42c1eb14a12e1d
 3. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Check the Webex settings](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Troubleshoot the connection
 
  Before you proceed to anything more complicated, make sure you’ve set up the audio device correctly.
@@ -45,23 +49,21 @@ thumbnail: https://thmb.techidaily.com/bebadbeb051f48ac7f74b5607da42c1eb14a12e1d
 2. Select**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-2.jpg)
 3. Select**Microphone** from the left pane. Then click the**Change** button and**turn on** Microphone access for this device.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 4. Scroll down and toggle on the button below**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
 
  Once you’ve allowed the microphone access to your apps, check if the problem is resolved. If not, try the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2 – Update your audio driver
 
  The audio driver is the most important component that connects your audio device and computer. If it’s incompatible, faulty or outdated, you may encounter various problems when using your headset or microphone. And a driver update could well tackle the problem.
@@ -82,9 +84,6 @@ There are mainly two ways you can update the audio driver:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2-11.jpg)
@@ -95,8 +94,9 @@ There are mainly two ways you can update the audio driver:
  Now check if your microphone works in the Webex meeting. If not, there’s one more fix to try.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3 – Check the Webex settings
 
  If your microphone works well with the browser or any programs but your Webex app, the cause may be related to the app’s settings. There’s a good chance that Webex doesn’t recognize the microphone you’re using and you’ll need to set it up properly via the following steps.
@@ -105,13 +105,15 @@ There are mainly two ways you can update the audio driver:
 2. Click your profile at the top left corner and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings.jpg)
 3. Select**Audio** from the left pane. Under the Microphone section, select your preferred audio device from the drop-down menu.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-3.jpg)
 4. You can also adjust the volume by dragging the slider. Then click Save to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once completed, you can click the Test button under Microphone to see if everything goes back to normal.
 
 ---
@@ -126,8 +128,6 @@ There are mainly two ways you can update the audio driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +135,24 @@ There are mainly two ways you can update the audio driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-elevate-your-social-media-game-3-techniques-to-enhance-video-captions-on-ig/"><u>[New] In 2024, Elevate Your Social Media Game 3 Techniques to Enhance Video Captions on IG</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-customizing-your-channel-icon-banner-and-thumbnail-ideas/"><u>[Updated] 2024 Approved Customizing Your Channel Icon, Banner & Thumbnail Ideas</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-a-quest-for-collective-ownership-art-without-boundaries/"><u>[Updated] In 2024, A Quest for Collective Ownership Art Without Boundaries</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-essential-phone-knowledge-for-expanded-gear-vr-experiences/"><u>2024 Approved Essential Phone Knowledge for Expanded Gear VR Experiences</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-professionals-choice-top-10-camera-gimbals-compared-iphone-android-dslr/"><u>2024 Approved Professional's Choice Top 10 Camera Gimbals Compared - iPhone, Android, DSLR</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dts-m4v-movavi/"><u>無料で高品質DTS M4Vに変換可能! 動画編集サービスMovaviをご利用ください。</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-oneplus-open-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on OnePlus Open? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosis-and-repair-tactics-for-nonfunctional-voice-chat-in-overwatch-fixing-ptt-issues/"><u>Diagnosis and Repair Tactics for Nonfunctional Voice Chat in Overwatch - Fixing PTT Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-corsair-earphones-troubleshooting-guide-for-common-issues/"><u>Fixing Your Corsair Earphones: Troubleshooting Guide for Common Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-the-best-sound-quality-from-your-turtle-beach-microphone-expert-repair-tips/"><u>Get the Best Sound Quality From Your Turtle Beach Microphone - Expert Repair Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-hdmi-audio-output-on-your-windows-7-pc-easy-fixes-and-tips/"><u>How to Restore HDMI Audio Output on Your Windows 7 PC – Easy Fixes and Tips</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-successfully-install-new-drivers-on-your-razer-blackwidow-controller/"><u>How to Successfully Install New Drivers on Your Razer BlackWidow Controller</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-art-of-troubleshooting-stop-microphone-pop-ups-with-your-logitech-g-pro-x/"><u>Master the Art of Troubleshooting: Stop Microphone Pop-Ups with Your Logitech G Pro X</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-start-downloading-the-razer-mamba-drivers-with-ease/"><u>Quick-Start: Downloading the Razer Mamba Drivers with Ease</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-playback-issues-on-your-creative-pebble-bluetooth-speakers/"><u>Resolving Playback Issues on Your Creative Pebble Bluetooth Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-headphone-and-speaker-connectivity-issues-in-windows-operating-systems-11-8-and-ebuild/"><u>Troubleshooting Headphone and Speaker Connectivity Issues in Windows Operating Systems: 11, 8 & Ebuild</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-sound-issues-with-unplugged-speakers-and-headphones-in-windows-operating-systems-windows-1087/"><u>Troubleshooting Sound Issues with Unplugged Speakers and Headphones in Windows Operating Systems (Windows 10/8/7)</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Persistent Discord Noise Issues? Here’s Your 2024 Step-by-Step Solution!
-date: 2024-08-18T08:10:26.848Z
-updated: 2024-08-19T08:10:26.848Z
+date: 2025-01-09T23:35:56.044Z
+updated: 2025-01-10T16:16:12.380Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 3. **[Rollback your driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Use the generic high definition audio device driver](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check NVIDIA Output settings
 
  If you can’t enable sound for HDMI output. First, you need to check if you’ve set the NVIDIA output correctly.
@@ -32,6 +36,11 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 2. Go to**Display** \>**Set up digital audio** . Make sure you’ve selected your connected device for**HDMI** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/set-up.jpg)
 3. Click**Open Windows Sound Settings** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Under the**Playback** tab, right-click the blank area and check**Show Disabled Devices** and**Show Disconnected Devices** . Your device should not be grayed out anymore.
 5. Select your device and**Set Default** .
 
@@ -58,17 +67,16 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 4. After performing the system check, select only**NVIDIA Graphics Driver** . Then click**AGREE AND CONTINUE** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/select.jpg)
 5. Select**Custom(Advanced)** \>**NEXT** .  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/installation-options.jpg)
 6. Be sure to tick the box next to**Perform a clean installation** , then click**NEXT** .  
  (You can uncheck the software you don’t need.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/perform-a-clean-install.jpg)
 7. Follow the on-screen instructions to complete the installation.
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Restart your computer for the changes to take effect.
 
  NVIDIA outputs should be showing normally now. If not, you can try the next fix.
@@ -85,23 +93,23 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now-5.png)
 3. Click the**Update** button next to your sound card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will get**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/update-all-your-drivers-3.jpg)
 4. Restart your computer for the changes to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Go to Playback devices and see if the issue has been solved. Your audio output devices should be “ready” instead of “not plugged in” now.
 
  If you need assistance, please contact **Driver Easy’s support** **team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Rollback your driver
 
  If you have recently updated your driver or updating the graphics driver failed to solve your issue, you can roll back the graphics driver.
@@ -113,9 +121,6 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 3. Go to the**Driver** tab, and select**Roll Back Driver** if the option is not gray.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/driver.png)
 4. Follow the on-screen instructions to proceed.
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Use the generic high definition audio device driver
 
@@ -126,13 +131,15 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 3. Right-click your NVIDIA High Definition Audio and select Update driver.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/update-driver.png)
 4. Click**Browse my computer for driver software** .
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click**Let me pick from a list of available driver on my computer** .
 6. Select**High Definition Audio Device** . Then click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/update.png)
 7. Click**No** if you’re prompted for a restart.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Go back to Device Manager and click Action, then select**Scan for hardware changes** .
 9. Check if the issue still persists.
 
@@ -146,8 +153,6 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +160,22 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-a-step-by-step-approach-to-crafting-customized-youtube-alerts-and-notifications/"><u>[New] In 2024, A Step-by-Step Approach to Crafting Customized Youtube Alerts & Notifications</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-screensnapper-showdown-for-2024/"><u>[New] ScreenSnapper Showdown for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-warzone-not-using-gpu-on-windows-11/"><u>[SOLVED] Warzone Not Using GPU on Windows 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-eliminating-exposure-how-to-conceal-private-video-sections/"><u>[Updated] Eliminating Exposure How to Conceal Private Video Sections</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-exploring-the-functionalities-in-free2x-cam-tech/"><u>[Updated] In 2024, Exploring the Functionalities in Free2X Cam Tech</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-virtual-horizons-a-deep-dive-into-6-metaverse-cases/"><u>2024 Approved Unveiling Virtual Horizons A Deep Dive Into 6 Metaverse Cases</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/8-best-instagram-scheduler-for-android-and-iphone/"><u>8 Best Instagram Scheduler for Android and iPhone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016510772-cant-use-your-blue-yeti-mic-here-are-remedies-that-work/"><u>Can't Use Your Blue Yeti Mic? Here Are Remedies That Work!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cyberpunk-277-sound-issues-heres-how-to-troubleshoot-the-static-noise/"><u>Cyberpunk 2#77 Sound Issues? Here's How to Troubleshoot the Static Noise!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-logitech-camera-and-mic-back-online-expert-troubleshooting-tips/"><u>Get Your Logitech Camera and Mic Back Online - Expert Troubleshooting Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-correcting-dell-audio-driver-issues-on-microsofts-windows-7-platform/"><u>Guide to Correcting Dell Audio Driver Issues on Microsoft's Windows 7 Platform</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/headphone-troubles-on-windows-11-heres-how-you-can-solve-it/"><u>Headphone Troubles on Windows 11? Here's How You Can Solve It!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-rectifying-sound-problems-with-valorants-voice-system/"><u>Step-by-Step Tutorial: Rectifying Sound Problems with Valorant's Voice System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-eliminate-sound-fluctuations-on-windows-11windows-7-systems/"><u>Troubleshooting Guide: How to Eliminate Sound Fluctuations on Windows 11/Windows 7 Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721830022525-your-personal-gpt-buddy-talk-to-it/"><u>Your Personal GPT Buddy – Talk to It</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Voice Communication Glitches in Overwatch - Expert Solutions
-date: 2024-08-18T08:08:47.343Z
-updated: 2024-08-19T08:08:47.343Z
+date: 2025-01-09T22:00:20.519Z
+updated: 2025-01-10T19:05:25.198Z
 tags:
   - win11
   - win10
@@ -43,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 
 If the in-game voice chat is still not working, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your audio driver
 
  The voice chat not working issue can be caused by a corrupted or outdated audio driver. To fix it, you’ll need to update your audio driver.
@@ -66,6 +63,10 @@ If the in-game voice chat is still not working, try the next fix.
 
  If updating your audio driver doesn’t solve your problem, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Set your audio device as the default device
 
  If you don’t have the correct audio devices set in Windows and Steam, your microphone or headset may not work properly. To ensure the voice chat works properly, you’ll need to set your audio device as the default device. Here’s how:
@@ -73,40 +74,43 @@ If the in-game voice chat is still not working, try the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** together to open the Run dialog box. Then type**mmsys.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/mmsys.cpl_.jpg)
 2. Under the**Playback** tab, select the**speakers or headset** you want to use and click**Set Default** .  
+
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/headphones-set-default.jpg)
 3. Click the**Recording** tab, select the**microphone or headset** you want to use and click**Set Default** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/microphone-set-default.jpg)
 4. Launch Steam. At the bottom-right corner of the Steam client, click**FRIENDS & CHAT** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/b4b-friends-chat.jpg)
 5. In the pop-up window, click**the gear icon** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/friends-chat-gear.jpg)
 6. Select**VOICE** . In**VOICE INPUT DEVICE** , select the microphone you set as the default device in step 3). In**VOICE OUTPUT DEVICE** , select the headset you set as the default device in step 2).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-voice-set.jpg)
 7. Launch Back 4 Blood again to see if the voice chat is working properly.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If the issue remains, check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ### Fix 4: Connect your microphone directly to your controller
 
  Some console players have found that the voice chat may not work if you’ve your headset connected through a Mixamp. To ensure the voice chat works properly in Back 4 Blood, you might need to connect your microphone directly to your controller.
@@ -119,9 +123,6 @@ If the issue remains, check out the next fix.
 2. **Right-click** Back 4 Blood and select**Manage** \>**Uninstall** . Then follow the on-screen instructions to uninstall the game.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/b4b-uninstall-game.jpg)
 3. After the process completes, reinstalling the game.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Back 4 Blood voice chat not working issue should have been resolved after trying all the fixes mentioned above. But if not, you can contact the Back 4 Blood support directly and[submit a ticket](https://go.wbgames.com/B4BHelp) .
 
@@ -137,8 +138,6 @@ If the issue remains, check out the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +145,20 @@ If the issue remains, check out the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-enhance-your-workspace-best-8-macbook-wallpapers/"><u>[Updated] Enhance Your Workspace Best 8 MacBook Wallpapers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-from-classic-quests-to-complex-escapades/"><u>[Updated] From Classic Quests to Complex Escapades</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-step-by-step-tutorial-for-efficient-video-capturing-via-zd/"><u>[Updated] In 2024, Step-by-Step Tutorial for Efficient Video Capturing via ZD</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-inside-the-studio-magix-vpx-leading-media-production/"><u>[Updated] Inside the Studio Magix VPX Leading Media Production</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-issues-on-your-computer-without-hearing-a-peep-step-by-step/"><u>Fixing Audio Issues on Your Computer Without Hearing a Peep – Step-by-Step</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-bluetooth-paired-but-still-silent-solutions-inside/"><u>Fixing the Issue: Bluetooth Paired but Still Silent – Solutions Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/from-silent-to-symphony-essential-steps-for-restoring-conexant-smartaudio-hd-sound-on-window-10-operating-systems/"><u>From Silent to Symphony: Essential Steps for Restoring Conexant SmartAudio HD Sound on Window 10 Operating Systems</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-iphone-xs-max-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone XS Max Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-quick-guide-to-sharing-your-favorite-gifs-on-instagram/"><u>In 2024, Quick Guide to Sharing Your Favorite GIFs on Instagram</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unraveling-monetization-strategies-in-the-realm-of-video-shorts/"><u>In 2024, Unraveling Monetization Strategies in the Realm of Video Shorts</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellar-file-eraser-windows-best-tool-to-permanently-wipe-out-files-and-folders-without-a-trace/"><u>Stellar File Eraser Window's Best Tool to Permanently Wipe Out Files and Folders Without a Trace</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-eliminate-audio-distortion-on-your-pc/"><u>Step-by-Step Guide to Eliminate Audio Distortion on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tutorial-confirming-participation-in-a-group-photo-album-on-ios-devices/"><u>Tutorial: Confirming Participation in a Group Photo Album on iOS Devices</u></a></li>
+</ul></div>
 

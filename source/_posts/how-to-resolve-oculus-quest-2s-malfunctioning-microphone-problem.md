@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Oculus Quest 2'S Malfunctioning Microphone Problem
-date: 2025-01-02T16:02:23.472Z
-updated: 2025-01-03T17:22:59.172Z
+date: 2025-01-03T23:46:36.473Z
+updated: 2025-01-10T17:22:43.569Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 1: Check your microphone settings**
 
 This issue may occur if your Logitech G230 is not set as the default device, or if it is disabled on your PC. In this case, you can follow the instructions below to check your microphone settings on your PC:
@@ -42,34 +46,26 @@ This issue may occur if your Logitech G230 is not set as the default device, or 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**control** and press**Enter** to open**Control Panel** . ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000092.png)
 2. **View Control Panel by Category** . Then click**Hardware and Sound** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000093.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click**Sound** to continue.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000094.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click the **Recording**  tab, then**right-click** on any empty place inside the device list and tick **Show Disabled Devices** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap892.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Right-click the**Headset Microphone** and click **Enable** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap893-1.png)
 6. Select the microphone you’re using and click **Set Default** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 
 7. While still in the **Recording** tab, try **speaking into your microphone**  to test if it works properly. If it is, you should see some green in the bar on the right:![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Click **OK** .
 
 See if your Logitech G230 mic works. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 2: Allow access to your headset microphone (for Windows 10 users)**
 
@@ -79,10 +75,6 @@ If you don’t allow Windows 10 and applications to access your microphone, you 
 2. Click**Microphone** on the left panel. On the right,**if** **microphone access for this device is off** , click**Change** **to** **turn it on** . You should also all apps to access your microphone. If it is turned off, turn it on.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000088.png)
 
 Check if your Logitech G230 mic works. If not, try the next fix below to update your audio driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 3: Update your audio driver**
 
@@ -100,14 +92,22 @@ An outdated or corrupted audio driver can also be the root of this issue. To fix
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000027-4.png)
 3. Click **Update**  next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee ).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap0029-1.png)  
  You can do it for free if you like, but it’s partly manual.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 4: Troubleshoot hardware issues**
 
@@ -136,17 +136,21 @@ Hopefully one of the fixes above resolved this issue for you. If you have any qu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-insta-velocity-strategic-use-of-likes-and-videos-for-growth/"><u>[New] Insta Velocity Strategic Use of Likes & Videos for Growth</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016399959-solved-squad-mic-not-working-2024-guide/"><u>[Solved] Squad Mic Not Working - 2024 Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-editsuite-evaluation-detailed-article/"><u>2024 Approved EditSuite Evaluation – Detailed Article</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bust-the-silence-effective-fixes-for-hyperx-cloud-headset-microphone-failures/"><u>Bust the Silence: Effective Fixes for HyperX Cloud Headset Microphone Failures</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-thriving-online-finding-compatible-co-stars-for-youtube/"><u>In 2024, Thriving Online Finding Compatible Co-Stars for YouTube</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-asus-rog-phone-8-pro-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Asus ROG Phone 8 Pro for Parents | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016582580-no-audio-post-windows-11-upgrade-quick-fixes-inside/"><u>No Audio Post-Windows 11 Upgrade? Quick Fixes Inside</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/saving-smiles-techniques-for-capturing-twitters-gifs-for-2024/"><u>Saving Smiles Techniques for Capturing Twitter's GIFs for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/shattering-standards-an-in-depth-look-at-the-eizo-coloredge-monitor-for-2024/"><u>Shattering Standards – An In-Depth Look at the EIZO ColorEdge Monitor for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723017012302-winning-back-your-windows-11-soundscape-noise-issues-corrected/"><u>Winning Back Your Windows 11 Soundscape – Noise Issues Corrected</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-techniques-for-accurate-ps3-playback-rendering/"><u>[New] 2024 Approved Techniques for Accurate PS3 Playback Rendering</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-elite-filmmaking-selecting-the-ultimate-7-4k-cameras-for-2024/"><u>[New] Elite Filmmaking Selecting the Ultimate 7 4K Cameras for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-stills-extraction-procedure-windows-11-photos-guide-for-2024/"><u>[New] Stills Extraction Procedure Windows 11 Photos Guide for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-view-counts-by-upholding-youtubes-cc-license/"><u>2024 Approved Mastering View Counts by Upholding YouTube's CC License</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/configuring-windows-n-10-to-recognize-and-setup-incompatible-speakers/"><u>Configuring Windows N 10 to Recognize and Setup Incompatible Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repair-getting-your-logiteeck-g-pro-x-microphone-up-and-running-again/"><u>DIY Repair: Getting Your Logiteeck G Pro X Microphone Up and Running Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dota-2-microphone-not-working-heres-how-to-fix-it-easily/"><u>Dota 2 Microphone Not Working? Here's How to Fix It Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-the-sound-back-fixing-inactive-mics-in-oculus-quest-2-headsets/"><u>Getting the Sound Back: Fixing Inactive Mics in Oculus Quest 2 Headsets</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-dolby-digital-decoder-errors-and-launch-audio-drivers-successfully-on-windows-11/"><u>How to Fix Dolby Digital Decoder Errors and Launch Audio Drivers Successfully on Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/indispensable-top-vr-movie-adventures/"><u>Indispensable Top VR Movie Adventures</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-ebook-formats-for-ibooks-and-steps-to-import-your-digital-books/"><u>Top eBook Formats for iBooks and Steps to Import Your Digital Books</u></a></li>
+<li><a href="https://fox-access.techidaily.com/top-strategies-for-boosting-handp-healthcare-fb-campaigns/"><u>Top Strategies for Boosting H&P Healthcare FB Campaigns</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-non-functional-voice-chat-on-modern-warfare-gameplay/"><u>Troubleshooting Non-Functional Voice Chat on Modern Warfare Gameplay</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-issues-with-steams-voice-chat-feature/"><u>Troubleshooting Tips: Resolving Issues with Steam's Voice Chat Feature</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-game-changing-potential-of-amds-zen-5-packing-a-whopping-8315-billion-transistors-per-compute-die-for-enhanced-performance-up-to-28-higher-den49/"><u>Unveiling the Game-Changing Potential of AMD's Zen 5: Packing a Whopping 8.315 Billion Transistors per Compute Die for Enhanced Performance, Up to 28% Higher Density</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-ultimate-guide-to-fusing-high-fidelity-audio-into-mp4-filmmaking/"><u>Updated In 2024, The Ultimate Guide to Fusing High-Fidelity Audio Into MP4 Filmmaking</u></a></li>
 </ul></div>
 

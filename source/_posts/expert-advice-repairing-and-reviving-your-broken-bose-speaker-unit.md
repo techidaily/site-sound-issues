@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Repairing and Reviving Your Broken Bose Speaker Unit"
-date: 2024-08-18T08:09:21.305Z
-updated: 2024-08-19T08:09:21.305Z
+date: 2025-01-08T22:14:41.383Z
+updated: 2025-01-10T21:05:08.125Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 
  If you’re also experiencing this Stereo Mix not working issue, don’t worry. The following are a few methods that have helped many users.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -27,6 +31,10 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 2. [**Update your sound driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Enable Stereo Mix**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Method 1: Make sure your computer sound is going through your sound card
 
  To ensure your Stereo Mix works well, all your audio output has to go through your sound card so that it can record the output. If your sound is sent around the sound card (using HDMI to output video and audio together, for example), your Stereo Mix is unable to work.
@@ -34,8 +42,9 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
  To use Stereo Mix, you should make sure your computer sound is coming from your sound card. Connect your sound card directly to your speakers and set up the proper output. After that, check to see if your Stereo Mix works normally.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Method 2: Update your sound driver
 
  Your Stereo Mix may not be working properly if you’re using a wrong sound driver or it’s out of date. You should update your driver to see if this is able to resolve your problem. If you don’t have the time, patience or skills to update your driver, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -50,19 +59,14 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abddea556a6b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)**  Click the **Update**  button next to the sound card to download the latest and correct driver for it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abddeecd0d61.jpg)
 
 <!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ##  Method 3: Enable Stereo Mix
 
  Your Stereo Mix may not be able to work because it’s disabled. To disable Stereo Mix:
@@ -70,6 +74,10 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 **1)** Right click your**volume icon** on your taskbar, then click**Recording devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abde029539aa.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Right click any empty space inside the device box, then make sure**Show Disabled Devices** is**ticked** .
 
@@ -79,17 +87,10 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abde32cf0472.png)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 **4)** Right click**Stereo Mix** , then click**Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abde42a1495a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 **5)** Click**OK** , then check to see if you’re able to record audio on your computer with Stereo Mix.
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -100,8 +101,6 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +108,24 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-essential-asmr-mics-for-optimal-audio-experience/"><u>[New] 2024 Approved Essential ASMR Mics for Optimal Audio Experience</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-best-video-grabbers-for-windows-10-pc/"><u>2024 Approved Best Video Grabbers for Windows 10 PC</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/347591-9781101215975-as-a-man-thinketh/"><u>As a Man Thinketh | Free Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-to-restoring-microphone-functionality-during-a-zoom-call-on-your-laptop/"><u>Comprehensive Guide to Restoring Microphone Functionality During a Zoom Call on Your Laptop</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-motorola-moto-g04-has-native-mkv-support-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Motorola Moto G04 has native MKV support?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-volume-back-step-by-step-solutions-for-no-audio-device-found-on-windows-machines/"><u>Get Your Volume Back: Step-by-Step Solutions for 'No Audio Device Found' On Windows Machines</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-dolby-atmostruehd-playback-issues-on-windows-10/"><u>How to Fix Dolby Atmos/TrueHD Playback Issues on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hp-notebook-silent-discover-the-easy-steps-to-bring-back-your-laptops-audio/"><u>HP Notebook Silent? Discover the Easy Steps to Bring Back Your Laptop's Audio</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ideal-ios-companions-best-ps2-game-simulators/"><u>Ideal iOS Companions Best PS2 Game Simulators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-high-income-leader-of-all-time/"><u>In 2024, YouTube's High Income Leader of All Time</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-communication-in-sea-of-thieves-a-fix-for-non-functional-mic-on-pc/"><u>Mastering Communication in Sea of Thieves - A Fix for Non-Functional Mic on PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-high-cpu-consumption-issues-in-windows-11-a-step-by-step-guide/"><u>Resolving High CPU Consumption Issues in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-gaming-audio-on-windows-10-quick-fixes-for-anthems-no-sound-glitch/"><u>Revive Gaming Audio on Windows 10 | Quick Fixes for Anthem's No-Sound Glitch</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repair-guide-csgo-buhne-malfunctions/"><u>Troubleshooting and Repair Guide: CS:GO Buhne Malfunctions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-solving-ps3-controller-connection-issues/"><u>Ultimate Guide: Solving PS3 Controller Connection Issues</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-art-of-acceleration-a-comprehensive-guide-to-time-lapse-video-software/"><u>Updated The Art of Acceleration A Comprehensive Guide to Time Lapse Video Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/windows-10-top-new-apps-and-games-for-your-pc/"><u>Windows 10 Top New Apps & Games for Your PC</u></a></li>
+</ul></div>
 

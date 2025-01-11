@@ -1,7 +1,7 @@
 ---
 title: "Reviving Volume: Effective Fixes for Lenovo Laptop Sound Issues"
-date: 2025-01-03T01:25:20.055Z
-updated: 2025-01-04T02:38:59.207Z
+date: 2025-01-04T21:12:32.368Z
+updated: 2025-01-10T22:30:56.389Z
 tags:
   - win11
   - win10
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 1: Run Windows audio playback troubleshooter**
@@ -48,13 +48,17 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000231-1.png)
 2. In the pop-up window, select**Playing Audio** , then click**Run the troubleshooter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000232.png)
 3. Follow the on-screen instructions to troubleshoot the audio playback issue.
 
  When it is completed, play a song on your HP laptop to see if you resolved the no sound issue. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 2: Update your audio driver**
@@ -97,14 +101,14 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 3. If your laptop speaker is disabled,**right-click** your laptop speaker and select**Enable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000236.png)
 4. Select the speaker / headphone you’re using and  click **Set Default** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
@@ -117,10 +121,6 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000235-2.png)
 8. Play a song on your laptop to see if you fixed the no sound issue. If not, move on to the next step.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9. On your keyboard, press**the Windows logo key** and**X** at the same time. Then select**Device Manager** to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000238.png)
 10. In Device Manager,**double-click** **Sound, video and game controllers** to expand the list. If you see**a downward arrow** next to your audio device,**right-click** it then select**Enable device** to enable it.  
@@ -128,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000240.png)
 
  Play a song on your HP laptop to see if the no sound issue is resolved. If not, try the next fix to restart Windows audio service.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 4: Restart Windows audio service**
 
@@ -141,6 +137,10 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 2. Scroll down to locate **Windows Audio** . **Right-click**   it and select **Properties** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap193-5.png)
 3. Under the **General**   tab, if the service is disabled, click **Star**   to enable it. For **Startup type** , select **Automatic** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap194-5.png)
 4. Navigate to the **Recovery**   tab. For **First failure** , select **Restart the Service** . Then click **OK**   to save the changes.  
 
@@ -148,7 +148,7 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 5. Locate the service **Windows Audio Endpoint Builder** . Follow step 3 and step 4 above to do the same thing for Windows Audio Endpoint Builder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Restart your PC.
@@ -156,7 +156,7 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
  See if you fix this issue after restarting Windows audio service. If it works, congratulations! This issue is fixed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 5: Troubleshoot hardware issues**
@@ -189,24 +189,21 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-next-level-screenshots-review-of-apowersofts-pc-recorder/"><u>[Updated] In 2024, Next-Level Screenshots Review of Apowersoft's PC Recorder</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-optimized-storage-analysis-how-many-videos-on-a-64128gb-drive/"><u>2024 Approved Optimized Storage Analysis How Many Videos on a 64/128GB Drive?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-prime-cinematic-creator-a-symphony-of-sights-and-sounds/"><u>2024 Approved Prime Cinematic Creator A Symphony of Sights & Sounds</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/common-problems-and-solutions-dealing-with-a-malfunctioning-lucidsound-ls30-mic/"><u>Common Problems & Solutions: Dealing With a Malfunctioning LucidSound LS30 Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-unplugged-nvidia-output-issues/"><u>Diagnosing and Fixing Unplugged Nvidia Output Issues</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1724766368369-dvd/"><u>DVDの最大限圧縮：安全でストリーミングが利用可能な無料解決法！高画質保持方法を学ぶ</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-hardware-driver-in-windows-11107-by-drivereasy-guide/"><u>How to Manually Install a Hardware Driver in Windows 11/10/7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-reactivate-your-computers-audio-quick-and-effective-methods/"><u>How to Reactivate Your Computer's Audio: Quick and Effective Methods</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-11-pro-max-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 11 Pro Max iOS System? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-google-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Google Devices</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-lava-agni-2-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Lava Agni 2 5G Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/in-depth-diagnosis-and-repair-strategies-for-malfunctioning-beyond-the-wire-mics/"><u>In-Depth Diagnosis and Repair Strategies for Malfunctioning Beyond The Wire Mics</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016274074-laptop-audio-malfunction-here-are-effective-solutions/"><u>Laptop Audio Malfunction? Here Are Effective Solutions!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/logitech-g-pro-x-click-free-experience-how-to-resolve-crackling-sounds/"><u>Logitech G Pro X Click-Free Experience: How to Resolve Crackling Sounds</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-corsair-virtuoso-mic-step-by-step-repair-instructions/"><u>Revive Your Corsair Virtuoso Mic: Step-by-Step Repair Instructions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-speakers-the-ultimate-solution-for-no-audio-in-zoom-meetings-on-windows-1011/"><u>Reviving Speakers: The Ultimate Solution for No Audio in Zoom Meetings on Windows 10/11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-spells-gone-reinstating-audio-during-hearthstone-battles/"><u>Silent Spells Gone: Reinstating Audio During Hearthstone Battles</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974836333-swiftly-update-windows-11s-intel-graphics-g3000/"><u>Swiftly Update Windows 11'S Intel Graphics G3000</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/topmate-c302-the-budget-laptop-cooler-that-packs-a-punch-expert-review-inside/"><u>TopMate C302: The Budget Laptop Cooler That Packs a Punch - Expert Review Inside</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-mastering-video-editing-in-windows-11-your-movie-maker-primer/"><u>[New] 2024 Approved Mastering Video Editing in Windows 11 - Your Movie Maker Primer</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-mastering-youtube-metrics-a-compreousible-roadmap-to-tracking-traffic-and-turnover/"><u>[New] 2024 Approved Mastering YouTube Metrics A Compreousible Roadmap to Tracking Traffic and Turnover</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ave-money-save-time-the-best-22-audio-crackers-for-youtube-downloads/"><u>[New] Save Money, Save Time The Best 22 Audio Crackers for YouTube Downloads</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-tap-into-endless-stock-imagery-through-favorite-4-youtube-vids/"><u>[New] Tap Into Endless Stock Imagery Through Favorite 4 Youtube Vids</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-seamless-tweeting-expert-video-conversion-software/"><u>[Updated] In 2024, Seamless Tweeting Expert Video Conversion Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-mpow-microphone-problems-in-microsoft-windows/"><u>Diagnosing and Fixing MPOW Microphone Problems in Microsoft Windows</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/from-lenses-to-screens-reviewing-nikon-d7500/"><u>From Lenses to Screens Reviewing Nikon D7500</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-back-on-track-resolving-destiny-2-voice-communication-errors/"><u>Getting Back on Track: Resolving Destiny 2 Voice Communication Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015303698-hearthstone-volume-glitches-heres-how-you-can-get-your-sounds-back/"><u>Hearthstone Volume Glitches? Here's How You Can Get Your Sounds Back</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-amplify-speaker-volume-on-your-windows-11-system/"><u>How to Amplify Speaker Volume on Your Windows 11 System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203846589-hp-keyboard-malfunctions-5-easy-steps-to-restore-functionality/"><u>HP Keyboard Malfunctions? 5 Easy Steps to Restore Functionality!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/seamless-solutions-fixing-non-responsive-bluetooth-on-your-windows-11-device/"><u>Seamless Solutions: Fixing Non-Responsive Bluetooth on Your Windows 11 Device</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-oneplus-open-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock OnePlus Open Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-found-making-sure-game-sounds-play-on-discord/"><u>Solution Found: Making Sure Game Sounds Play on Discord</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlocking-your-epson-printers-full-potential-in-windows-11/"><u>Unlocking Your Epson Printer's Full Potential in Windows 11</u></a></li>
 </ul></div>
 

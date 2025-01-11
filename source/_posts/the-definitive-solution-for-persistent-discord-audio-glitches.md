@@ -1,7 +1,7 @@
 ---
 title: The Definitive Solution for Persistent Discord Audio Glitches
-date: 2024-08-18T08:10:20.239Z
-updated: 2024-08-19T08:10:20.239Z
+date: 2025-01-07T16:09:38.839Z
+updated: 2025-01-10T16:24:49.544Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ It’s annoying that your Discord is picking up game audio all of a sudden. But 
 * [2. Change sound settings](https://tools.techidaily.com/drivereasy/download/)
 * [3. Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Update audio drivers
 
  A properly working audio driver can make sure your device is working normally. If your Discord picks up the game audio, it might be caused by a malfunctioning audio driver. To make sure your audio works fine, you should update your audio driver:
@@ -51,6 +55,10 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver-1.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 
  4) Once the driver is updated, reboot your PC for the changes to take effect.
@@ -59,8 +67,9 @@ There’re mainly two ways for you to update an audio driver:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Change sound settings
 
  This issue happens when Stereo Mix (instead of your headset microphone) is set to the default device. To fix it, you should disable Stereo Mix, and set your microphone as the default device:
@@ -75,23 +84,18 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Open Discord application, and go to**User Settings** .
 
  5) Under**Voice Settings** , choose the correct**Input Device** and**Output Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Reinstall Discord
 
  If nothing worked, you can try reinstalling Discord in case it’s an app-related issue. Here’s how:
@@ -102,16 +106,14 @@ There’re mainly two ways for you to update an audio driver:
 
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Right-click Discord, and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once complete, you can download[**the latest Discord client**](https://discord.com/brand-new) and check if the issues persist in the new version.
 
 ---
@@ -126,8 +128,6 @@ There’re mainly two ways for you to update an audio driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +135,21 @@ There’re mainly two ways for you to update an audio driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-issues.techidaily.com/solved-discord-picking-up-game-audio/"><u>[SOLVED] Discord Picking Up Game Audio</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-top-value-360-cameras-delivering-cost-effective-coverage/"><u>2024 Approved Top Value 360° Cameras Delivering Cost-Effective Coverage</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-set-up-free-targus-docking-station-driver-software-now-available/"><u>Effortless Set-Up! Free Targus Docking Station Driver Software Now Available</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-repairing-a-malfunctioning-jabra-audio-device/"><u>Expert Advice on Repairing a Malfunctioning Jabra Audio Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuit-online-omzetten-van-ogg-naar-wav-movavi/"><u>Gratuit Online Omzetten Van Ogg Naar Wav - Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-note-50-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-cinematic-brilliance-uncovered-top-filmmaking-secrets/"><u>In 2024, Cinematic Brilliance Uncovered Top Filmmaking Secrets</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-amd-vega-64-graphics-card-driver-update-get-them-now-on-windows/"><u>Latest AMD Vega 64 Graphics Card Driver Update: Get Them Now on Windows!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-and-easy-mic-check-techniques-expert-tips-on-testing-your-microphone/"><u>Quick and Easy Mic Check Techniques - Expert Tips on Testing Your Microphone!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-why-is-my-logitech-g533-mic-not-working/"><u>Step-by-Step Solution: Why Is My Logitech G533 Mic Not Working?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-future-awaits-equipping-yourself-for-metaverse-life-top-7/"><u>The Future Awaits Equipping Yourself for Metaverse Life (Top 7)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-pathway-to-linguistic-proficiency-mondlys-top-10-innovations-for-learning/"><u>The Pathway to Linguistic Proficiency – Mondly's Top 10 Innovations for Learning</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-solutions-resolving-no-audio-issues-in-discord/"><u>Troubleshooting Solutions: Resolving 'No Audio' Issues in Discord</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-voice-communication-problems-in-warzone-for-both-desktop-and-gaming-console-players/"><u>Troubleshooting Voice Communication Problems in Warzone for Both Desktop and Gaming Console Players</u></a></li>
+</ul></div>
 

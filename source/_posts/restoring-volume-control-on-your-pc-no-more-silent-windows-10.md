@@ -1,7 +1,7 @@
 ---
 title: "Restoring Volume Control on Your PC: No More Silent Windows 10"
-date: 2025-01-02T22:43:32.319Z
-updated: 2025-01-04T01:24:36.766Z
+date: 2025-01-05T20:34:46.688Z
+updated: 2025-01-10T23:37:46.134Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 2. [Check audio settings](https://tools.techidaily.com/drivereasy/download/)
 3. [Roll back your audio driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your audio driver
 
  It’s likely your audio driver becomes incompatible after upgrading Windows system, so it’s recommended to update your audio driver to fix the no sound issue.
@@ -50,7 +54,7 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 3. Click the**Update** button next to a flagged audio driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version of Driver Easy).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update** **All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
@@ -60,10 +64,6 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 Check if there’s any sound in your computer.
 
  If the problem still persists, don’t worry. We have other solutions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Check audio settings
 
@@ -75,20 +75,16 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 2. In the**Sound** pane, click the**Playback** tab.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7201dbcc98.jpg)
 3. Select your speaker audio device, and click**Set Default** to set it as your default device.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If your device has been the default device, you’ll see a green check mark next to your device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72066a032c.jpg)
 4. Restart your computer, and plug a headphone to see if there’s any sound.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Still no luck? Okay, there’s one more thing to try.
 
@@ -101,18 +97,22 @@ Still no luck? Okay, there’s one more thing to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721431cb33.jpg)
 3. Double click**Sound, video and game controllers** to expand it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72165a0e6f.jpg)
 4. Double click on your**audio device** to open the properties pane.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7218e14fa5.jpg)
 5. Click the**Driver** tab, and click**Roll Back Driver** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721ba8a50e.jpg)
 6. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Restart your computer.
 
@@ -140,22 +140,18 @@ Feel free to leave a comment below if you have any questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-how-to-illuminate-a-guide-to-great-vlog-images/"><u>[New] How to Illuminate A Guide to Great Vlog Images</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-expertise-pathway-choosing-between-standard-studio-and-beta/"><u>[New] YouTube Expertise Pathway Choosing Between Standard Studio and Beta</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-affordable-asmr-magic-quality-audio-on-a-budget/"><u>[Updated] In 2024, Affordable ASMR Magic Quality Audio on a Budget</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-exercise-innovations-6-youtube-ideas-for-movement-focused-viewers/"><u>[Updated] In 2024, Exercise Innovations 6 YouTube Ideas for Movement-Focused Viewers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-art-of-effective-online-engagement-on-fb/"><u>[Updated] In 2024, The Art of Effective Online Engagement on FB</u></a></li>
-<li><a href="https://win11.techidaily.com/dont-want-to-upgrade-tips-for-optimizing-your-existing-os/"><u>Don't Want to Upgrade? Tips for Optimizing Your Existing OS</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-oneplus-nord-n30-se-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, OnePlus Nord N30 SE ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-review-and-runner-testimonials/"><u>In-Depth Review & Runner Testimonials</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-reactivating-your-voice-chat-during-a-thrilling-round-of-phasmophobia/"><u>Step-by-Step Fixes: Reactivating Your Voice Chat During a Thrilling Round of Phasmophobia</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-enhancing-audio-clarity-and-loudness-for-windows-11-users/"><u>Step-by-Step Guide: Enhancing Audio Clarity and Loudness for Windows 11 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-tackling-cutting-out-audio-glitches-in-windows-10/"><u>Step-by-Step Guide: Tackling Cutting Out Audio Glitches in Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-nonfunctional-headphones-in-the-latest-windows-os/"><u>Step-by-Step Solution for Nonfunctional Headphones in the Latest Windows OS</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-find-n3-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo Find N3? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-11-sound-issues-a-complete-guide/"><u>Troubleshooting Windows 11 Sound Issues: A Complete Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-to-addressing-and-correcting-windows-sound-malfunctions-solved/"><u>Ultimate Guide to Addressing and Correcting Windows Sound Malfunctions [SOLVED]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unclogging-audio-issues-how-to-rectify-no-sound-after-hooking-up-computer-and-tv-using-hdmi-link/"><u>Unclogging Audio Issues: How to Rectify No Sound After Hooking Up Computer and TV Using HDMI Link</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-10-speakers-not-working-solved/"><u>Windows 10 Speakers Not Working [SOLVED]</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-perfect-presentation-with-personalized-typography-in-ae-projects/"><u>[New] In 2024, Perfect Presentation with Personalized Typography in AE Projects</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-beyond-tiktok-horizons-the-essence-of-triller/"><u>[Updated] In 2024, Beyond TikTok Horizons The Essence of Triller</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-liftoff-your-phone-images-with-free-magnification-app/"><u>2024 Approved Liftoff Your Phone Images with Free Magnification App</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-when-your-realtek-hd-audio-manager-refuses-to-start-up/"><u>Effective Fixes for When Your Realtek HD Audio Manager Refuses to Start Up</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-headphone-issues-troubleshooting-windows-11/"><u>Fixing Headphone Issues: Troubleshooting Windows 11</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/how-to-troubleshoot-print-jobs-solutions-when-you-encounter-a-printer-error-learn-with-yl-computing/"><u>How to Troubleshoot Print Jobs: Solutions When You Encounter a Printer Error - Learn with YL Computing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/pc-users-rejoice-fix-your-fall-guys-freezing-problems-here/"><u>PC Users Rejoice - Fix Your Fall Guys Freezing Problems Here!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-fixing-the-silent-issues-in-google-chrome-audio/"><u>Resolved: Fixing the Silent Issues in Google Chrome Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/skype-microphone-not-functioning-a-complete-solution-on-windows-11/"><u>Skype Microphone Not Functioning? A Complete Solution on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-silent-troubles-restoring-sound-after-windows-10-update/"><u>Solving Silent Troubles: Restoring Sound After Windows 10 Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-handling-event-id-1000-across-various-windows-versions/"><u>Troubleshooting Steps for Handling Event ID #1000 Across Various Windows Versions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/unveiling-vlcs-network-live-stream-capabilities/"><u>Unveiling VLC's Network Live Stream Capabilities</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
 

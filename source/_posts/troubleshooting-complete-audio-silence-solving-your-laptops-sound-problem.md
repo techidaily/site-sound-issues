@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Complete Audio Silence: Solving Your Laptop's Sound Problem"
-date: 2024-08-18T08:13:46.358Z
-updated: 2024-08-19T08:13:46.358Z
+date: 2025-01-07T21:51:23.840Z
+updated: 2025-01-10T16:33:22.144Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/981f5aab13809d22943cf0e3715f6a9d6dac906b3
 
  If your computer is having problems playing sound, and you receive the **One or more audio service isn’t running** error message, you’re not alone. Many Windows users have been reporting it. But the good news is you can fix it. This article gives you three fixes to try…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -26,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/981f5aab13809d22943cf0e3715f6a9d6dac906b3
 1. [**Check the status of your audio services**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Update your audio drivers**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Reinstall your audio drivers**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check the status of your audio services
 
@@ -47,8 +55,9 @@ thumbnail: https://thmb.techidaily.com/981f5aab13809d22943cf0e3715f6a9d6dac906b3
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your audio drivers
 
  A missing or outdated audio driver may also stop your audio service from running. You should update your audio drivers to better troubleshoot your problem.
@@ -65,22 +74,17 @@ OR
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1fc67e2400.jpg)
 3. Click the **Update** button next to your audio driver to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc075f35e6b9.jpg)
 4. Check if your computer now plays music properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 3, below.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Reinstall your audio drivers
 
  If the above steps didn’t work for you, you can also try reinstalling your audio drivers via Device Manager:
@@ -89,16 +93,15 @@ OR
 2. Type **devmgmt.msc** and click**OK** to access Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f6f812df0.png)
 3. Expand the **Sound, video and game controllers** category.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f7aec80f7.jpg)
 4. For each audio device under that category, right-click on it and select**Uninstall device** . Note: Click**Uninstall** if prompted for confirmation.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f91648965.png)
 5. Restart your computer, then check if your problem is resolved.
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -114,8 +117,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +124,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-end-screen-creation-made-simple-free-templates-and-guides/"><u>[New] In 2024, End Screen Creation Made Simple - Free Templates & Guides</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-navigating-fb-video-aspects-ratios-explained/"><u>[New] Navigating FB Video Aspects Ratios Explained</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-step-by-step-guide-to-creating-and-changing-igtv-cover-photos-for-2024/"><u>[New] Step-By-Step Guide to Creating & Changing IGTV Cover Photos for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/budget-hearing-tech-for-drivers-an-affordable-bluetooth-headset-unpacked/"><u>Budget Hearing Tech for Drivers: An Affordable Bluetooth Headset Unpacked</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/clear-audio-pathways-address-and-fix-crackling-sounds-from-an-arctis-7-with-windows-computing-systems/"><u>Clear Audio Pathways: Address and Fix Crackling Sounds From an Arctis 7 with Windows Computing Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solutions-to-get-your-silent-bose-speakers-back-in-action/"><u>DIY Solutions to Get Your Silent Bose Speakers Back in Action</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-supplemental-film-footage-for-2024/"><u>Harnessing the Power of Supplemental Film Footage for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-filmmaking-on-a-shoestring-10-essential-low-budget-tools-for-2024/"><u>New Filmmaking on a Shoestring 10 Essential Low-Budget Tools for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/personalized-approaches-to-video-quality-enhancement/"><u>Personalized Approaches to Video Quality Enhancement</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015506410-quick-fixes-for-non-working-voice-chat-in-fortnite-get-back-to-gaming-now/"><u>Quick Fixes for Non-Working Voice Chat in Fortnite - Get Back to Gaming Now</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ling-the-ultimate-collection-of-youtube-beauty-experts-for-2024/"><u>Revealing the Ultimate Collection of YouTube Beauty Experts for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-audio-how-to-get-speakers-functioning-in-windows-11/"><u>Reviving Audio: How to Get Speakers Functioning in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/secrets-for-premature-starfield-trial-participation/"><u>Secrets for Premature Starfield Trial Participation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-razer-microphone-problems-with-these-easy-to-follow-steps/"><u>Solve Razer Microphone Problems with These Easy-to-Follow Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016778856-solve-your-anthem-games-sound-issues-on-windows-10-here/"><u>Solve Your Anthem Game's Sound Issues on Windows 10 Here</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-solve-your-rust-microphone-issues/"><u>Ultimate Troubleshooting: Solve Your Rust Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/win1011-no-response-from-epson-printer/"><u>Win10/11, No Response From Epson Printer</u></a></li>
+</ul></div>
 

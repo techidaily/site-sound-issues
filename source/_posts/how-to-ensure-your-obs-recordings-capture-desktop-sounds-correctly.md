@@ -1,7 +1,7 @@
 ---
 title: How To Ensure Your OBS Recordings Capture Desktop Sounds Correctly
-date: 2024-08-18T08:13:13.807Z
-updated: 2024-08-19T08:13:13.807Z
+date: 2025-01-07T16:43:02.484Z
+updated: 2025-01-10T22:15:16.812Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
 ![obs desktop audio not working](https://images.drivereasy.com/wp-content/uploads/2020/10/featur-image.jpg)
 
  OBS is a popular and powerful tool that packs a variety of features for video recording and live streaming. However, it’s not immune to bugs. Some users complains the desktop audio stopped working or recording in OBS for no reason. If you encounter the same problem, don’t worry. We’ve covered 6 effective fixes to help you solve the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -40,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/0-0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click the**speaker icon** under OBS to unmute this application.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/0-2.jpg)
@@ -60,23 +68,18 @@ Now see if OBS desktop audio comes back. If not, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-2-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Right-click any empty space and tick**Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 **4)** In the Playback tab, click the device (speaker or headset) you’re using and click**Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **5)** Click the device and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4-5.jpg)
@@ -85,20 +88,18 @@ Now see if OBS desktop audio comes back. If not, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-5-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **7)** Select the**Advanced** tab, and untick**Allow applications to take exclusive control of this device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **8)** Click**OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 **9)** Click your audio device and click**Configure** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-8-1.jpg)
@@ -111,9 +112,6 @@ Now see if OBS desktop audio comes back. If not, try the next fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3 – Tweak OBS audio settings
 
  If you’ve set everything up on PC but still fail to bring back the desktop audio, you should take a look at the audio settings in OBS and make sure to select the proper devices.
@@ -124,6 +122,10 @@ Now see if OBS desktop audio comes back. If not, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Audio** on the left pane. Then, select**Stereo** next to Channels.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-3-1.jpg)
@@ -132,14 +134,14 @@ Now see if OBS desktop audio comes back. If not, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/mIv00M.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now that you’ve made the tweaks, see if OBS desktop audio works the right way. If the no audio issue persists, keep reading to find out more solutions.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Fix 4 – Remove other programs for audio control
 
  If you’ve installed other audio-related programs such as Nahimic, they will possibly conflict with OBS and thus cause the desktop audio not working issue. Many users also reported that Realtek Gaming Software and Razer Synapse will interfere with OBS.
@@ -149,8 +151,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5 – Update your audio driver
 
  If you constantly bump into audio issues when using OBS, chances are that your audio driver is faulty or outdated. To make sure the audio works as expected when recording with OBS or other applications, you should always keep your audio driver up-to-date.
@@ -169,6 +172,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the**Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
@@ -184,9 +191,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6 – Reinstall OBS
 
  If none of the fixes above restores your OBS desktop audio, consider a full reinstall of OBS to fix any in-depth program issues. Here is how:
@@ -200,8 +204,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-2-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Download OBS from the **[official website](https://obsproject.com/)**  and install it on your computer again.
 
  The newly-installed OBS Studio is expected to work perfectly and give you the optimum live-streaming and screen-recording experience.
@@ -221,8 +226,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -230,4 +233,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-circles-vs-cubes-unraveling-camera-types/"><u>[New] In 2024, Circles vs Cubes Unraveling Camera Types</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-efficient-broadcast-techniques-incorporating-youtube-loops-on-tv/"><u>[New] In 2024, Efficient Broadcast Techniques Incorporating YouTube Loops on TV</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-premiers-choice-the-very-best-12-gps-integrated-camcorders/"><u>[New] Premier's Choice The Very Best 12 GPS-Integrated Camcorders</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-treasure-trove-of-budget-friendly-digital-artistry-tools/"><u>[Updated] A Treasure Trove of Budget-Friendly Digital Artistry Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-achieving-stable-images-in-action-cams-unsteady-world/"><u>[Updated] Achieving Stable Images in Action Cam's Unsteady World</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/apex-legends-volume-malfunction-heres-how-you-can-restore-game-sounds/"><u>Apex Legends Volume Malfunction? Here's How You Can Restore Game Sounds!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-you-play-mp4-on-xiaomi-redmi-note-13-pro-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can you play MP4 on Xiaomi Redmi Note 13 Pro 5G?</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-5-effective-ways-for-improved-mac-game-experience/"><u>Explore 5 Effective Ways for Improved Mac Game Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/lucidsound-ls3t-mic-malfunction-heres-your-step-by-step-guide-to-fixing-it/"><u>LucidSound LS3t Mic Malfunction? Here's Your Step-by-Step Guide to Fixing It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-soundscape-a-guide-to-addressing-fortnites-muted-challenges/"><u>Restore Soundscape: A Guide to Addressing Fortnite's Muted Challenges</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016648946-trouble-with-team-communication-get-your-league-of-legends-voice-chat-working-again/"><u>Trouble with Team Communication? Get Your League of Legends Voice Chat Working Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-sound-issues-fixed-instantly-restore-your-volume/"><u>Windows 11 Sound Issues Fixed! Instantly Restore Your Volume</u></a></li>
+</ul></div>
 

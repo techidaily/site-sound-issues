@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: How to Restore Your Redragon Headset Mic Functionality on Computer"
-date: 2024-08-18T08:08:32.591Z
-updated: 2024-08-19T08:08:32.591Z
+date: 2025-01-06T18:56:09.153Z
+updated: 2025-01-10T23:42:01.628Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/5a6b81e19407a604be22bf69df443b0f8b7b5bc4d
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-98.png)
 
  The mic of your Razer ManO’War headset stops working for no reason? Well, that’s pretty infuriating – especially when you’re immersing in a multiplayer video game and all of a sudden, the mic refuses to transmit your voice or produce sound. Luckily, you’re not the only one here as many other disgruntled users reported the same problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 fixes for Razer ManO’War mic not working
 
@@ -47,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/5a6b81e19407a604be22bf69df443b0f8b7b5bc4d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-103.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click to highlight**Razer ManO’War** , then click**Set Default > Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-115.png)
@@ -57,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/5a6b81e19407a604be22bf69df443b0f8b7b5bc4d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-106.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the**Levels** tab, see if your mic is muted. In case it is (as shown in the following screenshot), click on the little speaker icon to unmute your mic. On completion, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-116.png)
@@ -65,13 +77,14 @@ thumbnail: https://thmb.techidaily.com/5a6b81e19407a604be22bf69df443b0f8b7b5bc4d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-117.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now check to see if your Razer ManO’War mic is working properly. If it isn’t, please move on to**Fix 2** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Modify Privacy settings
 
  There’s a possibility that your privacy settings related to the microphone has been reset after a Windows Update or other system events. If so, some programs (e.g. a video game) might be forbidden to access your mic. Here’s how to check and modify these settings:
@@ -80,25 +93,27 @@ thumbnail: https://thmb.techidaily.com/5a6b81e19407a604be22bf69df443b0f8b7b5bc4d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-365.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) On the**Microphone** tab, in the results pane, click **Change** to see if**Microphone access for this device** is toggled on. If it isn’t, make sure you toggle it on.
 
  Right below you’ll see another toggle for **Allow apps to access your microphone** . Also remember to turn it on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-368.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Scroll down and head to the part of **Choose which apps can access your microphone** . Make sure you**toggle on** the apps in which you want to use the mic.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 If this fix didn’t help, please try out the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall Razer Synapse
 
@@ -116,6 +131,10 @@ If this fix didn’t help, please try out the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-110.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**View software, drivers and updates for download >** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-111.png)
@@ -124,16 +143,10 @@ If this fix didn’t help, please try out the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-114.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After downloading the correct file, install it on your PC. Then, launch Razer Synapse and configure the settings for your Razer ManO’War mic. Check to see whether your mic has gone back to normal; if it hasn’t, then please give the next fix a shot.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### Fix 4: Update your device drivers
 
  Sometimes an out-dated or corrupt device driver (e.g., audio drivers, CPU drivers) may give rise to the mic-not-working issue. The reasons can hardly be elaborated, but chances are your Razer ManO’War mic may be messed up with its drivers or those of other hardware components. If you’re not sure whether all your device drivers are up-to-date, you should check.
@@ -150,6 +163,10 @@ If this fix didn’t help, please try out the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-07-15_14-27-17.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your audio driver for now, simply click the **Update**  button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-7.png)
@@ -160,9 +177,6 @@ If this fix didn’t help, please try out the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Check for hardware malfunction
 
  If none of the above fixes work, you should do some basic check and find out whether your Razer ManO’War mic fails. Here’s something you may need to do:
@@ -187,8 +201,6 @@ If this fix didn’t help, please try out the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +208,24 @@ If this fix didn’t help, please try out the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-muting-background-noise-in-skype-sessions/"><u>[Updated] Muting Background Noise in Skype Sessions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/2019-update-instagram-video-quality-and-resolution-explained/"><u>2019 Update: Instagram Video Quality and Resolution Explained</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-realme-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetooth-sound-latency-overcome-it-fast-and-with-ease/"><u>Bluetooth Sound Latency? Overcome It Fast and With Ease!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-honor-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Honor .</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-restore-sound-fixing-headphone-issues-in-windows-7/"><u>Expert Tips to Restore Sound - Fixing Headphone Issues in Windows 7</u></a></li>
+<li><a href="https://discover-community.techidaily.com/flac-vs-mp3-scontro-diretto-capire-le-distinzioni-chiave-e-scegliere-il-meglio/"><u>FLAC vs MP3 Scontro Diretto: Capire Le Distinzioni Chiave E Scegliere Il Meglio</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-firefox-back-on-track-a-guide-to-overcoming-unresponsiveness-8-tips-included/"><u>Get Firefox Back on Track: A Guide to Overcoming Unresponsiveness (8 Tips Included)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-microphone-back-in-action-on-the-steelseries-arctis-prime-headset/"><u>Getting Your Microphone Back in Action on the SteelSeries Arctis Prime Headset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/headset-mic-trouble-expert-tips-to-get-you-back-on-audio-track/"><u>Headset Mic Trouble? Expert Tips to Get You Back on Audio Track</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-enable-and-test-audio-output-for-successful-zoom-communication-on-laptopdesktop/"><u>How to Enable and Test Audio Output for Successful Zoom Communication on Laptop/Desktop</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-resize-photos-on-an-iphone-for-2024/"><u>How to Resize Photos on an iPhone for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-f34-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy F34 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015617248-quick-and-easy-mic-check-techniques-expert-tips-on-testing-your-microphone/"><u>Quick and Easy Mic Check Techniques - Expert Tips on Testing Your Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solutions-for-fixing-non-functional-microphones-in-windows-11/"><u>Solutions for Fixing Non-Functional Microphones in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streaming-seamlessly-a-step-by-step-guide-on-broadcasting-zoom-sessions-to-your-television/"><u>Streaming Seamlessly: A Step-by-Step Guide on Broadcasting Zoom Sessions to Your Television</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-isnt-my-logitech-g533-mic-working-diagnosing-and-repairing-common-errors/"><u>Why Isn't My Logitech G533 Mic Working? Diagnosing & Repairing Common Errors</u></a></li>
+</ul></div>
 

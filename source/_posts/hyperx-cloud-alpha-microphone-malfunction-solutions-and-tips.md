@@ -1,7 +1,7 @@
 ---
 title: "HyperX Cloud Alpha Microphone Malfunction: Solutions & Tips"
-date: 2025-01-01T16:19:16.583Z
-updated: 2025-01-04T03:16:01.219Z
+date: 2025-01-05T23:59:42.263Z
+updated: 2025-01-10T21:07:52.626Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -51,6 +47,10 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
 3. Right-click your**Corsair Virtuoso** and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
 4. Go to the**Levels** tab and drag the slider to a proper volume.  
 
@@ -58,6 +58,10 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 5. Click**OK** .
 
  Now you can test your microphone by recording your own voice using some voice apps such as Voice Recorder. If the Virtuoso mic works now, you can just join a league and enjoy talking with your teammates. But if the Corsaire mic is still not working, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Re-installing drivers
 
@@ -79,11 +83,15 @@ There are mainly two ways for you to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/gaming-headset.jpg)
 4. Reboot your PC for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance or the issue persists after updating all the drivers, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Change to DVD quality
@@ -94,29 +102,21 @@ There are mainly two ways for you to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings.jpg)
 2. In the**Input** section, click**Device properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/device.jpg)
 3. Click**Additional device properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/additional.jpg)
 4. Go to the**Advanced** tab, and select**DVD Quality** in the**Default Format** section. ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-format.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Let Windows find the problem for you
 
@@ -151,22 +151,24 @@ There are mainly two ways for you to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-public-domain-zen-soundscape/"><u>[New] In 2024, Public Domain Zen Soundscape</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-best-20-facebook-jail-memes-to-brighten-up-your-day-filmora-for-2024/"><u>[Updated] Best 20 Facebook Jail Memes to Brighten Up Your Day - Filmora for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-premier-playwrights-lair-for-2024/"><u>[Updated] Premier Playwright's Lair for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/ensuring-full-visibility-for-system-startups/"><u>Ensuring Full Visibility for System Startups</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-issues-with-headphones-on-windows-7-computers/"><u>How to Fix Audio Issues with Headphones on Windows 7 Computers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-logitech-g-pro-x-cracking-popping-noise-on-pc-2024-tips/"><u>How to Fix Logitech G Pro X Cracking/ Popping Noise on PC - 2024 Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-microphone-issues-in-microsoft-teams-a-guide-for-windows-11-and-10-users/"><u>How to Fix Microphone Issues in Microsoft Teams: A Guide for Windows 11 and 10 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-microphone-problems-with-your-razer-barracuda-x-in-windows-1110/"><u>How to Resolve Microphone Problems with Your Razer Barracuda X in Windows 11/10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-your-microphone-functionality-on-zoom-in-windows-1011-computers/"><u>How to Restore Your Microphone Functionality on Zoom in Windows 10/11 Computers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/key-audio-enhancement-tools-for-social-media-experts-for-2024/"><u>Key Audio Enhancement Tools for Social Media Experts for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/league-of-legends-voice-chat-malfunction-discover-the-fixes-that-worked-for-others/"><u>League of Legends Voice Chat Malfunction? Discover the Fixes That Worked for Others!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-discord-gaming-sound-a-guide-to-capturing-and-playing-game-audio-correctly/"><u>Mastering Discord Gaming Sound: A Guide to Capturing and Playing Game Audio Correctly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-squad-voice-chat-a-complete-solution-for-non-responsive-mics/"><u>Mastering Squad Voice Chat: A Complete Solution for Non-Responsive Mics</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-free-art-online-a-guide-and-top-sites/"><u>Navigating Free Art Online A Guide & Top Sites</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/samsung-usb-driver-update-procedure-how-to-get-it-right-for-your-smartphone/"><u>Samsung USB Driver Update Procedure – How To Get It Right For Your Smartphone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/singapore-airlines-enhances-inflight-experience-with-complimentary-limitless-internet-access-for-all-passengers/"><u>Singapore Airlines Enhances Inflight Experience with Complimentary Limitless Internet Access for All Passengers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-a-non-functional-mic-in-windows-10/"><u>Troubleshooting Guide: Fixing a Non-Functional Mic in Windows 10</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-innovate-or-fall-behind-rejuvenating-your-tiktok-videos-using-mac-techniques/"><u>[New] 2024 Approved Innovate or Fall Behind Rejuvenating Your TikTok Videos Using Mac Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-prime-selections-of-maximum-digital-safekeeping/"><u>[New] 2024 Approved Prime Selections of Maximum Digital Safekeeping</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-ultimate-guide-to-mobile-video-capture/"><u>[New] 2024 Approved The Ultimate Guide to Mobile Video Capture</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-midnight-guardian-vs-sunlit-sentinel-for-2024/"><u>[Updated] Midnight Guardian Vs Sunlit Sentinel for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-resolving-fb-message-app-video-not-sending-error-on-mobile-devices-for-2024/"><u>[Updated] Resolving FB Message App Video Not Sending Error on Mobile Devices for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/achieving-cross-platform-messaging-integrating-imessage-into-android/"><u>Achieving Cross-Platform Messaging: Integrating iMessage Into Android</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017016972-astro-a50-no-audio-problem-heres-how-to-rectify-it-fast/"><u>Astro A50 No Audio Problem? Here’s How to Rectify It Fast!</u></a></li>
+<li><a href="https://facebook.techidaily.com/earn-big-with-these-5-facebook-and-instagram-hacks/"><u>Earn Big with These 5 Facebook and Instagram Hacks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-menace-black-ops-cold-war-pc-troubleshooting-guide/"><u>Fixing the Silent Menace: Black Ops Cold War PC Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-unlisted-headphone-devices-during-audio-playback-on-windows-10/"><u>How to Fix Unlisted Headphone Devices During Audio Playback on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-an-unresponsive-astro-a2/"><u>How to Repair an Unresponsive Astro A2</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-problems-when-your-lucidsound-ls30-mic-fails-to-work/"><u>How to Resolve Problems When Your LucidSound LS30 Mic Fails to Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/optimizing-your-pcs-audio-settings-on-windows-11-tips-and-tricks/"><u>Optimizing Your PC's Audio Settings on Windows 11: Tips & Tricks</u></a></li>
+<li><a href="https://windows11.techidaily.com/photography-made-hassle-free-troubleshooting-windows-camera/"><u>Photography Made Hassle-Free: Troubleshooting Windows Camera</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-laptops-silent-symphony-easy-fixes-for-internal-speaker-issues/"><u>Revive Your Laptop's Silent Symphony - Easy Fixes for Internal Speaker Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-dolby-on-windows-11-start-the-dolby-audio-driver-now-step-by-step-solution/"><u>Trouble with Dolby on Windows 11? Start the Dolby Audio Driver Now - Step by Step Solution</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/troubleshooting-how-to-fix-your-unresponsive-keyboard-and-mouse-expert-tips-from-yl-computing/"><u>Troubleshooting: How to Fix Your Unresponsive Keyboard and Mouse - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722975084354-ultimate-guide-to-lenovo-x260-thinkpad-driver-updates-for-windows-10-secure-your-system-now/"><u>Ultimate Guide to Lenovo X260 (ThinkPad) Driver Updates for Windows 10 - Secure Your System Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unresponsive-nvidia-output-errors-expert-ways-to-get-your-graphics-card-back-online/"><u>Unresponsive Nvidia Output Errors? Expert Ways to Get Your Graphics Card Back Online</u></a></li>
 </ul></div>
 

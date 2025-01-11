@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Correcting Sound Lag
-date: 2024-08-18T08:10:41.938Z
-updated: 2024-08-19T08:10:41.938Z
+date: 2025-01-09T20:09:10.453Z
+updated: 2025-01-10T16:54:20.467Z
 tags:
   - win11
   - win10
@@ -39,11 +39,12 @@ thumbnail: https://thmb.techidaily.com/497e0cf4a494c643d111720df0c9d81e356ffb488
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hx-product-headset-alpha-s-black-2-lg-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’ve attached the microphone to your headset correctly but your mic still won’t catch your voice, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Enable your headset mic for recording
 
  When your microphone doesn’t have access to your PC to record your audio, it won’t work. Here’s how to enable your headset mic:
@@ -53,27 +54,20 @@ thumbnail: https://thmb.techidaily.com/497e0cf4a494c643d111720df0c9d81e356ffb488
 2. Go to the**Recording** tab and you should see your headset. If you can’t find it, it could be hidden or disabled. You can right-click an empty area then select Show**Disabled Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_16-57-37.jpg)
 3. Right-click your headset, then click**Enable** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-05-17.jpg)
-4. Click**Apply** then**OK** .  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-06-58.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-05-17.jpg)
+4. Click**Apply** then**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-06-58.jpg)
+
  If your headset is enabled for recording but the microphone is still not working, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Set your headset as the audio input device
 
@@ -84,15 +78,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. **Select your headset as the input device** . It could be shown as HyperX Cloud Alpha S or Headset.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/set-input-device.jpg)
 3. Test your microphone.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your headset is set as the input device but the mic still won’t work, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Turn on the mic access on your PC
 
  If you’ve tried the above fixes but nothing worked, then the problem may be on your PC. You may need to check if the microphone access on your PC is enabled. Here’s now:
@@ -105,8 +101,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 If this doesn’t fix your mic problem, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Update your audio driver
 
  A faulty or outdated audio could lead to mic problems on your PC. If your mic is down, you may want to check your audio driver to make sure it’s up-to-date and functioning properly.
@@ -125,9 +122,6 @@ If this doesn’t fix your mic problem, try the next fix.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-54-43.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
  Hopefully this article solves your problem and you can now use your HyperX Cloud Alpha S for voice chatting or recording! Please feel free to leave a comment if you have any suggestions or questions.
@@ -142,8 +136,6 @@ If this doesn’t fix your mic problem, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +143,21 @@ If this doesn’t fix your mic problem, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-firecapture-pro-for-ff/"><u>[Updated] FireCapture Pro for FF</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-inside-the-world-of-ustream-plus-alternatives/"><u>[Updated] Inside the World of Ustream, Plus Alternatives</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pro-video-editing-tools-on-your-phone/"><u>[Updated] Pro Video Editing Tools on Your Phone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-becoming-part-of-the-global-community-your-guide-to-facebook/"><u>2024 Approved Becoming Part of the Global Community Your Guide to Facebook</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-leading-ipad-voice-recorders-1-2-3/"><u>2024 Approved Leading iPad Voice Recorders #1, #2, #3</u></a></li>
+<li><a href="https://win-help.techidaily.com/can-you-design-and-create-your-custom-book-cover-using-flipbuildercoms-tools/"><u>Can You Design and Create Your Custom Book Cover Using FlipBuilder.com's Tools?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/continuous-sound-problems-in-windows-10-discover-proven-fixes-now/"><u>Continuous Sound Problems in Windows 10? Discover Proven Fixes Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-non-functioning-logitech-webcam-audio/"><u>Effective Fixes for Non-Functioning Logitech Webcam Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-guide-resolving-windows-7-sound-problems-efficiently/"><u>Expert Guide: Resolving Windows 7 Sound Problems Efficiently</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014172283-how-to-fix-hp-scanner-not-working-2022-tips/"><u>How to Fix HP Scanner Not Working - 2022 Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-when-your-laptops-headphone-input-fails-to-work/"><u>Solution Steps When Your Laptop's Headphone Input Fails to Work</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-se-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone SE Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/turn-up-the-volume-on-your-gameplay-eliminating-audio-silence-in-battlefield-4/"><u>Turn Up the Volume on Your Gameplay: Eliminating Audio Silence in Battlefield 4</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unfreeze-your-strategy-tackling-cold-war-stuck-screens-in-video-game-consoles-and-computers/"><u>Unfreeze Your Strategy: Tackling 'Cold War' Stuck Screens in Video Game Consoles and Computers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Corsair HS70 Mic Woes? Here's How to Get It Working Perfectly Again
-date: 2024-12-28T18:22:02.571Z
-updated: 2025-01-03T20:39:15.606Z
+date: 2025-01-07T20:17:06.036Z
+updated: 2025-01-10T23:00:04.462Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ If your Corsair HS70 Mic Stopped Working on Windows, don’t worry. You can use 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow access to your microphone
 
  If your microphone is not allowed to access on your computer, you can’t use it properly. So first, check if it’s allowed to access on your computer. If it’s not allowed to access, configure the setting to make it work.
@@ -51,7 +55,7 @@ To do this, you can follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-146.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Microphone** .
@@ -72,15 +76,7 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-160.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Check your microphone device settings
 
@@ -95,7 +91,7 @@ To do this, you can follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-161.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) In Control Panel, View by**Large icons** .
@@ -106,10 +102,6 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-163.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Select the**Recording** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-164.png)
@@ -117,6 +109,10 @@ To do this, you can follow these steps:
  If you see microphone is disabled,**right click the device** and select**Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-165.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you don’t see microphone in the device list, you need to show it first, then enable it manually.
 
@@ -128,29 +124,29 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-167.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Right click the microphone again and select**Set as Default Device** .
 
  7) Select the microphone and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-168.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8) Click the**Levels** tab, and drag the volume slider to the top.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-169.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  9) Click**OK** \->**OK** .
 
 10) Check to see if your Corsair HS70 mic is working.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio drivers
 
@@ -168,21 +164,25 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-142.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged audio driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-143.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  After updating the driver, restart your computer and check to see if your Corsair HS70 mic is working.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -215,17 +215,19 @@ To do this, you can follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/he-economics-of-earning-via-youtube/"><u>[New] The Economics of Earning via YouTube</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-restore-your-epson-scanning-capabilities-on-windows-11/"><u>[SOLVED] Restore Your Epson Scanning Capabilities on Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/apples-next-big-thing-in-transportation-rumored-details-on-electric-vehicle-cost-timeline-and-technical-features/"><u>Apple's Next Big Thing in Transportation: Rumored Details on Electric Vehicle Cost, Timeline & Technical Features</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-how-to-access-insta-views-for-free-no-login-needed/"><u>Discover How to Access Insta Views for Free – No Login Needed!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016424304-getting-your-modern-warfare-voice-chat-up-and-running-again-solutions-inside/"><u>Getting Your Modern Warfare Voice Chat Up and Running Again – Solutions Inside</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-audio-interruptions-in-bluetooth-connections-on-windows-11-computers/"><u>How to Resolve Audio Interruptions in Bluetooth Connections on Windows 11 Computers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-y78plus-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo Y78+ for Free? | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-top-picks-8-mirrorless-cameras-that-shine-in-vlogs/"><u>In 2024, Top Picks 8 Mirrorless Cameras That Shine in Vlogs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-how-to-restore-speakers-on-an-hp-laptop-running-windows-10/"><u>Resolved: How to Restore Speakers on an HP Laptop Running Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-missing-sound-outputs-guides-for-windows-7-10-users/"><u>Troubleshooting Missing Sound Outputs: Guides for Windows 7-10 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/tutorial-reducing-microsofts-compatibility-telemetry-impact-on-hard-drive-space-usage-for-windows-10-users/"><u>Tutorial: Reducing Microsoft's Compatibility Telemetry Impact on Hard Drive Space Usage for Windows 10 Users</u></a></li>
-<li><a href="https://facebook.techidaily.com/unlocking-secrets-how-to-use-friendly-feedback-tools/"><u>Unlocking Secrets: How to Use Friendly Feedback Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-beyond-basic-usage-mastering-instagrams-interrogation-icon-for-2024/"><u>[Updated] Beyond Basic Usage Mastering Instagram's Interrogation Icon for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-capture-and-share-saving-your-ppt-sessions/"><u>[Updated] In 2024, Capture and Share Saving Your PPT Sessions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-eliminate-your-streaming-darkness-on-youtube/"><u>[Updated] In 2024, Eliminate Your Streaming Darkness on YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-listensmart-beyond-dacast-choices/"><u>[Updated] In 2024, ListenSmart Beyond DaCast Choices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-laptop-speaker-issues-solutions-to-restore-audio/"><u>Fixing Laptop Speaker Issues: Solutions to Restore Audio</u></a></li>
+<li><a href="https://win-top.techidaily.com/guide-complet-proteger-votre-configuration-raid-0-en-4-facilement-et-sans-cout/"><u>Guide Complet: Protéger Votre Configuration RAID 0 en 4 Facilement Et Sans Coût</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-apple-iphone-15-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 15 Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-windows-11-audio-troubleshooting-for-crystal-clear-sound/"><u>Mastering Windows 11 Audio Troubleshooting for Crystal Clear Sound</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/memorial-day-savings-alert-secure-the-razer-blade-15-laptop-at-an-unbeatable-price-of-only-800-at-walmart-tech-news-from-zdnet/"><u>Memorial Day Savings Alert: Secure the Razer Blade 15 Laptop at an Unbeatable Price of Only $800 at Walmart - Tech News From ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-oneplus-12-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from OnePlus 12</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-windows-11-mic-problems-with-these-simple-tips/"><u>Resolve Your Windows 11 Mic Problems with These Simple Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014940856-troubleshoot-and-repair-your-runmux-gamers-mic-to-get-back-in-action/"><u>Troubleshoot & Repair Your RunmuX Gamer's Mic to Get Back in Action!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/webex-microphone-problems-here-are-4-effective-fixes-for-2/"><u>Webex Microphone Problems? Here Are 4 Effective Fixes for 2지정</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-itel-p40-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Itel P40? | Dr.fone</u></a></li>
 </ul></div>
 

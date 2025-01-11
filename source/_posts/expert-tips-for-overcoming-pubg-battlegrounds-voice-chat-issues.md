@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Overcoming PUBG Battlegrounds' Voice Chat Issues
-date: 2024-12-31T19:00:35.724Z
-updated: 2025-01-03T19:10:04.117Z
+date: 2025-01-07T23:27:17.685Z
+updated: 2025-01-10T21:48:36.242Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/9ed4d2a342c503dc1182b48b6f97e1914eb836100
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other Fortnite players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -44,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/9ed4d2a342c503dc1182b48b6f97e1914eb836100
  This is the quickest and easiest fix to try when chat’s not working in Fortnite. Just sign out of the game, then sign back in.
 
  Now run the game again and test to see whether chat is working. If it’s not, move on to Fix 2, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your sound card driver
 
@@ -85,17 +77,21 @@ thumbnail: https://thmb.techidaily.com/9ed4d2a342c503dc1182b48b6f97e1914eb836100
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap912.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4\. Restart the Epic Games Launcher.
 
  5\. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap898.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run Fortnite again to check whether your chat problem has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 4, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Make sure your microphone is on for Fortnite
 
@@ -105,15 +101,19 @@ thumbnail: https://thmb.techidaily.com/9ed4d2a342c503dc1182b48b6f97e1914eb836100
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap427.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2\. Click **Microphone**  on the left pane, and make sure**Microphone access for this device** is**on** , and the status is **On** for **Fortnite** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap428.jpg)
 
-3\. Run Fortnite to see if chat works now. If not, try Fix 5, below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3\. Run Fortnite to see if chat works now. If not, try Fix 5, below.
 
 ### Fix 5: Check your audio settings
 
@@ -130,7 +130,7 @@ thumbnail: https://thmb.techidaily.com/9ed4d2a342c503dc1182b48b6f97e1914eb836100
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap431-1024x576.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 iii. Exit Fortnite.
@@ -139,13 +139,13 @@ iii. Exit Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap432.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Click the **Playback** tab, select the speakers/headphones you’re using and click **Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4\. Click the **Recording** tab, select the microphone you’re using and click **Set Default** .
 
@@ -154,6 +154,10 @@ iii. Exit Fortnite.
  5\. While still in the**Recording** tab, try**speaking into your microphone** to test if it works properly. If it is, you should see some green in the bar on the right:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6\. Click **OK** .
 
@@ -169,16 +173,12 @@ iii. Exit Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap940.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2\. Click**Uninstall** to uninstall Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap950.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3\. Restart your PC.
@@ -210,22 +210,24 @@ iii. Exit Fortnite.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-avoiding-unauthorized-use-mastering-photowatermarking-on-instagram-for-2024/"><u>[New] Avoiding Unauthorized Use Mastering Photowatermarking on Instagram for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-the-digital-landscape-free-tools-for-youtube-audio-to-text/"><u>[Updated] Navigating the Digital Landscape FREE Tools for YouTube Audio to Text</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-mastering-elegant-mosaic-imagery-fusions/"><u>2024 Approved Mastering Elegant Mosaic Imagery Fusions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-websites-to-download-a-youtube-ringtone/"><u>Best Websites To Download A YouTube Ringtone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-to-the-steelseries-arctis-1-mic-failure-challenge/"><u>Effective Solutions to the SteelSeries Arctis 1 Mic Failure Challenge</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-laptop-audio-issues-a-step-by-step-guide-to-restoring-internal-speaker-functionality/"><u>Fixing Laptop Audio Issues: A Step-by-Step Guide to Restoring Internal Speaker Functionality</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-ace-2-pro-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Ace 2 Pro Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-reddit-experts-briefly-meet-at-snapchat/"><u>In 2024, Reddit Experts Briefly Meet at Snapchat</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-poco-x5-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Poco X5</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/noise-free-gaming-effective-fixes-for-eliminating-cyberpunk/"><u>Noise-Free Gaming: Effective Fixes for Eliminating Cyberpunk 지오블테슬리의 소음 깨짐</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016553457-solving-the-silent-mac-dilemma-restore-your-audio-today/"><u>Solving the Silent Mac Dilemma - Restore Your Audio Today</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-issues-with-your-corsair-virtuoso-mic/"><u>Troubleshooting Guide: Solving Issues with Your Corsair Virtuoso Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-fixing-your-steelseries-arctis-1-headset-microphone-issues/"><u>Troubleshooting Tips: Fixing Your SteelSeries Arctis 1 Headset Microphone Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-11-missing-headphone-list-during-audio-playback/"><u>Troubleshooting: Windows 11 Missing Headphone List During Audio Playback</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/valheim-on-pc-sound-troubleshooting-guide-restore-your-audio-experience/"><u>Valheim on PC Sound Troubleshooting Guide - Restore Your Audio Experience</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/which-is-better-an-in-depth-look-at-google-nest-audio-and-nest-mini-features/"><u>Which Is Better? An In-Depth Look at Google Nest Audio and Nest Mini Features</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-nintendo-switch-prime-capture-experience/"><u>[New] 2024 Approved Nintendo Switch Prime Capture Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fading-flourishes-invisible-audio-adjustments-in-garageband/"><u>[New] Fading Flourishes Invisible Audio Adjustments in Garageband</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-10-must-know-tips-for-nba-stream-quality/"><u>[Updated] 2024 Approved 10 Must-Know Tips for NBA Stream Quality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-recovery-tips-for-your-computer-connected-via-hdmi-to-a-monitor-or-television-without-sound-output/"><u>Audio Recovery Tips for Your Computer Connected Via HDMI to a Monitor or Television Without Sound Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015827095-conexant-hd-audio-not-working-in-windows-11-heres-how-to-restore-sound/"><u>Conexant HD Audio Not Working in Windows 11? Here's How to Restore Sound!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-disruptions-in-windows-10-solutions-unveiled/"><u>How to Fix Audio Disruptions in Windows 10: Solutions Unveiled</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-f54-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy F54 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-infinix-note-30-vip-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Infinix Note 30 VIP Phone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-the-comprehensive-guide-to-ultimate-video-editing-vivacut-24-edition/"><u>In 2024, The Comprehensive Guide to Ultimate Video Editing VivaCut '24 Edition</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-honor-x9a-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Honor X9a Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719166387773-navigate-the-digital-labyrinths-with-us/"><u>Navigate the Digital Labyrinths with Us</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/premier-graphics-workstation-laptops-comprehensive-evaluation-and-insights-from-specialists-techradar/"><u>Premier Graphics Workstation Laptops: Comprehensive Evaluation & Insights From Specialists | TechRadar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-mic-check-simple-steps-for-instant-microphone-testing/"><u>Quick Mic Check: Simple Steps for Instant Microphone Testing!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-internal-laptop-speakers-no-more-soundless-screens/"><u>Reviving Internal Laptop Speakers: No More Soundless Screens</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/revolutionizing-remote-work-selecting-the-best-live-streamers-for-2024/"><u>Revolutionizing Remote Work Selecting the Best Live Streamers for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solutions-for-when-blue-yeti-mic-doesnt-detect-or-work-properly/"><u>Solutions for When Blue Yeti Mic Doesn't Detect or Work Properly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solutions-guide-restoring-sound-with-your-desktoplaptop-or-mac-connected-to-an-hdmi-display/"><u>Solutions Guide: Restoring Sound with Your Desktop/Laptop or MAC Connected to an HDMI Display</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-silence-a-guide-to-restoring-your-nvidia-hd-audio-output/"><u>Solving the Silence: A Guide to Restoring Your NVIDIA HD Audio Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-bluetooth-audio-jitter-when-using-windows-11-systems/"><u>Troubleshooting Bluetooth Audio Jitter When Using Windows 11 Systems</u></a></li>
 </ul></div>
 

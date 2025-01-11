@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Repair a Non-Functional Razer ManO’War Mic
-date: 2024-08-18T08:11:24.599Z
-updated: 2024-08-19T08:11:24.599Z
+date: 2025-01-07T16:34:36.893Z
+updated: 2025-01-10T22:13:42.230Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/30033eb1d439e3a5ccb9587805c5084ce6ce6344b
 
  Is your**Logitech G430 microphone not working** ? You’re not alone. Many people have reported similar issues. But don’t worry, you can**fix the Logitech G430 mic not working** issues.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **How to fix Logitech G430 mic not working**
 
  If you didn’t mute the mic, if you’ve troubleshot the hardware and tried plugging your headset into different USB ports but your mic is still not working, try the solutions below:
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/30033eb1d439e3a5ccb9587805c5084ce6ce6344b
 4. [**Reinstall Logitech Game Software**](https://tools.techidaily.com/drivereasy/download/)
 
  Note: the screenshots below come from Windows 10, and the fixes also work on Windows 8 and Windows 7.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 1: Allow access to microphone (for Windows 10 users)**
 
@@ -49,8 +57,9 @@ thumbnail: https://thmb.techidaily.com/30033eb1d439e3a5ccb9587805c5084ce6ce6344b
  Re-plug your microphone again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 2: Update your audio driver**
 
  A missing or outdated audio driver in your computer can cause your Logitech G430 mic not working, so you should verify and keep your audio driver up to date.
@@ -72,9 +81,9 @@ thumbnail: https://thmb.techidaily.com/30033eb1d439e3a5ccb9587805c5084ce6ce6344b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd5faedb2b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged sound card to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **_Update All_** ).
@@ -90,9 +99,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  If your issue still persists, don’t worry. We have other solutions for you to try.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 3: Check your sound settings**
 
  Your Logitech G430 mic may not work because it’s disabled or not set as the default device for your Windows computer. Follow the steps below to check your sound settings:
@@ -104,6 +110,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  2) Click the**Playback** tab, and make sure to set your microphone to**Default** **Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd33128459.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Recording** tab, then right click on any empty area inside the device list and select**Show** **Disabled** **Devices** .
 
@@ -118,16 +128,13 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6275be6bfc9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  6) Right click your microphone, and click**Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62766a93d1c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
  7) Click the**Levels** tab, and drag the volume slider to**maximum** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6278bfe07b0.png)
@@ -138,9 +145,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Still no luck? Okay, there’s one more thing to try.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 4: Reinstall Logitech Game Software**
 
  This is tricky but it works for many people who have similar issues. So you can give it a try.
@@ -160,8 +164,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +171,26 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-the-power-of-batched-video-extraction-from-tiktok/"><u>[New] Unlocking the Power of Batched Video Extraction From TikTok</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-disable-audio-enhancements-in-windows-11/"><u>[SOLVED] Disable Audio Enhancements in Windows 11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-sharpen-aesthetic-focus-learning-border-techniques-for-insta-videos/"><u>[Updated] In 2024, Sharpen Aesthetic Focus Learning Border Techniques for Insta-Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-taking-charge-of-your-visual-brand-identity/"><u>[Updated] In 2024, Taking Charge of Your Visual Brand Identity</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-peak-creativity-youtube-fellowship/"><u>2024 Approved Peak Creativity YouTube Fellowship</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/5-fast-and-effective-ways-to-get-your-oculus-rift-s-microphone-up-and-running-again/"><u>5 Fast and Effective Ways to Get Your Oculus Rift S Microphone Up & Running Again !</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/biometrics-failure-no-signal-detected/"><u>Biometrics Failure: No Signal Detected</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-knowledge-using-windows-canary-channels/"><u>Essential Knowledge: Using Windows Canary Channels</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-windows-7-microphone-issues-comprehensive-solutions-unveiled/"><u>Fixing Windows 7 Microphone Issues: Comprehensive Solutions Unveiled</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-voip-problems-in-valorant-game-chat/"><u>How to Resolve VoIP Problems in VALORANT Game Chat</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Motorola Moto G23? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/maximize-your-speakers-power-the-ultimate-tricks-for-higher-volume-on-windows-11/"><u>Maximize Your Speakers' Power: The Ultimate Tricks for Higher Volume on Windows 11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/premier-streamers-ultimate-concert-selection-for-2024/"><u>Premier Streamers Ultimate Concert Selection for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-and-precise-mic-auditing-techniques-to-ensure-high-quality-recordings/"><u>Quick & Precise Mic Auditing Techniques to Ensure High-Quality Recordings</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-the-unresponsive-microphone-problem-in-steelseries-arctis-pro-headsets/"><u>Resolving the Unresponsive Microphone Problem in SteelSeries Arctis Pro Headsets</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/select-your-perfect-outro-soundtrack-online-for-free/"><u>Select Your Perfect Outro Soundtrack Online For Free</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-dilemma-getting-your-lucidsound-ls30-mic-back-online/"><u>Solving the Dilemma: Getting Your LucidSound LS30 Mic Back Online</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/irst-timers-blueprint-for-youtube-income/"><u>The First-Timer's Blueprint for YouTube Income</u></a></li>
+<li><a href="https://article-posts.techidaily.com/top-6-networks-transforming-how-firms-connect-and-engage-for-2024/"><u>Top 6 Networks Transforming How Firms Connect and Engage for 2024</u></a></li>
+</ul></div>
 

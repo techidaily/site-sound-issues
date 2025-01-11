@@ -1,7 +1,7 @@
 ---
 title: Headphone Troubles? Stop the Crackle - Simple Fixes Inside!
-date: 2024-08-18T08:11:04.554Z
-updated: 2024-08-19T08:11:04.554Z
+date: 2025-01-07T19:00:31.093Z
+updated: 2025-01-10T23:14:08.474Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/b1a9c7a0993599ed99b0e206dce7f79b24d1d4811
 ## Headphone Problems? Erase That Crackling in Seconds with Easy Fixes
 
 Having a headphone crackling problem? You’re certainly not alone. But don’t worry, it can be quite easy to fix…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 fixes for Headphones Crackling
 
@@ -43,9 +47,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **Fix 2: Disable Exclusive Mode and change the sound format**
 
  Having **Exclusive Mode**   on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the **crackling or popping sound** in headphone  problem. To disable **Exclusive Mode** :
@@ -57,18 +58,23 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Advanced** tab, un-check **the box** before **Allow applications to take exclusive control of this device** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
  4) Play some music and check if the sound coming through is noise-free now. If not, continue with **5)** to **change the audio format** .
 
  5) Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Hopefully the popping/crackling sound in your headphone problem has gone by now. If not, you might also want to change it to other audio formats to see if it works.
 
@@ -76,10 +82,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your audio driver
 
  This problem may occur if you are using the wrong audio driver or it’s out of date. So you should update your audio driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -92,9 +94,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/IntelR-Display-Audio.jpg)
 4. Restart your computer, play some audio through your headphone to see if this nasty crackling noise has been resolved. If yes, then great! If it’s still happening, move on to **Fix 4**  , below.
 
@@ -107,20 +106,22 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Depending on the build of your Windows, you might also see **On battery** and **Plugged in**  in **Setting (%)** . Change both values to **100** and click **OK** .
 
  5) Restart your computer and test the audio on your headphone to see if all these pops and crackles have disappeared.
@@ -139,8 +140,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +147,26 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-snapit-share-it-in-order-on-ig/"><u>[New] 2024 Approved SnapIt, Share It in Order on IG</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-insta-angle-alchemy-crafting-content-with-a-twist-for-maximum-impact/"><u>2024 Approved Insta-Angle Alchemy Crafting Content with a Twist for Maximum Impact</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-audio-recording-problems-in-open-broadcaster-software/"><u>Diagnosing & Fixing Audio Recording Problems in Open Broadcaster Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-choices-in-ultrawide-gaming-technology-what-to-buy-in/"><u>Elite Choices in Ultrawide Gaming Technology - What to Buy In</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-corsair-hs35-microphone-functioning-on-a-windows-setup-step-by-step-guide/"><u>Getting Your Corsair HS35 Microphone Functioning on a Windows Setup - Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/immediate-fixes-for-overcoming-lag-issues-in-bluetooth-audio-systems/"><u>Immediate Fixes for Overcoming Lag Issues in Bluetooth Audio Systems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-g310-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia G310 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-pros-playbook-revolutionizing-your-instagram-feed/"><u>In 2024, The Pro's Playbook Revolutionizing Your Instagram Feed</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/innovative-laravel-based-material-ui-react-dashboard-design-by-creative-tim-and-updivision-team/"><u>Innovative Laravel-Based Material UI React Dashboard Design by Creative Tim and UPDIVISION Team</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-late-iphone-text-messaging-discover-these-9-troubleshooting-steps/"><u>Overcoming Late iPhone Text Messaging: Discover These 9 Troubleshooting Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/privacy-controls-are-they-enough-for-chatgpt/"><u>Privacy Controls: Are They Enough for ChatGPT?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-lucidsound-ls30-microphone-a-step-by-step-fix/"><u>Reviving Your LucidSound LS30 Microphone: A Step-by-Step Fix</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015478407-solution-steps-for-world-of-warcraft-voip-problems-get-your-microphone-working/"><u>Solution Steps for World of Warcraft VOIP Problems – Get Your Microphone Working!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-troubleshooting-discords-game-sound-capture-issues/"><u>Solved: Troubleshooting Discord's Game Sound Capture Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-problem-of-sound-output-headphones-disconnected-but-music-played-on-system/"><u>Solved! Problem of Sound Output - Headphones Disconnected, But Music Played on System</u></a></li>
+<li><a href="https://some-tips.techidaily.com/speak-with-synthetic-voices-chromebooks-leading-online-text-to-speech-apps-for-2024/"><u>Speak with Synthetic Voices Chromebook's Leading Online Text-to-Speech Apps for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-fix-for-missing-high-definition-audio-on-nvidia-systems/"><u>The Definitive Fix for Missing High Definition Audio on NVIDIA Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-the-issue-of-bluetooth-connection-with-no-audio/"><u>Troubleshooting Guide: Fixing the Issue of Bluetooth Connection with No Audio</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlock-creativity-try-these-14-text-animation-wonders/"><u>Unlock Creativity Try These 14 Text Animation Wonders</u></a></li>
+</ul></div>
 

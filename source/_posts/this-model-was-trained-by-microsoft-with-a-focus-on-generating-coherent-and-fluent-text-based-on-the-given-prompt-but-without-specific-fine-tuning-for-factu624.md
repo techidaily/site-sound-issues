@@ -1,7 +1,7 @@
 ---
 title: This Model Was Trained by Microsoft with a Focus on Generating Coherent and Fluent Text Based on the Given Prompt, but without Specific Fine-Tuning for Factual Correctness or Nuanced Understanding of Complex Topics
-date: 2024-08-18T08:08:57.951Z
-updated: 2024-08-19T08:08:57.951Z
+date: 2025-01-08T17:49:32.175Z
+updated: 2025-01-10T18:56:17.449Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ Read on and follow the easy-doing images below!
 2. [**Option 2: Change Sound Enhancement Settings**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Option 3: Change Speaker Settings**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1: Try the generic audio driver
 
  Sound keeps cutting out on Windows 10 could relate to problematic audio driver. To see if this is the case, you can try the generic sound driver provided by Windows and see if it works. To do so:
@@ -34,12 +38,22 @@ Read on and follow the easy-doing images below!
 2. Double-click**Sound, video, and game controllers** . Then right-click the audio device driver that you have and choose**Update driver** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a27949ffeb.png)
 3. Choose**Browse my computer for driver software** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28445c675.png)
 4. Then choose**Let me pick from a list of available drivers on my computer** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a286f3d5de.png)
 5. Make sure the box for**Show compatible hardware** is**TICKED** . Then choose**High Definition Audio Device** from the list, and hit**Next** to continue.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28cccfd3f.png)
 6. You will see the warning asking you whether you want to go on with the installation, click**Yes** to continue.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a294398588.png)
 7. Restart your computer when the installation finishes.
 
@@ -57,9 +71,17 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If your computer sound still keeps cutting out, please move on to the next option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 2: Change Sound Enhancement Settings
 
@@ -68,6 +90,11 @@ Read on and follow the easy-doing images below!
 1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
@@ -76,9 +103,6 @@ Read on and follow the easy-doing images below!
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Option 3: Change Speaker Settings
 
  Incorrect speaker settings could also relate to the sound keeping cutting out on Windows 10 issue. To see if this is your case:
@@ -86,30 +110,19 @@ Read on and follow the easy-doing images below!
 1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
-![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
-5. Click**Finish** to end the configuration.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
+5. Click**Finish** to end the configuration.  
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
+
  Try to play audio with your computer again to see if the sound still cuts out.
 
  Hope one of the fixes above helps to fix the sound keeps cutting out on Windows 10 problem for you. If you have any other suggestions, please feel free to leave a comment below.
@@ -124,8 +137,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +144,24 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-impress-with-your-visuals-mastering-podcast-identity/"><u>[New] Impress with Your Visuals Mastering Podcast Identity</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-sharing-authenticity-a-guide-to-personal-youtube-content/"><u>[Updated] Sharing Authenticity A Guide to Personal YouTube Content</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-monetary-scope-of-mr-beasts-ventures/"><u>2024 Approved The Monetary Scope of Mr. Beast’s Ventures</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tless-conversion-youtube-videos-to-mac-ratio-for-2024/"><u>Effortless Conversion Youtube Videos to Mac Ratio for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-common-problems-when-your-steam-microphone-isnt-responding/"><u>Fixing Common Problems When Your Steam Microphone Isn't Responding</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-mpow-mic-issues-troubleshooting-windows-compatibility-problems/"><u>Fixing MPOW Mic Issues: Troubleshooting Windows Compatibility Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-oculus-rift-s-microphone-glitches-quickly-proven-steps/"><u>Fixing Oculus Rift S Microphone Glitches Quickly: Proven Steps</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2641139-9780750957823-haunted-kirkcaldy/"><u>Haunted Kirkcaldy | Free Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-of-a-non-working-logitech-g2-30-mic-expert-advice/"><u>How to Restore Functionality of a Non-Working Logitech G2 30 Mic - Expert Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/repairing-your-turtle-beach-recon-n-common-solutions-for-a-non-functional-mic/"><u>Repairing Your Turtle Beach Recon N: Common Solutions for a Non-Functional Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-turtle-beach-headset-mic-problems-quick-and-easy-solutions/"><u>Resolving Turtle Beach Headset Mic Problems - Quick and Easy Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-overcoming-the-silence-getting-your-corsair-hs35-mic-to-work-on-windows-computers/"><u>Solved! Overcoming the Silence: Getting Your Corsair HS35 Mic to Work on Windows Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/speedy-repairs-needed-heres-how-to-fix-the-microphone-on-your-oculus-rift-s-quickly/"><u>Speedy Repairs Needed? Here's How to Fix the Microphone on Your Oculus Rift S Quickly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trailblazing-judgment-addressing-the-exceptional-legal-challenge-in-case-6s-access-violation-year-2024/"><u>Trailblazing Judgment: Addressing the Exceptional Legal Challenge in Case #6'S Access Violation (Year 2024)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-windows-compatibility-with-csr8510-a10-driver-complete-solution-guide/"><u>Troubleshooting Windows Compatibility with CSR8510 A10 Driver - Complete Solution Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-navigating-and-using-the-internet-archives-wayback-machine/"><u>Ultimate Guide to Navigating and Using the Internet Archive's Wayback Machine</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/route-to-youtube-entrepreneurship-top-10-easy-channels/"><u>Your Route to YouTube Entrepreneurship Top 10 Easy Channels</u></a></li>
+</ul></div>
 

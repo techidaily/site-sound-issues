@@ -1,7 +1,7 @@
 ---
 title: "Fixing Black Ops Cold War: Resolving Voice Chat Issues"
-date: 2024-12-28T19:01:12.923Z
-updated: 2025-01-03T19:48:49.776Z
+date: 2025-01-04T22:57:19.828Z
+updated: 2025-01-10T23:48:31.404Z
 tags:
   - win11
   - win10
@@ -43,17 +43,21 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-245.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In**Allow apps to access your microphone** , and turn on**the switch** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-246.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Scroll down to**Allow desktop apps to access your microphone** , turn on**the switch** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-248.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  By doing so, you have allowed Origin the access to the microphone on your computer.
 
@@ -75,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-35.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the audio driver, simply click the **Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-36.png)
@@ -91,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Make sure your microphone is set as default in Windows
 
  Ideally Windows can automatically detect your microphone and set it as the default device every time it’s plugged into. But that’s not always the case and sometimes you’ll have to manually set it as default.[](https://tools.techidaily.com/drivereasy/download/) [](http://twitter.com/home/?status=How%20To%20Fix%20Fortnite%20Sound%20Not%20Working%20-%20https://www.drivereasy.com/knowledge/how-to-fix-fortnite-sound-not-working-on-pc/) **[](https://tools.techidaily.com/drivereasy/download/)**
@@ -101,10 +105,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-239.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) In **Sound** settings, scroll down to the**Input** section, and in**Choose your input device** , make sure the microphone you are actively using is selected. Then,**test your microphone** by speaking into your mic to see if it ‘hears’ anything. If yes, it means you have configured the microphone properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-242.png)
@@ -114,6 +114,10 @@ Here’s how to do it:
 6) Launch Apex Legends to see if the mic not working problem is fixed. If yes, then congrats! If the issue persists, please try**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Configure in-game settings
 
@@ -129,12 +133,16 @@ Here is how to configure in-game settings:
 
 ![This image has an empty alt attribute; its file name is image-261-1024x700.png](https://images.drivereasy.com/wp-content/uploads/2019/10/image-261-1024x700.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Open Apex Legends, then go to**Settings > AUDIO** and set the **Voice Chat Record Mode** to **Push to Talk** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-262-1024x576.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Again, play Apex Legends to see if the voice chat not working issue is resolved.
@@ -142,10 +150,6 @@ Here is how to configure in-game settings:
  Still no joy? Please try**Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Install the latest game patch
 
@@ -165,16 +169,12 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Locate **Apex Legends** and uninstall it too.
@@ -209,18 +209,15 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-the-photographers-guide-to-online-image-editing-and-cropping/"><u>[New] In 2024, The Photographer's Guide to Online Image Editing and Cropping</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-cutting-edge-strategies-for-enhanced-chromebook-zoom/"><u>[Updated] 2024 Approved Cutting-Edge Strategies for Enhanced Chromebook Zoom</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-how-to-spark-interest-and-boost-views-on-instagram-videos/"><u>[Updated] In 2024, How to Spark Interest & Boost Views on Instagram Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unleash-potential-the-best-instagram-hashtags-of-the-day/"><u>[Updated] Unleash Potential The Best Instagram Hashtags of the Day</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-for-preventing-red-dead-online-pc-crashes-and-ensuring-smooth-gameplay/"><u>Expert Tips for Preventing Red Dead Online PC Crashes & Ensuring Smooth Gameplay</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-to-avoidable-exposure-hiding-objects-and-faces-online-for-2024/"><u>Guide to Avoidable Exposure Hiding Objects and Faces Online for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-4-idevices-on-hold-a-comprehensive-review/"><u>Top 4 iDevices on Hold: A Comprehensive Review</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-sound-issues-how-to-prevent-audio-interruptions-in-windows-11/"><u>Troubleshooting Sound Issues: How to Prevent Audio Interruptions in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-a-broken-realtek-microphone-connection/"><u>Troubleshooting Steps for a Broken Realtek Microphone Connection</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-idt-hd-audio-codec-compatibility-with-windows-11/"><u>Troubleshooting the IDT HD Audio Codec Compatibility with Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-improved-game-audio-on-your-discord-streams/"><u>Troubleshooting Tips for Improved Game Audio on Your Discord Streams</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-non-functional-sennheiser-game-one-microphones/"><u>Troubleshooting Tips for Non-Functional Sennheiser Game One Microphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-rejuvenating-a-dormant-windows-scan-tool/"><u>Troubleshooting: Rejuvenating a Dormant Windows Scan Tool</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-uncovering-the-most-recent-facebook-changes-for-2024/"><u>[New] Uncovering the Most Recent Facebook Changes for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-captureclub-bout/"><u>[Updated] CaptureClub Bout</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-crafting-clear-and-consistent-slug-lines-for-2024/"><u>[Updated] Crafting Clear and Consistent Slug Lines for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-windows-10-seamless-media-importation-techniques/"><u>2024 Approved Unlocking Windows 10 Seamless Media Importation Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/digital-content-excellence-through-effective-screencasts-for-2024/"><u>Digital Content Excellence Through Effective Screencasts for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-restoring-audio-in-zoom-meetings-for-windows-users/"><u>Guide: Restoring Audio in Zoom Meetings for Windows Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-quickly-troubleshoot-a-non-functioning-mic-on-google-hangouts/"><u>How to Quickly Troubleshoot a Non-Functioning Mic on Google Hangouts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-6-plus-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 6 Plus With 7 Methods</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-windows-10-sound-card-troubles-with-these-easy-solutions/"><u>Solve Windows 10 Sound Card Troubles with These Easy Solutions!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-sound-problems-on-your-computer-how-to-restore-speaker-functionality-in-windows-e10/"><u>Solving Sound Problems on Your Computer: How to Restore Speaker Functionality in Windows E10</u></a></li>
 </ul></div>
 

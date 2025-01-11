@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Intermittent Sound Issues on Windows 11
-date: 2024-12-27T17:41:57.978Z
-updated: 2025-01-04T02:07:55.395Z
+date: 2025-01-08T21:42:27.059Z
+updated: 2025-01-10T16:05:42.564Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ But first, ensure that your device has been connected and set correctly.
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -61,11 +57,7 @@ But first, ensure that your device has been connected and set correctly.
 2. Click **Playing Audio** . Then click **Run the troubleshooter** . Wait for the investigation complete. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/10-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Follow the on-screen instructions to finish the process.
@@ -82,19 +74,11 @@ But first, ensure that your device has been connected and set correctly.
 3. In the **Playback** tab, choose the device you’re using and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click the **Advanced** tab, select the lowest setting on the Default Format drop-down menu. Then click **OK** . Back to the Sound window, click **Apply** \> **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/12.jpg)
 5. Reboot your computer and check whether Anthem has sound or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Uncheck “Disable all sound effects”
 
@@ -106,13 +90,21 @@ But first, ensure that your device has been connected and set correctly.
 3. In the **Playback** tab, choose the device you’re using and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. In the **Enhancements** tab, uncheck “**Disable all sound effects** “. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
 5. Click **Apply > OK** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Reboot your computer and go back to the game, you should have audio now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Update your audio driver
 
@@ -129,9 +121,17 @@ But first, ensure that your device has been connected and set correctly.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver.jpg)
 3. Click the **Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver1.jpg)
 4. Restart your computer and check the Anthem has sound or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Restart the game
 
@@ -160,20 +160,21 @@ But first, ensure that your device has been connected and set correctly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-ultimate-voice-transformation-devices-for-creators-for-2024/"><u>[Updated] Ultimate Voice Transformation Devices for Creators for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-oppo-a59-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Oppo A59 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazingly-clear-display-at-an-unbeatable-price-discover-this-budget-friendly-ultrabook/"><u>Amazingly Clear Display at an Unbeatable Price: Discover This Budget-Friendly Ultrabook</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/conquer-communication-breakdowns-a-guide-to-restoring-sound-on-discord/"><u>Conquer Communication Breakdowns: A Guide to Restoring Sound on Discord</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-tozo-t6-connectivity-problems-under-windows-11/"><u>Diagnosing and Repairing Tozo T6 Connectivity Problems Under Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-repairs-get-your-corsair-void-mic-working-again/"><u>DIY Repairs: Get Your Corsair Void Mic Working Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/eliminate-unwanted-noise-in-your-computers-speakers-fix-for-popping-sounds/"><u>Eliminate Unwanted Noise in Your Computer's Speakers - Fix for Popping Sounds</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/eliminating-cyberpunk-2077-sound-glitches-for-a-smoother-gaming-experience/"><u>Eliminating Cyberpunk 2077 Sound Glitches for a Smoother Gaming Experience</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/elite-desktopmobile-communication-software-zoom-substitutes/"><u>Elite Desktop/Mobile Communication Software (Zoom Substitutes)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/epson-printer-error-on-windows-1011/"><u>Epson Printer Error on Windows 10/11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-mic-malfunctions-a-users-guide-to-restoring-logitech-g935-in-windows/"><u>Fixing Mic Malfunctions: A User's Guide to Restoring Logitech G935 in Windows</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-building-believable-characters-through-dialogue/"><u>In 2024, Building Believable Characters Through Dialogue</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-vivo-y100i-power-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Vivo Y100i Power 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-nvidia-drivers-for-geforce-rtx-3080-ti-win-1187-compatibility-and-download-info/"><u>Latest NVIDIA Drivers for GeForce RTX 3080 Ti: Win 11/8/7 Compatibility and Download Info</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-upcoming-transformation-7-key-ways-generative-ai-will-reshape-careers/"><u>The Upcoming Transformation: 7 Key Ways Generative AI Will Reshape Careers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-where-to-hunt-for-excellent-instagram-ringtones-and-perfect-alarm-crafts/"><u>[New] 2024 Approved Where to Hunt for Excellent Instagram Ringtones and Perfect Alarm Crafts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-youtubes-role-in-todays-dynamic-educational-landscape/"><u>[Updated] 2024 Approved YouTube's Role in Today's Dynamic Educational Landscape</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-chromatic-mastery-image-transformation-techniques/"><u>[Updated] Chromatic Mastery Image Transformation Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ensuring-safety-tile-enhances-protections-against-theft-and-surveillance-questions-apples-strategy-with-airtags-zdnet/"><u>Ensuring Safety: Tile Enhances Protections Against Theft & Surveillance, Questions Apple's Strategy with AirTags | ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-repairing-malfunctioning-computer-sound-equipment/"><u>Expert Tips on Repairing Malfunctioning Computer Sound Equipment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-restore-functionality-of-your-oculus-quest-2-headsets-microphone/"><u>Fixing the Issue: How to Restore Functionality of Your Oculus Quest 2 Headset's Microphone</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-your-aoc-monitor-working-perfectly-on-a-windows-10-system/"><u>Getting Your AOC Monitor Working Perfectly on a Windows 10 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-your-turtle-beach-elite-70-mic-step-by-step-solutions/"><u>How To Restore Your Turtle Beach Elite 70 Mic - Step by Step Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-restore-audio-in-windows-pressure-7-for-your-usb-connected-earbuds/"><u>How to Troubleshoot and Restore Audio in Windows Pressure 7 for Your USB-Connected Earbuds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/masterful-solutions-for-when-your-valorant-voice-chat-goes-silent/"><u>Masterful Solutions for When Your Valorant Voice Chat Goes Silent</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-sound-from-laptop-speakers-diagnose-and-solve-this-common-issue-easily/"><u>No Sound From Laptop Speakers - Diagnose and Solve This Common Issue Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-sound-problems-the-ultimate-fix-for-turtle-beach-elite-atlas-mic-malfunction/"><u>Resolving Sound Problems - The Ultimate Fix for Turtle Beach Elite Atlas Mic Malfunction</u></a></li>
+<li><a href="https://win11.techidaily.com/simplified-steps-to-access-windows-11s-printer-features-max-48-chars/"><u>Simplified Steps to Access Windows 11’S Printer Features (Max 48 Chars)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tailoring-your-iphones-control-panel-settings-for-ios-18-with-easy-tips/"><u>Tailoring Your iPhone's Control Panel Settings for iOS 18 with Easy Tips</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/tecnicas-faceis-de-copiar-filmagens-do-dvd-diretamente-para-seu-computador-com-windows-ou-mac/"><u>Técnicas Fáceis De Copiar Filmagens Do DVD Diretamente Para Seu Computador Com Windows Ou Mac</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/the-top-5-must-know-for-macos-tiktok-users/"><u>The Top 5 Must-Know for macOS TikTok Users</u></a></li>
 </ul></div>
 

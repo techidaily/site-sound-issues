@@ -1,7 +1,7 @@
 ---
 title: "DIY Guide: Silencing the Annoying Buzz in Your Audio System"
-date: 2025-01-01T00:04:27.789Z
-updated: 2025-01-03T17:18:13.446Z
+date: 2025-01-04T16:45:45.879Z
+updated: 2025-01-10T23:16:29.985Z
 tags:
   - win11
   - win10
@@ -46,6 +46,10 @@ If you’re playing _World of Warcraft(WoW)_ and the audio cuts out abruptly, or
 
 If your cables and volume are okay, move on to the fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Set your audio device to Default Device
 
  If you’re connecting to an audio device using USB or HDMI, make sure both the recording and playback devices you are using are set to Default Device in Windows. Here is how to do it:
@@ -58,23 +62,23 @@ If your cables and volume are okay, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-668.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Right-click the audio device you want to use, then select**Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-678.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Click**Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-677.png)
 
- If the sound is still not working on_WoW_ , or your audio device is already set as Default Device, check the fix below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If the sound is still not working on_WoW_ , or your audio device is already set as Default Device, check the fix below.
 
 ### Fix 3: Disable Audio Enhancements
 
@@ -91,7 +95,7 @@ To disable the Audio Enhancements, follow the instructions below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-668.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Right-click the audio device you want to use, then select Properties.
@@ -105,6 +109,10 @@ To disable the Audio Enhancements, follow the instructions below:
  \*If you don’t have the Enhancements tab, click the**Advanced tab** instead, then uncheck**Enable audio enhancements** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-685.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Click**APPLY > OK** .
 
@@ -154,6 +162,10 @@ OR
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: **Reset the game settings**
 
  Incompatible in-game settings can cause _World of Warcraft_ audio issues. Try restoring your in-game settings to default to see if that fixes your issue. Follow the instructions below:
@@ -174,6 +186,10 @@ OR
 
  If the audio is still missing in _WoW_ , then go ahead with the fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Close unnecessary background programs
 
  Some programs running in the background may conflict with_World of Warcraft_ or the Blizzard launcher, causing audio issues to happen. So, you should turn off unnecessary programs during gameplay. Here is how to do it:
@@ -187,13 +203,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-763-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-794-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
@@ -221,10 +237,14 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-810-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Try launching _WoW_ again to see if the sound works properly now. If not, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Clear temporary game files
@@ -249,25 +269,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-656.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)** Rename the**Cache, Interface,** and**WTF folders** to**CacheOld, InterfaceOld,** and**WTFOld** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-657.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **7)** Relaunch_WoW_ to test your issue.
 
  If the_WoW_ sound issue persists, don’t fret. There is still one more fix to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall the Blizzard Battle.net app
 
@@ -276,10 +284,6 @@ OR
 **1)** On your keyboard, press the **Windows logo key**  and type **control** . Then select **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-361-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Under **View by** , select **Category** .
 
@@ -294,10 +298,6 @@ OR
  If you’re prompted for permission, select **Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-14_12-24-28-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** **[Download](https://www.blizzard.com/en-us/apps/battle.net/desktop)**  and install the Blizzard launcher.
 
@@ -326,17 +326,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-step-by-step-journey-through-high-impact-youtube-banner-designs/"><u>[New] 2024 Approved A Step-by-Step Journey Through High-Impact YouTube Banner Designs</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-navigate-through-creating-stellar-educational-video-content-for-online-platforms/"><u>[New] In 2024, Navigate Through Creating Stellar Educational Video Content for Online Platforms</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/colloquial-contrasts-rio-vs-romes-linguistic-landscapes/"><u>Colloquial Contrasts: Rio Vs. Rome's Linguistic Landscapes</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/comprehensive-guide-types-of-threats-blocked-by-windows-defender-insights-from-yl-computing/"><u>Comprehensive Guide: Types of Threats Blocked by Windows Defender - Insights From YL Computing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-leading-ai-assisted-search-engines-to-revolutionize-your-web-queries/"><u>Discover Leading AI Assisted Search Engines to Revolutionize Your Web Queries</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014785664-fix-no-speakers-or-headphones-are-plugged-in-issue-in-windows-1087/"><u>Fix “No Speakers or Headphones Are Plugged In” Issue in Windows 10/8/7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-why-your-razer-man-o-war-microphone-isnt-functioning/"><u>Fixing the Issue: Why Your Razer Man O' War Microphone Isn't Functioning</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/introducing-motion-blur-magic-in-your-iphone-photos-for-2024/"><u>Introducing Motion-Blur Magic in Your iPhone Photos for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/mastering-content-creation-essential-tips-for-snapchat-success/"><u>Mastering Content Creation Essential Tips for Snapchat Success</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-a-comprehensive-compilation-of-top-10-affordable-browser-based-daws/"><u>New 2024 Approved A Comprehensive Compilation of Top 10 Affordable Browser-Based DAWs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015582228-revive-your-battlefield-soundscape-quick-troubleshooting-for-bf4-no-audio-faults/"><u>Revive Your Battlefield Soundscape - Quick Troubleshooting for BF4 No Audio Faults.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/turn-up-the-volume-effective-solutions-to-no-sound-problem-for-cod-black-ops-cold-war-gamers/"><u>Turn Up the Volume: Effective Solutions to 'No Sound' Problem for COD: Black Ops Cold War Gamers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-rise-to-stardom-on-instagram-adopting-tiktoks-winning-strategies/"><u>[New] In 2024, Rise to Stardom on Instagram Adopting TikTok's Winning Strategies</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-next-gen-players-guide-rift-vive-vs-ps-vr-games/"><u>[New] Next-Gen Players Guide Rift, Vive, vs PS VR Games</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-adopting-innovations-mask-and-filter-methods-for-google-meet/"><u>[Updated] In 2024, Adopting Innovations Mask & Filter Methods for Google Meet</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-mobile-artistry-top-android-collage-apps/"><u>2024 Approved Mastering Mobile Artistry - Top Android Collage Apps</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/caixun-75-inch-ultra-hd-android-television-revealed-high-performance-meets-budget-pricing/"><u>Caixun 75-Inch Ultra HD Android Television Revealed - High Performance Meets Budget Pricing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-problems-with-the-lucidsound-ls30-headset-mic/"><u>Diagnosing and Repairing Problems with the LucidSound LS30 Headset Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-audio-working-again-on-an-hp-laptop-issue-resolved/"><u>How to Get Your Audio Working Again on an HP Laptop (Issue Resolved)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-reactivate-in-game-sounds-in-eas-anthem-for-pc-users/"><u>How to Reactivate In-Game Sounds in EA's Anthem for PC Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-online.techidaily.com/scopri-le-migliori-soluzioni-di-backup-gratuito-disponibili-in-windows/"><u>Scopri Le Migliori Soluzioni Di Backup Gratuito Disponibili in Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-a-non-functional-logitech-g430-microphone/"><u>Troubleshooting Steps for a Non-Functional Logitech G430 Microphone</u></a></li>
 </ul></div>
 

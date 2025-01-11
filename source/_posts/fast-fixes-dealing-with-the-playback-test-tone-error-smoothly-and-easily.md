@@ -1,7 +1,7 @@
 ---
 title: "Fast Fixes: Dealing with the Playback Test Tone Error Smoothly and Easily"
-date: 2025-01-01T21:01:36.050Z
-updated: 2025-01-04T03:44:41.791Z
+date: 2025-01-06T23:13:08.174Z
+updated: 2025-01-10T20:27:17.443Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 6. [**Change your default playback device**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Change your audio channel](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1:**Check if it’s a video problem**
 
  There are many reasons why a Facebook video has no sound, and the most common one is that the video is incorrectly encoded, or is silent at the first place. In that case, you can try other videos and see if they have audio issues as well.
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
  Also don’t forget to check the video volume control in Facebook. It pops up at the bottom when you hover your mouse cursor over the video. Make sure you set the video volume correctly.
 
  If the volume is set correctly and your no sound issue reappears on other videos, please move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2:**Unmute your browser**
 
@@ -57,15 +65,7 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/volume-mixer-hold-and-drag.jpg)
 3. Play your video and see if you hear any sound.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this method doesn’t fix your problem, please take a look at the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: **Change to another browser**
 
@@ -75,15 +75,15 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 
  If the problem persists after changing your browser, please move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4:**Restart your computer**
 
  It may sound silly, but rebooting your computer actually solves many problems. Especially when you’ve kept your PC running for a long period, and some programs start to function improperly. In all cases, a restart resets the current state of a software, and it might just fix your no sound issue at the same time.
 
  If restarting your computer doesn’t help either, please continue to the next method below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5:**Update your audio driver**
 
@@ -107,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-realtek-audio-driver.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your audio driver, restart your computer for it to take full effect. Then you can play some videos and see if your problem has gone away.
@@ -123,13 +127,21 @@ This method also applies to Windows 10, 8 or 7
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-mmsys-cpl-audio-interface.jpg)
 2. Make sure you’re in the**Playback** tab. Select your desired output device (in my case it’s**Speakers** ) then click**Set default** . Finally, click**OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/set-default-output-device.jpg)
 3. Play some videos and see if it fixed your no sound issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If changing your default output device doesn’t solve your problem, don’t worry. There’s still one last fix you can try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7:**Change your audio channel**
@@ -145,26 +157,14 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-audio-channel-1.jpg)
 3. For**Audio channels** , select**Stereo** and click**Next** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap108.jpg)
 4. Check the box next to**Front left and right** . Click **Next** to continue.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap109.jpg)
 5. Click **Finish** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap110.jpg)
 6. Play some Facebook videos and see if your problem has disappeared.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -187,22 +187,22 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-secure-snap-savings-androidmac-apps-guide/"><u>[New] 2024 Approved Secure Snap Savings Android/Mac Apps Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-winning-at-movie-watching-leading-windows-phone-apps/"><u>[New] 2024 Approved Winning at Movie Watching Leading Windows Phone Apps</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitter-to-whatsapp-video-broadcasting-guide/"><u>[Updated] In 2024, Twitter-to-WhatsApp Video Broadcasting Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-speedy-skimmer-of-windows-imagery/"><u>2024 Approved Speedy Skimmer of Windows Imagery</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210332743-9780525508212-dont-worry/"><u>Don't Worry | Free Book</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-realme-10t-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Realme 10T 5G Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Nokia C300? | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-trending-tweet-tales-twitters-top-10-video-hits/"><u>In 2024, Trending Tweet Tales Twitter's Top 10 Video Hits</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/maintaining-image-integrity-effective-instagram-photowatermarking/"><u>Maintaining Image Integrity Effective Instagram Photowatermarking</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-discord-chat-troubleshooting-solving-the-non-responsive-push-to-talk-problem/"><u>Mastering Discord Chat Troubleshooting: Solving the Non-Responsive Push-To-Talk Problem</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/outriders-gameplay-interrupted-by-audio-errors-heres-how-to-fix-them/"><u>Outriders Gameplay Interrupted by Audio Errors? Here's How to Fix Them!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/pubg-voice-chat-trouble-heres-how-to-restore-audio-connection/"><u>PUBG Voice Chat Trouble? Here's How to Restore Audio Connection!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/recon-70-headset-repair-fixing-your-turtle-beach-microphone-issues/"><u>Recon 70 Headset Repair: Fixing Your Turtle Beach Microphone Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/regain-lost-sound-fx-in-anthem-post-windows-10-enhancements/"><u>Regain Lost Sound Fx in Anthem Post-Windows 10 Enhancements</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-audio-malfunctions-on-mac-computers-step-by-step-solutions/"><u>Resolving Audio Malfunctions on Mac Computers: Step-by-Step Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-microphone-and-headphone-recognition-problems-in-windows-operating-systems-11-8-7/"><u>Resolving Microphone and Headphone Recognition Problems in Windows Operating Systems (11, 8, 7)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restore-sound-to-your-lenovo-laptop-essential-tips-and-fixes-for-audio-issues/"><u>Restore Sound to Your Lenovo Laptop: Essential Tips and Fixes for Audio Issues</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nveiling-the-must-have-gear-for-new-youtubers/"><u>[New] Unveiling the Must-Have Gear for New YouTubers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ushering-bliss-into-your-unboxing-experience/"><u>[New] Ushering Bliss Into Your Unboxing Experience</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-top-ten-tools-to-transform-your-picture-grids/"><u>[Updated] 2024 Approved Top Ten Tools to Transform Your Picture Grids</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-vanishing-acts-how-to-blur-faces-and-objects-online/"><u>[Updated] 2024 Approved Vanishing Acts How to Blur Faces and Objects Online</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-how-to-make-a-private-story-on-snapchat-a-complete-guide/"><u>[Updated] In 2024, How to Make a Private Story on Snapchat A Complete Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/a-swift-guide-to-starting-conversations-on-instagram/"><u>A Swift Guide to Starting Conversations on Instagram</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016738838-black-ops-cold-war-voice-chat-problems-heres-how-to-resolve-them/"><u>Black Ops Cold War Voice Chat Problems? Here's How to Resolve Them</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bring-back-the-audio-expert-tips-to-repair-non-working-speakers-on-your-pc/"><u>Bring Back the Audio: Expert Tips to Repair Non-Working Speakers on Your PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-tecno-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Tecno</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enabling-real-time-game-audio-in-your-discord-calls-easily/"><u>Enabling Real-Time Game Audio in Your Discord Calls Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-glitches-and-warping-sounds-in-windows-10-and-7-solutions-unveiled/"><u>Fixing Audio Glitches & Warping Sounds in Windows 10 and 7 – Solutions Unveiled</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-intermittent-sound-issues-in-windows-10-a-complete-guide/"><u>Fixing Intermittent Sound Issues in Windows 10: A Complete Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-audio-expert-guide-to-resolving-2024s-rec-room-microphone-woes-on-pc/"><u>Mastering Audio: Expert Guide To Resolving 2024'S Rec Room Microphone Woes on PC</u></a></li>
+<li><a href="https://win-unique.techidaily.com/overcoming-lags-and-delays-how-to-boost-your-computers-speed-with-tips-from-yl-software-experts/"><u>Overcoming Lags and Delays: How to Boost Your Computer's Speed with Tips From YL Software Experts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-nonfunctional-voice-chat-on-black-ops-cold-war/"><u>Step-by-Step Solutions for Nonfunctional Voice Chat on Black Ops Cold War</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-solution-for-sound-misdirection-from-speakers-to-your-headphones/"><u>The Ultimate Solution for Sound Misdirection - From Speakers to Your Headphones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-zoom-tips-for-efficient-chromebook-use-for-2024/"><u>Top 10 Zoom Tips for Efficient Chromebook Use for 2024</u></a></li>
 </ul></div>
 

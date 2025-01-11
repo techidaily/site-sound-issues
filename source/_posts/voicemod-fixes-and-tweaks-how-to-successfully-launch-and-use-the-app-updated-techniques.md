@@ -1,7 +1,7 @@
 ---
 title: "Voicemod Fixes and Tweaks: How to Successfully Launch & Use the App (Updated Techniques )"
-date: 2024-08-18T08:12:45.395Z
-updated: 2024-08-19T08:12:45.395Z
+date: 2025-01-06T16:21:44.269Z
+updated: 2025-01-10T16:49:14.318Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 
 Many players are reporting that they can hear others clearly but the voice chat is not working in Call of Duty: Modern Warfare. If you’re experiencing the same problem, don’t worry. We’ve put together every possible fix for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -26,6 +30,10 @@ Many players are reporting that they can hear others clearly but the voice chat 
 3. **[Check sound settings](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Disable the SIP-ALG setting](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Enable Voice Chat
 
@@ -41,6 +49,10 @@ Many players are reporting that they can hear others clearly but the voice chat 
 
 **Note:** If you’re on Xbox, please check to ensure that your Xbox privacy settings are set appropriately for**Crossplay** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Perform a Windows Update
 
  COD: Modern Warfare voice chat requires that Windows is fully updated. So if you’re getting this problem on Windows, make sure to run Windows Updates. Here’s how to do it quickly:
@@ -48,14 +60,13 @@ Many players are reporting that they can hear others clearly but the voice chat 
 1. In the Windows Search bar, start typing**check for updates** , and select**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates-windows.jpg)
 2. Install the available updates.
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-3. Once complete, launch Modern Warfare again to see if voice chat is working now.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3. Once complete, launch Modern Warfare again to see if voice chat is working now.
+
 ## Fix 3: Check sound settings
 
  Many players find their headset mic is not set to the default input device, thus causing the voice chat not to work on Modern Warfare. Therefore, you need to make sure your headset mic is set to default. Here’s how:
@@ -63,19 +74,22 @@ Many players are reporting that they can hear others clearly but the voice chat 
 1. At the bottom right corner of your computer screen – namely the notification area – you’ll find the **volume**  icon. Right-click it and select **Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 2. Select the **Recording** tab. Right-click on the device that you’re currently using (your headphone) and then select **Set as Default Device** and then **Set as Default Communication Device** from its context menu.  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/default.jpg)
 3. Right-click your default microphone and then select **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/audio-properties.jpg)
 4. On the **Levels** tab, drag the sliders of the **Microphone** to turn up the volume. Just make sure you haven’t muted them or set them to such low levels that you cannot hear the voice yourself.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/headphone-levels.jpg)
 5. Click **OK** to save the changes.
 6. Play Modern Warfare and test if others can hear you this time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your audio driver
 
@@ -103,20 +117,9 @@ Here’s how to update your drivers with Driver Easy:
 3. Click the **Update** button next to the flagged device to automatically download the correct version of the driver (you can do this with the FREE version), and then manually install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Update-all.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll have the full support and a 30-day money back guarantee).
 4. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Disable the SIP-ALG setting
 
  Use a wired Ethernet connection whenever possible, because a wireless connection can cause latency and affect VoIP calls (your voice chat). But if you’re using Wi-Fi, make sure you have disabled SIP ALG.
@@ -144,8 +147,6 @@ Here’s how to update your drivers with Driver Easy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +154,24 @@ Here’s how to update your drivers with Driver Easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-brand-identity-in-pictures-how-to-watermark-on-instagram/"><u>[New] 2024 Approved Brand Identity in Pictures How to Watermark on Instagram</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-connect-and-entertain-stream-xbox-games-on-the-worlds-stage-facebook/"><u>[New] Connect & Entertain Stream Xbox Games on the World's Stage - Facebook</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-crafting-irresistible-profile-videos-for-2024/"><u>[Updated] Crafting Irresistible Profile Videos for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-text-animations-unleashed-try-these-14-dynamic-showcases/"><u>2024 Approved Text Animations Unleashed Try These 14 Dynamic Showcases</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/2024-ultimate-fix-how-to-troubleshoot-a-non-functioning-jabra-headset/"><u>2024 Ultimate Fix: How to Troubleshoot a Non-Functioning Jabra Headset</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-path-to-prosperity-monetizing-his-online-presence/"><u>Ajey's Path to Prosperity Monetizing His Online Presence</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-resolving-speaker-problems-in-windows-11-fixed/"><u>Diagnosing and Resolving Speaker Problems in Windows 11 [FIXED]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ensure-proper-headset-recognition-in-windows-10-sound-devices-list/"><u>Ensure Proper Headset Recognition in Windows 10 Sound Devices List</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-squad-mic-issues-a-comprehensive-troubleshooting-manual/"><u>Fixing Squad Mic Issues: A Comprehensive Troubleshooting Manual</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-users-when-outlook-fails-to-launch-normally/"><u>Guiding Users When Outlook Fails to Launch Normally</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016175178-how-to-get-your-windows-11-audio-back-on-track-solutions-inside/"><u>How To Get Your Windows 11 Audio Back On Track - Solutions Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-switch-off-sound-amplification-and-effects-on-windows-11/"><u>How to Switch Off Sound Amplification and Effects on Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-xiaomi-redmi-k70-pro-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/redundancy-and-reliability-features-ensure-that-the-system-activates-in-an-emergency-and-alerts-first-responders-promptly/"><u>Redundancy and Reliability Features Ensure that the System Activates in an Emergency and Alerts First Responders Promptly.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-restarting-stalled-sound-services-successfully/"><u>Troubleshooting Guide: Restarting Stalled Sound Services Successfully</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-isnt-my-discord-microphone-working-solving-push-to-talk-problems-easily/"><u>Why Isn't My Discord Microphone Working? Solving Push-to-Talk Problems Easily</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Silent AirPods: Fixing Connection Issues with Windows 11 & 10"
-date: 2024-08-18T08:13:34.181Z
-updated: 2024-08-19T08:13:34.181Z
+date: 2025-01-09T23:44:35.675Z
+updated: 2025-01-10T18:12:24.930Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/d04c4091c93f7c6e0ae17b31cbbed37cb1d18932b
 When you connect any pair of Bluetooth headphones or Bluetooth devices to your computer, but the audio cuts in and out randomly or disconnects even when it is fully charged, it’s pretty sure you’re experiencing the**Bluetooth audio stuttering** issue. Don’t worry, you’re not alone and we have fixes for you.
 
  If you’re using**2.4 GHz band WiFi** , your Bluetooth devices and Wi-Fi may interfere with each other and cause the stuttering issue. Shut down your Wi-Fi and check whether the problem disappeares. If the problem remains, read on to try the below fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -41,6 +45,11 @@ If you’re using the Windows 11 system, follow the steps below:
 2. Click**System > Troubleshoot > Other troubleshooters** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/win11-other-troubleshooter.jpg)
 3. Click the**Run** button next to the Bluetooth, and follow the instructions.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/win11-bluetooth.jpg)
 
 Here’s how to do it on Windows 10:
@@ -65,11 +74,20 @@ If this fix was unable to solve the issue, please move to the next fix.
 2. Type **mmsys.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/mmsyssound.jpg)
 3. Right-click your default playback device (the one with a green tick) and click **Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/sound.jpg)
 4. Click **Enhancement** . Make sure the box for **Disable all enhancements** is empty. Click **Apply** and **OK** to save the change.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/sound-1.jpg)
 
  If you don’t have an Enhancement tab here, the culprit is not enhancement then. Move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Change audio formats
 
@@ -79,18 +97,18 @@ If this fix was unable to solve the issue, please move to the next fix.
 2. Type “mmsys.cpl” and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/mmsyssound.jpg)
 3. Right-click your default playback device (the one with a green tick) and click **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/sound.jpg)
 4. Click the **Advanced** tab. Select **16 bit, 48000 Hz (DVD Quality)** . Click **Apply** and **OK** to save the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/speaker.jpg)
 5. Test to see if your sound is still stuttering. If yes, go back to step 4 and try some other formats until you find the one that works for you.
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your audio problem remains, don’t worry, you need to update your audio drivers. Move on to method 4 for help.
@@ -109,9 +127,6 @@ If this fix was unable to solve the issue, please move to the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/de-update-all-Realtek-Audio.jpg)
@@ -122,6 +137,10 @@ If this fix was unable to solve the issue, please move to the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Disable Hands-free Telephony
 
  According to some forum users, the Hands-free Telephony feature is the culprit to the Bluetooth audio stuttering issue on their computers. Disabling it fixes the problem completely. To see if this does the trick for you as well:
@@ -130,26 +149,17 @@ If this fix was unable to solve the issue, please move to the next fix.
 2. Select**Bluetooth & devices** , then**Devices** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-37.png)
 3. Scroll down and select**More devices and printer settings** .  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-36.png)
 4. Right-click your headset and select**Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-38.png)
 5. Go to**Services** , and untick the box for**Hands-free Telephony** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-39.png)
 6. Click**Apply** and**OK** to save and exit.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 
  Try your Bluetooth devices again to see if the stuttering problem remains. If so, please move on.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## Fix 6: Stop Bluetooth support service
 
  For some, stopping the Bluetooth support service helps to stop the audio stuttering problem for them. To see if this does the wonders for you too:
@@ -157,16 +167,18 @@ If this fix was unable to solve the issue, please move to the next fix.
 1. On your keyboard, press the**Windows** key and the**R** key at the same time. Copy and paste**services.msc** and hit**Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-40.png)
 2. Right-click**Bluetooth support service** and select**Stop** .  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-41.png)
 3. Reconnect your Bluetooth device and see if the audio stuttering problem persists. If so, please move on to the next fix.
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Repair system files
 
@@ -178,14 +190,13 @@ If this fix was unable to solve the issue, please move to the next fix.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -203,8 +214,6 @@ If this fix was unable to solve the issue, please move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +221,20 @@ If this fix was unable to solve the issue, please move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-captivate-viewers-social-media-strategies-for-youtube/"><u>[New] 2024 Approved Captivate Viewers Social Media Strategies for YouTube</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-nail-the-art-of-time-lapses-with-your-gopro-hero5-black-for-2024/"><u>[New] Nail the Art of Time-Lapses with Your GoPro Hero5 Black for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-install-and-use-snapchat-on-your-mac-in-2024/"><u>[Updated] How to Install and Use Snapchat on Your Mac, In 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-ultimate-list-of-engaging-moba-titles-on-android-for-2024/"><u>[Updated] The Ultimate List of Engaging MOBA Titles on Android for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/apple-iphone-14-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone 14 Screen Mirroring You Must Know | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-strategy-for-scoring-a-free-macbook-air-m3-at-best-buy-insider-tips-and-tricks-shared/"><u>Exclusive Strategy for Scoring a Free MacBook Air M3 at Best Buy - Insider Tips and Tricks Shared</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725286458952-exploring-standard-dvd-resolution-is-it-sd-480p-hd-720p-or-uhd-108/"><u>Exploring Standard DVD Resolution - Is It SD (480P), HD (720P), or UHD (108 )?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-honor-90-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-volume-control-tips-for-louder-sounds-on-windows-10/"><u>Mastering Volume Control: Tips for Louder Sounds on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-for-non-functioning-logitech-g933-microphone-step-by-step/"><u>Quick Fix for Non-Functioning Logitech G933 Microphone - Step by Step</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-ai-tools-integrating-with-chatgpt-for-interactive-document-conversations/"><u>Top 6 AI Tools Integrating with ChatGPT for Interactive Document Conversations</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-mic-not-working-on-microsoft-teams-fixes-for-windows-1110-users/"><u>Troubleshooting Mic Not Working on Microsoft Teams - Fixes for Windows 11/10 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/world-of-warcraft-restore-your-voice-chat-functionality-expert-tips-and-tricks/"><u>World of Warcraft: Restore Your Voice Chat Functionality – Expert Tips & Tricks</u></a></li>
+</ul></div>
 

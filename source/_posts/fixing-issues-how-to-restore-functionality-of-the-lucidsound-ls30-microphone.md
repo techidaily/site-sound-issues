@@ -1,7 +1,7 @@
 ---
 title: "Fixing Issues: How to Restore Functionality of the LucidSound LS30 Microphone"
-date: 2024-12-31T19:35:22.097Z
-updated: 2025-01-03T19:44:16.871Z
+date: 2025-01-04T16:21:43.010Z
+updated: 2025-01-10T16:10:48.248Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Check your microphone device settings
@@ -46,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
@@ -59,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Select the **Recording** tab, then right click on any empty place inside the device list and tick **Show Disabled Devices** .
@@ -71,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)** Right click it again and select **Set as Default Device** .
@@ -86,11 +82,19 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **9)** Click**OK** , then click**OK** .
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Update your audio drivers
 
@@ -115,10 +119,6 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
  Once you’ve updated the driver for your Turtle Beach headset, restart your computer. Then log in again and see if the microphone is working.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Troubleshoot hardware issues
 
@@ -148,19 +148,19 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-how-to-optimize-rl-recording-hardware-and-software/"><u>[New] How to Optimize RL Recording Hardware & Software</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-fortnite-voice-chat-not-working-quickly-and-easily/"><u>[Solved] Fortnite Voice Chat Not Working | Quickly & Easily</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-perfecting-videos-a-premier-editor-for-vimeo-professionals/"><u>[Updated] In 2024, Perfecting Videos A Premier Editor for Vimeo Professionals</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ark-survival-ascended-keeps-crashing-on-pc-9-fixes/"><u>ARK: Survival Ascended Keeps Crashing on PC - 9 Fixes</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expert-evaluation-why-netgears-nighthawk-c7000-stands-out-as-a-leading-wireless-modem-solution/"><u>Expert Evaluation: Why Netgear's Nighthawk C7000 Stands Out as a Leading Wireless Modem Solution</u></a></li>
-<li><a href="https://win-community.techidaily.com/how-can-i-optimize-my-pcs-registry-cleanup-expert-tips-from-yl-computing/"><u>How Can I Optimize My PC's Registry Cleanup: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-guide-to-filming-and-refining-videos-via-adobe-connect/"><u>In 2024, Guide to Filming & Refining Videos via Adobe Connect</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-melody-migration-transitioning-playlists-across-platforms/"><u>In 2024, Melody Migration Transitioning Playlists Across Platforms</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-13-mini-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 13 mini Without Passcode Easily | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1728504520811-microsoft-outlook/"><u>Microsoft Outlook連絡先情報を安全に保存し、バックアップから回復する手段</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-razer-headsets-audio-easy-fixes-for-the-unresponsive-mic/"><u>Reviving Your Razer Headset's Audio: Easy Fixes for the Unresponsive Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/seamless-chats-restored-overcoming-glitches-in-your-discord-voice-connection/"><u>Seamless Chats Restored: Overcoming Glitches in Your Discord Voice Connection</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-audio-glitches-in-rec-room-pc-version-effective-mic-repair-techniques-of-2024/"><u>Solve Audio Glitches in Rec Room PC Version: Effective Mic Repair Techniques of 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-silent-problem-restoring-audio-on-your-pc-with-conexant-smartaudio-in-windows-10/"><u>Solving the Silent Problem: Restoring Audio on Your PC with Conexant SmartAudio in Windows 10</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtubes-journey-seamlessly-converted-into-high-quality-avis/"><u>[New] YouTube's Journey Seamlessly Converted Into High-Quality AVIs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-master-your-fb-video-archive-with-1-5-choices/"><u>[Updated] 2024 Approved Master Your FB Video Archive with #1-5 Choices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-navigating-skypes-ecosystem-essential-free-and-paid-recording-methods-windowsmac-for-2024/"><u>[Updated] Navigating Skype's Ecosystem Essential Free and Paid Recording Methods (Windows/Mac) for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/clipcreatorassessment-full-dissection-for-2024/"><u>ClipCreatorAssessment – Full Dissection for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-conference-call-audio-back-fixing-microsoft-teams-microphone-on-windows-platforms/"><u>Get Your Conference Call Audio Back: Fixing Microsoft Teams Microphone on Windows Platforms</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-non-functioning-voice-chat-on-phasmophobia/"><u>How to Troubleshoot Non-Functioning Voice Chat on Phasmophobia</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-oppo-a38-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Oppo A38 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-ideation-strategies-leveraging-mind-mapping-and-chatgpt-synergy/"><u>Innovative Ideation Strategies: Leveraging Mind Mapping and ChatGPT Synergy</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-latency-in-me-resolving-lag-and-frame-drops-on-your-playthrough/"><u>Overcoming Latency in ME: Resolving Lag and Frame Drops on Your Playthrough</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-a-malfunctioning-lucidsound-ls30-microphone/"><u>Troubleshoot and Repair a Malfunctioning LucidSound LS30 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-issues-with-your-kotion-each-g2000-microphone/"><u>Troubleshooting Steps: Resolving Issues with Your Kotion EACH-G2000 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-solutions-for-runmcw-gaming-headset-microphone-failure/"><u>Ultimate Solutions for RUNMCW Gaming Headset Microphone Failure</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211372456-9781921295928-what-happens-next/"><u>What Happens Next? | Free Book</u></a></li>
 </ul></div>
 

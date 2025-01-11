@@ -1,7 +1,7 @@
 ---
 title: Revive the Mic on Your Oculus Rift S Without Delay - Pro Techniques
-date: 2024-12-31T16:27:05.944Z
-updated: 2025-01-04T02:16:18.274Z
+date: 2025-01-03T19:01:14.204Z
+updated: 2025-01-10T22:00:10.672Z
 tags:
   - win11
   - win10
@@ -46,20 +46,24 @@ thumbnail: https://thmb.techidaily.com/99fe81a7264fad21c10b59936e2340ed2f52f70dd
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-36-29-1.png)
 2. In the Windows audio settings window, navigate to**the Recording tab** , select the microphone you want to test and click**Configure** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-37-58.png)
 3. Click**Set up microphone** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-38-40.png)
 4. Select the correct type of your microphone and click**Next** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-39-30.png)
 5. Follow the**Microphone Setup Wizard** to configure your microphone. Close the wizard when it completes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-40-26.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 2: Test your microphone
 
@@ -69,10 +73,6 @@ Follow the steps below to test your microphone in Windows audio settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-41-21.png)
 2. Navigate to**the Recording tab** . Select the microphone you’re going to test, then try speaking into your microphone to test if it works properly. If it is, you should see some green in the bar on the right. Click**OK** to close the window after testing.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-42-45.png)
 
  If the microphone you’re going to test is not the default device for recording, you need to click**the Set Default button** to set it as the default device first.
@@ -80,7 +80,7 @@ Follow the steps below to test your microphone in Windows audio settings:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Mic testing with the built-in Voice Recorder app
@@ -91,27 +91,23 @@ Follow the steps below to test your microphone in Windows audio settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-44-48.png)
 2. Click**the record icon** to start recording. Try speaking into your microphone.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-45-47.png)
 3. Click**the stop button** to stop recording.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-46-27.png)
 4. Click the recording file to replay it. If your microphone is fine, you should be able to hear your voice clearly.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-47-16.png)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bonus tip: How to fix microphone not working on your computer?
 
@@ -129,6 +125,10 @@ Follow the steps below to test your microphone in Windows audio settings:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-48-18.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Alternatively if you’re comfortable manually installing drivers, you can click**Update** next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-49-09.png)
@@ -155,14 +155,17 @@ Follow the steps below to test your microphone in Windows audio settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/10-must-have-tech-gadgets-for-seamless-video-meetings-for-2024/"><u>10 Must-Have Tech Gadgets for Seamless Video Meetings for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-cutting-edge-editing-a-roadmap-for-high-quality-youtube-sounds/"><u>2024 Approved Cutting-Edge Editing A Roadmap for High-Quality YouTube Sounds</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/from-screens-to-sentences-the-ultimate-guide-to-gadgets-and-novels/"><u>From Screens to Sentences: The Ultimate Guide to Gadgets and Novels</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-cant-deliver-texts-discover-10-effective-remedies-and-expert-advice/"><u>IPhone Can't Deliver Texts? Discover 10 Effective Remedies & Expert Advice</u></a></li>
-<li><a href="https://win-top.techidaily.com/premier-new-york-seo-consultancies-enhancing-online-prominence-searchmax-solutions/"><u>Premier New York SEO Consultancies Enhancing Online Prominence | SearchMax Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-gaming-experience-resolving-sound-issues-on-battlefield-n4/"><u>Revive Your Gaming Experience: Resolving Sound Issues on Battlefield N4</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-pcs-microphone-problems-during-zoom-meetings-a-complete-guide/"><u>Solve Your PC's Microphone Problems During Zoom Meetings - A Complete Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-common-fortnite-audio-issues-step-by-step-fixes/"><u>Solving Common Fortnite Audio Issues – Step-by-Step Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-mystery-of-your-computers-speaker-configuration-in-windows-10/"><u>Solving the Mystery of Your Computer's Speaker Configuration in Windows 10</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-stop-video-capture-a-quicktime-guide/"><u>[New] In 2024, Stop Video Capture A QuickTime Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-download-youtube-thumbnail-in-3-ways-onlinewinmac/"><u>[Updated] 2024 Approved How to Download YouTube Thumbnail in 3 Ways [Online/Win/Mac]</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-essential-steps-for-mp3-streams-on-youtube-for-2024/"><u>[Updated] Essential Steps for MP3 Streams on Youtube for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-monitoring-your-instagram-exit-strategy-for-2024/"><u>[Updated] Monitoring Your Instagram Exit Strategy for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-11-how-to-unlock-a-disabled-apple-iphone-11-by-drfone-ios/"><u>Disabled Apple iPhone 11 How to Unlock a Disabled Apple iPhone 11?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-overwatch-voice-chat-push-to-talk-failures/"><u>Fixing the Issue: Overwatch Voice Chat (Push-to-Talk) Failures</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/integrating-soundscapes-with-fusion-studios-tips/"><u>Integrating Soundscapes with Fusion Studio's Tips</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210761541-9781622039043-leopard-warrior/"><u>Leopard Warrior | Free Book</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/lustrous-android-video-techniques-for-every-user/"><u>Lustrous Android Video Techniques for Every User</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-troubleshooting-a-step-by-step-guide-to-making-windows-11-speakers-functional/"><u>Mastering Troubleshooting: A Step-by-Step Guide to Making Windows 11 Speakers Functional</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-silent-logiteche-g933-headset-easily-with-these-tips/"><u>Resolve Silent Logiteche G933 Headset Easily with These Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-sound-on-your-gameplay-fixing-warzones-mute-dilemma/"><u>Restore Sound on Your Gameplay: Fixing Warzone's Mute Dilemma</u></a></li>
 </ul></div>
 

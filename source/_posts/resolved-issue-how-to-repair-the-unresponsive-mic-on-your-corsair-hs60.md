@@ -1,7 +1,7 @@
 ---
 title: "Resolved Issue: How to Repair the Unresponsive Mic on Your Corsair HS60"
-date: 2024-12-27T23:38:18.246Z
-updated: 2025-01-03T17:26:17.663Z
+date: 2025-01-03T17:15:54.424Z
+updated: 2025-01-10T23:30:45.062Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Select the Bluetooth device as the default playback device
 
  Sometimes we might need to set our audio devices as default in order for them to work properly. To do so:
@@ -44,22 +48,10 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1c8bbf643.jpg)
 2. In the**Playback** tab, click on**your** **Bluetooth device** \>**Set Default** . Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d212718ff2.jpg)
 3. Play some music and see if this**Bluetooth Connected But No Sound** problem gets resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Make sure the audio level is high enough
 
@@ -69,15 +61,15 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1c8bbf643.jpg)
 2. In the**Playback** tab, click on**your** **Bluetooth device** \>**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d223cd2694.jpg)
 3. Click the Levels tab. Then make sure**the volume bar is dragged to an audible level** and the sound icon**isn’t muted** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d22c378f3f.png)
 4. Click**Apply** \>**OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Hopefully the **Bluetooth Connected But No Sound problem** has been resolvedthis time. If the problem still persists, move on to **Fix 3** .
 
@@ -92,16 +84,24 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 2. Double-click on**Bluetooth Support Service** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1e0590947.jpg)
 3. Select**Automatic** in the**Startup type** drop-down menu and then click**Start** to jumpstart the service. Then click**Apply** \>**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1ea8ed445.jpg)
 4. Play some music and test if your**Bluetooth Connected But No Sound** has been fixed. If it’s still no joy, please move on to F**ix 4,** below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your Bluetooth driver
 
@@ -137,7 +137,7 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
@@ -165,21 +165,20 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-virtual-arena-transcript/"><u>[New] 2024 Approved Virtual Arena Transcript</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-pixel-perfect-preservation-the-best-practices-of-recording-games/"><u>[Updated] In 2024, Pixel-Perfect Preservation The Best Practices of Recording Games</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-nokia-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Nokia</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-choreographed-combat-selecting-superior-fighting-titles/"><u>In 2024, Choreographed Combat Selecting Superior Fighting Titles</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-frontier-gadgets-galore-top-10-vr-accessories/"><u>In 2024, Frontier Gadgets Galore Top 10 VR Accessories</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-laughoutloud-maker-get-funny-faces-on-the-web/"><u>In 2024, LaughOutLoud Maker Get Funny Faces on the Web</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ipad-pro-m4-versus-macbook-air-m3-a-detailed-review-and-contrast-of-specs/"><u>IPad Pro M4 Versus MacBook Air M3: A Detailed Review and Contrast of Specs</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-nokia-g310-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixes-how-to-repair-a-non-functional-steelseries-arctis-product-model-microphone/"><u>Troubleshooting Fixes: How To Repair a Non-Functional SteelSeries Arctis ([Product Model]) Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-for-smooth-bluetooth-audio-on-windows-10-and-11-without-interruptions/"><u>Troubleshooting Guide for Smooth Bluetooth Audio on Windows 10 and 11 Without Interruptions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-a-malfunctioning-logitech-webcam-mic/"><u>Troubleshooting Guide: Fixing a Malfunctioning Logitech Webcam Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-discord-voice-chat-issues-push-to-talk-not-responding/"><u>Troubleshooting Guide: Fixing Discord Voice Chat Issues - Push-to-Talk Not Responding</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-common-outriders-sound-problems/"><u>Troubleshooting Guide: Solving Common Outriders Sound Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-intermittent-sound-issues-in-windows-10-solutions/"><u>Troubleshooting Intermittent Sound Issues in Windows 10 - Solutions!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-steps-for-solving-the-discord-audio-interruption-issue/"><u>Ultimate Troubleshooting Steps for Solving the Discord Audio Interruption Issue</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-essential-techniques-for-efficient-iphone-7-recording/"><u>[Updated] 2024 Approved Essential Techniques for Efficient iPhone 7 Recording</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-essential-techniques-in-capturing-live-sports-on-camera/"><u>[Updated] In 2024, Essential Techniques in Capturing Live Sports on Camera</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1728484760985-windows-7/"><u>「システムリカバリ」をWindows 7で設定する詳細なチュートリアル</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-6-budget-savvy-4k-large-screen-options/"><u>2024 Approved Top 6 Budget-Savvy 4K Large Screen Options</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-fast-and-accurate-microphone-diagnostics-at-home/"><u>Expert Tips for Fast and Accurate Microphone Diagnostics at Home</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-when-your-steelseries-arctis-pro-headset-microphone-stops-working/"><u>Quick Fixes for When Your SteelSeries Arctis Pro Headset Microphone Stops Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-mic-and-speaker-problems-when-using-zoom-on-windows-or-mac/"><u>Resolving Mic and Speaker Problems When Using Zoom on Windows or Mac</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-noise-issues-in-world-of-warcraft-a-comprehensive-guide/"><u>Solving Noise Issues in World of Warcraft: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-efficiently-duplicating-formulas-across-cells-in-ms-excel/"><u>Step-by-Step Guide: Efficiently Duplicating Formulas Across Cells in MS Excel</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-ai-powered-therapy-bots-for-managing-psychological-wellness/"><u>Top 5 AI-Powered Therapy Bots for Managing Psychological Wellness</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-non-functional-audio-in-windows-10-solved/"><u>Troubleshooting Non-Functional Audio in Windows 10 - Solved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-when-cod-vanguards-voice-chat-goes-offline/"><u>Troubleshooting Tips for When Cod: Vanguard's Voice Chat Goes Offline</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-g580-drivers-in-a-blink/"><u>Update G580 Drivers in a Blink</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-isnt-my-sound-blaster-microphone-working-common-problems-and-solutions/"><u>Why Isn't My Sound Blaster Microphone Working? - Common Problems and Solutions</u></a></li>
 </ul></div>
 

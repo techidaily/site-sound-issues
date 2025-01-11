@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions to Rectify Google Meet's Microphone Problems on Your PC with Windows 11/10
-date: 2024-12-28T22:47:55.821Z
-updated: 2025-01-03T18:03:11.630Z
+date: 2025-01-07T21:45:15.225Z
+updated: 2025-01-10T16:09:37.639Z
 tags:
   - win11
   - win10
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/d3b76096f4c9dcaff472cd20aa342807816191e8d
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-3.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** to do it for free, but it’s partly manual.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-driver-update-de.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -66,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/d3b76096f4c9dcaff472cd20aa342807816191e8d
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the Settings menu. Select**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-2.jpg)
 2. Select**Microphone** . Then on the right pane, click the**Change** button and turn Microphone access for this device to**On** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 3. Scroll down and make sure the button under**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** is set to**On** . This makes it possible for your browser to access the microphone.  
@@ -82,34 +82,30 @@ thumbnail: https://thmb.techidaily.com/d3b76096f4c9dcaff472cd20aa342807816191e8d
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-1.jpg)
 2. Navigate to the**Recording** tab. First make sure your microphone is enabled (showing a green checkmark). If it’s not and displays a grey down-arrow icon, right-click it and click**Enable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-3.jpg)
 3. Click the**Microphone** you would like to use and click**Set Default** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
 4. You also need to set the microphone volume to a proper level: right-click the microphone and select**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-6-1.jpg)
 5. Click the**Levels** tab and drag the microphone slider to turn the volume to the max. Then click**OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Test your microphone again to see if it works without problem. If the issue persists, check out the next solution below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Check Google Meet’s settings
 
@@ -120,7 +116,7 @@ thumbnail: https://thmb.techidaily.com/d3b76096f4c9dcaff472cd20aa342807816191e8d
 2. Make sure your microphone is not turned off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click the**vertical ellipsis icon** at the top left and select**Settings** .  
@@ -128,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/d3b76096f4c9dcaff472cd20aa342807816191e8d
 4. From the drop-down menu under Microphone, select your primary microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you still can’t use the microphone in Google Meet, the last resort is to**double-check the physical connection** .
 
@@ -156,17 +156,18 @@ thumbnail: https://thmb.techidaily.com/d3b76096f4c9dcaff472cd20aa342807816191e8d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-screencasting-guide-what-is-and-how-to-for-2024/"><u>[New] Screencasting Guide What Is and How To for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-from-camera-roll-to-twitter-feed-video-posting-guide/"><u>[Updated] From Camera Roll to Twitter Feed Video Posting Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/dynamic-duo-combining-multiple-photos-for-impactful-stories/"><u>Dynamic Duo Combining Multiple Photos for Impactful Stories</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-your-machine-download-essential-graphics-drivers-for-gigabyte-x570a-wifi-mb/"><u>Enhance Your Machine - Download Essential Graphics Drivers for Gigabyte X570A WiFi MB</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-guide-to-restoring-mic-functionality-on-windows-11-systems/"><u>Expert Guide to Restoring Mic Functionality on Windows 11 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-apex-legends-solutions-to-restore-game-audio/"><u>Fixing Silent Apex Legends: Solutions to Restore Game Audio</u></a></li>
-<li><a href="https://change-location.techidaily.com/honor-x50-gt-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor X50 GT Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-resolve-audio-glitches-on-windows-11-quickly-5-essential-tips/"><u>How to Troubleshoot and Resolve Audio Glitches on Windows 11 Quickly (5 Essential Tips)</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Itel A60? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/iphone-15-pro-max-vs-samsung-s24-ultra-an-in-depth-review-of-specs-and-capabilities/"><u>IPhone 15 Pro Max Vs. Samsung S24 Ultra - An In-Depth Review of Specs and Capabilities</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-when-your-corsair-virtuoso-stops-working/"><u>Step-by-Step Fixes When Your Corsair Virtuoso Stops Working</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-9-powerful-youtube-video-downloader-for-android-for-2024/"><u>[New] 9 Powerful YouTube Video Downloader for Android for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-digital-diaries-top-picks-for-personal-recorders/"><u>[New] In 2024, Digital Diaries Top Picks for Personal Recorders</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-epic-stories-academy-the-premier-8-list-for-2024/"><u>[Updated] Epic Stories Academy – The Premier 8 List for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-mac-audio-issues-solutions-and-tips/"><u>Fixing Mac Audio Issues: Solutions & Tips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-meizu-21-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Meizu 21 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-restoring-audio-output-for-your-hp-laptop-running-windows-solved/"><u>Guide: Restoring Audio Output for Your HP Laptop Running Windows [SOLVED]</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y56 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-magix-vpx-a-comprehensive-analysis/"><u>In 2024, Unveiling Magix VPX A Comprehensive Analysis</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/liberamente-converte-i-tuoi-video-mp4-a-ottime-foto-jpeg-facile-strategia-online-usando-movavi/"><u>Liberamente Converte I Tuoi Video MP4 a Ottime Foto JPEG - Facile Strategia Online Usando Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-audio-problems-restoring-headphones-on-windows-11-system/"><u>Overcome Audio Problems: Restoring Headphones on Windows 11 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/repair-tips-resolving-sony-wh-1000xm3-microphone-failure-on-windows-computers/"><u>Repair Tips: Resolving Sony WH-1000XM3 Microphone Failure on Windows Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-discord-volume-problems-how-to-hear-clearly-again/"><u>Solving Discord Volume Problems - How to Hear Clearly Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-audio-troubles-get-your-headphones-up-and-running/"><u>Windows 11 Audio Troubles? Get Your Headphones Up and Running</u></a></li>
 </ul></div>
 

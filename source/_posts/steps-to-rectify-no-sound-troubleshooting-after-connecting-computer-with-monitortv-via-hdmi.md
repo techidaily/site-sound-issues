@@ -1,7 +1,7 @@
 ---
 title: Steps to Rectify No-Sound Troubleshooting After Connecting Computer with Monitor/TV via HDMI
-date: 2025-01-02T00:30:03.010Z
-updated: 2025-01-03T19:45:13.843Z
+date: 2025-01-07T18:35:27.105Z
+updated: 2025-01-10T20:37:55.814Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/f5d152a23ebe0537eddcc39792614d56215becc53
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -64,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/f5d152a23ebe0537eddcc39792614d56215becc53
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click the**Update** button next to the flagged audio driver to do it for free, but it’s partly manual.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-2-1.jpg)
@@ -85,7 +81,7 @@ Below is how to configure a a correct setup:
 2. Select**Small icons** next to View by and click**Sound** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-2.jpg)
@@ -100,16 +96,24 @@ Below is how to configure a a correct setup:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-audio-enhancements.jpg)
 6. Back to your desktop, right-click the**speaker icon** on the taskbar and click**Open Volume mixer** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-2.jpg)
 7. **Hold and drag the slider for Zoom** to turn up the volume.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/volume-mixer-2.jpg)
 
  Now see if the Zoom audio works as expected. If not, check out the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Check the Zoom settings
 
@@ -119,20 +123,16 @@ Below is how to configure a a correct setup:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-1.jpg)
 2. Navigate to the**Audio** tab. Then, make sure you’re using the right device as Speaker and Microphone.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/zoom-settings-1.jpg)
 3. Tick**Show in-meeting option to Turn on Original Sound** and disable**Echo cancellation** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/zoom-settings-2.jpg)
 
  Join a Zoom meeting to test. If the issue persists, proceed to the last solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Install all Windows updates
 
@@ -142,11 +142,11 @@ Below is how to configure a a correct setup:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/check-for-windows-updates-1.jpg)
 2. Click the **Check for updates**  button. The available updates will be automatically downloaded and installed.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/check-for-windows-updates-2.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/check-for-windows-updates-2.jpg)
 
  Once done, restart your computer for the changes to take full effect, and you should be hearing the sound on Zoom normally.
 
@@ -171,20 +171,21 @@ Below is how to configure a a correct setup:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-easy-ios-screen-recording-tips-and-tricks/"><u>[New] In 2024, Easy iOS Screen Recording Tips & Tricks</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-8-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 8 Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/easy-guide-to-reversing-windows-1011-disk-cleanup-process/"><u>Easy Guide to Reversing Windows 10/11 Disk Cleanup Process</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-freeze-and-crash-in-windows-epic-launcher/"><u>Eliminating Freeze and Crash in Windows Epic Launcher</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-realtek-audio-input/"><u>How to Fix a Non-Functioning Realtek Audio Input</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-the-no-speaker-or-headphone-connected-problem-on-windows-10-8-and-7/"><u>How to Resolve the 'No Speaker or Headphone Connected' Problem on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-to-sync-your-favorite-tunes-transferring-apple-music-playlists-to-and-from-youtubes-service-a-zdnet-guide/"><u>How to Sync Your Favorite Tunes: Transferring Apple Music Playlists to and From YouTube's Service - A ZDNet Guide</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/mastering-the-art-of-persuasion-in-marketing/"><u>Mastering the Art of Persuasion in Marketing</u></a></li>
-<li><a href="https://windows11.techidaily.com/microsoft-store-troubleshoot-guide-for-error-x80072f30/"><u>Microsoft Store Troubleshoot Guide for Error X80072F30</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/say-goodbye-to-crackles-and-clipping-eliminating-audio-problems-on-your-pc-with-windows-11-or-7/"><u>Say Goodbye to Crackles & Clipping: Eliminating Audio Problems on Your PC with Windows 11 or 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-for-a-non-responsive-razer-kraken-headset-microphone/"><u>Solution Steps for a Non-Responsive Razer Kraken Headset Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-sound-issues-with-zoom-on-your-computer/"><u>Troubleshooting Steps: Resolving Sound Issues with Zoom on Your Computer</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-11-fixing-bluetooth-sound-skips-and-lags/"><u>Troubleshooting Windows 11: Fixing Bluetooth Sound Skips and Lags</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015998543-windows-10/"><u>Windows 지스 10에서 소음이 끊어질 수 있는 문제 해결</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-infinite-possibilities-with-ai-generating-viral-video-titles/"><u>[New] 2024 Approved Infinite Possibilities with AI Generating Viral Video Titles</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-screen-capture-high-quality-snaps-with-ease/"><u>[Updated] How to Screen-Capture High-Quality Snaps with Ease</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-guide-to-lg-media-and-distribution-avenues/"><u>A Comprehensive Guide to LG Media & Distribution Avenues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/boosting-sound-on-facebook-videos-on-windows-computers-latest-fixes-and-tips-2-groovy/"><u>Boosting Sound on Facebook Videos on Windows Computers - Latest Fixes and Tips (2 Groovy)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/catch-em-all-in-no-time-learn-to-play-pokemon-go-now/"><u>Catch 'Em All in No Time - Learn to Play Pokemon Go Now!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-fixes-for-the-cygwin1dll-missing-error-dilemma/"><u>Comprehensive Fixes for the cygwin1.dll Missing Error Dilemma</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-laptops-that-dont-charge-when-plugged-in-on-windows-11-systems/"><u>Effective Solutions for Laptops That Don't Charge When Plugged in on Windows 11 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-how-to-stop-everscape-ii-from-crashing-on-your-windows-computer/"><u>Fixes & Solutions: How to Stop Everscape II From Crashing on Your Windows Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-non-functional-speakers-on-your-windows-10-pc-expert-tips/"><u>How to Fix Non-Functional Speakers on Your Windows 10 PC - Expert Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/lightroom-lut-guide-discovering-the-best-10-tools-for-color-grading-for-2024/"><u>Lightroom LUT Guide Discovering the Best 10 Tools for Color Grading for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-lagging-and-skipping-sounds-in-bluetooth-pairings-with-windows-eleven/"><u>Overcoming Lagging and Skipping Sounds in Bluetooth Pairings with Windows ˈeleven</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/protecting-your-ai-cloud-data-apples-security-measures-explained-insights-from-zdnet/"><u>Protecting Your AI Cloud Data: Apple’s Security Measures Explained - Insights From ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-in-game-communications-fixing-mic-problems-on-dota-2-pc-edition/"><u>Revive Your In-Game Communications: Fixing Mic Problems on Dota 2 PC Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-repairing-your-devices-broken-main-audio-connection/"><u>Step-by-Step Guide: Repairing Your Device's Broken Main Audio Connection</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-bluetooth-device-connectivity-on-windows-11/"><u>Step-by-Step Solutions for Bluetooth Device Connectivity on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016104599-the-ultimate-troubleshooter-resolving-problems-with-logitech-g633-mic-solved/"><u>The Ultimate Troubleshooter: Resolving Problems with Logitech G633 Mic - Solved</u></a></li>
 </ul></div>
 

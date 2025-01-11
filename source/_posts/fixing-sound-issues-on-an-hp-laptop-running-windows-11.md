@@ -1,7 +1,7 @@
 ---
 title: Fixing Sound Issues on an HP Laptop Running Windows 11
-date: 2025-01-03T05:06:35.047Z
-updated: 2025-01-03T18:26:40.684Z
+date: 2025-01-05T23:29:57.364Z
+updated: 2025-01-10T21:49:18.184Z
 tags:
   - win11
   - win10
@@ -38,24 +38,28 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a273f85c31.png)
 2. Double-click**Sound, video, and game controllers** . Then right-click the audio device driver that you have and choose**Update driver** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a27949ffeb.png)
 3. Choose**Browse my computer for driver software** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28445c675.png)
 4. Then choose**Let me pick from a list of available drivers on my computer** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a286f3d5de.png)
 5. Make sure the box for**Show compatible hardware** is**TICKED** . Then choose**High Definition Audio Device** from the list, and hit**Next** to continue.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28cccfd3f.png)
 6. You will see the warning asking you whether you want to go on with the installation, click**Yes** to continue.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a294398588.png)
@@ -79,10 +83,6 @@ Read on and follow the easy-doing images below!
 
  If your computer sound still keeps cutting out, please move on to the next option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Option 2: Change Sound Enhancement Settings
 
  The audio enhancements feature could interfere with the sound output, and therefore cause problems like sound keeping cutting out. To see if this is your case:
@@ -94,24 +94,12 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Option 3: Change Speaker Settings
 
@@ -121,18 +109,31 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
  Try to play audio with your computer again to see if the sound still cuts out.
@@ -158,21 +159,20 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-epic-comic-strip-crafting-app-for-2024/"><u>[Updated] Epic Comic Strip Crafting App for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-becoming-a-skin-deep-sage-setting-up-your-beauty-channel/"><u>2024 Approved Becoming a Skin-Deep Sage Setting Up Your Beauty Channel</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-elite-list-of-mac-devices-insights-comprehensive-guide/"><u>Discover the Elite List of Mac Devices : Insights Comprehensive Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/eliminate-display-disturbance-learn-how-to-tackle-phone-screen-flicker-with-these-7-proven-solutions/"><u>Eliminate Display Disturbance: Learn How to Tackle Phone Screen Flicker with These ^7 Proven Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-astros-quick-solutions-for-the-astro-a50-audio-issue/"><u>Fixing Silent Astros: Quick Solutions for the Astro A50 Audio Issue</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-annoying-windows-audio-glitch-a-complete-guide/"><u>Fixing the Annoying Windows Audio Glitch: A Complete Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fortnite-voice-chat-issue-discover-how-to-fix-microphone-problems-quickly/"><u>Fortnite Voice Chat Issue? Discover How to Fix Microphone Problems Quickly</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/how-to-use-youtube-music-tracks-as-ringtones-on-iphone-and-android-devices/"><u>How to Use YouTube Music Tracks as Ringtones on iPhone and Android Devices</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-samsung-galaxy-s8-setting-new-standards-for-4k-video/"><u>In 2024, Samsung Galaxy S8 Setting New Standards for 4K Video</u></a></li>
-<li><a href="https://win-popular.techidaily.com/neurotransmitter-imbalances-can-result-in-various-disorders-dopamine-loss-leads-to-parkinsons-disease-and-serotonin-deficiency-is-linked-to-depression/"><u>Neurotransmitter Imbalances Can Result in Various Disorders: Dopamine Loss Leads to Parkinson's Disease, and Serotonin Deficiency Is Linked to Depression.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-persistent-speaker-noise-in-windows-117-expert-tips-revealed/"><u>Solving the Persistent Speaker Noise in Windows 11/7 - Expert Tips Revealed!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-repairing-mic-problems-on-fortnite-platform/"><u>Step-by-Step Guide: Repairing Mic Problems on Fortnite Platform</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-quick-setup-for-smartphones-as-personalized-vr-headsets/"><u>The Quick Setup for Smartphones as Personalized VR Headsets</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-hdmi-problems-caused-by-conflicting-application-usage/"><u>Troubleshooting HDMI Problems Caused by Conflicting Application Usage</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-fix-for-audio-glitches-in-windows-operating-systems/"><u>Ultimate Fix for Audio Glitches in Windows Operating Systems</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/windows-11-usb-3/"><u>Windows 11 での USB メモリ編集 - パーティション撤去手順3つ要覧</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-efficient-methods-to-master-your-phone-memos/"><u>[Updated] In 2024, Efficient Methods to Master Your Phone Memos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-mac-screenshots-transforming-extensions/"><u>[Updated] Mac Screenshots Transforming Extensions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/defeating-squad-mic-problems-once-and-for-all-comprehensive-guide/"><u>Defeating Squad Mic Problems Once and For All - Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-ways-to-resolve-redragon-headset-mic-problems-in-windows-os/"><u>Effective Ways to Resolve Redragon Headset Mic Problems in Windows OS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/flipbook-of-facebook-feeds-for-2024/"><u>Flipbook of Facebook Feeds for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-diagnosing-and-repairing-tozo-t6-problems-under-windows-11/"><u>Guide to Diagnosing and Repairing Tozo T6 Problems Under Windows 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/here-are-5-best-free-imovie-online-alternatives-that-you-can-use-on-chromebook-linux-windows-pc-mac-android-iphone-without-downloading/"><u>Here Are 5 Best Free iMovie Online Alternatives that You Can Use on Chromebook, Linux, Windows PC, Mac, Android, iPhone without Downloading</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-hyperx-cloud-alpha-s-mic-working-perfectly-again/"><u>How to Get Your HyperX Cloud Alpha S Mic Working Perfectly Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-idt-hd-audio-driver-working-in-windows-11-solved/"><u>How to Get Your IDT HD Audio Driver Working in Windows 11 - Solved</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-y02t-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo Y02T</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mailcom-subscription-details-explored-anticipating-account-expiration-dates/"><u>Mail.com Subscription Details Explored: Anticipating Account Expiration Dates</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-challenges-starting-the-dolby-driver-on-your-pc-running-windows-10/"><u>Overcoming Challenges: Starting the Dolby Driver on Your PC Running Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbelievable-cyber-monday-savings-snag-a-microsoft-surface-pro/"><u>Unbelievable Cyber Monday Savings: Snag a Microsoft Surface Pro</u></a></li>
 </ul></div>
 

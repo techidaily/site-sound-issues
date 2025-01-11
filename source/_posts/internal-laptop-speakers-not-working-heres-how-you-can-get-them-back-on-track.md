@@ -1,7 +1,7 @@
 ---
 title: Internal Laptop Speakers Not Working? Here’s How You Can Get Them Back on Track
-date: 2024-08-18T08:09:40.728Z
-updated: 2024-08-19T08:09:40.728Z
+date: 2025-01-09T19:11:18.587Z
+updated: 2025-01-10T22:27:15.280Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ When you try to play music or video on your laptop, but just find**no sound on t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-22.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Set your speakers as default device
 
  1) Right-click on the**s** **ound** icon on your taskbar. Then click**Playback devices** .
@@ -57,8 +61,9 @@ Go with the easy steps to show it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3:**Reinstall your sound card driver**
 
 1) Press the **Windows** logo key + **R** key together to open the **Run** box.
@@ -67,30 +72,26 @@ Go with the easy steps to show it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 2) Expand **Sound, video and game controllers** . Then right click on your sound card’s name and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Tick on **Delete the driver software for this device.** Then click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Restart your PC to make change take effect. Windows will automatically reinstall sound driver for you now.
 
  5) Check if speakers works on your laptop now.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Update**your sound card driver**
 
  If the 1-3 fixes didn’t solve your issue, make sure to update your sound card driver.
@@ -102,8 +103,9 @@ It has two versions. Have a try on its **[Free Version](https://tools.techidaily
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -120,8 +122,6 @@ Any problems just feel free to leave your comment below, thanks.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +129,26 @@ Any problems just feel free to leave your comment below, thanks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-selling-success-on-facebook-ideas-and-strategies-to-try/"><u>[New] In 2024, Selling Success on Facebook Ideas and Strategies to Try</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-best-approaches-to-non-sound-media/"><u>[Updated] Best Approaches to Non-Sound Media</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-navigating-the-world-of-online-broadcasts-on-youtube-and-twitch-with-obs/"><u>[Updated] Navigating the World of Online Broadcasts on YouTube and Twitch with OBS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-common-issues-with-the-logitech-g733-mic/"><u>Diagnosing and Repairing Common Issues with the Logitech G733 Mic</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-a-non-responsive-discord-voice-chat-experience/"><u>Effective Solutions for a Non-Responsive Discord Voice Chat Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-making-discords-push-to-talk-function-work-properly-again/"><u>Expert Tips on Making Discord's Push-to-Talk Function Work Properly Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-mac-volume-issues-a-complete-guide/"><u>Fixing Mac Volume Issues: A Complete Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-non-functional-mic-in-your-dota-2-game-ultimate-solutions/"><u>Fixing the Non-Functional Mic in Your Dota 2 Game – Ultimate Solutions!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-speakers-working-again-in-firefox-a-comprehensive-fix/"><u>Get Your Speakers Working Again in Firefox - A Comprehensive Fix</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-apple-iphone-13-pro-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About Apple iPhone 13 Pro Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-vivo-g2-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Vivo G2</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-online-symphony-sessions/"><u>In 2024, Prime Online Symphony Sessions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-restoring-audio-on-your-astro-a50-speaker/"><u>Quick Solutions: Restoring Audio on Your Astro A50 Speaker</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-astro-a50-microphone-compatibility-issues-for-perfect-sound-quality/"><u>Solve Astro A50 Microphone Compatibility Issues for Perfect Sound Quality</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/supercharge-your-social-sagas-free-seamless-online-integration/"><u>Supercharge Your Social Sagas FREE, Seamless Online Integration</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tutorial-how-to-switch-off-sound-amplification-on-your-windows-11-pc/"><u>Tutorial: How to Switch Off Sound Amplification on Your Windows 11 PC</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-poco-c50-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Poco C50 | Dr.fone</u></a></li>
+</ul></div>
 

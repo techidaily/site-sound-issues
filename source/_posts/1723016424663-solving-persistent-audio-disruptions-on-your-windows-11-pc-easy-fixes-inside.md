@@ -1,7 +1,7 @@
 ---
 title: Solving Persistent Audio Disruptions on Your Windows 11 PC - Easy Fixes Inside
-date: 2024-08-18T08:08:04.936Z
-updated: 2024-08-19T08:08:04.936Z
+date: 2025-01-09T20:53:20.768Z
+updated: 2025-01-10T18:15:58.367Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/bb47cd4fd3c3317200fd6a0408edf3404c84e0ce2
 
 It can be a frustrating issue that the sound or audio on your Windows 11 computer intermittently stops or becomes distorted. To troubleshoot the issue, you may need to check various settings and potential causes. In this tutorial, we’ve got you covered!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Before delving into any advanced settings
 
  First, you should restart your computer. Sometimes, a simple restart can resolve temporary glitches or conflicts that may be causing the audio to cut out.
@@ -31,15 +35,16 @@ If your audio still cuts out after a restart, try these fixes:
 6. **[Restart audio services](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Repair your system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check the basics
 
  To efficiently identify the source of the problem, you need to confirm that your audio device is functioning properly. If you’re using external speakers, check the power source and connections. Check if they’re working properly on other devices.
 
  If you’re pretty sure that your speakers or headphones are in good condition, try the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Install all Windows updates
 
  Windows updates often address software bugs and compatibility issues that may contribute to the audio problem. To take advantage of bug fixes and system improvements that come with Windows updates, you can verify if you install all the available Windows updates. Below are the steps you take:
@@ -49,9 +54,6 @@ If your audio still cuts out after a restart, try these fixes:
 2. Click on the button**Check for updates** . When available, follow the on-screen instructions to download and install the Windows updates.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/07/win11-check-for-updates.png)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Reboot your device and play the audio to see if your problem persists.
 
 ## 3\. Update audio drivers
@@ -61,8 +63,9 @@ Reboot your device and play the audio to see if your problem persists.
  There are mainly two ways you can update your audio drivers:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1: Get driver updates from the manufacturer’s websites or via the Device Manager
 
  You can visit the manufacturer’s website for your sound card, find the driver version that corresponds with your system, and follow the on-screen instructions to download and install the latest driver.
@@ -73,9 +76,6 @@ _Have no idea which sound card you have? Take these steps:_
 2. Type**dxdiag** and hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-dxdiag.jpg)
 3. Select the**Sound** tab and you should see the details of your sound card.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 
 Or you can update your audio drivers through the Device Manager:
 
@@ -85,10 +85,11 @@ Or you can update your audio drivers through the Device Manager:
 3. In the Device Manager window, find and double-click the**Sound, video and game controllers** category to expand it. Right-click on the audio device for which you want to update the driver. This could be your sound card or integrated audio device.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/update-audio-drivers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Then follow the on-screen instructions to search for and install the latest drivers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update drivers with Driver Easy
 
@@ -100,21 +101,12 @@ Below is the simple three-step guide to update drivers with Driver Easy:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the Pro version – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer. If your audio is still cutting out, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Run the audio troubleshooter
 
  The Windows audio troubleshooter is a built-in tool in the Windows operating system designed to automatically diagnose and resolve common audio-related issues. It provides a guided process to identify problems and apply solutions to restore proper audio functionality. If you’re experiencing issues like audio cutting out, using the Windows audio troubleshooter can be a helpful step in troubleshooting the problem.
@@ -123,12 +115,18 @@ Below is the simple three-step guide to update drivers with Driver Easy:
 2. From the left navigation panel, select**System** . Scroll down and Click**Troubleshoot** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to**Audio** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-System-Other-troubleshooters-Audio-troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to detect and solve your issues. If it fails to do so, no worries! Below are some other fixes for you to try.
 
@@ -142,15 +140,25 @@ Below is the simple three-step guide to update drivers with Driver Easy:
 3. Scroll down to the**Advanced** section and click**All sound devices** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-All-sound-devices.jpg)
 4. Under the**Output devices** section, click**Speakers** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-Output-devices-Speakers.jpg)
 5. Click on the**Audio enhancements** drop-down menu and select**Off** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-Audio-enhancements-Off.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If disabling audio enhancements doesn’t resolve your issue, see the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Restart audio services
 
  Windows audio services are essential services in the Windows operating system responsible for handling audio-related tasks. Restarting these services can be a troubleshooting step to resolve issues such as audio cutting out.
@@ -159,9 +167,6 @@ Below is the simple three-step guide to update drivers with Driver Easy:
 2. Type**services.msc** and hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-services.msc_.jpg)
 3. Right-click each of the following services and select**Restart** .  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Windows Audio**  
 
@@ -183,16 +188,15 @@ Below is the simple three-step guide to update drivers with Driver Easy:
 2. Open Fortect and run a free scan of your PC.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/Fortect-START-SCAN.png)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click **Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
  After the repair, restart your computer. Then check if your problem has been solved.
 
 ---
@@ -207,8 +211,6 @@ _\*featured image by GraphiqaStock on Freepik_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +218,26 @@ _\*featured image by GraphiqaStock on Freepik_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-a-step-by-step-approach-to-snapchat-commerce-for-2024/"><u>[New] A Step-by-Step Approach to Snapchat Commerce for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-earn-online-via-youtube-how-reaching-500-subscribers-pays-off/"><u>[New] Earn Online via YouTube How Reaching 500 Subscribers Pays Off</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unlock-the-secrets-essential-tiktok-video-editing-techniques/"><u>[New] Unlock the Secrets Essential TikTok Video Editing Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-enterprise-account-the-complete-guidebook/"><u>[Updated] 2024 Approved Instagram Enterprise Account The Complete Guidebook</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-raising-awareness-with-youtubes-cc-membership-tips-for-view-growth/"><u>2024 Approved Raising Awareness with YouTube's CC Membership Tips for View Growth</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/creative-pebble-soundbar-troubles-expert-solutions-for-non-functional-speakers/"><u>Creative Pebble Soundbar Troubles: Expert Solutions for Non-Functional Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-guide-setting-up-your-speakers-correctly-on-windows-11/"><u>Easy Guide: Setting Up Your Speakers Correctly on Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-download-and-install-brother-l2540dw-driver-on-a-windows-operating-system/"><u>How to Download and Install Brother L2540DW Driver on a Windows Operating System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-non-functional-logitech-g733-headset-mic-a-step-by-step-guide/"><u>How to Repair a Non-Functional Logitech G733 Headset Mic: A Step-by-Step Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-fast-snap-restoration-guide/"><u>In 2024, Fast Snap Restoration Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-videographers-choice-high-quality-camera-lenses-reviewed/"><u>In 2024, Videographers’ Choice High-Quality Camera Lenses Reviewed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015403809-logitech-g933-microphone-troubleshooting-guide-get-it-back-on-track/"><u>Logitech G933 Microphone Troubleshooting Guide - Get It Back On Track</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-audio-hurdles-fixing-skypes-microphone-fault-in-windows-11/"><u>Overcoming Audio Hurdles: Fixing Skype's Microphone Fault in Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-plugged-in-but-no-sound-problem-for-windows-users/"><u>Resolving 'Plugged In but No Sound' Problem for Windows Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-error-in-moderation-issue-with-chatgpt-a-step-by-step-guide/"><u>Solving the 'Error in Moderation' Issue with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-fix-for-audio-disturbances-in-latest-games/"><u>The Ultimate Fix for Audio Disturbances in Latest Games</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-your-logitech-g733-microphone-issues/"><u>Troubleshooting Guide: Fixing Your Logitech G733 Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-windows-1110-google-meet-microphone-issues/"><u>Troubleshooting Guide: Solving Windows 11/10 Google Meet Microphone Issues</u></a></li>
+</ul></div>
 

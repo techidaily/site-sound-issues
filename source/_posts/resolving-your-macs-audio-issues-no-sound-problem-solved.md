@@ -1,7 +1,7 @@
 ---
 title: "Resolving Your Mac's Audio Issues: No Sound Problem Solved"
-date: 2024-12-30T23:46:02.810Z
-updated: 2025-01-04T02:59:47.323Z
+date: 2025-01-08T20:57:17.724Z
+updated: 2025-01-10T17:32:01.922Z
 tags:
   - win11
   - win10
@@ -47,6 +47,10 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Make sure the volume is audible
 
  Sometimes you can’t hear sound from your speakers simply because the volume is mute or set too low.
@@ -58,7 +62,7 @@ To make sure the volume is audible:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7da01ab6db.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
@@ -81,17 +85,9 @@ To make sure the volume is audible:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e879b5615.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e8c0387a6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -110,22 +106,22 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7f6955a2d7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the **Playback** tab, click on **the audio device you wish to play** , then click **Set Default** . Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7f797e4504.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If **the audio device you’re to play** doesn’t show up in the device list, and right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the device** once it appears and click **Enable** before you do step **2)** .
 
  3) Check to see if your Lenovo no sound problem has been fixed. If yes, then great! But if it’s still no joy, please move on to**Fix 5,** below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable audio enhancements
 
@@ -144,6 +140,10 @@ Here’s how:
  3) Click the **Enhancements** tab, then tick **the bo** x for **Disable all enhancements** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd80d9349581.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Test your audio device and see if the no sound issue is resolved.
 
@@ -172,14 +172,18 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-transform-subtitles-quickly-best-8-converters-from-sub-to-streamlined-srtr/"><u>[New] Transform Subtitles Quickly! Best 8 Converters From SUB to Streamlined SRTR</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/outube-music-composition-techniques-for-2024/"><u>[New] YouTube Music Composition Techniques for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-pioneer-your-way-through-youtube-shorts-production/"><u>[Updated] Pioneer Your Way Through YouTube Shorts Production</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/a-comprehensive-walkthrough-for-correcting-connectivity-and-sound-issues-in-corsair-void-microphones/"><u>A Comprehensive Walkthrough for Correcting Connectivity and Sound Issues in Corsair Void Microphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audacity-sound-device-error-try-our-five-proven-solutions-to-get-back-on-track/"><u>Audacity Sound Device Error? Try Our Five Proven Solutions to Get Back on Track</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-fixes-for-pc-gamers-resolve-silent-problems-in-call-of-dute-black-ops-cold-war-gameplay/"><u>Audio Fixes for PC Gamers - Resolve Silent Problems in Call of Dute: Black Ops Cold War Gameplay</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/banish-the-quiet-restoring-audio-after-windows-11-patch-quick-solutions/"><u>Banish the Quiet: Restoring Audio After Windows 11 Patch - Quick Solutions</u></a></li>
-<li><a href="https://discover-best.techidaily.com/cookiebot-elevating-web-performance-and-personalization/"><u>Cookiebot: Elevating Web Performance and Personalization</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-tecno-pop-8-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Tecno Pop 8</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-radeon-relive-download/"><u>[Updated] Radeon Relive Download</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-virtual-language-basics/"><u>2024 Approved Navigating Virtual Language Basics</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-y100i-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-12-pro-max-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 12 Pro Max Without Passcode Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/headphone-problems-erase-that-crackling-in-seconds-with-easy-fixes/"><u>Headphone Problems? Erase That Crackling in Seconds with Easy Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-functionality-on-a-malfunctioning-laptop/"><u>How to Restore Sound Functionality on a Malfunctioning Laptop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g533-microphone-troubleshooting-guide-get-it-working-again/"><u>Logitech G533 Microphone Troubleshooting Guide: Get It Working Again!</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/phone-warmth-woes-identifying-causes-of-heat-build-up-and-solutions-to-keep-it-cool-insights-from-malwarefox/"><u>Phone Warmth Woes: Identifying Causes of Heat Build-Up & Solutions to Keep It Cool | Insights From MalwareFox</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/premier-ios-devices-to-play-psp-games-in-high-fidelity-2023-edition-for-2024/"><u>Premier iOS Devices to Play PSP Games in High Fidelity, 2023 Edition for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-microphone-malfunction-here-are-the-solutions/"><u>Realtek Microphone Malfunction? Here Are The Solutions!</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-visibility-to-system-startups-on-win-os/"><u>Restoring Visibility to System Startups on Win OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016314521-sound-issues-on-windows-7-heres-what-you-can-do/"><u>Sound Issues on Windows 7? Here’s What You Can Do</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-sound-glitches-effective-solutions-for-outriders-players/"><u>Troubleshooting Sound Glitches: Effective Solutions for Outriders Players</u></a></li>
 </ul></div>
 

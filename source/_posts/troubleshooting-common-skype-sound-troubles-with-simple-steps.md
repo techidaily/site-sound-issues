@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Common Skype Sound Troubles with Simple Steps
-date: 2024-08-18T08:12:11.708Z
-updated: 2024-08-19T08:12:11.708Z
+date: 2025-01-09T17:36:30.804Z
+updated: 2025-01-10T20:20:15.029Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/7210d597b33981cf8e8bc74bc3a1da89a343d982e
 ![zoom no sound](https://images.drivereasy.com/wp-content/uploads/2021/04/zoom-logo.jpg)
 
  It’s a frustrating situation that you’re on a Zoom meeting and can’t hear any other participant with no sound coming out. If you run into Zoom no sound on your Windows PC, don’t worry. We’ll show you how to fix it step by step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -53,22 +57,17 @@ thumbnail: https://thmb.techidaily.com/7210d597b33981cf8e8bc74bc3a1da89a343d982e
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click the**Update** button next to the flagged audio driver to do it for free, but it’s partly manual.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  So does the driver update get your Zoom audio back on track? If not, there are a few more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3 – Configure the PC sound settings
 
  You need to configure the sound settings on your computer properly before Zoom can access your speaker and microphone. In most cases, your primary device will be set as default automatically, but if you’ve constantly changed between headsets and speakers, the settings might be messed up.
@@ -80,26 +79,41 @@ Below is how to configure a a correct setup:
 2. Select**Small icons** next to View by and click**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-2.jpg)
 3. Choose your preferred output device and click**Set Default** . Then click**Apply** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/set-as-default.jpg)
-4. Click the device and select**Properties** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-audio-enhancements-3.jpg)
-5. On the**Enhnacements** tab, check**Disable all enhancements** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-audio-enhancements.jpg)
-6. Back to your desktop, right-click the**speaker icon** on the taskbar and click**Open Volume mixer** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-2.jpg)
-7. **Hold and drag the slider for Zoom** to turn up the volume.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/volume-mixer-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/set-as-default.jpg)
+4. Click the device and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-audio-enhancements-3.jpg)
+5. On the**Enhnacements** tab, check**Disable all enhancements** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-audio-enhancements.jpg)
+6. Back to your desktop, right-click the**speaker icon** on the taskbar and click**Open Volume mixer** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-2.jpg)
+7. **Hold and drag the slider for Zoom** to turn up the volume.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/volume-mixer-2.jpg)
+
  Now see if the Zoom audio works as expected. If not, check out the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Check the Zoom settings
 
@@ -110,16 +124,10 @@ Below is how to configure a a correct setup:
 2. Navigate to the**Audio** tab. Then, make sure you’re using the right device as Speaker and Microphone.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/zoom-settings-1.jpg)
 3. Tick**Show in-meeting option to Turn on Original Sound** and disable**Echo cancellation** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/zoom-settings-2.jpg)
 
  Join a Zoom meeting to test. If the issue persists, proceed to the last solution.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5 – Install all Windows updates
 
  An out-of-date operating system might trigger various weird issues including Zoom sound not working. For better performance and stability of Windows, make sure you check for the updates regularly.
@@ -129,9 +137,6 @@ Below is how to configure a a correct setup:
 2. Click the **Check for updates**  button. The available updates will be automatically downloaded and installed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/check-for-windows-updates-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Once done, restart your computer for the changes to take full effect, and you should be hearing the sound on Zoom normally.
 
 ---
@@ -146,8 +151,6 @@ Below is how to configure a a correct setup:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +158,20 @@ Below is how to configure a a correct setup:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-tackling-youtubes-dark-view-troubleshooting-steps-for-2024/"><u>[Updated] Tackling YouTube's Dark View Troubleshooting Steps for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-audio-adjustments-correcting-weak-sounds-on-windows-11-computers/"><u>DIY Audio Adjustments: Correcting Weak Sounds on Windows 11 Computers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-oppo-reno-8t-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Oppo Reno 8T</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improve-gameplay-speed-in-virtual-construction/"><u>Improve Gameplay Speed in Virtual Construction</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improve-image-quality-on-displays/"><u>Improve Image Quality on Displays</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-note-13-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi Note 13 5G Phone FRP Lock</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g533-headset-microphone-failure-heres-how-to-get-it-working-again/"><u>Logitech G533 Headset Microphone Failure? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-a-simple-way-to-get-kinemaster-on-your-mac-download-and-install/"><u>New In 2024, A Simple Way to Get KineMaster on Your Mac Download and Install</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-pcs-volume-effective-remedies-for-common-it-takes-two-and-other-audio-glitches/"><u>Revive Your PC's Volume: Effective Remedies for Common 'It Takes Two' And Other Audio Glitches</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-turtle-beach-mic-expert-fixes-for-common-connectivity-glitches/"><u>Revive Your Turtle Beach Mic: Expert Fixes for Common Connectivity Glitches</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/secrets-to-a-never-ending-snapstreak-inside-knowledge-for-2024/"><u>Secrets to a Never-Ending Snapstreak Inside Knowledge for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-conexant-smartaudio-hd-audio-problem-in-windows-11/"><u>Solving the Conexant SmartAudio HD Audio Problem in Windows 11</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-slow-down-with-the-best-top-10-video-players/"><u>Updated 2024 Approved Slow Down with the Best Top 10 Video Players</u></a></li>
+</ul></div>
 

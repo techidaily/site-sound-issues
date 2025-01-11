@@ -1,7 +1,7 @@
 ---
 title: Unstuck with No Volume? Here's How to Fix Sound Problems on Your Laptop
-date: 2025-01-01T20:54:32.260Z
-updated: 2025-01-03T19:41:19.876Z
+date: 2025-01-03T19:35:51.358Z
+updated: 2025-01-10T22:03:38.051Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix Razer Kraken Mic Not Working
 
  Here are two fixes for you to try. You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -38,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 2. [**Update your audio drivers**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Check your microphone device settings
@@ -48,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 **1) Hold down the Windows logo** **key**  and**press the R** **key** on your keyboard at the same time to bring up the Run dialog, then type “_**control**_ ” and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
@@ -61,17 +61,21 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)**  Right click the**Headset Microphone** and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Right click it again and select **Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **7)** Right click**Headset Microphone** and click**Properties** .
 
@@ -81,17 +85,9 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **9)** Click**OK** , then click**OK** .
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem. But if not, you may need to…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Update your audio drivers
 
@@ -110,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 **3)** Click the**Activate & Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/IntelR-Display-Audio.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)
 
@@ -132,21 +132,22 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-breathless-battles-olympic-short-track/"><u>[New] Breathless Battles Olympic Short Track</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-best-movie-swaps-top-7-alternate-films/"><u>[Updated] In 2024, Best Movie Swaps Top 7 Alternate Films</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/conquering-soundless-skirmishes-in-call-of-duty-warzone-expert-tips-players/"><u>Conquering Soundless Skirmishes in Call of Duty: Warzone - Expert Tips Players</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-on-windows-11-resolving-no-audio-problems/"><u>Cyberpunk 2077 on Windows 11 - Resolving No Audio Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easy-fix-for-windows-1187-audio-issues-ensuring-proper-plug-ins/"><u>Easy Fix for Windows 11/8/7 Audio Issues: Ensuring Proper Plug-Ins</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-to-restore-sound-from-your-conexant-smartaudio-hd-device-on-windows-11/"><u>Effective Solutions to Restore Sound From Your Conexant SmartAudio HD Device on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-techniques-to-restore-microphone-functionality-on-skype-with-windows-11/"><u>Effective Techniques to Restore Microphone Functionality on Skype with Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/epson-scanner-error-solutions-for-windows-11-users/"><u>Epson Scanner Error: Solutions for Windows 11 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-making-your-logitech-g933-mic-work-perfectly-again/"><u>Expert Advice: Making Your Logitech G933 Mic Work Perfectly Again</u></a></li>
-<li><a href="https://extra-information.techidaily.com/expert-tips-streaming-success-using-zoom-and-fb-live/"><u>Expert Tips Streaming Success Using ZOOM & FB Live</u></a></li>
-<li><a href="https://article-tips.techidaily.com/from-novice-to-pro-the-ultimate-guide-to-gaming-with-kinemaster-app-for-2024/"><u>From Novice to Pro The Ultimate Guide to Gaming with KineMaster App for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mov-files-on-sony-xperia-1-v-by-aiseesoft-video-converter-play-mov-on-android/"><u>How do you play .mov files on Sony Xperia 1 V ?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-recover-missing-desktop-icons-on-windows-10-a-step-by-step-guide/"><u>How to Recover Missing Desktop Icons on Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/is-the-discontinuation-of-roku-streambar-pro-on-the-horizon/"><u>Is the Discontinuation of Roku Streambar Pro on the Horizon?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-ocidll-file-couldnt-be-loaded-a-comprehensive-guide/"><u>Resolving the 'Oci.dll File Couldn't Be Loaded': A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721472331059-struggling-with-your-iphone-data-connection-discover-10-remedies-that-work/"><u>Struggling With Your iPhone Data Connection? Discover 10 Remedies That Work</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-best-for-broadcasting-is-obs-superior-to-twitch-studio/"><u>[Updated] 2024 Approved Best for Broadcasting Is OBS Superior to Twitch Studio?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-choosing-androids-favorite-freepaid-video-tile-tools-8-ranked/"><u>[Updated] Choosing Android's Favorite Free/Paid Video Tile Tools #8 Ranked</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-peak-hours-explained-maximizing-engagement/"><u>[Updated] Instagram Peak Hours Explained Maximizing Engagement</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/chrome-muted-discover-how-we-solve-playback-problems-with-clarity/"><u>Chrome Muted? Discover How We Solve Playback Problems with Clarity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/chromes-sound-troubles-fixed-discover-the-solutions-here/"><u>Chrome's Sound Troubles Fixed? Discover the Solutions Here</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-making-realtek-hd-audio-manager-function-again/"><u>Expert Advice on Making Realtek HD Audio Manager Function Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-fixing-microsoft-teams-audio-glitches-on-windows-1110-systems/"><u>Expert Tips for Fixing Microsoft Teams Audio Glitches on Windows 11/10 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-audio-issue-how-to-resolve-speaker-crackling-on-pcs-running-windows-10-or-7/"><u>Fixing the Audio Issue: How to Resolve Speaker Crackling on PCs Running Windows 10 or 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fostering-efficiency-not-just-fun-in-windows-11/"><u>Fostering Efficiency, Not Just Fun in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-tech-wrist-wonder-the-pdw4/"><u>High-Tech Wrist Wonder: The PDW4</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-vivo-y78-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Vivo Y78 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-netgear-orbi-mesh-network-router-orbi/"><u>Inside the Netgear Orbi Mesh Network Router (Orbi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-sound-from-windows-media-player-find-out-why-and-how-to-resolve-it/"><u>No Sound From Windows Media Player? Find Out Why and How to Resolve It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-tips-for-nonfunctional-corsair-void-headset-mic/"><u>Step-by-Step Repair Tips for Nonfunctional Corsair Void Headset Mic</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/transform-your-videos-like-a-pro-using-stahnete-si-software-and-movavi-video-editor-ultimate-guide-to-easy-and-effective-film-production/"><u>Transform Your Videos Like a Pro Using Stáhněte Si Software & Movavi Video Editor: Ultimate Guide to Easy and Effective Film Production.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-the-issue-with-overwatchs-push-to-talk-feature/"><u>Troubleshooting Guide: Fixing the Issue with Overwatch's Push-to-Talk Feature</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/zenith-pinnacle-prodigy-review/"><u>Zenith Pinnacle Prodigy Review</u></a></li>
 </ul></div>
 

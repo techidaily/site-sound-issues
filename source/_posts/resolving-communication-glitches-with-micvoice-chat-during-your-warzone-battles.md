@@ -1,7 +1,7 @@
 ---
 title: Resolving Communication Glitches with Mic/Voice Chat During Your Warzone Battles
-date: 2024-12-29T23:12:36.999Z
-updated: 2025-01-03T21:22:38.220Z
+date: 2025-01-04T19:25:16.648Z
+updated: 2025-01-11T00:04:50.530Z
 tags:
   - win11
   - win10
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/ab4dd483e1f79e38d09cf8e4fff380926562633e9
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Sign out Fortnite, then sign back in
@@ -59,19 +59,19 @@ thumbnail: https://thmb.techidaily.com/ab4dd483e1f79e38d09cf8e4fff380926562633e9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Driver-Easy-Scan-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Click **Update** next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Update-all-drivers.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Fortnite patch
 
@@ -90,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/ab4dd483e1f79e38d09cf8e4fff380926562633e9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap912.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4\. Restart the Epic Games Launcher.
@@ -125,13 +125,13 @@ thumbnail: https://thmb.techidaily.com/ab4dd483e1f79e38d09cf8e4fff380926562633e9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap925.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ii. Click**the speaker icon** to view the audio settings. Then**turn off Voice Chat** and click**Apply** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap431-1024x576.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 iii. Exit Fortnite.
 
@@ -152,7 +152,7 @@ iii. Exit Fortnite.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6\. Click **OK** .
@@ -160,10 +160,6 @@ iii. Exit Fortnite.
  7\. Run Fortnite again to**turn Voice Chat on.**
 
  Join a squad to check ifchat is now working . If not, try the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Fortnite
 
@@ -174,12 +170,16 @@ iii. Exit Fortnite.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap940.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2\. Click**Uninstall** to uninstall Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap950.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3\. Restart your PC.
 
@@ -210,24 +210,18 @@ iii. Exit Fortnite.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-foundations-of-video-editing-in-the-gaming-world/"><u>[New] Foundations of Video Editing in the Gaming World</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-sky-high-technology-unleashed-compreeive-review-of-dji-phantom-4/"><u>[New] In 2024, Sky High Technology Unleashed Compreeive Review of DJI Phantom 4</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-shortcut-to-shorter-vids-on-youtube/"><u>2024 Approved The Shortcut to Shorter Vids on YouTube</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/auditory-glitches-solved-restoring-sounds-to-cyberpunk-2077-on-windows-10-pcs/"><u>Auditory Glitches Solved: Restoring Sounds to Cyberpunk 2077 on Windows 10 PCs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/effortlessly-convert-asf-to-swf-for-free-discover-the-simple-way-with-our-tool/"><u>Effortlessly Convert ASF to SWF for Free - Discover the Simple Way with Our Tool!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ending-blackout-in-windows-11-after-fall-update/"><u>Ending Blackout in Windows 11 After Fall Update</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-on-casting-screen-from-macbook-to-hdtv-with-airplay-technology/"><u>Expert Advice on Casting Screen From MacBook to HDTV with AirPlay Technology</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-configuring-mystery-audio-devices-on-your-windows-nx-11-system/"><u>Guide: Configuring Mystery Audio Devices on Your Windows nX 11 System</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-integrating-timestamps-into-your-images/"><u>In 2024, Integrating Timestamps Into Your Images</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-the-mic-a-guide-to-restoring-lost-sounds-in-fortnite/"><u>Mastering the Mic: A Guide to Restoring Lost Sounds in Fortnite</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mirage-gpt-modifier-exfiltrates-fb-accounts/"><u>Mirage GPT Modifier: Exfiltrates FB Accounts</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-virtualdub-2023-review-features-pros-and-cons-plus-alternatives/"><u>New Virtualdub 2023 Review Features, Pros, and Cons, Plus Alternatives</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcome-audio-device-problems-in-audacity-with-these-five-easy-steps/"><u>Overcome Audio Device Problems in Audacity with These Five Easy Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-g435-wireless-headset-heres-how-you-can-restore-audio/"><u>Silent G435 Wireless Headset? Here's How You Can Restore Audio!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-common-gameplay-sounds-glitches-in-outriders-a-comprehensive-guide/"><u>Solve Common Gameplay Sounds Glitches in Outriders - A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-audio-problems-in-windows-10-a-comprehensive-5-step-guide/"><u>Solving Audio Problems in Windows 10: A Comprehensive 5-Step Guide</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/top-6-downloads-unlocked-with-free-online-and-global-viewing/"><u>Top 6 Downloads – Unlocked with Free Online & Global Viewing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-free-audio-how-to-restore-sound-on-a-bluetooth-device-that-is-connected-but-silent/"><u>Trouble-Free Audio: How to Restore Sound on a Bluetooth Device That Is Connected But Silent</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-a-malfunctioning-mpow-microphone-in-windows/"><u>Troubleshooting Guide: Fixing a Malfunctioning MPOW Microphone in Windows</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-decadal-list-prime-meme-designs/"><u>[New] Decadal List Prime Meme Designs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ecoding-youtube-income-how-much-does-each-1000-viewer-earn-in-2024/"><u>[New] Decoding YouTube Income How Much Does Each 1,000 Viewer Earn, In 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-innovative-auditory-transitions-with-logic-pro-x-for-2024/"><u>[New] Innovative Auditory Transitions with Logic Pro X for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-deciphers-for-digital-content-creators-youtubes-keyword-techniques/"><u>[Updated] In 2024, Deciphers for Digital Content Creators YouTube's Keyword Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/effiziente-ssd-defragmentierung-fur-verbesserten-systemablauf-auf-windows-10-systems/"><u>Effiziente SSD Defragmentierung Für Verbesserten Systemablauf Auf Windows 10 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-restore-headphone-connectivity-in-malfunctioning-laptop-jacks/"><u>Expert Tips to Restore Headphone Connectivity in Malfunctioning Laptop Jacks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-speaker-issues-a-comprehensive-guide-for-windows-10-users/"><u>Fixing Speaker Issues: A Comprehensive Guide for Windows 10 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-back-on-call-in-fortnite-swift-remedies-for-non-functioning-voice-chat/"><u>Get Back on Call in Fortnite: Swift Remedies for Non-Functioning Voice Chat</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-picture-quality-with-personalized-xbox-variable-refresh-rate/"><u>Optimizing Picture Quality with Personalized Xbox Variable Refresh Rate</u></a></li>
+<li><a href="https://win-popular.techidaily.com/streamline-your-viewing-experience-securely-transfer-bbc-content-from-the-web-to-itunes-and-dvds-with-ease/"><u>Streamline Your Viewing Experience: Securely Transfer BBC Content From the Web to iTunes and DVDs with Ease</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-pc-audio-issues-fixing-low-volume-on-windows-11/"><u>Troubleshooting PC Audio Issues: Fixing Low Volume on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-techniques-to-amplify-volume-settings-on-your-windows-11-system/"><u>Ultimate Techniques to Amplify Volume Settings on Your Windows 11 System</u></a></li>
 </ul></div>
 

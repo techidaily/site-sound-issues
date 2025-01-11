@@ -1,7 +1,7 @@
 ---
 title: Expert Fixes for Non-Functional Wireless Earbud Microphones
-date: 2024-12-31T23:01:48.658Z
-updated: 2025-01-04T03:30:09.114Z
+date: 2025-01-04T18:53:14.374Z
+updated: 2025-01-10T21:58:11.339Z
 tags:
   - win11
   - win10
@@ -70,7 +70,7 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Hopefully the popping/crackling sound in your headphone problem has gone by now. If not, you might also want to change it to other audio formats to see if it works.
@@ -78,10 +78,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
  Check if the headphone crackling problem persists. If yes, then congrats! But if it still persists, you should try **Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -96,11 +92,15 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/IntelR-Display-Audio.jpg)
 4. Restart your computer, play some audio through your headphone to see if this nasty crackling noise has been resolved. If yes, then great! If it’s still happening, move on to **Fix 4**  , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -113,21 +113,21 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Depending on the build of your Windows, you might also see **On battery** and **Plugged in**  in **Setting (%)** . Change both values to **100** and click **OK** .
 
@@ -156,24 +156,24 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-unlock-full-potential-best-trio-for-zoom-conversion/"><u>[New] Unlock Full Potential Best Trio for Zoom Conversion</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-achieving-high-quality-fb-video-1080p-streaming-guide-for-2024/"><u>[Updated] Achieving High-Quality FB Video 1080P Streaming Guide for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-visual-storytelling-at-its-finest-youtube-trailers-through-filmoras-lens/"><u>[Updated] Visual Storytelling at Its Finest YouTube Trailers Through Filmora's Lens</u></a></li>
-<li><a href="https://some-tips.techidaily.com/asia-spearheads-the-surge-in-non-monetary-payments-projected-value-of-16-trillion/"><u>Asia Spearheads the Surge in Non-Monetary Payments: Projected Value of 1.6 Trillion</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-infinix-smart-8-plus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Infinix Smart 8 Plus</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-the-unresponsive-microphone-in-windows-11-systems/"><u>Diagnosing and Repairing the Unresponsive Microphone in Windows 11 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easy-solutions-for-non-functioning-headphones-on-a-windows-7-pc/"><u>Easy Solutions for Non-Functioning Headphones on a Windows 7 PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-remedies-when-your-pcs-audio-equipment-stops-working/"><u>Effective Remedies When Your PC's Audio Equipment Stops Working</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortlessly-solved-fixing-your-skypes-audio-problems/"><u>Effortlessly Solved: Fixing Your Skype's Audio Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-fixes-overcoming-bluetooth-not-working-challenges-on-windows-11/"><u>Expert Fixes: Overcoming 'Bluetooth Not Working' Challenges on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-guide-resolving-issues-with-your-inactive-turtle-beach-recon-70-mic/"><u>Expert Guide: Resolving Issues with Your Inactive Turtle Beach Recon 70 Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fast-track-repairs-reviving-the-audio-on-your-oculus-rift-s-microphone-in-minutes/"><u>Fast Track Repairs: Reviving the Audio on Your Oculus Rift S Microphone in Minutes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-headphones-crackling-sound-instantly-a-step-by-step-guide/"><u>Fix Your Headphones' Crackling Sound Instantly - A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-rainbow-six-siege-voice-chat-glitches-following-the-2024-game-enhancement/"><u>Fix Your Rainbow Six Siege Voice Chat Glitches Following the 2024 Game Enhancement</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/podcast-recorder-quality-check/"><u>Podcast Recorder Quality Check</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/section-2b-five-factes-on-ocular-signs-and-conditions/"><u>Section 2B: Five Factes on Ocular Signs and Conditions</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-setting-up-and-enabling-revo-permission-manager-with-revouninstaller/"><u>Step-by-Step Guide: Setting Up & Enabling Revo Permission Manager with RevoUninstaller</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-and-review-for-choosing-a-ring-battery-doorbell/"><u>Ultimate Guide and Review for Choosing a Ring Battery Doorbell</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-troubleshooting-guide-reconnecting-your-stadia-headset/"><u>Ultimate Troubleshooting Guide: Reconnecting Your Stadia Headset</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-learn-to-optimize-your-watchlist-using-dual-screens-on-netflix/"><u>[New] 2024 Approved Learn to Optimize Your Watchlist Using Dual Screens on Netflix</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-srt-to-sub-transforming-playback-sequences/"><u>[New] From SRT to SUB Transforming Playback Sequences</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-experts-handbook-on-laptop-screencapture/"><u>[New] The Expert's Handbook on Laptop ScreenCapture</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unrivaled-streaming-experience-ranking-the-leaders/"><u>[New] Unrivaled Streaming Experience Ranking the Leaders</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-master-anonymous-instagram-story-browsing-on-pc-tablet-and-phones/"><u>[Updated] 2024 Approved Master Anonymous Instagram Story Browsing on PC, Tablet & Phones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/advanced-techniques-for-stunning-pictures-with-ios-devices/"><u>Advanced Techniques for Stunning Pictures with iOS Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beat-the-silence-proven-techniques-to-solve-webex-microphone-problems/"><u>Beat the Silence: Proven Techniques to Solve Webex Microphone Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetooth-quality-upgrade-no-more-lag-just-perfect-tunes-every-time/"><u>Bluetooth Quality Upgrade: No More Lag, Just Perfect Tunes Every Time</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-fixes-to-get-your-headphones-working-properly-on-a-windows-11-device/"><u>Comprehensive Fixes to Get Your Headphones Working Properly on a Windows 11 Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-repair-guide-how-to-get-your-beyond-the-wire-mic-working-again/"><u>Comprehensive Repair Guide: How To Get Your 'Beyond The Wire' Mic Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-restoring-functionality-to-your-primary-aux-jack-no-sweat/"><u>Expert Tips for Restoring Functionality to Your Primary AUX Jack – No Sweat!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-with-headphones-on-a-windows-7-pc-expert-tips-and-tricks/"><u>How to Restore Audio with Headphones on a Windows 7 PC - Expert Tips & Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-of-voice-chat-feature-in-call-of-dutys-latest-installment/"><u>How to Restore Functionality of Voice Chat Feature in Call of Duty's Latest Installment</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-lenovos-latest-ai-equipped-thinkpads-the-ideal-solution-every-professional-has-dreamed-of-techinsights/"><u>Introducing Lenovo’s Latest AI-Equipped ThinkPads: The Ideal Solution Every Professional Has Dreamed Of | TechInsights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-microsofts-chatbot-down-find-out-using-these-5-strategies/"><u>Is Microsoft's Chatbot Down? Find Out Using These 5 Strategies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-ultimate-guide-to-eliminating-speaker-hum/"><u>Quick Fix: Ultimate Guide to Eliminating Speaker Hum</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-repair-kotion-each-model-g2000-mic-problems/"><u>Step-by-Step Guide to Repair Kotion Each Model G2000 Mic Problems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-future-is-now-hot-10-vr-gear-options/"><u>The Future Is Now Hot 10 VR Gear Options</u></a></li>
 </ul></div>
 

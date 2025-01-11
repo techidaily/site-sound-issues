@@ -1,7 +1,7 @@
 ---
 title: "Silence Is Golden: Advanced Fixes for Popping Sounds on Your PC's Logitech G Pro X Microphone - Top Tips"
-date: 2025-01-03T01:38:24.217Z
-updated: 2025-01-03T22:17:56.334Z
+date: 2025-01-05T19:41:36.071Z
+updated: 2025-01-10T23:30:40.083Z
 tags:
   - win11
   - win10
@@ -71,15 +71,11 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap14.png)
 3. Click **Update**  next to your Bluetooth device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee  ).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap908-2.png)  
  You can do it for free if you like, but it’s partly manual.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -92,26 +88,18 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap432.jpg)
 2. Navigate to**the Playback tab** .**Right-click** anywhere on the Playback tab of the Sound window, and make sure you select**Show Disabled Devices** and**Show Disconnected Devices** options.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000237-2.png)
 3. If your laptop speaker is disabled,**right-click** your laptop speaker and select**Enable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000236.png)
 4. Select the speaker / headphone you’re using and  click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
 5. Click**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. On your desktop,   **right-click**  **the speaker icon**  on the lower-right corner, and then select**Open Volume Mixer**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000233.png)
@@ -120,17 +108,21 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000235-2.png)
 8. Play a song on your laptop to see if you fixed the no sound issue. If not, move on to the next step.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9. On your keyboard, press**the Windows logo key** and**X** at the same time. Then select**Device Manager** to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000238.png)
 10. In Device Manager,**double-click** **Sound, video and game controllers** to expand the list. If you see**a downward arrow** next to your audio device,**right-click** it then select**Enable device** to enable it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000240.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Play a song on your HP laptop to see if the no sound issue is resolved. If not, try the next fix to restart Windows audio service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 4: Restart Windows audio service**
 
@@ -140,7 +132,11 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 2. Scroll down to locate **Windows Audio** . **Right-click**   it and select **Properties** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap193-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Under the **General**   tab, if the service is disabled, click **Star**   to enable it. For **Startup type** , select **Automatic** .  
@@ -148,11 +144,15 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 4. Navigate to the **Recovery**   tab. For **First failure** , select **Restart the Service** . Then click **OK**   to save the changes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap195-5.png)
 5. Locate the service **Windows Audio Endpoint Builder** . Follow step 3 and step 4 above to do the same thing for Windows Audio Endpoint Builder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Restart your PC.
 
@@ -188,22 +188,24 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-tips-for-ultimate-fcp-efficiency/"><u>[New] Expert Tips for Ultimate FCP Efficiency</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-get-precise-audio-capturing-for-your-pc-with-x-recorder/"><u>[New] In 2024, Get Precise Audio Capturing for Your PC with X-Recorder</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-screenskip-videocapturer-kit/"><u>[New] ScreenSkip Videocapturer Kit</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-twitter-mp4webm-clip-conversion-for-2024/"><u>[New] Twitter MP4/WebM Clip Conversion for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015909653-audio-malfunctions-on-pc-heres-the-fix/"><u>Audio Malfunctions on PC? Here's the Fix</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/common-logitech-g-pro-x-mic-errors-diagnosis-and-quick-fixes-guide/"><u>Common Logitech G Pro X Mic Errors: Diagnosis & Quick Fixes [Guide]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-oculus-rift-s-headset-microphone-issues-fast-top-solutions/"><u>Fix Your Oculus Rift S Headset Microphone Issues Fast: Top Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-effortlessly-solve-sound-problems-on-your-windows-10-device-a-five-step-approach/"><u>How to Effortlessly Solve Sound Problems on Your Windows 10 Device: A Five-Step Approach</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-zoom-no-sound-on-pc/"><u>How to Fix Zoom No Sound on PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-non-functional-microphone-during-google-meets-on-windows-1110/"><u>How to Repair Non-Functional Microphone During Google Meets on Windows 11/10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-hdmi-sound-functionality-in-windows-7-systems/"><u>How to Restore HDMI Sound Functionality in Windows 7 Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-grandest-video-humor-studio/"><u>In 2024, Grandest Video Humor Studio</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-oneplus-12r-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror OnePlus 12R to Mac? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-infinix-zero-5g-2023-turbo-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Infinix Zero 5G 2023 Turbo Phones? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-google-pixel-7a-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Google Pixel 7a Phone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/learn-to-capture-videos-from-webcam-in-vlc-for-2024/"><u>Learn to Capture Videos From Webcam in VLC for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-crackling-sound-issue-with-your-logitech-g-pro-x-headset-pc-a-comprehensive-guide/"><u>Solving the Crackling Sound Issue with Your Logitech G Pro X Headset (PC) : A Comprehensive Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-frame-it-right-essential-2023-tools-and-sites-for-image-edits/"><u>[New] Frame It Right Essential 2023 Tools & Sites for Image Edits</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-premier-of-popularity-worldwide-top-subscribed-creators-for-2024/"><u>[New] The Premier of Popularity Worldwide Top Subscribed Creators for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-top-10-igtv-channels-you-should-start-following-for-2024/"><u>[New] Top 10 IGTV Channels You Should Start Following for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-airpods-microphone-not-working-on-microsofts-latest-operating-system/"><u>Effective Fixes for AirPods Microphone Not Working on Microsoft's Latest Operating System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhance-your-web-experience-fixing-chromes-muted-mode-issue/"><u>Enhance Your Web Experience: Fixing Chrome's Muted Mode Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-no-sound-through-hdmi-on-windows-7-effective-solutions-unveiled/"><u>Fixing No Sound Through HDMI on Windows 7 - Effective Solutions Unveiled</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-fix-lack-of-sound-detection-in-windows-10-8-and-7-when-using-headphones-or-speakers/"><u>Guide to Fix Lack of Sound Detection in Windows 10, 8 & 7 When Using Headphones or Speakers</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p55-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Itel P55 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ipad-users-rejoice-adobes-ade-app-is-finally-here-get-your-free-download-today/"><u>IPad Users Rejoice! Adobe's ADE App Is Finally Here – Get Your Free Download Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-performance-hiccups-smooth-playthrough-tips-for-deathloop-pc-edition/"><u>Overcoming Performance Hiccups: Smooth Playthrough Tips for Deathloop PC Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-sound-blaster-microphone-problems-today/"><u>Resolve Your Sound Blaster Microphone Problems Today</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-repeated-uninstalls-of-nvidia-software/"><u>Solving Repeated Uninstalls of Nvidia Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-bluetooth-connection-problems-when-no-sound-plays/"><u>Solving Your Bluetooth Connection Problems When No Sound Plays</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/testing-and-evaluation-the-versatile-sumind-bt70b-bluetooth-unit-in-vehicles/"><u>Testing and Evaluation: The Versatile Sumind BT70B Bluetooth Unit in Vehicles</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-guide-to-restoring-mic-functionality-on-your-steelseries-arctis-pro-headset-models-99x/"><u>The Definitive Guide to Restoring Mic Functionality on Your SteelSeries Arctis Pro Headset (Models 9/9X)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-your-laptops-audio-issues-a-step-by-step-guide/"><u>Troubleshoot and Fix Your Laptop's Audio Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-solving-2024s-discord-audio-dropouts/"><u>Ultimate Troubleshooting: Solving 2024'S Discord Audio Dropouts</u></a></li>
 </ul></div>
 

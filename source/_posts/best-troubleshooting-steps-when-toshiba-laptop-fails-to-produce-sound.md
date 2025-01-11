@@ -1,7 +1,7 @@
 ---
 title: Best Troubleshooting Steps When Toshiba Laptop Fails to Produce Sound
-date: 2024-12-29T23:46:20.921Z
-updated: 2025-01-04T04:28:13.751Z
+date: 2025-01-05T00:03:19.564Z
+updated: 2025-01-10T19:34:50.820Z
 tags:
   - win11
   - win10
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 1: Run Windows audio playback troubleshooter**
 
  This might be one of the easiest fixes to try. The built-in Windows audio playback troubleshooter is a useful tool that can help you resolve audio playback issues. Here is how to do it:
@@ -48,10 +44,22 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000231-1.png)
 2. In the pop-up window, select**Playing Audio** , then click**Run the troubleshooter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000232.png)
 3. Follow the on-screen instructions to troubleshoot the audio playback issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When it is completed, play a song on your HP laptop to see if you resolved the no sound issue. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 2: Update your audio driver**
 
@@ -76,12 +84,12 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap14.png)
 3. Click **Update**  next to your Bluetooth device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee  ).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap908-2.png)  
  You can do it for free if you like, but it’s partly manual.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -93,26 +101,34 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap432.jpg)
 2. Navigate to**the Playback tab** .**Right-click** anywhere on the Playback tab of the Sound window, and make sure you select**Show Disabled Devices** and**Show Disconnected Devices** options.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000237-2.png)
 3. If your laptop speaker is disabled,**right-click** your laptop speaker and select**Enable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000236.png)
 4. Select the speaker / headphone you’re using and  click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
 5. Click**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. On your desktop,   **right-click**  **the speaker icon**  on the lower-right corner, and then select**Open Volume Mixer**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000233.png)
 7. If you see some application is muted, click**the speaker icon** under that application to unmute it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000235-2.png)
 8. Play a song on your laptop to see if you fixed the no sound issue. If not, move on to the next step.
@@ -121,17 +137,9 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000238.png)
 10. In Device Manager,**double-click** **Sound, video and game controllers** to expand the list. If you see**a downward arrow** next to your audio device,**right-click** it then select**Enable device** to enable it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000240.png)
 
  Play a song on your HP laptop to see if the no sound issue is resolved. If not, try the next fix to restart Windows audio service.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 4: Restart Windows audio service**
 
@@ -140,20 +148,12 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time to open the Run dialog. Type **services.msc**   and press **Enter** . You’ll be prompted for permission. Click **Yes**   to open **Services** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap190-5.png)
 2. Scroll down to locate **Windows Audio** . **Right-click**   it and select **Properties** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap193-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Under the **General**   tab, if the service is disabled, click **Star**   to enable it. For **Startup type** , select **Automatic** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap194-5.png)
 4. Navigate to the **Recovery**   tab. For **First failure** , select **Restart the Service** . Then click **OK**   to save the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap195-5.png)
 5. Locate the service **Windows Audio Endpoint Builder** . Follow step 3 and step 4 above to do the same thing for Windows Audio Endpoint Builder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Restart your PC.
 
@@ -189,24 +189,14 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-three-easy-ways-to-harvest-youtubes-default-iconography/"><u>[New] In 2024, Three Easy Ways to Harvest Youtube's Default Iconography</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-beginners-journey-into-hosting-successful-zoom-sessions/"><u>[Updated] In 2024, Beginner's Journey Into Hosting Successful Zoom Sessions</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-transforming-your-igtv-presence-with-new-covers/"><u>[Updated] In 2024, Transforming Your IGTV Presence with New Covers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/artistic-horizons-scouting-the-finest-8-drawing-apps-for-iphones-for-2024/"><u>Artistic Horizons Scouting the Finest 8 Drawing Apps for iPhones for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/beat-bluetooth-audio-sync-problems-quickly-and-easily-top-tips-inside/"><u>Beat Bluetooth Audio Sync Problems Quickly & Easily: Top Tips Inside</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/complete-solution-how-to-repair-beyond-the-wire-microphone-issues/"><u>Complete Solution: How To Repair 'Beyond The Wire' Microphone Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/critical-hardware-need-utilize-a-gpu-that-fulfills-the-d3d11-requirement-to-run-the-software-effectively/"><u>Critical Hardware Need: Utilize a GPU that Fulfills the D3D11 Requirement to Run the Software Effectively</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719577691832-embrace-the-new-year-with-an-epic-deal-save-96-on-mondly-premium-access/"><u>Embrace the New Year with an Epic Deal - Save 96% on Mondly Premium Access</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-window-11s-sound-troubles-a-step-by-step-guide/"><u>Fixing Window 11'S Sound Troubles: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-help.techidaily.com/high-resolution-downloads-and-wallpaper/"><u>High-Resolution, Downloads, and Wallpaper.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-resolve-the-frustrating-error-code-0xc0000185-a-step-by-step-guide/"><u>How to Resolve the Frustrating Error Code 0XC0000185: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android/"><u>In 2024, How to Bypass FRP from Samsung Galaxy XCover 6 Pro Tactical Edition?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014903712-no-noise-from-your-speakers-on-apex-legends-these-fixes-can-help/"><u>No Noise From Your Speakers on Apex Legends? These Fixes Can Help</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-iphones-silent-treatment-restore-clear-sounds-easily/"><u>Overcoming iPhone's Silent Treatment: Restore Clear Sounds Easily</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-connectivity-problems-with-your-corsair-void-microphone-in-no-time/"><u>Resolving Connectivity Problems with Your Corsair Void Microphone in No Time</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-ensuring-your-gaming-sounds-are-recorded-and-shared-on-discord-efficiently/"><u>Solved: Ensuring Your Gaming Sounds Are Recorded and Shared on Discord Efficiently</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-nvidia-hd-audio-issues-a-step-by-step-guide/"><u>Solving NVIDIA HD Audio Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-fixes-for-voice-chat-silence-on-discord-what-to-do-next/"><u>Ultimate Fixes for Voice Chat Silence on Discord - What to Do Next?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/windows-10-tablet-mode-everything-you-need-to-know/"><u>Windows 10 Tablet Mode: Everything You Need to Know</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-backup-blueprint-from-your-phone-to-your-snap-story/"><u>[New] In 2024, Backup Blueprint From Your Phone to Your Snap Story</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-approaches-to-non-audio-recording/"><u>2024 Approved Top Approaches to Non-Audio Recording</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ngs-engineering-crafting-a-high-yield-strategy-for-your-youtube-channel-for-2024/"><u>Earnings Engineering Crafting a High Yield Strategy for Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-resolving-issues-with-laptop-audio-jack-connectivity/"><u>Expert Tips: Resolving Issues With Laptop Audio Jack Connectivity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-resolving-the-nvidia-not-connected-screen-problem/"><u>Expert Tips: Resolving the 'Nvidia Not Connected' Screen Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-directx-component-configuration-failure/"><u>Overcome: DirectX Component Configuration Failure</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-fixing-the-chrome-not-responding-issue-reload-browser/"><u>Resolve: Fixing the 'Chrome Not Responding' Issue - Reload Browser?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-missing-headphones-fix-playback-device-issues-in-windows-11/"><u>Troubleshooting Missing Headphones: Fix Playback Device Issues in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlock-crystal-clear-communication-in-fortnite-quick-solutions-for-a-deaf-microphone/"><u>Unlock Crystal Clear Communication in Fortnite – Quick Solutions for a Deaf Microphone</u></a></li>
 </ul></div>
 

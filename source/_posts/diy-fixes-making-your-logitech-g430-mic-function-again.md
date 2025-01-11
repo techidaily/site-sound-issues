@@ -1,7 +1,7 @@
 ---
 title: "DIY Fixes: Making Your Logitech G430 Mic Function Again"
-date: 2024-08-18T08:13:27.098Z
-updated: 2024-08-19T08:13:27.098Z
+date: 2025-01-08T23:20:21.739Z
+updated: 2025-01-10T21:14:15.576Z
 tags:
   - win11
   - win10
@@ -34,6 +34,11 @@ When it comes to gaming equipment, the Logitech G series is a go-to option for m
 * **Double-check the connection** . You should see two input jacks on your headset, one for the cable connected to the PC and the other for the microphone. Make sure you plug in the microphone securely and also press your PC connectivity cable into the correct jack harder until you feel two firm clicks.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/connection-1.jpg)
 * **Connect your headset to another computer** to test. If it fails to work either, chances are the headset is physically damaged, and you should contact Logitech for further assistance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Make sure the**mute switch is disabled** .
 
 If everything is fine with the hardware, read on to more fixes below.
@@ -47,27 +52,19 @@ If everything is fine with the hardware, read on to more fixes below.
 1. On your keyboard, press the**Windows** key and type**microphone privacy** and click**Microphone privacy settings** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-25.png)
 2. Make sure**Microphone access** and**Logitech G Pro X** are both set to**On** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-26.png)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **On Windows 10:**
 
 1. In the search box, type**microphone privacy** and click**Microphone privacy settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-1-4.jpg)
 2. Click the**Change** button and**turn on** the Microphone access for this device.  
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-6.jpg)
 3. **Toggle on** the button under Allow apps to access your microphone.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3-6.jpg)
 4. Scroll down to make sure the desktop app’s access to your microphone is set to**On** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg)
@@ -75,8 +72,9 @@ If everything is fine with the hardware, read on to more fixes below.
 If your microphone still acts up, try the third solution below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3 – Check the sound settings
 
  The sound settings may sometimes be messed up after a system update and thus you need to configure the proper setup manually.
@@ -84,16 +82,20 @@ If your microphone still acts up, try the third solution below.
 1. In the search box, type**control** **panel** and select**Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/microsoft-team-control-panel.jpg)
 2. Select**Small icons** from the drop-down menu next to View by, and click**Sounds** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-4.jpg)
 3. Navigate to the**Recording** tab, and make sure your Logitech G Pro X headset microphone is**enabled** (there should be a green checkmark). Then, click the microphone and click**Set Default** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-5.jpg)
 4. Right-click the microphone and select**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-6.jpg)
 5. Go to the**Levels** tab. Then,**drag the volume slider to the max** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-11.jpg)
@@ -101,8 +103,9 @@ If your microphone still acts up, try the third solution below.
  Now that your Logitech Pro X microphone is set as default and the volume is turned up, test the issue again. If this method doesn’t help, proceed to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4 – Update your audio driver
 
  If the audio driver is faulty or outdated, you’re likely to encounter the Logitech Pro X microphone not working problem. To keep your gaming headset work in tip-top condition as always, you should install the latest audio driver.
@@ -121,14 +124,15 @@ If your microphone still acts up, try the third solution below.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/12/logitech-pro-x-gaming.png)
 4. Restart your computer for the changes to take effect.
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If updating the driver doesn’t give you any luck, there is the last fix to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5 – Reinstall G Hub
 
@@ -137,11 +141,13 @@ If your microphone still acts up, try the third solution below.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1-2.jpg)
 2. Click**Logitech G Hub** and click**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/reinstall-g-hub-1-1.jpg)
 3. Restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Go to Logitech G Hub’s **[download page](https://www.logitechg.com/en-us/innovation/g-hub.html)**  , and click**Download for Windows** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/download-logitech-g-hub.jpg)
 5. After the download process finishes, open the file and follow the on-screen instructions to install the software.
@@ -162,8 +168,6 @@ If your microphone still acts up, try the third solution below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +175,20 @@ If your microphone still acts up, try the third solution below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-guidance-for-effortless-addition-of-youtube-playlists-to-your-site-for-2024/"><u>[New] Guidance for Effortless Addition of YouTube Playlists to Your Site for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-quick-reference-how-to-record-videos-on-vimeo-for-2024/"><u>[New] Quick Reference How to Record Videos on Vimeo for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hdr-evaluation-is-aurora-a-game-changer/"><u>2024 Approved HDR Evaluation Is Aurora a Game-Changer?</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/easy-beginners-guide-to-incorporating-captions-into-your-premiere-projects/"><u>Easy Beginners' Guide to Incorporating Captions Into Your Premiere Projects</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-dealing-with-a-broken-or-malfunctioning-headset-mic/"><u>Effective Solutions: Dealing With a Broken or Malfunctioning Headset Mic</u></a></li>
+<li><a href="https://facebook.techidaily.com/elevating-user-interaction-on-facebook-through-content-variety/"><u>Elevating User Interaction on Facebook Through Content Variety</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-the-power-of-oversized-capacity-terramasters-impressive-128tb-raid-enclosure-explained/"><u>Experience the Power of Oversized Capacity: TerraMaster's Impressive 128TB RAID Enclosure Explained</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-effortless-video-management-25plus-free-apps-turning-instagram-content-into-mp4-files/"><u>In 2024, Effortless Video Management 25+ Free Apps Turning Instagram Content Into MP4 Files</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-silent-playback-on-chrome-how-to-restore-audio/"><u>Resolved: Silent Playback on Chrome – How to Restore Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-razer-microphone-issues-a-step-by-step-guide-five-essential-tips/"><u>Solve Razer Microphone Issues: A Step-by-Step Guide (Five Essential Tips)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sound-issues-on-windows-7-heres-what-you-can-do/"><u>Sound Issues on Windows 7? Here’s What You Can Do!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-pick-for-kids-fun-expert-evaluation-of-the-maisto-rc-rock-crawler/"><u>Top Pick for Kid's Fun - Expert Evaluation of the Maisto RC Rock Crawler</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-when-your-black-ops-cold-war-mic-stops-working/"><u>Troubleshooting Guide: When Your Black Ops Cold War Mic Stops Working</u></a></li>
+</ul></div>
 

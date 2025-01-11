@@ -1,7 +1,7 @@
 ---
 title: Corsair Void Microphone Problems? Here's How to Fix Them!
-date: 2024-08-18T08:07:40.012Z
-updated: 2024-08-19T08:07:40.012Z
+date: 2025-01-05T23:58:42.497Z
+updated: 2025-01-10T20:40:47.318Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/8c65f8c20272f42cdd1a3999e924361a775d20760
  Has the microphone on your Razer Kraken headset stopped working? You’re not alone. Many users have had the same problem occurring randomly–even the first time they use the headset.
 
  This is incredibly frustrating; you bought the headset so you could talk to people on it, and now you can’t! But don’t worry; you haven’t wasted your money. It can be fixed…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix Razer Kraken Mic Not Working
 
@@ -60,17 +64,26 @@ thumbnail: https://thmb.techidaily.com/8c65f8c20272f42cdd1a3999e924361a775d20760
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **8)** Click the**Levels** tab, then drag the volume slider towards the_largest value_ .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **9)** Click**OK** , then click**OK** .
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem. But if not, you may need to…
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 2: Update your audio drivers
 
  The mic on your Razer Kraken headset won’t work if you’re using an incorrect or outdated audio or headset driver. So you should update the driver to see if that fixes the issue.
@@ -85,16 +98,14 @@ thumbnail: https://thmb.techidaily.com/8c65f8c20272f42cdd1a3999e924361a775d20760
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Click the**Activate & Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/IntelR-Display-Audio.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)
 
  Once you’ve updated the driver for your Razer Kraken headset, restart your computer. Then log in again and see if the microphone is working.
@@ -107,8 +118,6 @@ thumbnail: https://thmb.techidaily.com/8c65f8c20272f42cdd1a3999e924361a775d20760
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +125,20 @@ thumbnail: https://thmb.techidaily.com/8c65f8c20272f42cdd1a3999e924361a775d20760
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-best-way-to-use-obs-live-stream-to-facebook/"><u>[New] Best Way to Use OBS Live Stream to Facebook</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-capturing-every-detail-best-practices-for-hp-laptop-recording/"><u>[New] Capturing Every Detail Best Practices for HP Laptop Recording</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-quickly-mastering-instagram-written-communication/"><u>[Updated] 2024 Approved Quickly Mastering Instagram' Written Communication</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-unveiling-the-dji-spark-compact-drone-mastery-for-photographers/"><u>[Updated] In 2024, Unveiling the DJI Spark Compact Drone Mastery for Photographers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-vivo-y100t-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo Y100t Fingerprint Lock</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/celestial-sanitizer-pro-seamlessly-purge-files-and-directories-in-windows-environments/"><u>Celestial Sanitizer Pro: Seamlessly Purge Files and Directories in Windows Environments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminating-crackling-sounds-in-cyberpunk-2077-tips-and-fixes-for-smooth-gaming/"><u>Eliminating Crackling Sounds in Cyberpunk 2077: Tips & Fixes for Smooth Gaming</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-astro-a10-microphone-troubleshooting-guide/"><u>How to Fix a Non-Functioning Astro A10 Microphone: Troubleshooting Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11-app-hiccup-geforce-x0001/"><u>Overcoming Windows 11 App Hiccup: GeForce X0001</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-fixing-the-missing-audio-issue-in-google-chrome/"><u>Resolved: Fixing the Missing Audio Issue in Google Chrome</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-common-sound-problems-in-outriders-a-step-by-step-guide/"><u>Solving Common Sound Problems in Outriders: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-instructions-for-diagnosing-and-repairing-unwanted-noises-from-your-headphones/"><u>Step-by-Step Instructions for Diagnosing and Repairing Unwanted Noises From Your Headphones</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/upgrade-your-editing-game-merging-windows-11-and-storyremix-for-video-magic/"><u>Upgrade Your Editing Game Merging Windows 11 & StoryRemix for Video Magic</u></a></li>
+</ul></div>
 

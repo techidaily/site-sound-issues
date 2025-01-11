@@ -1,7 +1,7 @@
 ---
 title: "Getting Your Discord Audio Calls Back on Track: A Step-by-Step Guide"
-date: 2024-08-18T08:10:31.965Z
-updated: 2024-08-19T08:10:31.965Z
+date: 2025-01-08T21:19:29.118Z
+updated: 2025-01-10T23:21:58.601Z
 tags:
   - win11
   - win10
@@ -40,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### Fix 2: Make sure the volume is audible
 
  Sometimes the mic on your**LusidSound LS30** won’t work simply because the volume is mute or set too low.
@@ -53,9 +50,6 @@ To make sure the volume is audible:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-138.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.  
 
  2) Test if your LS30 headset is working properly. If not, then move on to **Fix 3** , below.
@@ -63,9 +57,9 @@ To make sure the volume is audible:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Adjust your audio settings
 
  Ideally when a new audio device is inserted, Windows will automatically set it as the default audio playback device. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -76,12 +70,13 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-139.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  2) Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-140.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If **no microphone devices shows up in the device list** , then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device** once it appears and click **Enable** before you do step **2)** .  
 
@@ -89,18 +84,23 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-141.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click the **Levels** tab, then drag **the Microphone slider** all the way to _its top_ and click **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-137.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  5) Click **OK** to apply the changes in the windows.
 
  6) Now with microphone set as default device and the volume turned up, try playing some audio on your LS30 headset and see if it works. If it does, then the **LucidSound LS30 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -116,14 +116,14 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-142.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-144.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
  4) Once you’ve updated the driver for your LucidSound LS30 headset, **restart** your computer and check if the LucidSound LS30**mic not working** problem has been resolved.
@@ -146,8 +146,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +153,19 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-podcastpioneers-charting-new-territories/"><u>[New] In 2024, PodcastPioneers Charting New Territories</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-evolutionary-journey-of-metaverse-laughter/"><u>[New] The Evolutionary Journey of Metaverse Laughter</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-ipad-users-create-professional-time-lapse-videos/"><u>[Updated] 2024 Approved IPad Users Create Professional Time-Lapse Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-gamers-sound-showdown-the-top-5-headset-list-for-2024/"><u>[Updated] Gamers' Sound Showdown The Top 5 Headset List for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/blueprint-for-building-a-graphic-design-business/"><u>Blueprint for Building a Graphic Design Business</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-when-your-hyperx-cloud-headset-mic-fails-to-work-properly/"><u>Effective Solutions When Your HyperX Cloud Headset Mic Fails to Work Properly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-restoring-functionality-to-your-unresponsive-logitech-g733-mic/"><u>Expert Advice: Restoring Functionality to Your Unresponsive Logitech G733 Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-treatment-razer-mic-troubleshooting-made-easy/"><u>Fixing the Silent Treatment: Razer Mic Troubleshooting Made Easy</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-voice-communication-issues-in-back-4-blood-a-step-by-step-guide/"><u>Fixing Voice Communication Issues in 'Back 4 Blood' - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/labor-landscapes-altered-by-ais-advances/"><u>Labor Landscapes Altered by AI's Advances</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-f5-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco F5 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlock-the-solution-getting-your-realtek-hd-audio-manager-up-and-running-again/"><u>Unlock the Solution: Getting Your Realtek HD Audio Manager Up and Running Again</u></a></li>
+</ul></div>
 

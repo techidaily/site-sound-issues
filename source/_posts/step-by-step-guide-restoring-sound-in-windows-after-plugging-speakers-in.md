@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Restoring Sound in Windows After Plugging Speakers In"
-date: 2024-08-18T08:09:42.661Z
-updated: 2024-08-19T08:09:42.661Z
+date: 2025-01-09T19:31:32.301Z
+updated: 2025-01-10T18:22:13.361Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
 If you find the sound volume on your Windows computer is very low when you’re playing a game or watching a video, you must be frustrated. Don’t worry, you’re not alone. This post can help you to bring the sound back.
 
 Before you start,
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make sure you’ve checked these
 
@@ -36,9 +40,6 @@ Before you start,
 3. [**Reinstall your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 1: Use Audio Troubleshooter
 
  Whenever you’re having problems with Windows system, the easiest method you can try is to run the Windows built-in troubleshooters. Windows 10 has built-in troubleshooters to diagnose and automatically fix common problems. There are many troubleshooters for different problems.
@@ -48,23 +49,8 @@ Before you start,
 2. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-3.jpg)
 3. In the left pane, click**Troubleshoot** then click**Playing Audio** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-3.jpg)
 4. Follow the on-screen instructions to finish the process.
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Reboot your computer and check the problem is resolved or not.
 
 ### Method 2: Disable audio enhancement
@@ -77,12 +63,18 @@ Before you start,
 3. In the **Playback** tab, choose the device you’re using and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
 4. In the **Enhancements** tab, tick “**Disable all sound effects** “.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
 5. Click **Apply > OK** .
+
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Check your problem is solved or not.
 
 **Note** : If you couldn’t find your speakers on the Playback device list, it might be disabled.
@@ -92,14 +84,8 @@ Follow the below steps to enable your disabled device.
 1. On the Playback window, right-click on the blank area and click **Show Disabled Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.jpg)
 2. When your device shows up, right-click on it and choose Enable.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.jpg)
 3. Then you can set it as the default device.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 
 ### Method 3: Reinstall your audio driver
 
@@ -111,13 +97,15 @@ Follow the below steps to enable your disabled device.
 3. Expand **Sound, video and game controllers** . Then right-click on your sound card’s name and click **Uninstall** **device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/uninstall.jpg)
 4. Tick on **Delete the driver software for this device.**  Then click **Uninstall**  to confirm.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/uninstall1.jpg)
 5. Restart your PC to make the change take effect. Windows will automatically reinstall the sound driver for you now.
 6. Check if speakers work on your laptop now.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 4: Update your audio driver
 
  One reason for the no sound problem is outdated drivers for your hardware devices. If Method 1 and Method 2 can’t fix it, it may be the outdated driver that causes the problem.
@@ -132,11 +120,17 @@ Follow the below steps to enable your disabled device.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver.jpg)
 3. Click the **Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver1.jpg)
 4. Restart your computer and check the Anthem has sound or not.
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We hope you find these techniques useful. You’re welcome to leave comments and questions below.
@@ -149,8 +143,6 @@ Follow the below steps to enable your disabled device.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +150,21 @@ Follow the below steps to enable your disabled device.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-mastering-video-size-adjustments-on-igtv/"><u>[New] In 2024, Mastering Video Size Adjustments on IGTV</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-explore-the-world-of-video-calls-hangouts-for-android/"><u>2024 Approved Explore the World of Video Calls Hangouts for Android</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-13-miniipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock from Apple iPhone 13 mini/iPad/iPod</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-remote-and-in-office-work-advantages-evident-yet-challenges-loom-on-horizon/"><u>Comparing Remote and In-Office Work: Advantages Evident Yet Challenges Loom on Horizon</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-success-optimize-your-site-with-expert-tracking/"><u>Cookiebot-Driven Success: Optimize Your Site with Expert Tracking</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-resolving-logitech-g733-microphone-connectivity-problems/"><u>Diagnosing and Resolving Logitech G733 Microphone Connectivity Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-resolve-silent-mac-systems-for-restoring-sounds/"><u>How to Troubleshoot and Resolve Silent Mac Systems for Restoring Sounds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/is-your-blue-yeti-not-responding-discover-how-to-restore-its-functionality/"><u>Is Your Blue Yeti Not Responding? Discover How to Restore Its Functionality</u></a></li>
+<li><a href="https://discover-data.techidaily.com/losung-fur-iphone-und-ipad-problemlose-kalenderverbindung-herstellen/"><u>Lösung Für iPhone Und iPad - Problemlose Kalenderverbindung Herstellen</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-implemented-restoring-volume-in-google-chrome/"><u>Solution Implemented: Restoring Volume in Google Chrome</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-maximizing-volume-settings-on-your-pc-running-windows-10/"><u>Step-by-Step: Maximizing Volume Settings on Your PC Running Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-realtek-dac-for-audio-recovery-post-installation/"><u>Troubleshooting Realtek DAC for Audio Recovery Post-Installation</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-curious-about-finding-a-good-iphone-slow-motion-app-discover-the-top-rated-applications-in-the-market-that-will-help-you-create-the-/"><u>Updated In 2024, Are You Curious About Finding a Good iPhone Slow-Motion App? Discover the Top-Rated Applications in the Market that Will Help You Create the Perfect Video</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-5-free-online-imovie-alternatives-2023-update/"><u>Updated In 2024, Top 5 Free Online iMovie Alternatives 2023 Update</u></a></li>
+</ul></div>
 

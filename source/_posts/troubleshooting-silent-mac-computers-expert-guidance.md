@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Silent Mac Computers – Expert Guidance
-date: 2024-12-31T16:36:27.306Z
-updated: 2025-01-03T23:01:30.743Z
+date: 2025-01-06T23:19:34.154Z
+updated: 2025-01-10T20:05:47.912Z
 tags:
   - win11
   - win10
@@ -38,31 +38,36 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a273f85c31.png)
 2. Double-click**Sound, video, and game controllers** . Then right-click the audio device driver that you have and choose**Update driver** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a27949ffeb.png)
 3. Choose**Browse my computer for driver software** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28445c675.png)
 4. Then choose**Let me pick from a list of available drivers on my computer** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a286f3d5de.png)
 5. Make sure the box for**Show compatible hardware** is**TICKED** . Then choose**High Definition Audio Device** from the list, and hit**Next** to continue.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28cccfd3f.png)
 6. You will see the warning asking you whether you want to go on with the installation, click**Yes** to continue.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a294398588.png)
 7. Restart your computer when the installation finishes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the generic audio driver doesn’t work to fix the sound cutting out issue, it’s possible that you have a corrupted or outdated sound card driver, so you should update the driver to see if it helps. If you’re not confident playing around with drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -77,6 +82,10 @@ Read on and follow the easy-doing images below!
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -100,10 +109,6 @@ Read on and follow the easy-doing images below!
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Option 3: Change Speaker Settings
 
  Incorrect speaker settings could also relate to the sound keeping cutting out on Windows 10 issue. To see if this is your case:
@@ -112,22 +117,18 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
@@ -158,20 +159,24 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-preserving-profile-prestige-from-pretend-popularity-pitfalls/"><u>[New] 2024 Approved Preserving Profile Prestige From Pretend Popularity Pitfalls</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-nokia-g22-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Nokia G22 Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windows-mac-os-hd4k/"><u>从标清走向超清：在 Windows 和 Mac OS 上提升影片分辨率到 HD/4K</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-newest-meta-vr-headset-tech-specs-launch-date-and-price-guide/"><u>Discover the Newest Meta VR Headset: Tech Specs, Launch Date & Price Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-tutorial-on-downloading-and-setting-up-sandisk-solid-state-drive-drivers/"><u>Easy Tutorial on Downloading and Setting Up Sandisk Solid State Drive Drivers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/ignite-your-networking-join-the-1k-club-on-instagram-regularly-for-2024/"><u>Ignite Your Networking Join the 1K Club on Instagram Regularly for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-lenovo-thinkphone-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Lenovo ThinkPhone to iPod | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-cyberpunk-2077-heres-how-to-turn-up-the-volume-on-your-pc/"><u>Silent Cyberpunk 2077? Here's How to Turn Up the Volume on Your PC!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-logitech-g-pro-x-microphone-clicks-and-whistles-issue-a-step-by-step-guide/"><u>Solving the Logitech G Pro X Microphone Clicks and Whistles Issue : A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/speaker-crackling-in-windows-117-solved/"><u>Speaker Crackling in Windows 11/7 [SOLVED]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-a-broken-gaming-mic-on-runmjh-setup/"><u>Step-by-Step Fixes for a Broken Gaming Mic on RUNMJH Setup</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-remedies-for-resolving-pc-speaker-issues/"><u>Step-by-Step Remedies for Resolving PC Speaker Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-google-meet-microphone-malfunction-on-windows-operating-systems/"><u>Step-by-Step Solution for Google Meet Microphone Malfunction on Windows Operating Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-fix-for-when-your-steelseries-arctis-pro-mic-stops-working/"><u>The Ultimate Fix for When Your SteelSeries Arctis Pro Mic Stops Working</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/words-of-thanks-a-language-guide-for-global-communication-156/"><u>Words of Thanks: A Language Guide for Global Communication (156)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-top-8-montage-apps-for-your-androidiphone/"><u>[New] 2024 Approved Top 8 Montage Apps for Your Android/iPhone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-surveying-the-spectrum-of-windows-movie-maker-updates/"><u>[New] Surveying the Spectrum of Windows Movie Maker Updates</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-exiting-with-impact-mastering-podcast-conclusions-beyond-the-basics/"><u>[Updated] 2024 Approved Exiting with Impact Mastering Podcast Conclusions Beyond the Basics</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-creative-capture-of-sims-4-sagas-innovative-ways-to-record-your-journey/"><u>2024 Approved Creative Capture of Sims 4 Sagas Innovative Ways to Record Your Journey</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-v29-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo V29? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-audio-verification-master-the-art-of-microphone-tests/"><u>Effortless Audio Verification: Master the Art of Microphone Tests!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-disconnected-epson-on-windows-os/"><u>Fixing Disconnected Epson on Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-logitech-g-pro-x-microphone-to-work-perfectly-again/"><u>Getting Your Logitech G Pro X Microphone to Work Perfectly Again</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reawaken-your-audio-resolving-the-no-sound-issue-with-conexant-smartaudio-hd-on-windows-1nk/"><u>Reawaken Your Audio: Resolving the No Sound Issue with Conexant SmartAudio HD on Windows 1Nk</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-mic-here-are-the-steps-to-restore-your-microphones-voice-functionality/"><u>Silent Mic? Here Are The Steps to Restore Your Microphone's Voice Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-silent-issue-restoring-audio-in-windows-during-a-zoom-call/"><u>Solving the Silent Issue: Restoring Audio in Windows During a Zoom Call</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streamlining-projects-using-azures-speech-service/"><u>Streamlining Projects Using Azure's Speech Service</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-complete-walkthrough-to-resolve-discords-persistent-audio-issues-a-step-by-step-guide/"><u>The Complete Walkthrough to Resolve Discord's Persistent Audio Issues – A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-smart-ai-tools-in-your-chrome-extension-toolbox/"><u>Top 7 Smart AI Tools in Your Chrome Extension Toolbox</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-online-tools-to-create-fake-faces-for-free/"><u>Top Online Tools to Create Fake Faces for Free</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-unresponsive-headphones-on-your-windows-10-system/"><u>Troubleshoot and Repair Unresponsive Headphones on Your Windows 10 System</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-get-your-glitch-on-the-top-10-mobile-video-editing-apps-for-experimental-artists/"><u>Updated Get Your Glitch On The Top 10 Mobile Video Editing Apps for Experimental Artists</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017057033-windows-10-speaker-setup-errors-heres-how-to-identify-and-solve-the-problem/"><u>Windows 10 Speaker Setup Errors? Here's How to Identify and Solve the Problem!</u></a></li>
 </ul></div>
 

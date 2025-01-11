@@ -1,7 +1,7 @@
 ---
 title: "Beat the Hum: 5 Straightforward Strategies for Perfect Audio Performance"
-date: 2024-12-30T23:06:13.239Z
-updated: 2025-01-03T18:35:53.414Z
+date: 2025-01-09T23:25:08.711Z
+updated: 2025-01-10T19:35:24.894Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Many users are reporting that they’re having microphone issues with their Hype
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -42,6 +46,11 @@ Many users are reporting that they’re having microphone issues with their Hype
 3. Check the volume knob on the right ear and **make sure the mic is not muted or the volumes are not too low** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/volume.jpg)
 4. If you’re using the controller box of your headset, make sure the mute switch hasn’t been activated.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/hyper-X.jpg)
 
  Is the mic working now? If unfortunately not, you can try the next fix, below.
@@ -59,33 +68,25 @@ Many users are reporting that they’re having microphone issues with their Hype
 ![Click the Start button](https://images.drivereasy.com/wp-content/uploads/2020/12/click-start.jpg)
 2. Select **Privacy** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Privacy.jpg)
 3. Click**Microphone** from the left pane.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![click microphone](https://images.drivereasy.com/wp-content/uploads/2020/12/Microphone.jpg)
 4. Click the**Change** button, and make sure the**Microphone for this device** option is**O** n.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/make-sure-its-on.jpg)
 5. Scroll down and make sure the**Allow apps to access your microphone** is**On** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/allow-apps.jpg)
 6. Also, make sure the app you’re using now is turned on.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![select the app you're using and turn it on](https://images.drivereasy.com/wp-content/uploads/2020/12/which-app.jpg)
 7. Now check if HyperX Cloud Stinger’s microphone is working. If you have granted all the permissions to the microphone but you still can’t be heard, you can try the next fix.
@@ -95,21 +96,17 @@ Many users are reporting that they’re having microphone issues with their Hype
 1. Choose Apple menu ![](https://help.apple.com/assets/5E3B07C0094622B541F026E3/5E3B07C3094622B541F026EA/en_GB/2f77cc85238452e25cb517130188bf99.png) \>**System Preferences** , click**Sound** , then click**Input** .  
  (Note: _The options that appear depend on your Mac model and the audio devices plugged into your Mac._ )
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Select your headphone in the list of sound input devices and adjust the volume to make sure it can record your voice.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/micro.png)
 3. Then go to**System Preferences** \>**Security and Privacy** \>**Privacy** , and select**Microphone** from the sidebar. You should see a list of apps that have requested access to your microphone. Make sure you have approved the app you want to use the microphone with.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/privacy-microphone.jpg)
 
- If you can talk to Siri but this app still isn’t working, check the app’s preferences to see if there are separate settings for input devices. But if everything works just fine in other apps, you can try reinstalling this app.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you can talk to Siri but this app still isn’t working, check the app’s preferences to see if there are separate settings for input devices. But if everything works just fine in other apps, you can try reinstalling this app.
 
 ## 3\. Check your microphone settings
 
@@ -123,31 +120,35 @@ Many users are reporting that they’re having microphone issues with their Hype
 3. Select **Sound** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/sound.jpg)
 4. Select the **Recording** tab, then right-click on any empty place inside the device list and tick **Show Disabled Devices** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/show-disabled-devices.jpg)
 5. Make sure your HyperX headset is enabled and set as the default device. If not, right-click your headphone to**Enabl** e it and**Set as Default Device** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/hyper-X-default.jpg)
 6. Right click **Headset Microphone** and click **Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/properties-sound.jpg)
 7. Click the**Levels** tab, then drag the volume slider towards the largest value.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/levels-100.jpg)
 8. Click **OK** to apply the changes, then click**OK** from the last opened window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Your HyperX headphone should now be enabled now. Test if the mic is working. If so, congratulations! But if not, don’t worry, since we have a few more fixes.
 
@@ -176,10 +177,6 @@ Many users are reporting that they’re having microphone issues with their Hype
 
  Now test your HyperX Cloud Stinger’s microphone by recording your voice and playing your recording.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Close other apps that have access to your headset microphone
 
  If you have any audio software, especially that of your audio adapter, or you have third-party software such as Realtek software, disable these and make sure your operating system has the default control over your headphone.
@@ -189,6 +186,10 @@ Many users are reporting that they’re having microphone issues with their Hype
 ## 6\. Check your HyperX Cloud Stinger in your game apps
 
  Sometimes the culprit may not be on your audio or control box settings, but in the game or app, you use instead. Check the audio settings in the game, or in the app, then confirm whether this will make your HyperX Cloud Stinger mic work again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Perform Windows Update
 
@@ -228,20 +229,17 @@ Many users are reporting that they’re having microphone issues with their Hype
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-masterful-capture-of-discord-conversations/"><u>[New] 2024 Approved Masterful Capture of Discord Conversations</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-a-pilots-best-friend-critical-uav-addons-and-replacements-for-2024/"><u>[New] A Pilot's Best Friend Critical UAV Addons and Replacements for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-easy-peasy-youtube-tutorials-making-content-that-works-for-all-for-2024/"><u>[New] Easy-Peasy YouTube Tutorials Making Content That Works for All for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-navigating-updated-youtube-money-strategies/"><u>[Updated] 2024 Approved Navigating Updated YouTube Money Strategies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/end-headphone-crackling-sounds-for-good-expert-troubleshooting-tips/"><u>End Headphone Crackling Sounds for Good: Expert Troubleshooting Tips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721952860178-go-mobile-bings-intelligent-search-for-your-devices-now/"><u>Go Mobile: Bing’s Intelligent Search for Your Devices Now.</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-fixing-error-code-6-in-call-of-duty-modern-warfare-battlefield-on-pc/"><u>Resolved: Fixing Error Code 6 in Call of Duty: Modern Warfare / Battlefield on PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-sounds-in-call-of-duty-black-ops-cold-war-pc-version-step-by-step-guide/"><u>Restoring Sounds in Call of Duty: Black Ops Cold War PC Version - Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-sound-solutions-for-skype-microphone-issues-on-windows-10-devices/"><u>Revive Your Sound: Solutions for Skype Microphone Issues on Windows 10 Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-problem-unstuck-your-voice-chat-in-destiny-2-today/"><u>Solving the Problem: Unstuck Your Voice Chat in Destiny 2 Today</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-youtube-shorts-downloaders-free-and-online/"><u>Top 6 YouTube Shorts Downloaders [Free & Online]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-boosting-your-pcs-audio-output-in-windows-10/"><u>Troubleshooting Tips: Boosting Your PC's Audio Output in Windows 10</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/unraveling-the-mystery-the-reason-behind-universal-minimum-audio-loudness-an-insight-by-yl-computing/"><u>Unraveling the Mystery: The Reason Behind Universal Minimum Audio Loudness - An Insight by YL Computing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/zoom-microphone-failures-in-windows-1011-heres-how-to-resolve-them/"><u>Zoom Microphone Failures in Windows 10/11? Here's How to Resolve Them</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-uncovering-average-earnings-in-podcasting-for-2024/"><u>[New] Uncovering Average Earnings in Podcasting for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/budget-friendly-amazonbasics-hdtv-antenna-guide-and-reviews-accessing-free-over-the-air-channels/"><u>Budget-Friendly AmazonBasics HDTV Antenna Guide & Reviews: Accessing Free Over-the-Air Channels</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decision-time-for-ai-conversationalists-why-you-might-prefer-a-browsing-companion-over-a-plugin-version-of-chatgpt/"><u>Decision Time for AI Conversationalists: Why You Might Prefer a Browsing Companion Over a Plugin Version of ChatGPT</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-stuttering-audio-on-your-pc-with-windows-1011-ultimate-guide/"><u>How to Fix Stuttering Audio on Your PC with Windows 10/11 – Ultimate Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/how-to-remove-or-replace-the-background-in-logitech-for-2024/"><u>How to Remove or Replace the Background in Logitech for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-tools-for-creating-animation-with-models/"><u>In 2024, Ideal Tools for Creating Animation with Models</u></a></li>
+<li><a href="https://article-posts.techidaily.com/navigating-the-world-of-virtual-backgrounds-for-online-media-professionals/"><u>Navigating the World of Virtual Backgrounds for Online Media Professionals</u></a></li>
+<li><a href="https://games-able.techidaily.com/psp-classics-at-a-fingert-point-iphone-edition/"><u>PSP Classics at a Fingert Point - iPhone Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-the-cyber-soundscape-solving-mute-problems-in-cyberpunk-2077-for-windows-11-users/"><u>Restoring the Cyber Soundscape: Solving Mute Problems in Cyberpunk 2077 for Windows 11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-steelseries-arctis-pro-microphone-issues-expert-advice-for-fixes/"><u>Solved! SteelSeries Arctis Pro Microphone Issues – Expert Advice for Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-no-sound-problem-in-windows-media-player-expert-solutions-revealed/"><u>Troubleshoot No Sound Problem in Windows Media Player – Expert Solutions Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-isnt-cod-vanguards-voice-chat-working-expert-fixes-and-tips/"><u>Why Isn't COD: Vanguard's Voice Chat Working? Expert Fixes & Tips</u></a></li>
 </ul></div>
 

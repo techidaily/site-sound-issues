@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Why Your SteelSeries Arctis 1 Microphone Won't Work"
-date: 2024-12-28T17:50:26.713Z
-updated: 2025-01-03T22:15:54.221Z
+date: 2025-01-05T20:15:48.673Z
+updated: 2025-01-10T16:56:51.449Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 * The sound card driver is outdated/corrupted
 * Your microphone cannot access your device
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix your mic issues
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -49,7 +45,7 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Set up the microphone correctly
@@ -68,17 +64,9 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/privacy.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Please be sure to turn on “**Allow access to the microphone on this device** ” and “**Allow apps to access your microphone** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Scroll down to allow microphone access for the Microsoft apps and desktop apps.
 
@@ -97,6 +85,10 @@ Here’s how to do it:
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In the Sound windows, select the **Recording**  tab.
 
@@ -133,12 +125,16 @@ Here’s how to do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Activate & Update** button next to the headset to download the latest and correct driver for it.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/SteelSeries-Apex-Pro.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)
 
@@ -154,12 +150,16 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In the Sound windows, select the **Recording**  tab.
 
@@ -194,22 +194,16 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-pinnacle-selections-prolific-iphone-tone-innovators/"><u>[New] 2024 Approved Pinnacle Selections Prolific iPhone Tone Innovators</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-enhancing-engagement-adding-text-and-links-to-youtube-content/"><u>[Updated] Enhancing Engagement Adding Text and Links to YouTube Content</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-full-potential-using-polarrs-image-tools/"><u>2024 Approved Unlock Full Potential Using Polarr's Image Tools</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elevate-your-artwork-implementing-3d-text-effects/"><u>Elevate Your Artwork Implementing 3D Text Effects</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-iphone-15-pro-by-drfone-ios/"><u>How to Fix Locked Apple ID from iPhone 15 Pro</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-malfunctioning-your-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>Identify malfunctioning your drivers with Windows Device Manager on Windows 7</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-iphones-ultimate-video-capture-list/"><u>In 2024, IPhone's Ultimate Video Capture List</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigating-the-virtual-landscape-of-xbox-zoom/"><u>Navigating the Virtual Landscape of Xbox Zoom</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-glitches-in-phasmophobia-how-to-restore-voice-chat-functionality/"><u>Overcoming Glitches in Phasmophobia: How to Restore Voice Chat Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fix-guide-resolving-soundless-airpod-connectivity-issues-on-windows-1011-devices/"><u>Quick Fix Guide: Resolving Soundless AirPod Connectivity Issues on Windows 10/11 Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solutions-for-restoring-sound-on-skype/"><u>Quick Solutions for Restoring Sound on Skype</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/realtek-microphone-malfunction-resolving-common-issues/"><u>Realtek Microphone Malfunction: Resolving Common Issues</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-a78-by-fonelab-android-recover-data/"><u>Recover lost data from A78</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-in-game-audio-problems-effective-strategies-to-reactivate-your-wow-voice-chat/"><u>Resolving In-Game Audio Problems: Effective Strategies to Reactivate Your WoW Voice Chat</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-audio-effective-techniques-to-fix-a-dead-microphone-in-astro-a50-earbuds/"><u>Revive Your Audio: Effective Techniques to Fix a Dead Microphone in Astro A50 Earbuds</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-gaming-experience-fix-anthems-no-sound-glitch-in-windows-n10/"><u>Revive Your Gaming Experience: Fix Anthem's No-Sound Glitch in Windows N10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-how-to-repair-windows-11-bluetooth-connection-issues/"><u>Solution Guide: How to Repair Windows 11 Bluetooth Connection Issues</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ncover-hidden-youtube-discussions/"><u>[New] Uncover Hidden YouTube Discussions</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-exclusive-guide-to-best-uhd-video-players-free-and-versatile-for-pcandmac/"><u>[Updated] In 2024, Exclusive Guide to Best UHD Video Players (Free & Versatile) for PC&Mac</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/can-you-use-handbrake-to-convert-and-compress-apples-prores-files/"><u>Can You Use HandBrake to Convert and Compress Apple's ProRes Files?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/crafting-quality-content-setting-up-your-mac-for-minecraft-sessions-for-2024/"><u>Crafting Quality Content Setting Up Your Mac for Minecraft Sessions for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-and-solutions-for-usb-headphones-with-no-audio-output-in-windows-7/"><u>Fixes and Solutions for USB Headphones with No Audio Output in Windows 7</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-avs-video-editor-a-review-of-its-performance-and-capabilities/"><u>In 2024, AVS Video Editor A Review of Its Performance and Capabilities</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-gradual-sound-escalation-auditions-guide-to-fades/"><u>In 2024, The Gradual Sound Escalation Audition’s Guide to Fades</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-voice-chat-glitches-effective-solutions-for-apex-legends-players/"><u>Overcoming Voice Chat Glitches: Effective Solutions for Apex Legends Players</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-crash-zeroing-in-on-error-0x800f0831/"><u>Overcoming Windows Crash: Zeroing In on Error 0X800F0831</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-google-meet-audio-problems-for-windows-11-and-10-users/"><u>Resolve Google Meet Audio Problems for Windows 11 and 10 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-non-functional-voice-chat-feature-on-black-ops-cold-war-game/"><u>Troubleshooting Non-Functional Voice Chat Feature on Black Ops Cold War Game</u></a></li>
 </ul></div>
 

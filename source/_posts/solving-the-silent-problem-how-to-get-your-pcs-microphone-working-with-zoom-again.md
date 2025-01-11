@@ -1,7 +1,7 @@
 ---
 title: "Solving the Silent Problem: How to Get Your PC's Microphone Working with Zoom Again"
-date: 2024-08-18T08:11:34.919Z
-updated: 2024-08-19T08:11:34.919Z
+date: 2025-01-04T22:35:47.184Z
+updated: 2025-01-10T23:43:28.795Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Feel vexing about Zoom audio not working? You’re not alone. This is incredibly
 * The mic is broken.
 * PC issue
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  If you’re sure there’s nothing wrong with your mic and the Zoom settings, you can work your way down the list until you find the one that works for you.
@@ -42,22 +46,25 @@ Feel vexing about Zoom audio not working? You’re not alone. This is incredibly
 1. On your keyboard, press the**Windows logo key** +**I** at the same time to open the Settings menu. Then, click**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/privacy.jpg)
 2. In the left pane, scroll down to find**Microphone** . Click**Change** , and make sure Microphone access for this device is on.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-21_12-01-05.jpg)
 3. Check Allow apps to access your microphone, make sure the toggle is on.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-21_11-59-51.jpg)
 4. Scroll down to the**Allow desktop apps to access your microphone** section, and make sure you’ve**turned on** this setting.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-21_12-03-38.jpg)
 5. You’ve finished granting the access. Restart Zoom and check Zoom audio not working issue is solved or not.
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Fix 2: Check your microphone settings
 
  The wrong settings, such as the microphone being muted or not set as the default device or the too low volume, will prevent you from using the microphone normally on Zoom. So, it’s necessary to check if everything in the settings is configured correctly.
@@ -65,35 +72,37 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box. Then, type**control** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 2. In Control Panel, select **Large icons** from the **View by** drop-down menu. Then, click**Sound.**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-21_15-47-32.jpg)
 3. Click the**Recording** tab. Then, right-click on any empty area and tick**Show Disabled Devices** .  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dc36f136c6.jpg)
 4. Make sure your microphone is enabled. If not, right-click it and click**Enable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4daac96f5e7.jpg)
 5. Check if your microphone is set as the default device. If not, click it and click**Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
 6. Right-click your microphone and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
 7. Select the**Levels** tab. If your microphone is muted, click the**speaker icon** to unmute it. Then, drag the slider to**set the microphone volume to the max** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4db71801655.jpg)
 8. Click**OK** .
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The microphone of your headset is enabled and set as the default device. Take a mic test on Zoom to check the audio not working issue is solved or not.  
  If the issue persists, please move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio drivers
 
@@ -109,9 +118,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-1-9.jpg)
 3. Click the**Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2-11.jpg)
 
@@ -121,9 +127,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Fix 4: Reinstall Zoom
 
  If none of the solutions above does the trick, reinstalling always help.
@@ -131,11 +134,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/appwiz-cpl.png)
 2. Right-click**Zoom** and click**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/6-2-1.jpg)
 3. Complete the uninstallation process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Download Zoom from the **[official website](https://zoom.us/download)**  .
 5. Open and install it step by step.
 6. Login to check the Zoom audio is working or not.
@@ -150,8 +155,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +162,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-affordable-high-resolution-monitors-for-pc-and-laptop-games/"><u>[New] Affordable, High-Resolution Monitors for PC & Laptop Games</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-an-easy-to-follow-guide-adding-youtube-playlists-to-your-online-platform/"><u>[New] In 2024, An Easy-to-Follow Guide Adding YouTube Playlists to Your Online Platform</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-transform-the-way-you-view-web-content-using-ms-edges-split-screen-functionality/"><u>[Updated] In 2024, Transform the Way You View Web Content Using MS Edge's Split Screen Functionality</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-art-of-coherent-audio-segments-for-2024/"><u>[Updated] The Art of Coherent Audio Segments for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/desktop-guide-how-to-navigate-snapchat-on-a-windows-or-mac/"><u>Desktop Guide: How to Navigate Snapchat on a Windows or Mac</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solutions-to-restore-your-steelseries-arctis-7-microphone-functionality/"><u>DIY Solutions to Restore Your SteelSeries Arctis 7 Microphone Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-repairing-malfunctioning-mic-in-headsets/"><u>Effective Solutions for Repairing Malfunctioning Mic in Headsets</u></a></li>
+<li><a href="https://blog-min.techidaily.com/exploring-the-powerhouse-in-depth-analysis-and-early-observations-on-the-lenovo-legion-7i-gaming-laptop-with-nvidias-latest-tech/"><u>Exploring the Powerhouse: In-Depth Analysis and Early Observations on the Lenovo Legion 7I Gaming Laptop with NVIDIA's Latest Tech</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-steelseries-a-step-by-step-guide-to-repair-your-arctis-pro-mic/"><u>Fixing the Silent SteelSeries: A Step-by-Step Guide to Repair Your Arctis Pro Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-logitech-audio-video-device-back-on-track/"><u>Getting Your Logitech Audio-Video Device Back on Track</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016967424-hp-laptop-silent-mode-heres-how-you-can-get-the-sound-back/"><u>HP Laptop Silent Mode? Here's How You Can Get the Sound Back</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016941940-no-sound-from-speakers-in-windows-heres-how-you-can-get-them-working-again/"><u>No Sound From Speakers in Windows? Here's How You Can Get Them Working Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-dolby-audio-driver-not-found-error-on-windows-10-devices/"><u>Resolving 'Dolby Audio Driver Not Found' Error on Windows 10 Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-the-silent-problem-fixing-microphone-failures-in-steelseries-arctis-headsets/"><u>Solve the Silent Problem: Fixing Microphone Failures in SteelSeries Arctis Headsets</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-ultimate-guide-to-media-player-replacements-for-vlc-for-2024/"><u>The Ultimate Guide to Media Player Replacements for VLC for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-cropping-mkv-files-without-compromising-on-quality/"><u>Ultimate Guide: Cropping MKV Files Without Compromising on Quality</u></a></li>
+</ul></div>
 

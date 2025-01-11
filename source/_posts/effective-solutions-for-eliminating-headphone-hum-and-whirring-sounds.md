@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Eliminating Headphone Hum and Whirring Sounds
-date: 2024-08-18T08:11:54.730Z
-updated: 2024-08-19T08:11:54.730Z
+date: 2025-01-04T17:12:19.157Z
+updated: 2025-01-10T20:09:15.932Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Before you start,
 
  After checking, we’re pretty sure that the problem is not related to your device, then let’s take a look at the below methods.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these methods
 
  There are 4 solutions for you to try. You don’t need to try them all, just work your way down till find the one that works for you.
@@ -36,9 +40,6 @@ Before you start,
 3. [**Reinstall your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ### Method 1: Use Audio Troubleshooter
 
  Whenever you’re having problems with Windows system, the easiest method you can try is to run the Windows built-in troubleshooters. Windows 10 has built-in troubleshooters to diagnose and automatically fix common problems. There are many troubleshooters for different problems.
@@ -48,14 +49,6 @@ Before you start,
 2. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-3.jpg)
 3. In the left pane, click**Troubleshoot** then click**Playing Audio** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-3.jpg)
 4. Follow the on-screen instructions to finish the process.
 5. Reboot your computer and check the problem is resolved or not.
@@ -72,9 +65,6 @@ Before you start,
 4. In the **Enhancements** tab, tick “**Disable all sound effects** “.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
 5. Click **Apply > OK** .
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Check your problem is solved or not.
 
 **Note** : If you couldn’t find your speakers on the Playback device list, it might be disabled.
@@ -84,9 +74,11 @@ Follow the below steps to enable your disabled device.
 1. On the Playback window, right-click on the blank area and click **Show Disabled Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.jpg)
 2. When your device shows up, right-click on it and choose Enable.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.jpg)
 3. Then you can set it as the default device.
 
@@ -98,18 +90,20 @@ Follow the below steps to enable your disabled device.
 2. Type **devmgmt.msc** . Then click **OK**  to open **Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-2.jpg)
 3. Expand **Sound, video and game controllers** . Then right-click on your sound card’s name and click **Uninstall** **device** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/uninstall.jpg)
 4. Tick on **Delete the driver software for this device.**  Then click **Uninstall**  to confirm.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/uninstall1.jpg)
 5. Restart your PC to make the change take effect. Windows will automatically reinstall the sound driver for you now.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 6. Check if speakers work on your laptop now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Update your audio driver
 
@@ -125,17 +119,17 @@ Follow the below steps to enable your disabled device.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver.jpg)
 3. Click the **Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver1.jpg)
 4. Restart your computer and check the Anthem has sound or not.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We hope you find these techniques useful. You’re welcome to leave comments and questions below.
@@ -148,8 +142,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +149,22 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-transforming-shopping-insights-into-youtube-paychecks/"><u>[New] Transforming Shopping Insights Into YouTube Paychecks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-securing-visuals-the-method-of-concealing-details/"><u>[Updated] Securing Visuals The Method of Concealing Details</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-transform-photos-with-the-premier-11-edits/"><u>[Updated] Transform Photos with the Premier 11 Edits</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-step-by-step-guide-to-ken-burns-effect-with-camtasia-9/"><u>2024 Approved Step-by-Step Guide to Ken Burns Effect with Camtasia 9</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-motorola-edge-2023-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Motorola Edge 2023 Fingerprint Lock</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/conquer-latency-and-echo-in-your-discord-voice-chats-essential-fixes-for-desktop-users-guide/"><u>Conquer Latency & Echo in Your Discord Voice Chats - Essential Fixes for Desktop Users (Guide )</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminate-game-crashing-issues-a-comprehensive-guide-to-optimize-your-play-of-guilty-gear-strive-on-pc/"><u>Eliminate Game Crashing Issues - A Comprehensive Guide to Optimize Your Play of Guilty Gear Strive on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-malfunction-in-taotronics-g435-in-ear-headphones-easily/"><u>Fixing Audio Malfunction in TaoTronics G435 In-Ear Headphones Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-mac-solutions-to-restore-your-computers-audio/"><u>Fixing Silent Mac: Solutions to Restore Your Computer's Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/game-audio-mastery-achieved-on-discord-a-comprehensive-solution/"><u>Game Audio Mastery Achieved on Discord - A Comprehensive Solution</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-huawei-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Huawei?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/in-depth-strategies-for-fixing-realtek-hd-audio-manager-wont-launch-error/"><u>In-Depth Strategies for Fixing 'Realtek HD Audio Manager Won’t Launch' Error</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-getting-steam-voice-chat-back-on-track/"><u>Step-by-Step Solutions: Getting Steam Voice Chat Back on Track</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-game-sounds-a-guide-to-clearing-resident-evil-village-noise-woes/"><u>Troubleshooting Game Sounds: A Guide to Clearing Resident Evil Village Noise Woes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+</ul></div>
 

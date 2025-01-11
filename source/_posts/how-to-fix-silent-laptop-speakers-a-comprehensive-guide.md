@@ -1,7 +1,7 @@
 ---
 title: How to Fix Silent Laptop Speakers – A Comprehensive Guide
-date: 2024-08-18T08:14:03.494Z
-updated: 2024-08-19T08:14:03.494Z
+date: 2025-01-04T18:24:33.899Z
+updated: 2025-01-10T21:38:02.336Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
 ## Windows 10 Speaker Setup Errors? Here's How to Identify and Solve the Problem
 
 Looking for answers to your**Speaker Setup (UNKNOWN)** error? You’ve come to the right place! While this might be a frustrating problem, it’s often not hard to fix at all. Here’re some solutions you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Before troubleshooting
 
@@ -36,9 +40,6 @@ Looking for answers to your**Speaker Setup (UNKNOWN)** error? You’ve come to t
 5. **[Check if your system is corrupted](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reset your PC](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ### Fix 1: Install all Windows updates
 
  Theoretically, Windows automatically installs the corresponding updates and drivers once you plugged in your peripherals. But that’s not always the case, especially when you’ve changed the update settings.
@@ -50,10 +51,6 @@ So you can follow these steps to install all system updates manually:
 2. Click**Check for updates** . Windows will then search and install available system updates. This might take up to an hour depending on your Internet speed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once completed, restart your computer.
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  system updates, repeat these steps until you see “You’re up to date” when you click **Check for updates** .
 
@@ -69,17 +66,23 @@ So you can follow these steps to install all system updates manually:
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve installed or updated your device drivers, restart your computer and check if the Speaker Setup (Unknown) error has gone.
 
  If this method doesn’t give you any luck, simply move on to the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Run the audio troubleshooter
 
@@ -90,11 +93,13 @@ Here’s how:
 1. On your keyboard, press the**Windows logo key** and type**audio troubleshooter** . Select**Fix and find problems with playing sound** from the results.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-troubleshooter.jpg)
 2. Click**Next** , then follow the on-screen instruction to troubleshoot your audio issue.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-troubleshooter-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-troubleshooter-2.jpg)
+
  If the audio troubleshooter failed to detect or solve your error, you can check out the next fix.
 
 ### Fix 4: Change the startup type of audio services
@@ -108,14 +113,8 @@ So here’s how to do it:
 2. Right-click**Windows Audio** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-audio-services-properties.jpg)
 3. Set**Startup type** to**Automatic** . Then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-audio-services-automatic-new.jpg)
 4. Use the same steps to set the**Startup type** of the following services to**Automatic** :  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 **Windows Audio Endpoint Builder**  
 **Remote Procedure Call (RPC)**
 5. Restart your computer and check if your audio device is working correctly.
@@ -130,12 +129,22 @@ So here’s how to do it:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Reset your PC
 
@@ -148,21 +157,17 @@ You can follow these steps to reset your PC:
 1. On your keyboard, press the**Windows logo key** and**I** at the same time. This will open the Windows Settings app. Then select**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. From the left menu, select**Recovery** . Under the**Reset this PC** section, click**Get started** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/reset-pc.jpg)
 3. In the pop-up window, select**Remove everything** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/reset-pc-2.jpg)
 4. You might then see two reinstall options:**Cloud download** and**Local reinstall** . You can choose**Cloud download** if you want to reinstall using the latest Windows installation files. If you don’t wish to wait, choose**Local reinstall** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/reset-pc-3.jpg)
 5. Click**Next** and follow the on-screen instructions to reset your PC.  
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/reset-pc-04.jpg)
 
  The reset process will take some time (up to a few hours) depending on your hard drive speed. Once you’ve reset your PC, check if your sound problem has disappeared.
@@ -177,8 +182,6 @@ You can follow these steps to reset your PC:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +189,26 @@ You can follow these steps to reset your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-pinnacle-gold-text-rendering-in-top-8-3d-web-spaces/"><u>[New] 2024 Approved Pinnacle Gold Text Rendering in Top 8 3D Web Spaces</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-award-winners-in-writing-for-different-movie-types-for-2024/"><u>[New] Award Winners in Writing for Different Movie Types for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-top-8-trending-ae-templates-on-instagram/"><u>[New] In 2024, Top 8 Trending AE Templates on Instagram</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-launch-your-wealth-journey-on-periscope-platform-for-2024/"><u>[New] Launch Your Wealth Journey on Periscope Platform for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-navigating-youtubes-featured-slot-a-detailed-explanimation/"><u>[Updated] Navigating YouTube's Featured Slot A Detailed Explanimation</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-navigating-igtv-a-video-uploading-handbook/"><u>2024 Approved Navigating IGTV A Video Uploading Handbook</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/arctis-pro-microphone-malfunction-solved-step-by-step-fixes-for-gamers/"><u>Arctis Pro Microphone Malfunction Solved - Step-by-Step Fixes for Gamers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/boost-your-iphones-wi-fi-stability-discover-5-essential-fixes-to-try-now/"><u>Boost Your iPhone’s Wi-Fi Stability – Discover 5 Essential Fixes to Try Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/evaluate-your-computers-electrical-demand-in-windows-environment/"><u>Evaluate Your Computer’s Electrical Demand in Windows Environment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-fixing-an-unresponsive-headphone-socket-on-your-pc/"><u>Expert Tips for Fixing an Unresponsive Headphone Socket on Your PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-dolby-atmos-issue-troubleshooting-failed-launch-of-dolby-drivers-on-windows-11/"><u>Fixing Dolby Atmos Issue: Troubleshooting Failed Launch of Dolby Drivers on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-restoring-bluetooth-functionality-on-your-windows-11-pc/"><u>Guide: Restoring Bluetooth Functionality on Your Windows 11 PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-problems-with-voice-chatting-in-valorant-practical-tips/"><u>Overcoming Problems with Voice Chatting in Valorant: Practical Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-problems-when-lucidsound-ls30-mic-fails-to-work-properly/"><u>Resolving Problems When LucidSound LS30 Mic Fails to Work Properly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-the-problem-when-modern-warfare-chat-feature-stops-working/"><u>Resolving the Problem When Modern Warfare Chat Feature Stops Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-solution-for-persistent-discord-audio-glitches/"><u>The Definitive Solution for Persistent Discord Audio Glitches</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solving-pc-microphone-problems-in-rec-room-ultimate-guide-for-2vee-gamers/"><u>Troubleshooting and Solving PC Microphone Problems in Rec Room - Ultimate Guide for 2Vee Gamers</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unraveling-the-battle-of-wireless-routers-is-tp-links-archer-ax6000-faster-than-nighthawk-ax12/"><u>Unraveling The Battle of Wireless Routers: Is TP-Link's Archer AX6000 Faster than Nighthawk AX12?</u></a></li>
+</ul></div>
 

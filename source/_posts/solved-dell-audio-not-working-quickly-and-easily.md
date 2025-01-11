@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Dell Audio Not Working – Quickly & Easily"
-date: 2024-08-18T08:08:06.070Z
-updated: 2024-08-19T08:08:06.070Z
+date: 2025-01-06T19:08:43.516Z
+updated: 2025-01-10T18:55:46.616Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ When you try to play music or video on your laptop, but just find**no sound on t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-22.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Set your speakers as default device
 
  1) Right-click on the**s** **ound** icon on your taskbar. Then click**Playback devices** .
@@ -43,6 +47,10 @@ When you try to play music or video on your laptop, but just find**no sound on t
  2)Highlight your speakers, then click **Set Default** . Click **OK.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:**  If you couldn’t find your speakers on the playback device list, it might be disabled.
 
@@ -57,8 +65,13 @@ Go with the easy steps to show it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3:**Reinstall your sound card driver**
 
 1) Press the **Windows** logo key + **R** key together to open the **Run** box.
@@ -67,30 +80,22 @@ Go with the easy steps to show it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) Expand **Sound, video and game controllers** . Then right click on your sound card’s name and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Tick on **Delete the driver software for this device.** Then click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Restart your PC to make change take effect. Windows will automatically reinstall sound driver for you now.
 
  5) Check if speakers works on your laptop now.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Update**your sound card driver**
 
  If the 1-3 fixes didn’t solve your issue, make sure to update your sound card driver.
@@ -101,9 +106,6 @@ It has two versions. Have a try on its **[Free Version](https://tools.techidaily
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -120,8 +122,6 @@ Any problems just feel free to leave your comment below, thanks.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +129,26 @@ Any problems just feel free to leave your comment below, thanks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-strategies-for-lengthening-gopros-electric-life/"><u>[New] 2024 Approved Strategies for Lengthening GoPro's Electric Life</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-step-into-pro-audio-recording-on-your-mac-using-audacity/"><u>[New] Step Into Pro Audio Recording on Your Mac Using Audacity</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-cutting-through-the-facade-real-vs-pretend-facebook-followers/"><u>[Updated] Cutting Through the Facade Real vs Pretend Facebook Followers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-how-to-add-featured-channels-on-youtube-a-complete-guide/"><u>2024 Approved How to Add Featured Channels on YouTube A Complete Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/9-pinnacle-in-live-game-broadcasting/"><u>9 Pinnacle in Live Game Broadcasting</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-techkey-bluetooth-dongle-drivers-for-windows-1078-download-now/"><u>Free Techkey Bluetooth Dongle Drivers for Windows 10/7/8: Download Now</u></a></li>
+<li><a href="https://article-posts.techidaily.com/grasping-the-glossary-of-virtual-worlds-for-2024/"><u>Grasping the Glossary of Virtual Worlds for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-razer-man-owar-mic-functionality-step-by-step-solution/"><u>How to Restore Razer Man O'War Mic Functionality: Step-by-Step Solution</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-dissecting-biggest-fifa-footage-trends-in-graphs/"><u>In 2024, Dissecting Biggest FIFA Footage Trends in Graphs</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Honor X50i+? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-webcam-and-microphone-malfunctions-heres-how-to-resolve-them/"><u>Logitech WebCam & Microphone Malfunctions? Here's How to Resolve Them!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/lost-connection-with-your-blue-yeti-mic-uncover-proven-fixes-to-reestablish-communication/"><u>Lost Connection with Your Blue Yeti Mic? Uncover Proven Fixes to Reestablish Communication</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-audio-levels-techniques-to-increase-speaker-loudness-on-your-pc-windows-10/"><u>Mastering Audio Levels: Techniques to Increase Speaker Loudness on Your PC (Windows 10)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/outriders-audio-fixes-how-to-restore-your-gaming-experience-perfectly/"><u>Outriders Audio Fixes: How to Restore Your Gaming Experience Perfectly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-nvidia-surround-sound-experience-step-by-step-troubleshooting-tips/"><u>Revive Your NVIDIA Surround Sound Experience: Step-by-Step Troubleshooting Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-silence-expert-tips-on-restoring-nvidia-hd-audio-output/"><u>Solving Silence: Expert Tips on Restoring Nvidia HD Audio Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-5-solutions-for-troubleshooting-windows-10-audio-problems/"><u>Top 5 Solutions for Troubleshooting Windows 10 Audio Problems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-samsung-ssd-drive-compatibility-problems-on-windows-systems-a-comprehensive-guide/"><u>Troubleshooting Samsung SSD Drive Compatibility Problems on Windows Systems: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-is-my-razer-man-o-war-mic-not-working-common-fixes-explored/"><u>Why Is My Razer Man 'O' War Mic Not Working? Common Fixes Explored</u></a></li>
+</ul></div>
 

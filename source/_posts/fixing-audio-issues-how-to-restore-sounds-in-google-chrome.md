@@ -1,7 +1,7 @@
 ---
 title: "Fixing Audio Issues: How to Restore Sounds in Google Chrome"
-date: 2024-08-18T08:08:36.427Z
-updated: 2024-08-19T08:08:36.427Z
+date: 2025-01-04T22:19:11.511Z
+updated: 2025-01-10T16:36:16.965Z
 tags:
   - win11
   - win10
@@ -35,8 +35,9 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
  Some programs running in the background may conflict with Apex Legends, causing audio issues. In this case, try rebooting your computer to turn off unwanted programs completely. After your computer restarts, relaunch your game to check if you get the sound back. If not, read on and check the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Run the Windows audio troubleshooter
 
  Another quick fix to Apex Legends audio problems is running**the audio troubleshooter** . Follow the instructions below:
@@ -49,8 +50,9 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-322.png)
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Click**Playing Audio** , then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-323.png)
@@ -60,8 +62,9 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 If Windows fails to detect your issue, move on and try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your audio driver
 
  If you can’t hear any sound while gaming on Apex Legends, chances are that you’re using a wrong or outdated audio driver. It’s essential that you have the latest correct audio driver at all times.
@@ -94,9 +97,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)**  Click the **Update button** next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -107,9 +107,6 @@ OR
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Restart Windows Audio Services
 
  Some audio issues can also be addressed by restarting Windows Audio Services. To see if that works for you, follow the instructions below:
@@ -122,13 +119,14 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-326.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Relaunch your game to test your issue.
 
  This should allow you to hear Apex Legends and everything else. If your issue still exists, don’t fret. There is still one more fix to try.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Reinstall Apex Legends
 
  If none of the fixes above helped, reinstalling Apex Legends is very likely the solution to your issue. Here is how to do it:
@@ -138,6 +136,10 @@ OR
 **2)** Click**My Game Library** , right-click**Apex Legends** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-327.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** After your game is uninstalled, restart your computer.
 
@@ -158,8 +160,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +167,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-essential-tools-for-android-and-ios-users-seeking-playlist-extractors/"><u>[New] 2024 Approved Essential Tools for Android & iOS Users Seeking Playlist Extractors</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-revolutionizing-your-approach-to-iptv-viewership-saving/"><u>[Updated] 2024 Approved Revolutionizing Your Approach to IPTV Viewership Saving</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-monetization-mastery-top-youtubers-earnings/"><u>[Updated] In 2024, Monetization Mastery - Top Youtubers Earnings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfecting-the-art-of-gif-to-sticker-transition-on-various-messaging-platforms/"><u>2024 Approved Perfecting the Art of GIF to Sticker Transition on Various Messaging Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-the-potential-of-vr-video-on-your-iphone/"><u>2024 Approved Unlock the Potential of VR Video on Your iPhone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-guide-repairing-a-malfunctioning-bose-sound-system/"><u>DIY Guide: Repairing a Malfunctioning Bose Sound System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-techniques-to-get-your-corsair-virtuoso-mic-working-again/"><u>Effective Techniques to Get Your Corsair Virtuoso Mic Working Again</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-boot-speed-manipulating-boot-sequence-timer/"><u>Enhancing Boot Speed: Manipulating Boot Sequence Timer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-fixing-audio-device-connection-errors-on-pcs-running-windows-11-8-or-7/"><u>Guide to Fixing Audio Device Connection Errors on PCs Running Windows 11, 8 or 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-enable-audio-for-call-of-dutys-black-ops-cold-war-when-playing-on-a-desktop-pc-fixed/"><u>How to Enable Audio for Call of Duty's Black Ops: Cold War When Playing on a Desktop PC [FIXED]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-broken-headset-audio-on-a-windows-10-pc/"><u>How to Repair Broken Headset Audio on a Windows 10 PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hp-laptop-silent-problem-solved-restore-sound-with-these-simple-fixes/"><u>HP Laptop Silent Problem Solved - Restore Sound with These Simple Fixes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oneplus-12-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your OnePlus 12 FRP Locks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-vivo-x100-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Vivo X100 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/loschen-von-foto-uploads-auf-ihrem-ipad-mit-einfachen-schritten-tipps-and-tricks/"><u>Löschen Von Foto-Uploads Auf Ihrem iPad Mit Einfachen Schritten - Tipps & Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-the-sound-fixing-a-malfunctioning-razer-blackshark-v2-microphone/"><u>Reviving the Sound: Fixing a Malfunctioning Razer BlackShark V2 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-solution-manual-restoring-microphone-capabilities-in-bluetooth-headsets/"><u>The Ultimate Solution Manual: Restoring Microphone Capabilities in Bluetooth Headsets</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-resolving-unable-to-initialize-dolby-digital-sound-on-windows-1n-10-devices/"><u>Troubleshooting Steps for Resolving Unable to Initialize Dolby Digital Sound on Windows 1N 10 Devices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723007959503-unstoppable-tf2-gaming-no-more-crashes-expert-hacks-revealed/"><u>Unstoppable TF2 Gaming: No More Crashes - Expert Hacks Revealed!</u></a></li>
+</ul></div>
 

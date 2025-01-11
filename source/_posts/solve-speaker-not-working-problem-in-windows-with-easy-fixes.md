@@ -1,7 +1,7 @@
 ---
 title: Solve 'Speaker Not Working' Problem in Windows with Easy Fixes
-date: 2024-08-18T08:07:26.750Z
-updated: 2024-08-19T08:07:26.750Z
+date: 2025-01-04T22:47:06.215Z
+updated: 2025-01-10T16:51:22.671Z
 tags:
   - win11
   - win10
@@ -43,9 +43,6 @@ See if Bluetooth audio lags or not. If not, try the next fix, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Reconnect your Bluetooth audio device to your PC
 
  This is the quickest and easiest fix to try when you run into Bluetooth audio lag issue. Just turn off your Bluetooth audio device and then turn it on to reconnect your Bluetooth audio device to your PC.
@@ -56,9 +53,6 @@ See if Bluetooth audio lags or not. If not, try the next fix, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Run Windows audio playback troubleshooter
 
  The built-in Windows audio playback troubleshooter is a useful tool that can help you resolve audio playback issue. Follow the instructions below to run Windows audio playback troubleshooter:
@@ -67,20 +61,22 @@ See if Bluetooth audio lags or not. If not, try the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap187-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  2) In the pop-up window, click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap185-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Select your Bluetooth audio device and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap186-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Follow the on-screen instructions to troubleshoot the audio lag issue.
 
  When it is completed, see if Bluetooth audio lag issue reappears. If it persists, try updating your Bluetooth driver.
@@ -105,17 +101,10 @@ See if Bluetooth audio lags or not. If not, try the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click**Update** next to your Bluetooth device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap15.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ---
@@ -128,11 +117,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap188-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Navigate to the**Playback** tab. Select your Bluetooth audio device and click **Set Default** . Then click **OK** to save the changes and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap189-5.png)
 
  See if Bluetooth audio lag issue reappears. If this issue is not fixed, try the next fix to restart Windows audio service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Restart Windows audio service
 
@@ -143,8 +140,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap190-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Scroll down to locate**Windows Audio** . **Right-click** it and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap193-5.png)
@@ -158,8 +156,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap195-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Locate the service**Windows Audio Endpoint Builder** . Follow step 3 and step 4 above to do the same thing for Windows Audio Endpoint Builder.
 
  6) Restart your PC.
@@ -179,8 +178,6 @@ See if the audio lag issue reappears.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +185,20 @@ See if the audio lag issue reappears.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-elevate-your-videography-instagram-captioning-techniques/"><u>[New] Elevate Your Videography Instagram Captioning Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-windows-11-audio-not-working/"><u>[SOLVED] Windows 11 Audio Not Working</u></a></li>
+<li><a href="https://extra-information.techidaily.com/canvas-magic-how-to-banish-the-unwanted-backdrop/"><u>Canva's Magic How to Banish the Unwanted Backdrop</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/comment-reinitialiser-le-bureau-lenovo-thinkcentre-en-mode-de-fabrication-dorigine-methodes-completes/"><u>Comment Réinitialiser Le Bureau Lenovo ThinkCentre en Mode De Fabrication D'Origine? - Méthodes Complètes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-oppo-k11-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Oppo K11 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-instant-photographic-display-in-11-os/"><u>In 2024, Instant Photographic Display in 11 OS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-infinix-smart-8-plus-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Infinix Smart 8 Plus for Streaming | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/mastering-multitasking-using-obs-studio-for-dynamic-streaming/"><u>Mastering Multitasking Using OBS Studio for Dynamic Streaming</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/onikuma-headset-microphone-not-working-heres-how-to-fix-it/"><u>Onikuma Headset Microphone Not Working? Here's How to Fix It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/phasmophobia-player-guide-fixing-malfunctioning-voice-chat-feature/"><u>Phasmophobia Player Guide: Fixing Malfunctioning Voice Chat Feature</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solutions-for-when-your-steelseries-arctis-primes-microphone-wont-work/"><u>Solutions for When Your SteelSeries Arctis Prime's Microphone Won't Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-sound-blaster-mic-steps-to-restore-functionality/"><u>Troubleshooting Your Sound Blaster Mic: Steps to Restore Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/webex-microphone-woes-discover-4-key-repairs-that-work/"><u>Webex Microphone Woes? Discover 4 Key Repairs That Work</u></a></li>
+</ul></div>
 

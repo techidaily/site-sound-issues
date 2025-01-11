@@ -1,7 +1,7 @@
 ---
 title: Improve Your Microphone's Sound Capture - Resolved Techniques Revealed
-date: 2025-01-02T19:18:48.001Z
-updated: 2025-01-03T18:43:49.651Z
+date: 2025-01-09T16:35:31.149Z
+updated: 2025-01-10T18:47:14.242Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ Hey, buddy, can you hear me?
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix Fortnite mic not working?
 
  Here are 5 methods that have helped many players get their mic working in Fortnite again. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -49,6 +45,10 @@ Hey, buddy, can you hear me?
    ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88b171d3c2d.jpg)  
    2. At the top of the screen, click the**speaker icon** to view the**Audio** settings.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88b3985ef65.jpg)  
    3. **Turn off** Voice Chat, then click**Apply** at the bottom.  
 
@@ -65,28 +65,20 @@ Hey, buddy, can you hear me?
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf47aa5ad97.jpg)  
 **Note:** You can try**speaking into your microphone** to test if it’s working properly. If it is, you should see a green bar rising next to it while you talk.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf47cf4729b.jpg)
 6. **Right click** on and**disable** every other input device except the one you want to use. (If you have any other output devices, repeat for the**Playback** tab).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf47f49119e.jpg)
 7. Click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8. Open Fortnite again, go to the settings menu and**turn Voice Chat on** .
 9. Join a squad or duo to test if your mic works now. If not, try Method 2 below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Update your audio driver
 
@@ -108,6 +100,10 @@ Hey, buddy, can you hear me?
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Restart the Windows Audio service
 
  Another solution to your **Fortnite mic not working** problem would be **restarting the Windows Audio service** :
@@ -118,7 +114,7 @@ Hey, buddy, can you hear me?
 3. Find and right-click on **Windows Audio** , then click **Restart** on the upper left.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf52397a39c.jpg)
@@ -140,22 +136,18 @@ Hey, buddy, can you hear me?
 3. In the left pane, click **Microphone** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88ebcdd1f01.jpg)
 4. In the right pane, click the**Change** button, and you’ll see your mic is turned on. Also make sure**All apps to access your microphone** is enabled:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf492ca1d0f.jpg)
 5. In the section of**Choose which apps can access your microphone** , verify that**Fortnite is turned on** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Test in Fortnite.
 
@@ -168,13 +160,17 @@ Hey, buddy, can you hear me?
 
 ![windows 11 - Make sure apps have access to your microphone](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Microphone-access-and-Let-apps-access-your-microphone-On.jpg)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Also, make sure that you toggle on **Let desktop apps access your microphone** .  
 
 ![windows 11 - Make sure apps have access to your microphone](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Let-desktop-apps-access-your-microphone-make-sure-its-On.jpg)
 4. Now test your voice chat in-game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -192,6 +188,10 @@ Hey, buddy, can you hear me?
  That’s it. You’re more than welcome to leave a comment below to share your results or any other suggestions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b87ea7983aa7-269x300.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Enjoy your game!
 
@@ -213,22 +213,16 @@ Enjoy your game!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-top-5-ultra-hd-screens-mastering-hue-and-shade/"><u>[New] Top 5 Ultra-HD Screens Mastering Hue and Shade</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-echo-chamber-best-online-spots-for-free-skype-music-for-2024/"><u>[Updated] Echo Chamber Best Online Spots for Free Skype Music for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-enhancing-engagement-essential-video-formats-for-youtube-viewers-for-2024/"><u>[Updated] Enhancing Engagement Essential Video Formats for YouTube Viewers for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015949127-audio-malfunction-in-chrome-heres-the-fix-that-works/"><u>Audio Malfunction in Chrome? Here's the Fix That Works</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bose-speaker-problems-heres-how-you-can-get-them-back-up-and-running/"><u>Bose Speaker Problems? Here's How You Can Get Them Back Up and Running</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/convert-for-free-from-twitter-videos-to-animated-gifs-for-2024/"><u>Convert for Free From Twitter Videos to Animated Gifs for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnose-and-repair-the-ultimate-guide-to-realtek-high-definition-speakers-not-plugged-in/"><u>Diagnose & Repair: The Ultimate Guide to Realtek High Definition Speakers Not Plugged In</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-fixes-to-eliminate-speaker-feedback-and-sizzle-on-your-pc-windows-107/"><u>DIY Fixes to Eliminate Speaker Feedback & Sizzle on Your PC (Windows 10/7)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-no-sound-in-nvidia-high-definition-audio-systems/"><u>Effective Fixes for 'No Sound' In Nvidia High Definition Audio Systems</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/enhancing-engagement-share-tiktoks-on-twitter/"><u>Enhancing Engagement Share TikToks on Twitter</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/finding-hp-printer-drivers-on-windows-1011/"><u>Finding HP Printer Drivers on Windows 10/11</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-install-or-upgrade-hp-printer-drivers-on-windows-11-download-and-setup-instructions/"><u>How to Install or Upgrade HP Printer Drivers on Windows 11: Download & Setup Instructions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016137782-hp-notebook-trouble-heres-how-to-get-your-windows-11-audio-working-again/"><u>HP Notebook Trouble? Here's How to Get Your Windows 11 Audio Working Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016420254-no-sound-while-playing-hearthstone-heres-your-solution/"><u>No Sound While Playing Hearthstone? Here's Your Solution</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/solving-srt-export-issues-in-adobe-premiere-pro-for-2024/"><u>Solving SRT Export Issues in Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016224627-troubleshoot-and-resolve-crackling-noise-in-headphones-today/"><u>Troubleshoot & Resolve Crackling Noise in Headphones Today!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-cutting-edge-cinema-with-hero5-black-professional-techniques/"><u>[New] In 2024, Cutting Edge Cinema with Hero5 Black Professional Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-top-7-unboxing-excellence-strategies/"><u>[Updated] 2024 Approved Top 7 Unboxing Excellence Strategies</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-enhancing-tiktok-video-viewership-through-zoom-for-2024/"><u>[Updated] Enhancing TikTok Video Viewership Through Zoom for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-rippleringers-finding-the-happiest-online-rhythms/"><u>[Updated] RippleRingers Finding the Happiest Online Rhythms</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-transform-ordinary-to-outstanding-creating-captivating-square-videos-on-fb/"><u>[Updated] Transform Ordinary to Outstanding Creating Captivating Square Videos on FB</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-audio-harmony-mastering-the-cut-and-switch/"><u>2024 Approved Audio Harmony Mastering the Cut and Switch</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-service-outage-heres-how-you-can-restart-them-successfully/"><u>Audio Service Outage? Here's How You Can Restart Them Successfully</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-unplugged-microphone-or-headset-problems-on-windows-11-8-and-7/"><u>How to Resolve Unplugged Microphone or Headset Problems on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-capturing-every-frame-the-apeaksoft-reviewed-screen-recorder/"><u>In 2024, Capturing Every Frame The Apeaksoft Reviewed Screen Recorder</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016369439-logitech-g933-sound-issues-follow-these-quick-fixes/"><u>Logitech G933 Sound Issues? Follow These Quick Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-logitech-webcam-and-mic-issues-for-smooth-online-communication/"><u>Troubleshooting Logitech Webcam & Mic Issues for Smooth Online Communication</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Fix for Non-Responsive Push-To-Talk in Overwatch – Steps Inside
-date: 2024-08-18T08:07:23.620Z
-updated: 2024-08-19T08:07:23.620Z
+date: 2025-01-03T16:59:08.122Z
+updated: 2025-01-10T23:18:08.227Z
 tags:
   - win11
   - win10
@@ -33,9 +33,6 @@ Having trouble with push-to-talk during gameplay? You’re not alone! Many Overw
 
  This is the quickest fix to try when you’re experiencing Overwatch audio issues. Just restart your computer and Overwatch to test your issue. If your problem still exists, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Run Discord as Administrator
 
  If you’re using Discord instead of Overwatch’s own chat feature, try this fix. If you’re not using Discord, move on to **[Fix 3](https://tools.techidaily.com/drivereasy/download/)**  below.
@@ -49,8 +46,9 @@ If you’re not sure how to do it, follow the instructions below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/open-task-manager.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Right-click Discord then select **End Task** . (Ensure you right-click on the main Discord link, not the subdirectory entries)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/close-discord.png)
@@ -60,8 +58,9 @@ If you’re not sure how to do it, follow the instructions below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/discord-properties.png)
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Under the **Compatibility**  tab, check the box next to **Run this program as an administrator** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Discord-admin-access.png)
@@ -71,8 +70,9 @@ If you’re not sure how to do it, follow the instructions below:
 If your issue persists, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Update your audio driver
 
  In most cases, audio issues occur when users are using the faulty audio driver, or the driver is outdated. It’s essential that you have the latest correct audio driver at all times to keep Overwatch running smoothly.
@@ -99,6 +99,10 @@ If your issue persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-281.png)
@@ -121,9 +125,6 @@ To check if there is any update, follow the instructions below:
 
  If a patch is available, install it, then run your game again to check whether your problem has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## Fix 5: Check your in-game settings
 
  Improper audio settings can also trigger this issue. To see if that’s the problem for you, verify your in-game push-to-talk settings. Follow the instructions below:
@@ -139,18 +140,20 @@ To check if there is any update, follow the instructions below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-400-1024x559.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Make sure the VOICE CHAT MODE is set to**PUSH TO TALK** , then select the correct VOCIE CHAT DEVICES.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-401-1024x569.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 **5)** Click the**CONTROLS** tab. Under**CHAT AND VOICE** , click the button next to**VOICE CHAT: PUSH TO TALK** and change your push-to-talk key to a different one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-416-1024x402.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Restart your game to test your issue.
 
@@ -169,8 +172,6 @@ To check if there is any update, follow the instructions below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +179,24 @@ To check if there is any update, follow the instructions below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-top-picks-premium-and-economical-bdr-players-for-pcmac/"><u>[New] In 2024, Top Picks Premium & Economical BDR Players for PC/Mac</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-uncovering-the-best-unnoticed-speech-to-text-on-mac/"><u>[Updated] In 2024, Uncovering the Best Unnoticed Speech to Text on Mac</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtubes-dimensions-decoded-a-comprehensive-ratio-handbook/"><u>[Updated] YouTube's Dimensions Decoded A Comprehensive Ratio Handbook</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-sound-fixes-for-windows-10-users-say-goodbye-to-quiet-mode/"><u>Effortless Sound Fixes for Windows 10 Users – Say Goodbye to Quiet Mode</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-self-care-setting-boundaries-through-ai/"><u>Enhancing Self-Care: Setting Boundaries Through AI</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-properly-install-the-idt-hd-sound-encoderdecoder-driver-on-windows-10-resolved/"><u>How to Properly Install the IDT HD Sound Encoder/Decoder Driver on Windows 10 [Resolved]</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-oppo-f25-pro-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Oppo F25 Pro 5G Phone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-common-problems-with-lucidsound-ls30-mics-fixes-and-solutions-for-optimal-performance/"><u>Overcoming Common Problems with LucidSound LS30 Mics - Fixes and Solutions for Optimal Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-sound-distortion-and-stuttering-troubles-on-your-windows-117-system-expert-solutions-revealed/"><u>Resolving Sound Distortion & Stuttering Troubles on Your Windows 11/7 System - Expert Solutions Revealed!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-gaming-spaces-for-solo-play-in-apex-legends-for-2024/"><u>Top Gaming Spaces for Solo Play in Apex Legends for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-restoring-sound-on-a-faulty-turtle-beach-microphone/"><u>Troubleshooting and Restoring Sound on a Faulty Turtle Beach Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-voice-chat-issues-in-call-of-dutys-modern-warfare/"><u>Troubleshooting Guide: Fixing Voice Chat Issues in Call of Duty's Modern Warfare</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fixes-for-no-sound-in-pc-viewed-facebook-videos-latest-strategies-of-2e24/"><u>Ultimate Fixes for No Sound in PC-Viewed Facebook Videos – Latest Strategies of 2E24</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unidentified-print-recognition-error/"><u>Unidentified Print Recognition Error</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unleashing-voice-windows-10-audio-basics/"><u>Unleashing Voice Windows 10 Audio Basics</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/watermark-free-videos-how-to-remove-filmora-branding/"><u>Watermark-Free Videos How to Remove Filmora Branding</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-y100-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo Y100 5G | Dr.fone</u></a></li>
+</ul></div>
 

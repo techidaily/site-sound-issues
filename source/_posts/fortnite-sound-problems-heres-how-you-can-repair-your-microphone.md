@@ -1,7 +1,7 @@
 ---
 title: Fortnite Sound Problems? Here's How You Can Repair Your Microphone
-date: 2024-12-31T04:50:20.565Z
-updated: 2025-01-04T01:37:09.448Z
+date: 2025-01-07T18:09:47.882Z
+updated: 2025-01-11T00:09:49.075Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Is your **Corsair Void Mic Not Working** ? Don’t worry, it’s often quite eas
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes For**Corsair Void Mic Not Working**
 
  Here are 4 fixes that have helped other users resolve the mic not working on Corsair headset issue. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -30,6 +34,10 @@ Is your **Corsair Void Mic Not Working** ? Don’t worry, it’s often quite eas
 2. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Adjust your audio settings](https://tools.techidaily.com/drivereasy/download/)**
 4. [**Check for hardware issues**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Allow access to microphone
 
@@ -45,16 +53,24 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Check your **Corsair Void headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, please try **Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
@@ -75,10 +91,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -86,10 +98,6 @@ Here’s how to do it:
 5) Check to see if the mic works properly. If yes, then great! If the issue persists, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -111,10 +119,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-250.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click the **Levels** tab, then drag **the Microphone slider** all the way to _its top_ and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
@@ -124,10 +128,6 @@ Here is how to do it:
  Now that with microphone set as default device and the volume turned up, test your mic and see if the**microphone on Corsair Void headset** problem has been fixed. If yes, then great! If the mic still doesn’t work, please move on to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Check for hardware issues
 
@@ -158,22 +158,16 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/average-byte-gauge-for-a-24-hour-film/"><u>Average Byte Gauge for a 24 Hour Film</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connecting-in-the-digital-age-understanding-key-platforms-fb-ttter-igram-yoodlebox/"><u>Connecting in the Digital Age: Understanding Key Platforms – Fb, Ttter, IGram, Yoodlebox</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-the-broken-push-to-talk-command-in-overwatch/"><u>Diagnosing and Repairing the Broken Push-To-Talk Command in Overwatch</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/dota-2-pc-microphone-not-working-heres-how-you-can-fix-it-now/"><u>Dota 2 PC Microphone Not Working? Here's How You Can Fix It Now</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-techniques-for-dealing-with-non-operational-sound-services/"><u>Effective Techniques for Dealing with Non-Operational Sound Services</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/flvwma/"><u>FLVとWMAファイルを完全自由で簡単にオンライン変換 - ムーヴァヴィ</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-discord-not-acknowledging-video-game-audio-issues-resolved/"><u>How To Fix Discord Not Acknowledging Video Game Audio Issues Resolved</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-logitech-g533-mic-working-again-a-comprehensive-guide/"><u>How to Get Your Logitech G533 Mic Working Again: A Comprehensive Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-honor-90-pro-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Honor 90 Pro.</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-google-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Google</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-honor-70-lite-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Honor 70 Lite 5G FRP</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-ps5-with-premium-complementary-items/"><u>Maximizing PS5 with Premium Complementary Items</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-guide-resolving-connectivity-issues-with-your-logitech-g633-mic/"><u>Quick Guide: Resolving Connectivity Issues with Your Logitech G633 Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reconnect-the-ears-of-fortnite-a-guide-to-reviving-in-game-sounds/"><u>Reconnect the Ears of Fortnite: A Guide to Reviving In-Game Sounds</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/reviving-camera-victory-over-obs-glitches/"><u>Reviving Camera Victory Over OBS Glitches</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-issues-with-active-audio-services/"><u>Troubleshooting: Fixing Issues with Active Audio Services</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-new-potentials-with-chatgpt-vision-a-guide-to-8-unique-methods/"><u>Unlocking New Potentials with ChatGPT Vision - A Guide to 8 Unique Methods</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-childhood-chariot-jamboree-fun/"><u>[Updated] 2024 Approved Childhood Chariot Jamboree Fun</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-choosing-the-best-portable-microphones-for-macos-users/"><u>[Updated] In 2024, Choosing the Best Portable Microphones for MacOS Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-fix-tutorial-when-your-bluetooth-mic-stops-responding/"><u>Comprehensive Fix Tutorial: When Your Bluetooth Mic Stops Responding</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comprehensive-virtual-background-tips-a-complete-guide-with-manycam-solutions/"><u>Comprehensive Virtual Background Tips: A Complete Guide with ManyCam Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016754005-how-to-fix-voicemod-not-workingnot-opening-2024-tips/"><u>How to Fix Voicemod Not Working/Not Opening - 2024 Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-when-your-bose-sound-system-wont-power-on/"><u>Quick Fixes for When Your Bose Sound System Won't Power On</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-audio-experience-expert-tips-to-fix-broken-stereo-mixes/"><u>Reviving Your Audio Experience: Expert Tips to Fix Broken Stereo Mixes</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-repairing-voice-chat-connectivity-in-black-ops-cold-war-campaign/"><u>Solution Guide: Repairing Voice Chat Connectivity in Black Ops Cold War Campaign</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-magic-5-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Honor Magic 5 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlocking-asmr-potential-professional-filming-practices-revealed-for-2024/"><u>Unlocking ASMR Potential Professional Filming Practices Revealed for 2024</u></a></li>
 </ul></div>
 

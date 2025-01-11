@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Fixing Your Skype Mic Issues on Windows 11"
-date: 2024-08-18T08:08:24.374Z
-updated: 2024-08-19T08:08:24.374Z
+date: 2025-01-03T17:54:17.687Z
+updated: 2025-01-10T20:58:04.837Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 1. [Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 2. [Check audio settings](https://tools.techidaily.com/drivereasy/download/)
 3. [Roll back your audio driver](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your audio driver
 
@@ -60,26 +64,18 @@ To do so:
 1. Right click on the**Volume icon** at the bottom right corner, and click**Sounds** (or**Playback devices** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 2. In the**Sound** pane, click the**Playback** tab.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7201dbcc98.jpg)
 3. Select your speaker audio device, and click**Set Default** to set it as your default device.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  If your device has been the default device, you’ll see a green check mark next to your device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72066a032c.jpg)
 4. Restart your computer, and plug a headphone to see if there’s any sound.
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Still no luck? Okay, there’s one more thing to try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Roll back your audio driver
 
  Another effective method to resolve the no sound issue is to roll back your audio driver. To do so:
@@ -88,18 +84,27 @@ Still no luck? Okay, there’s one more thing to try.
 2. Type**devmgmt.msc** and click**OK** to open Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721431cb33.jpg)
 3. Double click**Sound, video and game controllers** to expand it.  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72165a0e6f.jpg)
 4. Double click on your**audio device** to open the properties pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7218e14fa5.jpg)
 5. Click the**Driver** tab, and click**Roll Back Driver** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721ba8a50e.jpg)
 6. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Restart your computer.
 
 Test your computer and see if it fixes the sound problem.
@@ -117,8 +122,6 @@ Feel free to leave a comment below if you have any questions.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +129,20 @@ Feel free to leave a comment below if you have any questions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-speak-worldwide-with-these-27-premium-tools-to-translate-videos/"><u>[New] 2024 Approved Speak Worldwide with These 27 Premium Tools to Translate Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-exposing-the-accelerating-path-of-8-youtube-content-creators-for-2024/"><u>[New] Exposing the Accelerating Path of 8 YouTube Content Creators for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-dive-into-asmrs-nighttime-soothing-benefits/"><u>[Updated] 2024 Approved Dive Into ASMR's Nighttime Soothing Benefits</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/deciphering-the-troubleshooting-tactics-for-a-malfunctioning-corsair-hs70-microphone/"><u>Deciphering the Troubleshooting Tactics for a Malfunctioning Corsair HS70 Microphone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-setup-intel-thunderbolt-controllers-installation-guide/"><u>Effortless Setup: Intel Thunderbolt Controllers Installation Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/elite-windows-melody-makers/"><u>Elite Windows Melody Makers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-climbing-the-viewership-ladder-with-igtv-strategies-to-succeed/"><u>In 2024, Climbing the Viewership Ladder with IGTV Strategies to Succeed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014347352-mpow-microphone-malfunctions-heres-the-solution-for-windows-users/"><u>MPOW Microphone Malfunctions? Here's the Solution for Windows Users!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/rainbow-six-siege-voice-chat-malfunction-solutions-after-the-2024-patch/"><u>Rainbow Six Siege Voice Chat Malfunction: Solutions After the 2024 Patch</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-oculus-rift-s-headset-audio-glitches-quickly-5-proven-techniques-for-2-groggy-morning-users/"><u>Resolving Oculus Rift S Headset Audio Glitches Quickly: 5 Proven Techniques for 2 Groggy Morning Users .</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-specific-heat-capacity-of-water-is-approximately-418-jgk-which-is-relatively-high-compared-to-many-other-substances/"><u>The Specific Heat Capacity of Water Is Approximately 4.18 J/G·K, Which Is Relatively High Compared to Many Other Substances.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-honor-magic-5-lite-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Honor Magic 5 Lite Phone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/videoeditorpro-comprehensive-analysis-and-reviews/"><u>VideoEditorPro Comprehensive Analysis & Reviews</u></a></li>
+</ul></div>
 

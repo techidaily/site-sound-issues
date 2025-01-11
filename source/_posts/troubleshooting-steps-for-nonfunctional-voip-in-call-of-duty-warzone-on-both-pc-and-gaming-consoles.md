@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps for Nonfunctional VOIP in Call of Duty: Warzone on Both PC and Gaming Consoles"
-date: 2024-08-18T08:09:39.695Z
-updated: 2024-08-19T08:09:39.695Z
+date: 2025-01-09T18:10:55.038Z
+updated: 2025-01-10T19:46:37.357Z
 tags:
   - win11
   - win10
@@ -39,14 +39,20 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 2. Click the **Recording**  tab, s  elect the microphone you’re using and click **Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 3. While still in the **Recording** tab, try **speaking into your microphone**  to test if it works properly. If it is, you should see some green in the bar on the right:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
 4. Click **OK** .
 
  See if your Logitech G633 mic works. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 2: Allow access to your headset microphone (for Windows 10 users)**
 
  If you don’t allow Windows 10 and applications to access your microphone, you may also encounter this issue. You can follow the steps below to check:
@@ -54,21 +60,18 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 1. On your keyboard, press the**Windows logo key + I** at the same time to open Windows Settings. Then click**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000087.png)
 2. Click**Microphone** on the left panel. On the right,**if** **microphone access for this device is off** , click**Change** **to** **turn it on** . You should also all apps to access your microphone. If it is turned off, turn it on.  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000088.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Check if your Logitech G633 mic works. If not, try the next fix below to update your audio driver.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 3: Update your audio driver**
 
  An outdated or corrupted audio driver can also be the root of this issue. To fix it, you just need to update your audio driver to the latest version.
@@ -92,16 +95,14 @@ There are two ways to update your sound card driver: **manually**  and **automat
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap0029-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 4: Troubleshoot hardware issues**
 
  If none of the fixes works for you, it’s time to troubleshoot hardware issues. You can follow the steps below to troubleshoot hardware issues:
@@ -120,8 +121,6 @@ There are two ways to update your sound card driver: **manually**  and **automat
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +128,21 @@ There are two ways to update your sound card driver: **manually**  and **automat
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-next-gen-clarity-in-depth-review-of-best-8k-monitors/"><u>[New] Next-Gen Clarity In-Depth Review of Best 8K Monitors</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-boosting-engagement-tactics-for-great-instagram-reels/"><u>[Updated] 2024 Approved Boosting Engagement Tactics for Great Instagram Reels</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-crafting-eye-catching-instagram-story-previews/"><u>[Updated] 2024 Approved Crafting Eye-Catching Instagram Story Previews</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-laughing-lineup-step-by-step-guide-to-funny-memes/"><u>[Updated] Laughing Lineup Step-by-Step Guide to Funny Memes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-beat-the-best-substitutes-for-samsungs-vr-camera-gear-360/"><u>2024 Approved Beat the Best Substitutes for Samsung's VR Camera Gear 360</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-choreographing-gripping-podcast-endings/"><u>2024 Approved Choreographing Gripping Podcast Endings</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-webclipper-facebook-videos/"><u>2024 Approved WebClipper - Facebook Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-samsung-galaxy-s24-ultra-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Samsung Galaxy S24 Ultra? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/pro-photo-expertise-at-your-fingertips-with-these-tips/"><u>Pro Photo Expertise at Your Fingertips with These Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-resolving-a-broken-or-malfunctioning-headset-microphone/"><u>Quick Solutions: Resolving a Broken or Malfunctioning Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-audio-functionality-addressing-headphone-problems-in-your-windows-11-setup/"><u>Restore Audio Functionality: Addressing Headphone Problems in Your Windows 11 Setup</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-stereo-sound-issues-a-comprehensive-guide/"><u>Troubleshoot and Fix Stereo Sound Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-your-pcs-sony-headphones-wh-1000xm3-or-wh-1000xm4-microphone-issues/"><u>Troubleshooting and Fixing Your PC's Sony Headphones: WH-1000XM3 or WH-1000XM4 Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solution-guide-for-non-operational-audio-systems/"><u>Troubleshooting and Solution Guide for Non-Operational Audio Systems</u></a></li>
+</ul></div>
 

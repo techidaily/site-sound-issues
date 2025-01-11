@@ -1,7 +1,7 @@
 ---
 title: Audio System Malfunction? Here’s How to Get Your Sounds Running Again
-date: 2024-12-29T03:47:59.667Z
-updated: 2025-01-04T04:13:03.585Z
+date: 2025-01-05T19:13:39.192Z
+updated: 2025-01-10T22:50:32.705Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -43,12 +43,12 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 1. On your keyboard, press the**Windows logo** ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8ac86a6f5.png) **key** and **R** at the same time to invoke the Run box.
 2. Type**services.msc** and press**Enter** to open the**Services** window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9f60971b1b9.png)
 3. Scroll down to and right-click**Windows Audio** , then select**Restart** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f04b48d3d.jpg)
 4. Double-click**Windows Audio** , make sure the **Service status** is**running** and the**Startup type** is set to**Automatic** .  
@@ -56,22 +56,18 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f0d59e995.jpg)
 5. Repeat step 3) and step 4) for**Windows Audio Endpoint Builder** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f2e4d5191.jpg)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f2290c014.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Click**OK** , then close the Service window.
 
 7. Test by playing a song. If your problem still exists, try Fix 2, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio drivers
 
@@ -91,7 +87,7 @@ OR
 3. Click the **Update** button next to your audio driver to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
@@ -114,6 +110,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f91648965.png)
 5. Restart your computer, then check if your problem is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -138,21 +138,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-top-10-streamers-for-real-time-television-content/"><u>[New] Top 10 Streamers for Real-Time Television Content</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-ultimate-guide-to-use-video-enhancer-22/"><u>[Updated] 2024 Approved Ultimate Guide To Use Video Enhancer 2.2</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeo-simplified-platform-for-content-creators/"><u>[Updated] 2024 Approved Vimeo Simplified Platform for Content Creators</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-ultimate-test-of-tomtom-bandit-2023-cam/"><u>[Updated] In 2024, The Ultimate Test of TomTom Bandit 2023 Cam</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-seamless-audio-junction-expert-logic-pro-x-tips/"><u>2024 Approved Seamless Audio Junction Expert Logic Pro X Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-the-iphone-13-and-15-pro-top-alternatives-for-apple-lovers-zdnet/"><u>Beyond the iPhone 13 & 15 Pro: Top Alternatives for Apple Lovers | ZDNet</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/complete-analysis-of-theta-ss-advanced-tech/"><u>Complete Analysis of Theta S's Advanced Tech</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-solution-implementing-the-idt-high-definition-audio-codec-driver-on-your-windows-n-10-device/"><u>Comprehensive Solution: Implementing the IDT High-Definition Audio Codec Driver on Your Windows N 10 Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnose-and-repair-a-broken-headphone-connector-on-your-notebook-pc/"><u>Diagnose and Repair a Broken Headphone Connector on Your Notebook PC</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/earn-on-tiktok-explore-8-effective-money-making-techniques-for-2024/"><u>Earn on TikTok Explore 8 Effective Money-Making Techniques for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/instant-subtitling-hacks-for-all-your-facebook-videos/"><u>Instant Subtitling Hacks for All Your Facebook Videos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/laptop-audio-issues-solved-get-your-sound-back/"><u>Laptop Audio Issues Solved: Get Your Sound Back</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-fortniten-voice-calls-quick-solutions-for-sound-setbacks/"><u>Mastering Fortnite'n Voice Calls: Quick Solutions for Sound Setbacks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-the-fix-for-voice-chat-problems-in-valorant-what-you-need-to-know/"><u>Mastering the Fix for Voice Chat Problems in Valorant - What You Need to Know</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-sound-on-sennheiser-hd-6691-bluetooth-headset-effective-fixes/"><u>Restoring Sound on Sennheiser HD 669.1 Bluetooth Headset: Effective Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-when-your-kotion-g2000-microphone-fails/"><u>Troubleshooting Steps for When Your Kotion G2000 Microphone Fails</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-unleash-creativity-with-these-essential-vector-editors/"><u>[New] 2024 Approved Unleash Creativity with These Essential Vector Editors</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-beyond-basic-the-advanced-techniques-of-youtube-counts-for-2024/"><u>[Updated] Beyond Basic The Advanced Techniques of YouTube Counts for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-conversations-writing-engaging-dialogues/"><u>[Updated] Crafting Conversations Writing Engaging Dialogues</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-future-frameworks-exclusive-list-of-top-cameras/"><u>[Updated] Future Frameworks Exclusive List of Top Cameras</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-generating-a-youtube-auto-subscribe-direct-link/"><u>[Updated] In 2024, Generating a YouTube Auto Subscribe Direct Link</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/engineering-eye-catching-podcast-sizzle-reels/"><u>Engineering Eye-Catching Podcast Sizzle Reels</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-your-racing-game-with-the-logitech-driving-force-gt-wheel-downloads-for-win7-win10-and-win11/"><u>Enhance Your Racing Game with the Logitech Driving Force GT Wheel - Downloads for Win7, Win10 & Win11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-loudness-issues-by-shutting-down-audio-tweaks-in-windows-11/"><u>Fixing Loudness Issues by Shutting Down Audio Tweaks in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quickly-restore-pc-audio-functionality-with-these-easy-tips/"><u>Quickly Restore PC Audio Functionality with These Easy Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-dolby-advanced-audio-errors-initiating-the-driver-in-windows-11-effortlessly/"><u>Resolving Dolby Advanced Audio Errors: Initiating the Driver in Windows 11 Effortlessly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sea-of-thieves-pc-fixing-voice-communication-problems/"><u>Sea of Thieves PC - Fixing Voice Communication Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-no-sound-problem-with-jabra-g435-wireless-headset-expert-advice/"><u>Solving No Sound Problem with Jabra G435 Wireless Headset: Expert Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-crackling-sound-issues-in-windows-operating-systems/"><u>Step-by-Step Solution for Crackling Sound Issues in Windows Operating Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-audio-on-windows-11-quick-solutions-no-more-silence/"><u>Troubleshoot Audio on Windows 11 - Quick Solutions, No More Silence</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/understanding-the-timeframe-what-causes-an-extended-iphone-restore-process/"><u>Understanding the Timeframe: What Causes an Extended iPhone Restore Process?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Your AirPods' Microphone Issues with Windows 11: A Step-by-Step Guide"
-date: 2024-12-28T16:48:13.581Z
-updated: 2025-01-04T04:49:03.673Z
+date: 2025-01-03T16:50:01.178Z
+updated: 2025-01-10T20:44:12.621Z
 tags:
   - win11
   - win10
@@ -55,7 +55,7 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Try your mic to see if it’s working now. If it isn’t, move on to the next fix.
@@ -63,7 +63,7 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2 – Check the audio settings
@@ -77,6 +77,10 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-enable.jpg)
 3. Right-click the headset microphone again and select **Properties.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-properties.jpg)
 4. Under the**Levels** tab, move the slider to the highest value and then click**OK** to save your settings.
 
@@ -85,7 +89,7 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3 – Update your audio driver
@@ -107,17 +111,9 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DE-audio-card-driver.jpg)
 4. After updating your audio driver, restart your PC for the trick to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The**Pro version** of Driver Easy comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at <support@drivereasy.com> .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4 – Reinstall the Corsair headset and iCUE software
 
@@ -127,11 +123,15 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/quick-access-menu-device-manger.jpg)
 2. Click on the**Audio inputs and outputs** to expand the category, right-click your Corsair device and then select**Uninstall device** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DM-Audio-unindtall.jpg)
 3. Click**Uninstall** in the confirmation box that pops up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Press the**Windows + R** keys to open the Run command. Type**`appwiz.cpl`** in the text box and click**OK** .  
@@ -141,16 +141,16 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-5.jpg)
 6. Click**Yes** in the confirmation box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Restart your PC and replug your Corsair headset into your computer.
 8. Relaunch the iCUE software. You can click **[here](https://r.brandreward.com/?key=3882aba4cadd4473e0195097fdf20855&url=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Ficue&mktsrc=drivereasyen%5F166866)**  to download the latest version of iCUE.
 
  If this method doesn’t work, then try the one below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5 – Use a USB audio card
 
@@ -207,21 +207,20 @@ Top Pick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-breaking-boundaries-coordinated-video-watch-across-channels/"><u>[New] In 2024, Breaking Boundaries Coordinated Video Watch Across Channels</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-virtual-voyages-exploring-new-genre/"><u>[New] Virtual Voyages Exploring New Genre</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-become-an-engaging-speaker-on-google-meet-platforms/"><u>[Updated] Become an Engaging Speaker on Google Meet Platforms</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-fast-tracking-your-creative-spark-with-google-images-art-for-2024/"><u>[Updated] Fast-Tracking Your Creative Spark with Google Images Art for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/5-apps-that-elevate-your-desktop-writing-game/"><u>5 Apps That Elevate Your Desktop Writing Game</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-way-to-get-the-latest-updates-for-your-dell-monitors-software/"><u>Effortless Way to Get the Latest Updates for Your Dell Monitor's Software</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/epson-scanner-glitch-resolved-now-functioning-on-windows-11/"><u>Epson Scanner Glitch Resolved - Now Functioning on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016956572-expert-fixes-for-when-your-steelseries-arctis-pros-microphone-wont-work-anymore/"><u>Expert Fixes for When Your SteelSeries Arctis Pro's Microphone Won't Work Anymore</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-solutions-how-to-get-your-steelseries-arctis-pro-mic-up-and-running-again/"><u>Expert Solutions: How to Get Your SteelSeries Arctis Pro Mic Up and Running Again</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-repairing-blackened-screens-on-android-devices/"><u>Expert Tips for Repairing Blackened Screens on Android Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-to-restoring-optimal-sound-levels-on-your-windows-10-pc/"><u>Guide to Restoring Optimal Sound Levels on Your Windows 10 PC</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-blueprint-for-an-intriguing-videography-script/"><u>In 2024, Blueprint for an Intriguing Videography Script</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/successfully-updating-and-repairing-idt-high-definition-sound-card-drivers-on-windows-10-operating-system/"><u>Successfully Updating and Repairing IDT High Definition Sound Card Drivers on Windows 10 Operating System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-your-logitech-g733-headset-resolving-non-functional-mic-problems/"><u>Troubleshoot Your Logitech G733 Headset: Resolving Non-Functional Mic Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/understanding-and-fixing-your-voice-chat-issues-on-discord/"><u>Understanding and Fixing Your Voice Chat Issues on Discord</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/utilizing-cookiebot-technology-for-advanced-online-analytics-and-personalization/"><u>Utilizing Cookiebot Technology for Advanced Online Analytics & Personalization</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/echniques-for-successfully-incorporating-a-streaming-youtube-playlist/"><u>[New] Techniques for Successfully Incorporating a Streaming YouTube Playlist</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nderstanding-online-video-platforms-vimeo-and-youtube-for-2024/"><u>[New] Understanding Online Video Platforms Vimeo & YouTube for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/clear-audio-communication-on-discord-diagnosing-and-repairing-common-problems/"><u>Clear Audio Communication on Discord: Diagnosing and Repairing Common Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-solutions-for-handling-unexpected-website-activation-in-apples-screen-time-feature/"><u>Effective Solutions for Handling Unexpected Website Activation in Apple's Screen Time Feature</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-a-nonfunctional-jabra-headset-an-ultimate-step-by-step-manual/"><u>Fixing a Nonfunctional Jabra Headset : An Ultimate Step-by-Step Manual</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-undetected-headphones-on-windows-11-devices/"><u>How to Fix Undetected Headphones on Windows 11 Devices</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-14-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 14 to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-perfecting-pics-a-full-guide-to-facetune-mastery/"><u>In 2024, Perfecting Pics - A Full Guide to Facetune Mastery</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/lenovo-laptop-lauft-mit-windows-11-schwerfallig-losungsoptionen/"><u>Lenovo-Laptop Läuft Mit Windows 11 Schwerfällig – Lösungsoptionen</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-audio-post-windows-11-upgrade-quick-fixes-inside/"><u>No Audio Post-Windows 11 Upgrade? Quick Fixes Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-the-silent-problem-restarting-mic-functionality-in-microsoft-teams-across-windows-platforms/"><u>Solve the Silent Problem: Restarting Mic Functionality in Microsoft Teams Across Windows Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solving-rcs-issues-a-guide-to-troubleshooting-google-chat-on-android-devices/"><u>Solving RCS Issues: A Guide to Troubleshooting Google Chat on Android Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tackling-silent-skirmishes-comprehensive-solutions-to-fix-no-sound-in-fortnites-battle-royale-2024-update/"><u>Tackling Silent Skirmishes: Comprehensive Solutions to Fix No-Sound in Fortnite's Battle Royale - 2024 Update</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-no-sound-issues-on-pc-while-playing-call-of-duty-black-ops-cold-war/"><u>Troubleshooting No Sound Issues on PC While Playing Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-ideal-gadget-a-thorough-review-of-apple-airtag-for-iphone-users/"><u>Unveiling the Ideal Gadget: A Thorough Review of Apple AirTag For iPhone Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Guide on How to Repair Voice Communication in Counter-Strike 2
-date: 2024-12-31T19:07:35.087Z
-updated: 2025-01-04T00:56:43.691Z
+date: 2025-01-03T18:07:38.770Z
+updated: 2025-01-10T20:50:32.268Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix League of Legends Voice Chat Not Working
 
  Here are four fixes that have helped other users resolve the voice chat not working problem in LoL. You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
@@ -36,10 +32,6 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 2. **[Join voice channel automatically](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Configure the audio settings](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Check out the obvious
 
@@ -63,7 +55,11 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 4. Check to see if you can use the voice chat feature properly in game. If yes, then great! If it’s no joy, please move on to**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Configure the audio settings
@@ -76,18 +72,26 @@ You can follow the steps below to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/r.png)
 2. In**Playback** tab, make sure that your preferred headphone or speaker is set as**Default Device** . Then right-click on the default device ane click**Test** to make sure you can hear sound coming through the headset.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-2.png)
 3. Click the**Recording** tab. Then make sure that your preferred mic is set as**Default Device** and click**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio-2.png)
 4. Speak into yout mic to test if the indicator bar on the right moves. If yes, your mic should be working properly. If it doesn’t, check your headphone device to make sure it’s not muted.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click the**Advanced**  tab. Under the **Default Format** section, choose a different sample rate and bit depth and click**Test** . Repeat this process until you find a format that works for you. After that, make sure the box for**Allow application to take exclusive control of this deviice** is**unticked** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/111-1.png)
 6. Once finished, click**Apply** \>**OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Test in WoW to see if you can communicate with your friends. If it still gives you no luck, you should try**Fix 4** , below.
@@ -104,10 +108,6 @@ You can follow the steps below to check:
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -135,20 +135,15 @@ You can follow the steps below to check:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-the-writers-almanac-crafting-compelling-biographies-on-facebook/"><u>[New] 2024 Approved The Writer's Almanac Crafting Compelling Biographies on Facebook</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-tailoring-and-downloading-instagram-alerts-independently/"><u>[Updated] 2024 Approved Tailoring & Downloading Instagram Alerts Independently</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>A Detailed VPNa Fake GPS Location Free Review On Apple iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-vpn-of-2023-showdown-nordvpn-versus-surfshark-which-fits-your-needs-zdnet-insights/"><u>Best VPN of 2023 Showdown: NordVPN versus Surfshark - Which Fits Your Needs? | ZDNET Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquering-system-integration-windows-plus-kali-linux-setup/"><u>Conquering System Integration: Windows + Kali Linux Setup</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/drone-color-spectrum-20-initial-free-luts-on-dji-mini-and-air/"><u>Drone Color Spectrum - 20 Initial FREE LUTS on DJI Mini & Air</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-your-squads-mic-issues-ultimate-troubleshooting-steps/"><u>Fixing Your Squad's Mic Issues: Ultimate Troubleshooting Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-microsoft-teams-microphone-up-and-running-on-pc-or-laptop-with-windows-1110/"><u>Get Microsoft Teams Microphone Up and Running on PC or Laptop with Windows 11/10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-cod-vanguard-voice-chat-working-again-expert-tips/"><u>Get Your Cod: Vanguard Voice Chat Working Again - Expert Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-alpha-s-mic-problem-solved-step-by-step-fixes-for-gamers/"><u>HyperX Cloud Alpha S Mic Problem Solved – Step-by-Step Fixes for Gamers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-the-evolution-of-video-capturing-insights-into-the-latest-apeaksoft-software/"><u>In 2024, The Evolution of Video Capturing Insights Into the Latest Apeaksoft Software</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014999163-laptop-audio-issues-solved-get-your-sound-back/"><u>Laptop Audio Issues Solved: Get Your Sound Back!</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/revive-your-profile-resetting-2023s-facebook-error-for-2024/"><u>Revive Your Profile Resetting 2023'S Facebook Error for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-repair-non-functional-mic-on-windows-11-and-10-during-google-meets/"><u>Troubleshooting Guide: How to Repair Non-Functional Mic on Windows 11 and 10 During Google Meets</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-techniques-for-nonfunctional-sound-blaster-microphones/"><u>Troubleshooting Techniques for Nonfunctional Sound Blaster Microphones</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-experts-choice-in-4k-capture-top-camera-list-for-2024/"><u>[New] Expert's Choice in 4K Capture Top Camera List for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-8-affordable-3d-videos-players-on-pcmac/"><u>[New] Top 8 Affordable 3D Videos Players on PC/Mac</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-resolving-issues-with-the-lucidsound-ls30-microphone/"><u>Expert Tips on Resolving Issues with the LucidSound LS30 Microphone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-cutting-through-the-clutter-youtubes-copyright-evolution/"><u>In 2024, Cutting Through the Clutter YouTube's Copyright Evolution</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/joining-the-dots-obs-and-zoom-pairing-explained/"><u>Joining the Dots OBS & Zoom Pairing Explained</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-fixing-the-issue-of-realtek-audio-out-no-sound/"><u>Solved: Fixing the Issue of Realtek AUDIO OUT - No SOUND</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/transformative-conversion-tracking-powered-by-the-innovations-of-cookiebot/"><u>Transformative Conversion Tracking Powered by the Innovations of Cookiebot</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016885317-troubleshooting-and-repairing-your-stereo-audio-problems-quickly/"><u>Troubleshooting and Repairing Your Stereo Audio Problems Quickly!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/voicemod-not-working-top-tips-for-successful-repair-and-optimization/"><u>Voicemod Not Working? Top Tips for Successful Repair & Optimization</u></a></li>
 </ul></div>
 

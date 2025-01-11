@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Resolving Silent HDMI Connection Between PC, Monitor & TV"
-date: 2024-08-18T08:11:21.312Z
-updated: 2024-08-19T08:11:21.312Z
+date: 2025-01-05T19:07:47.182Z
+updated: 2025-01-10T22:41:28.429Z
 tags:
   - win11
   - win10
@@ -33,12 +33,22 @@ thumbnail: https://thmb.techidaily.com/dd77f8cbbec8ed8ce40dfd9ce55bda6a399ba6919
 
 1. On your keyboard, press the**Windows logo** ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8ac86a6f5.png) **key** and **R** at the same time to invoke the Run box.
 2. Type**services.msc** and press**Enter** to open the**Services** window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9f60971b1b9.png)
 3. Scroll down to and right-click**Windows Audio** , then select**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f04b48d3d.jpg)
 4. Double-click**Windows Audio** , make sure the **Service status** is**running** and the**Startup type** is set to**Automatic** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f0d59e995.jpg)
 5. Repeat step 3) and step 4) for**Windows Audio Endpoint Builder** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f2e4d5191.jpg)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f2290c014.jpg)
 6. Click**OK** , then close the Service window.
@@ -46,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/dd77f8cbbec8ed8ce40dfd9ce55bda6a399ba6919
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your audio drivers
 
  A missing or outdated audio driver may also stop your audio service from running. You should update your audio drivers to better troubleshoot your problem.
@@ -65,22 +72,17 @@ OR
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1fc67e2400.jpg)
 3. Click the **Update** button next to your audio driver to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc075f35e6b9.jpg)
 4. Check if your computer now plays music properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 3, below.
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Reinstall your audio drivers
 
  If the above steps didn’t work for you, you can also try reinstalling your audio drivers via Device Manager:
@@ -89,30 +91,19 @@ OR
 2. Type **devmgmt.msc** and click**OK** to access Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f6f812df0.png)
 3. Expand the **Sound, video and game controllers** category.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f7aec80f7.jpg)
 4. For each audio device under that category, right-click on it and select**Uninstall device** . Note: Click**Uninstall** if prompted for confirmation.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f91648965.png)
 5. Restart your computer, then check if your problem is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -128,8 +119,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +126,22 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-achieving-peak-performance-in-video-submissions-on-youtube/"><u>[Updated] 2024 Approved Achieving Peak Performance in Video Submissions on YouTube</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-masterful-instagram-reel-editors-the-ultimate-top-10-list-for-2024/"><u>[Updated] Masterful Instagram Reel Editors The Ultimate Top 10 List for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-metrics-top-10-instagram-tags-right-now/"><u>[Updated] Mastering Metrics Top 10 Instagram Tags Right Now</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/advanced-strategies-to-transform-your-snaps-into-boomers-for-2024/"><u>Advanced Strategies to Transform Your Snaps Into Boomers for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dealing-with-disturbing-audio-noises-a-step-by-step-solution-for-the-arctis-n-7-sound-issue-on-windows-systems/"><u>Dealing with Disturbing Audio Noises: A Step-by-Step Solution for the Arctis N 7 Sound Issue on Windows Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-phenomenon-5-insights-into-why-chatgpt-dominated-app-downloads/"><u>Exploring the Phenomenon: 5 Insights Into Why ChatGPT Dominated App Downloads</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2003-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2003 electronically</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-apple-iphone-7-plus-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your Apple iPhone 7 Plus and iPad?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/mellowing-sound-piece-by-piece-in-fl-for-2024/"><u>Mellowing Sound Piece-by-Piece in FL for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/regaining-lost-sounds-a-comprehensive-guide-for-fixing-noise-problems-in-borderlands-3-on-pc/"><u>Regaining Lost Sounds: A Comprehensive Guide for Fixing Noise Problems in Borderlands 3 on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-for-non-functioning-skype-microphones-in-windows-11-environment/"><u>Solution Guide for Non-Functioning Skype Microphones in Windows 11 Environment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-troubles-in-fortnite-fixing-the-microphone-error/"><u>Solving Audio Troubles in Fortnite: Fixing the Microphone Error</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-windows-1011-users-experiencing-interrupted-bluetooth-sound/"><u>Step-by-Step Fix for Windows 10/11 Users Experiencing Interrupted Bluetooth Sound</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-definitive-walkthrough-for-wiping-and-rebooting-your-apple-tablet-or-phone/"><u>The Definitive Walkthrough for Wiping and Rebooting Your Apple Tablet or Phone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/turn-off-sound-improvement-features-on-windows-11-step-by-step-guide/"><u>Turn Off Sound Improvement Features on Windows 11 - Step-by-Step Guide</u></a></li>
+</ul></div>
 

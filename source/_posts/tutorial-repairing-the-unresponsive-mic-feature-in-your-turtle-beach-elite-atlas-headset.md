@@ -1,7 +1,7 @@
 ---
 title: "Tutorial: Repairing the Unresponsive Mic Feature in Your Turtle Beach Elite Atlas Headset"
-date: 2024-12-27T18:49:17.917Z
-updated: 2025-01-03T22:11:19.700Z
+date: 2025-01-04T18:18:28.492Z
+updated: 2025-01-10T19:59:41.961Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Find your mic not working in Squad? That’s definitely annoying when you have t
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -63,18 +67,10 @@ Follow the steps here:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-4-2.jpg)
 2. Right-click your microphone and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-5-1.jpg)
 3. Go to the**Levels** tab. Then,**drag the microphone volume slider to the max** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-6-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Step 3 – Change the sample rate
 
@@ -82,12 +78,16 @@ Follow the steps here:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/change-sample-rate-1.jpg)
 2. Select**2 channel, 16 bit, 48000 Hz (DVD Quality)** from the drop-down menu under Default Format. Then, click**OK** to apply the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/change-sample-rate-2.jpg)
 
  If you’ve configured the microphone properly in Windows and still encounter the same problem, the next thing is to look at the in-game mic settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Check the in-game settings
@@ -99,20 +99,16 @@ Follow the steps here:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/in-game-settings-0.jpg)
 3. Click the**cogwheel icon** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/in-game-settings-1-1.jpg)
 4. Select**Voice** from the left pane. Then, make sure the microphone you’re actually using is set as the Voice Input Device.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/in-game-settings-2-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart Squad to see if your microphone transmits your voice as normal. If not, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Update your audio driver
 
@@ -138,14 +134,14 @@ Follow the steps here:
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/audio-driver-update-de.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating the driver, restart your computer and see if the Squad mic-not-working issue is still there. If yes, try the last fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Verify the integrity of game files
 
@@ -155,14 +151,18 @@ Follow the steps here:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-4.jpg)
 2. Right-click**Squad** from the game list and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Select**Local Files** and then click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Does your mic-not-working issue gets fixed now? If not, you should consider**uninstalling Squad and restarting from scratch** . If there was something wrong with your previous installation, you need to perform a fresh reinstallation to get your microphone to work again in Squad.
 
@@ -188,16 +188,17 @@ Follow the steps here:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-professionalism-with-a-pixel-instagram-photo-watermarking-101/"><u>[New] In 2024, Professionalism with a Pixel Instagram Photo Watermarking 101</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-transform-your-youtube-channels-with-impactful-branding-strategies/"><u>[New] Transform Your YouTube Channels with Impactful Branding Strategies</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-expert-voice-memo-solutions-for-ipads-3-picks/"><u>[Updated] Expert Voice Memo Solutions for iPads, #3 Picks</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-depth-evaluation-gopro-slr4-silver-hero4-model/"><u>[Updated] In-Depth Evaluation GoPro SLR4 Silver HERO4 Model</u></a></li>
-<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/arctis-windows-korean-for-how-to-fix-arctis-playback-issues-on-a-windows-system/"><u>Arctis 지플레이 해결하기: Windows 운영 시스템에서 정화하는 단계를 이해하세요 (Korean for How to Fix Arctis Playback Issues on a Windows System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/cant-get-your-blue-yeti-to-work-here-are-some-quick-fixes/"><u>Can't Get Your Blue Yeti to Work? Here Are Some Quick Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723017056638-hyperx-cloud-stinger-audio-trouble-heres-how-to-restore-your-mic/"><u>HyperX Cloud Stinger Audio Trouble? Here's How to Restore Your Mic!</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/initiate-impact-a-strategic-blueprint-for-setting-up-a-tech-reviews-channel/"><u>Initiate Impact A Strategic Blueprint for Setting Up a Tech Reviews Channel</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016616690-reviving-muted-connections-steps-to-repair-hdmi-no-sound-issue-between-laptop-monitor-and-television/"><u>Reviving Muted Connections: Steps to Repair HDMI No-Sound Issue Between Laptop, Monitor, and Television</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-how-to-resolve-problem-resetting-your-computer-alerts/"><u>Troubleshooting: How to Resolve 'Problem Resetting Your Computer' Alerts</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/670512-9780307795434-angel-energy/"><u>Angel Energy | Free Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-airpods-troubleshooting-sound-issues-on-pcs-with-windows-11-and-10/"><u>Fixing Silent AirPods: Troubleshooting Sound Issues on PCs with Windows 11 and 10</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/host-your-own-multi-platform-viewing-party-with-teleparty/"><u>Host Your Own Multi-Platform Viewing Party with Teleparty</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-galaxy-f54-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Galaxy F54 5G</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-output-on-your-realtek-device-after-a-malfunction/"><u>How to Restore Audio Output on Your Realtek Device After a Malfunction</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/launchpad-logic-the-complete-framework-for-founders-of-a-reviews-channel/"><u>Launchpad Logic The Complete Framework for Founders of a Reviews Channel</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-text-entry-embedding-keyboard-triggers-into-context-menus/"><u>Optimize Text Entry: Embedding Keyboard Triggers Into Context Menus</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-audio-functionality-on-your-windows-11-pc/"><u>Solved! How to Restore Audio Functionality on Your Windows 11 PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/squad-mic-malfunction-solutions-a-complete-how-to/"><u>Squad Mic Malfunction Solutions : A Complete How-To</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/m-at-peak-performance-best-gpu-selection-guide/"><u>Stream at Peak Performance Best GPU Selection Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-nvidia-output-unplugged-issues/"><u>Troubleshooting Guide: Solving 'Nvidia Output Unplugged' Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-power-of-docker-in-wsl-2-key-strategies-revealed/"><u>Unlock the Power of Docker in WSL 2: Key Strategies Revealed</u></a></li>
 </ul></div>
 

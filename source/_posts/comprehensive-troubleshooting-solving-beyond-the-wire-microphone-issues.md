@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Troubleshooting: Solving 'Beyond The Wire' Microphone Issues"
-date: 2024-08-18T08:07:51.604Z
-updated: 2024-08-19T08:07:51.604Z
+date: 2025-01-06T18:09:20.918Z
+updated: 2025-01-10T17:00:18.367Z
 tags:
   - win11
   - win10
@@ -36,8 +36,9 @@ Feel vexing about Zoom audio not working? You’re not alone. This is incredibly
 4. [Reinstall Zoom](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Allow access to your microphone
 
  There are chances that the Zoom app is not allowed to access your audio device, and encounter the Zoom audio not working problem. Follow the steps to fix the problem.
@@ -45,24 +46,29 @@ Feel vexing about Zoom audio not working? You’re not alone. This is incredibly
 1. On your keyboard, press the**Windows logo key** +**I** at the same time to open the Settings menu. Then, click**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/privacy.jpg)
 2. In the left pane, scroll down to find**Microphone** . Click**Change** , and make sure Microphone access for this device is on.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-21_12-01-05.jpg)
 3. Check Allow apps to access your microphone, make sure the toggle is on.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-21_11-59-51.jpg)
 4. Scroll down to the**Allow desktop apps to access your microphone** section, and make sure you’ve**turned on** this setting.  
+
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-21_12-03-38.jpg)
 5. You’ve finished granting the access. Restart Zoom and check Zoom audio not working issue is solved or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ### Fix 2: Check your microphone settings
 
  The wrong settings, such as the microphone being muted or not set as the default device or the too low volume, will prevent you from using the microphone normally on Zoom. So, it’s necessary to check if everything in the settings is configured correctly.
@@ -76,9 +82,11 @@ Feel vexing about Zoom audio not working? You’re not alone. This is incredibly
 4. Make sure your microphone is enabled. If not, right-click it and click**Enable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4daac96f5e7.jpg)
 5. Check if your microphone is set as the default device. If not, click it and click**Set Default** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
 6. Right-click your microphone and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
@@ -86,14 +94,15 @@ Feel vexing about Zoom audio not working? You’re not alone. This is incredibly
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4db71801655.jpg)
 8. Click**OK** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The microphone of your headset is enabled and set as the default device. Take a mic test on Zoom to check the audio not working issue is solved or not.  
  If the issue persists, please move on to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your audio drivers
 
  The Zoom audio not work if you’re using incorrect or outdated audio or headset driver. Update your drivers to see if that fixes the issue.
@@ -108,6 +117,11 @@ Feel vexing about Zoom audio not working? You’re not alone. This is incredibly
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-1-9.jpg)
 3. Click the**Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2-11.jpg)
 
@@ -117,9 +131,6 @@ Feel vexing about Zoom audio not working? You’re not alone. This is incredibly
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Reinstall Zoom
 
  If none of the solutions above does the trick, reinstalling always help.
@@ -127,23 +138,8 @@ Feel vexing about Zoom audio not working? You’re not alone. This is incredibly
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/appwiz-cpl.png)
 2. Right-click**Zoom** and click**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/6-2-1.jpg)
 3. Complete the uninstallation process.
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Download Zoom from the **[official website](https://zoom.us/download)**  .
 5. Open and install it step by step.
 6. Login to check the Zoom audio is working or not.
@@ -158,8 +154,6 @@ Feel vexing about Zoom audio not working? You’re not alone. This is incredibly
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +161,21 @@ Feel vexing about Zoom audio not working? You’re not alone. This is incredibly
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-masterclass-conquering-one-device-livestream-challenges-for-2024/"><u>[New] Masterclass Conquering One-Device Livestream Challenges for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-kinemasters-features-expert-tips-and-best-online-rivals/"><u>2024 Approved Navigating KineMaster's Features Expert Tips & Best Online Rivals</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-professional-zoom-settings-guide-for-google-meet/"><u>2024 Approved Professional Zoom Settings Guide for Google Meet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-shutters-symphony-top-techniques-for-exquisite-images/"><u>2024 Approved The Shutter's Symphony Top Techniques for Exquisite Images</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-samsung-qn55q6f-your-ultimate-guide-to-a-stunning-4k-uhd-smart-television/"><u>Comprehensive Analysis of the Samsung QN55Q6F - Your Ultimate Guide to a Stunning 4K UHD Smart Television</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/conversion-rapide-et-gratuite-de-mp4-vers-avi-sur-internet-utilisez-le-service-avance-de-movavi/"><u>Conversion Rapide Et Gratuite De MP4 Vers AVI Sur Internet - Utilisez Le Service Avancé De Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-windows-cuarto-7s-hdmi-sounds-working-again/"><u>How to Get Your Windows Cuarto 7'S HDMI Sounds Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015582583-league-of-legends-communication-problems-solved-restore-your-voice-chat/"><u>League of Legends Communication Problems Solved - Restore Your Voice Chat</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-art-of-mic-testing-in-minutes/"><u>Master the Art of Mic Testing in Minutes</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-fps-with-efficient-3d-designs/"><u>Maximizing FPS with Efficient 3D Designs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-eliminate-unwanted-buzz-from-your-speakers/"><u>Quick Fixes: Eliminate Unwanted Buzz From Your Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-logitech-g935-headset-microphone-problems-in-windows/"><u>Resolving Logitech G935 Headset Microphone Problems in Windows</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-linguists-travel-companion-top-croatian-phrases-for-expat-success/"><u>The Linguist's Travel Companion: Top Croatian Phrases for Expat Success</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-filmora-promo-code-alert-no-need-to-scour-reddit/"><u>Updated 2024 Approved Filmora Promo Code Alert No Need to Scour Reddit</u></a></li>
+</ul></div>
 
