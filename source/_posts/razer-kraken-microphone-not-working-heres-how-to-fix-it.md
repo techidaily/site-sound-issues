@@ -1,7 +1,7 @@
 ---
 title: Razer Kraken Microphone Not Working? Here's How to Fix It
-date: 2024-08-13T10:58:42.113Z
-updated: 2024-08-14T10:58:42.113Z
+date: 2025-01-11T16:00:49.485Z
+updated: 2025-01-16T16:01:02.014Z
 tags:
   - win11
   - win10
@@ -21,9 +21,6 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 
  This is incredibly frustrating; you bought the headset so you could talk to people on it, and now you can’t! But don’t worry; you haven’t wasted your money. It can be fixed…
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to fix Razer Kraken Mic Not Working
 
  Here are two fixes for you to try. You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -31,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 1. [](https://tools.techidaily.com/drivereasy/download/) [**Check your microphone device settings**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Update your audio drivers**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 1: Check your microphone device settings
 
  Your Razer Kraken mic may not be working because it’s disabled or not set as the default device on your computer. Or the microphone volume is set to a very low value so it can’t record your sound clearly. To check these settings:
@@ -41,16 +35,14 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 **1) Hold down the Windows logo** **key**  and**press the R** **key** on your keyboard at the same time to bring up the Run dialog, then type “_**control**_ ” and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 
 **3)** Select **Sound** .
 
@@ -63,8 +55,9 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 **5)**  Right click the**Headset Microphone** and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)** Right click it again and select **Set as Default Device** .
@@ -75,16 +68,21 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **8)** Click the**Levels** tab, then drag the volume slider towards the_largest value_ .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **9)** Click**OK** , then click**OK** .
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem. But if not, you may need to…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Update your audio drivers
 
@@ -104,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/IntelR-Display-Audio.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)
 
  Once you’ve updated the driver for your Razer Kraken headset, restart your computer. Then log in again and see if the microphone is working.
@@ -116,8 +118,6 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +125,26 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-issues.techidaily.com/fixed-epson-printer-on-windows-11-not-working-anymore/"><u>[FIXED] Epson Printer on Windows 11: Not Working Anymore</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-concealing-content-securing-video-data-ethics/"><u>[New] 2024 Approved Concealing Content Securing Video Data Ethics</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-immortal-gameplay-highlights-of-android-samsungs/"><u>[New] Immortal Gameplay Highlights of Android Samsungs</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/apid-growth-tactics-hit-and-maintain-a-stellar-10000-views-mark-for-2024/"><u>[New] Rapid Growth Tactics Hit and Maintain a Stellar 10,000 Views Mark for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-xbox-expansion-top-5-external-hard-drives-ranked-for-2024/"><u>[New] Xbox Expansion Top 5 External Hard Drives Ranked for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhancing-video-impact-interpreting-youtube-metrics-wisely/"><u>[Updated] In 2024, Enhancing Video Impact Interpreting YouTube Metrics Wisely</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypassing-cod-vanguards-n-error-code-0x00001338-on-pc-unlock-your-gameplay-now/"><u>Bypassing CoD: Vanguard's N Error Code 0X00001338 on PC – Unlock Your Gameplay Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-troubleshooting-steps-for-computer-speaker-problems/"><u>Comprehensive Troubleshooting Steps for Computer Speaker Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-access-entry-error-in-microsoft-os/"><u>Disabling 'Access Entry' Error in Microsoft OS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/gamers-guide-to-elite-streaming-platforms/"><u>Gamers' Guide to Elite Streaming Platforms</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hdmi-problem-solutions-what-to-do-if-another-program-is-using-the-device/"><u>HDMI Problem Solutions: What To Do If Another Program Is Using the Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/headphone-noise-solutions-identifying-and-treating-unwanted-buzzing-sounds-effectively/"><u>Headphone Noise Solutions: Identifying and Treating Unwanted Buzzing Sounds Effectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-steelseries-arctis-1-mic-functioning-again/"><u>How To Get Your SteelSeries Arctis #1 Mic Functioning Again</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-the-ultimate-hand-tracking-reference-guide/"><u>In 2024, The Ultimate Hand-Tracking Reference Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-screen-flicker-issue-solution-found/"><u>Laptop Screen Flicker Issue - Solution Found</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-logitech-g733-mic-failures-for-smooth-audio-experience/"><u>Resolving Logitech G733 Mic Failures for Smooth Audio Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-silent-issue-ultimate-guide-to-restoring-audio-in-your-facebook-videos-pc-2024/"><u>Solving the Silent Issue: Ultimate Guide to Restoring Audio in Your Facebook Videos (PC) - 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016915997-trouble-with-capturing-desktop-audio-via-obs-heres-how-you-can-fix-it/"><u>Trouble with Capturing Desktop Audio via OBS? Here's How You Can Fix It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016985435-windows-11-update-causes-audio-issues-heres-an-easy-solution/"><u>Windows 11 Update Causes Audio Issues? Here's an Easy Solution!</u></a></li>
+</ul></div>
 

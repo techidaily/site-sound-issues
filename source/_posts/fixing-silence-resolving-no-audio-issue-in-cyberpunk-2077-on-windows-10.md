@@ -1,7 +1,7 @@
 ---
 title: "Fixing Silence: Resolving No Audio Issue in Cyberpunk 2077 on Windows 10"
-date: 2024-08-13T11:02:18.824Z
-updated: 2024-08-14T11:02:18.824Z
+date: 2025-01-12T13:42:04.684Z
+updated: 2025-01-16T07:21:29.130Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ If you’re encountering Cyberpunk 2077 sound crackling or buzzing background no
 3. **[Adjust the sound settings](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Restart Cyberpunk 2077
 
  It seems a cliche but a simple restart can usually fix various game glitches. Restart your PC and relaunch Cyberpunk 2077 to test. If this doesn’t help, move on to the second trick.
@@ -34,38 +38,42 @@ If you’re encountering Cyberpunk 2077 sound crackling or buzzing background no
 
  Cyberpunk 2077 audio not working properly might be caused by a faulty headphone port. To rule out this possibility, simply**replug your audio equipment to another USB port** which should be located at both the front and back of your PC, and play the game again. If sound crackling persists, take a look at the solutions below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3 – Adjust the sound settings
 
  Improper sound settings on your PC will also lead to audio crackling throughout the Cyberpunk 2077 game. Make some tweaks as follow and see if that solves your issue.
 
 1. On your keyboard, press the**Windows key** and**R** at the same time to invoke the Run command. Then, type**control** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 2. Select**Small icons** next to View by, and click**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-5.jpg)
 3. Right-click your audio device and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-6.jpg)
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Go to the**Spatial sound** tab, and set it to**Off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4.jpg)
 5. Navigate to the**Advanced** tab. Then, select**2 channel, 16 bit, 96000Hz (Studio Quality)** from the drop-down menu under Default Format.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6. Click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/7-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the 96000 Hz sample rate doesn’t give any luck, you can try the other options until you find the one that stops the sound from crackling. If none of them works, continue to the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4 – Update your audio driver
 
  The audio issues of Cyberpunk 2077 may indicate your audio driver is wrong, faulty or outdated. To improve the audio quality and enjoy the stunning sound effect of Cyberpunk 2077, you should install the latest audio driver.
@@ -79,16 +87,10 @@ There are two ways for you to do this:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the**Update** button next to the flagged sound driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -107,8 +109,6 @@ There are two ways for you to do this:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +116,26 @@ There are two ways for you to do this:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-basicwin10recorder-easy-to-use-software/"><u>[Updated] 2024 Approved BasicWin10Recorder - Easy to Use Software</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-budgeted-skyvault-storing-mountains-of-data/"><u>[Updated] 2024 Approved Budgeted SkyVault Storing Mountains of Data</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-enhancing-video-quality-editing-tips-for-published-content-for-2024/"><u>[Updated] Enhancing Video Quality Editing Tips for Published Content for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-insights-into-youtubes-creative-commons-licensing-system-for-2024/"><u>[Updated] Insights Into YouTube’s Creative Commons Licensing System for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/descubra-como-instalar-eficientemente-la-libreria-libdvdcss-junto-con-handbrake-en-sistemas-mac-y-windows-10-para-una-copia-segura-de-dvds/"><u>Descubra Como Instalar Eficientemente La Libreria Libdvdcss Junto Con HandBrake en Sistemas Mac Y Windows 10 Para Una Copia Segura De DVDs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-ways-to-eliminate-bluetooth-speaker-lag-for-smooth-playback/"><u>Easy Ways to Eliminate Bluetooth Speaker Lag for Smooth Playback</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-restore-sound-capture-overcoming-desktop-mic-glitches-in-obs/"><u>Expert Tips to Restore Sound Capture: Overcoming Desktop Mic Glitches in OBS</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-turn-tracks-into-tunes-mp3-to-youtube-conversion-made-simple/"><u>In 2024, Turn Tracks Into Tunes MP3-to-YouTube Conversion Made Simple</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g533-microphone-not-functional-heres-how-you-can-get-it-working-again/"><u>Logitech G533 Microphone Not Functional? Here's How You Can Get It Working Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/maximize-audio-clarity-techniques-for-increasing-speaker-output-in-windows-11/"><u>Maximize Audio Clarity: Techniques for Increasing Speaker Output in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016040963-modern-warfare-voicechat-malfunction-heres-how-to-fix-it-successfully/"><u>Modern Warfare Voicechat Malfunction? Here's How to Fix It Successfully!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-voice-chat-problems-in-pubg-top-5-remedies-revealed/"><u>Overcoming Voice Chat Problems in PUBG - Top 5 Remedies Revealed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/probing-the-depths-of-gpt-identifying-8-problematic-aspects/"><u>Probing the Depths of GPT: Identifying 8 Problematic Aspects</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Reasons why Pokémon GPS does not Work On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-measuring-website-response-times-via-ping-command/"><u>Step-by-Step Guide: Measuring Website Response Times via Ping Command</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ltimate-gif-making-software-showdown/"><u>The Ultimate GIF Making Software Showdown</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-logitech-g533-mic-problems-step-by-step-fixes/"><u>Troubleshooting Logitech G533 Mic Problems - Step-by-Step Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-realtek-hdmi-and-aux-output-problems-connected-and-plugged-in-tips/"><u>Troubleshooting Realtek HDMI and AUX Output Problems: Connected & Plugged In Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-tips-repairing-a-non-functional-rust-microphone/"><u>Ultimate Troubleshooting Tips: Repairing a Non-Functional Rust Microphone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Stop the Popping Sounds in Your Speakers on Windows PCs (Windows 10 & 7)
-date: 2025-01-07T16:38:49.434Z
-updated: 2025-01-10T16:08:25.800Z
+date: 2025-01-13T16:05:48.046Z
+updated: 2025-01-16T16:00:18.927Z
 tags:
   - win11
   - win10
@@ -27,10 +27,6 @@ But first, ensure that your device has been connected and set correctly.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  The “Anthem no sound” issue can be caused by several reasons: hardware; software; driver; incorrect settings or the game itself.
@@ -43,7 +39,7 @@ But first, ensure that your device has been connected and set correctly.
 6. [**Restart the game**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Set your device as Default
@@ -56,14 +52,10 @@ But first, ensure that your device has been connected and set correctly.
 3. In the Playback tab, select your device and click**Set Default** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/mi.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Go back to the Anthem and check it has sound or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run audio troubleshooting
 
@@ -85,11 +77,19 @@ But first, ensure that your device has been connected and set correctly.
 3. In the **Playback** tab, choose the device you’re using and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click the **Advanced** tab, select the lowest setting on the Default Format drop-down menu. Then click **OK** . Back to the Sound window, click **Apply** \> **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/12.jpg)
 5. Reboot your computer and check whether Anthem has sound or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Uncheck “Disable all sound effects”
 
@@ -100,18 +100,14 @@ But first, ensure that your device has been connected and set correctly.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the **Playback** tab, choose the device you’re using and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. In the **Enhancements** tab, uncheck “**Disable all sound effects** “. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
 
 5. Click **Apply > OK** .
 6. Reboot your computer and go back to the game, you should have audio now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Update your audio driver
 
@@ -127,6 +123,10 @@ But first, ensure that your device has been connected and set correctly.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver.jpg)
 3. Click the **Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver1.jpg)
@@ -159,19 +159,20 @@ But first, ensure that your device has been connected and set correctly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-advanced-editing-for-published-youtube-videos/"><u>[New] 2024 Approved Advanced Editing for Published YouTube Videos</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-vidtwitter-effortless-video-downloads-from-social-sites-for-2024/"><u>[Updated] VidTwitter Effortless Video Downloads From Social Sites for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/conquer-discords-pc-echo-glitches-a-comprehensive-troubleshooting-guide/"><u>Conquer Discord's PC Echo Glitches: A Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/disabling-advanced-acoustic-settings-in-windows-10-for-better-performance/"><u>Disabling Advanced Acoustic Settings in Windows 10 for Better Performance</u></a></li>
-<li><a href="https://win11.techidaily.com/executing-a-pristine-windows-11-reboot/"><u>Executing a Pristine Windows 11 Reboot</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-streets-cyberpunk-2077-audio-issues-on-windows-11/"><u>Fixing Silent Streets: Cyberpunk 2077 Audio Issues on Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-tecno-spark-10-pro-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Tecno Spark 10 Pro Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-key-elements-for-effective-spotify-ad-execution/"><u>In 2024, The Key Elements for Effective Spotify Ad Execution</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/live-photos-for-beginners-an-iphone-guide/"><u>Live Photos for Beginners An iPhone Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-volume-control-overcoming-low-sound-challenges-in-windows-11/"><u>Mastering Volume Control: Overcoming Low Sound Challenges in Windows 11</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210547998-9780744061352-mindful-meditations/"><u>Mindful Meditations | Free Book</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-speakers-after-the-new-update-to-windows-11-troubleshooting-guide/"><u>Revive Your Speakers After the New Update to Windows 11 - Troubleshooting Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-windows-11-microphone-issues/"><u>Troubleshooting Guide: Resolving Windows 11 Microphone Issues</u></a></li>
-<li><a href="https://fox-links.techidaily.com/visual-vibes-humor-through-kapwing/"><u>Visual Vibes Humor Through Kapwing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-unlocking-youtube-top-rated-pc-and-mobile-video-extractors/"><u>[New] In 2024, Unlocking YouTube Top-Rated PC & Mobile Video Extractors</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-most-simple-approach-to-getting-clownfish-voice-changer-on-windows/"><u>[Updated] In 2024, The Most Simple Approach to Getting Clownfish Voice Changer on Windows</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazon-firetv-vs-chromecast-with-google-tv-a-comprehensive-review-and-face-off/"><u>Amazon FireTV Vs. Chromecast with Google TV - A Comprehensive Review and Face-Off</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-amnesia-how-to-reactivate-conexants-hd-smartsound-on-a-windows-11-machine/"><u>Audio Amnesia? How to Reactivate Conexant's HD SmartSound on a Windows 11 Machine</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/build-your-mark-affordable-logo-creation-with-tailored-templates/"><u>Build Your Mark Affordable Logo Creation with Tailored Templates</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-guide-reviving-your-malfunctioning-bose-sound-system/"><u>DIY Guide: Reviving Your Malfunctioning Bose Sound System</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-your-ps-vr2-adventure/"><u>Enhancing Your PS VR2 Adventure</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hp-laptop-speakers-silent-solve-the-problem-with-these-steps-for-windows-10-users/"><u>HP Laptop Speakers Silent? Solve the Problem with These Steps for Windows 10 Users</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-sony-xperia-5-v-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Sony Xperia 5 V to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-fcp-vs-fce-a-side-by-side-comparison-of-video-editing-powerhouses/"><u>New 2024 Approved FCP vs FCE A Side-by-Side Comparison of Video Editing Powerhouses</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quieting-down-crackles-effective-fixes-for-arctis-7-sound-glitches-on-windows-machines/"><u>Quieting Down Crackles: Effective Fixes for Arctis 7 Sound Glitches on Windows Machines</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-sound-problems-a-step-by-step-guide-to-get-your-airpods-microphone-working-on-windows-11/"><u>Solving Sound Problems: A Step-by-Step Guide to Get Your AirPods Microphone Working on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-speaking-up-in-fortnite-when-your-mic-fails/"><u>Troubleshooting: Speaking Up in Fortnite When Your Mic Fails!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-handbook-for-morphvox-transformers-for-2024/"><u>Ultimate Handbook for MorphVOX Transformers for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/upgrade-audio-quality-on-windows-11-tips-to-amplify-your-computers-sound-output/"><u>Upgrade Audio Quality on Windows 11: Tips to Amplify Your Computer's Sound Output</u></a></li>
 </ul></div>
 

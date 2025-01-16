@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Resolving Microphone Problems with Your Turtle Beach Elite Atlas"
-date: 2025-01-05T16:33:31.686Z
-updated: 2025-01-10T17:48:31.675Z
+date: 2025-01-10T16:05:15.690Z
+updated: 2025-01-16T16:01:00.121Z
 tags:
   - win11
   - win10
@@ -44,14 +44,10 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-06-12.png)
 2. In the input section,**set the microphone you’re using as the input device** . You can also turn the volume up to make sure the microphone can catch your voice clearly.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-05-53.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you experience the microphone issue only while using a certain app, for example, Zoom or Discord, you can adjust the settings in-app. Similar to the steps above, you need to find the audio setting, choose the right input device, and adjust the input volume if needed.
@@ -66,12 +62,16 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-08-20.png)
 2. **Turn on the Microphone access and Let apps access your microphone** options. You can scroll down and manage the microphone access to a specific app.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-08-01.png)
 
  After allowing apps to use your microphone, you can restart the problem app and test if the issue is solved now. If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Enable the microphone for recording
@@ -85,16 +85,12 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-13-21-2.png)
 3. Under the**Recording tab** , enable your microphone. If you can’t find it, right-click anywhere empty and select**Show Disabled devices** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-14-04.png)
 
 If this fix doesn’t solve your problem, try the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Update the audio drivers
@@ -114,15 +110,19 @@ If this fix doesn’t solve your problem, try the next one.
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus tip: Repair corrupted system files
 
@@ -161,24 +161,22 @@ If this fix doesn’t solve your problem, try the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-youtube-creative-commons-key-to-video-content-sharing/"><u>[New] 2024 Approved YouTube Creative Commons Key to Video Content Sharing</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/he-art-of-warmth-in-winter-top-5-video-backdrop-choices-for-2024/"><u>[New] The Art of Warmth in Winter Top 5 Video Backdrop Choices for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-spectrum-of-perfection-creating-stunning-hdrs-in-lightroom/"><u>[New] The Spectrum of Perfection Creating Stunning HDRs in Lightroom</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/assessing-the-impact-of-chatgpt-on-user-data-security-is-it-safe/"><u>Assessing the Impact of ChatGPT on User Data Security: Is It Safe?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/comprehensive-anker-usb-30-superspeed-hub-analysis-your-ultimate-guide/"><u>Comprehensive Anker USB 3.0 SuperSpeed Hub Analysis - Your Ultimate Guide</u></a></li>
-<li><a href="https://win-docs.techidaily.com/download-and-explore-the-new-features-of-emeditor-pro-v13-beta-4-release-the-ultimate-text-editing-software/"><u>Download & Explore the New Features of EmEditor Pro v13 Beta 4 Release - The Ultimate Text Editing Software</u></a></li>
-<li><a href="https://win11.techidaily.com/expedite-outlook-on-windows-time-saving-fixes/"><u>Expedite Outlook on Windows: Time-Saving Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-sony-wh-1000xm-headsets-mic-connectivity-glitches-in-windows-systems/"><u>Fixing Sony WH-1000XM Headset's Mic Connectivity Glitches in Windows Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/g435-earbuds-no-sound-fixes-expert-tips-and-troubleshooting-techniques/"><u>G435 Earbuds No Sound Fixes: Expert Tips and Troubleshooting Techniques</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-your-game-on-again-overcoming-non-functioning-mic-issues-with-steelseries-arctis-prime/"><u>Getting Your Game On Again: Overcoming Non-Functioning Mic Issues with SteelSeries Arctis Prime</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-on-laptoppc-when-speaker-plugged-in-but-silent/"><u>How to Restore Audio on Laptop/PC when 'Speaker Plugged In' But Silent?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-successfully-update-your-windows-10-pc-with-the-idt-hd-audio-codec-driver/"><u>How to Successfully Update Your Windows 10 PC with the IDT HD Audio Codec Driver</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-madden-nfl-20-on-pc-eliminate-crashes-once-and-for-all/"><u>Mastering Madden NFL 20 on PC: Eliminate Crashes Once & For All</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-onikuma-microphone-headset-issues-a-comprehensive-solution/"><u>Resolving Onikuma Microphone Headset Issues: A Comprehensive Solution</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resonant-worlds-restored-fixing-the-no-sound-dilemma-for-borderlands-3-players-on-computers/"><u>Resonant Worlds Restored: Fixing the No Sound Dilemma for Borderlands 3 Players on Computers</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-tecno-spark-10-pro-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Tecno Spark 10 Pro Phone</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/top-performance-und-effizienz-durch-das-setup-von-hyper-v-networks-erreichen/"><u>Top Performance Und Effizienz Durch Das Setup Von Hyper-V Networks Erreichen!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-unknown-speaker-configuration-in-windows-11/"><u>Troubleshooting Unknown Speaker Configuration in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/why-your-corsair-hs35-mic-wont-work-with-windows-and-how-to-fix-it/"><u>Why Your Corsair HS35 Mic Won't Work With Windows and How to Fix It</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-blueprint-for-blending-video-content-into-curricula/"><u>[New] Blueprint for Blending Video Content Into Curricula</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bring-back-the-audio-to-your-windows-media-player-a-comprehensive-guide/"><u>Bring Back the Audio to Your Windows Media Player - A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-redragon-mic-issues-effective-solutions-for-windows-users/"><u>Fix Your Redragon Mic Issues - Effective Solutions for Windows Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/google-meet-microphone-malfunction-heres-how-to-fix-it-on-windows-10-and-11/"><u>Google Meet Microphone Malfunction? Here's How to Fix It on Windows 10 and 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-damage-to-the-file-was-so-extensive-pdf-error-stellar-by-stellar-guide/"><u>How to fix damage to the file was so extensive PDF error? | Stellar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-logitech-g633-microphone-working-again-expert-tips/"><u>How to Get Your Logitech G633 Microphone Working Again - Expert Tips</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-tailoring-video-resolution-and-size-a-must-know-guide-to-youtube-uploads/"><u>In 2024, Tailoring Video Resolution and Size A Must Know Guide to YouTube Uploads</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-conversation-a-guide-on-leveraging-chatgpt-from-microsoft/"><u>Mastering the Art of Conversation: A Guide on Leveraging ChatGPT From Microsoft</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-silent-calls-a-guide-to-restoring-microphone-volume-during-zoom-meetings/"><u>Resolving Silent Calls: A Guide to Restoring Microphone Volume During Zoom Meetings</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-sound-on-your-pc-a-guide-for-fixing-conexant-smartaudio-hd-issues-in-windows-11/"><u>Restoring Sound on Your PC: A Guide for Fixing Conexant SmartAudio HD Issues in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-anthem-game-silent-on-windows-11-troubleshooting-guide/"><u>Solve 'Anthem Game Silent' On Windows 11: Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-of-no-cost-defrag-utilities-for-optimal-pc-performance-jul-24-edition/"><u>The Ultimate List of No-Cost Defrag Utilities for Optimal PC Performance - Jul '24 Edition</u></a></li>
+<li><a href="https://win-special.techidaily.com/top-5-web-based-tools-for-optimizing-and-shrinking-your-gifs/"><u>Top 5 Web-Based Tools for Optimizing and Shrinking Your GIFs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-a-dead-logitech-g733-microphone-easily/"><u>Troubleshoot a Dead Logitech G733 Microphone Easily</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-get-steady-the-best-free-video-stabilization-websites-for-2024/"><u>Updated Get Steady The Best Free Video Stabilization Websites for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-you-shouldnt-trust-chatgpt-to-summarize-your-text/"><u>Why You Shouldn't Trust ChatGPT to Summarize Your Text</u></a></li>
+<li><a href="https://techidaily.com/will-motorola-edge-2023-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Motorola Edge 2023 play AVCHD mts files?</u></a></li>
 </ul></div>
 

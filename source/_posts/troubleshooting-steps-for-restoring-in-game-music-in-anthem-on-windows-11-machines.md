@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Restoring In-Game Music in Anthem on Windows 11 Machines
-date: 2025-01-05T16:14:22.462Z
-updated: 2025-01-10T22:09:01.162Z
+date: 2025-01-14T16:00:08.650Z
+updated: 2025-01-16T16:04:52.550Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -57,17 +57,9 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72220f11f9.jpg)
 4. Restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Check if there’s any sound in your computer.
 
  If the problem still persists, don’t worry. We have other solutions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Check audio settings
 
@@ -83,18 +75,18 @@ To do so:
 3. Select your speaker audio device, and click**Set Default** to set it as your default device.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your device has been the default device, you’ll see a green check mark next to your device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72066a032c.jpg)
 4. Restart your computer, and plug a headphone to see if there’s any sound.
 
-Still no luck? Okay, there’s one more thing to try.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Still no luck? Okay, there’s one more thing to try.
 
 ### Fix 3: Roll back your audio driver
 
@@ -105,8 +97,16 @@ Still no luck? Okay, there’s one more thing to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721431cb33.jpg)
 3. Double click**Sound, video and game controllers** to expand it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72165a0e6f.jpg)
 4. Double click on your**audio device** to open the properties pane.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7218e14fa5.jpg)
 5. Click the**Driver** tab, and click**Roll Back Driver** .  
@@ -140,19 +140,21 @@ Feel free to leave a comment below if you have any questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-decoding-the-art-of-youtube-playlist-recalibration-for-2024/"><u>[Updated] Decoding the Art of YouTube Playlist Recalibration for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-cutting-edge-content-creation-mastering-how-to-trim-videos-in-real-time-on-vimeo/"><u>[Updated] In 2024, Cutting-Edge Content Creation Mastering How to Trim Videos in Real Time on Vimeo</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/corsair-hs35-mic-not-recognized-by-windows-solutions-to-get-your-audio-working-again/"><u>Corsair HS35 Mic Not Recognized by Windows: Solutions to Get Your Audio Working Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016985078-hearthstones-muted-mystery-heres-how-you-can-get-sound-back/"><u>Hearthstone's Muted Mystery? Here's How You Can Get Sound Back!</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Vivo V30 Pro? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-galaxy-xcover-6-pro-tactical-edition-by-fonelab-android-recover-music/"><u>How to restore wiped music on Galaxy XCover 6 Pro Tactical Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-converting-mpg-videos-to-mp4-playback-on-microsoft-windows-systems/"><u>Step-by-Step Guide: Converting MPG Videos to MP4 Playback on Microsoft Windows Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-2024-playbook-to-restoring-audio-on-your-pcs-facebook-video-streams-a-step-by-step-guide/"><u>The 2024 Playbook to Restoring Audio on Your PC's Facebook Video Streams: A Step-by-Step Guide</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/top-4-methods-to-transform-wmv-files-into-mp4-format-across-pcs-macs-and-web-services/"><u>Top 4 Methods to Transform WMV Files Into MP4 Format Across PCs, MACs & Web Services</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/transforming-messages-into-memorable-video-experienits/"><u>Transforming Messages Into Memorable Video Experienits</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-11-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone 11 Swipe-Up? Try These 11 Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functioning-microphone-on-your-headset/"><u>Troubleshooting Guide: How to Fix a Non-Functioning Microphone on Your Headset</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/wave-goodbye-to-silence-a-guide-to-resolving-cyberpunk-2077s-sound-issues-in-windows-10/"><u>Wave Goodbye to Silence: A Guide to Resolving Cyberpunk 2077'S Sound Issues in Windows 10</u></a></li>
-<li><a href="https://fox-links.techidaily.com/why-instagrams-videos-are-tilted-a-bug-a-glitch-in-2024/"><u>Why Instagram's Videos Are Tilted - A Bug, a Glitch, In 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-streamline-your-slides-with-these-4-youtube-video-inclusion-methods/"><u>[New] In 2024, Streamline Your Slides with These 4 YouTube Video Inclusion Methods</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-independent-artists-guide-to-personalized-visual-tricks/"><u>[Updated] Independent Artists' Guide to Personalized Visual Tricks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/craft-your-story-pace-with-instagrams-temp-control-feature-for-2024/"><u>Craft Your Story Pace with Instagram's Temp Control Feature for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-system-agility-through-memory-speed-and-latency-management-essential-insights/"><u>Enhancing System Agility Through Memory Speed & Latency Management: Essential Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-voice-communication-issues-in-back-4-blood-a-comprehensive-guide/"><u>Fixing Voice Communication Issues in 'Back 4 Blood' - A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fuse-hp-envy-5530-drivers-with-your-win10-system/"><u>Fuse HP Envy 5530 Drivers with Your Win10 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hdmi-device-conflict-resolution-tips-for-when-other-programs-are-running/"><u>HDMI Device Conflict Resolution: Tips for When Other Programs Are Running</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-silence-crackling-sound-from-your-speakers-on-windows-pc-solution/"><u>How to Silence Crackling Sound From Your Speakers on Windows PC (Solution)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-audio-fix-ups-how-to-resolve-unable-to-reproduce-tone-errors/"><u>Mastering Audio Fix-Ups: How to Resolve 'Unable to Reproduce Tone' Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-hd-audio-with-idts-codec-driver-seamless-integration-into-windows-11/"><u>Mastering HD Audio with IDT's Codec Driver: Seamless Integration Into Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/savory-scenes-mastering-the-art-of-eating-focused-filmography/"><u>Savory Scenes Mastering the Art of Eating-Focused Filmography</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simplify-your-streaming-experience-with-the-ultimate-webm-codec-bundle/"><u>Simplify Your Streaming Experience with the Ultimate WebM Codec Bundle</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-resolving-non-functional-mic-problems-with-turtle-beach-elite-atlas/"><u>Step-by-Step Solution: Resolving Non-Functional Mic Problems with Turtle Beach Elite Atlas</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-realtek-hd-audio-issues-why-it-wont-launch-and-how-to-fix-it/"><u>Troubleshooting Realtek HD Audio Issues: Why It Won't Launch and How to Fix It</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-choosing-the-perfect-vr-headset-for-gamers/"><u>Ultimate Guide: Choosing the Perfect VR Headset for Gamers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: No Sound From AirPods? Here's How to Fix It When They're Paired with a Windows 11 or 10 Computer
-date: 2025-01-08T19:28:32.077Z
-updated: 2025-01-10T18:42:08.798Z
+date: 2025-01-15T16:05:26.027Z
+updated: 2025-01-16T16:04:14.322Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -52,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-3.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** to do it for free, but it’s partly manual.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-driver-update-de.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
  Restart your computer for the changes to take full effect. If the driver update doesn’t give you luck, there are more fixes to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Allow access to your microphone
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you complete the steps, check if Google Meet can pick up your voice. If not, move on to the next method below.
@@ -91,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 2. Navigate to the**Recording** tab. First make sure your microphone is enabled (showing a green checkmark). If it’s not and displays a grey down-arrow icon, right-click it and click**Enable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-3.jpg)
@@ -108,7 +108,7 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
  Test your microphone again to see if it works without problem. If the issue persists, check out the next solution below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4 – Check Google Meet’s settings
@@ -119,15 +119,15 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting.jpg)
 2. Make sure your microphone is not turned off.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click the**vertical ellipsis icon** at the top left and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-2.jpg)
 4. From the drop-down menu under Microphone, select your primary microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you still can’t use the microphone in Google Meet, the last resort is to**double-check the physical connection** .
 
@@ -156,24 +156,17 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-groundbreaking-tools-to-create-instagram-grids-that-wow/"><u>[Updated] 2024 Approved Groundbreaking Tools to Create Instagram Grids That Wow</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-youtube-name-genius-mastering-branding-with-generators-for-2024/"><u>[Updated] YouTube Name Genius Mastering Branding with Generators for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/arctis-mastery-how-to-stop-that-irritating-crackle-sound-on-the-7th-version-for-windows-users/"><u>Arctis Mastery: How to Stop that Irritating Crackle Sound on the 7Th Version for Windows Users</u></a></li>
-<li><a href="https://fox-info.techidaily.com/deep-windows-11-know-how-importing-media-like-a-pro/"><u>Deep Windows 11 Know-How Importing Media Like a Pro</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-logitech-webcam-mic-failures/"><u>Diagnosing and Repairing Logitech Webcam Mic Failures</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-play-the-nyc-connection-game-like-a-pro-8-steps/"><u>How to Play the NYC Connection Game Like a Pro (8 Steps)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-sony-wireless-headset-mic-problems-in-pc-settings-wh-1000xm34/"><u>How to Resolve Sony Wireless Headset Mic Problems in PC Settings (WH-1000XM3/4)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/optimizing-viewers-engagement-through-youtube-music-use-in-videos/"><u>Optimizing Viewers' Engagement Through YouTube Music Use in Videos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-audio-issues-effective-solutions-for-low-computer-speakers-on-windows-10/"><u>Overcoming Audio Issues: Effective Solutions for Low Computer Speakers on Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-pc-sound-problems-during-zoom-step-by-step-tips/"><u>Resolve PC Sound Problems During Zoom - Step-by-Step Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-windows-7-microphone-malfunctions-with-easy-steps/"><u>Resolving Windows 7 Microphone Malfunctions with Easy Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-standard-plan-configurations-for-power/"><u>Restoring Standard Plan Configurations for Power</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/solved-obs-full-screen-anomaly/"><u>Solved OBS Full Screen Anomaly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-fix-silent-system-post-windows-10-upgrade/"><u>Solved: Fix Silent System Post-Windows 10 Upgrade</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-mpow-microphone-heres-how-to-fix-it-on-windows-systems/"><u>Trouble with MPOW Microphone? Here's How to Fix It on Windows Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolve-voicemod-issues-and-start-using-it-in-minutes-updated/"><u>Troubleshooting Guide: Resolve Voicemod Issues & Start Using It in Minutes (Updated )</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-power-of-google-wifi-your-perfect-home-or-office-networking-fix/"><u>Unveiling the Power of Google WIFI - Your Perfect Home or Office Networking Fix</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Infinix Hot 40i? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-zte-nubia-flip-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-best-vistas-backgrounds-boosting-live-quality/"><u>[New] In 2024, Best Vistas Backgrounds Boosting Live Quality</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-elevate-canva-creations-with-these-10-secrets/"><u>[Updated] 2024 Approved Elevate Canva Creations with These 10 Secrets</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-for-fixing-continuous-audio-disruptions-on-your-windows-11-pc/"><u>Expert Advice for Fixing Continuous Audio Disruptions on Your Windows 11 PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-capture-and-relive-your-favorite-moments-anywhere-anytime-the-best-in-free-video-downloaders-for-youtubes/"><u>In 2024, Capture and Relive Your Favorite Moments Anywhere, Anytime The Best in Free Video Downloaders for YouTubes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-resolutions-how-to-reactivate-and-fix-your-airpods-microphone-on-windows-11-devices/"><u>Quick Resolutions: How to Reactivate and Fix Your AirPods Microphone on Windows 11 Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solution-for-overcoming-the-code-43-complication-with-nvidia-gtx-950-graphics-card-in-windows-11/"><u>Solution for Overcoming the 'Code 43' Complication with Nvidia GTX 950 Graphics Card in Windows 11</u></a></li>
+<li><a href="https://discover-data.techidaily.com/step-by-step-guide-fixing-your-computer-by-replacing-faulty-ram-tips-from-yl-computing/"><u>Step-by-Step Guide: Fixing Your Computer by Replacing Faulty RAM - Tips From YL Computing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-free-artistic-software-on-mac-for-2024/"><u>The Ultimate Guide to Free Artistic Software on Mac for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-silent-battles-repairing-no-audio-in-fortnite/"><u>Troubleshoot Silent Battles: Repairing No Audio in Fortnite</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-distorted-audio-for-windows-10-and-7-users-step-by-step-guide/"><u>Troubleshooting Distorted Audio for Windows 10 and 7 Users: Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/underestimating-metas-social-tyranny/"><u>Underestimating Meta’s Social Tyranny</u></a></li>
 </ul></div>
 

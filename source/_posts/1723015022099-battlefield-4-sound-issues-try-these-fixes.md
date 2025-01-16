@@ -1,7 +1,7 @@
 ---
 title: Battlefield 4 Sound Issues? Try These Fixes!
-date: 2025-01-05T16:13:29.918Z
-updated: 2025-01-10T23:17:02.589Z
+date: 2025-01-12T16:02:34.850Z
+updated: 2025-01-16T16:02:34.243Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/a5a6155fc00c2184034c489f78d9dfa451dfb821e
 5. **[Verify the game integrity](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Rule out other interference](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1\. Update your audio drivers
 
  A faulty/outdated audio driver can cause game audio issues. An audio driver is a translator for your system and device, and if it goes wrong, you will be having sound problems. There are onboard sound card drivers and headset drivers (for some older ones).
@@ -46,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/a5a6155fc00c2184034c489f78d9dfa451dfb821e
  2) Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![scan now](https://images.drivereasy.com/wp-content/uploads/2021/09/scannow.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged audio driver to automatically download and install the correct audio driver (You can do this with the FREE version).
 
@@ -82,17 +82,9 @@ thumbnail: https://thmb.techidaily.com/a5a6155fc00c2184034c489f78d9dfa451dfb821e
 
 ![choose a correct sample format](https://images.drivereasy.com/wp-content/uploads/2021/09/quality.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Click**Apply** to save the changes.
 
  Now launch your Battlefield 4 to check if the sound is coming back. If unfortunately not, don’t worry since we have a few more fixes for you to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3\. Check Windows Volume Mixer
 
@@ -102,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/a5a6155fc00c2184034c489f78d9dfa451dfb821e
 
 ![open volume mixer](https://images.drivereasy.com/wp-content/uploads/2021/09/open-volume-mixer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Make sure that Battlefield 4 is not muted in Volume Mixer.
 
 ![check battlefield 4 sound not working](https://images.drivereasy.com/wp-content/uploads/2021/09/mixer.jpg)
@@ -110,21 +106,21 @@ thumbnail: https://thmb.techidaily.com/a5a6155fc00c2184034c489f78d9dfa451dfb821e
 
 ![open system](https://images.drivereasy.com/wp-content/uploads/2021/09/system-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Select**Sound** from the left pane, and click**App volume and device preferences** under**Advanced sound options** .
 
 ![open advanced sound settings](https://images.drivereasy.com/wp-content/uploads/2021/09/soundsettings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Make sure you set the Output of Battlefield 4 to the system default device instead of “Game”.
 
  Does this method do the trick for you? If not, move to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4\. Disable Windows Defender
 
@@ -134,6 +130,10 @@ thumbnail: https://thmb.techidaily.com/a5a6155fc00c2184034c489f78d9dfa451dfb821e
 
 ![open firewall settings](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Click the active network.
 
 ![click domain network](https://images.drivereasy.com/wp-content/uploads/2021/09/domain.jpg)
@@ -141,6 +141,10 @@ thumbnail: https://thmb.techidaily.com/a5a6155fc00c2184034c489f78d9dfa451dfb821e
  2) Under**Microsoft Defender Firewall** , swap it to**Off** .
 
 ![toggle firewall to off](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall-off.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Launch your Battlefield 4 and check if the sound is working now.
 
@@ -159,7 +163,7 @@ Launch your Battlefield 4 and check if the sound is working now.
 ![run origin as admin](https://images.drivereasy.com/wp-content/uploads/2019/08/run-origin-as-sdministrator.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Play Battlefield 4 and test the sound issue. If the Battlefield 4 sound not working issue persists, it’s very likely caused by interference by your devices or other apps.
@@ -174,16 +178,12 @@ Launch your Battlefield 4 and check if the sound is working now.
 
 ![origin application settings](https://images.drivereasy.com/wp-content/uploads/2021/09/app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Origin In-Game** tab. Toggle the **Off** switch to turn Origin In-Game off.
 
 ![turn off orgin in game](https://images.drivereasy.com/wp-content/uploads/2021/09/originingame.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If disabling Origin In-Game Overlay doesn’t work, you can[perform a clean boot](https://tools.techidaily.com/drivereasy/download/) on your PC to find a problematic application.
@@ -211,15 +211,22 @@ Launch your Battlefield 4 and check if the sound is working now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-unlock-fcp-without-paying-tips/"><u>[New] 2024 Approved Unlock FCP without Paying - Tips</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-enhance-customer-engagement-with-strategic-language/"><u>[New] Enhance Customer Engagement with Strategic Language</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-finding-free-westeros-ringtones/"><u>2024 Approved The Ultimate Guide to Finding Free Westeros Ringtones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/2024-ultimate-troubleshooting-tips-for-a-non-functional-rust-mic/"><u>2024 Ultimate Troubleshooting Tips for a Non-Functional Rust Mic</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-starbucks-secret-project-thats-poised-to-change-your-cafe-routine-forever/"><u>Discover Starbucks' Secret Project That's Poised to Change Your Cafe Routine Forever</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-phenomenon-5-insights-into-why-chatgpt-dominated-app-downloads/"><u>Exploring the Phenomenon: 5 Insights Into Why ChatGPT Dominated App Downloads</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-cutting-out-sound-glitches-in-windows-operating-systems/"><u>How to Fix Cutting Out Sound Glitches in Windows Operating Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/idt-hd-audio-support-in-windows-10-troubleshooting-and-solutions/"><u>IDT HD Audio Support in Windows 10 - Troubleshooting & Solutions</u></a></li>
-<li><a href="https://fox-links.techidaily.com/prime-mobile-hd-video-playback-androids-top-picks/"><u>Prime Mobile HD Video Playback Android's Top Picks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-11-audio-issues-a-comprehensive-guide/"><u>Troubleshooting Windows 11 Audio Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-frozen-frontier-showcasing-2022s-olympic-peaks-and-precision-riders/"><u>[New] 2024 Approved Frozen Frontier Showcasing 2022'S Olympic Peaks and Precision Riders</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ow-to-be-a-youtube-gamer/"><u>[New] How To Be a YouTube Gamer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-select-your-footage-editor-hero-or-cube-edition/"><u>[New] Select Your Footage Editor Hero or Cube Edition?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-avoiding-disarray-in-frames/"><u>[Updated] 2024 Approved Avoiding Disarray in Frames</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-go-incognito-your-step-by-step-instagram-live-guide/"><u>[Updated] 2024 Approved Go Incognito Your Step-by-Step Instagram Live Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/are-gaming-laptops-essential-for-serious-laptop-gamers/"><u>Are Gaming Laptops Essential for Serious Laptop Gamers?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-logitech-g230-microphone-issues-a-comprehensive-troubleshooting-guide/"><u>Fixing Logitech G230 Microphone Issues: A Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-adding-sparkle-to-your-content-incorinasing-unique-story-emojis/"><u>In 2024, Adding Sparkle to Your Content Incorinasing Unique Story Emojis</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-the-art-of-curating-memories-on-social-media/"><u>In 2024, The Art of Curating Memories on Social Media</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-your-audio-experience-addressing-and-repairing-the-clicking-sound-issue-in-arctis-for-windows-users/"><u>Master Your Audio Experience: Addressing and Repairing the Clicking Sound Issue in Arctis for Windows Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/optimizing-sound-settings-for-effective-voice-communication-in-sea-of-thieves-pc/"><u>Optimizing Sound Settings for Effective Voice Communication in Sea of Thieves (PC)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-get-windows-10-system-speakers-working-again-with-easy-steps/"><u>Solved: Get Windows 10 System Speakers Working Again with Easy Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-issues-with-your-sennheiser-gaming-headset-microphone-a-step-by-nstep-guide/"><u>Solving Issues with Your Sennheiser Gaming Headset Microphone: A Step-by-nStep Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tips-for-quietening-audio-distortion-fixing-pesky-buzz-noises-in-your-headphones/"><u>Tips for Quietening Audio Distortion: Fixing Pesky Buzz Noises in Your Headphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016428901-troubleshoot-and-improve-your-oculus-rift-s-mic-quick-resolutions-for-gaming-aces/"><u>Troubleshoot and Improve Your Oculus Rift S Mic - Quick Resolutions for Gaming Aces!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/win-the-war-against-quietness-sound-issues-resolved-in-battlefield/"><u>Win the War Against Quietness: Sound Issues Resolved in Battlefield</u></a></li>
 </ul></div>
 

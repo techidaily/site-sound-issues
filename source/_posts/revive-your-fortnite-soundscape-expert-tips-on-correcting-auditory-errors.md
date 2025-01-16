@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Fortnite Soundscape: Expert Tips on Correcting Auditory Errors"
-date: 2024-08-13T11:02:52.704Z
-updated: 2024-08-14T11:02:52.704Z
+date: 2025-01-13T02:45:39.222Z
+updated: 2025-01-16T00:16:46.206Z
 tags:
   - win11
   - win10
@@ -54,8 +54,9 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  2) If you see the Speakers disabled, right-click on the item, then select**Enable** . If you see the Speakers enabled, skip this step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d47875fcc.png)
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re using a**laptop computer** , you also need to check if the**microphone** device is disabled.  
@@ -69,18 +70,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  2) If you see the Microphone disabled, right-click on the item, then select**Enable** . If you see the Microphone enabled, skip this step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d5e494746.png)
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##
   
@@ -95,9 +84,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  2) Click**Edit** in the menu bar and select**Preferences** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6ee48396.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Click**Devices** .
 
@@ -126,15 +112,17 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  2) Click**Edit** in the menu bar and select**Preferences** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6ee48396.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Recording** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d78abf2fa.png)
+
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Under Playthrough, if you see**Software Playthrough of input** is checked, uncheck it. Then click the**OK** button. If not, skip this solution then try other solutions.
@@ -158,15 +146,16 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d83603b51.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged audio driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d8b093ee6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) After updating the driver, check to see if you can record sound successfully.
 
@@ -184,12 +173,13 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d9350bf7b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Windows Audio Endpoint Builder** , then click**Restart** . The follow the on-screen instructions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d97536340.jpg)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Check to see if you can record successfully.  
   
@@ -204,8 +194,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -213,4 +201,21 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-critical-analysis-of-vsdc-highlighting-best-software-for-2024/"><u>[Updated] Critical Analysis of VSDC, Highlighting Best Software for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-nubia-z50-ultra-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Nubia Z50 Ultra Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/apple-ipad-air-vs-samsung-galaxy-tab-s7plus-choosing-between-top-tier-tablet-titans/"><u>Apple iPad Air Vs. Samsung Galaxy Tab S7+: Choosing Between Top-Tier Tablet Titans</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-the-iphone-era-smartphone-options-that-outshine-retired-models-of-iphone-13-and-iphone-15-pro-zdnet/"><u>Beyond the iPhone Era: Smartphone Options That Outshine Retired Models of iPhone 13 and iPhone 15 Pro | ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/laptop-volume-silence-discover-how-to-restore-your-devices-sound-capabilities/"><u>Laptop Volume Silence? Discover How to Restore Your Device's Sound Capabilities</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/navigating-through-nvidia-essential-steps-for-restoring-high-definition-sound/"><u>Navigating Through Nvidia: Essential Steps for Restoring High-Definition Sound</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-speedy-route-to-flawless-sound-import-in-premiere-pro-updated-for-2024/"><u>New The Speedy Route to Flawless Sound Import in Premiere Pro (Updated ) for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ess-content-propagation-beyond-youtube-and-facebook-for-2024/"><u>Seamless Content Propagation Beyond YouTube and Facebook for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-common-issues-with-nonworking-bose-audio-equipment/"><u>Solving Common Issues with Nonworking Bose Audio Equipment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-issue-of-missing-hd-audio-on-your-nvidia-device-a-step-by-step-guide/"><u>Solving the Issue of Missing HD Audio on Your NVIDIA Device: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-downloading-primewire-films-series-and-video-content/"><u>Step-by-Step Guide: Downloading PrimeWire Films, Series, and Video Content</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-training-data-includes-a-diverse-range-of-internet-text-but-its-important-to-note-that-grover-is-designed-more-with-content-generation-in-mind-rather-th625/"><u>The Training Data Includes a Diverse Range of Internet Text, but It's Important to Note that Grover Is Designed More with Content Generation in Mind Rather than Deep Specialization Like Legal Reasoning.</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/understanding-the-role-of-a-control-panel-insights-from-yl-computing-and-software-solutions/"><u>Understanding the Role of a Control Panel: Insights From YL Computing and Software Solutions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/video-editing-on-mac-os-x-mavericks-a-beginners-guide/"><u>Video Editing on Mac OS X Mavericks A Beginners Guide</u></a></li>
+</ul></div>
 

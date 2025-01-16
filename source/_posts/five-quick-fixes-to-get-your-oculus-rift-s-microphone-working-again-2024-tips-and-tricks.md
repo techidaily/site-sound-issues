@@ -1,7 +1,7 @@
 ---
 title: Five Quick Fixes to Get Your Oculus Rift S Microphone Working Again - 2024 Tips & Tricks
-date: 2025-01-08T18:43:30.005Z
-updated: 2025-01-10T19:32:25.048Z
+date: 2025-01-15T16:01:21.545Z
+updated: 2025-01-16T16:03:11.860Z
 tags:
   - win11
   - win10
@@ -36,7 +36,7 @@ You may not have to try them all. Just work your way down the list until you fin
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Allow access to your headset microphone (for Windows 10 users)
@@ -53,9 +53,17 @@ You should allow your Windows 10 system and your application to access your head
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62e8bd4fd27.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click the**Change**button, then make sure **Microphone for this device** is turned**on**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62e9221f920.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Make sure**Allow apps to access your microphone**is turned**on**.
 
@@ -65,23 +73,19 @@ Hopefully this fixes your microphone issue. But if not, there are still three fi
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 2: Check your microphone device settings
 
 Your Logitech G933 mic may be disabled or not set as the default device on your computer. Or the microphone volume is set to a very low value so it can’t record your sound clearly. To check these settings:**1) Hold down the Windows logo** **key** and**press the R** **key**on your keyboard at the same time to bring up the Run dialog, then type “_**control**_” and press **Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** In Control Panel, select**Large icons**from the**View by**drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**Select **Sound**.
 
@@ -92,7 +96,7 @@ Your Logitech G933 mic may be disabled or not set as the default device on your 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Right click the**Headset Microphone**and click **Enable**.
@@ -103,10 +107,6 @@ Your Logitech G933 mic may be disabled or not set as the default device on your 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **7)** Right click**Headset Microphone**and click**Properties**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
@@ -116,7 +116,7 @@ Your Logitech G933 mic may be disabled or not set as the default device on your 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **9)** Click**OK**, then click**OK**. Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
@@ -129,13 +129,13 @@ The mic on your Logitech G933 headset won’t work if you’re using an incorrec
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the**Update**button next to your sound device or your headset to download the latest and correct driver for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can also click the **Update All**button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) — if you don’t already have it, you’ll be prompted to upgrade when you click**Update All**.) Once you’ve updated the driver for your Logitech G933 headset, restart your computer. Then log in again and see if the microphone is working.
 
@@ -163,20 +163,18 @@ If your headset microphone is still not working, it’s likely there are hardwar
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-tackling-inaudible-portions-in-partially-muted-fb-media/"><u>[New] 2024 Approved Tackling Inaudible Portions in Partially Muted FB Media</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-process-to-create-impressive-gopro-timelapses/"><u>[New] Step-by-Step Process to Create Impressive GoPro Timelapses</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-depth-analysis-of-premium-apps-to-boost-vtuber-audibility/"><u>[Updated] In-Depth Analysis of Premium Apps to Boost Vtuber Audibility</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-restoring-audio-capabilities-in-your-toshibe-laptop/"><u>Expert Advice: Restoring Audio Capabilities in Your Toshibe Laptop</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/how-to-harness-the-power-of-obs-on-android-gadgets-for-2024/"><u>How to Harness the Power of OBS on Android Gadgets for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-voice-chat-in-fortnite-a-step-by-step-guide/"><u>How to Restore Voice Chat in Fortnite - A Step-by-Step Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-best-20-anime-song-opens-in-ranking/"><u>In 2024, Best 20 Anime Song Opens in Ranking</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-beyond-simple-cuts-deep-insights-into-vidas-editing-power/"><u>In 2024, Beyond Simple Cuts Deep Insights Into Vida’s Editing Power</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-cross-platform-players-top-10-open-source-selections/"><u>In 2024, Cross-Platform Players Top 10 Open Source Selections</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-challenge-of-non-visible-headphones-in-audio-player-applications-for-windows-11-users/"><u>Solving the Challenge of Non-Visible Headphones in Audio Player Applications for Windows 11 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-instructions-for-malfunctioning-kotion-g200n-microphones/"><u>Step-by-Step Repair Instructions for Malfunctioning KOTION G200n Microphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-your-speakers-solve-windows-10s-cut-out-sounds-here/"><u>Trouble with Your Speakers? Solve Windows 10'S Cut-Out Sounds Here!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-resolving-destiny-ersey-2s-voice-chat-problems/"><u>Troubleshooting Tips for Resolving Destiny Ersey 2'S Voice Chat Problems</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-infinix-hot-40-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Infinix Hot 40 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-top-6-slide-show-creation-apps-on-latest-iphones/"><u>[New] 2024 Approved Top 6 Slide Show Creation Apps on Latest iPhones</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/armonizing-youtube-production-with-a-9-to-5-routine-for-2024/"><u>[New] Harmonizing YouTube Production with a 9-to-5 Routine for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-metaverse-vs-multiverse-understanding-the-distinctions/"><u>[New] Metaverse Vs. Multiverse Understanding the Distinctions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-9-live-stream-networks-revealed-secrets/"><u>[New] Top 9 Live Stream Networks - Revealed Secrets</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-step-by-step-tutorial-for-using-ez-grabber-like-a-pro/"><u>[Updated] 2024 Approved Step-by-Step Tutorial for Using EZ Grabber Like a Pro</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-leading-mac-graphics-recorder/"><u>[Updated] In 2024, Leading Mac Graphics Recorder</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-mastering-mac-preview-a-compreranary-reference-guide/"><u>2024 Approved Mastering Mac Preview A Compreranary Reference Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unlocking-igtv-potential-tips-and-strategies/"><u>2024 Approved Unlocking IGTV Potential Tips & Strategies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014939186-corsair-hs35-headset-unresponsive-in-windows-heres-how-to-restore-mic-functionality/"><u>Corsair HS35 Headset Unresponsive in Windows? Here's How to Restore Mic Functionality!</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/downloading-youtube-videos-in-compatible-formats-for-presentations-with-keynote/"><u>Downloading YouTube Videos in Compatible Formats for Presentations with Keynote</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-techniques-for-swift-microphone-performance-checks/"><u>Effortless Techniques for Swift Microphone Performance Checks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-ways-to-restore-audio-on-your-pc-with-nvidias-high-definition-technology/"><u>Effortless Ways to Restore Audio on Your PC with Nvidia's High-Definition Technology</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015993319-hearthstone-audio-trouble-heres-how-to-get-the-sound-back/"><u>Hearthstone Audio Trouble? Here's How to Get the Sound Back!</u></a></li>
 </ul></div>
 

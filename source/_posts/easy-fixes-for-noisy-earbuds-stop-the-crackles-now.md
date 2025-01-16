@@ -1,7 +1,7 @@
 ---
 title: "Easy Fixes for Noisy Earbuds: Stop the Crackles Now"
-date: 2025-01-06T18:05:13.756Z
-updated: 2025-01-10T18:42:45.127Z
+date: 2025-01-14T16:00:39.423Z
+updated: 2025-01-16T16:02:16.977Z
 tags:
   - win11
   - win10
@@ -59,9 +59,17 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Advanced** tab, un-check **the box** before **Allow applications to take exclusive control of this device** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Play some music and check if the sound coming through is noise-free now. If not, continue with **5)** to **change the audio format** .
 
@@ -74,10 +82,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
  Check if the headphone crackling problem persists. If yes, then congrats! But if it still persists, you should try **Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -95,10 +99,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/IntelR-Display-Audio.jpg)
 4. Restart your computer, play some audio through your headphone to see if this nasty crackling noise has been resolved. If yes, then great! If it’s still happening, move on to **Fix 4**  , below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 ### Fix 4: Adjust **the minimum processor state**
@@ -110,24 +110,24 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 2. Click the **High performance** option > **Change plan settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Depending on the build of your Windows, you might also see **On battery** and **Plugged in**  in **Setting (%)** . Change both values to **100** and click **OK** .
 
@@ -156,19 +156,20 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-premier-mp4-broadcast-converter-for-2024/"><u>[New] Premier MP4 Broadcast Converter for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-stabilizing-shots-best-4k-gimbals-reviewed/"><u>2024 Approved Stabilizing Shots Best 4K Gimbals Reviewed</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/crescendo-creations-adding-audio-magic-to-instagram-stories-for-2024/"><u>Crescendo Creations Adding Audio Magic to Instagram Stories for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-upgrade-your-canon-mg2900-printer-with-latest-drivers-and-firmware/"><u>How to Upgrade Your Canon MG2900 Printer with Latest Drivers & Firmware</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-x-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your iPhone X</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-audio-problems-in-counter-strike-2-mic-fixes-and-tips/"><u>Overcoming Audio Problems in Counter Strike 2 - Mic Fixes and Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-phasmophobias-voice-communication-problems/"><u>Quick Fixes for Phasmophobia's Voice Communication Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/sound-stuttering-distortion-problem-on-windows-107-solved/"><u>Sound Stuttering / Distortion Problem on Windows 10/7 [Solved]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-fixing-the-silent-problem-of-your-logitech-g933-headset/"><u>Step-by-Step Guide: Fixing the Silent Problem of Your Logitech G933 Headset</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-instructions-connecting-your-realtek-high-definition-audio-device/"><u>Step-by-Step Instructions: Connecting Your Realtek High Definition Audio Device</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-ultimate-checklist-tracking-igtv-analytics-for-2024/"><u>The Ultimate Checklist Tracking IGTV Analytics for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unlocking-crystal-clear-audio-performance-fix-stutter-and-distortion-problems-in-win-107/"><u>Unlocking Crystal-Clear Audio Performance: Fix Stutter and Distortion Problems in Win 10/7</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-your-creativity-best-free-video-fx-apps-for-ios-and-android/"><u>Updated Unleash Your Creativity Best Free Video FX Apps for iOS and Android</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/zdnets-top-tips-streamlining-microsoft-365-subscription-management-in-windows-11-environments/"><u>ZDNet's Top Tips: Streamlining Microsoft 365 Subscription Management in Windows 11 Environments</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-savory-scenes-mastering-the-art-of-eating-focused-filmography/"><u>[New] In 2024, Savory Scenes Mastering the Art of Eating-Focused Filmography</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-your-starting-guide-to-tiktok-macos-basics/"><u>[New] Your Starting Guide to TikTok (macOS) Basics</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-rapid-runners-prime-fastest-titles-for-pc-mobile-devices/"><u>[Updated] Rapid Runners Prime Fastest Titles for PC, Mobile Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-video-mastery-start-here-essential-seo-gadgets/"><u>[Updated] Video Mastery Start Here - Essential SEO Gadgets</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-honor-100-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apples-future-unveiled-a-comprehemail-protected-date-insights-and-latest-buzz/"><u>Apple's Future Unveiled: A Compreh([email Protected] Date Insights & Latest Buzz</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016955817-bluetooth-sound-delay-solutions-fast-and-simple-fixes/"><u>Bluetooth Sound Delay Solutions: Fast and Simple Fixes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-tecno-phantom-v-flip-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Tecno Phantom V Flip</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-realtek-dac-audio-issues-restore-your-devices-sound/"><u>Fixing Realtek DAC Audio Issues: Restore Your Device's Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-unresponsive-headphones-in-windows-11/"><u>How to Resolve Unresponsive Headphones in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mpow-microphone-troubles-in-windows-10-diagnosis-and-solutions/"><u>MPOW Microphone Troubles in Windows 10: Diagnosis and Solutions</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-live-chat-with-woocommerce-your-gateway-to-successful-live-selling-for-2024/"><u>New Live Chat With WooCommerce Your Gateway to Successful Live Selling for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-dolby-digital-problems-starting-the-audio-driver-in-windows-10-easily/"><u>Overcoming Dolby Digital Problems: Starting the Audio Driver in Windows 10 Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-no-sound-problems-a-comprehensive-guide-to-audio-troubleshooting-on-your-computer/"><u>Solving 'No Sound' Problems: A Comprehensive Guide to Audio Troubleshooting on Your Computer</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-ultimate-method-for-screen-recording-across-platforms/"><u>The Ultimate Method for Screen Recording Across Platforms</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Silent Mac Computers – Expert Guidance
-date: 2025-01-06T23:19:34.154Z
-updated: 2025-01-10T20:05:47.912Z
+date: 2025-01-13T16:02:11.378Z
+updated: 2025-01-16T16:01:09.441Z
 tags:
   - win11
   - win10
@@ -38,33 +38,29 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a273f85c31.png)
 2. Double-click**Sound, video, and game controllers** . Then right-click the audio device driver that you have and choose**Update driver** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a27949ffeb.png)
 3. Choose**Browse my computer for driver software** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28445c675.png)
 4. Then choose**Let me pick from a list of available drivers on my computer** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a286f3d5de.png)
 5. Make sure the box for**Show compatible hardware** is**TICKED** . Then choose**High Definition Audio Device** from the list, and hit**Next** to continue.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28cccfd3f.png)
 6. You will see the warning asking you whether you want to go on with the installation, click**Yes** to continue.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a294398588.png)
 7. Restart your computer when the installation finishes.
@@ -83,10 +79,6 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
 4. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If your computer sound still keeps cutting out, please move on to the next option.
@@ -99,15 +91,27 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 3: Change Speaker Settings
 
@@ -117,19 +121,15 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
@@ -159,24 +159,24 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-top-8-montage-apps-for-your-androidiphone/"><u>[New] 2024 Approved Top 8 Montage Apps for Your Android/iPhone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-surveying-the-spectrum-of-windows-movie-maker-updates/"><u>[New] Surveying the Spectrum of Windows Movie Maker Updates</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-exiting-with-impact-mastering-podcast-conclusions-beyond-the-basics/"><u>[Updated] 2024 Approved Exiting with Impact Mastering Podcast Conclusions Beyond the Basics</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-creative-capture-of-sims-4-sagas-innovative-ways-to-record-your-journey/"><u>2024 Approved Creative Capture of Sims 4 Sagas Innovative Ways to Record Your Journey</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-v29-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo V29? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortless-audio-verification-master-the-art-of-microphone-tests/"><u>Effortless Audio Verification: Master the Art of Microphone Tests!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-disconnected-epson-on-windows-os/"><u>Fixing Disconnected Epson on Windows OS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-your-logitech-g-pro-x-microphone-to-work-perfectly-again/"><u>Getting Your Logitech G Pro X Microphone to Work Perfectly Again</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reawaken-your-audio-resolving-the-no-sound-issue-with-conexant-smartaudio-hd-on-windows-1nk/"><u>Reawaken Your Audio: Resolving the No Sound Issue with Conexant SmartAudio HD on Windows 1Nk</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-mic-here-are-the-steps-to-restore-your-microphones-voice-functionality/"><u>Silent Mic? Here Are The Steps to Restore Your Microphone's Voice Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-silent-issue-restoring-audio-in-windows-during-a-zoom-call/"><u>Solving the Silent Issue: Restoring Audio in Windows During a Zoom Call</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/streamlining-projects-using-azures-speech-service/"><u>Streamlining Projects Using Azure's Speech Service</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-complete-walkthrough-to-resolve-discords-persistent-audio-issues-a-step-by-step-guide/"><u>The Complete Walkthrough to Resolve Discord's Persistent Audio Issues – A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-7-smart-ai-tools-in-your-chrome-extension-toolbox/"><u>Top 7 Smart AI Tools in Your Chrome Extension Toolbox</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-online-tools-to-create-fake-faces-for-free/"><u>Top Online Tools to Create Fake Faces for Free</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-unresponsive-headphones-on-your-windows-10-system/"><u>Troubleshoot and Repair Unresponsive Headphones on Your Windows 10 System</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-get-your-glitch-on-the-top-10-mobile-video-editing-apps-for-experimental-artists/"><u>Updated Get Your Glitch On The Top 10 Mobile Video Editing Apps for Experimental Artists</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723017057033-windows-10-speaker-setup-errors-heres-how-to-identify-and-solve-the-problem/"><u>Windows 10 Speaker Setup Errors? Here's How to Identify and Solve the Problem!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixed-headphones-not-showing-up-in-playback-devices-on-windows-10/"><u>[Fixed] Headphones Not Showing Up in Playback Devices on Windows 10</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-20plus-funny-metaverse-memes-and-how-to-make-your-own-memes-for-2024/"><u>[New] 20+ Funny Metaverse Memes and How to Make Your Own Memes for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-young-yachtsmens-playtime-pleasures/"><u>[New] 2024 Approved Young Yachtsmen's Playtime Pleasures</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-captivating-content-the-basics-of-removing-background-from-videos-for-2024/"><u>[New] Captivating Content The Basics of Removing Background From Videos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-ultimate-speech-refinement-kit-free-tools-for-flawless-audio-effects/"><u>[New] In 2024, The Ultimate Speech Refinement Kit Free Tools for Flawless Audio Effects</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-powerdirector-showcase-the-2024-edition-explored/"><u>[New] PowerDirector Showcase The 2024 Edition Explored</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-best-script-artisans-domain/"><u>2024 Approved Best Script Artisan's Domain</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-fix-addressing-the-failure-of-overwatchs-push-to-talk-system/"><u>Comprehensive Fix: Addressing the Failure of Overwatch’s Push-to-Talk System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-fresh-innovations-now-experience-the-new-update-on-your-ios-devices-and-apple-watch/"><u>Discover Fresh Innovations Now - Experience the New Update on Your iOS Devices and Apple Watch</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975108421-eveo-wireless-adapter-driver-update-secure-it-now-for-free/"><u>EVEO Wireless Adapter Driver Update - Secure It Now for Free</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-fixing-razer-barracuda-x-mic-malfunctions-in-windows-10-and-11-environments/"><u>Expert Advice: Fixing Razer Barracuda X Mic Malfunctions in Windows 10 and 11 Environments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-enable-audio-on-your-pc-anthem-game-quieted-by-windows-11-update/"><u>How to Enable Audio on Your PC: Anthem Game Quieted by Windows 11 Update?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-phone-without-google-account-by-drfone-android/"><u>How to Unlock Infinix Smart 8 Phone without Google Account?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016829509-onikuma-headset-mic-problems-heres-how-you-can-fix-them/"><u>Onikuma Headset Mic Problems? Here's How You Can Fix Them!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-functionality-after-a-recent-windows-10-update/"><u>Restoring Audio Functionality After a Recent Windows 10 Update</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-the-sounds-of-apex-legends-essential-tips-for-overcoming-no-sound-issues/"><u>Reviving the Sounds of Apex Legends - Essential Tips for Overcoming No Sound Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-silent-speakers-despite-connection-in-windows-os/"><u>Step-by-Step Solution for Silent Speakers Despite Connection in Windows OS</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/strategie-efficaci-per-lautomazione-backup-centralizzato-sui-servidori-windows-da-server-2008-a-server-2016/"><u>Strategie Efficaci per L'Automazione Backup Centralizzato Sui Servidori Windows: Da Server 2008 a Server 2016</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-solutions-troubleshooting-toshiba-laptop-audio-issues/"><u>Top Solutions: Troubleshooting Toshiba Laptop Audio Issues</u></a></li>
 </ul></div>
 

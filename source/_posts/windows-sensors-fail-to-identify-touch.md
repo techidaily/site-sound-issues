@@ -1,7 +1,7 @@
 ---
 title: Windows Sensors Fail to Identify Touch
-date: 2025-01-06T23:12:32.913Z
-updated: 2025-01-10T17:22:47.905Z
+date: 2025-01-15T16:02:43.688Z
+updated: 2025-01-16T16:02:45.698Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why is my HP scanner not working?
 
  The HP scanner not working issues include**the** scanner won’t scan, the scanner not being detected by your computer, or errors popping**up** when you’re using your scanner, etc.
@@ -31,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
  The causes for these problems are various and sometimes hard to identify. As you can imagine, the connection problem can prevent your scanner from connecting to the computer, and the software and services problems in your computer are the possible reasons for this issue.
 
  But don’t worry. We’ll help you fix the scanner not working on HP.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix the HP scanner not working
 
@@ -60,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Enable Windows Image Acquisition (WIA) service and associated services
 
 **Windows Image Acquisition** **(WIA)** is a Microsoft model that allows graphics software to communicate with imaging hardware such as scanners and cameras. So you should enable WIA service in your computer if your scanner stops working. Here’s what you need to do:
@@ -81,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 
 5. Click**Apply** and**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1688e0055e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then restart your computer. Try to use your HP scanner again and see if it works now.
 
@@ -103,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your scanner driver (Windows PC)
 
  A missing or outdated scanner driver can cause your HP scanner not to work, so you should update your scanner driver up to date.
@@ -128,7 +124,7 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 3. Click the Update button next to your scanner to download the latest driver (you can do this with the FREE version), then install it on your computer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install all problem drivers in your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
@@ -136,7 +132,7 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/update-dell-touchpad-driver.jpg.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -147,10 +143,6 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 Then try scanning with your scanner to see if it works.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware problems
 
@@ -164,6 +156,10 @@ Then try scanning with your scanner to see if it works.
 3. Click**Next** in the popped-up window and the troubleshooter will start detecting hardware problems automatically.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/next-step.jpg)
 4. Follow the on-screen instructions to finish the troubleshooting and fix the detected issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After that, try your scanner again and see if it’s working properly.
 
@@ -179,16 +175,20 @@ Then try scanning with your scanner to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0319454560.jpg)
 2. In Command Prompt, type the following command, then press**Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd031d993e59.jpg)
 3. Then wait for**Verification 100% complete** . This can take a while.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Once complete, Type**exit** in Command Prompt and press**Enter** to close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd036dad46be.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Restart your computer and see if your scanner begins to work.
 
@@ -226,16 +226,20 @@ To fix your issues, follow the steps below to run a full scan of your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-expertise-in-capturing-high-quality-verbal-notes/"><u>[New] 2024 Approved Expertise in Capturing High-Quality Verbal Notes</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-gifguardian-elite-a-must-have-toolkit-for-twitters-visual-vanguards-for-2024/"><u>[Updated] GifGuardian Elite A Must-Have Toolkit for Twitter's Visual Vanguards for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-cutting-edge-text-tools-for-immersive-storytelling/"><u>[Updated] In 2024, Cutting-Edge Text Tools for Immersive Storytelling</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnose-and-solve-mpow-mic-problems-for-windows-users/"><u>Diagnose and Solve MPOW Mic Problems for Windows Users</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/elevate-your-video-game-best-mac-video-editing-apps-for-2024/"><u>Elevate Your Video Game Best Mac Video Editing Apps for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-infinix-gt-10-pro-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Infinix GT 10 Pro</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-nubia-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Nubia? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-glitches-making-valorants-voice-chat-work-flawlessly-again/"><u>Overcoming Glitches: Making Valorant's Voice Chat Work Flawlessly Again</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pc-gaming-restore-xbox-one-controllers-fit/"><u>PC Gaming: Restore Xbox One Controllers' Fit</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-invisibility-problems-with-headphones-on-your-pcs-playlist/"><u>Solving Invisibility Problems with Headphones on Your PC's Playlist</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-nonfunctional-skype-mic-in-windows-11-environments/"><u>Step-by-Step Fix for Nonfunctional Skype Mic in Windows 11 Environments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixed-after-windows-10-update-no-sound-easily/"><u>[Fixed] After Windows 10 Update No Sound. Easily</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-a-compre-market-leaders-guide-to-the-most-effective-fb-video-ad-approaches/"><u>[New] A Compre Market Leader's Guide to the Most Effective FB Video Ad Approaches</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-cheapest-4k-dslrmirrorless-cameras-and-camcorders-for-2024/"><u>[New] Cheapest 4K DSLR/Mirrorless Cameras and Camcorders for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-a-comparative-analysis-androids-finest-video-downloaders/"><u>[Updated] A Comparative Analysis Android's Finest Video Downloaders</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cookiebot-enabled-enhance-your-websites-user-experience-and-tracking/"><u>Cookiebot-Enabled: Enhance Your Website's User Experience and Tracking</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dealing-with-disturbing-acoustic-issues-how-to-fix-buzz-in-audio-devices/"><u>Dealing with Disturbing Acoustic Issues: How to Fix Buzz in Audio Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-connectivity-problems-using-tozo-t6-with-windows-lete-the-device-is-up-to-date-and-make-sure-your-computers-drivers-are-also-current-as-outdated-driv633/"><u>Fixing Connectivity Problems: Using Tozo T6 with Windows Lete the Device Is up to Date, and Make Sure Your Computer's Drivers Are Also Current as Outdated Drivers Can Cause Compatibility Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-pubg-voice-chat-working-again-easy-fix-tips-and-steps/"><u>Get Your PUBG Voice Chat Working Again: Easy Fix Tips & Steps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-to-accessing-troubleshooting-mode-in-windows-8-and-81-without-hesitation/"><u>Guide to Accessing Troubleshooting Mode in Windows 8 & 8.1 Without Hesitation!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Huawei Nova Y71? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-repairing-your-webex-microphone-2024-edition/"><u>The Ultimate Guide to Repairing Your Webex Microphone - 2024 Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016036243-troubleshooting-and-repairing-your-arctis-9x-mic-fixed/"><u>Troubleshooting and Repairing Your Arctis 9X Mic - Fixed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-absence-of-sound-on-zoom-for-windows-users/"><u>Troubleshooting the Absence of Sound on Zoom for Windows Users</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/vision-brought-to-life-the-most-compelling-8-drawing-apps-for-iphones-for-2024/"><u>Vision Brought to Life The Most Compelling 8 Drawing Apps for iPhones for 2024</u></a></li>
 </ul></div>
 

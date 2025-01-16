@@ -1,7 +1,7 @@
 ---
 title: "Hear Again: Clear Solutions to Address 'No Sound' On Nvidia High Definition Audio Devices"
-date: 2024-08-13T11:00:51.380Z
-updated: 2024-08-14T11:00:51.380Z
+date: 2025-01-13T04:17:04.622Z
+updated: 2025-01-16T07:58:58.093Z
 tags:
   - win11
   - win10
@@ -50,9 +50,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  1) Right-click on the speaker icon in the system tray, and select**Playback devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d55d7e26c.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 
  2) If you see the Speakers disabled, right-click on the item, then select**Enable** . If you see the Speakers enabled, skip this step.
 
@@ -70,6 +67,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d5e494746.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##
   
  Solution 3: Ensure audio device settings in Audacity are configured correctly
@@ -83,16 +84,14 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  2) Click**Edit** in the menu bar and select**Preferences** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6ee48396.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6c34f39b.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Ensure the**Host** field set to**Windows WASAPI** .
 
@@ -121,13 +120,18 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  3) Click**Recording** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d78abf2fa.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Under Playthrough, if you see**Software Playthrough of input** is checked, uncheck it. Then click the**OK** button. If not, skip this solution then try other solutions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d7d97fc21.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##
   
@@ -152,8 +156,9 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d8b093ee6.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) After updating the driver, check to see if you can record sound successfully.
@@ -171,16 +176,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  2) Type**services.msc** and press**Enter** to open the Services window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d9350bf7b.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Windows Audio Endpoint Builder** , then click**Restart** . The follow the on-screen instructions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d97536340.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  4) Check to see if you can record successfully.  
   
@@ -195,8 +194,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,4 +201,23 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-stream-to-instagram-effortless-broadcast-via-obs-software-for-2024/"><u>[New] Stream to Instagram Effortless Broadcast via OBS Software for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-ultimate-guide-to-spotting-hot-photos-on-pexels/"><u>2024 Approved The Ultimate Guide to Spotting Hot Photos on Pexels</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-youtube-seo-guide-how-to-improve-youtube-videos-rankings/"><u>2024 Approved YouTube SEO Guide How to Improve YouTube Videos Rankings</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-for-overcoming-the-directx-initialization-error-errgfxd3dinit-in-grand-theft-auto-v/"><u>Effective Solutions for Overcoming the DirectX Initialization Error (ERR_GFX_D3D_INIT) in Grand Theft Auto V</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-hacks-resolve-your-xbox-one-audio-issues-now/"><u>Expert Hacks: Resolve Your Xbox One Audio Issues Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-extraordinary-how-lenovos-innovative-thinkpad-x1-fold-redefines-laptops-a-unique-review/"><u>Exploring the Extraordinary: How Lenovo's Innovative ThinkPad X1 Fold Redefines Laptops - A Unique Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/googles-next-smartwatch-leak-specs-expected-release-timeline-and-pricing-rumors/"><u>Google's Next Smartwatch Leak – Specs, Expected Release Timeline, and Pricing Rumors</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-avoid-constant-paper-jams-in-your-scanner-expert-tips-from-yl-computing/"><u>How to Avoid Constant Paper Jams in Your Scanner: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-windows-system-audio-problems-in-windows-107-expert-tips-and-solutions/"><u>How to Resolve Window's System Audio Problems in WINDOWS 10/7 – Expert Tips & Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How to Share Location in Messenger On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-podcast-production-with-garageband-tools/"><u>In 2024, Mastering Podcast Production with GarageBand Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-art-of-fixing-squad-mic-issues-a-step-by-step-guide/"><u>Mastering the Art of Fixing Squad Mic Issues : A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mic-malfunctions-heres-how-to-get-your-device-capturing-sound-again/"><u>Mic Malfunctions? Here's How to Get Your Device Capturing Sound Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-mute-life-easily-correcting-skype-noise-malfunctions/"><u>No More Mute Life: Easily Correcting Skype Noise Malfunctions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016656542-revive-your-dell-sound-system-with-these-easy-fixes/"><u>Revive Your Dell Sound System with These Easy Fixes!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-techniques-for-a-defective-microphone-in-the-oculus-quest-2-vr-headset/"><u>Troubleshooting Techniques for a Defective Microphone in the Oculus Quest 2 VR Headset</u></a></li>
+</ul></div>
 

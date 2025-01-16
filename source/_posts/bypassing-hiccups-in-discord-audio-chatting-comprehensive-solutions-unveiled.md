@@ -1,7 +1,7 @@
 ---
 title: Bypassing Hiccups in Discord Audio Chatting - Comprehensive Solutions Unveiled
-date: 2025-01-07T21:06:30.513Z
-updated: 2025-01-10T19:45:54.126Z
+date: 2025-01-12T16:02:35.397Z
+updated: 2025-01-16T16:01:23.506Z
 tags:
   - win11
   - win10
@@ -52,6 +52,10 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver-1.jpeg)
@@ -63,10 +67,6 @@ There’re mainly two ways for you to update an audio driver:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Change sound settings
 
  This issue happens when Stereo Mix (instead of your headset microphone) is set to the default device. To fix it, you should disable Stereo Mix, and set your microphone as the default device:
@@ -75,15 +75,15 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Go to the**Recording** tab.
 
  3) Right-click**Stereo Mix** and select **Disable** , and make sure you have set your headphone as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Open Discord application, and go to**User Settings** .
 
@@ -92,13 +92,13 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Reinstall Discord
@@ -111,13 +111,13 @@ There’re mainly two ways for you to update an audio driver:
 
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click Discord, and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once complete, you can download[**the latest Discord client**](https://discord.com/brand-new) and check if the issues persist in the new version.
 
@@ -142,22 +142,21 @@ There’re mainly two ways for you to update an audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-the-best-10-online-subtitle-editors-for-2024/"><u>[New] The Best 10 Online Subtitle Editors for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gaining-ground-on-the-groundswell-of-online-viewers/"><u>[Updated] In 2024, Gaining Ground on the Groundswell of Online Viewers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-optimizing-film-length-for-instagram-on-mac/"><u>[Updated] Optimizing Film Length for Instagram on Mac</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2023-convert-facebook-video-to-mp4-720p1080phd-online-and-free-for-2024/"><u>2023 | Convert Facebook Video to MP4 720P/1080p/HD Online and Free for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/access-device-manager-on-your-windows-11-computer-and-check-if-there-are-any-yellow-exclamation-marks-next-to-universal-serial-bus-controllers-if-present-ri636/"><u>Access Device Manager on Your Windows 11 Computer and Check if There Are Any Yellow Exclamation Marks Next to Universal Serial Bus Controllers. If Present, Right-Click and Choose 'Update Driver' Or 'Uninstall Device,' Then Disconnect/Reconnect the Tozo T6</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/apex-legends-audio-glitches-gone-steps-taken-to-fix-no-sound-dilemma/"><u>Apex Legends Audio Glitches Gone: Steps Taken to Fix No-Sound Dilemma</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-on-repairing-a-broken-or-non-responsive-microphone-in-your-headset/"><u>Expert Tips on Repairing a Broken or Non-Responsive Microphone in Your Headset</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-silence-restoring-obs-computer-audio-functionality/"><u>Fixing the Silence: Restoring OBS Computer Audio Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-mode-expert-tips-on-getting-fortnites-sound-working-again/"><u>Fixing the Silent Mode: Expert Tips on Getting Fortnite's Sound Working Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/google-hangouts-microphone-wont-work-heres-how-to-fix-it-easily/"><u>Google Hangouts Microphone Won't Work? Here’s How to Fix It Easily!</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-speakers-file-extract-and-analysis/"><u>In 2024, Speaker's File Extract & Analysis</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-depth-look-techniques-for-screen-capturing-on-android-for-2024/"><u>In-Depth Look Techniques for Screen Capturing on Android for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-the-performance-of-amds-rx-7800xt-and-7700xt/"><u>Mastering the Performance of AMD's RX 7800XT & 7700XT</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-sound-on-your-system-after-windows-11-patch-quick-remedies-inside/"><u>No Sound on Your System After Windows 11 Patch? Quick Remedies Inside</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/screen-share-twitters-power-to-go-viral/"><u>Screen Share Twitter's Power to Go Viral</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721957618836-secure-accounts-on-messaging-platforms-with-just-your-email-learn-how/"><u>Secure Accounts on Messaging Platforms with Just Your Email - Learn How!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-guide-solving-the-dilemma-of-your-unresponsive-corsair-void-headset/"><u>Ultimate Troubleshooting Guide: Solving the Dilemma of Your Unresponsive Corsair Void Headset</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-prime-picks-best-photo-displayers/"><u>[New] Prime Picks Best Photo Displayers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-rewind-revolution-novel-strategies-for-youtube-viewers/"><u>[New] The Rewind Revolution Novel Strategies for YouTube Viewers</u></a></li>
+<li><a href="https://article-files.techidaily.com/budding-filmmakers-check-out-these-gopro-upgrades/"><u>Budding Filmmakers, Check Out These GoPro Upgrades</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convertissez-des-fichiers-flac-vers-wav-en-temps-reel-gratuit-sur-internet-via-movavi-guide-facile-a-suivre/"><u>Convertissez Des Fichiers FLAC Vers WAV en Temps Réel Gratuit Sur Internet via Movavi - Guide Facile À Suivre</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnose-and-correct-audio-disruptions-on-windows-10-or-7-effective-strategies-to-restore-clear-sounds/"><u>Diagnose & Correct Audio Disruptions on Windows 10 or 7: Effective Strategies to Restore Clear Sounds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-overcoming-no-sound-issues-on-windows-10s-conexant-smartaudio-hd-audio-card/"><u>Expert Advice: Overcoming No-Sound Issues on Windows 10'S Conexant SmartAudio HD Audio Card</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-resolving-steelseries-arctis-elite-mic-not-working-problems/"><u>Expert Tips for Resolving SteelSeries Arctis Elite Mic Not Working Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-correct-sound-driver-errors-in-your-dell-computer-windows-7/"><u>Expert Tips to Correct Sound Driver Errors in Your Dell Computer (Windows 7)</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location without Jailbreak On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-distorted-audio-on-your-iphone-a-complete-guide/"><u>How to Fix Distorted Audio on Your iPhone: A Complete Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-update-and-protect-your-facebook-login-credentials/"><u>How To Update & Protect Your Facebook Login Credentials</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-motorola-moto-g13-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsoft-claims-gameplay-improvements-in-copilotplus-pcs-with-enhanced-prism-tweaks-and-cross-platform-cheating-protection/"><u>Microsoft Claims Gameplay Improvements in Copilot+ PCs with Enhanced Prism Tweaks & Cross-Platform Cheating Protection</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/rainbow-six-siege-voip-trouble-top-solutions-for-the-2024-update/"><u>Rainbow Six Siege VoIP Trouble? Top Solutions for the 2024 Update</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-silent-pc-issue-fix-your-computers-lack-of-audio-instantly/"><u>Solve Silent PC Issue: Fix Your Computer's Lack of Audio Instantly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-intova-xs-action-potential/"><u>Unveiling Intova X's Action Potential</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved Issue: How to Repair the Unresponsive Mic on Your Corsair HS60"
-date: 2025-01-03T17:15:54.424Z
-updated: 2025-01-10T23:30:45.062Z
+date: 2025-01-10T16:04:04.347Z
+updated: 2025-01-16T16:01:30.253Z
 tags:
   - win11
   - win10
@@ -37,7 +37,7 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Select the Bluetooth device as the default playback device
@@ -53,6 +53,10 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Make sure the audio level is high enough
 
  In**Fix 2** , we make sure our Bluetooth speaker/headphone’s is at least audible. Here’s how:
@@ -61,12 +65,12 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1c8bbf643.jpg)
 2. In the**Playback** tab, click on**your** **Bluetooth device** \>**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d223cd2694.jpg)
 3. Click the Levels tab. Then make sure**the volume bar is dragged to an audible level** and the sound icon**isn’t muted** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d22c378f3f.png)
 4. Click**Apply** \>**OK** .
@@ -84,24 +88,20 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 2. Double-click on**Bluetooth Support Service** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1e0590947.jpg)
 3. Select**Automatic** in the**Startup type** drop-down menu and then click**Start** to jumpstart the service. Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1ea8ed445.jpg)
 4. Play some music and test if your**Bluetooth Connected But No Sound** has been fixed. If it’s still no joy, please move on to F**ix 4,** below.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 4: Update your Bluetooth driver
 
@@ -137,7 +137,7 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
@@ -165,20 +165,18 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-essential-techniques-for-efficient-iphone-7-recording/"><u>[Updated] 2024 Approved Essential Techniques for Efficient iPhone 7 Recording</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-essential-techniques-in-capturing-live-sports-on-camera/"><u>[Updated] In 2024, Essential Techniques in Capturing Live Sports on Camera</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/1728484760985-windows-7/"><u>「システムリカバリ」をWindows 7で設定する詳細なチュートリアル</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-6-budget-savvy-4k-large-screen-options/"><u>2024 Approved Top 6 Budget-Savvy 4K Large Screen Options</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-fast-and-accurate-microphone-diagnostics-at-home/"><u>Expert Tips for Fast and Accurate Microphone Diagnostics at Home</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-when-your-steelseries-arctis-pro-headset-microphone-stops-working/"><u>Quick Fixes for When Your SteelSeries Arctis Pro Headset Microphone Stops Working</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-mic-and-speaker-problems-when-using-zoom-on-windows-or-mac/"><u>Resolving Mic and Speaker Problems When Using Zoom on Windows or Mac</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-noise-issues-in-world-of-warcraft-a-comprehensive-guide/"><u>Solving Noise Issues in World of Warcraft: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-efficiently-duplicating-formulas-across-cells-in-ms-excel/"><u>Step-by-Step Guide: Efficiently Duplicating Formulas Across Cells in MS Excel</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-5-ai-powered-therapy-bots-for-managing-psychological-wellness/"><u>Top 5 AI-Powered Therapy Bots for Managing Psychological Wellness</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-non-functional-audio-in-windows-10-solved/"><u>Troubleshooting Non-Functional Audio in Windows 10 - Solved</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-when-cod-vanguards-voice-chat-goes-offline/"><u>Troubleshooting Tips for When Cod: Vanguard's Voice Chat Goes Offline</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-g580-drivers-in-a-blink/"><u>Update G580 Drivers in a Blink</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/why-isnt-my-sound-blaster-microphone-working-common-problems-and-solutions/"><u>Why Isn't My Sound Blaster Microphone Working? - Common Problems and Solutions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-discovering-all-in-youtube-shorts-guide/"><u>[New] 2024 Approved Discovering All in YouTube Shorts Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-premier-selection-of-premium-video-chat-tools-ios-android-ranking/"><u>[New] 2024 Approved Premier Selection of Premium Video Chat Tools (iOS, Android) Ranking</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/imestamping-your-youtube-videos-desktop-and-mobile-guide-for-2024/"><u>[New] Timestamping Your YouTube Videos Desktop & Mobile Guide for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-3-pro-level-plans-to-preserve-precise-gaming-moments-for-2024/"><u>[Updated] 3 Pro-Level Plans to Preserve Precise Gaming Moments for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-unraveling-360-degree-vision-a-new-cinematic-experience/"><u>[Updated] In 2024, Unraveling 360-Degree Vision A New Cinematic Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bring-your-steelseries-arctis-microphone-back-to-life-effective-solutions-and-tips/"><u>Bring Your SteelSeries Arctis Microphone Back to Life: Effective Solutions and Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-maxed-out-scratch-disks-in-adobe-photoshop-for-a-smooth-editing-experience/"><u>Fixing Maxed Out Scratch Disks in Adobe Photoshop for a Smooth Editing Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fix-red-eyes-quickly-in-photos-on-ios-without-cost/"><u>In 2024, Fix Red Eyes Quickly in Photos on iOS Without Cost</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-dolby-advanced-audio-troubles-steps-to-reactivate-the-dolby-driver-in-windows-10/"><u>Overcoming Dolby Advanced Audio Troubles: Steps to Reactivate the Dolby Driver in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-your-outriders-games-audio-glitches-effectively/"><u>Resolving Your Outriders Game's Audio Glitches Effectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-bluetooth-speaker-latency-issues-swiftly-and-effortlessly/"><u>Solve Your Bluetooth Speaker Latency Issues Swiftly and Effortlessly</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722515960605-top-ranked-artist-tablets-a-comprehensive-guide/"><u>Top Ranked Artist Tablets : A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unblock-your-path-to-clear-sound-resolving-issues-with-conexant-smartaudio-hd-on-windows-10/"><u>Unblock Your Path to Clear Sound: Resolving Issues With Conexant SmartAudio HD on Windows 10</u></a></li>
 </ul></div>
 

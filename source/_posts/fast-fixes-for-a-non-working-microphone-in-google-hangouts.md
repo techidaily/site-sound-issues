@@ -1,7 +1,7 @@
 ---
 title: Fast Fixes for a Non-Working Microphone in Google Hangouts
-date: 2024-08-13T10:59:10.308Z
-updated: 2024-08-14T10:59:10.308Z
+date: 2025-01-12T16:00:34.589Z
+updated: 2025-01-16T16:00:02.180Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c3069
 
  Turtle Beach Recon 70 is a solid choice with decent sound quality for those looking for an affordable gaming headset. Although users have been reporting problems with its microphone every now and then, most of them can be easily fixed. If you’re**using Turtle Beach Recon 70 on PC** and find**its mic not working** , follow this guide to get it back to work!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### First, you need to make sure…
 
 ##### 1: If the headset itself can function normally
@@ -37,8 +34,9 @@ thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c3069
  If your PC has two jacks to separate input and output for headphone audio and mic audio, you would need a[mic splitter](https://www.amazon.com/Headphone-Splitter-KOOPAO-Microphone-Earphones/dp/B084V3TRTV/?tag=drivereasycom-20) to use this headset with your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Try these fixes…
 
 **[1: Enable your headset mic for recording](https://tools.techidaily.com/drivereasy/download/)**
@@ -51,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c3069
 
 **[5: Re-enable your headset via Device Manager](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1:**Enable your headset mic for recording**
 
  The first thing you want to check on your PC is if you’ve enabled your headset mic for recording. Follow these steps:
@@ -62,18 +57,21 @@ thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c3069
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_16-48-56.jpg)
 2. Switch to the**Recording** tab and find your headset device. If you don’t see it, right-click on the empty area then select**Show Disabled Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_16-57-37.jpg)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Right-click the headset then select**Enable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-05-17.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click**Apply** then**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-06-58-1.jpg)
 
 Check if your mic works. If not, try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2:**Set your headset as the input device**
 
@@ -81,29 +79,16 @@ Check if your mic works. If not, try the next solution.
 
 1. On your taskbar, right-click**the Speaker icon** then click**Open Sound settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-29-54.jpg)
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. **Set your headset as the input device** . You can also click**App volume and device preferences** for advanced options.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-35-44.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 3. You’ll be able to adjust the volume and output/input device for different apps as you need.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-38-57.jpg)
 
  Check if your headset microphone can record your voice. If this doesn’t help, proceed to the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3:**Update your audio driver**
 
@@ -118,13 +103,14 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-54-35.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the **Update**  button next to the flagged audio driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-54-43.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -143,8 +129,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  Check if your headset mic is working. If this doesn’t give you luck, try the last solution below.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5:**Re-enable your headset mic via Device Manager**
 
  Even if you connect the headset to your PC correctly, sometimes your system just won’t recognize the device. You can manually disable then re-enable your headset in Device Manager to see if it helps:
@@ -152,14 +139,14 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 1. Press the**Windows logo key** and**R** on your keyboard to invoke the Run box.
 2. Type**devmgmt.msc** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-30-17.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 3. Under**Audio inputs and outputs** , right-click your headset then select**Disable Device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-08_10-05-22.jpg)
 4. Again right-click your headset, then select**Enable device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-08_10-10-34.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Check if your headset mic works.
 
@@ -181,8 +168,6 @@ Check if your headset mic works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +175,22 @@ Check if your headset mic works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/asy-tutorial-uploading-youtube-shorts-video-via-computer-and-phone-for-2024/"><u>[New] Easy Tutorial Uploading YouTube Shorts Video via Computer & Phone for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-in-depth-analysis-applying-luts-to-elevate-your-cinematography/"><u>[New] In-Depth Analysis Applying LUTs to Elevate Your Cinematography</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-precision-based-adjustments-for-maximum-impact-on-instagram-tv/"><u>[Updated] 2024 Approved Precision-Based Adjustments for Maximum Impact on Instagram TV</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-how-to-download-and-keep-your-favorite-fb-stories/"><u>[Updated] How to Download and Keep Your Favorite FB Stories</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-enhance-mobile-conversations-with-unique-whatsapp-alerts-for-ios-and-android/"><u>[Updated] In 2024, Enhance Mobile Conversations with Unique WhatsApp Alerts for iOS & Android</u></a></li>
+<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beat-popping-noise-in-your-logitech-g923-expert-advice-and-fixes-for-a-clearer-microphone-experience-in-2024-update/"><u>Beat Popping Noise in Your Logitech G923: Expert Advice & Fixes for a Clearer Microphone Experience in ⏰💻 | 2024 Update</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/echo-dot-vs-homepod-mini-showdown-unveiling-their-core-differences/"><u>Echo Dot Vs. HomePod Mini Showdown: Unveiling Their Core Differences</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-tozo-t6-errors-on-your-windows-11-machine-a-comprehensive-guide/"><u>Fixing Tozo T6 Errors on Your Windows 11 Machine - A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015968570-how-to-fix-facebook-video-has-no-sound-on-pc-2024-tips/"><u>How to Fix Facebook Video Has No Sound on PC – 2024 Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-waters-fixing-pc-sound-issues-for-seamless-communication-in-sea-of-thieves/"><u>Master the Waters: Fixing PC Sound Issues for Seamless Communication in Sea of Thieves</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-issues-with-the-turtle-beach-recon-70-headset-mic-a-detailed-approach/"><u>Resolving Issues with the Turtle Beach Recon 70 Headset Mic: A Detailed Approach</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/speedy-repairs-for-your-fortnite-voice-chat-glitches-a-step-by-step-guide/"><u>Speedy Repairs for Your Fortnite Voice Chat Glitches – A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-requesting-a-full-refund-on-your-steam-purchase/"><u>The Ultimate Guide to Requesting a Full Refund on Your Steam Purchase</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-techniques-to-restore-your-windows-7-microphone-functionality/"><u>Top Techniques to Restore Your Windows 7 Microphone Functionality</u></a></li>
+</ul></div>
 

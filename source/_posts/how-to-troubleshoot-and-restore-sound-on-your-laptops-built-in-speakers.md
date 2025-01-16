@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot and Restore Sound on Your Laptop's Built-In Speakers
-date: 2025-01-03T18:37:04.496Z
-updated: 2025-01-10T18:58:29.092Z
+date: 2025-01-12T16:01:00.137Z
+updated: 2025-01-16T16:02:58.421Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for speakers crackling
 
  All the screenshots below are from**Windows 10** , but the fixes also work in**Windows 7** .
@@ -44,6 +48,10 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 
@@ -51,18 +59,18 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -80,10 +88,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
@@ -97,7 +101,7 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Click the **High performance** option > **Change plan settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
@@ -105,10 +109,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
@@ -137,16 +137,24 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-best-dramatic-writing-site-for-2024/"><u>[New] Best Dramatic Writing Site for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-does-quick-subscribe-strategy-boost-audience-growth/"><u>[New] In 2024, Does Quick-Subscribe Strategy Boost Audience Growth?</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-a05s-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/individual-tracks-to-albums-building-a-personalized-soundtrack-on-web-and-mobile-for-2024/"><u>From Individual Tracks to Albums Building a Personalized Soundtrack on Web & Mobile for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/realtek-dacamp-fix-overcoming-the-no-sound-error-effectively/"><u>Realtek DAC/AMP Fix: Overcoming the No Sound Error Effectively</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/simple-steps-for-resolving-google-hangouts-microphone-problems-quickly/"><u>Simple Steps for Resolving Google Hangouts Microphone Problems Quickly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-silent-pc-post-windows-11-upgrade-simple-fixes/"><u>Solved: Silent PC Post-Windows 11 Upgrade - Simple Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-fixing-sudden-popping-audio-problems-on-windows/"><u>Step-by-Step Guide to Fixing Sudden 'Popping' Audio Problems on Windows</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-extracting-book-summary-data-from-excel-spreadsheets/"><u>Step-by-Step Guide: Extracting Book Summary Data From Excel Spreadsheets</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transforming-imagery-with-quantum-hdr/"><u>Transforming Imagery with Quantum HDR</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-how-to-write-compelling-podcast-narratives-and-examples-at-no-cost/"><u>[New] How to Write Compelling Podcast Narratives & Examples at No Cost</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-numbers-that-shook-youtube-facts-in-visual-form-2017/"><u>[New] Numbers that Shook! YouTube Facts in Visual Form (2017)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-precision-photography-and-videography-prime-lens-excellence-in-4k/"><u>[Updated] Precision Photography & Videography Prime Lens Excellence in 4K</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-subscription-surge-entry-into-monetization-realm/"><u>[Updated] Subscription Surge Entry Into Monetization Realm</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-pros-technique-for-consolidated-photo-and-video-upload-to-ig/"><u>[Updated] The Pro's Technique for Consolidated Photo and Video Upload to IG</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premiere-changes-for-images-pictureshift-genius/"><u>2024 Approved Premiere Changes for Images PictureShift Genius</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016869686-audio-disruption-diagnosis-and-fix-for-windows-710-users-say-goodbye-to-sound-issues/"><u>Audio Disruption Diagnosis & Fix for Windows 7/10 Users - Say Goodbye to Sound Issues</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-kobo-nia-test-drive-how-it-stacks-up-to-the-kindle-lineup/"><u>Comprehensive Kobo Nia Test Drive: How It Stacks Up to the Kindle Lineup</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-resolving-problems-with-your-logitech-g933-mic/"><u>Diagnosing and Resolving Problems with Your Logitech G933 Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repair-guide-resolving-hyperx-cloud-stinger-microphone-failures-effectively/"><u>DIY Repair Guide - Resolving HyperX Cloud Stinger Microphone Failures Effectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-pc-audio-issues-instantly-simple-solutions/"><u>Fix PC Audio Issues Instantly: Simple Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-rid-of-buzzing-noise-effortlessly-with-these-5-fixes-for-speakers/"><u>Get Rid of Buzzing Noise Effortlessly with These 5 Fixes for Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-eliminate-crackling-sounds-from-computer-speakers-a-guide-for-windows-117-users/"><u>How to Eliminate Crackling Sounds From Computer Speakers: A Guide for Windows 11/7 Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-guide-to-garmin-vivosmart-4-exploring-body-battery-and-stress-tracking-capabilities/"><u>In-Depth Guide to Garmin Vivosmart 4: Exploring Body Battery & Stress Tracking Capabilities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/my-reasons-for-choosing-the-light-phone-3-the-ultimate-minimalist-smartphone-with-unique-design/"><u>My Reasons for Choosing the Light Phone 3: The Ultimate Minimalist Smartphone with Unique Design</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/resolving-display-distortions-in-windows-with-yl-computings-proven-fixes/"><u>Resolving Display Distortions in Windows with YL Computing's Proven Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restarting-success-fixing-a-non-responsive-sound-blaster-microphone/"><u>Restarting Success: Fixing a Non-Responsive Sound Blaster Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-realtek-hd-audio-issue-why-your-program-isnt-starting-up/"><u>Solving the Realtek HD Audio Issue: Why Your Program Isn't Starting Up</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-what-to-do-when-phasmophobia-voice-communication-fails/"><u>Troubleshooting Guide: What to Do When Phasmophobia Voice Communication Fails</u></a></li>
 </ul></div>
 

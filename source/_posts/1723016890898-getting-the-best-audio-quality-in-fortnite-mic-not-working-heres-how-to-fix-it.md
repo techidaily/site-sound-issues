@@ -1,7 +1,7 @@
 ---
 title: "Getting the Best Audio Quality in Fortnite: Mic Not Working? Here's How to Fix It!"
-date: 2024-08-13T10:59:51.669Z
-updated: 2024-08-14T10:59:51.669Z
+date: 2025-01-09T07:45:10.745Z
+updated: 2025-01-16T15:24:47.124Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/4a91ae3eac077409c5986958190c10004fbc3c083
 ## Sound Blaster Mic Not Working? Here's How to Get It Running Smoothly Again
 
 You care about stunning sound quality but find that you can’t use the microphone. If you’re one of those who’re experiencing Sound Blaster microphone not working issues, you’ll learn how to fix it in this post.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -33,16 +37,10 @@ You care about stunning sound quality but find that you can’t use the micropho
  1) Press the**Microphone Control Button** once, and turn the**Volume Control Knob** (Red Light) right to increase the microphone’s volume.
 
 ![mic not working](https://images.drivereasy.com/wp-content/uploads/2021/04/knob-right-turn.jpg)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Check if your microphone is physically muted on your headset switch or inline mute. Sometimes you may accidentally flip mute.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/SRX3flipmute.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
  3) If you’re using a 6.3mm microphone, make sure that there’s no microphone connected to the 3.5mm microphone port and vice versa.
 
@@ -60,14 +58,18 @@ You care about stunning sound quality but find that you can’t use the micropho
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/option-on.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Scroll down to make sure the app you want to use can access your microphone.
 
  5) Test your microphone again.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Disable Direct Mode
 
  Enabling Direct Mode allows audio to output in its original form, directly from its original source, but your Mic doesn’t work in this mode. When direct mode is enabled it bypasses the SoundCore 3D chipset and therefore the mic path is not operational.
@@ -77,16 +79,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Or you can check**Playback** \>**Direct Mode** in Sound Blaster Command software, and make sure it’s turned**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/direct-mode.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 
  2) Go to the**Recording** tab, make sure the microphone is not muted in Sound Blaster Command and has an adequate volume level. Tick**Listen to this device** under**Microphone/Headset (Mic)** to verify Mic function.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/check.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ### 4\. Adjust Windows sound settings
 
@@ -95,9 +91,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  1) In the notification area, right-click the volume icon, and select**Sounds** .
 
 ![sounds settings](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Go to the**Recording** tab, choose**External Mic** . Set**Line In** as the default device if you’re using a Line-in source.
 
@@ -110,9 +103,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  5) Then go to the**Advanced** tab, and select**2 channel, 16 bit, 48000 Hz (DVD Quality)** for the**Default Format** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/check-all-boxes.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6) Check all the boxes below.
 
@@ -121,9 +111,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  If this method doesn’t do the trick, you can disable all enhancements by right-clicking your microphone, and then click**Properties** \>**Enhancements** . After disabling all enhancements, you can’t apply any processing to the mic via Sound Blaster Command.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Update audio drivers
 
  If you have tried these methods above but to no avail, you should update all your audio drivers. This can be done with the latest Windows Updates. However, you can’t rely on Windows to update ([Learn Why…](https://tools.techidaily.com/drivereasy/download/) ) to do the job for you. So to make sure all your audio drivers are up to date, you can do it in the following two ways:
@@ -138,12 +128,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/sound-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 
@@ -152,6 +143,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Reinstall Sound Blaster Command
 
  If the Sound Blaster mic not working persists, there might be some issues with your software.
@@ -159,6 +154,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  1) Before reinstalling your software, you can try resetting to factory default. Go to your Sound Blaster Command, and select**Settings** \> click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/reset-all.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) If the microphone issue persists, you can uninstall Sound Blaster Command.
 
@@ -183,8 +182,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +189,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-strategies-for-youtube-music-fusions/"><u>[Updated] Strategies for YouTube Music Fusions</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1-step-by-step-guide-switch-your-systems-interface-to-a-new-language-on-windows-yl-computing/"><u>1. Step-by-Step Guide: Switch Your System's Interface to a New Language on Windows - YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-black-remote-desktop-display/"><u>Addressing Window's Black Remote Desktop Display</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-solutions-for-fixing-voice-chat-glitches-in-pubg/"><u>Common Solutions for Fixing Voice Chat Glitches in PUBG</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easily-repair-audio-errors-dealing-with-the-no-response-from-audio-driver-complication/"><u>Easily Repair Audio Errors: Dealing with the 'No Response From Audio Driver' Complication</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-cold-weather-spectacle-of-beijing-2022/"><u>In 2024, The Cold-Weather Spectacle of Beijing 2022</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-auto-gpts-utility-can-it-stand-alone-or-requires-gpt-4-support-for-maximum-output/"><u>Navigating Auto-GPT's Utility: Can It Stand Alone or Requires GPT-4 Support for Maximum Output?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-common-issues-with-your-headsets-built-in-mic-that-wont-work/"><u>Solving Common Issues with Your Headset's Built-In Mic That Won’t Work</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-corporate-merge-unpacked-microsoft-brings-blizzard-in-house-ai-breakthroughs-in-art-creation-and-language-services-discussed-podcast-analysis/"><u>The Corporate Merge Unpacked: Microsoft Brings Blizzard In-House; AI Breakthroughs in Art Creation & Language Services Discussed [Podcast Analysis]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-free-solutions-for-a-malfunctioning-logitech-g633-mic/"><u>Trouble-Free Solutions for a Malfunctioning Logitech G633 Mic</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-and-ad-ds-strategies-for-printer-troubleshooting/"><u>Win11 & AD DS: Strategies for Printer Troubleshooting</u></a></li>
+</ul></div>
 

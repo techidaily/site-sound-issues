@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix for When Your Discord Voice Chat Stays Silent: PTT Problems Solved"
-date: 2024-08-13T11:00:08.689Z
-updated: 2024-08-14T11:00:08.689Z
+date: 2025-01-09T15:51:02.265Z
+updated: 2025-01-16T13:23:36.773Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ Are you have trouble using Push-To-Talk on Discord while playing a game? You’r
 
  In this guide, you’ll learn 4 easy methods to fix **Discord Push-To-Talk (PTT) not working** . Work your way down the list until you find the one that works.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. [Run as administrator](https://tools.techidaily.com/drivereasy/download/)
@@ -39,10 +36,11 @@ Here’s how:
 1. Quit Discord.
 2. Right-click on Discord shortcut and click**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-16_19-13-55.jpg)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Try to send an audio message on Discord by PTT to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you didn’t run your game as administrator, you can check other fixes.
 
@@ -60,8 +58,9 @@ Here’s how:
 5. Try to send an audio message on Discord by PTT to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your audio driver
 
  This glitch could be probably caused by an old, wrong or missing audio driver. You can solve it easily by updating your audio driver.
@@ -86,8 +85,9 @@ Here’s how:
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Uninstall newly installed programs
 
  If you have this issue after you newly update or install some programs, try to uninstall them, it may solve the problem. It’s possible that the third-party programs conflict with Discord and make trouble.
@@ -96,17 +96,20 @@ Uninstall the programs then check Discord.
 
 1. On your keyboard, press the **Windows logo**  key. Then, type **control**  and click **Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_19-01-56-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Under **View by** , click **Category** , and then select **Uninstall a program** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_19-04-24.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_19-04-24.jpg)
 3. Right-click **Discord**  and click **Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_19-04-30.jpg)
 4. Download and install **[](https://discordapp.com/) [Discord](https://discordapp.com/)**  . Check the ppt function again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -115,19 +118,15 @@ Uninstall the programs then check Discord.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -145,8 +144,6 @@ Uninstall the programs then check Discord.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +151,23 @@ Uninstall the programs then check Discord.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/2024-approved-how-to-record-films-seamlessly-across-tech-devices/"><u>2024 Approved How to Record Films Seamlessly Across Tech Devices</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-understanding-user-psychology-in-youtube-shorts-template-design/"><u>2024 Approved Understanding User Psychology in YouTube Shorts Template Design</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-confusion-solved-ensuring-sound-goes-to-headphones-not-speakers/"><u>Audio Confusion Solved: Ensuring Sound Goes to Headphones, Not Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016005374-effortless-audio-verification-master-the-art-of-microphone-tests/"><u>Effortless Audio Verification: Master the Art of Microphone Tests</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-correctly-configure-mystery-speakers-in-windows-10-os/"><u>Expert Tips to Correctly Configure Mystery Speakers in Windows 10 OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-resolving-headphone-malfunction-on-windows-11-devices/"><u>Guide: Resolving Headphone Malfunction on Windows 11 Devices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Realme 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-samsung-galaxy-f34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-dead-iphone-6s-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover data from dead iPhone 6s | Stellar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-on-a-paired-bluetooth-gadget-fixed/"><u>How to Restore Audio on a Paired Bluetooth Gadget [FIXED]</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to share/fake gps on Uber for Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-audio-problems-with-windows-11-effective-strategies-for-working-speakers/"><u>Resolving Audio Problems with Windows 11: Effective Strategies for Working Speakers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/cketing-your-youtube-business-the-famebit-approach-to-sponsorships-for-2024/"><u>Skyrocketing Your YouTube Business The FameBit Approach to Sponsorships for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-sims-4-graphics-fix-overcoming-display-issues-on-your-pc-or-mac/"><u>The Sims ^® 4 Graphics Fix: Overcoming Display Issues on Your PC or Mac</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-no-sound-problems-with-realteks-digital-connectivity-features/"><u>Troubleshooting and Repairing No-Sound Problems with Realtek's Digital Connectivity Features</u></a></li>
+</ul></div>
 

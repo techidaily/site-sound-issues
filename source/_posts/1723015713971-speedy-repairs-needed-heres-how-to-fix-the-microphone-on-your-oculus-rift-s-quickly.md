@@ -1,7 +1,7 @@
 ---
 title: Speedy Repairs Needed? Here's How to Fix the Microphone on Your Oculus Rift S Quickly!
-date: 2024-08-13T11:01:10.313Z
-updated: 2024-08-14T11:01:10.313Z
+date: 2025-01-12T19:22:30.446Z
+updated: 2025-01-16T01:06:13.935Z
 tags:
   - win11
   - win10
@@ -26,9 +26,6 @@ Is your **Corsair Void Mic Not Working** ? Don’t worry, it’s often quite eas
 3. **[Adjust your audio settings](https://tools.techidaily.com/drivereasy/download/)**
 4. [**Check for hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Allow access to microphone
 
  If your **Corsair Void microphone is not working** , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -38,8 +35,9 @@ Here’s how to do it:
  1) On your keyboard, press **the Windows logo key** and type microphone, then click on Microphone privacy settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d7eb4645.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Under the **Allow apps to access your microphon** e section, make sure the toggle is **On** so that you can allow apps access to your microphone.
@@ -49,9 +47,6 @@ Here’s how to do it:
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  4) Check your **Corsair Void headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, please try **Fix 2** , below.
 
@@ -71,11 +66,16 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -86,9 +86,6 @@ Here’s how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Adjust your audio settings
 
  Ideally Windows can automatically detect your microphone and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -98,21 +95,23 @@ Here is how to do it:
  1) Right-click on **the sound icon** on the lower-right of your computer screen, then click **Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13543b462f5.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click the **Recording** tab, then click on **Headset** **Microphone Corsair VOID Wireless Gaming Dongle** and click **Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-249.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If**Headset** **Microphone Corsair VOID Wireless Gaming Dongle** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 
  3) Click on **Headset** **Microphone Corsair VOID Wireless Gaming Dongle** and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-250.png)
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click the **Levels** tab, then drag **the Microphone slider** all the way to _its top_ and click **OK** .
@@ -145,8 +144,6 @@ Here is how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +151,18 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-delight-in-facebooks-forgotten-meme-kingdoms/"><u>[New] In 2024, Delight in Facebook's Forgotten Meme Kingdoms</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-step-by-step-guide-to-edges-pip-functionality/"><u>[Updated] 2024 Approved Step-by-Step Guide to Edge’s PIP Functionality</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-cutting-edge-tips-designing-immersive-educational-videos-for-online-learning-for-2024/"><u>[Updated] Cutting-Edge Tips Designing Immersive Educational Videos for Online Learning for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-art-of-influence-essential-marketing-expressions-explained/"><u>2024 Approved The Art of Influence Essential Marketing Expressions Explained</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-guide-troubleshooting-your-devices-failed-sound-verification-alert/"><u>Effortless Guide: Troubleshooting Your Device's Failed Sound Verification Alert</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-originality-of-knack-breaking-down-its-distinct-hero-in-a-familiar-setting/"><u>Evaluating the Originality of 'Knack': Breaking Down Its Distinct Hero in a Familiar Setting</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-tozo-t6-not-working-on-windows-11/"><u>How to Fix Tozo T6 Not Working on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-windows-11-audio-devices-working-again-fixes-included/"><u>How To Get Your Windows 11 Audio Devices Working Again [FIXES INCLUDED]</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-fresh-start-steps-to-full-factory-reset-on-your-windows-11-pc/"><u>Mastering the Fresh Start: Steps to Full Factory Reset on Your Windows 11 PC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-china-based-semiconductor-producer-pursues-enhanced-funding-for-195-billion-goal-ipo-deferred/"><u>Top China-Based Semiconductor Producer Pursues Enhanced Funding for $19.5 Billion Goal, IPO Deferred</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/turn-off-sound-improvement-features-on-your-windows-11-device/"><u>Turn Off Sound Improvement Features on Your Windows 11 Device</u></a></li>
+</ul></div>
 

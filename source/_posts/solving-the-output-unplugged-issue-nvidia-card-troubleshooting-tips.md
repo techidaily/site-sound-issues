@@ -1,7 +1,7 @@
 ---
 title: "Solving the 'Output Unplugged' Issue: Nvidia Card Troubleshooting Tips"
-date: 2024-08-13T11:00:16.582Z
-updated: 2024-08-14T11:00:16.582Z
+date: 2025-01-09T07:34:42.186Z
+updated: 2025-01-15T20:41:28.910Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/738b7371069538e959521966db00e5f006e9b11d9
 
  If your computer is having problems playing sound, and you receive the **One or more audio service isn’t running** error message, you’re not alone. Many Windows users have been reporting it. But the good news is you can fix it. This article gives you three fixes to try…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -32,25 +36,28 @@ thumbnail: https://thmb.techidaily.com/738b7371069538e959521966db00e5f006e9b11d9
  Whenever you encounter the **One or more audio service isn’t running** problem, the first thing you should do is make sure the service in question is running. Here’s how to check the status of your audio services:
 
 1. On your keyboard, press the**Windows logo** ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8ac86a6f5.png) **key** and **R** at the same time to invoke the Run box.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 2. Type**services.msc** and press**Enter** to open the**Services** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9f60971b1b9.png)
 3. Scroll down to and right-click**Windows Audio** , then select**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f04b48d3d.jpg)
 4. Double-click**Windows Audio** , make sure the **Service status** is**running** and the**Startup type** is set to**Automatic** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f0d59e995.jpg)
 5. Repeat step 3) and step 4) for**Windows Audio Endpoint Builder** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f2e4d5191.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f2290c014.jpg)
 6. Click**OK** , then close the Service window.
 7. Test by playing a song. If your problem still exists, try Fix 2, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio drivers
 
@@ -71,16 +78,14 @@ OR
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc075f35e6b9.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Check if your computer now plays music properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 3, below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Reinstall your audio drivers
 
  If the above steps didn’t work for you, you can also try reinstalling your audio drivers via Device Manager:
@@ -88,19 +93,15 @@ OR
 1. Press the **Windows logo key** and **R** simultaneously to open the Run box.
 2. Type **devmgmt.msc** and click**OK** to access Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f6f812df0.png)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Expand the **Sound, video and game controllers** category.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f7aec80f7.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 4. For each audio device under that category, right-click on it and select**Uninstall device** . Note: Click**Uninstall** if prompted for confirmation.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f91648965.png)
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f91648965.png)
 5. Restart your computer, then check if your problem is resolved.
 
 ---
@@ -117,8 +118,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +125,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-how-much-do-you-really-earn-the-podcaster-perspective-for-2024/"><u>[New] How Much Do You Really Earn? - The Podcaster Perspective for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-breakdown-of-profit-earning-potential-from-each-youtube-sponsored-post/"><u>2024 Approved Breakdown of Profit Earning Potential From Each YouTube Sponsored Post?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-repairing-your-turtle-beach-elite-atlas-microphone-malfunction/"><u>Expert Advice: Repairing Your Turtle Beach Elite Atlas Microphone Malfunction</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-the-most-out-of-in-game-communication-fixing-warzone-micvoice-chat-issues-on-both-pc-and-console-platforms/"><u>Getting the Most Out of In-Game Communication: Fixing Warzone Mic/Voice Chat Issues on Both PC & Console Platforms</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/high-quality-fb-videos-for-ff-browser-users/"><u>High-Quality FB Videos for FF Browser Users</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oneplus-ace-2-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-huawei-nova-y71-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Huawei Nova Y71 Is Unlocked</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-sports-viewership-in-the-digital-age/"><u>In 2024, Mastering Sports Viewership in the Digital Age</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/masterful-maneuvers-10-insider-secrets-for-excelling-at-subway-surfers/"><u>Masterful Maneuvers: 10 Insider Secrets for Excelling at Subway Surfers</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-in-2024-how-to-add-stickers-to-whatsapp-the-ultimate-guide/"><u>New In 2024, How to Add Stickers to WhatsApp-The Ultimate Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-noise-issues-in-your-headsets-say-goodbye-to-cracks-and-pop/"><u>Quick Fixes for Noise Issues in Your Headsets – Say Goodbye to Cracks & Pop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-troubleshooting-guide-how-to-get-sound-working-on-your-pc-again/"><u>Quick Troubleshooting Guide: How to Get Sound Working on Your PC Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-pcs-audio-functionality-a-comprehensive-solution-for-sound-loss-woes/"><u>Reviving Your PC's Audio Functionality: A Comprehensive Solution for Sound Loss Woes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/speedy-guide-to-correcting-the-audio-malfunction-test-tone-failure/"><u>Speedy Guide to Correcting the 'Audio Malfunction - Test Tone Failure'</u></a></li>
+<li><a href="https://win-superb.techidaily.com/step-by-step-guide-to-migrating-your-data-preserving-and-reviving-information-between-windows-7-and-windows-nten/"><u>Step-by-Step Guide to Migrating Your Data: Preserving and Reviving Information Between Windows 7 and Windows nTen</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-troubleshooting-eliminating-echo-on-discord-for-windows-users/"><u>Step-by-Step Troubleshooting: Eliminating Echo on Discord for Windows Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-onikuma-headsets-non-functional-mic-expert-advice/"><u>Troubleshooting Your Onikuma Headset's Non-Functional Mic - Expert Advice</u></a></li>
+</ul></div>
 

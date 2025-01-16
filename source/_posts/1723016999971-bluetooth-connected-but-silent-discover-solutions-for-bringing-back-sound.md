@@ -1,7 +1,7 @@
 ---
 title: Bluetooth Connected but Silent - Discover Solutions for Bringing Back Sound!
-date: 2025-01-05T21:43:37.700Z
-updated: 2025-01-10T21:47:06.538Z
+date: 2025-01-11T16:02:30.141Z
+updated: 2025-01-16T16:03:13.823Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 fixes for Bluetooth Connected But No Sound
 
  The screenshots below are from**Windows 10** , but the fixes also work in**Windows 8.1** and**7** .
@@ -37,7 +41,7 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Select the Bluetooth device as the default playback device
@@ -48,16 +52,8 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1c8bbf643.jpg)
 2. In the**Playback** tab, click on**your** **Bluetooth device** \>**Set Default** . Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d212718ff2.jpg)
 3. Play some music and see if this**Bluetooth Connected But No Sound** problem gets resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -68,10 +64,6 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 1. On your keyboard, press the **Windows logo key**  and type**sound** . Then click on**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1c8bbf643.jpg)
 2. In the**Playback** tab, click on**your** **Bluetooth device** \>**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d223cd2694.jpg)
 3. Click the Levels tab. Then make sure**the volume bar is dragged to an audible level** and the sound icon**isn’t muted** .  
@@ -91,11 +83,19 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ef3aff37fc.jpg)
 2. Double-click on**Bluetooth Support Service** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1e0590947.jpg)
 3. Select**Automatic** in the**Startup type** drop-down menu and then click**Start** to jumpstart the service. Then click**Apply** \>**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1ea8ed445.jpg)
 4. Play some music and test if your**Bluetooth Connected But No Sound** has been fixed. If it’s still no joy, please move on to F**ix 4,** below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -114,7 +114,7 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -126,7 +126,7 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
  4) Restart your computer, play some music and see if **Bluetooth Connected But No Sound**  problem has been resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Repair corrupted system files
@@ -165,14 +165,18 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-liberating-video-files-free-mp4-and-hd-from-facebook-posts-for-2024/"><u>[New] Liberating Video Files Free MP4 & HD From Facebook Posts for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-classic-cinema-in-paperback-examining-the-goofy-story-for-2024/"><u>[Updated] Classic Cinema in Paperback Examining 'The Goofy Story' For 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/conquer-your-computers-audio-problems-in-five-steps-tailored-for-windows-11/"><u>Conquer Your Computer's Audio Problems in Five Steps (Tailored for Windows 11)</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-depth-exploration-of-final-cut-pros-powerful-tools-and-features/"><u>In-Depth Exploration of Final Cut Pro’s Powerful Tools and Features</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016343201-mac-no-sound-dilemma-heres-how-to-get-the-audio-working-again/"><u>Mac No Sound Dilemma? Here's How to Get the Audio Working Again!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016876655-realtek-mic-issues-heres-how-to-restore-its-functionality/"><u>Realtek Mic Issues? Here's How to Restore Its Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-when-your-razer-kraken-mic-fails-to-function-properly/"><u>Solution Steps When Your Razer Kraken Mic Fails to Function Properly</u></a></li>
-<li><a href="https://win11.techidaily.com/usb-and-streaming-the-ultimate-guide-to-play-dvds-on-an-acer-laptop-running-windows-1011/"><u>USB and Streaming: The Ultimate Guide to Play DVDs on an Acer Laptop Running Windows 10/11</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-shareable-podcast-episodes-on-instagram-platforms/"><u>[New] 2024 Approved Shareable Podcast Episodes on Instagram Platforms</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-8-best-free-3d-video-player-for-window-and-mac/"><u>[New] 8 Best Free 3D Video Player for Window and Mac</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-charting-the-course-from-adsense-income-to-savings/"><u>[New] Charting the Course From AdSense Income to Savings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-guard-your-gallery-with-gratis-cloud-and-paid-storage-tiers/"><u>[Updated] Guard Your Gallery with Gratis Cloud & Paid Storage Tiers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-elite-video-call-and-chat-service-selections/"><u>[Updated] In 2024, Elite Video Call & Chat Service Selections</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/awaken-the-soundscapes-of-night-city-resolving-cyberpunk-2077s-muted-voices-on-windows-10-systems/"><u>Awaken the Soundscapes of Night City: Resolving Cyberpunk 2077'S Muted Voices on Windows 10 Systems</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/boosting-twitch-viewership-5-key-tactics/"><u>Boosting Twitch Viewership 5 Key Tactics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bypass-audio-troubles-in-audacity-a-guide-to-fixing-sound-device-issues-5-steps/"><u>Bypass Audio Troubles in Audacity: A Guide to Fixing Sound Device Issues [5 Steps]</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-poco-c51-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Poco C51 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-audio-on-your-mac-proven-techniques-to-restore-system-volume/"><u>No Audio on Your Mac? Proven Techniques to Restore System Volume</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-overwatch-voice-chat-glitches-push-to-talk-solutions-unveiled/"><u>Resolve Your Overwatch Voice Chat Glitches - Push-to-Talk Solutions Unveiled</u></a></li>
+<li><a href="https://discover-help.techidaily.com/stunning-mercedes-benz-cla-45-wallpaper-collections-by-yl-computing-high-quality-vehicle-imagery/"><u>Stunning Mercedes-Benz CLA 45 Wallpaper Collections by YL Computing - High Quality Vehicle Imagery</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-rated-retro-bluetooth-fm-transmitter-unveiled-a-complete-guide-to-the-nulaxy-km18-model/"><u>Top-Rated Retro Bluetooth FM Transmitter Unveiled: A Complete Guide to the Nulaxy KM18 Model</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Restore Audio: A Step-by-Step Guide to Playing FB Videos with Sound on Laptops/Desktops"
-date: 2024-08-13T11:00:36.360Z
-updated: 2024-08-14T11:00:36.360Z
+date: 2025-01-11T11:17:33.074Z
+updated: 2025-01-15T19:08:20.972Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/a2ba2cec543d3cb7d73549581bf87f628b1caa22c
 
 **Bluetooth audio lags** on your Windows PC? Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of users have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  Here’s a list of fixes that have resolved this problem for other users. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -31,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/a2ba2cec543d3cb7d73549581bf87f628b1caa22c
 6. **[Restart Windows audio service](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Try some easy troubleshooting tips
 
  Before we dive into other fixes, try some easy troubleshooting tips first.
@@ -56,10 +61,6 @@ See if Bluetooth audio lags or not. If not, try the next fix, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ### Fix 3: Run Windows audio playback troubleshooter
 
  The built-in Windows audio playback troubleshooter is a useful tool that can help you resolve audio playback issue. Follow the instructions below to run Windows audio playback troubleshooter:
@@ -67,23 +68,14 @@ See if Bluetooth audio lags or not. If not, try the next fix, below.
  1)**Right-click** the speaker icon at the bottom-right corner, then select **Troubleshoot sound problems** . You’ll be prompted for permission. Click **Yes** to run Windows audio playback troubleshooter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap187-5.png)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) In the pop-up window, click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap185-5.png)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Select your Bluetooth audio device and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap186-5.png)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Follow the on-screen instructions to troubleshoot the audio lag issue.
 
@@ -117,9 +109,6 @@ See if Bluetooth audio lags or not. If not, try the next fix, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Set your Bluetooth audio device as default audio playback device
 
  You may encounter this issue if your Bluetooth audio device is not the default audio playback device. Try setting it as default audio playback device to see if Bluetooth audio will lag or not. Here is how to do it:
@@ -127,18 +116,20 @@ See if Bluetooth audio lags or not. If not, try the next fix, below.
  1)**Right-click** the speaker icon at the bottom-right corner, then select **Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap188-5.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Navigate to the**Playback** tab. Select your Bluetooth audio device and click **Set Default** . Then click **OK** to save the changes and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap189-5.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 
  See if Bluetooth audio lag issue reappears. If this issue is not fixed, try the next fix to restart Windows audio service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Restart Windows audio service
 
@@ -151,17 +142,22 @@ See if Bluetooth audio lags or not. If not, try the next fix, below.
  2) Scroll down to locate**Windows Audio** . **Right-click** it and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap193-5.png)
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Under the**General** tab, if the service is disabled, click **Star** to enable it. For **Startup type** , select **Automatic** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap194-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Navigate to the**Recovery** tab. For **First failure** , select **Restart the Service** . Then click **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap195-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Locate the service**Windows Audio Endpoint Builder** . Follow step 3 and step 4 above to do the same thing for Windows Audio Endpoint Builder.
 
@@ -182,8 +178,6 @@ See if the audio lag issue reappears.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +185,26 @@ See if the audio lag issue reappears.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-riders-eye-view-unveiling-23s-finest-action-camera-hats-for-bike-enthusiasts/"><u>[New] 2024 Approved The Rider's Eye View – Unveiling '23’S Finest Action Camera Hats for Bike Enthusiasts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-essential-strategies-for-uploading-to-instagram-tv/"><u>[New] In 2024, Essential Strategies for Uploading to Instagram TV</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/c-based-video-editing-tips-for-youtube-success/"><u>[New] PC-Based Video Editing Tips for YouTube Success</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-cognitive-conclaves-educational-yt-powerhouses/"><u>[Updated] In 2024, Cognitive Conclaves Educational YT Powerhouses</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-love-ballads-ideal-tunes-for-a-heartfelt-proposal/"><u>2024 Approved Ultimate Love Ballads Ideal Tunes for a Heartfelt Proposal</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-connectivity-problems-in-your-logitech-g733-mic/"><u>Diagnosing and Fixing Connectivity Problems in Your Logitech G733 Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-fixing-laptop-speaker-issues-without-professional-help/"><u>Guide: Fixing Laptop Speaker Issues Without Professional Help</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Vivo Y27 5G? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-honor-x50i-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Honor X50i FRP Locks</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-monetizing-popularity-pay-per-million-views/"><u>In 2024, Monetizing Popularity Pay Per Million Views</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-samsung-galaxy-a14-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Samsung Galaxy A14 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-windows-media-player-sound-settings-avoid-silence-with-these-proven-fixes/"><u>Mastering Windows Media Player Sound Settings - Avoid Silence with These Proven Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-when-your-wow-voice-channels-go-silent/"><u>Quick Fixes for When Your WoW Voice Channels Go Silent</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-the-soundscape-expert-guides-for-restoring-sound-on-toshiba-laptops/"><u>Revive the Soundscape: Expert Guides for Restoring Sound on Toshiba Laptops</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-silent-hp-laptops-sounds-back-on/"><u>Step-by-Step Fix for Silent HP Laptops - Sounds Back On?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-restoring-functionality-to-your-steelseries-arctis-7s-microphone/"><u>Step-by-Step Tutorial: Restoring Functionality to Your SteelSeries Arctis 7'S Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-not-functional-world-of-warcraft-voice-communication/"><u>Troubleshooting Guide: Fixing 'Not Functional' World of Warcraft Voice Communication</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-turtle-beach-headset-mic-solutions-for-common-problems/"><u>Troubleshooting Your Turtle Beach Headset Mic: Solutions for Common Problems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-ais-frailty-the-process-and-implications-of-prompt-injection-attacks/"><u>Unraveling AI's Frailty - The Process and Implications of Prompt Injection Attacks</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fortnite Sound Problems? Here's How You Can Repair Your Microphone
-date: 2025-01-07T18:09:47.882Z
-updated: 2025-01-11T00:09:49.075Z
+date: 2025-01-15T16:01:52.302Z
+updated: 2025-01-16T16:05:00.551Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Is your **Corsair Void Mic Not Working** ? Don’t worry, it’s often quite eas
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes For**Corsair Void Mic Not Working**
 
  Here are 4 fixes that have helped other users resolve the mic not working on Corsair headset issue. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -36,7 +32,7 @@ Is your **Corsair Void Mic Not Working** ? Don’t worry, it’s often quite eas
 4. [**Check for hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Allow access to microphone
@@ -53,25 +49,17 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Check your **Corsair Void headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, please try **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -99,6 +87,10 @@ Here’s how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Adjust your audio settings
 
  Ideally Windows can automatically detect your microphone and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -119,9 +111,17 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-250.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click the **Levels** tab, then drag **the Microphone slider** all the way to _its top_ and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click **OK** to apply the changes in the windows.
 
@@ -158,16 +158,24 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-childhood-chariot-jamboree-fun/"><u>[Updated] 2024 Approved Childhood Chariot Jamboree Fun</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-choosing-the-best-portable-microphones-for-macos-users/"><u>[Updated] In 2024, Choosing the Best Portable Microphones for MacOS Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-fix-tutorial-when-your-bluetooth-mic-stops-responding/"><u>Comprehensive Fix Tutorial: When Your Bluetooth Mic Stops Responding</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/comprehensive-virtual-background-tips-a-complete-guide-with-manycam-solutions/"><u>Comprehensive Virtual Background Tips: A Complete Guide with ManyCam Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016754005-how-to-fix-voicemod-not-workingnot-opening-2024-tips/"><u>How to Fix Voicemod Not Working/Not Opening - 2024 Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-when-your-bose-sound-system-wont-power-on/"><u>Quick Fixes for When Your Bose Sound System Won't Power On</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-audio-experience-expert-tips-to-fix-broken-stereo-mixes/"><u>Reviving Your Audio Experience: Expert Tips to Fix Broken Stereo Mixes</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-repairing-voice-chat-connectivity-in-black-ops-cold-war-campaign/"><u>Solution Guide: Repairing Voice Chat Connectivity in Black Ops Cold War Campaign</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-magic-5-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Honor Magic 5 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unlocking-asmr-potential-professional-filming-practices-revealed-for-2024/"><u>Unlocking ASMR Potential Professional Filming Practices Revealed for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-definitive-guide-for-pc-mac-and-smartphone-movie-logging/"><u>[New] 2024 Approved The Definitive Guide for PC, Mac, and Smartphone Movie Logging</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-mastering-media-subtitles-transformation/"><u>[New] In 2024, Mastering Media Subtitles Transformation</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-90-gt-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-must-know-windows-10-tips-and-tricks/"><u>2024 Approved Must-Know Windows 10 Tips and Tricks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-overview-djis-ultra-hd-vr-flight-headsets/"><u>2024 Approved Overview DJI's Ultra-HD VR Flight Headsets</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-sustainable-practices-greening-urban-landscapes/"><u>2024 Approved Sustainable Practices Greening Urban Landscapes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-hs60-mic-repairs-addressing-the-unresponsive-audio-dilemma-effectively/"><u>Corsair HS60 Mic Repairs - Addressing the Unresponsive Audio Dilemma Effectively</u></a></li>
+<li><a href="https://article-files.techidaily.com/exploring-the-power-of-intova-x/"><u>Exploring The Power of Intova X</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-dells-muted-mic-or-silent-speakers-in-minutes/"><u>Fixing Dell's Muted Mic or Silent Speakers in Minutes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-muted-or-distorted-sounds-in-your-pc-running-windows-10/"><u>Fixing Muted or Distorted Sounds in Your PC Running Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-logitech-g90-mic-comprehensive-solutions-for-optimal-performance/"><u>Fixing Your Logitech G90 Mic: Comprehensive Solutions for Optimal Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functional-astro-a10-microphone-step-by-step-guide/"><u>How to Fix a Non-Functional Astro A10 Microphone: Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-csgo-communication-fix-your-broken-mic-now/"><u>Mastering CS:GO Communication - Fix Your Broken Mic Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/maximizing-speaker-volume-effective-methods-for-loud-sounds-in-windows-10/"><u>Maximizing Speaker Volume: Effective Methods for Loud Sounds in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-persistent-sound-interruption-problems-in-windows-10-step-by-step-fixes/"><u>Overcoming Persistent Sound Interruption Problems in Windows 10: Step by Step Fixes</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-5-free-online-tone-tools-for-easy-use/"><u>Top 5 Free Online Tone Tools for Easy Use</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-resident-evil-village-game-volume-glitches/"><u>Troubleshooting Resident Evil Village Game Volume Glitches</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-the-potential-of-netgear-nighthawk-x10-ad7200-a-comprehensive-router-evaluation/"><u>Unlocking the Potential of Netgear Nighthawk X10 (AD7200) – A Comprehensive Router Evaluation</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-canon-pixma-ts3322-driver-today-with-a-fresh-download/"><u>Update Your Canon PIXMA TS3322 Driver Today with a Fresh Download!</u></a></li>
 </ul></div>
 

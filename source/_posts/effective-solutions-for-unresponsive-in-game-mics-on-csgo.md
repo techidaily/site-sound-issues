@@ -1,7 +1,7 @@
 ---
 title: "Effective Solutions for Unresponsive In-Game Mics on CS:GO"
-date: 2025-01-07T21:47:00.475Z
-updated: 2025-01-10T18:36:33.309Z
+date: 2025-01-11T16:00:47.838Z
+updated: 2025-01-16T16:00:32.288Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Plug in and take out your headphone
 
  There is a small switch inside the headphone input jack on your laptop. When your plug in your headphone, the small switch would shut off the speakers. And when you unplug your headphone, the speakers should be turned on again.
@@ -45,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
  2) Plug your headphone in laptop and take it out rather quickly. Try it with different speeds and for several times.
 
  3) After those testing, see if the sound comes from your speakers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Update your speakers related drivers
 
@@ -72,10 +64,14 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Play a music or video on your laptop to see if the sound comes from the speakers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3\. Reset your sound controller
@@ -84,12 +80,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdf8f58307f.png)**  and **R**  (at the same time) to invoke the Run command.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **devmgmt.msc**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac1fec110a5a.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right-click on your sound card to choose**Disable device** .
@@ -107,7 +107,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c4fd4b764.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Play a music or video on your laptop to see if the sound comes from the speakers.
@@ -129,19 +129,17 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-clear-visuals-ahead-mastering-your-logitech-webcams-capabilities-for-2024/"><u>[New] Clear Visuals Ahead Mastering Your Logitech Webcam's Capabilities for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-mastering-twitter-promotions-essential-tips-for-2024/"><u>[Updated] Mastering Twitter Promotions Essential Tips for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ais-evolutionary-path-from-weak-to-robustness/"><u>AI's Evolutionary Path: From Weak to Robustness</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/clearing-up-the-buzz-essential-techniques-for-resolving-outriders-sound-malfunctions/"><u>Clearing Up the Buzz: Essential Techniques for Resolving Outriders Sound Malfunctions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-on-fixing-the-primary-audio-connection-in-your-gadget-step-by-step-guide/"><u>Expert Tips on Fixing the Primary Audio Connection in Your Gadget [Step-by-Step Guide]</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/get-timely-arrival-notifications-mastering-google-maps-eta-predictions/"><u>Get Timely Arrival Notifications - Mastering Google Maps' ETA Predictions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-solve-hdmi-usage-problems-when-devices-are-in-use-by-multiple-apps/"><u>How to Solve HDMI Usage Problems When Devices Are in Use by Multiple Apps</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-how-to-add-music-to-a-video-on-iphone-for-free/"><u>In 2024, How to Add Music to a Video on iPhone for FREE</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterclass-in-microsoft-essential-gratis-tools-for-win11/"><u>Masterclass in Microsoft: Essential Gratis Tools for Win11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-more-disturbance-5-effortless-fixes-for-speaker-buzz-sounds/"><u>No More Disturbance: 5 Effortless Fixes for Speaker Buzz Sounds</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-the-soundscape-of-borderlands-3-a-guide-for-pc-gamers-facing-sound-problems/"><u>Reviving the Soundscape of Borderlands 3: A Guide for PC Gamers Facing Sound Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-dead-microphones-on-hyperx-cloud-ii-xbox-one-controllers/"><u>Step-by-Step Fixes for Dead Microphones on HyperX Cloud II Xbox One Controllers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-tips-installing-the-correct-drivers-for-your-sandisk-ssd-device/"><u>Troubleshooting Tips: Installing the Correct Drivers for Your SanDisk SSD Device</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/understanding-subscription-tiers-youtube-tv-explained-for-2024/"><u>Understanding Subscription Tiers YouTube TV Explained for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-essential-low-cost-hd-cameras-for-sports-enthusiasts/"><u>[New] 2024 Approved Essential Low-Cost HD Cameras for Sports Enthusiasts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-solo-voices-that-echo-a-podcasters-pathway/"><u>[New] Solo Voices that Echo A Podcaster's Pathway</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-ultimate-rule-book-on-instagram-video-length-for-2024/"><u>[New] The Ultimate Rule Book on Instagram Video Length for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-send-gif-on-snapchat-stey-by-stey-guide/"><u>[Updated] How to Send Gif on Snapchat [Stey-by-Stey Guide]</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-palette-playbook-the-filmmakers-guide-to-grading/"><u>[Updated] Palette Playbook The Filmmaker's Guide to Grading</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dealing-with-mute-expert-solutions-to-restore-audio-output-in-laptops/"><u>Dealing with Mute: Expert Solutions to Restore Audio Output in Laptops</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dealing-with-voice-chat-disruptions-in-pubg-effective-quick-fixes/"><u>Dealing With Voice Chat Disruptions in PUBG: Effective Quick Fixes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/finding-the-perfect-screen-recorder-for-games-for-2024/"><u>Finding the Perfect Screen Recorder for Games for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-adding-a-pure-white-backdrop-to-your-images/"><u>Step-by-Step Guide: Adding a Pure White Backdrop to Your Images</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steps-to-correct-window-11s-troubled-bluetooth-performance-issues/"><u>Steps to Correct Window 11'S Troubled Bluetooth Performance Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/turn-up-the-volume-again-solving-mute-issues-in-borderlands-3-on-your-computer/"><u>Turn Up the Volume Again! Solving Mute Issues in Borderlands 3 on Your Computer</u></a></li>
 </ul></div>
 

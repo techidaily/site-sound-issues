@@ -1,7 +1,7 @@
 ---
 title: Revive the Mic on Your Oculus Rift S Without Delay - Pro Techniques
-date: 2025-01-03T19:01:14.204Z
-updated: 2025-01-10T22:00:10.672Z
+date: 2025-01-11T16:02:49.070Z
+updated: 2025-01-16T16:01:41.457Z
 tags:
   - win11
   - win10
@@ -46,15 +46,19 @@ thumbnail: https://thmb.techidaily.com/99fe81a7264fad21c10b59936e2340ed2f52f70dd
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-36-29-1.png)
 2. In the Windows audio settings window, navigate to**the Recording tab** , select the microphone you want to test and click**Configure** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-37-58.png)
 3. Click**Set up microphone** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-38-40.png)
 4. Select the correct type of your microphone and click**Next** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-39-30.png)
 5. Follow the**Microphone Setup Wizard** to configure your microphone. Close the wizard when it completes.  
@@ -62,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/99fe81a7264fad21c10b59936e2340ed2f52f70dd
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-40-26.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 2: Test your microphone
@@ -79,10 +83,6 @@ Follow the steps below to test your microphone in Windows audio settings:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2: Mic testing with the built-in Voice Recorder app
 
  You can also test your microphone using the built-in**Voice Recorder app** in Windows 10\. Here is how to do it:
@@ -95,19 +95,23 @@ Follow the steps below to test your microphone in Windows audio settings:
 3. Click**the stop button** to stop recording.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-46-27.png)
 4. Click the recording file to replay it. If your microphone is fine, you should be able to hear your voice clearly.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-47-16.png)
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Bonus tip: How to fix microphone not working on your computer?
 
@@ -125,10 +129,6 @@ Follow the steps below to test your microphone in Windows audio settings:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-48-18.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Alternatively if you’re comfortable manually installing drivers, you can click**Update** next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-49-09.png)
@@ -155,17 +155,24 @@ Follow the steps below to test your microphone in Windows audio settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-stop-video-capture-a-quicktime-guide/"><u>[New] In 2024, Stop Video Capture A QuickTime Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-download-youtube-thumbnail-in-3-ways-onlinewinmac/"><u>[Updated] 2024 Approved How to Download YouTube Thumbnail in 3 Ways [Online/Win/Mac]</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-essential-steps-for-mp3-streams-on-youtube-for-2024/"><u>[Updated] Essential Steps for MP3 Streams on Youtube for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-monitoring-your-instagram-exit-strategy-for-2024/"><u>[Updated] Monitoring Your Instagram Exit Strategy for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-11-how-to-unlock-a-disabled-apple-iphone-11-by-drfone-ios/"><u>Disabled Apple iPhone 11 How to Unlock a Disabled Apple iPhone 11?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-overwatch-voice-chat-push-to-talk-failures/"><u>Fixing the Issue: Overwatch Voice Chat (Push-to-Talk) Failures</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/integrating-soundscapes-with-fusion-studios-tips/"><u>Integrating Soundscapes with Fusion Studio's Tips</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210761541-9781622039043-leopard-warrior/"><u>Leopard Warrior | Free Book</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/lustrous-android-video-techniques-for-every-user/"><u>Lustrous Android Video Techniques for Every User</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-troubleshooting-a-step-by-step-guide-to-making-windows-11-speakers-functional/"><u>Mastering Troubleshooting: A Step-by-Step Guide to Making Windows 11 Speakers Functional</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-silent-logiteche-g933-headset-easily-with-these-tips/"><u>Resolve Silent Logiteche G933 Headset Easily with These Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restore-sound-on-your-gameplay-fixing-warzones-mute-dilemma/"><u>Restore Sound on Your Gameplay: Fixing Warzone's Mute Dilemma</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-how-to-make-money-on-youtube/"><u>[New] 2024 Approved How To Make Money on YouTube</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-scrutinizing-high-dynamic-range-insights-from-luminance/"><u>[Updated] Scrutinizing High Dynamic Range Insights From Luminance</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-v29e-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from V29e</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/browse-the-worlds-favorite-websites-a-must-see-list-of-top-picks/"><u>Browse the World's Favorite Websites: A Must-See List of Top Picks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-boosting-and-fixing-your-pcs-sound-output-in-windows-10/"><u>Expert Tips: Boosting and Fixing Your PC's Sound Output in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-cod-vanguards-voice-chat-issues-troubleshooting-steps-inside/"><u>Fixing Cod: Vanguard's Voice Chat Issues - Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s23-fe-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Samsung Galaxy S23 FE Phone without Any Data Loss</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-grandest-gatherings-a-chronicle-of-the-most-voted-posts-top-10/"><u>In 2024, The Grandest Gatherings A Chronicle of the Most Voted Posts (Top 10)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/inside-look-at-elgoog-insightful-reviews-and-features-of-the-top-mirror-site/"><u>Inside Look at ElgooG - Insightful Reviews and Features of the Top Mirror Site</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g2n30-headset-mic-problems-quick-solutions-that-actually-work/"><u>Logitech G2n30 Headset Mic Problems: Quick Solutions That Actually Work!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/rainbow-six-siege-update-a-guide-to-fixing-malfunctioning-voice-chat-features/"><u>Rainbow Six Siege Update : A Guide to Fixing Malfunctioning Voice Chat Features</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/remove-unwanted-persons-in-photos-with-no-cost-discover-how-using-movavis-simple-techniques/"><u>Remove Unwanted Persons in Photos with No Cost! Discover How Using Movavi's Simple Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-valorant-voice-chat-problems-with-these-quick-fixes/"><u>Resolve Your VALORANT Voice Chat Problems with These Quick Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-mic-during-skype-calls-on-windows-10-fixes-and-tips/"><u>Revive Your Mic During Skype Calls on Windows 10 – Fixes and Tips!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sound-blaster-mic-troubleshooting-quick-fixes-to-get-you-back-on-track/"><u>Sound Blaster Mic Troubleshooting: Quick Fixes to Get You Back on Track</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-jabra-earbuds-a-comprehensive-fix-it-guide/"><u>Troubleshooting Your Jabra Earbuds: A Comprehensive Fix-It Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-how-to-resolve-unrecognized-headphones-issue-during-audio-output-on-windows-10/"><u>Troubleshooting: How to Resolve Unrecognized Headphones Issue During Audio Output on Windows 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-fixing-fifa-20-pc-game-crashes-step-by-step-tutorial/"><u>Ultimate Guide: Fixing FIFA 20 PC Game Crashes - Step-by-Step Tutorial</u></a></li>
 </ul></div>
 

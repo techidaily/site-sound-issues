@@ -1,7 +1,7 @@
 ---
 title: "Fixing Issues: How to Restore Functionality of the LucidSound LS30 Microphone"
-date: 2025-01-04T16:21:43.010Z
-updated: 2025-01-10T16:10:48.248Z
+date: 2025-01-12T16:02:17.146Z
+updated: 2025-01-16T16:02:09.939Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Check your microphone device settings
 
  Your Turtle Beach mic may be disabled or not set as the default device on your computer. Or the microphone volume is set to a very low value so it can’t record your sound clearly. To check these settings:
@@ -45,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 **1) Hold down the Windows logo** **key**  and**press the R** **key** on your keyboard at the same time to bring up the Run dialog, then type “_**control**_ ” and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
@@ -55,24 +55,32 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Select the **Recording** tab, then right click on any empty place inside the device list and tick **Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)**  Right click the**Headset Microphone** and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)** Right click it again and select **Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)** Right click**Headset Microphone** and click**Properties** .
 
@@ -82,19 +90,11 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **9)** Click**OK** , then click**OK** .
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Update your audio drivers
 
@@ -148,19 +148,24 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-youtubes-journey-seamlessly-converted-into-high-quality-avis/"><u>[New] YouTube's Journey Seamlessly Converted Into High-Quality AVIs</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-master-your-fb-video-archive-with-1-5-choices/"><u>[Updated] 2024 Approved Master Your FB Video Archive with #1-5 Choices</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-navigating-skypes-ecosystem-essential-free-and-paid-recording-methods-windowsmac-for-2024/"><u>[Updated] Navigating Skype's Ecosystem Essential Free and Paid Recording Methods (Windows/Mac) for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/clipcreatorassessment-full-dissection-for-2024/"><u>ClipCreatorAssessment – Full Dissection for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-conference-call-audio-back-fixing-microsoft-teams-microphone-on-windows-platforms/"><u>Get Your Conference Call Audio Back: Fixing Microsoft Teams Microphone on Windows Platforms</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-non-functioning-voice-chat-on-phasmophobia/"><u>How to Troubleshoot Non-Functioning Voice Chat on Phasmophobia</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-oppo-a38-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Oppo A38 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-ideation-strategies-leveraging-mind-mapping-and-chatgpt-synergy/"><u>Innovative Ideation Strategies: Leveraging Mind Mapping and ChatGPT Synergy</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-latency-in-me-resolving-lag-and-frame-drops-on-your-playthrough/"><u>Overcoming Latency in ME: Resolving Lag and Frame Drops on Your Playthrough</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-a-malfunctioning-lucidsound-ls30-microphone/"><u>Troubleshoot and Repair a Malfunctioning LucidSound LS30 Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-issues-with-your-kotion-each-g2000-microphone/"><u>Troubleshooting Steps: Resolving Issues with Your Kotion EACH-G2000 Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-solutions-for-runmcw-gaming-headset-microphone-failure/"><u>Ultimate Solutions for RUNMCW Gaming Headset Microphone Failure</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211372456-9781921295928-what-happens-next/"><u>What Happens Next? | Free Book</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-an-insight-into-total-immersion-with-htc-vive-review/"><u>[New] An Insight Into Total Immersion with HTC Vive Review</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-breakneck-beats-short-track-highlights/"><u>[Updated] Breakneck Beats Short Track Highlights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hand-held-balance-for-sharp-images-for-2024/"><u>[Updated] Hand-Held Balance for Sharp Images for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-future-of-marketing/"><u>2024 Approved Unveiling the Future of Marketing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anticipated-innovations-in-visionos-the-ultimate-list-of-features-we-yearn-for-at-apples-upcoming-wwdc-event-tech-insights/"><u>Anticipated Innovations in VisionOS: The Ultimate List of Features We Yearn for at Apple’s Upcoming WWDC Event | Tech Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-the-no-sound-problem-in-conexant-smartaudio-hd-for-windows-11-users/"><u>Diagnosing and Repairing the No Sound Problem in Conexant SmartAudio HD for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-access-to-updated-drivers-for-amds-ati-radeon-hd-3450-graphics-card/"><u>Easy Access to Updated Drivers for AMD's ATI Radeon HD 3450 Graphics Card</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-strategies-for-correcting-sound-disruptions-in-windows-11-systems/"><u>Effective Strategies for Correcting Sound Disruptions in Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-restoring-audio-functionality-on-your-valorant-voice-call/"><u>Expert Advice: Restoring Audio Functionality on Your Valorant Voice Call</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-turtle-beach-mic-audio-on-any-device-successfully/"><u>How To Restore Turtle Beach Mic Audio on Any Device Successfully</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-solve-the-silent-modem-conexant-smartaudio-hd-fixes-under-windows-11/"><u>How to Solve the Silent Modem: Conexant SmartAudio HD Fixes Under Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/immerse-in-visual-creation-best-3d-model-and-rendering-tools-reviewed/"><u>Immerse in Visual Creation Best 3D Model & Rendering Tools Reviewed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-a-step-into-anti-time-original-techniques-to-rewind-yt-videos/"><u>In 2024, A Step Into Anti-Time Original Techniques to Rewind YT Videos</u></a></li>
+<li><a href="https://driver-download.techidaily.com/newest-generic-bluetooth-dongle-driver-downloads-for-windows-pcs/"><u>Newest Generic Bluetooth Dongle Driver Downloads for Windows PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-after-the-recent-windows-10-upgrade/"><u>Restoring Audio After the Recent Windows 10 Upgrade?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-to-get-your-jabra-headset-working-again-this-year/"><u>Step-by-Step Solutions to Get Your Jabra Headset Working Again This Year</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamlined-qanda-list-to-attract-podcast-audience/"><u>Streamlined Q&A List to Attract Podcast Audience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-getting-windows-7-speakers-working-again/"><u>Troubleshooting Guide: Getting Windows 7 Speakers Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-when-your-destiny-press-voice-chat-wont-work/"><u>Troubleshooting Tips for When Your Destiny Press Voice Chat Won't Work</u></a></li>
 </ul></div>
 

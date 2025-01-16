@@ -1,7 +1,7 @@
 ---
 title: How to Repair Microphone Functionality Issues in 'Sea of Thieves' (PC Version)
-date: 2024-08-13T11:02:14.166Z
-updated: 2024-08-14T11:02:14.166Z
+date: 2025-01-13T06:03:28.549Z
+updated: 2025-01-15T23:43:37.765Z
 tags:
   - win11
   - win10
@@ -27,9 +27,6 @@ If you’re using a Corsair headset but it’s not working as expected, i.e. no 
 4. **[Update the firmware](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall iCUE](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 1 – Troubleshoot hardware issues
 
  Before trying anything more complicated, you can do some troubleshooting via the steps below.
@@ -55,22 +52,24 @@ If you’re using a Corsair headset but it’s not working as expected, i.e. no 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/CORSAIR-HS60-HAPTIC-Gaming-Headset.png)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 4. After updating, restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Does the driver update get your Corsair headset back to work now? If not, take a look at more fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3 – Check the sound settings
 
@@ -78,18 +77,17 @@ If you’re using a Corsair headset but it’s not working as expected, i.e. no 
 
 1. In the Windows search box, type**control** and select**Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel-0.jpg)
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Select**Small icons** next to View by and click**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel-1.jpg)
 3. On the**Playback** tab, make sure your Corsair headset is enabled (covered with a green check mark). Then, click it and click**Set Default** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/sound-settings-3.jpg)
 4. Navigate to the**Recording** tab. Select the Corsair headset microphone and click**Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/sound-settings-4-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 5. Click**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/sound-settings-5.jpg)
 
@@ -103,13 +101,11 @@ If you’re using a Corsair headset but it’s not working as expected, i.e. no 
 2. Launch iCUE. If you don’t have one, **[download it](https://www.corsair.com/ww/en/icue)**  .
 3. Navigate to the**Settings** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-1-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Select your headset first, then check**Force update** and click the**Update** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firmware-update.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for the process to complete and see how your headset works. Still no luck with the firmware update? Don’t worry. Check out the last solution.
@@ -121,33 +117,39 @@ If you’re using a Corsair headset but it’s not working as expected, i.e. no 
 1. On your keyboard, press the**Windows logo** **key** and**R** at the same time to invoke the Run command. Then type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-0.jpg)
 2. Double-click**Audio inputs and outputs** to expand the list.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-1.jpg)
 3. Right-click your**Corsair device** and select**Uninstall device** . Make sure you’ve uninstalled the driver for both headset earphone and microphone.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Click**Uninstall** to confirm.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-3.jpg)
 5. Unplug the headset and restart your computer.
 6. On your keyboard, press the**Windows logo key** and**R** to open the Run command. Type**appwiz.cpl** in the text field and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-4.jpg)
 7. Select**iCUE** and click**Uninstall** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-5.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-5.jpg)
 8. Click**Yes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-6.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 9. Restart the computer and[download](https://www.corsair.com/ww/en/icue) the latest version of iCUE and install it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 10. Launch iCUE. Then replug your Corsair headset into the computer.
 
  After performing the whole reinstallation process as above, you should find the headset returns to normal.
@@ -166,8 +168,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +175,22 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-pigments-and-perceptions-mastering-image-colorization/"><u>[New] In 2024, Pigments & Perceptions Mastering Image Colorization</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-tactics-for-repeated-usernamepassword-alerts/"><u>Bypass Tactics for Repeated Username/Password Alerts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-back-in-the-game-expert-tips-to-repair-voice-chat-glitches-in-pubg/"><u>Get Back in the Game: Expert Tips to Repair Voice Chat Glitches in PUBG</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-iphone-12-pro-by-drfone-ios/"><u>How to Fix when Apple Account Locked From iPhone 12 Pro?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-the-cod-vanguard-voice-chat-malfunction-quickly/"><u>How to Resolve the COD: Vanguard Voice Chat Malfunction Quickly</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-s17t-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Vivo S17t Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-v27-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo V27 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/meme-makers-playbook-for-widespread-impact/"><u>Meme Makers' Playbook for Widespread Impact</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-quicktime-player-tutorial-speed-up-videos-on-windows-and-mac-computers/"><u>New QuickTime Player Tutorial Speed Up Videos on Windows and Mac Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-to-get-back-your-audio-dealing-with-no-sound-on-lenovo-devices/"><u>Quick Fixes to Get Back Your Audio: Dealing with No Sound on Lenovo Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-mic-woes-fix-it-now-five-essential-steps-for-headset-audio-troubleshooting-success/"><u>Razer Mic Woes? Fix It Now: Five Essential Steps for Headset Audio Troubleshooting Success</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723004159445-sea-of-thieves-launch-problems-heres-what-you-need-to-know/"><u>Sea of Thieves Launch Problems? Here's What You Need to Know!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-voice-communication-in-modern-warfare-online-play/"><u>Solved! How to Restore Voice Communication in Modern Warfare Online Play</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/speedy-troubleshooting-techniques-to-fix-the-mic-on-your-oculus-rift-s-whats-new/"><u>Speedy Troubleshooting Techniques to Fix the Mic on Your Oculus Rift S - What's New</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-restoring-your-overwatch-audio-chat-feature/"><u>Step-by-Step Solution: Restoring Your Overwatch Audio Chat Feature</u></a></li>
+</ul></div>
 

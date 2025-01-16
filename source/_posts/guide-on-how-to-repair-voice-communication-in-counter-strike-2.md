@@ -1,7 +1,7 @@
 ---
 title: Guide on How to Repair Voice Communication in Counter-Strike 2
-date: 2025-01-03T18:07:38.770Z
-updated: 2025-01-10T20:50:32.268Z
+date: 2025-01-10T16:05:54.564Z
+updated: 2025-01-16T16:00:27.878Z
 tags:
   - win11
   - win10
@@ -55,11 +55,7 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 4. Check to see if you can use the voice chat feature properly in game. If yes, then great! If it’s no joy, please move on to**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Configure the audio settings
@@ -72,27 +68,23 @@ You can follow the steps below to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/r.png)
 2. In**Playback** tab, make sure that your preferred headphone or speaker is set as**Default Device** . Then right-click on the default device ane click**Test** to make sure you can hear sound coming through the headset.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-2.png)
 3. Click the**Recording** tab. Then make sure that your preferred mic is set as**Default Device** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio-2.png)
 4. Speak into yout mic to test if the indicator bar on the right moves. If yes, your mic should be working properly. If it doesn’t, check your headphone device to make sure it’s not muted.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click the**Advanced**  tab. Under the **Default Format** section, choose a different sample rate and bit depth and click**Test** . Repeat this process until you find a format that works for you. After that, make sure the box for**Allow application to take exclusive control of this deviice** is**unticked** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/111-1.png)
 6. Once finished, click**Apply** \>**OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Test in WoW to see if you can communicate with your friends. If it still gives you no luck, you should try**Fix 4** , below.
 
@@ -109,8 +101,16 @@ You can follow the steps below to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Re-launch LoL, then test voice chatting with your friends to see if it solves the error.
@@ -135,15 +135,18 @@ You can follow the steps below to check:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-experts-choice-in-4k-capture-top-camera-list-for-2024/"><u>[New] Expert's Choice in 4K Capture Top Camera List for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-top-8-affordable-3d-videos-players-on-pcmac/"><u>[New] Top 8 Affordable 3D Videos Players on PC/Mac</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-on-resolving-issues-with-the-lucidsound-ls30-microphone/"><u>Expert Tips on Resolving Issues with the LucidSound LS30 Microphone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-cutting-through-the-clutter-youtubes-copyright-evolution/"><u>In 2024, Cutting Through the Clutter YouTube's Copyright Evolution</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/joining-the-dots-obs-and-zoom-pairing-explained/"><u>Joining the Dots OBS & Zoom Pairing Explained</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-fixing-the-issue-of-realtek-audio-out-no-sound/"><u>Solved: Fixing the Issue of Realtek AUDIO OUT - No SOUND</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/transformative-conversion-tracking-powered-by-the-innovations-of-cookiebot/"><u>Transformative Conversion Tracking Powered by the Innovations of Cookiebot</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016885317-troubleshooting-and-repairing-your-stereo-audio-problems-quickly/"><u>Troubleshooting and Repairing Your Stereo Audio Problems Quickly!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/voicemod-not-working-top-tips-for-successful-repair-and-optimization/"><u>Voicemod Not Working? Top Tips for Successful Repair & Optimization</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-deterrence-against-distractive-fb-video-ads/"><u>[New] 2024 Approved Deterrence Against Distractive FB Video Ads</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-choosing-between-two-titans-obs-and-bandicam/"><u>[New] In 2024, Choosing Between Two Titans OBS and Bandicam</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-solutions-for-launching-football-manager-2023-successfully/"><u>Easy Solutions for Launching Football Manager 2023 Successfully</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-troubleshoot-non-functional-speakers-on-your-laptop/"><u>Fixing the Issue: How to Troubleshoot Non-Functional Speakers on Your Laptop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-realtek-high-definition-audio-manager-wont-launch-issue/"><u>How to Fix Realtek High Definition Audio Manager Won't Launch Issue?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/improve-your-pcs-audio-by-disabling-the-enhancements-on-windows-11/"><u>Improve Your PC's Audio by Disabling the Enhancements on Windows 11</u></a></li>
+<li><a href="https://win-net.techidaily.com/repeated-computer-freezing-understanding-the-causes-and-solutions-yl-computing-experts/"><u>Repeated Computer Freezing: Understanding the Causes and Solutions - YL Computing Experts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-how-to-solve-sound-problems-in-cs-2s-in-game-communication/"><u>Resolved: How to Solve Sound Problems in CS 2'S In-Game Communication</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-obs-microphone-essential-tips-on-restoring-audio-and-recording-capabilities/"><u>Reviving Your OBS Microphone: Essential Tips on Restoring Audio and Recording Capabilities</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-resolve-mac-noise-issues-successfully/"><u>The Ultimate Guide to Resolve Mac Noise Issues Successfully</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-selection-of-airtag-wallets-detailed-analysis-and-ratings-by-gadget-professionals-zdnet/"><u>Ultimate Selection of AirTag Wallets : Detailed Analysis and Ratings by Gadget Professionals | ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-world-of-electronics-with-tom-a-guide-to-top-ranked-devices/"><u>Unveiling the World of Electronics with Tom - A Guide to Top-Ranked Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Motorola Edge 40? | Dr.fone</u></a></li>
 </ul></div>
 

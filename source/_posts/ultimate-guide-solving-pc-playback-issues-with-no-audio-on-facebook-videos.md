@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Solving PC Playback Issues with No Audio on Facebook Videos"
-date: 2024-08-13T10:58:09.282Z
-updated: 2024-08-14T10:58:09.282Z
+date: 2025-01-14T16:00:54.713Z
+updated: 2025-01-16T16:00:25.138Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/03aa98ead41db04bf63114eadc16ec748777a4353
 5. **[Set your Bluetooth audio device as default audio playback device](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Restart Windows audio service](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Try some easy troubleshooting tips
 
  Before we dive into other fixes, try some easy troubleshooting tips first.
@@ -57,9 +54,9 @@ See if Bluetooth audio lags or not. If not, try the next fix, below.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Run Windows audio playback troubleshooter
 
  The built-in Windows audio playback troubleshooter is a useful tool that can help you resolve audio playback issue. Follow the instructions below to run Windows audio playback troubleshooter:
@@ -67,9 +64,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  1)**Right-click** the speaker icon at the bottom-right corner, then select **Troubleshoot sound problems** . You’ll be prompted for permission. Click **Yes** to run Windows audio playback troubleshooter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap187-5.png)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  2) In the pop-up window, click **Next** .
 
@@ -78,9 +72,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  3) Select your Bluetooth audio device and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap186-5.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
 4) Follow the on-screen instructions to troubleshoot the audio lag issue.
 
@@ -88,9 +79,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update your Bluetooth driver
 
  If the Bluetooth driver on your PC is missing or outdated, you may run into Bluetooth audio lag issue. It is a good idea to update your Bluetooth driver to the latest version. By doing that, you can avoid many unexpected Bluetooth problems.
@@ -108,8 +96,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap14.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update** next to your Bluetooth device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
@@ -128,11 +117,16 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap188-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Navigate to the**Playback** tab. Select your Bluetooth audio device and click **Set Default** . Then click **OK** to save the changes and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap189-5.png)
+
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  See if Bluetooth audio lag issue reappears. If this issue is not fixed, try the next fix to restart Windows audio service.
@@ -145,23 +139,25 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap190-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Scroll down to locate**Windows Audio** . **Right-click** it and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap193-5.png)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Under the**General** tab, if the service is disabled, click **Star** to enable it. For **Startup type** , select **Automatic** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap194-5.png)
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Navigate to the**Recovery** tab. For **First failure** , select **Restart the Service** . Then click **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap195-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Locate the service**Windows Audio Endpoint Builder** . Follow step 3 and step 4 above to do the same thing for Windows Audio Endpoint Builder.
 
@@ -182,8 +178,6 @@ See if the audio lag issue reappears.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +185,21 @@ See if the audio lag issue reappears.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-breaking-barriers-the-best-pc-vr-headsets-of-2023/"><u>[New] In 2024, Breaking Barriers The Best PC VR Headsets of 2023</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-cyberspace-cinema-collector/"><u>[Updated] Cyberspace Cinema Collector</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-new-wave-of-virtual-reality-finger-tech/"><u>2024 Approved The New Wave of Virtual Reality Finger Tech</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ensuring-smooth-audio-streams-troubleshooting-bluetooth-issues-in-modern-microsoft-environments/"><u>Ensuring Smooth Audio Streams: Troubleshooting Bluetooth Issues in Modern Microsoft Environments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-non-functional-razer-barracuda-x-microphones-on-latest-windows-versions/"><u>Fixing Non-Functional Razer Barracuda X Microphones on Latest Windows Versions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-oneplus-ace-2-pro-easily-by-drfone-android/"><u>How To Unlock a OnePlus Ace 2 Pro Easily?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-expert-selections-of-innovative-vtuber-sound-tools/"><u>In 2024, Expert Selections of Innovative Vtuber Sound Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/microsofts-flagship-tablet-reviewed-the-surface-pro-amazes-in-style-but-its-ai-offerings-leave-room-for-improvement/"><u>Microsoft's Flagship Tablet Reviewed: The Surface Pro Amazes in Style, but Its AI Offerings Leave Room for Improvement</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/rapid-route-to-reclaimed-reddit-articles-for-2024/"><u>Rapid Route to Reclaimed Reddit Articles for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/shutter-smarts-expert-tips-for-photo-enhancement/"><u>Shutter Smarts Expert Tips for Photo Enhancement</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silence-is-golden-eliminating-unwanted-popping-noises-in-windows-systems/"><u>Silence Is Golden: Eliminating Unwanted Popping Noises in Windows Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014719577-sound-blaster-mic-not-working-heres-how-to-get-it-running-smoothly-again/"><u>Sound Blaster Mic Not Working? Here's How to Get It Running Smoothly Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-why-your-headphones-wont-appear-as-output-options-on-windows-10/"><u>Troubleshooting Guide: Why Your Headphones Won't Appear as Output Options on Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/whats-new-in-windows-insight-on-july-2024-service-packs-and-patches/"><u>What's New in Windows: Insight on July 2024 Service Packs & Patches</u></a></li>
+</ul></div>
 

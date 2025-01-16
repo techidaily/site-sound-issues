@@ -1,7 +1,7 @@
 ---
 title: How to Fix Your Jabra Earpiece When It Stops Responding (Guide)
-date: 2025-01-06T16:35:32.487Z
-updated: 2025-01-10T18:08:51.008Z
+date: 2025-01-12T16:01:43.876Z
+updated: 2025-01-16T16:03:50.824Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Feel vexing about Zoom audio not working? You’re not alone. This is incredibly
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Causes of the Zoom audio not working issue
 
 * Your mic is not connected firmly.
@@ -40,6 +44,10 @@ Feel vexing about Zoom audio not working? You’re not alone. This is incredibly
 3. [Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 4. [Reinstall Zoom](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow access to your microphone
 
  There are chances that the Zoom app is not allowed to access your audio device, and encounter the Zoom audio not working problem. Follow the steps to fix the problem.
@@ -48,28 +56,20 @@ Feel vexing about Zoom audio not working? You’re not alone. This is incredibly
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/privacy.jpg)
 2. In the left pane, scroll down to find**Microphone** . Click**Change** , and make sure Microphone access for this device is on.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-21_12-01-05.jpg)
 3. Check Allow apps to access your microphone, make sure the toggle is on.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-21_11-59-51.jpg)
 4. Scroll down to the**Allow desktop apps to access your microphone** section, and make sure you’ve**turned on** this setting.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-21_12-03-38.jpg)
 5. You’ve finished granting the access. Restart Zoom and check Zoom audio not working issue is solved or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Check your microphone settings
 
@@ -79,22 +79,22 @@ Feel vexing about Zoom audio not working? You’re not alone. This is incredibly
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 2. In Control Panel, select **Large icons** from the **View by** drop-down menu. Then, click**Sound.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-21_15-47-32.jpg)
 3. Click the**Recording** tab. Then, right-click on any empty area and tick**Show Disabled Devices** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dc36f136c6.jpg)
 4. Make sure your microphone is enabled. If not, right-click it and click**Enable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4daac96f5e7.jpg)
 5. Check if your microphone is set as the default device. If not, click it and click**Set Default** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
 6. Right-click your microphone and click**Properties** .  
@@ -102,17 +102,21 @@ Feel vexing about Zoom audio not working? You’re not alone. This is incredibly
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
 7. Select the**Levels** tab. If your microphone is muted, click the**speaker icon** to unmute it. Then, drag the slider to**set the microphone volume to the max** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4db71801655.jpg)
 8. Click**OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The microphone of your headset is enabled and set as the default device. Take a mic test on Zoom to check the audio not working issue is solved or not.  
  If the issue persists, please move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio drivers
 
@@ -131,10 +135,6 @@ Feel vexing about Zoom audio not working? You’re not alone. This is incredibly
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -176,17 +176,18 @@ Feel vexing about Zoom audio not working? You’re not alone. This is incredibly
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-effortless-conversion-youtube-videos-to-mac-ratio/"><u>[New] In 2024, Effortless Conversion Youtube Videos to Mac Ratio</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-advanced-photo-manipulation-focus-on-content-not-backdrop/"><u>[Updated] Advanced Photo Manipulation Focus on Content, Not Backdrop</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-pioneering-your-place-with-premium-desktop-tiktok-videos/"><u>[Updated] In 2024, Pioneering Your Place with Premium Desktop TikTok Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-sjcam-sj6-legend-vs-xiaomi-yi-4k/"><u>2024 Approved SJCam SJ6 Legend VS Xiaomi Yi 4K</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-8-best-no-cost-html-code-editors-available-for-windows/"><u>Discover the 8 Best No-Cost HTML Code Editors Available for Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-guide-fixing-a-non-functional-microphone-on-windows-11-devices/"><u>Expert Guide: Fixing a Non-Functional Microphone on Windows 11 Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-to-fix-your-iphones-noisy-trouble-clearing-up-distorted-speakers/"><u>Expert Tips to Fix Your iPhone's Noisy Trouble - Clearing Up Distorted Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-to-fix-speaker-not-producing-sound-despite-being-connected-on-a-windows-machine/"><u>Guide to Fix 'Speaker Not Producing Sound' Despite Being Connected on a Windows Machine</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-sound-in-windows-10-for-anthem-game-effective-solutions/"><u>Restoring Sound in Windows 10 for Anthem Game: Effective Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solutions-for-fixing-corsairs-virtuoso-microphone-when-it-stops-working/"><u>Solutions for Fixing Corsair's Virtuoso Microphone When It Stops Working</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/ultimate-guide-to-duplicating-your-mnvmessd-exploring-two-prime-approaches/"><u>Ultimate Guide to Duplicating Your M.nvme.ssd: Exploring Two Prime Approaches</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-oppo-reno-11f-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Oppo Reno 11F 5G Phones</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-cure-for-disconnected-channels-in-obs/"><u>[New] In 2024, Cure for Disconnected Channels in OBS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-isolating-visual-snapshots-from-videos-using-the-windows-10-photos-tool/"><u>[Updated] 2024 Approved Isolating Visual Snapshots From Videos Using the Windows 10 Photos Tool</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-samsung-galaxy-m14-4g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-motorola-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Motorola</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/insta-to-tik-flow-guidebook/"><u>Insta to Tik Flow Guidebook</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-find-n3-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Find N3 Phone FRP Lock</u></a></li>
+<li><a href="https://driver-download.techidaily.com/overcoming-ralink-rt3290-driver-challenges-in-windows-11-8-and-7-expert-solutions/"><u>Overcoming Ralink RT3290 Driver Challenges in Windows 11, 8 & 7: Expert Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pc-sound-troubleshooting-tips-how-to-eliminate-no-audio-situations-effortlessly/"><u>PC Sound Troubleshooting Tips: How to Eliminate No Audio Situations Effortlessly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-silent-battlefield-4-issue-ultimate-guide-to-restoring-sounds/"><u>Solving the Silent Battlefield 4 Issue: Ultimate Guide to Restoring Sounds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steams-voice-chat-malfunctions-top-tips-to-restore-functionality/"><u>Steam's Voice Chat Malfunctions: Top Tips to Restore Functionality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-transferring-your-dvd-collection-to-an-emby-media-streamer/"><u>Step-By-Step Guide: Transferring Your DVD Collection to an Emby Media Streamer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-a-non-functional-razer-man-o-war-mic/"><u>Troubleshooting Steps for a Non-Functional Razer Man O' War Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/winning-the-battle-against-silence-restoring-audio-functionality-on-windows-11-pcs/"><u>Winning the Battle Against Silence: Restoring Audio Functionality on Windows 11 PCs</u></a></li>
 </ul></div>
 

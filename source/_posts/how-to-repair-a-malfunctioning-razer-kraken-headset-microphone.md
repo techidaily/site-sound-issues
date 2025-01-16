@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Malfunctioning Razer Kraken Headset Microphone
-date: 2025-01-06T19:04:49.523Z
-updated: 2025-01-10T17:41:39.643Z
+date: 2025-01-14T16:03:06.565Z
+updated: 2025-01-16T16:04:11.084Z
 tags:
   - win11
   - win10
@@ -45,7 +45,7 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 2. Go to the**Recording** tab and set your headset as the default device. Your device should be displayed as**Corsair Virtuoso** and shows strong signals when you speak.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
@@ -58,6 +58,10 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 5. Click**OK** .
 
  Now you can test your microphone by recording your own voice using some voice apps such as Voice Recorder. If the Virtuoso mic works now, you can just join a league and enjoy talking with your teammates. But if the Corsaire mic is still not working, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Re-installing drivers
 
@@ -74,21 +78,21 @@ There are mainly two ways for you to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now.jpg)
 3. Click the**Update** button next to the flagged**Corsaire Virtuoso** driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/gaming-headset.jpg)
 4. Reboot your PC for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance or the issue persists after updating all the drivers, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Change to DVD quality
 
@@ -105,18 +109,10 @@ There are mainly two ways for you to do this:
 4. Go to the**Advanced** tab, and select**DVD Quality** in the**Default Format** section. ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-format.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Let Windows find the problem for you
 
@@ -125,6 +121,11 @@ There are mainly two ways for you to do this:
 1. Right-click the volume button in the notification area, and select**Troubleshoot sound problems** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/troubleshoot.jpg)
 2. Follow the instructions given in the popped-up Help window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. You may need to restart your computer for the changes to take effect.
 
 ---
@@ -150,17 +151,18 @@ There are mainly two ways for you to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-navigating-the-social-landsayer-how-to-spark-fb-engagement/"><u>[New] In 2024, Navigating the Social Landsayer How to Spark FB Engagement</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ltimate-guide-to-best-youtube-banner-size-and-channel-art-dimension-for-2024/"><u>[New] Ultimate Guide to Best YouTube Banner Size and Channel Art Dimension for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/beat-the-noise-expert-advice-on-removing-unwanted-sounds-from-headphones/"><u>Beat the Noise: Expert Advice on Removing Unwanted Sounds From Headphones</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/die-top-strategien-um-mov-videos-effektiv-zu-komprimieren-und-ihre-grosse-fur-die-webnutzung-zu-reduzieren/"><u>Die Top Strategien, Um MOV-Videos Effektiv Zu Komprimieren Und Ihre Größe Für Die Webnutzung Zu Reduzieren</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-voice-back-in-action-overcoming-voip-issues-in-call-of-dutys-modern-warfare/"><u>Get Your Voice Back in Action: Overcoming VOIP Issues in Call of Duty's Modern Warfare</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-unresponsive-skype-mic-in-windows-11-step-by-step/"><u>How to Repair Unresponsive Skype Mic in Windows 11 - Step by Step</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-no-sound-from-microphone-during-skype-calls-windows-11/"><u>How to Resolve No Sound From Microphone During Skype Calls (Windows 11)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-revolutionary-viewfinder-unstoppable-video-meet-the-xs-100i/"><u>In 2024, Revolutionary Viewfinder, Unstoppable Video - Meet the XS 100I</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-vivo-y77t-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Vivo Y77t Location | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/perfecting-windows-11-defense-adding-customizable-filter-options-to-context-menu/"><u>Perfecting Windows 11 Defense: Adding Customizable Filter Options to Context Menu</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-audio-issues-on-windows-11-with-these-five-essential-steps/"><u>Troubleshoot Audio Issues on Windows 11 with These Five Essential Steps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-solution-for-black-desert-pc-stability-no-more-frustrating-freezes/"><u>Ultimate Solution for Black Desert PC Stability: No More Frustrating Freezes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-navigating-screen-sharing-in-google-meet-mobiledesktop-for-2024/"><u>[Updated] Navigating Screen Sharing in Google Meet Mobile/Desktop for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728491393350-usb/"><u>「USBデバイスの安全な除去を忘れてしまった場合、何が起こるかについての深掘り解明」</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-sizzling-sound-in-earbuds-simple-solutions-for-noise-free-listening/"><u>Fix Sizzling Sound in Earbuds: Simple Solutions for Noise-Free Listening!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/free-iphones-masterclass-perfect-your-pictures-with-simple-edits/"><u>FREE iPhones Masterclass Perfect Your Pictures with Simple Edits</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-destiny-2-voice-chat-up-and-running-solutions-inside/"><u>Get Your Destiny 2 Voice Chat Up and Running - Solutions Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-sound-back-fix-voice-chat-and-microphone-malfunctions-on-pc-and-consoles-for-call-of-dutys-battle-royale-game/"><u>Get Your Sound Back: Fix Voice Chat and Microphone Malfunctions on PC & Consoles for Call of Duty's Battle Royale Game</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-iphone-15-pro-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On iPhone 15 Pro If Youve Tried Everything</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-astro-a50s-nonfunctional-mic-easily/"><u>How to Repair Your Astro A50's Nonfunctional Mic Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-fixing-obs-audio-gear-malfunctions/"><u>How to Restore Functionality: FIXing OBS Audio Gear Malfunctions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/mastering-typography-and-layout-the-top-10-for-ae-for-2024/"><u>Mastering Typography & Layout The Top 10 For AE for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-video-editing-smackdown-adobe-premiere-pro-takes-on-after-effects-for-2024/"><u>New Video Editing Smackdown Adobe Premiere Pro Takes on After Effects for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-solutions-for-resolving-test-tone-not-working-mishaps/"><u>Simple Solutions for Resolving 'Test Tone Not Working' Mishaps</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-new-era-with-samsung-galaxy-s21-a-strategic-shift/"><u>Unveiling the New Era with Samsung Galaxy S21: A Strategic Shift</u></a></li>
 </ul></div>
 

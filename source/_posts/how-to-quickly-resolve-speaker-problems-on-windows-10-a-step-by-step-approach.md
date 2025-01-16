@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Resolve Speaker Problems on Windows 10 - A Step-by-Step Approach
-date: 2024-08-13T11:00:59.727Z
-updated: 2024-08-14T11:00:59.727Z
+date: 2025-01-09T02:38:49.538Z
+updated: 2025-01-16T09:47:25.472Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 
  If you’re having audio issues on your**PS4** , check[](https://tools.techidaily.com/drivereasy/download/) **[here](https://tools.techidaily.com/drivereasy/download/)**  .  
  If you’re on Xbox, check[**here**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -44,21 +48,23 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 **1)** On your keyboard, press the**Windows logo** key and type**troubleshoot settings** . Then, click**Troubleshoot settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-322.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 
 **2)** Click**Playing Audio** , then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-323.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Follow the on-screen instructions to troubleshoot your problem.
 
 If Windows fails to detect your issue, move on and try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your audio driver
 
  If you can’t hear any sound while gaming on Apex Legends, chances are that you’re using a wrong or outdated audio driver. It’s essential that you have the latest correct audio driver at all times.
@@ -102,8 +108,9 @@ OR
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Restart Windows Audio Services
 
  Some audio issues can also be addressed by restarting Windows Audio Services. To see if that works for you, follow the instructions below:
@@ -111,9 +118,6 @@ OR
 **1)** On your keyboard, press the**Windows logo** key and type**services** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-324.png)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 
 **2)** Right-click**Windows Audio** , then select**Restart** .
 
@@ -124,8 +128,9 @@ OR
  This should allow you to hear Apex Legends and everything else. If your issue still exists, don’t fret. There is still one more fix to try.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Reinstall Apex Legends
 
  If none of the fixes above helped, reinstalling Apex Legends is very likely the solution to your issue. Here is how to do it:
@@ -135,9 +140,6 @@ OR
 **2)** Click**My Game Library** , right-click**Apex Legends** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-327.png)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** After your game is uninstalled, restart your computer.
 
@@ -158,8 +160,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +167,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/resolved-bsod-due-to-dxgkrnlsys-on-windows/"><u>[Resolved]: BSOD Due to dxgkrnl.sys on Windows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-how-to-make-killer-youtube-channel-art-for-2024/"><u>[Updated] How to Make Killer YouTube Channel Art for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-honor-x50-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Honor X50</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-correcting-outriders-audio-malfunctions/"><u>Effective Solutions for Correcting Outriders' Audio Malfunctions</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/effective-strategies-for-recovering-misplaced-documents-on-your-windows-11-system/"><u>Effective Strategies for Recovering Misplaced Documents on Your Windows 11 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminate-silence-expert-advice-for-addressing-it-takes-two-voice-issues-on-desktops/"><u>Eliminate Silence: Expert Advice for Addressing It Takes Two Voice Issues on Desktops</u></a></li>
+<li><a href="https://fox-where.techidaily.com/fixing-windows-11s-broken-search-feature-expert-solutions-revealed-now/"><u>Fixing Windows 11'S Broken Search Feature? Expert Solutions Revealed Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-most-recent-d-link-driver-software-for-your-pc-tips-and-tricks/"><u>Get the Most Recent D-Link Driver Software for Your PC - Tips & Tricks!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-zoom-sounds-back-fixing-audio-problems-on-windowsmac/"><u>Getting Your Zoom Sounds Back: Fixing Audio Problems on Windows/Mac</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-hacker-tutorial-resolve-black-ops-cold-war-sound-problems-on-windows-and-linux-systems/"><u>Master Hacker Tutorial: Resolve Black Ops Cold War Sound Problems on Windows and Linux Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-decision-9-key-questions-before-buying-an-ev/"><u>Navigating the Decision: 9 Key Questions Before Buying an EV</u></a></li>
+<li><a href="https://games-able.techidaily.com/peak-performance-high-end-xbox-streaming-kits/"><u>Peak Performance: High-End Xbox Streaming Kits</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-logitech-g533-headset-microphone-problems-step-by-step-solutions/"><u>Resolve Your Logitech G533 Headset Microphone Problems - Step-by-Step Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-for-resolving-non-functional-voice-communication-in-call-of-duty-vanguard/"><u>Solution Steps for Resolving Non-Functional Voice Communication in Call of Duty: Vanguard</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-is-my-google-chrome-quiet-fixing-the-silence-issue-step-by-step/"><u>Why Is My Google Chrome Quiet? Fixing the Silence Issue Step by Step</u></a></li>
+</ul></div>
 

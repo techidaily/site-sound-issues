@@ -1,7 +1,7 @@
 ---
 title: How to Get Your AirPods Mic Working Again on Windows 11 Computers
-date: 2025-01-08T18:45:34.229Z
-updated: 2025-01-10T22:37:48.023Z
+date: 2025-01-09T16:03:02.435Z
+updated: 2025-01-16T16:02:35.613Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
 
 ###
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure Microphone is set to On for Skype (Windows 10 users)
 
  If you’re running Skype on**Windows 10** , firstly please check if the Microphone is set to **On**  for Skype in the Privacy settings.
@@ -48,17 +44,17 @@ Follow these:
 3. Click**Microphone** on the left pane. Check if the status is**On**  for Skype.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
 
-###
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+###
 
 ### Fix 2: Adjust the audio settings on Skype
 
@@ -71,6 +67,10 @@ Follow these:
 
 ###
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your sound card driver
 
  Skype Microphone not working problem can be also cause by the incorrect or outdated sound card driver. The solutions above may solve the problem, but if they don’t, please update your sound card driver.
@@ -82,11 +82,11 @@ Follow these:
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 4. Restart your computer and run Skype to see if your Microphone works.
 
-###
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+###
 
 ### Fix 4: Restart Windows audio service
 
@@ -96,7 +96,7 @@ Follow these:
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Log in Skype and check to see if your Microphone works.
@@ -118,14 +118,20 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-when-your-logitech-g230-mic-stops-functioning/"><u>Effective Solutions for When Your Logitech G230 Mic Stops Functioning</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/enhancing-your-gaming-soundscape-in-outriders-expert-advice-on-clearing-up-audio-hitches/"><u>Enhancing Your Gaming Soundscape in Outriders: Expert Advice on Clearing Up Audio Hitches</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-secrets-to-sustainable-earning-with-online-videos/"><u>In 2024, Secrets to Sustainable Earning with Online Videos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-windows-10-users-with-nonworking-headset-devices/"><u>Quick Fixes for Windows 10 Users with Nonworking Headset Devices</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolve-sims-white-screens-quickly/"><u>Resolve Sims' White Screens Quickly</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ces-2023-innovations-to-track-exploring-the-metaverse-futuristic-healthcare-and-beyond/"><u>Top CES 2023 Innovations to Track: Exploring the Metaverse, Futuristic Healthcare & Beyond</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-pitfalls-when-ai-powered-chatbots-attempt-to-generate-legitimate-windows-11-product-keys/"><u>Understanding the Pitfalls: When AI-Powered Chatbots Attempt to Generate Legitimate Windows 11 Product Keys</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-kids-in-the-directors-chair-a-fun-and-interactive-guide-to-movie-making/"><u>Updated 2024 Approved Kids in the Directors Chair A Fun and Interactive Guide to Movie Making</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-11-audio-improvement-tool-deactivation-tips-for-better-listening-experience/"><u>Windows 11 Audio Improvement Tool Deactivation Tips for Better Listening Experience</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-stay-on-the-edge-insights-into-panasonics-hx-a1-actionrecorder/"><u>[Updated] Stay on the Edge Insights Into Panasonic's HX-A1 ActionRecorder</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-new-dimensions-in-picture-tones/"><u>[Updated] Unlocking New Dimensions in Picture Tones</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-elevate-your-social-presence-proven-methods-for-fb-fan-expansion/"><u>2024 Approved Elevate Your Social Presence Proven Methods for FB Fan Expansion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bridging-minds-and-devices-chatgpt-on-android/"><u>Bridging Minds & Devices: ChatGPT on Android</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-muted-or-quiet-speakers-in-windows-11-troubleshooting-guide/"><u>Fixing Muted or Quiet Speakers in Windows 11 – Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-system-how-to-restore-audio-on-your-windows-11-pc/"><u>Fixing Silent System: How to Restore Audio on Your Windows 11 PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-correcting-no-sound-output-errors-on-pc-with-windows-7-8-and-10-when-headsets-arent-plugged-in/"><u>Guide to Correcting 'No Sound Output' Errors on PC with Windows 7, 8 & 10 when Headsets Aren't Plugged In</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/high-definition-on-demand-samsungs-ue590-monitor-revisited-for-2024/"><u>High Definition on Demand Samsung's UE590 Monitor Revisited for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-solve-cutting-out-sounds-in-windows-10/"><u>How to Troubleshoot and Solve Cutting Out Sounds in Windows 10</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-not-buzzing-when-you-expect-it-to-try-these-eight-effective-fixes-for-quiet-modes/"><u>IPhone Not Buzzing When You Expect It To? Try These Eight Effective Fixes for Quiet Modes!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016311062-solve-your-silent-pc-dilemma-fast-and-simple-fixes-for-a-quiet-machine/"><u>Solve Your Silent PC Dilemma: Fast and Simple Fixes for a Quiet Machine</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-ultimate-review-of-asuss-4k-hdr-powerhouse/"><u>The Ultimate Review of ASUS's 4K HDR Powerhouse</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-issues-with-your-corsair-virtuoso-microphone/"><u>Troubleshooting Tips: Resolving Issues with Your Corsair Virtuoso Microphone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtubes-income-leap-at-500-subs-count-for-2024/"><u>YouTube's Income Leap at 500 Subs Count for 2024</u></a></li>
 </ul></div>
 

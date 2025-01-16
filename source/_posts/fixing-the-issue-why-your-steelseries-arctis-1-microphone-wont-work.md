@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Why Your SteelSeries Arctis 1 Microphone Won't Work"
-date: 2025-01-05T20:15:48.673Z
-updated: 2025-01-10T16:56:51.449Z
+date: 2025-01-09T16:00:02.034Z
+updated: 2025-01-16T16:00:04.680Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why your headset mic is not working
 
@@ -44,10 +48,6 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Set up the microphone correctly
 
  Before you try the following fixes, please make sure the mute button is not activated.
@@ -68,6 +68,10 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Scroll down to allow microphone access for the Microsoft apps and desktop apps.
 
  Now you can test recording and see if your SteelSeries Arctis Pro mic is working right now. But if not, please move on to the next fix.
@@ -86,10 +90,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In the Sound windows, select the **Recording**  tab.
 
  4) Make sure your Actis Pro is**Enabled** (shows a green checkmark) and set it as the**Default Device** . If not, you can right-click it and select**Set as Default Device** and**Set as Default Communication Device** .
@@ -103,6 +103,10 @@ Here’s how to do it:
  6) Click the **Levels**  tab, and drag the slider to a proper volume.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Also go to the**Enhancements** tab, and check the box Disable all sound effects.
 
@@ -124,16 +128,12 @@ Here’s how to do it:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Activate & Update** button next to the headset to download the latest and correct driver for it.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/SteelSeries-Apex-Pro.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)
@@ -143,6 +143,10 @@ Here’s how to do it:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Make sure to use the correct Default Format
 
  1) On your keyboard, press the **Windows logo** key and the **R** key at the same time to open the Run box.
@@ -150,16 +154,12 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) In the Sound windows, select the **Recording**  tab.
 
@@ -194,16 +194,22 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ncover-hidden-youtube-discussions/"><u>[New] Uncover Hidden YouTube Discussions</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-exclusive-guide-to-best-uhd-video-players-free-and-versatile-for-pcandmac/"><u>[Updated] In 2024, Exclusive Guide to Best UHD Video Players (Free & Versatile) for PC&Mac</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/can-you-use-handbrake-to-convert-and-compress-apples-prores-files/"><u>Can You Use HandBrake to Convert and Compress Apple's ProRes Files?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/crafting-quality-content-setting-up-your-mac-for-minecraft-sessions-for-2024/"><u>Crafting Quality Content Setting Up Your Mac for Minecraft Sessions for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixes-and-solutions-for-usb-headphones-with-no-audio-output-in-windows-7/"><u>Fixes and Solutions for USB Headphones with No Audio Output in Windows 7</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-avs-video-editor-a-review-of-its-performance-and-capabilities/"><u>In 2024, AVS Video Editor A Review of Its Performance and Capabilities</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-the-gradual-sound-escalation-auditions-guide-to-fades/"><u>In 2024, The Gradual Sound Escalation Audition’s Guide to Fades</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-voice-chat-glitches-effective-solutions-for-apex-legends-players/"><u>Overcoming Voice Chat Glitches: Effective Solutions for Apex Legends Players</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-crash-zeroing-in-on-error-0x800f0831/"><u>Overcoming Windows Crash: Zeroing In on Error 0X800F0831</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-google-meet-audio-problems-for-windows-11-and-10-users/"><u>Resolve Google Meet Audio Problems for Windows 11 and 10 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-non-functional-voice-chat-feature-on-black-ops-cold-war-game/"><u>Troubleshooting Non-Functional Voice Chat Feature on Black Ops Cold War Game</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-digital-cosmos-display-top-pick-hdr-sky-sites-list/"><u>[New] Digital Cosmos Display Top Pick HDR Sky Sites List</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-instant-insight-into-colour-difference-filming-methods/"><u>[New] Instant Insight Into Colour Difference Filming Methods</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-upgrade-your-photo-presence-best-border-selection-tips-for-instagram/"><u>[Updated] 2024 Approved Upgrade Your Photo Presence Best Border Selection Tips for Instagram</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-tecno-camon-20-premier-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Tecno Camon 20 Premier 5G</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-evolution-on-your-wrist-discover-the-six-game-changing-benefits-chatgpt-brings-to-smartwatch-users/"><u>AI Evolution on Your Wrist: Discover the Six Game-Changing Benefits ChatGPT Brings to Smartwatch Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/apex-legends-audio-troubleshooting-get-your-voice-chat-back-on-track-fixed/"><u>Apex Legends Audio Troubleshooting: Get Your Voice Chat Back On Track [FIXED]</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-instructions-for-downloading-and-setting-up-arduino-drivers-on-windows/"><u>Easy Instructions for Downloading and Setting Up Arduino Drivers on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-logitech-camera-and-mic-troubleshooting-steps-for-unresponsive-audio/"><u>Fixing Your Logitech Camera & Mic: Troubleshooting Steps for Unresponsive Audio</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-converter-convert-raf-to-jpeg-using-movavi/"><u>Free Online Converter: Convert RAF to JPEG Using Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-samsung-galaxy-s21-fe-5g-2023-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Samsung Galaxy S21 FE 5G (2023) Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-enable-and-fix-missing-audio-in-apex-legends-game/"><u>How to Enable and Fix Missing Audio in Apex Legends Game</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-dolby-premium-playback-issues-in-windows-11-with-easy-driver-troubleshooting-steps/"><u>Overcoming Dolby Premium Playback Issues in Windows 11 with Easy Driver Troubleshooting Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016868751-realtek-hd-audio-manager-wont-open-heres-the-solution/"><u>Realtek HD Audio Manager Won't Open? Here's The Solution!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016258973-regain-your-battlefields-roar-resolve-borderlands-3s-muted-sounds-on-pc/"><u>Regain Your Battlefield's Roar - Resolve Borderlands 3’S Muted Sounds on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-problems-on-oculus-quest-2-a-step-by-step-guide-for-non-working-mics/"><u>Solving Audio Problems on Oculus Quest 2 – A Step-by-Step Guide for Non-Working Mics</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-picking-your-preferred-virtual-helper-amazons-alexa-vs-googles-gadget/"><u>The Ultimate Guide to Picking Your Preferred Virtual Helper: Amazon's Alexa Vs. Google's Gadget</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-pc-audio-problems-in-dota-2-a-step-by-step-guide/"><u>Troubleshooting PC Audio Problems in Dota 2 - A Step-by-Step Guide</u></a></li>
 </ul></div>
 

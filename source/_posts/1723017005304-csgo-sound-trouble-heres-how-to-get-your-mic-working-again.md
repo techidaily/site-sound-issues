@@ -1,7 +1,7 @@
 ---
 title: "CS:GO Sound Trouble? Here's How to Get Your Mic Working Again"
-date: 2024-08-13T10:59:01.491Z
-updated: 2024-08-14T10:59:01.491Z
+date: 2025-01-10T16:00:18.159Z
+updated: 2025-01-16T16:00:07.074Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 3. **[Reinstall your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Automatically update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Make sure your audio device is set to default
 
  1) Right-click on**Speakers/Headphone** icon at the bottom right of your task bar. Then click **Playback devices** .
@@ -42,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 2) Make sure your audio device is set to default.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-10.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Play a music or a video on your Windows 7\. Check to see if there is sound.
 
@@ -57,17 +51,19 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
  2) Click your default audio device, and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-9.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  3) In **Advanced**  section, click a different audio rate, then **Test** .
 
  Play a music or a video to see if there is sound. If you find a format works, set it and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-9.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Reinstall your audio driver
@@ -82,15 +78,16 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Reboot your Windows 7\. Windows should reinstall the audio driver automatically.
 
  5) Play a music or a video on your Windows 7\. Check to see if there is sound.
 
  If your Windows 7 still keeps no sound, not to be frustrated, move on to the Method 4 to update your audio driver.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 4: Automatically update your audio driver
 
  The methods above may resolve the problem, but if they don’t, please update your audio driver. If you’re not confident playing around with drivers manually,  you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -104,8 +101,9 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-7.png)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Click the **Update**  button next to a flagged audio driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
@@ -113,8 +111,9 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-8.png)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Reboot your Windows 7.
@@ -130,8 +129,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +136,26 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-optimal-techniques-for-capturing-ppt-sessions/"><u>[New] 2024 Approved Optimal Techniques for Capturing PPT Sessions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-instagram-edge-strategic-use-of-descriptive-texts-in-videos-for-2024/"><u>[New] The Instagram Edge Strategic Use of Descriptive Texts in Videos for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-free-easy-hd-download-of-fb-media-library/"><u>[Updated] Free, Easy HD Download of FB Media Library</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-5-highest-rated-vr-gear-for-uavs/"><u>[Updated] In 2024, 5 Highest-Rated VR Gear for UAVs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-birthstones-and-emojis-tailoring-your-whatsapp-profile-by-sign/"><u>2024 Approved Birthstones and Emojis Tailoring Your WhatsApp Profile by Sign</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/amplifying-computer-sound-output-on-windows-10-a-step-by-step-guide/"><u>Amplifying Computer Sound Output on Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/arctis-pro-steelseries-headset-microphone-fix-troubleshooting-tips-and-solutions/"><u>Arctis Pro SteelSeries Headset Microphone Fix: Troubleshooting Tips & Solutions</u></a></li>
+<li><a href="https://media-tips.techidaily.com/comprehensive-comparisons-and-reviews-of-leading-portable-flac-players-the-fiio-experience/"><u>Comprehensive Comparisons & Reviews of Leading Portable FLAC Players - The FiiO Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-non-functional-onikuma-mic-success-stories/"><u>Diagnosing and Repairing Non-Functional Onikuma Mic: Success Stories</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elon-musk-and-the-future-of-ai-an-inside-look-at-truthgpt/"><u>Elon Musk & the Future of AI: An Inside Look at 'TruthGPT'</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-fix-headphone-connectivity-problems-on-your-pc-running-windows-nformation/"><u>Expert Tips to Fix Headphone Connectivity Problems on Your PC Running Windows Nformation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-razer-barracuda-x-mic-working-again-detailed-fixes-for-windows-11-and-10-users/"><u>Get Your Razer Barracuda X Mic Working Again: Detailed Fixes for Windows 11 and 10 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/identifying-and-configuring-hidden-sound-output-in-windows-11-easily/"><u>Identifying and Configuring Hidden Sound Output in Windows 11 Easily</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mobile-masterpieces-phones-ideal-for-media-makers/"><u>In 2024, Mobile Masterpieces Phones Ideal for Media Makers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reactive-measures-for-squadron-communication-fixing-a-dead-microphone/"><u>Reactive Measures for Squadron Communication: Fixing a Dead Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-your-devices-main-audio-connection-heres-how-to-repair-it/"><u>Trouble with Your Device's Main Audio Connection? Here's How to Repair It!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-dell-sound-card-malfunctions-on-windows-7-system/"><u>Troubleshooting Dell Sound Card Malfunctions on Windows 7 System</u></a></li>
+<li><a href="https://win-able.techidaily.com/ubisoft-game-maintenance-essential-troubleshooting-tips-for-a-flawless-assassins-creed-mirage-experience/"><u>Ubisoft Game Maintenance: Essential Troubleshooting Tips for a Flawless Assassin's Creed Mirage Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-detailed-steps-to-extract-data-from-your-dvd-on-windows-and-mac/"><u>Ultimate Guide: Detailed Steps to Extract Data From Your DVD on Windows & Mac</u></a></li>
+</ul></div>
 

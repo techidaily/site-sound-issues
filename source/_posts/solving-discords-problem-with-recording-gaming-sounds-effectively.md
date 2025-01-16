@@ -1,7 +1,7 @@
 ---
 title: Solving Discord's Problem with Recording Gaming Sounds Effectively
-date: 2024-08-13T11:01:04.961Z
-updated: 2024-08-14T11:01:04.961Z
+date: 2025-01-11T16:06:18.059Z
+updated: 2025-01-16T06:53:29.318Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ thumbnail: https://thmb.techidaily.com/015ca8337481fa9d7a46737ec3890e68196903574
 **Windows Media Player no sound** ? You’re not the only one. But don’t worry, it’s often quite easy to fix…
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixes For**Windows Media Player No Sound**
 
  Here’re 3 fixes that have helped other users resolve the problem. Just work your way down the list until you find the one that works for you.
@@ -30,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/015ca8337481fa9d7a46737ec3890e68196903574
 2. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update or reinstall Windows Media Player](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Make sure you have not muted the sound
 
  Sometimes you hear no sound coming through Windows Media Player because you’ve muted the sound unknowingly.
@@ -43,11 +41,16 @@ To make sure the volume is not muted but audible:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-151.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the lower-right of your computer screen, click **the sound icon** and move **the volume slider** all the way to at least halfway up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-152.png)
+
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Play some music in Windows Media Player and see if the  
@@ -55,10 +58,6 @@ To make sure the volume is not muted but audible:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your audio driver
 
  This problem may occur if you have the wrong or outdated audio driver. So you should update your audio driver to see if it fixes the issue. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -72,15 +71,17 @@ To make sure the volume is not muted but audible:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-155.png)
+
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-154.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -108,8 +109,6 @@ To make sure the volume is not muted but audible:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +116,19 @@ To make sure the volume is not muted but audible:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-choosing-superior-tools-for-vocal-change-in-content-making-for-2024/"><u>[New] Choosing Superior Tools for Vocal Change in Content Making for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-comprehensive-overview-of-cost-free-livestream-apps-and-solutions-for-everyone/"><u>[New] Comprehensive Overview of Cost-Free Livestream Apps & Solutions for Everyone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-how-to-change-screenshot-file-formats-on-a-mac-for-2024/"><u>[New] How to Change Screenshot File Formats on a Mac for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-premium-eco-conscious-video-recorders-how-to-use/"><u>[New] In 2024, Premium Eco-Conscious Video Recorders How to Use</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-unlocking-srt-secrets-comprehensive-knowledge-guide/"><u>[New] In 2024, Unlocking SRT Secrets Comprehensive Knowledge Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-error-device-is-unreachable-on-windows-pcs/"><u>Clearing Up Error Device Is Unreachable on Windows PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnose-and-repair-sony-wireless-noise-cancelling-headphones-microphone-troubleshooting-for-pc-users/"><u>Diagnose & Repair: Sony Wireless Noise Cancelling Headphones - Microphone Troubleshooting for PC Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-for-troubleshooting-no-sound-issues-in-hp-laptops-fixed/"><u>Expert Advice for Troubleshooting No-Sound Issues in HP Laptops - Fixed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-woes-solutions-for-world-of-warcrafts-audio-problem/"><u>Fixing Silent Woes: Solutions for World of Warcraft's Audio Problem</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tailored-audio-connector-for-podcasting-pros/"><u>In 2024, Tailored Audio Connector for Podcasting Pros</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-voice-chat-issues-on-rainbow-six-siege-for-optimal-teamwork-fix-guide-for-202n4/"><u>Resolving Voice Chat Issues on Rainbow Six Siege for Optimal Teamwork - Fix Guide for 202N4</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-silent-keys-on-your-logitech-g933-mechanical-keyboard/"><u>Troubleshooting Guide: Resolving Silent Keys on Your Logitech G933 Mechanical Keyboard</u></a></li>
+</ul></div>
 
