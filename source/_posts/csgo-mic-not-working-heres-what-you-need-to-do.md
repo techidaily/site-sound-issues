@@ -1,7 +1,7 @@
 ---
 title: "CS:GO Mic Not Working? Here's What You Need to Do!"
-date: 2024-08-13T10:57:35.154Z
-updated: 2024-08-14T10:57:35.154Z
+date: 2025-01-17T18:24:10.921Z
+updated: 2025-01-22T18:02:58.848Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 
  OBS is a popular and powerful tool that packs a variety of features for video recording and live streaming. However, it’s not immune to bugs. Some users complains the desktop audio stopped working or recording in OBS for no reason. If you encounter the same problem, don’t worry. We’ve covered 6 effective fixes to help you solve the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t need to try them all; just work your way down the list until you find the one that works for you.
@@ -47,17 +44,14 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/0-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now see if OBS desktop audio comes back. If not, try the next fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ### Fix 2 – Check the sound settings
 
  If OBS fails to pick up your desktop audio, there might be something wrong with your headset or speaker settings. If you don’t know how to configure the settings correctly, follow the instruction below:
@@ -65,8 +59,9 @@ No advertising on the website.
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Then, type**control** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1-7.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Select**Small icons** from the drop-down menu next to View by, and click**Sound** .
@@ -77,16 +72,21 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** In the Playback tab, click the device (speaker or headset) you’re using and click**Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Click the device and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4-5.jpg)
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 
 **6)** Select the**Levels** tab. Then, make sure**the device is not muted** and**drag the slider** to turn up its volume.
 
@@ -95,23 +95,18 @@ No advertising on the website.
 **7)** Select the**Advanced** tab, and untick**Allow applications to take exclusive control of this device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-6.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **8)** Click**OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-7.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 
 **9)** Click your audio device and click**Configure** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-8-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 
 **10)** Select**Stereo** from the menu.
 
@@ -121,9 +116,6 @@ No advertising on the website.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3 – Tweak OBS audio settings
 
  If you’ve set everything up on PC but still fail to bring back the desktop audio, you should take a look at the audio settings in OBS and make sure to select the proper devices.
@@ -137,9 +129,6 @@ No advertising on the website.
 **3)** Click**Audio** on the left pane. Then, select**Stereo** next to Channels.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-3-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
 **4)** Scroll to Global Audio Devices and make sure you’ve selected the actual device you’re using for**Desktop Audio** and**Mic/Auxiliary Audio** .
 
@@ -148,6 +137,10 @@ No advertising on the website.
  Now that you’ve made the tweaks, see if OBS desktop audio works the right way. If the no audio issue persists, keep reading to find out more solutions.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Remove other programs for audio control
 
@@ -174,8 +167,9 @@ No advertising on the website.
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-12.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the**Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).
@@ -194,8 +188,9 @@ No advertising on the website.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6 – Reinstall OBS
 
  If none of the fixes above restores your OBS desktop audio, consider a full reinstall of OBS to fix any in-depth program issues. Here is how:
@@ -203,8 +198,9 @@ No advertising on the website.
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run command. Then, type**appwiz.cpl** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-5.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Right-click**OBS Studio** and click**Uninstall/Change** .
@@ -230,8 +226,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -239,4 +233,24 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-effortlessly-access-your-most-watched-fb-movies-post-2023/"><u>[New] 2024 Approved Effortlessly Access Your Most-Watched FB Movies Post-2023</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-demystifying-asuss-mg28uq-a-comprehensive-4k-review/"><u>[Updated] Demystifying ASUS's MG28UQ - A Comprehensive 4K Review</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/boost-your-windows-7-wifi-experience-with-hassle-free-driver-downloads-and-updates/"><u>Boost Your Windows 7 WiFi Experience with Hassle-Free Driver Downloads & Updates!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/boosting-audio-output-for-a-loud-pc-experience-in-windows-11/"><u>Boosting Audio Output for a Loud PC Experience in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016249230-effortless-mic-inspection-tips-for-flawless-sound-quality/"><u>Effortless Mic Inspection Tips for Flawless Sound Quality</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-xiaomi-redmi-note-12-4g-by-drfone-android/"><u>Full Guide to Unlock Your Xiaomi Redmi Note 12 4G</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hear-again-on-your-logitech-g933-follow-these-straightforward-sound-solutions/"><u>Hear Again on Your Logitech G933? Follow These Straightforward Sound Solutions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/helmet-hats-a-comprehensive-look-at-best-cams-in-bike-culture/"><u>Helmet Hats A Comprehensive Look at Best Cams in Bike Culture</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/how-to-successfully-perform-an-ssd-installation-on-the-lenovo-x1-carbon-a-complete-guide/"><u>How To Successfully Perform An SSD Installation On The Lenovo X1 Carbon: A Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-by-drfone-ios/"><u>How to Unlock iPhone 15?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-highlighted-10-faceshaping-tech-on-phones/"><u>In 2024, Highlighted 10 Faceshaping Tech on Phones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-the-mute-problem-in-cyberpunk-2077-on-pc-windows-tenth/"><u>Overcoming the Mute Problem in Cyberpunk 2077 on PC (Windows Tenth)</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-10s-persistent-problem-unsuccessful-shutdown-followed-by-unexpected-reboot/"><u>Resolving Windows 10'S Persistent Problem: Unsuccessful Shutdown, Followed by Unexpected Reboot</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-capabilities-on-a-windows-ebox-with-windows-7-os/"><u>Restoring Audio Capabilities on a Windows Ebox with Windows 7 OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-resolving-issues-with-your-headsets-built-in-mic/"><u>Step-by-Step Repair: Resolving Issues with Your Headset's Built-In Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-non-working-mpow-microphones-on-windows-systems/"><u>Step-by-Step Solution for Non-Working MPOW Microphones on Windows Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-repairing-your-turtle-beach-elite-atlas-headsets-mic-issues/"><u>Step-by-Step Solutions: Repairing Your Turtle Beach Elite Atlas Headset's Mic Issues</u></a></li>
+</ul></div>
 

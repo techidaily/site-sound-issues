@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot and Restore Sound on Your Laptop's Built-In Speakers
-date: 2025-01-12T16:01:00.137Z
-updated: 2025-01-16T16:02:58.421Z
+date: 2025-01-19T21:18:24.276Z
+updated: 2025-01-22T20:45:23.572Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes for speakers crackling
@@ -48,10 +48,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 
@@ -59,7 +55,7 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
@@ -67,10 +63,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -101,14 +93,22 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Click the **High performance** option > **Change plan settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
@@ -137,24 +137,17 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-how-to-write-compelling-podcast-narratives-and-examples-at-no-cost/"><u>[New] How to Write Compelling Podcast Narratives & Examples at No Cost</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-numbers-that-shook-youtube-facts-in-visual-form-2017/"><u>[New] Numbers that Shook! YouTube Facts in Visual Form (2017)</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-precision-photography-and-videography-prime-lens-excellence-in-4k/"><u>[Updated] Precision Photography & Videography Prime Lens Excellence in 4K</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-subscription-surge-entry-into-monetization-realm/"><u>[Updated] Subscription Surge Entry Into Monetization Realm</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-pros-technique-for-consolidated-photo-and-video-upload-to-ig/"><u>[Updated] The Pro's Technique for Consolidated Photo and Video Upload to IG</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-premiere-changes-for-images-pictureshift-genius/"><u>2024 Approved Premiere Changes for Images PictureShift Genius</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016869686-audio-disruption-diagnosis-and-fix-for-windows-710-users-say-goodbye-to-sound-issues/"><u>Audio Disruption Diagnosis & Fix for Windows 7/10 Users - Say Goodbye to Sound Issues</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-kobo-nia-test-drive-how-it-stacks-up-to-the-kindle-lineup/"><u>Comprehensive Kobo Nia Test Drive: How It Stacks Up to the Kindle Lineup</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-resolving-problems-with-your-logitech-g933-mic/"><u>Diagnosing and Resolving Problems with Your Logitech G933 Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-repair-guide-resolving-hyperx-cloud-stinger-microphone-failures-effectively/"><u>DIY Repair Guide - Resolving HyperX Cloud Stinger Microphone Failures Effectively</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-pc-audio-issues-instantly-simple-solutions/"><u>Fix PC Audio Issues Instantly: Simple Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-rid-of-buzzing-noise-effortlessly-with-these-5-fixes-for-speakers/"><u>Get Rid of Buzzing Noise Effortlessly with These 5 Fixes for Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-eliminate-crackling-sounds-from-computer-speakers-a-guide-for-windows-117-users/"><u>How to Eliminate Crackling Sounds From Computer Speakers: A Guide for Windows 11/7 Users</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-guide-to-garmin-vivosmart-4-exploring-body-battery-and-stress-tracking-capabilities/"><u>In-Depth Guide to Garmin Vivosmart 4: Exploring Body Battery & Stress Tracking Capabilities</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/my-reasons-for-choosing-the-light-phone-3-the-ultimate-minimalist-smartphone-with-unique-design/"><u>My Reasons for Choosing the Light Phone 3: The Ultimate Minimalist Smartphone with Unique Design</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/resolving-display-distortions-in-windows-with-yl-computings-proven-fixes/"><u>Resolving Display Distortions in Windows with YL Computing's Proven Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restarting-success-fixing-a-non-responsive-sound-blaster-microphone/"><u>Restarting Success: Fixing a Non-Responsive Sound Blaster Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-realtek-hd-audio-issue-why-your-program-isnt-starting-up/"><u>Solving the Realtek HD Audio Issue: Why Your Program Isn't Starting Up</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-what-to-do-when-phasmophobia-voice-communication-fails/"><u>Troubleshooting Guide: What to Do When Phasmophobia Voice Communication Fails</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-how-to-change-screenshot-file-formats-on-a-mac-for-2024/"><u>[New] How to Change Screenshot File Formats on a Mac for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-ultimate-handbook-to-effective-spotify-marketing/"><u>[Updated] In 2024, The Ultimate Handbook to Effective Spotify Marketing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/changer-facilement-un-fichier-webm-en-format-swf-gratuitement-sur-internet-via-loutil-de-conversion-movavi/"><u>Changer Facilement Un Fichier WebM en Format SWF Gratuitement Sur Internet via L'outil De Conversion Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/configuring-undetected-audio-outputs-on-your-pc-with-windows-10/"><u>Configuring Undetected Audio Outputs on Your PC with Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/configuring-your-audio-devices-when-the-speaker-type-is-undefined-on-windows-11/"><u>Configuring Your Audio Devices When the Speaker Type Is Undefined on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-tips-to-restore-functionality-of-broken-headset-microphones/"><u>DIY Tips to Restore Functionality of Broken Headset Microphones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1724766863631-dvd-decrypter/"><u>DVD Decrypter 使用中に発生する書き込み障害:解決策とその詳細を学ぶ！</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-non-functioning-airpods-mic-on-a-windows-10-pc/"><u>Effective Fixes for Non-Functioning AirPods Mic on a Windows 10 PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-to-restore-in-game-voice-chat-in-dota-2-windows-version/"><u>Effective Fixes to Restore In-Game Voice Chat in Dota 2 Windows Version</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-google-by-drfone-android/"><u>In 2024, How to Bypass FRP from Google?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
 </ul></div>
 

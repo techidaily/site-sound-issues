@@ -1,7 +1,7 @@
 ---
 title: "Resolved Issue: How to Repair the Unresponsive Mic on Your Corsair HS60"
-date: 2025-01-10T16:04:04.347Z
-updated: 2025-01-16T16:01:30.253Z
+date: 2025-01-18T16:17:25.420Z
+updated: 2025-01-22T18:29:42.129Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 fixes for Bluetooth Connected But No Sound
 
  The screenshots below are from**Windows 10** , but the fixes also work in**Windows 8.1** and**7** .
@@ -36,10 +40,6 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Select the Bluetooth device as the default playback device
 
  Sometimes we might need to set our audio devices as default in order for them to work properly. To do so:
@@ -48,13 +48,17 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1c8bbf643.jpg)
 2. In the**Playback** tab, click on**your** **Bluetooth device** \>**Set Default** . Then click**Apply** \>**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d212718ff2.jpg)
 3. Play some music and see if this**Bluetooth Connected But No Sound** problem gets resolved.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Make sure the audio level is high enough
@@ -65,12 +69,12 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1c8bbf643.jpg)
 2. In the**Playback** tab, click on**your** **Bluetooth device** \>**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d223cd2694.jpg)
 3. Click the Levels tab. Then make sure**the volume bar is dragged to an audible level** and the sound icon**isn’t muted** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d22c378f3f.png)
 4. Click**Apply** \>**OK** .
@@ -78,6 +82,10 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 5. Hopefully the **Bluetooth Connected But No Sound problem** has been resolvedthis time. If the problem still persists, move on to **Fix 3** .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Make sure the Bluetooth Support Service is enabled
 
@@ -87,19 +95,11 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ef3aff37fc.jpg)
 2. Double-click on**Bluetooth Support Service** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1e0590947.jpg)
 3. Select**Automatic** in the**Startup type** drop-down menu and then click**Start** to jumpstart the service. Then click**Apply** \>**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1ea8ed445.jpg)
 4. Play some music and test if your**Bluetooth Connected But No Sound** has been fixed. If it’s still no joy, please move on to F**ix 4,** below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -121,6 +121,10 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627e9c324d0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer, play some music and see if **Bluetooth Connected But No Sound**  problem has been resolved.
@@ -135,10 +139,6 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortectdetects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -165,18 +165,20 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-discovering-all-in-youtube-shorts-guide/"><u>[New] 2024 Approved Discovering All in YouTube Shorts Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-premier-selection-of-premium-video-chat-tools-ios-android-ranking/"><u>[New] 2024 Approved Premier Selection of Premium Video Chat Tools (iOS, Android) Ranking</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/imestamping-your-youtube-videos-desktop-and-mobile-guide-for-2024/"><u>[New] Timestamping Your YouTube Videos Desktop & Mobile Guide for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-3-pro-level-plans-to-preserve-precise-gaming-moments-for-2024/"><u>[Updated] 3 Pro-Level Plans to Preserve Precise Gaming Moments for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-unraveling-360-degree-vision-a-new-cinematic-experience/"><u>[Updated] In 2024, Unraveling 360-Degree Vision A New Cinematic Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bring-your-steelseries-arctis-microphone-back-to-life-effective-solutions-and-tips/"><u>Bring Your SteelSeries Arctis Microphone Back to Life: Effective Solutions and Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-maxed-out-scratch-disks-in-adobe-photoshop-for-a-smooth-editing-experience/"><u>Fixing Maxed Out Scratch Disks in Adobe Photoshop for a Smooth Editing Experience</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-fix-red-eyes-quickly-in-photos-on-ios-without-cost/"><u>In 2024, Fix Red Eyes Quickly in Photos on iOS Without Cost</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-dolby-advanced-audio-troubles-steps-to-reactivate-the-dolby-driver-in-windows-10/"><u>Overcoming Dolby Advanced Audio Troubles: Steps to Reactivate the Dolby Driver in Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-your-outriders-games-audio-glitches-effectively/"><u>Resolving Your Outriders Game's Audio Glitches Effectively</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-bluetooth-speaker-latency-issues-swiftly-and-effortlessly/"><u>Solve Your Bluetooth Speaker Latency Issues Swiftly and Effortlessly</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722515960605-top-ranked-artist-tablets-a-comprehensive-guide/"><u>Top Ranked Artist Tablets : A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unblock-your-path-to-clear-sound-resolving-issues-with-conexant-smartaudio-hd-on-windows-10/"><u>Unblock Your Path to Clear Sound: Resolving Issues With Conexant SmartAudio HD on Windows 10</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-access-youtube-tracks-without-spending-a-dime-25plus-no-cost-audio-extractors/"><u>[Updated] 2024 Approved Access YouTube Tracks Without Spending a Dime 25+ No-Cost Audio Extractors</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-essential-list-5-leading-youtube-shortened-url-services/"><u>2024 Approved Essential List 5 Leading YouTube Shortened URL Services</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-into-the-depths-mastering-gopros-time-lapse-techniques/"><u>2024 Approved Into the Depths Mastering GoPro's Time-Lapse Techniques</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-sony-xperia-1-v-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Sony Xperia 1 V Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/call-of-duty-wwii-black-screen-fix-for-windows-users-solution-game-support/"><u>Call of Duty: WWII Black Screen Fix for Windows Users [SOLUTION] | Game Support</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/improve-your-listening-experience-guide-to-turning-off-sound-amplification-on-windows-10-devices/"><u>Improve Your Listening Experience - Guide to Turning Off Sound Amplification on Windows 10 Devices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-6s-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 6s to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-silent-moments-audio-issue-fixes-for-it-takes-two-on-windows/"><u>Overcoming Silent Moments: Audio Issue Fixes for 'It Takes Two' On Windows</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1629060-9781444719833-psychic-case-files/"><u>Psychic Case Files | Free Book</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-install-lenovo-thinkpad-x230-driver-update-instructions/"><u>Quick Install: Lenovo ThinkPad X230 Driver Update Instructions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reinvigorating-windows-faded-scanning-abilities/"><u>Reinvigorating Windows' Faded Scanning Abilities</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-silent-facebook-videos-a-comprehensive-troubleshooting-manual-for-pc-users/"><u>Resolve Silent Facebook Videos : A Comprehensive Troubleshooting Manual for PC Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-windows-11-playback-device-problems-with-headphones/"><u>Resolving Windows 11 Playback Device Problems with Headphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-sound-on-your-hp-laptop-with-these-easy-windows-10-tips-and-tricks/"><u>Revive Sound on Your HP Laptop with These Easy Windows 10 Tips & Tricks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tdr-alert-deactivated-with-nvidias-immediate-action/"><u>TDR Alert Deactivated with Nvidia's Immediate Action</u></a></li>
 </ul></div>
 

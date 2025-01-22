@@ -1,7 +1,7 @@
 ---
 title: Solution Steps When Your Logitech Camera & Microphone Fails
-date: 2024-08-13T10:54:13.958Z
-updated: 2024-08-14T10:54:13.958Z
+date: 2025-01-21T18:52:57.200Z
+updated: 2025-01-22T16:11:22.758Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/3edb5ed0f59ba6116f7a3ed0872c7594498c971b0
 
 Many **Logitech G933** users are reporting that their headset**microphone**is not working properly. They can’t talk to people on the headset microphone. If you’re experiencing this problem, don’t worry. You should be able to fix the problem quite easily using one of the solutions we’ve listed below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fixes to try
 
 You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -33,40 +30,43 @@ You may not have to try them all. Just work your way down the list until you fin
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Allow access to your headset microphone (for Windows 10 users)
 
 You should allow your Windows 10 system and your application to access your headset microphone before you can use it. To check this:**1)** Click the**Start**button in the lower left corner of your screen, then click the**Settings**icon.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62e7c0cc25a.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Click**Privacy**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62e85bc8fdf.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Microphone**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62e8bd4fd27.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
 **4)** Click the**Change**button, then make sure **Microphone for this device** is turned**on**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62e9221f920.jpg)
+
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Make sure**Allow apps to access your microphone**is turned**on**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62e9a89f2b6.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 Hopefully this fixes your microphone issue. But if not, there are still three fixes you can try.
 
@@ -78,6 +78,10 @@ Your Logitech G933 mic may be disabled or not set as the default device on your 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** In Control Panel, select**Large icons**from the**View by**drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
@@ -85,35 +89,30 @@ Your Logitech G933 mic may be disabled or not set as the default device on your 
 **3)**Select **Sound**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Select the **Recording**tab, then right click on any empty place inside the device list and tick **Show Disabled Devices**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Right click the**Headset Microphone**and click **Enable**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 
 **6)**Right click it again and select **Set as Default Device**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 **7)** Right click**Headset Microphone**and click**Properties**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 
 **8)** Click the**Levels**tab, then drag the volume slider towards the_largest value_.
 
@@ -123,9 +122,6 @@ Your Logitech G933 mic may be disabled or not set as the default device on your 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 3: Update your audio drivers
 
 The mic on your Logitech G933 headset won’t work if you’re using an incorrect or outdated audio or headset driver. So you should update the driver to see if that fixes the issue.  You can update your driver manually or automatically. The manual process is time consuming, technical and risky, so we won’t cover it here. Nor do we recommend it unless you have excellent computer knowledge.  Updating your driver automatically, on the other hand, is very easy. Simply install and run [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/), and it will automatically find all the devices on your PC that need new drivers, and install them for you. Here’s how to use it. **1)** [**Download**](https://tools.techidaily.com/drivereasy/download/)and install**Driver Easy**.**2)** Run**Driver Easy**and click the **Scan Now**button.**Driver Easy**will scan your computer and detect any problem drivers.
@@ -153,8 +149,6 @@ If your headset microphone is still not working, it’s likely there are hardwar
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +156,24 @@ If your headset microphone is still not working, it’s likely there are hardwar
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-lg-360-camera-update-revolutionary-tech-and-features-reviewed/"><u>[New] LG 360 Camera Update Revolutionary Tech and Features Reviewed</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-expert-tips-on-producing-high-quality-facebook-video/"><u>[Updated] Expert Tips on Producing High-Quality Facebook Video</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-recover-lost-photos-on-snapchat/"><u>[Updated] Recover Lost Photos on Snapchat</u></a></li>
+<li><a href="https://facebook.techidaily.com/controlling-who-sees-your-active-status-on-fb/"><u>Controlling Who Sees Your Active Status on FB</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminating-crackling-noise-from-your-cyberpunk-2077-gameplay-expert-tips-and-tricks/"><u>Eliminating Crackling Noise From Your Cyberpunk 2077 Gameplay: Expert Tips and Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/exclusive-guide-fix-your-voicemod-opening-woes-with-latest-solutions/"><u>Exclusive Guide: Fix Your Voicemod Opening Woes with Latest Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-repairing-the-malfunctioning-mic-in-your-turtle-battle-ears-elite-atlas/"><u>Expert Advice on Repairing the Malfunctioning Mic in Your Turtle Battle Ears Elite Atlas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fall-guys-connectivity-fix-guide-for-windows-users/"><u>Fall Guys Connectivity Fix Guide for Windows Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-discord-sound-glitches-a-comprehensive-guide-to-perfect-calls-in-202/"><u>Fixing Discord Sound Glitches: A Comprehensive Guide to Perfect Calls in 202</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-logitech-g633-microphone-issues-solutions-and-tips/"><u>Fixing Logitech G633 Microphone Issues: Solutions & Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-restore-your-razer-kraken-mic-functionality/"><u>Fixing the Issue: How to Restore Your Razer Kraken Mic Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-the-most-out-of-your-arctis-99x-fixing-a-dead-microphone-problem/"><u>Getting the Most Out of Your Arctis 9/9X: Fixing a Dead Microphone Problem</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-realme-10t-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Realme 10T 5G?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-persistent-echos-while-using-discord-on-desktop-computers-a-2-tech-tips-2024-version/"><u>How To Resolve Persistent Echos While Using Discord on Desktop Computers – A 2# Tech Tips (2024 Version)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-choices-highest-reviewed-wireless-mice-released/"><u>Navigating Choices: Highest-Reviewed Wireless Mice Released</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/procedures-for-removing-outdated-conversations-on-gpt/"><u>Procedures for Removing Outdated Conversations on GPT</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/professional-tips-for-editing-high-definition-avchd-videos-affordably-with-the-best-available-editing-tools-on-the-market/"><u>Professional Tips for Editing High-Definition AVCHD Videos Affordably with the Best Available Editing Tools on the Market</u></a></li>
+</ul></div>
 

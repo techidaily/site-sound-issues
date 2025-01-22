@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Non-Functional Voice Chat in 'Back 4 Blood'
-date: 2024-12-31T23:09:36.329Z
-updated: 2025-01-04T00:14:38.151Z
+date: 2025-01-21T19:20:00.835Z
+updated: 2025-01-22T17:03:57.657Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/c02c898eea6d72b9e37093c851ecd855aff6005dd
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -54,21 +58,25 @@ thumbnail: https://thmb.techidaily.com/c02c898eea6d72b9e37093c851ecd855aff6005dd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_16-48-56.jpg)
 2. Go to the**Recording** tab and you should see your headset. If you can’t find it, it could be hidden or disabled. You can right-click an empty area then select Show**Disabled Devices** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_16-57-37.jpg)
 3. Right-click your headset, then click**Enable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-05-17.jpg)
 4. Click**Apply** then**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-06-58.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your headset is enabled for recording but the microphone is still not working, move on to the next fix.
 
@@ -81,17 +89,17 @@ thumbnail: https://thmb.techidaily.com/c02c898eea6d72b9e37093c851ecd855aff6005dd
 2. **Select your headset as the input device** . It could be shown as HyperX Cloud Alpha S or Headset.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/set-input-device.jpg)
 3. Test your microphone.
 
- If your headset is set as the input device but the mic still won’t work, try the next fix.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If your headset is set as the input device but the mic still won’t work, try the next fix.
 
 ## Fix 4: Turn on the mic access on your PC
 
@@ -120,16 +128,8 @@ If this doesn’t fix your mic problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-54-35.jpg)
 3. Click the **Update**  button next to the flagged audio driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-54-43.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -154,24 +154,15 @@ If this doesn’t fix your mic problem, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-discover-the-perfect-tunefab-recorder-for-your-needs/"><u>[New] 2024 Approved Discover the Perfect Tunefab Recorder for Your Needs</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-leveraging-obs-for-high-quality-livestreams-youtube-and-twitch/"><u>[Updated] 2024 Approved Leveraging OBS for High-Quality Livestreams, YouTube & Twitch</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-twitter-videos-shared-directly-from-phones/"><u>[Updated] 2024 Approved Twitter Videos Shared Directly From Phones</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-how-to-zoom-in-and-zoom-out-video-on-iphone-easily/"><u>[Updated] In 2024, How to Zoom in and Zoom Out Video on iPhone Easily</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/elevate-your-experience-upgrading-speakers-and-volume-controls-on-windows-10/"><u>Elevate Your Experience: Upgrading Speakers and Volume Controls on Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-distorted-and-missing-sounds-in-your-outriders-experience/"><u>How to Repair Distorted and Missing Sounds in Your Outriders Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-logitech-g230-headsets-microphone-quick-fixes-inside/"><u>How to Repair Your Logitech G230 Headset's Microphone - Quick Fixes Inside</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-repair-silent-mac-systems-effectively/"><u>How to Troubleshoot and Repair Silent Mac Systems Effectively</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-disrupted-tunes-the-best-audio-rippers/"><u>In 2024, Disrupted Tunes The Best Audio Rippers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-techniques-in-motivating-viewers-with-lifestyle-vlogs/"><u>In 2024, Techniques in Motivating Viewers with Lifestyle Vlogs</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-visionary-video-download-engine-capture-and-save-anywhere/"><u>In 2024, Visionary Video Download Engine - Capture & Save Anywhere</u></a></li>
-<li><a href="https://win-answers.techidaily.com/minecraft-glitch-solved-how-to-overcome-the-notorious-exit-code-0-problem/"><u>Minecraft Glitch Solved! How to Overcome the Notorious 'Exit Code 0' Problem</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-poco-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Poco Phone? Unlock It Now</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-windows-11-and-windows-10-bluetooth-audio-interruption-problems/"><u>Resolving Windows 11 & Windows 10 Bluetooth Audio Interruption Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-silence-expert-guide-to-restoring-conexant-smartaudio-hd-on-windows-11/"><u>Solving the Silence: Expert Guide to Restoring Conexant SmartAudio HD on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-repairing-non-responsive-hyperx-cloud-mic/"><u>Step-By-Step Tutorial: Repairing Non-Responsive HyperX Cloud Mic</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-prime-day-blowout-sales-on-computers-exclusive-oct-2024-offers-from-dell-lenovo-and-more-zdnet/"><u>Top Prime Day Blowout Sales on Computers: Exclusive Oct 2024 Offers From Dell, Lenovo & More - ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/top-solutions-to-fix-voicemod-not-launching-or-functioning-expert-advice-for-2n24/"><u>Top Solutions to Fix Voicemod Not Launching or Functioning - Expert Advice for 2N24</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solving-hdmi-sound-problems-on-windows-7-systems/"><u>Troubleshooting and Solving HDMI Sound Problems on Windows 7 Systems</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-range-of-fb-video-width-height-ratios/"><u>[Updated] 2024 Approved Range of FB Video Width-Height Ratios</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweet-trailblazers-the-trending-threads-showdown/"><u>[Updated] 2024 Approved Tweet Trailblazers The Trending Threads Showdown</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-portable-picture-pixels-windows-mac-best-photo-to-cartoon-converter/"><u>[Updated] Portable Picture Pixels Windows, Mac - Best Photo-to-Cartoon Converter</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-reimagining-the-corporate-environment-to-maximize-employee-potential/"><u>[Updated] Reimagining the Corporate Environment to Maximize Employee Potential</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-rust-mic-problems-a-step-by-step-solution-manual/"><u>Resolving Rust Mic Problems: A Step-by-Step Solution Manual</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-in-windows-media-player-effective-solutions-and-tips/"><u>Restoring Audio in Windows Media Player - Effective Solutions and Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scaling-up-innovative-design-methods-with-canva-and-ai-assistance/"><u>Scaling Up: Innovative Design Methods with Canva & AI Assistance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-fixing-logitech-g933-microphone-issues/"><u>Solution Guide: Fixing Logitech G933 Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-for-eliminating-crackling-sound-from-audio-outputs-on-windows-systems/"><u>Solution Steps for Eliminating Crackling Sound From Audio Outputs on Windows Systems</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209920699-9781071520536-successo-lunico-modo-possibile/"><u>Successo. L`Unico Modo Possibile | Free Book</u></a></li>
 </ul></div>
 

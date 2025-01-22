@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for Non-Functioning Razer Blackshark V2 Mic
-date: 2024-08-13T10:52:38.203Z
-updated: 2024-08-14T10:52:38.203Z
+date: 2025-01-21T18:44:18.444Z
+updated: 2025-01-22T18:08:49.446Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
  Is your**Logitech G430 microphone not working** ? You’re not alone. Many people have reported similar issues. But don’t worry, you can**fix the Logitech G430 mic not working** issues.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **How to fix Logitech G430 mic not working**
 
  If you didn’t mute the mic, if you’ve troubleshot the hardware and tried plugging your headset into different USB ports but your mic is still not working, try the solutions below:
@@ -47,13 +48,14 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ad8d38e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (If this issue happens in the voice chat when you play games, you can also check if the microphone status for that game is**ON** .)
 
  Re-plug your microphone again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **Fix 2: Update your audio driver**
 
  A missing or outdated audio driver in your computer can cause your Logitech G430 mic not working, so you should verify and keep your audio driver up to date.
@@ -74,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd5faedb2b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged sound card to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **_Update All_** ).
@@ -89,9 +95,6 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 
  If your issue still persists, don’t worry. We have other solutions for you to try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 3: Check your sound settings**
 
  Your Logitech G430 mic may not work because it’s disabled or not set as the default device for your Windows computer. Follow the steps below to check your sound settings:
@@ -99,9 +102,6 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
  1) Right click the volume icon at the bottom right corner on your desktop, and select**Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ffadbaf.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click the**Playback** tab, and make sure to set your microphone to**Default** **Device** .
 
@@ -118,25 +118,22 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
  5) Right click on your microphone again and select**Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6275be6bfc9.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Right click your microphone, and click**Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62766a93d1c.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) Click the**Levels** tab, and drag the volume slider to**maximum** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6278bfe07b0.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 
  8) Save your changes and restart your computer.
 
@@ -145,8 +142,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  Still no luck? Okay, there’s one more thing to try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 4: Reinstall Logitech Game Software**
 
  This is tricky but it works for many people who have similar issues. So you can give it a try.
@@ -166,8 +164,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +171,26 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-mastering-drone-racing-insights-and-best-fpv-models-for-2024/"><u>[New] Mastering Drone Racing Insights & Best FPV Models for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-speak-worldwide-with-these-27-premium-tools-to-translate-videos/"><u>[Updated] Speak Worldwide with These 27 Premium Tools to Translate Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/100-unique-instagram-captions-to-show-yourself-to-the-world-for-2024/"><u>100 Unique Instagram Captions to Show Yourself to the World for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/8-proven-solutions-and-tips-for-resolving-iphone-photo-gallery-glitches/"><u>8 Proven Solutions & Tips for Resolving iPhone Photo Gallery Glitches</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazing-value-alert-top-sony-bravia-selection-undercuts-competitors-frequently-discounted-techradar/"><u>Amazing Value Alert: Top Sony Bravia Selection Undercuts Competitors, Frequently Discounted! | TechRadar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audacity-stuck-overcome-opening-sound-device-issues-with-these-5-fixes/"><u>Audacity Stuck? Overcome 'Opening Sound Device' Issues with These 5 Fixes</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/audiovisual-synergy-infusing-music-into-vimeo-creations-for-2024/"><u>Audiovisual Synergy Infusing Music Into Vimeo Creations for 2024</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-nokia-c110-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Nokia C110 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015814832-borderlands-3-audio-glitch-heres-how-to-get-your-game-sounds-back-on-pc/"><u>Borderlands 3 Audio Glitch? Here's How to Get Your Game Sounds Back on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-fixes-for-a-malfunctioning-logitech-g7/"><u>Comprehensive Fixes for a Malfunctioning Logitech G7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-absence-in-task-managers-startups/"><u>Correcting Absence in Task Manager's Startups</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-solving-problems-with-your-razer-krakens-microphone/"><u>Diagnosing and Solving Problems with Your Razer Kraken's Microphone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/how-the-lg-gram-2018-changed-the-game-with-its-mega-screen-and-marvelous-battery-life/"><u>How the LG Gram (2018) Changed the Game with Its Mega Screen and Marvelous Battery Life</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015720658-hp-laptop-audio-dilemma-in-windows-10-heres-how-to-restore-your-sound-output/"><u>HP Laptop Audio Dilemma in Windows 10? Here's How to Restore Your Sound Output!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/personalizing-ps-sound-the-complete-guide-for-gamers-for-2024/"><u>Personalizing PS Sound The Complete Guide for Gamers for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-malfunctions-in-the-game-resident-evil-village/"><u>Troubleshooting Audio Malfunctions in the Game Resident Evil Village</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-restoring-volume-in-mozilla-firefox/"><u>Troubleshooting Complete: Restoring Volume in Mozilla Firefox</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-solving-logitech-g533-headset-mic-issues-all-cases-covered/"><u>Troubleshooting Tips for Solving Logitech G533 Headset Mic Issues - All Cases Covered</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-solving-issues-with-your-corsair-void-microphone/"><u>Troubleshooting Tips: Solving Issues with Your Corsair Void Microphone</u></a></li>
+</ul></div>
 

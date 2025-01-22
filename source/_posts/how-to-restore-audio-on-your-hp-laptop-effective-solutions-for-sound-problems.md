@@ -1,7 +1,7 @@
 ---
 title: How to Restore Audio on Your HP Laptop – Effective Solutions for Sound Problems
-date: 2024-08-13T10:54:18.201Z
-updated: 2024-08-14T10:54:18.201Z
+date: 2025-01-20T16:14:15.574Z
+updated: 2025-01-22T18:47:13.861Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/23e9b5bbeb00439d9f7feb49ea3cc9ef3c324a1be
 
  3) After those testing, see if the sound comes from your speakers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Update your speakers related drivers
 
  An old, corrupted or missing driver related your speakers can also cause this error, like**a sound card driver** ,**a Bluetooth driver** (if yo’re using a Bluetooth speakers). You can solve it through updating the driver.
@@ -53,13 +57,18 @@ thumbnail: https://thmb.techidaily.com/23e9b5bbeb00439d9f7feb49ea3cc9ef3c324a1be
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to any falgged driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Play a music or video on your laptop to see if the sound comes from the speakers.
@@ -73,34 +82,27 @@ Or click **Update All**  to automatically download and install the correct versi
  2) Type **devmgmt.msc**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac1fec110a5a.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 
  3) Right-click on your sound card to choose**Disable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c40611eb6.png)
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c3e821f53.png)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then you may find its icon ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c3c1585ef.png) change into ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c4aebac0d.png) .
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Wait for a while. Right-click on your sound card again and this time click**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c4fd4b764.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Play a music or video on your laptop to see if the sound comes from the speakers.
@@ -113,8 +115,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +122,26 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-download-free-mcb-logo-templates/"><u>[New] 2024 Approved Download Free MCB Logo Templates</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-expert-tips-top-8-verified-video-marketing-strategies/"><u>[New] In 2024, Expert Tips Top 8 Verified Video Marketing Strategies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ultimate-choice-for-gif-to-video-online-tools-best-5/"><u>[Updated] 2024 Approved Ultimate Choice for GIF-to-Video Online Tools (Best 5)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/critical-error-solved-eliminating-the-0x00000124-bsod-glitch-on-your-pcs-operating-system-windows-107/"><u>Critical Error Solved: Eliminating the 0X00000124 BSOD Glitch on Your PC's Operating System (Windows 10/7)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/csgo-audio-problems-solved-how-to-get-your-mic-working-again/"><u>CS:GO Audio Problems Solved – How To Get Your Mic Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dota-navigate-audio-troubles-expert-tips-for-a-functional-pc-mic-setup/"><u>Dota Navigate Audio Troubles: Expert Tips for a Functional PC Mic Setup</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016101674-ending-earache-solutions-for-crackling-headphones-fast/"><u>Ending Earache: Solutions for Crackling Headphones Fast!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014295527-how-to-fix-logitech-g-pro-x-cracking-popping-noise-on-pc-2024-tips/"><u>How to Fix Logitech G Pro X Cracking/ Popping Noise on PC – 2024 Tips</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-v27e-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo V27e to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-iphone-and-ipads-best-video-player-compilation-top-10/"><u>In 2024, IPhone & iPad's Best Video Player Compilation (Top 10)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mythos-makers-mecca-prime-pantheon-seven/"><u>Mythos Makers’ Mecca - Prime Pantheon Seven</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/reviving-lost-files-3-effective-methods-for-recovering-a-folder-from-your-onedrive-history/"><u>Reviving Lost Files: 3 Effective Methods for Recovering a Folder From Your OneDrive History</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-found-correcting-sound-delivery-from-speakers-instead-of-headphone-connection/"><u>Solution Found: Correcting Sound Delivery From Speakers Instead of Headphone Connection</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-how-to-restore-your-league-of-legends-voice-chat-functionality/"><u>Solution Steps: How To Restore Your League of Legends Voice Chat Functionality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strengthening-your-thesis-with-ai-how-to-integrate-chatgpt-into-research-and-academic-writing/"><u>Strengthening Your Thesis with AI: How to Integrate ChatGPT Into Research & Academic Writing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-premium-luts-available-for-free-for-2024/"><u>Top 10 Premium LUTs, Available for FREE for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-oculus-quest-2-mic-not-working/"><u>Troubleshoot Oculus Quest 2 Mic Not Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-pc-speakers-fixing-audio-issues-in-windows-11/"><u>Troubleshooting Silent PC Speakers: Fixing Audio Issues in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tutorial-how-to-repair-a-malfunctioning-turtle-beach-recon-70-gaming-mic/"><u>Tutorial: How to Repair a Malfunctioning Turtle Beach Recon 70 Gaming Mic</u></a></li>
+</ul></div>
 

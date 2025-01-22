@@ -1,7 +1,7 @@
 ---
 title: Audio System Malfunction? Here’s How to Get Your Sounds Running Again
-date: 2025-01-15T16:02:06.873Z
-updated: 2025-01-16T16:03:46.897Z
+date: 2025-01-16T16:17:01.815Z
+updated: 2025-01-22T19:30:20.576Z
 tags:
   - win11
   - win10
@@ -32,20 +32,12 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 2. [**Update your audio drivers**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Reinstall your audio drivers**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Check the status of your audio services
 
  Whenever you encounter the **One or more audio service isn’t running** problem, the first thing you should do is make sure the service in question is running. Here’s how to check the status of your audio services:
 
 1. On your keyboard, press the**Windows logo** ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8ac86a6f5.png) **key** and **R** at the same time to invoke the Run box.
 2. Type**services.msc** and press**Enter** to open the**Services** window.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9f60971b1b9.png)
 3. Scroll down to and right-click**Windows Audio** , then select**Restart** .  
@@ -56,8 +48,20 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f0d59e995.jpg)
 5. Repeat step 3) and step 4) for**Windows Audio Endpoint Builder** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f2e4d5191.jpg)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f2290c014.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Click**OK** , then close the Service window.
 
@@ -86,11 +90,11 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc075f35e6b9.jpg)
 4. Check if your computer now plays music properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 3, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall your audio drivers
 
@@ -101,15 +105,11 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f6f812df0.png)
 3. Expand the **Sound, video and game controllers** category.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f7aec80f7.jpg)
 4. For each audio device under that category, right-click on it and select**Uninstall device** . Note: Click**Uninstall** if prompted for confirmation.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f91648965.png)
@@ -138,18 +138,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-premium-10-drones-capturing-images-and-films/"><u>[Updated] 2024 Approved Premium 10 Drones Capturing Images & Films</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-transform-your-on-screen-identity-into-a-brand-on-youtube/"><u>2024 Approved Transform Your On-Screen Identity Into a Brand on YouTube</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/banish-the-pops-and-cracks-expert-tips-for-clearer-headphone-sound/"><u>Banish the Pops & Cracks: Expert Tips for Clearer Headphone Sound</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-to-repairing-a-non-functional-lucidsound-ls30-microphone/"><u>Comprehensive Guide to Repairing a Non-Functional LucidSound LS30 Microphone</u></a></li>
-<li><a href="https://games-able.techidaily.com/dialogue-development-via-chatgpt/"><u>Dialogue Development via ChatGPT</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/examining-storage-space-for-bulk-movie-files-64128gb-for-2024/"><u>Examining Storage Space for Bulk Movie Files, 64/128Gb for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-fortnite-voice-communication-issues-fast-expert-solutions/"><u>Fix Fortnite Voice Communication Issues Fast - Expert Solutions!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-service-not-responding-error-a-step-by-step-guide/"><u>How to Fix 'Audio Service Not Responding' Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-vivo-t2x-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Vivo T2x 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/methoden-zum-abrufen-von-daten-aus-externen-laufwerken-eine-umfassende-anleitung/"><u>Methoden Zum Abrufen Von Daten Aus Externen Laufwerken: Eine Umfassende Anleitung</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/methods-for-subtle-volume-reduction-in-fl-studio/"><u>Methods for Subtle Volume Reduction in FL Studio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-the-mic-on-your-steelseries-arctis-prime-a-step-by-step-solution/"><u>Reviving the Mic on Your SteelSeries Arctis Prime - A Step-by-Step Solution</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-troubleshooter-resolving-problems-with-logitech-g633-mic-solved/"><u>The Ultimate Troubleshooter: Resolving Problems with Logitech G633 Mic - Solved!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-power-of-pixels-a-review-of-the-4k-cg318-4k-monitor/"><u>[New] The Power of Pixels A Review of the 4K CG318-4K Monitor</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/8-useful-tool-to-pixelate-face-on-photo-for-2024/"><u>8 Useful Tool to Pixelate Face on Photo for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-honor-magic-5-pro-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Honor Magic 5 Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/airpods-on-windows-11-diagnosing-and-fixing-microphone-problems-for-optimal-audio-performance/"><u>AirPods on Windows 11: Diagnosing and Fixing Microphone Problems for Optimal Audio Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/detailed-tutorial-reactivating-the-dolby-audio-driver-when-encountered-with-errors-in-windows-11/"><u>Detailed Tutorial: Reactivating the Dolby Audio Driver When Encountered with Errors in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016963264-diagnose-and-solve-your-windows-7-sound-problem-with-these-helpful-tips/"><u>Diagnose and Solve Your Window's 7 Sound Problem with These Helpful Tips!</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/easy-to-follow-tutorial-on-linking-a-mac-computer-to-your-samsung-tv-screen/"><u>Easy-to-Follow Tutorial on Linking a Mac Computer to Your Samsung TV Screen</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-to-get-your-steelseries-arctis-n-microphone-working-again/"><u>Effective Solutions to Get Your SteelSeries Arctis N Microphone Working Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/epic-games-launcher-trouble-heres-how-to-fix-it-fast/"><u>Epic Games Launcher Trouble? Here's How to Fix It Fast</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-meizu-21-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Meizu 21 Pro to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-essential-guide-to-simple-iphone-screen-recording/"><u>In 2024, The Essential Guide to Simple Iphone Screen Recording</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014718178-no-audio-from-g435-bluetooth-headset-learn-how-to-rectify-the-problem-quickly/"><u>No Audio From G435 Bluetooth Headset? Learn How to Rectify the Problem Quickly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-spectrum-of-ai-innovation-and-associated-risks/"><u>The Spectrum of AI Innovation & Associated Risks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-repairing-your-kotion-each-g2000-mic-issues/"><u>Troubleshooting Tips: Repairing Your Kotion Each G2000 Mic Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unresolved-error-fix-guide-when-headphones-arent-detected-by-windows-10-media-devices/"><u>Unresolved Error: Fix Guide When Headphones Aren't Detected by Windows 10 Media Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017001360-voicemod-wont-open-or-function-expert-troubleshooting-tips-for-202e/"><u>Voicemod Won't Open or Function? Expert Troubleshooting Tips for 202E!</u></a></li>
 </ul></div>
 

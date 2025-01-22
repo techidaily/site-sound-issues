@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Eliminating Sound Echo Issues in Discord on Your Computer"
-date: 2024-08-13T10:54:59.665Z
-updated: 2024-08-14T10:54:59.665Z
+date: 2025-01-16T17:25:12.277Z
+updated: 2025-01-22T17:32:19.319Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ Follow the steps below in order until you fix your issue.
 3. **[Download & Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Tweak Discord settings
 
  Discord has partnered with Krisp, a noise filtration software to allow users to enjoy their voice chats by introducing the Noise Suppression option. So you’ll need to make sure that you’ve enabled this option.
@@ -44,25 +48,31 @@ Follow the steps below in order until you fix your issue.
 2. On the bottom-left, you’ll see a**peculiar vertical lines** icon next to the End Call icon. Click on it and hit the grey switch to**Enable Noise suppression.**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/noise-suppression-inside-a-channel-voice-chat.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. And you’ll need to do the same inside**USER SETTINGS** .  
 
  Click on the gear icon at the bottom-left corner next to your username.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/Discord-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 4. Select**Voice & Video** . Then make sure you’ve chosen the correct input and output device.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/Discord-choose-your-proper-input-and-output-device.jpg)
 5. Scroll down and toggle**on Echo Cancellation** . Then tick**Krisp** for Noise Suppression.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/Discord-Echo-Cancellation-on.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Save your settings and restart Discord. If it’s still echoing, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Change Windows settings
 
@@ -71,28 +81,23 @@ Follow the steps below in order until you fix your issue.
 1. At the bottom-right corner of your taskbar, right-click your sound icon and select **Open Sound settings** .  
 
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 2. Make sure you select the correct output and input device from the drop-down.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/choose-the-correct-input-and-output-device.jpg)
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/choose-the-correct-input-and-output-device.jpg)
 3. If your problem persists after verifying the correct input and output device, click**Sound Control Panel** in the top right.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/Sound-Control-Panel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 4. Under the**Playback** tab, right-click your device and select**Properties** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound-control-panel-playback-properties.jpg)
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound-control-panel-playback-properties.jpg)
 5. In the**Properties** window, select the**Spatial Sound** tab. Make sure to turn it**Off** . Then click**Apply > OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/turn-off-spatial-sound.jpg)
@@ -106,18 +111,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. In the Search box, type in **check for updates** . Click **Check for updates**  from results.  
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. Click on the **Check for updates**  tab and wait for it to download and install the available updates. And you should be asked to restart your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this doesn’t do the trick, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Update your audio driver
 
  Audio issues can arise if you’re using an**outdated audio driver** . To fix the Discord echo problem, you should give updating the audio driver a try. This may be the best shot you can take without much troubleshooting. You can update your audio driver manually using the Device Manager utility in Windows or go to your sound card manufacturer to search for driver updates.
@@ -128,9 +131,6 @@ If this doesn’t do the trick, proceed to the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any devices with outdated drivers.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money-back guarantee** . You’ll be prompted to upgrade when you click Update All. You can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
@@ -151,8 +151,6 @@ If this doesn’t do the trick, proceed to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +158,21 @@ If this doesn’t do the trick, proceed to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-advanced-tips-for-crafting-vhs-images-on-computers/"><u>[New] Advanced Tips for Crafting VHS Images on Computers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-best-video-grabbers-for-mac/"><u>[Updated] Best Video Grabbers for Mac</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-enabling-cross-platform-play-a-step-by-step-guide-for-2024/"><u>[Updated] Enabling Cross-Platform Play A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-journey-to-crafting-wow-worthy-collage-art/"><u>[Updated] The Journey to Crafting Wow-Worthy Collage Art</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/cing-your-youtube-reach-with-famebit-ad-sponsorships/"><u>Enhancing Your YouTube Reach with FameBit Ad Sponsorships</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-every-feature-of-the-arlo-video-monitoring-package/"><u>Exploring Every Feature of the Arlo Video Monitoring Package</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-xiaomi-13t-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Xiaomi 13T for Streaming | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-uncovering-superior-free-viewers-for-your-webm-media-files/"><u>In 2024, Uncovering Superior, Free Viewers for Your WebM Media Files</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015642671-no-audio-in-battlefield-4-discover-the-ultimate-solutions/"><u>No Audio in Battlefield 4? Discover the Ultimate Solutions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revitalize-os-performance-with-updated-drivers/"><u>Revitalize OS Performance with Updated Drivers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-tips-for-a-malfunctioning-steelseries-arctis-pro-headset-mic/"><u>Step-by-Step Repair Tips for a Malfunctioning SteelSeries Arctis Pro Headset Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-razer-manowar-headset-heres-how-to-fix-the-mic/"><u>Trouble with Razer ManO’War Headset? Here’s How to Fix the Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solving-laptop-has-no-audio-output-problem/"><u>Troubleshooting and Solving 'Laptop Has No Audio Output' Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014424163-troubleshooting-hyperx-cloud-speaker-and-mic-solved/"><u>Troubleshooting HyperX Cloud Speaker and Mic: Solved!</u></a></li>
+</ul></div>
 

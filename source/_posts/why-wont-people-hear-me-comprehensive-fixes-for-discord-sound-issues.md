@@ -1,7 +1,7 @@
 ---
 title: Why Won’t People Hear Me? Comprehensive Fixes for Discord Sound Issues
-date: 2024-08-13T10:54:34.414Z
-updated: 2024-08-14T10:54:34.414Z
+date: 2025-01-20T20:53:32.021Z
+updated: 2025-01-22T16:28:05.712Z
 tags:
   - win11
   - win10
@@ -26,8 +26,9 @@ It’s annoying that your Discord is picking up game audio all of a sudden. But 
 * **Sound settings:** Another possible cause of Discord picking up game audio is that your microphone is not set as the default input device.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to fix Discord audio issues?
 
 * [1. Update audio drivers](https://tools.techidaily.com/drivereasy/download/)
@@ -35,8 +36,9 @@ It’s annoying that your Discord is picking up game audio all of a sudden. But 
 * [3. Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Update audio drivers
 
  A properly working audio driver can make sure your device is working normally. If your Discord picks up the game audio, it might be caused by a malfunctioning audio driver. To make sure your audio works fine, you should update your audio driver:
@@ -64,9 +66,6 @@ There’re mainly two ways for you to update an audio driver:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Change sound settings
 
  This issue happens when Stereo Mix (instead of your headset microphone) is set to the default device. To fix it, you should disable Stereo Mix, and set your microphone as the default device:
@@ -80,9 +79,6 @@ There’re mainly two ways for you to update an audio driver:
  3) Right-click**Stereo Mix** and select **Disable** , and make sure you have set your headphone as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.jpg)
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 
  4) Open Discord application, and go to**User Settings** .
 
@@ -93,8 +89,9 @@ There’re mainly two ways for you to update an audio driver:
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Reinstall Discord
 
  If nothing worked, you can try reinstalling Discord in case it’s an app-related issue. Here’s how:
@@ -105,11 +102,16 @@ There’re mainly two ways for you to update an audio driver:
 
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click Discord, and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once complete, you can download[**the latest Discord client**](https://discord.com/brand-new) and check if the issues persist in the new version.
@@ -126,8 +128,6 @@ There’re mainly two ways for you to update an audio driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +135,22 @@ There’re mainly two ways for you to update an audio driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mac-based-strategies-for-shorter-insta-videos/"><u>[New] Mac-Based Strategies for Shorter Insta Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-psychology-behind-successful-facebook-gifting-campaigns/"><u>[New] The Psychology Behind Successful Facebook Gifting Campaigns</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-spots-for-discovering-rich-gold-text-effects/"><u>[Updated] Ultimate Spots for Discovering Rich, Gold Text Effects</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/android-moba-gems-discovering-the-classics/"><u>Android MOBA Gems Discovering the Classics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repair-techniques-for-apple-airpod-microphones-failing-on-windows-11-systems/"><u>DIY Repair Techniques for Apple AirPod Microphones Failing on Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-solutions-when-your-logitech-camera-mic-fails/"><u>Fixing Issues: Solutions When Your Logitech Camera Mic Fails</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-sound-trouble-with-dota-2-on-pc-mic-not-working/"><u>How to Resolve Sound Trouble with Dota 2 on PC (Mic Not Working)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-output-on-a-laptop-with-a-defective-headphone-socket/"><u>How to Restore Sound Output on a Laptop with a Defective Headphone Socket</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-sony-x1000-video-excellence-detailed-product-evaluation/"><u>In 2024, Sony X1000 Video Excellence Detailed Product Evaluation</u></a></li>
+<li><a href="https://fox-place.techidaily.com/master-writer-and-editorial-strategist-for-engaging-online-content/"><u>Master Writer & Editorial Strategist for Engaging Online Content</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-guide-to-popular-radio-ambiance-for-2024/"><u>New The Ultimate Guide to Popular Radio Ambiance for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-guide-resolve-absence-of-noise-on-pc-without-hassle/"><u>Quick Fix Guide: Resolve Absence of Noise on PC Without Hassle</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-windows-10-audio-experience-steps-to-fix-low-volume-issues/"><u>Revive Your Windows 10 Audio Experience - Steps to Fix Low Volume Issues</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-lenovo-p11-pro-assessment-outstanding-tablet-with-minor-flaws-explored/"><u>The Lenovo P11 Pro Assessment: Outstanding Tablet with Minor Flaws Explored</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solve the Silent Battlefield: Troubleshooting No Sound for Apex Legends Players"
-date: 2024-08-13T10:55:45.456Z
-updated: 2024-08-14T10:55:45.456Z
+date: 2025-01-15T17:54:32.962Z
+updated: 2025-01-22T17:21:15.937Z
 tags:
   - win11
   - win10
@@ -20,9 +20,6 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
  If you’re having audio issues on your**PS4** , check[](https://tools.techidaily.com/drivereasy/download/) **[here](https://tools.techidaily.com/drivereasy/download/)**  .  
  If you’re on Xbox, check[**here**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fixes to try
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -34,11 +31,16 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 5. **[Reinstall Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Restart your computer
 
  Some programs running in the background may conflict with Apex Legends, causing audio issues. In this case, try rebooting your computer to turn off unwanted programs completely. After your computer restarts, relaunch your game to check if you get the sound back. If not, read on and check the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run the Windows audio troubleshooter
 
@@ -51,12 +53,13 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-322.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**Playing Audio** , then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-323.png)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Follow the on-screen instructions to troubleshoot your problem.
 
@@ -100,13 +103,14 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-281.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Restart Windows Audio Services
 
  Some audio issues can also be addressed by restarting Windows Audio Services. To see if that works for you, follow the instructions below:
@@ -114,8 +118,9 @@ OR
 **1)** On your keyboard, press the**Windows logo** key and type**services** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-324.png)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Right-click**Windows Audio** , then select**Restart** .
@@ -135,9 +140,6 @@ OR
 **2)** Click**My Game Library** , right-click**Apex Legends** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-327.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 **3)** After your game is uninstalled, restart your computer.
 
@@ -158,8 +160,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +167,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boost-views-via-strategic-tagging-tactics/"><u>[New] 2024 Approved Boost Views via Strategic Tagging Tactics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-perfecting-package-adventure-for-all/"><u>[New] Perfecting Package Adventure for All</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-windows-7-sound-not-working/"><u>[Solved] Windows 7 Sound Not Working</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-elevate-your-content-with-these-10-reaction-wonders/"><u>[Updated] 2024 Approved Elevate Your Content with These 10 Reaction Wonders</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-financial-face-off-comparing-dailymotion-and-youtube-profitability-for-2024/"><u>[Updated] Financial Face-Off Comparing Dailymotion & YouTube Profitability for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-fixes-and-tips-for-an-optimal-resident-evil-village-adventure/"><u>Audio Fixes and Tips for an Optimal Resident Evil Village Adventure</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comparing-the-samsung-galaxy-s24-ultra-and-s23-ultra-features-specs-and-performance/"><u>Comparing the Samsung Galaxy S24 Ultra and S23 Ultra: Features, Specs, and Performance</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-common-issues-razer-man-o-war-headset-microphone-troubleshooting/"><u>Fixing Common Issues: Razer Man O' War Headset Microphone Troubleshooting</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/how-to-record-desktop-on-windows-8-effortlessly/"><u>How To Record Desktop on Windows 8 Effortlessly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/lost-in-transmission-restore-voip-feature-functionality-in-call-of-duty-modern-warfare/"><u>Lost in Transmission? Restore VOIP Feature Functionality in Call of Duty Modern Warfare</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/luminouslabs-top-10-free-and-paid-filters-compare/"><u>LuminousLabs Top 10 Free & Paid Filters Compare</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/mastering-webinar-recording-techniques/"><u>Mastering Webinar Recording Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-voice-communication-in-rainbow-six-siege-fixes-following-the-2024-patch-release/"><u>Reviving Voice Communication in Rainbow Six Siege: Fixes Following the 2024 Patch Release</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-glitches-in-fortnite-reactive-measures-to-mend-mic-malfunctions/"><u>Troubleshooting Audio Glitches in Fortnite: Reactive Measures to Mend Mic Malfunctions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-restoring-audio-functionality-in-windows-amoled-with-conexants-smartaudio-hd/"><u>Troubleshooting Steps: Restoring Audio Functionality in Windows Amoled with Conexant's SmartAudio HD</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-hyperx-cloud-alpha-headset-a-complete-guide-to-repairing-the-microphone/"><u>Troubleshooting Your HyperX Cloud Alpha Headset: A Complete Guide to Repairing the Microphone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing Silent Apex Legends: Solutions to Restore Game Audio"
-date: 2024-08-13T10:52:59.640Z
-updated: 2024-08-14T10:52:59.640Z
+date: 2025-01-19T17:15:16.530Z
+updated: 2025-01-22T20:49:07.477Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/50acc7360c65e3c0e7572721fe570e1447b70b490
 If you run into the**Bluetooth** connected but no sound coming out issue on your computer, don’t worry. It’s often quite easy to fix…
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5 fixes for Bluetooth Connected But No Sound
 
  The screenshots below are from**Windows 10** , but the fixes also work in**Windows 8.1** and**7** .
@@ -40,15 +41,13 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 
 1. On your keyboard, press the **Windows logo key**  and type**sound** . Then click on**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1c8bbf643.jpg)
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 2. In the**Playback** tab, click on**your** **Bluetooth device** \>**Set Default** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d212718ff2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 3. Play some music and see if this**Bluetooth Connected But No Sound** problem gets resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -58,14 +57,8 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 
 1. On your keyboard, press the **Windows logo key**  and type**sound** . Then click on**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1c8bbf643.jpg)
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. In the**Playback** tab, click on**your** **Bluetooth device** \>**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d223cd2694.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Click the Levels tab. Then make sure**the volume bar is dragged to an audible level** and the sound icon**isn’t muted** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d22c378f3f.png)
 4. Click**Apply** \>**OK** .
@@ -74,24 +67,29 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Make sure the Bluetooth Support Service is enabled
 
  Another reason for this **Bluetooth Connected But No Sound**  problem is the service simply disabled. To turn it back on:
 
 1. On your keyboard, press the **Windows logo key**  and **R**  at the same time. Then copy & paste **services.msc**  into the box and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ef3aff37fc.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 2. Double-click on**Bluetooth Support Service** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1e0590947.jpg)
 3. Select**Automatic** in the**Startup type** drop-down menu and then click**Start** to jumpstart the service. Then click**Apply** \>**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1ea8ed445.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1ea8ed445.jpg)
 4. Play some music and test if your**Bluetooth Connected But No Sound** has been fixed. If it’s still no joy, please move on to F**ix 4,** below.
 
 ---
@@ -129,6 +127,10 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 3. If Fortectdetects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
 Once finished with the repair, check if the error has been resolved.
@@ -145,8 +147,6 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +154,26 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-stepping-into-a-new-digital-era-mastering-your-tiktok-handle-change-process/"><u>[New] In 2024, Stepping Into a New Digital Era Mastering Your TikTok Handle Change Process</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-selecting-5-online-title-makers/"><u>[New] The Ultimate Guide to Selecting 5 Online Title Makers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-step-by-step-guide-to-crafting-compelling-squares-for-facebook/"><u>[Updated] 2024 Approved Step-by-Step Guide to Crafting Compelling Squares for Facebook</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-elevate-your-channel-ranking-with-these-11-seo-secrets/"><u>[Updated] Elevate Your Channel Ranking with These 11 SEO Secrets</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-ultimate-sound-bank-vintage-voice-choices/"><u>[Updated] In 2024, Ultimate Sound Bank Vintage Voice Choices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-convenient-approaches-to-archive-vimeo-video/"><u>2024 Approved Convenient Approaches to Archive Vimeo Video</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-smooth-sailing-in-transforming-ppt-slides-into-videos/"><u>2024 Approved Smooth Sailing in Transforming PPT Slides Into Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-the-vanguard-of-radio-theatre-composition/"><u>2024 Approved The Vanguard of Radio-Theatre Composition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-diagnosing-and-resolving-laptop-speaker-failures-for-optimal-performance/"><u>Guide to Diagnosing & Resolving Laptop Speaker Failures for Optimal Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-steelseries-arctis-prime-microphone-working-again-a-step-by-step-guide/"><u>How to Get Your SteelSeries Arctis Prime Microphone Working Again: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-voice-chat-problems-in-call-of-duty-black-ops-cold-war/"><u>How to Resolve Voice Chat Problems in Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-swiftly-fix-a-stuck-playback-unavailable-error-on-your-device/"><u>How to Swiftly Fix a Stuck 'Playback Unavailable' Error on Your Device</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-unraveling-the-mystery-of-phantoms-velocity-inversion/"><u>In 2024, Unraveling the Mystery of Phantom's Velocity Inversion</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/instant-troubleshooting-tips-for-fixing-the-oculus-rift-s-mic-issue-latest-techniques/"><u>Instant Troubleshooting Tips for Fixing the Oculus Rift S Mic Issue - Latest Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/maximizing-sound-output-for-your-pc-with-windows-11-easy-fixes/"><u>Maximizing Sound Output for Your PC with Windows 11 Easy Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-audio-with-anthem-windows-10-heres-how-to-fix-it-quickly/"><u>No Audio with Anthem Windows 10? Here's How to Fix It Quickly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-sound-quirks-on-your-computer-fixing-stutter-and-distortion-issues-in-windows-117/"><u>Overcome Sound Quirks on Your Computer: Fixing Stutter and Distortion Issues in Windows 11/7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-nvidias-silent-challenge-expert-tips-to-fix-your-hd-audio-no-sound-woes/"><u>Overcoming Nvidia's Silent Challenge: Expert Tips to Fix Your HD Audio No Sound Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-fixes-bypassing-windows-black-screen-woes/"><u>Top Fixes: Bypassing Windows Black-Screen Woes</u></a></li>
+</ul></div>
 

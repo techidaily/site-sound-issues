@@ -1,7 +1,7 @@
 ---
 title: How to Fix Can't Hear Anyone on Discord
-date: 2024-08-13T10:53:05.856Z
-updated: 2024-08-14T10:53:05.856Z
+date: 2025-01-17T18:52:42.803Z
+updated: 2025-01-22T17:43:30.279Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
 1. [](https://tools.techidaily.com/drivereasy/download/) [**Check your microphone device settings**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Update your audio drivers**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## Method 1: Check your microphone device settings
 
  Your Razer Kraken mic may not be working because it’s disabled or not set as the default device on your computer. Or the microphone volume is set to a very low value so it can’t record your sound clearly. To check these settings:
@@ -40,11 +36,16 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Select **Sound** .
@@ -54,15 +55,17 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
 **4)**  Select the **Recording** tab, then right click on any empty place inside the device list and tick **Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)**  Right click the**Headset Microphone** and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)** Right click it again and select **Set as Default Device** .
@@ -81,9 +84,6 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem. But if not, you may need to…
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2: Update your audio drivers
 
  The mic on your Razer Kraken headset won’t work if you’re using an incorrect or outdated audio or headset driver. So you should update the driver to see if that fixes the issue.
@@ -97,8 +97,9 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
 **2)**  Run**Driver Easy** and click the **Scan Now** button.**Driver Easy** will scan your computer and detect any problem drivers.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the**Activate & Update** button next to your sound device or your headset to download the latest and correct driver for it.
@@ -117,8 +118,6 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +125,23 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-top-5-web-video-recorders/"><u>[New] 2024 Approved Top 5 Web Video Recorders</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-dive-into-yi-4k-plus-action-camera-an-all-encompassing-review-for-2024/"><u>[Updated] Dive Into Yi 4K + Action Camera An All-Encompassing Review for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-best-mac-video-capturing-software-post-bandicam-revolution/"><u>[Updated] In 2024, Best Mac Video Capturing Software Post-Bandicam Revolution</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-best-talker-alteration-apps-for-video-content-makers/"><u>[Updated] In 2024, Best Talker Alteration Apps for Video Content Makers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-unmatched-editing-apps-to-enhance-webcam-content/"><u>[Updated] In 2024, Unmatched Editing Apps to Enhance Webcam Content</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-invaluable-list-of-prime-no-charge-sites-for-seamless-video-editing-experience/"><u>[Updated] Invaluable List of Prime No-Charge Sites for Seamless Video Editing Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-spark-interest-drive-engagement-top-30-video-ideas/"><u>[Updated] Spark Interest, Drive Engagement Top 30 Video Ideas</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-proven-picks-for-high-quality-screenshot-tools-on-a-budget/"><u>2024 Approved Proven Picks for High-Quality Screenshot Tools on a Budget</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-spectral-stories-telling-tales-through-color/"><u>2024 Approved Spectral Stories Telling Tales Through Color</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bring-back-the-sounds-of-battle-how-to-restore-sound-for-anthem-in-windows-10/"><u>Bring Back the Sounds of Battle: How to Restore Sound for Anthem in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-fixes-to-eliminate-unwanted-noises-in-windows-audio-systems/"><u>The Definitive Fixes to Eliminate Unwanted Noises in Windows Audio Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solving-stereo-mix-problems-on-your-device/"><u>Troubleshooting and Solving 'Stereo Mix' Problems on Your Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solving-steelseries-arctis-99x-microphone-problems/"><u>Troubleshooting and Solving SteelSeries Arctis 9/9X Microphone Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-success-speakers-playing-instead-of-headphones-even-with-cable-attached/"><u>Troubleshooting Success: Speakers Playing Instead of Headphones, Even with Cable Attached</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unstuck-with-a-broken-redragon-mic-discover-proven-techniques-to-get-your-pc-microphone-up-and-running-again/"><u>Unstuck with a Broken Redragon Mic? Discover Proven Techniques to Get Your PC Microphone Up and Running Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unstuck-your-voice-communication-in-apex-legends-fixes-you-need-today/"><u>Unstuck Your Voice Communication in Apex Legends – Fixes You Need Today!</u></a></li>
+</ul></div>
 

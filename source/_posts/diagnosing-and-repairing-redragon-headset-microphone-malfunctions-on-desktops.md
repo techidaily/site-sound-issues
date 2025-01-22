@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Redragon Headset Microphone Malfunctions on Desktops
-date: 2025-01-11T16:00:19.563Z
-updated: 2025-01-16T16:00:44.353Z
+date: 2025-01-18T19:00:42.238Z
+updated: 2025-01-22T18:36:01.287Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
 
  Before you proceed to the more complicated fixes, try**restarting your browser and computer** . A simple restart can sometimes perfectly resolve the microphone glitch.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Update your audio driver
 
  If you’re using a faulty, corrupted or outdated audio driver, various audio issues will occur. You may find the microphone is malfunctioning or there’s no sound when using Google Meet. To fix the issue, make sure you install the latest correct audio driver.
@@ -55,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-driver-update-de.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -78,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
 
  When you complete the steps, check if Google Meet can pick up your voice. If not, move on to the next method below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3 – Check your PC sound settings
 
  If you have several peripherals connected to the computer, there’s a good chance that your preferred device is not set as default and thus the microphone doesn’t work properly in Google Meet. To see if that’s the case, check the sound settings as follows.
@@ -86,22 +86,26 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-1.jpg)
 2. Navigate to the**Recording** tab. First make sure your microphone is enabled (showing a green checkmark). If it’s not and displays a grey down-arrow icon, right-click it and click**Enable** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-3.jpg)
 3. Click the**Microphone** you would like to use and click**Set Default** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
 4. You also need to set the microphone volume to a proper level: right-click the microphone and select**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-6-1.jpg)
 5. Click the**Levels** tab and drag the microphone slider to turn the volume to the max. Then click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-2-1.jpg)
 
@@ -119,14 +123,10 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-2.jpg)
 4. From the drop-down menu under Microphone, select your primary microphone.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you still can’t use the microphone in Google Meet, the last resort is to**double-check the physical connection** .
@@ -156,22 +156,18 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-the-ultimate-guide-to-iphones-free-photo-boosting-software/"><u>[New] The Ultimate Guide to iPhone’s FREE Photo Boosting Software</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-in-search-of-prime-zero-dollar-video-improvement-websites/"><u>[Updated] In 2024, In Search of Prime Zero-Dollar Video Improvement Websites</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-focused-gaming-recordings-software/"><u>2024 Approved Focused Gaming Recordings Software</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/achieving-better-acoustics-tips-for-raising-the-volume-in-windows-(span-stylecolor4b8e4f)10(span)/"><u>Achieving Better Acoustics: Tips for Raising the Volume in Windows <Span Style=color:#4b8e4f;>10</Span></u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bring-back-the-boss-blasts-troubleshooting-anthems-muted-sounds-in-windows-11/"><u>Bring Back the Boss Blasts: Troubleshooting Anthem’s Muted Sounds in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/dealing-with-silent-battles-solutions-for-hearthstone-sound-problems/"><u>Dealing with Silent Battles: Solutions for Hearthstone Sound Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-audio-problems-on-laptops-a-step-by-nstep-guide/"><u>Diagnosing and Repairing Audio Problems on Laptops: A Step-by-nStep Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/experts-selection-free-mp3-conversion-tools-for-pc-users-of-windows-1187-including-movavi/"><u>Expert's Selection: Free MP3 Conversion Tools for PC Users of Windows 11/8/7 Including Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-oppo-reno-10-proplus-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Oppo Reno 10 Pro+ 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Samsung Galaxy S24 Ultra</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016550163-pubg-voice-communication-troubles-heres-how-to-fix-it/"><u>PUBG Voice Communication Troubles? Here's How to Fix It!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-connectivity-problems-with-your-blue-yeti-microphone-top-tips-and-fixes/"><u>Solving Connectivity Problems with Your Blue Yeti Microphone - Top Tips & Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015652554-troubleshooting-audio-issues-on-microsoft-operating-systems-windows-7-to-windows-11-solved/"><u>Troubleshooting Audio Issues on Microsoft Operating Systems – Windows 7 to Windows 11 Solved</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/ultimate-6-contemporary-mojave-home-layouts-for-2024/"><u>Ultimate 6 Contemporary Mojave Home Layouts for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/warzone-audio-troubleshooting-guide-for-players-experiencing-microphone-or-voice-chat-failures-pc-and-console/"><u>Warzone Audio Troubleshooting Guide for Players Experiencing Microphone or Voice Chat Failures (PC & Console)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-leading-tools-for-customizable-screenshot-capabilities/"><u>[New] In 2024, Leading Tools for Customizable Screenshot Capabilities</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-chorus-and-bass-macs-sound-control/"><u>[Updated] 2024 Approved Chorus & Bass Mac's Sound Control</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-full-feature-dissection-the-sony-fdr-x1000-videographer/"><u>2024 Approved Full Feature Dissection - The Sony FDR-X1000 Videographer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-humor-unleashed-top-meme-creator/"><u>2024 Approved Humor Unleashed Top Meme Creator</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/a-comprehensive-guide-for-rectifying-non-functioning-mics-in-the-kotion-g2000-series/"><u>A Comprehensive Guide for Rectifying Non-Functioning Mics in the Kotion G2000 Series</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/december-3rd-jonny-kim-an-american-physician-specializing-in-neurosurgery-at-harvard-medical-school-and-a-nasa-astronaut-candidate-his-diverse-background-ad668/"><u>December 3Rd - Jonny Kim, an American Physician Specializing in Neurosurgery at Harvard Medical School and a NASA Astronaut Candidate. His Diverse Background Adds Depth to the Field of Space Exploration.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-the-silent-microphone-in-your-steelseries-arctis-9-9x-step-by-step-solutions/"><u>Diagnosing & Repairing the Silent Microphone in Your SteelSeries Arctis 9, 9X - Step-by-Step Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-restoring-functionality-of-a-malfunctioning-hyperx-cloud-stinger-mic/"><u>Diagnosing and Restoring Functionality of a Malfunctioning HyperX Cloud Stinger Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-fixing-a-malfunctioning-fortnite-microphone-instantly/"><u>Expert Advice on Fixing a Malfunctioning Fortnite Microphone Instantly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-resolve-xbox-one-audio-problems-for-a-seamless-gaming-experience/"><u>Expert Advice: Resolve Xbox One Audio Problems for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-vivo-y78plus-t1-edition-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Vivo Y78+ (T1) Edition to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-get-a-huge-discount-on-the-popular-gotrax-g4-electric-scooter-now-available-at-amazon-tech-insights-by-zdnet/"><u>Save Big: Get a Huge Discount on the Popular GOTRAX G4 Electric Scooter Now Available at Amazon - Tech Insights by ZDNet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-12-flip-screen-cams-for-dynamic-videography-for-2024/"><u>Top 12 Flip-Screen Cams for Dynamic Videography for 2024</u></a></li>
 </ul></div>
 

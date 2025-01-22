@@ -1,7 +1,7 @@
 ---
 title: "Fixing Black Ops Cold War: Resolving Voice Chat Issues"
-date: 2025-01-14T16:00:10.687Z
-updated: 2025-01-16T16:02:07.427Z
+date: 2025-01-19T20:52:32.969Z
+updated: 2025-01-22T21:10:09.055Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix Apex Legends Voice Chat Not Working
 
@@ -47,17 +43,9 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-245.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In**Allow apps to access your microphone** , and turn on**the switch** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-246.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Scroll down to**Allow desktop apps to access your microphone** , turn on**the switch** .
 
@@ -68,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
  Now run Apex Legends and check to see if the microphone not working problem is resolved. If yes, then great! If the problem still remains, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -83,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-35.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the audio driver, simply click the **Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-36.png)
@@ -95,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Make sure your microphone is set as default in Windows
 
  Ideally Windows can automatically detect your microphone and set it as the default device every time it’s plugged into. But that’s not always the case and sometimes you’ll have to manually set it as default.[](https://tools.techidaily.com/drivereasy/download/) [](http://twitter.com/home/?status=How%20To%20Fix%20Fortnite%20Sound%20Not%20Working%20-%20https://www.drivereasy.com/knowledge/how-to-fix-fortnite-sound-not-working-on-pc/) **[](https://tools.techidaily.com/drivereasy/download/)**
@@ -105,13 +105,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-239.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) In **Sound** settings, scroll down to the**Input** section, and in**Choose your input device** , make sure the microphone you are actively using is selected. Then,**test your microphone** by speaking into your mic to see if it ‘hears’ anything. If yes, it means you have configured the microphone properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-242.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Close the window.
 
@@ -130,12 +130,16 @@ Here is how to configure in-game settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-260.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**More** \>**VOICE** , then make sure**the microphone you’re using is selected** and**Microphone volum** e is set to**an audio volume** . After that, in**Activation mode** , choose**Push-to-talk** .
 
 ![This image has an empty alt attribute; its file name is image-261-1024x700.png](https://images.drivereasy.com/wp-content/uploads/2019/10/image-261-1024x700.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Open Apex Legends, then go to**Settings > AUDIO** and set the **Voice Chat Record Mode** to **Push to Talk** .
 
@@ -147,10 +151,6 @@ Here is how to configure in-game settings:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Install the latest game patch
 
  The developers of Apex Legends, EA, keep releasing game patches to fix bugs. It’s possible that a recent patch has stopped your game from running smoothly, and that a new patch is required for the problem. So it’s recommended that you go to[**EA official website**](https://www.ea.com/games/apex-legends) , check for the latest patch, download and install it. Then check if it fixes the voice chat not working problem.
@@ -158,10 +158,6 @@ Here is how to configure in-game settings:
  If there is no patches available, or the patch fails to address the problem, then please try **Fix 6** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Origin and Apex Legends
 
@@ -176,6 +172,10 @@ Here are the steps:
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Locate **Apex Legends** and uninstall it too.
 
@@ -209,19 +209,22 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-consumers-speak-the-vllo-narrative/"><u>[New] Consumers Speak The VLLO Narrative</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-budget-friendly-obs-optimization-techniques/"><u>[Updated] 2024 Approved Budget-Friendly OBS Optimization Techniques</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-64gb-ideal-for-light-video-content/"><u>[Updated] 64Gb Ideal for Light Video Content?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-infusing-audio-from-yt-into-video-artistry/"><u>2024 Approved Infusing Audio From YT Into Video Artistry</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-huawei-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Huawei</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/cant-get-your-blue-yeti-microphone-to-connect-check-out-these-helpful-tips/"><u>Can't Get Your Blue Yeti Microphone to Connect? Check Out These Helpful Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-fix-restoring-audio-capabilities-for-hp-computers-using-windows-11/"><u>Comprehensive Fix: Restoring Audio Capabilities for HP Computers Using Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-fixes-for-beyond-the-wire-tackling-non-functional-mic-problems/"><u>Expert Fixes for 'Beyond The Wire': Tackling Non-Functional Mic Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-common-issues-when-your-mic-fails-to-record-sound-effectively/"><u>Fixing Common Issues When Your Mic Fails to Record Sound Effectively</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-incorporate-mp3s-into-presentation-decks/"><u>In 2024, Incorporate MP3s Into Presentation Decks</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/navigating-the-financial-seas-of-youtube-success-carryminati-for-2024/"><u>Navigating the Financial Seas of YouTube Success (CarryMinati) for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-issues-with-runmus-gaming-headset-microphone-step-by-step-guide/"><u>Resolving Issues with RUNMUS Gaming Headset Microphone - Step by Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-control-key-operability-with-ease-on-windows-11/"><u>Restoring Control Key Operability with Ease on Windows 11</u></a></li>
-<li><a href="https://fox-info.techidaily.com/samsung-ue590-4k-freesync-gaming-monitor-review/"><u>Samsung UE590 4K FreeSync Gaming Monitor Review</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-unveiling-audible-tweets-within-social-media-videos/"><u>[New] 2024 Approved Unveiling Audible Tweets Within Social Media Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-ultimate-selection-of-cameras-for-film-production/"><u>[Updated] 2024 Approved Ultimate Selection of Cameras for Film Production</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/breaking-the-mute-button-simple-audio-troubleshooting-steps-for-windows-11-users/"><u>Breaking the Mute Button: Simple Audio Troubleshooting Steps for Windows 11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-a-broken-turtle-beach-recon-70-mic-a-step-by-step-guide/"><u>Effective Solutions for a Broken Turtle Beach Recon 70 Mic: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-why-your-razer-barracuda-x-microphone-might-fail-in-windows-1110/"><u>Fixing Issues: Why Your Razer Barracuda X Microphone Might Fail in Windows 11/10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-the-speakers-working-again-on-a-toshiba-laptop-best-hacks/"><u>Getting the Speakers Working Again on a Toshiba Laptop - Best Hacks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-mic-working-again-in-zoom-meetings-on-windows-operating-systems/"><u>Getting Your Mic Working Again in Zoom Meetings on Windows Operating Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-address-the-lack-of-speaker-output-on-a-windows-11-computer/"><u>How to Address the Lack of Speaker Output on a Windows 11 Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-apex-legends-troubleshooting-voice-chat-issues-solution/"><u>How to Fix Apex Legends: Troubleshooting Voice Chat Issues - SOLUTION</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Poco M6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-from-concepts-to-recordings-a-step-by-step-guide-for-podcast-writers/"><u>In 2024, From Concepts to Recordings A Step-by-Step Guide for Podcast Writers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-t5s-thievery-review-where-action-meets-technology/"><u>In 2024, T5's Thievery Review – Where Action Meets Technology</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Oppo A59 5G? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-languages-at-sixty-five-compelling-benefits/"><u>Mastering Languages at Sixty: Five Compelling Benefits</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/the-ultimate-tiktok-live-jump-a-how-to-guide-for-2024/"><u>The Ultimate TikTok Live Jump A How-To Guide for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/tire-maintenance-ensure-that-your-tires-are-correctly-inflated-as-per-the-manufacturers-specifications-as-both-over-inflation-and-under-inflation-can-lead-t60/"><u>Tire Maintenance: Ensure that Your Tires Are Correctly Inflated as per the Manufacturer's Specifications, as Both Over-Inflation and Under-Inflation Can Lead to Increased Strain on Suspension Components and Uneven Wear Patterns.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/warriors-aid-for-silent-battlegrounds-reviving-audio-in-call-of-duty-warzone-2024-edition/"><u>Warrior's Aid for Silent Battlegrounds: Reviving Audio in Call of Duty Warzone - 2024 Edition</u></a></li>
 </ul></div>
 

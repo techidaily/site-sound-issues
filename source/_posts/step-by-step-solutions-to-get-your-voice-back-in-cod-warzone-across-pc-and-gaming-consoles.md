@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions to Get Your Voice Back in COD Warzone Across PC and Gaming Consoles
-date: 2025-01-12T16:03:04.896Z
-updated: 2025-01-16T16:00:40.150Z
+date: 2025-01-15T18:50:21.559Z
+updated: 2025-01-22T19:17:57.550Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/ba4d76a3836c79aa2d1ffbc408b14921a58fa2b19
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try all of them. Just work your way down until you find a fix that works for you.
@@ -40,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/ba4d76a3836c79aa2d1ffbc408b14921a58fa2b19
  When your voice chat stops working, the first thing you want to do is check your connection. You need to **make sure the device cable is not broken or worn out, and is securely plugged into the correct headphone jack of your PC** . Or you can simply do a replug and see how it goes. If you’re using a headset with a switch, make sure you’ve turned on the mic.
 
 If the connection is fine, check out the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable your peripherals
 
@@ -59,13 +67,25 @@ First you need to check the default audio device on your system:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-ms-settings-sound.jpg)
 2. Under the**Input** section, make sure your input device is set to your desired one. Then click**Device properties and test microphone** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/input-device-testing.jpg)
 3. Make sure the box next to**Disable** is unchecked, and the slider under**Volume** is set to 100.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
 4. Click **Start test** and tap or speak to your microphone. Then click **Stop test** . If you’re prompted **The highest value we saw was xx (xx > 0) percent** , it means your microphone has been set up correctly.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/sound-test-percent.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Set up your mic correctly in the Battle.net client
 
@@ -77,18 +97,18 @@ Next, you need to check the voice chat settings in the Battle.net client:
 3. On the menu to your left, select **Voice Chat** . Set **OUTPUT DEVICE** and **INPUT DEVICE** to **System Default Device** . Then click **Done** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-voice-chat.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now launch Black Ops Cold War and see if you can talk to others.
 
  If your mic still doesn’t work in the game, you can try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -114,10 +134,6 @@ Now launch Black Ops Cold War and see if you can talk to others.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your audio driver, restart your PC and test the gameplay in Black Ops Cold War.
@@ -134,17 +150,9 @@ Now launch Black Ops Cold War and see if you can talk to others.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-ingame-voice-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you can restart Black Ops Cold War and check if the voice chat is working.
 
  If changing game settings doesn’t help, you can try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Install all Windows updates
 
@@ -156,15 +164,7 @@ Here’s a quick guide for that:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will download and install the available updates. Wait for the process to complete.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -189,20 +189,18 @@ Here’s a quick guide for that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-12-innovative-techniques-for-livestreaming-classes-without-spending/"><u>[New] 2024 Approved 12 Innovative Techniques for Livestreaming Classes Without Spending</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-deciphering-the-divergent-aspects-of-youtubes-and-dailymentions/"><u>[New] In 2024, Deciphering the Divergent Aspects of YouTubes & DailyMentions</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-vanguard-of-virtual-fame-instagrams-25-luminaries/"><u>[New] The Vanguard of Virtual Fame Instagram's 25 Luminaries</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-progressive-array-of-chat-initiators-for-attracting-podcast-audience/"><u>2024 Approved Progressive Array of Chat-Initiators for Attracting Podcast Audience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-for-elevating-your-tiktok-unboxing-popularity/"><u>2024 Approved Techniques for Elevating Your TikTok Unboxing Popularity</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-on-solving-voicemod-access-issues-2024-edition/"><u>Expert Advice on Solving Voicemod Access Issues - 2024 Edition</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-on-restoring-functionality-to-your-onikuma-headset-mic/"><u>Expert Tips on Restoring Functionality to Your Onikuma Headset Mic</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-the-big-four-in-online-interaction-faceybook-tweeter-snapgram-youtootube/"><u>Exploring the Big Four in Online Interaction: FaceyBook, Tweeter, Snapgram, YouTooTube</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-addressing-and-correcting-silent-mics-in-your-oculus-quest-2-setup/"><u>Guide: Addressing and Correcting Silent Mics in Your Oculus Quest 2 Setup</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/insider-tips-and-tricks-eliminate-discord-voice-cuts-a-complete-how-to-guide/"><u>Insider Tips and Tricks: Eliminate Discord Voice Cuts – A Complete How-To Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-the-troubleshooting-of-windows-11-bluetooth-connectivity-issues/"><u>Mastering the Troubleshooting of Windows 11 Bluetooth Connectivity Issues</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-blue-screen-fixing-memory-issues-in-windows-10-and-11/"><u>Resolving Blue Screen: Fixing Memory Issues in Windows 10 & 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016110736-steps-to-rectify-mic-issues-on-the-steelseries-arctis-prime-sound-headset-solutions-found/"><u>Steps to Rectify Mic Issues on the SteelSeries Arctis Prime Sound Headset – Solutions Found</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ltimate-treasure-trove-of-inspirational-video-concepts/"><u>The Ultimate Treasure Trove of Inspirational Video Concepts</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/ultimate-ios-guide-to-premier-psp-emulators/"><u>Ultimate iOS Guide to Premier PSP Emulators</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-exclusive-insight-into-the-6-most-advanced-instagram-reel-apps/"><u>[New] Exclusive Insight Into the 6 Most Advanced Instagram Reel Apps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ranked-top-ios-solutions-for-playing-classic-psp-games-today/"><u>[Updated] In 2024, Ranked Top iOS Solutions for Playing Classic PSP Games Today</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-balancing-act-creative-freedom-vs-major-company-support/"><u>[Updated] The Balancing Act Creative Freedom vs Major Company Support</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-10-screen-capture-solutions-to-enhance-instruction/"><u>[Updated] Top 10 Screen Capture Solutions to Enhance Instruction</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-your-entry-level-equipment-checklist-for-youtube-success/"><u>2024 Approved Your Entry-Level Equipment Checklist for YouTube Success</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/call-of-duty-world-war-ii-troubleshooting-guide-overcome-error-4220/"><u>Call of Duty World War II Troubleshooting Guide - Overcome Error 4220</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/screenscout-quest-uncovering-affordable-tiktok-visuals-without-a-cost/"><u>ScreenScout Quest Uncovering Affordable TikTok Visuals Without a Cost</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-shared-hdmi-use-between-apps-for-smooth-device-functionality/"><u>Troubleshooting Shared HDMI Use Between Apps for Smooth Device Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-sony-headphones-fixing-nonfunctional-mic-issues-with-wh-1000xm3-or-wh-1000xm4/"><u>Troubleshooting Sony Headphones: Fixing Nonfunctional Mic Issues with WH-1000XM3 or WH-1000XM4</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-to-resolve-intermittent-sound-issues-on-windows-11/"><u>Troubleshooting Steps to Resolve Intermittent Sound Issues on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-world-of-warcraft-restoring-voice-communication/"><u>Troubleshooting World of Warcraft - Restoring Voice Communication</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-silencing-your-logitech-g-pro-x-microphone/"><u>Ultimate Guide: Silencing Your Logitech G Pro X Microphone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-tutorial-scan-your-dvds-for-hd-viewing-and-securely-sync-with-microsofts-onedrive-service/"><u>Ultimate Tutorial: Scan Your DVDs for HD Viewing & Securely Sync with Microsoft's OneDrive Service</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving Dell Speaker and Microphone Errors in Windows 7
-date: 2024-08-13T10:56:03.475Z
-updated: 2024-08-14T10:56:03.475Z
+date: 2025-01-16T21:04:02.424Z
+updated: 2025-01-22T16:18:27.565Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/9bd169ce317850079833c4c232eaa6d389f824b0e
 
  If your**Microphone stops working on Skype** , you would be very annoyed. But don’t worry, you won’t be stuck there. You can fix it with this guide. We’re going to walk you through how to troubleshoot the Skype Microphone not working problem step by step. Read on to find how…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for ‘Skype Microphone not working’
 
 1. [Make sure your Microphone is set to On for Skype users (Windows 10 users)](https://www.drivereasy.com/knowledge/fix-skype-microphone-not-working-on-windows-solved/#M1)
@@ -28,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/9bd169ce317850079833c4c232eaa6d389f824b0e
 
 ###
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Make sure Microphone is set to On for Skype (Windows 10 users)
 
  If you’re running Skype on**Windows 10** , firstly please check if the Microphone is set to **On**  for Skype in the Privacy settings.
@@ -39,39 +40,32 @@ Follow these:
 
 1. On your keyboard, press the**Windows logo key**  and **I** (at the same time).
 2. Click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e2b7da45.png)
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 3. Click**Microphone** on the left pane. Check if the status is**On**  for Skype.  
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Log in Skype and check to see if your Microphone works.
 
 ###
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Adjust the audio settings on Skype
 
 1. Login Skype with your own account.
 2. On Skype window, Click**Tools** \>**Options** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599a3fd935df2.png)
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click**Audio settings** on the left pane. Then set your Microphone device and un-tick**Automatically adjust microphone settings** .  
- Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
 4. Check to see if your Microphone works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###
 
@@ -96,6 +90,10 @@ Follow these:
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
 4. Log in Skype and check to see if your Microphone works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [sound problem](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -104,8 +102,6 @@ Follow these:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +109,22 @@ Follow these:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-premier-android-storage-in-the-clouds-list-for-2024/"><u>[New] Premier Android Storage in the Clouds List for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-an-in-depth-examination-of-samsungs-picture-editing-tech/"><u>[Updated] An In-Depth Examination of Samsung’s Picture Editing Tech</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-unleash-artistry-a-curated-list-of-premium-3d-animation-software-for-2024/"><u>[Updated] Unleash Artistry A Curated List of Premium 3D Animation Software for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-flight-pioneers-face-off-dji-vs-gopro/"><u>2024 Approved Flight Pioneers Face Off DJI vs GoPro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bringing-life-to-cyberpunk-2077-with-audio-troubleshooting-for-windows-10-gamers/"><u>Bringing Life to Cyberpunk 2077 with Audio Troubleshooting for Windows 10 Gamers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-htc-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of HTC? Try These Fixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-proofing-careers-understanding-the-6-benefits-of-chatgpt-use/"><u>Future-Proofing Careers: Understanding The 6 Benefits of ChatGPT Use</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-discord-voice-chat-up-and-running-again-easy-fixes-inside/"><u>Get Your Discord Voice Chat Up and Running Again – Easy Fixes Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-nonfunctional-rust-microphone-expert-tips-and-tricks-for-2n4/"><u>How to Fix a Nonfunctional Rust Microphone - Expert Tips & Tricks for 2N4</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-troubles-with-tozo-t6-a-comprehensive-fix-manual-for-windows-11-users/"><u>Overcoming Troubles with Tozo T6: A Comprehensive Fix Manual for Windows 11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-fixing-silent-gameplay-in-hearthstone/"><u>Resolved: Fixing Silent Gameplay in Hearthstone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-webex-mic-essential-fixes-for-sound-problems/"><u>Revive Your Webex Mic: Essential Fixes for Sound Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-silent-moments-restoring-sounds-in-black-ops-cold-war-for-pc-gaming/"><u>Solving Silent Moments - Restoring Sounds in Black Ops: Cold War for PC Gaming</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-solving-minecrafts-opengl-mishaps/"><u>Step-by-Step Guide: Solving Minecraft's OpenGL Mishaps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-8-essential-factors-to-look-for-in-your-next-tablet-purchase/"><u>Top 8 Essential Factors to Look For in Your Next Tablet Purchase</u></a></li>
+</ul></div>
 

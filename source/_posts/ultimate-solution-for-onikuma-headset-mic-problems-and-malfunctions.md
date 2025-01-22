@@ -1,7 +1,7 @@
 ---
 title: Ultimate Solution for Onikuma Headset Mic Problems and Malfunctions
-date: 2024-08-13T10:54:24.976Z
-updated: 2024-08-14T10:54:24.976Z
+date: 2025-01-18T18:57:08.829Z
+updated: 2025-01-22T20:20:42.938Z
 tags:
   - win11
   - win10
@@ -39,8 +39,9 @@ Having an issue of your microphone not working could be quite frustrating especi
  2) Scroll down to the section of **Related Settings** and click **Sound Control Panel** .  
   
 ![Open Sound Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-control-panel.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) When the Sound window opens, select the **Recording**  tab. Click on your microphone and then click **Set Default > OK** .  
@@ -50,8 +51,9 @@ Having an issue of your microphone not working could be quite frustrating especi
 If that didn’t help, proceed to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Turn on app permissions for your microphone
 
  Normally, when your headset is plugged in, your system will detect it and your apps can access the microphone. But for some reasons, it may fail to do that. To check if your apps have access to your microphone, follow these steps:
@@ -65,16 +67,14 @@ If that didn’t help, proceed to the next fix.
  3) Click **Microphone**  from the left pane. Then click on the **Change**  button and click the toggle to make sure **Microphone access for this device**  is turned on.  
   
 ![turn on app permissions on your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/turn-on-app-permissions-for-your-micropho0ne.png)
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Under the **Allow apps to access your microphone**  section, make sure it’s turned **On** .  
   
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Once you’ve allowed microphone access to your apps, you can change the settings for each app. Simply head to the **Choose which Microsoft apps can access your microphone** , and turn on apps you want to use with it. For desktop apps, make sure that **Allow desktop apps to access your microphone**  is turned **On** .
 
@@ -98,17 +98,15 @@ Here’s how to update drivers with Driver Easy:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/update-audio-driver-automatically-with-Driver-Easy.png)
+
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your audio driver, restart your PC and do a mic test. If it isn’t functioning properly, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Run the audio troubleshooter
 
  When you run into audio or sound issues, using the troubleshooting tool can help you identify what’s going on. To run the audio troubleshooter, follow the instructions below.
@@ -116,13 +114,14 @@ Here’s how to update drivers with Driver Easy:
  1) In the search box on the taskbar, type **audio troubleshooter** . Then click **Find and fix problems with playing sound**  from the results.  
   
 ![run the audio troubleshooter Windows](https://images.drivereasy.com/wp-content/uploads/2021/03/audion-troubleshooter.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 
  2) Select your device and click **Next**  to start the troubleshooting process. Then wait for it to complete and you may be required to restart your computer.  
   
 ![run the audio troubleshooter](https://images.drivereasy.com/wp-content/uploads/2021/05/audio-troubleshooter.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After the reboot, use your microphone and it should be working properly.
 
@@ -136,8 +135,6 @@ After the reboot, use your microphone and it should be working properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +142,24 @@ After the reboot, use your microphone and it should be working properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-beauty-blogging-beginnings-crafting-a-captivating-youtube-channel/"><u>[New] In 2024, Beauty Blogging Beginnings Crafting a Captivating YouTube Channel</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-in-depth-look-at-auditory-cutting-techniques/"><u>[New] In 2024, In-Depth Look at Auditory Cutting Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-skills-androids-screen-recording-functionality/"><u>[Updated] Essential Skills Android's Screen Recording Functionality</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-smilescape-turn-daily-life-into-hilarious-stories/"><u>2024 Approved SmileScape Turn Daily Life Into Hilarious Stories</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/building-brand-awareness-best-practices-for-snapchat-for-2024/"><u>Building Brand Awareness Best Practices for Snapchat for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-5-sleep-enhancement-applications-for-your-apple-watch/"><u>Discover the Best 5 Sleep Enhancement Applications for Your Apple Watch</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevating-your-4k-entertainment-tvs-vs-projection-technology/"><u>Elevating Your 4K Entertainment TVs vs Projection Technology</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-oneplus-ace-2-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends OnePlus Ace 2 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-powerpoints-voice-recognition-lands-market-for-2024/"><u>Navigating PowerPoint's Voice Recognition Lands Market for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016360291-onikuma-mic-problems-discover-these-fixes-and-regain-voice-control/"><u>Onikuma Mic Problems? Discover These Fixes and Regain Voice Control!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016223491-trouble-with-the-mic-in-fortnite-heres-how-to-get-crystal-clear-audio-again/"><u>Trouble with the Mic in Fortnite? Here's How to Get Crystal Clear Audio Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-fortnite-audio/"><u>Troubleshooting Guide: Resolving Issues with Fortnite Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-windows-11-microphone-issues/"><u>Troubleshooting Guide: Solving Windows 11 Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-dota-2-audio-how-to-restore-voice-chat-functionality/"><u>Troubleshooting Your Dota 2 Audio: How to Restore Voice Chat Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-to-troubleshooting-and-fixing-crackling-sound-from-computer-speakers-in-windows-systems/"><u>Ultimate Guide to Troubleshooting and Fixing Crackling Sound From Computer Speakers in Windows Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/volume-amplification-techniques-a-guide-to-louder-sounds-in-windows-10/"><u>Volume Amplification Techniques: A Guide to Louder Sounds in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015357643-world-of-warcraft-audio-glitch-fixed-enjoy-your-quests-again/"><u>World of Warcraft Audio Glitch Fixed - Enjoy Your Quests Again</u></a></li>
+</ul></div>
 

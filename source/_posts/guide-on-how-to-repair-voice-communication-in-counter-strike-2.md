@@ -1,7 +1,7 @@
 ---
 title: Guide on How to Repair Voice Communication in Counter-Strike 2
-date: 2025-01-10T16:05:54.564Z
-updated: 2025-01-16T16:00:27.878Z
+date: 2025-01-20T18:25:05.549Z
+updated: 2025-01-22T17:50:42.780Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 3. **[Configure the audio settings](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check out the obvious
 
  Whether it is that you cannot hear your friends, or you can’t get heard, the first thing you should check is whether your headset is connected properly.
@@ -40,6 +44,10 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
  You should make sure the volume is set to an audible level, check that the cables (if you have a wired headphone device) are not worn out or loosely connected, and ensure that they’re plugged into the right port etc.
 
  Once you have double-checked these items, test the voice chat feature in LoL to see if it works. If yes, then great! If the problem persists, please move on to**Fix 2** below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Join voice channel automatically
 
@@ -54,10 +62,6 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-1.png)
 4. Check to see if you can use the voice chat feature properly in game. If yes, then great! If it’s no joy, please move on to**Fix 3** , below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Configure the audio settings
 
  You may not be able to use voice chat due to incorrect audio settings in Windows.
@@ -71,15 +75,11 @@ You can follow the steps below to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-2.png)
 3. Click the**Recording** tab. Then make sure that your preferred mic is set as**Default Device** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio-2.png)
 4. Speak into yout mic to test if the indicator bar on the right moves. If yes, your mic should be working properly. If it doesn’t, check your headphone device to make sure it’s not muted.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click the**Advanced**  tab. Under the **Default Format** section, choose a different sample rate and bit depth and click**Test** . Repeat this process until you find a format that works for you. After that, make sure the box for**Allow application to take exclusive control of this deviice** is**unticked** .  
@@ -102,14 +102,14 @@ You can follow the steps below to check:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
@@ -135,18 +135,17 @@ You can follow the steps below to check:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-deterrence-against-distractive-fb-video-ads/"><u>[New] 2024 Approved Deterrence Against Distractive FB Video Ads</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-choosing-between-two-titans-obs-and-bandicam/"><u>[New] In 2024, Choosing Between Two Titans OBS and Bandicam</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-solutions-for-launching-football-manager-2023-successfully/"><u>Easy Solutions for Launching Football Manager 2023 Successfully</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-troubleshoot-non-functional-speakers-on-your-laptop/"><u>Fixing the Issue: How to Troubleshoot Non-Functional Speakers on Your Laptop</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-realtek-high-definition-audio-manager-wont-launch-issue/"><u>How to Fix Realtek High Definition Audio Manager Won't Launch Issue?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/improve-your-pcs-audio-by-disabling-the-enhancements-on-windows-11/"><u>Improve Your PC's Audio by Disabling the Enhancements on Windows 11</u></a></li>
-<li><a href="https://win-net.techidaily.com/repeated-computer-freezing-understanding-the-causes-and-solutions-yl-computing-experts/"><u>Repeated Computer Freezing: Understanding the Causes and Solutions - YL Computing Experts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-how-to-solve-sound-problems-in-cs-2s-in-game-communication/"><u>Resolved: How to Solve Sound Problems in CS 2'S In-Game Communication</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-obs-microphone-essential-tips-on-restoring-audio-and-recording-capabilities/"><u>Reviving Your OBS Microphone: Essential Tips on Restoring Audio and Recording Capabilities</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-resolve-mac-noise-issues-successfully/"><u>The Ultimate Guide to Resolve Mac Noise Issues Successfully</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-selection-of-airtag-wallets-detailed-analysis-and-ratings-by-gadget-professionals-zdnet/"><u>Ultimate Selection of AirTag Wallets : Detailed Analysis and Ratings by Gadget Professionals | ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-world-of-electronics-with-tom-a-guide-to-top-ranked-devices/"><u>Unveiling the World of Electronics with Tom - A Guide to Top-Ranked Devices</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Motorola Edge 40? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-precision-in-photos-iphone-apps-for-accurate-cropping/"><u>[New] Precision in Photos IPhone Apps for Accurate Cropping</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-to-custom-voices-how-to-alter-game-character-sounds-in-free-fire-no-cost/"><u>[New] The Essential Guide to Custom Voices How to Alter Game Character Sounds in Free Fire (No Cost!)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-streamers-choice-of-live-broadcasting-apps/"><u>[Updated] Exclusive Streamer's Choice of Live Broadcasting Apps</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-green-screen-revolution-access-comprehensive-tutorials-from-4-leading-youtube-educators/"><u>2024 Approved The Green Screen Revolution Access Comprehensive Tutorials From 4 Leading YouTube Educators</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-windows-11-auditory-setup-a-how-to/"><u>2024 Approved Windows 11 Auditory Setup A How-To</u></a></li>
+<li><a href="https://windows11.techidaily.com/complete-guide-securing-data-with-cell-locking-techniques-in-excel/"><u>Complete Guide: Securing Data with Cell Locking Techniques in Excel</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-gameplay-how-to-restore-audio-in-borderlands-3-on-your-pc/"><u>Fixing Silent Gameplay: How to Restore Audio in Borderlands 3 on Your PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silence-a-guide-to-enable-voice-chatting-in-lol/"><u>Fixing The Silence: A Guide to Enable Voice Chatting in LoL</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-onikuma-headsets-mic-working-again-a-step-by-step-guide/"><u>Get Your Onikuma Headset's Mic Working Again - A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/headphone-sounds-gone-wrong-solve-crackling-noises-with-ease/"><u>Headphone Sounds Gone Wrong? Solve Crackling Noises with Ease!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-windows-speaker-sound-distortion-issue/"><u>How to Fix Window's Speaker Sound Distortion Issue</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-screen-capture-software-guide-apowersoft-included/"><u>The Ultimate Screen Capture Software Guide - Apowersoft Included</u></a></li>
 </ul></div>
 

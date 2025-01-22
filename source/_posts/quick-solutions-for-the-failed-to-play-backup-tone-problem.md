@@ -1,7 +1,7 @@
 ---
 title: Quick Solutions for the 'Failed to Play Backup Tone' Problem
-date: 2024-08-13T10:55:30.378Z
-updated: 2024-08-14T10:55:30.378Z
+date: 2025-01-16T16:38:32.642Z
+updated: 2025-01-22T18:49:37.306Z
 tags:
   - win11
   - win10
@@ -50,15 +50,13 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  1) Right-click on the speaker icon in the system tray, and select**Playback devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d55d7e26c.png)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 
  2) If you see the Speakers disabled, right-click on the item, then select**Enable** . If you see the Speakers enabled, skip this step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d47875fcc.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re using a**laptop computer** , you also need to check if the**microphone** device is disabled.  
@@ -69,12 +67,13 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d59326203.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) If you see the Microphone disabled, right-click on the item, then select**Enable** . If you see the Microphone enabled, skip this step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d5e494746.png)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##
   
@@ -89,17 +88,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  2) Click**Edit** in the menu bar and select**Preferences** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6ee48396.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Click**Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6c34f39b.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 
  3) Ensure the**Host** field set to**Windows WASAPI** .
 
@@ -125,16 +117,21 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6ee48396.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Recording** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d78abf2fa.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Under Playthrough, if you see**Software Playthrough of input** is checked, uncheck it. Then click the**OK** button. If not, skip this solution then try other solutions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d7d97fc21.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 
 ##
   
@@ -159,9 +156,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d8b093ee6.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  4) After updating the driver, check to see if you can record sound successfully.
 
@@ -183,6 +177,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d97536340.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Check to see if you can record successfully.  
   
  Hopefully the solutions above help you resolve the problem. If you have any questions, please feel free to leave your comments. I’d love to hear of any ideas or suggestions.
@@ -196,8 +194,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +201,23 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-a-symphony-for-screens-music-in-instagram-visuals-for-2024/"><u>[New] A Symphony for Screens Music in Instagram Visuals for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-budget-friendly-ultra-panoramic-video-cameras/"><u>[New] Budget-Friendly Ultra-Panoramic Video Cameras</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-preserving-the-pulse-of-internet-radio-waves/"><u>[New] Preserving the Pulse of Internet Radio Waves</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-from-gameplay-to-legacy-proven-strategies-for-documenting-a-sims-in-game-saga-in-sims-4/"><u>2024 Approved From Gameplay to Legacy Proven Strategies for Documenting a Sim’s In-Game Saga in Sims 4</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetnooth-audio-delay-beat-it-fast-with-our-simple-steps/"><u>Bluetnooth Audio Delay? Beat It Fast With Our Simple Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bring-back-the-beats-rectifying-silent-cyberpunk-2077-games-on-windows-pc/"><u>Bring Back the Beats! Rectifying Silent Cyberpunk 2077 Games on Windows PC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/economical-choice-for-superior-asmr-sound-experiencing/"><u>Economical Choice for Superior ASMR Sound Experiencing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016536219-fixing-issues-how-to-restore-microphone-functionality-in-corsair-hs35-headset-windows-solved/"><u>Fixing Issues: How to Restore Microphone Functionality in Corsair HS35 Headset (Windows) | Solved!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-past-the-windows-10-hurdle-fixing-upgrades-stuck-at-almost-there-99-stage/"><u>Get Past the Windows 10 Hurdle - Fixing Upgrades Stuck at Almost There (99%) Stage</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-destiny-2-voice-chat-back-on-track-easy-fixes-and-tips/"><u>Getting Your Destiny 2 Voice Chat Back On Track – Easy Fixes & Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-symphony-of-sights-picture-plus-sound-videography/"><u>In 2024, Symphony of Sights Picture + Sound Videography</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mpow-microphone-trouble-heres-how-to-make-it-work-on-your-pc/"><u>MPOW Microphone Trouble? Here's How to Make It Work on Your PC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-pro-fullscreen-techniques-compendium-for-2024/"><u>Premier Pro Fullscreen Techniques Compendium for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-audio-easy-fixes-for-a-non-functioning-headset-microphone/"><u>Revive Your Audio: Easy Fixes for a Non-Functioning Headset Microphone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-art-of-capturing-human-gestures-an-in-depth-guide/"><u>The Art of Capturing Human Gestures An In-Depth Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-issues-with-your-razer-blackshark-v2-gaming-headset-microphone/"><u>Troubleshooting Tips: Resolving Issues with Your Razer Blackshark V2 Gaming Headset Microphone</u></a></li>
+</ul></div>
 

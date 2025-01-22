@@ -1,7 +1,7 @@
 ---
 title: "Effective Solutions for Unresponsive In-Game Mics on CS:GO"
-date: 2025-01-11T16:00:47.838Z
-updated: 2025-01-16T16:00:32.288Z
+date: 2025-01-19T16:09:12.994Z
+updated: 2025-01-22T17:45:46.352Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: Plug in and take out your headphone
 
@@ -58,20 +62,20 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to any falgged driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Play a music or video on your laptop to see if the sound comes from the speakers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3\. Reset your sound controller
@@ -80,21 +84,21 @@ Or click **Update All**  to automatically download and install the correct versi
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdf8f58307f.png)**  and **R**  (at the same time) to invoke the Run command.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type **devmgmt.msc**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac1fec110a5a.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right-click on your sound card to choose**Disable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c40611eb6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click**Yes** .
 
@@ -105,10 +109,6 @@ Or click **Update All**  to automatically download and install the correct versi
  5) Wait for a while. Right-click on your sound card again and this time click**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c4fd4b764.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Play a music or video on your laptop to see if the sound comes from the speakers.
 
@@ -129,17 +129,24 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-essential-low-cost-hd-cameras-for-sports-enthusiasts/"><u>[New] 2024 Approved Essential Low-Cost HD Cameras for Sports Enthusiasts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-solo-voices-that-echo-a-podcasters-pathway/"><u>[New] Solo Voices that Echo A Podcaster's Pathway</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-ultimate-rule-book-on-instagram-video-length-for-2024/"><u>[New] The Ultimate Rule Book on Instagram Video Length for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-send-gif-on-snapchat-stey-by-stey-guide/"><u>[Updated] How to Send Gif on Snapchat [Stey-by-Stey Guide]</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-palette-playbook-the-filmmakers-guide-to-grading/"><u>[Updated] Palette Playbook The Filmmaker's Guide to Grading</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/dealing-with-mute-expert-solutions-to-restore-audio-output-in-laptops/"><u>Dealing with Mute: Expert Solutions to Restore Audio Output in Laptops</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/dealing-with-voice-chat-disruptions-in-pubg-effective-quick-fixes/"><u>Dealing With Voice Chat Disruptions in PUBG: Effective Quick Fixes</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/finding-the-perfect-screen-recorder-for-games-for-2024/"><u>Finding the Perfect Screen Recorder for Games for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-adding-a-pure-white-backdrop-to-your-images/"><u>Step-by-Step Guide: Adding a Pure White Backdrop to Your Images</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/steps-to-correct-window-11s-troubled-bluetooth-performance-issues/"><u>Steps to Correct Window 11'S Troubled Bluetooth Performance Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/turn-up-the-volume-again-solving-mute-issues-in-borderlands-3-on-your-computer/"><u>Turn Up the Volume Again! Solving Mute Issues in Borderlands 3 on Your Computer</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-10-best-free-live-streaming-apps-for-android-and-iphone/"><u>[New] 10 Best Free Live Streaming Apps for Android and iPhone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-merge-easy-to-use-skype-with-advanced-zoom-features/"><u>[New] Merge Easy-to-Use Skype with Advanced Zoom Features</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-xiaomi-redmi-k70-pro-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Xiaomi Redmi K70 Pro PC | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-chatbot-face-off-evaluating-the-superiority-of-chatgpt-microsoft-bing-ai-and-google-bard/"><u>AI Chatbot Face-Off: Evaluating the Superiority of ChatGPT, Microsoft Bing AI, and Google Bard</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719579607069-bangla-for-busy-learners-10-mins/"><u>Bangla for Busy Learners, 10 Mins</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/beyond-power-boosting-delving-into-the-highlights-and-improvements-of-sonys-latest-console/"><u>Beyond Power Boosting: Delving Into the Highlights and Improvements of Sony's Latest Console</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-m54-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy M54 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-say-goodbye-to-crooked-videos-10-best-online-rotation-tools/"><u>In 2024, Say Goodbye to Crooked Videos 10 Best Online Rotation Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sound-keeps-cutting-out-on-windows-11-solved/"><u>Sound Keeps Cutting Out on Windows 11 [Solved]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-your-broken-beyond-the-wire-microphone/"><u>Step-by-Step Fix for Your Broken Beyond The Wire Microphone</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-guide-to-recovering-lost-data-from-a-resilient-file-system-refs/"><u>Step-by-Step Guide to Recovering Lost Data From a Resilient File System (ReFS)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-formula-for-calculating-the-amount-of-heat-q-involved-in-changing-the-temperature-is-q-mcdt-where-m-is-mass-c-is-specific-heat-and-dt-is-the-change-in-t655/"><u>The Formula for Calculating the Amount of Heat (Q) Involved in Changing the Temperature Is Q = mcΔT, Where M Is Mass, C Is Specific Heat, and ΔT Is the Change in Temperature</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixes-how-to-restore-voice-communication-in-call-of-duty-modern-warfare/"><u>Troubleshooting Fixes: How to Restore Voice Communication in Call of Duty Modern Warfare</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-fixing-logitech-g230-microphone-issues/"><u>Troubleshooting Tips: Fixing Logitech G230 Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-non-functional-laptop-speakers/"><u>Troubleshooting: Fixing Non-Functional Laptop Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-how-to-fix-a-non-functional-corsair-hs60-microphone/"><u>Troubleshooting: How to Fix a Non-Functional Corsair HS60 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-solution-reviving-speakers-on-hp-computers/"><u>Ultimate Solution: Reviving Speakers on HP Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-windows-11-potential-via-powertoys-install/"><u>Unleashing Windows 11 Potential via PowerToys Install</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unmute-yourself-from-frustration-resolving-sound-issues-during-pc-based-zoom-sessions/"><u>Unmute Yourself From Frustration: Resolving Sound Issues During PC-Based Zoom Sessions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Expert Fixes for Non-Functional Wireless Earbud Microphones
-date: 2025-01-12T16:02:13.566Z
-updated: 2025-01-16T16:03:01.901Z
+date: 2025-01-17T19:56:33.546Z
+updated: 2025-01-22T19:35:44.674Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 fixes for Headphones Crackling
 
  Here are 4 fixes that have helped other users resolve their**Windows 10** /**8** **.1/7** **sound crackling in headphones** issue.  
@@ -33,6 +37,10 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 4. [**Adjust the minimum processor state**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check for hardware issues
 
@@ -48,20 +56,12 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 2: Disable Exclusive Mode and change the sound format**
 
  Having **Exclusive Mode**   on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the **crackling or popping sound** in headphone  problem. To disable **Exclusive Mode** :
 
  1) On the bottom right of your screen, right-click on**the sound icon** , then click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/12sound.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) In the**Playback** tab, right-click on**speakers** and click **Properties** .
 
@@ -71,15 +71,15 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Play some music and check if the sound coming through is noise-free now. If not, continue with **5)** to **change the audio format** .
 
  5) Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Hopefully the popping/crackling sound in your headphone problem has gone by now. If not, you might also want to change it to other audio formats to see if it works.
 
@@ -103,6 +103,10 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/IntelR-Display-Audio.jpg)
 4. Restart your computer, play some audio through your headphone to see if this nasty crackling noise has been resolved. If yes, then great! If it’s still happening, move on to **Fix 4**  , below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 ### Fix 4: Adjust **the minimum processor state**
@@ -116,18 +120,14 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Depending on the build of your Windows, you might also see **On battery** and **Plugged in**  in **Setting (%)** . Change both values to **100** and click **OK** .
 
@@ -156,16 +156,17 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-leading-websites-for-free-game-of-thrones-ringtones/"><u>[New] 2024 Approved Leading Websites for Free Game of Thrones Ringtones</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-step-by-step-saving-tweet-vids-on-androids/"><u>[New] In 2024, Step-By-Step Saving Tweet Vids on Androids</u></a></li>
-<li><a href="https://article-posts.techidaily.com/decreasing-decibents-deliberately-logic-pros-volume-techniques/"><u>Decreasing Decibents Deliberately Logic Pro's Volume Techniques</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-realme-c67-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Realme C67 5G to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726030496186-mov-to-mp4/"><u>MOV to MP4 変換のプロフェッショナルな解決策</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-hdmi-access-restrictions-fixes-when-another-program-is-in-use-of-the-device/"><u>Overcoming HDMI Access Restrictions: Fixes When Another Program Is in Use of the Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-pcs-audio-effective-fixes-for-windows-11-sound-problems/"><u>Revive Your PC’s Audio: Effective Fixes for Windows 11 Sound Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-for-black-ops-cold-war-restoring-voice-communication-features/"><u>Solution Guide for Black Ops Cold War: Restoring Voice Communication Features</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-to-overcome-nvidia-geforce-0x0003-error-code-challenge/"><u>Step-by-Step Solution to Overcome NVIDIA Geforce 0X0003 Error Code Challenge</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-reactivating-your-dolby-audio-driver-in-windows-10-environment/"><u>Troubleshooting Guide: Reactivating Your Dolby Audio Driver in Windows 10 Environment</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-navigate-through-the-settings-to-disable-sound-enhancements/"><u>Windows Navigate Through the Settings to Disable Sound Enhancements</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-debut-video-capture-review-and-alternative/"><u>[New] Debut Video Capture Review and Alternative</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-comprehensive-guide-to-precision-screen-capture-for-2024/"><u>[New] The Comprehensive Guide to Precision Screen Capture for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-saving-social-media-stories-chromes-top-5-tools-for-2024/"><u>[Updated] Saving Social Media Stories Chromes' Top 5 Tools for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/dream-workflow-best-afx-templates-without-a-price-tag-for-2024/"><u>Dream Workflow Best AFX Templates Without a Price Tag for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-converter-change-webm-files-to-m4v-format-effortless-video-editing/"><u>Free Online Converter: Change WebM Files to M4V Format - Effortless Video Editing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782517-9781591432326-our-dolphin-ancestors/"><u>Our Dolphin Ancestors | Free Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-resolving-issues-with-non-working-bose-audio-systems/"><u>Step-by-Step Guide: Resolving Issues with Non-Working Bose Audio Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-eliminating-audio-lag-for-crystal-clear-playback/"><u>Step-by-Step Tutorial: Eliminating Audio Lag for Crystal Clear Playback</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-outdoor-floodlighting-options-for-enhanced-home-safety-techradar/"><u>Top Rated Outdoor Floodlighting Options for Enhanced Home Safety | TechRadar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-solutions-for-troubleshooting-non-functional-pc-speakers/"><u>Top Solutions for Troubleshooting Non-Functional PC Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-resolve-bluetooth-sound-glitches-in-windows-10-and-11/"><u>Troubleshoot & Resolve Bluetooth Sound Glitches in Windows 10 and 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-your-turtle-beach-gaming-earpods-microphone/"><u>Troubleshooting and Repairing Your Turtle Beach Gaming EarPods' Microphone</u></a></li>
 </ul></div>
 

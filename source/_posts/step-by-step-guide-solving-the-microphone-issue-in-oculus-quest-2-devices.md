@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Solving the Microphone Issue in Oculus Quest 2 Devices"
-date: 2024-08-13T10:52:41.392Z
-updated: 2024-08-14T10:52:41.392Z
+date: 2025-01-17T18:12:24.974Z
+updated: 2025-01-22T16:12:17.694Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ If you get**HDMI no sound** error in**Windows 10** , don’t worry. You’re not
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: Check if all hardware devices work properly
 
  Broken hardware devices probably cause HDMI not to work. So before moving on to other solutions, check if all hardware devices work properly:
@@ -39,29 +43,27 @@ If you get**HDMI no sound** error in**Windows 10** , don’t worry. You’re not
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Solution 2: Set HDMI Device as Default Device
 
  If the HDMI device is not set as default device, you cannot hear the sound from HDMI output. Follow steps below to set the HDMI device as Default Device:
 
 1. Right-click on the sound volume icon in the lower right corner of Windows. A context menu will pop up. Click **Playback devices** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_59a3d159c97f2.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 2. In the**Playback** tab, select**Digital Output Device** or**HDMI** option. Click**Set Default** and click**OK** . Then the HDMI sound output will be set as default.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-29.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 
  If you do not see the Digital Output Device or HDMI option in the Playback tab, right-click on the blank place, then click Show disconnected devices and Show disabled devices on the context menu. Then set it as the default device.
 
 [4](https://images.drivereasy.com/wp-content/uploads/2016/01/45.png) ](https://images.drivereasy.com/wp-content/uploads/2016/01/45.png)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 3: Update the Sound Driver
 
@@ -76,17 +78,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and**install** Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart your computer for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -95,13 +95,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Solution 4: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
@@ -136,8 +132,6 @@ And that’s just the start of the benefits…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +139,20 @@ And that’s just the start of the benefits…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-issues.techidaily.com/fixed-headset-mic-not-working/"><u>[FIXED] Headset Mic Not Working</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-from-stills-to-songs-the-art-of-audio-visual-fusion/"><u>[New] From Stills to Songs The Art of Audio-Visual Fusion</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-mastering-fb-video-in-hd-1080p-techniques/"><u>[New] In 2024, Mastering FB Video in HD 1080P Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-elevate-your-edits-the-beginners-insider-look-at-editing-techniques/"><u>[Updated] In 2024, Elevate Your Edits The Beginner's Insider Look at Editing Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/big-sur-essentials-system-and-hardware-upgrade-for-2024/"><u>Big Sur Essentials System and Hardware Upgrade for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-play-how-to-restore-audio-in-cyberpunk-2077-on-windows-11/"><u>Fixing Silent Play: How to Restore Audio in Cyberpunk 2077 on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-no-audio-devices-attached-error-on-windows-1087-step-by-step-guide-for-no-speakers-or-headphones-scenario/"><u>Fixing the 'No Audio Devices Attached' Error on Windows 10/8/7: Step-by-Step Guide for No Speakers or Headphones Scenario</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-get-your-cs2-microphone-functioning/"><u>Fixing the Issue: How to Get Your CS2 Microphone Functioning</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-steelseries-arctis-7-mic-not-working/"><u>How to Fix SteelSeries Arctis 7 Mic Not Working</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Oppo A1x 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-revolutionizing-audience-retention-on-youtube-with-these-top-6-techniques/"><u>In 2024, Revolutionizing Audience Retention on YouTube with These Top 6 Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-issues-with-unopenable-microsoft-word-documents-expert-tips-and-tricks/"><u>Solving Issues with Unopenable Microsoft Word Documents: Expert Tips & Tricks</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/streamlined-collaborations-amplifying-your-video-impact-for-2024/"><u>Streamlined Collaborations Amplifying Your Video Impact for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Laptop Audio Malfunction? Here Are Effective Solutions
-date: 2025-01-13T16:01:59.395Z
-updated: 2025-01-16T16:02:25.882Z
+date: 2025-01-21T18:33:07.142Z
+updated: 2025-01-22T18:39:09.432Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Firstly, Ensure the audio device is enabled**
 
  If the speakers are disabled, you can’t hear sound. Follow steps below to check for it.
@@ -33,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
  1) On your keyboard, press the**Win+R** (the Windows logo key and the R key) at the same time to invoke the run box. Type control panel in the run box then click the**OK** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9642607bba2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) **View by large icons** and click **Sound** .
 
@@ -46,12 +46,16 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd4dfc1fa7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If it is disabled, right click on it and select **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd4eb667e9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you don’t see **Speakers** option listed, it could be disabled and hidden. Right click on the blank space and select **Show Disabled Devices** . Then Enable it.
@@ -59,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 ###
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd4f2b0a08.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **Secondly: Ensure the sound is not muted**
 
@@ -85,7 +85,7 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd515db2c0.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Restart your PC. Then a Window will pop up to ask you to solve the sound problem. Just follow the on-screen instructions. Then the sound issue should resolve.
@@ -93,7 +93,7 @@ Follow these steps:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 2: Update the audio driver**
@@ -135,22 +135,16 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-top-tier-eyeball-enticer-author/"><u>[New] In 2024, Top-Tier Eyeball Enticer Author</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-digital-dynamo-dames-the-next-generation-of-youtubes-powerhouses-for-2024/"><u>[Updated] Digital Dynamo Dames The Next Generation of YouTube's Powerhouses for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-windows-1110-mic-issues-solutions-when-zoom-audio-fails/"><u>Fix Your Windows 11/10 Mic Issues: Solutions When Zoom Audio Fails</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-motorola-moto-g14-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Motorola Moto G14 Phone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Realme Narzo 60x 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-it-time-for-the-apple-vision-pro-in-your-life-critical-insights-before-pre-ordering-discover-them-here/"><u>Is It Time for the Apple Vision Pro in Your Life? Critical Insights Before Pre-Ordering - Discover Them Here!</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-elevate-your-editing-game-10-best-free-plugins-for-fcpx-for-2024/"><u>New Elevate Your Editing Game 10 Best Free Plugins for FCPX for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-audio-hurdles-how-to-restore-functionality-to-your-steelseries-arctis-7-mic/"><u>Overcoming Audio Hurdles: How to Restore Functionality to Your SteelSeries Arctis 7 Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-audio-glitches-solving-the-silent-mission-in-call-of-dutys-cold-war-edition-pc/"><u>Revive Audio Glitches: Solving the Silent Mission in Call of Duty's Cold War Edition (PC)</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-earphones-not-anymore-solve-airpods-sound-problems-on-windows-os/"><u>Silent Earphones? Not Anymore! Solve AirPods Sound Problems on Windows OS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-found-restoring-audio-functionality-for-laptop-speakers/"><u>Solution Found! Restoring Audio Functionality for Laptop Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-fortnite-sound-problem-step-by-step-instructions-for-optimal-game-experience/"><u>Solve Your Fortnite Sound Problem: Step-by-Step Instructions for Optimal Game Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-audio-from-your-airpods-when-connected-but-noise-free-in-windows-os/"><u>Solved! How to Restore Audio From Your AirPods When Connected but Noise-Free in Windows OS</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-social-fabric-and-your-feed-a-look-at-usage-patterns/"><u>The Social Fabric and Your Feed: A Look at Usage Patterns</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-getting-your-astro-a20-mic-back-in-action/"><u>Troubleshooting Guide: Getting Your Astro A20 Mic Back in Action</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-essence-of-whatsapp-call-conversations/"><u>2024 Approved The Essence of WhatsApp Call Conversations</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/airpods-not-working-heres-how-to-get-your-windows-10-mic-up-and-running-again/"><u>AirPods Not Working? Here's How to Get Your Windows 10 Mic Up & Running Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cracking-out-the-crackles-top-strategies-for-silencing-your-logitech-g-pro-x-on-pc-this-year/"><u>Cracking Out the Crackles: Top Strategies for Silencing Your Logitech G Pro X on PC This Year</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solutions-for-corsair-hs70-headphones-when-the-microphone-fails/"><u>DIY Solutions for Corsair HS70 Headphones When the Microphone Fails</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-canoscan-lide-123-drivers-find-and-install-updates-today/"><u>Free CanoScan LiDE 123 Drivers: Find and Install Updates Today!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016194624-how-to-get-your-onikuma-headset-mic-up-and-running-again/"><u>How To Get Your Onikuma Headset Mic Up And Running Again!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-or-update-your-hp-deskjet-nw-3700-printer-software-for-optimal-performance/"><u>Install or Update Your HP Deskjet Nw-3700 Printer Software for Optimal Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/razer-blackwidow-user-manual-how-to-install-the-latest-driver-software/"><u>Razer BlackWidow User Manual: How to Install the Latest Driver Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/seamless-gaming-awaits-how-to-prevent-and-cure-csgo-crashing-issues/"><u>Seamless Gaming Awaits: How To Prevent & Cure CSGO Crashing Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-secure-and-swift-video-converters-for-windows-11-and-10-users/"><u>Top 10 Secure and Swift Video Converters for Windows 11 & 10 Users</u></a></li>
 </ul></div>
 

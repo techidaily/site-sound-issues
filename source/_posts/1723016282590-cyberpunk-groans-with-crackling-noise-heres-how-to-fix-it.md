@@ -1,7 +1,7 @@
 ---
 title: Cyberpunk Groans with Crackling Noise? Here's How to Fix It
-date: 2025-01-14T16:05:35.358Z
-updated: 2025-01-16T16:01:57.654Z
+date: 2025-01-16T18:31:47.642Z
+updated: 2025-01-22T16:23:22.939Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ If you’re encountering Cyberpunk 2077 sound crackling or buzzing background no
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
  You may not try them all. Simply work your way down the list until you find the one that gets your audio back to normal.
@@ -35,13 +31,13 @@ If you’re encountering Cyberpunk 2077 sound crackling or buzzing background no
 3. **[Adjust the sound settings](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Restart Cyberpunk 2077
 
  It seems a cliche but a simple restart can usually fix various game glitches. Restart your PC and relaunch Cyberpunk 2077 to test. If this doesn’t help, move on to the second trick.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Change USB port
 
@@ -55,26 +51,22 @@ If you’re encountering Cyberpunk 2077 sound crackling or buzzing background no
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3.jpg)
 2. Select**Small icons** next to View by, and click**Sound** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-5.jpg)
 3. Right-click your audio device and select**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-6.jpg)
 4. Go to the**Spatial sound** tab, and set it to**Off** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4.jpg)
 5. Navigate to the**Advanced** tab. Then, select**2 channel, 16 bit, 96000Hz (Studio Quality)** from the drop-down menu under Default Format.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5.jpg)
 6. Click**OK** .  
@@ -98,8 +90,16 @@ There are two ways for you to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-1.jpg)
 3. Click the**Update** button next to the flagged sound driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -127,15 +127,17 @@ There are two ways for you to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-ideal-low-impact-recording-devices-for-eco-conscious-filmmakers-for-2024/"><u>[New] Ideal Low-Impact Recording Devices for Eco-Conscious Filmmakers for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-immortalizing-sportsmanship-techniques-for-gameplay-videos/"><u>[Updated] In 2024, Immortalizing Sportsmanship Techniques for Gameplay Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1-unusual-moisture-found-in-iphone-charging-port-what-can-be-done/"><u>1. Unusual Moisture Found in iPhone Charging Port: What Can Be Done?</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/entfernen-von-alten-sicherungsdaten-auf-dem-seagate-monitoring-bereich-schritt-fur-schritt-anleitung/"><u>Entfernen Von Alten Sicherungsdaten Auf Dem Seagate-Monitoring-Bereich – Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-managing-dolby-sound-drivers-and-fixing-startup-errors-on-windows-10/"><u>Expert Tips for Managing Dolby Sound Drivers and Fixing Startup Errors on Windows 10</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Vivo Y27 4G? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcome-the-no-audio-hurdle-in-windows-1011-comprehensive-solutions-inside/"><u>Overcome the 'No Audio' Hurdle in Windows 10/11 – Comprehensive Solutions Inside</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-restore-functionality-of-a-non-working-redragon-pc-mic/"><u>Troubleshooting Guide: How to Restore Functionality of a Non-Working Redragon PC Mic</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-to-excellence-lenovo-yoga-900s-windows-10-driver-download/"><u>Upgrade to Excellence: Lenovo Yoga 900S - Windows 10 Driver Download</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016689155-windows-7-hdmi-audio-troubles-heres-how-you-can-get-it-working-again/"><u>Windows 7 HDMI Audio Troubles? Here's How You Can Get It Working Again!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-best-of-the-best-15-4k-video-capture-units/"><u>[Updated] In 2024, Best of the Best #15 4K Video Capture Units</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-step-by-step-techniques-downloading-and-crafting-instagram-stories/"><u>2024 Approved Step-by-Step Techniques Downloading & Crafting Instagram Stories</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/anthem-game-muting-mystery-reviving-sounds-on-the-latest-windows-11-system/"><u>Anthem Game Muting Mystery: Reviving Sounds on the Latest Windows 11 System</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-motorola-moto-g04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-xiaomi-redmi-13c-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Xiaomi Redmi 13C 5G?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-industrial-giants-taking-flight-heavy-duty-drones/"><u>In 2024, Industrial Giants Taking Flight Heavy-Duty Drones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017045248-mastering-the-fix-reviving-a-broken-rec-room-microphone-in-your-pc-a-step-by-step-guide-to-success/"><u>Mastering the Fix: Reviving a Broken Rec Room Microphone in Your PC - A Step-by-Step Guide to Success</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mastering-youtube-team-ups-finding-perfect-co-stars/"><u>Mastering YouTube Team-Ups Finding Perfect Co-Stars</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/resolving-the-cannot-verify-airpods-warning-on-ios-devices-ios-16-17-and-18-guide/"><u>Resolving the 'Cannot Verify AirPods' Warning on iOS Devices - iOS 16, 17 & 18 Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015664095-solving-audio-glitches-resolve-your-pubg-voice-chat-woes-today/"><u>Solving Audio Glitches - Resolve Your PubG Voice Chat Woes Today</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015494757-troubleshooting-distorted-audio-on-pcs-running-windows-7-or-10-solutions-found/"><u>Troubleshooting Distorted Audio on PCs Running Windows 7 or 10 - Solutions Found!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-get-animated-top-7-drawing-software-for-bringing-your-ideas-to-life-for-2024/"><u>Updated Get Animated! Top 7 Drawing Software for Bringing Your Ideas to Life for 2024</u></a></li>
 </ul></div>
 

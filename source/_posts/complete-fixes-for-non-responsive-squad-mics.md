@@ -1,7 +1,7 @@
 ---
 title: Complete Fixes for Non-Responsive Squad Mics
-date: 2025-01-15T16:01:54.456Z
-updated: 2025-01-16T16:07:04.752Z
+date: 2025-01-17T19:00:59.130Z
+updated: 2025-01-22T16:46:30.249Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 4. [**Close other apps that have access to your headset microphone**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Troubleshoot hardware issues](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solution for 3.5mm wired headset
 
  If you’re using a 3.5mm wired headset and the mic not working, you’ll need a[4-pin to 3-pin adapter cable](https://www.amazon.com/UGREEN-Headphone-Splitter-Computer-Smartphone/dp/B073ZDDTH2/?tag=supereasyen05-20) . Because many headsets use a 4-pin or TRRS plug. This refers to the pin out on the 3.5mm connector, which carries the right audio, left audio, ground, and microphone. You’ll need a 4-pin or TRRS jack that is commonly used on smartphones to plug into. Older desktop PCs and older laptops will have separate jacks for mic and audio.
@@ -50,10 +46,6 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Allow access to your headset microphone (for Windows 10 users)
 
  You should allow your Windows 10 system and your application to access your headset microphone before you can use it. To check this:
@@ -63,20 +55,20 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 2. Select the**Privacy & security** section and click**Microphone** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/win-11-settings-privacy-microphone.jpg)
 3. Click the Change button, then make sure the**Microphone for this device** is turned**on** . Also, make sure to put**Let apps access your microphone** at On.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/win-11-settings-privacy-microphone-access-1.jpg)
 4. Hopefully this fixes your microphone issue. But if not, there are still three fixes you can try.
 
  The screenshots above are captured from a Windows 11 operating system. If you are using Windows 10 or older versions, be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Set your microphone device as default
 
@@ -87,11 +79,19 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 2. In Control Panel, select**Large icons** from the**View by** drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Select **Sound** .![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
 4. Select the Recording tab, then right-click on any empty place inside the device list and tick Show Disabled Devices.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 5. Right click the Headset Microphone and click Enable.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
@@ -101,7 +101,7 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 7. Right-click Headset Microphone and click Properties.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Click the Levels tab, then drag the volume slider toward the_largest value_ .  
@@ -109,10 +109,6 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 9. Click**OK** , then click**OK** .
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio drivers
 
@@ -134,6 +130,10 @@ Many **headset** users are reporting that their headset**microphone** is not wor
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated the driver for your audio devices, restart your computer. Then log in again and see if the microphone is working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Close other apps that have access to your headset microphone
 
@@ -171,17 +171,24 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-nostalgic-snapshots-from-your-camera-roll-on-snapchat-for-2024/"><u>[New] Nostalgic Snapshots From Your Camera Roll on Snapchat for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-weaving-a-cinematic-tapestry-for-teasers/"><u>[Updated] In 2024, Weaving a Cinematic Tapestry for Teasers</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-revolutionizing-broadcast-media-with-chroma-key-expertise/"><u>2024 Approved Revolutionizing Broadcast Media with Chroma Key Expertise</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-restoration-tips-resolving-your-conexant-smartaudio-hd-sound-issues-under-windows-11/"><u>Audio Restoration Tips: Resolving Your Conexant SmartAudio HD Sound Issues Under Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bluetroid-sound-interruption-solve-it-easily-and-fast/"><u>Bluetroid Sound Interruption? Solve It Easily and Fast!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722059872312-chatgpt-now-available-on-iphones-and-ipads-learn-how-to-access-it-today/"><u>ChatGPT Now Available on iPhones and iPads – Learn How to Access It Today</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-restoring-functionality-in-faulty-headset-mics/"><u>Effective Solutions for Restoring Functionality in Faulty Headset Mics</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-a-high-quality-budget-friendly-laptop-with-stunning-visuals-the-gadget-review/"><u>Get Your Hands on a High-Quality, Budget-Friendly Laptop With Stunning Visuals! - The Gadget Review</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-sound-settings-in-sea-of-thieves-for-effective-voice-communication/"><u>Mastering Sound Settings in Sea of Thieves for Effective Voice Communication</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/professional-thumbnails-from-your-phone-for-youtube/"><u>Professional Thumbnails From Your Phone for YouTube</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-lava-yuva-2-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Lava Yuva 2 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-harnessing-the-power-of-ps4-capture-for-gamers-everywhere/"><u>[New] 2024 Approved Harnessing the Power of PS4 Capture for Gamers Everywhere</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-mobilizing-money-a-complete-guide-to-youtubes-revenue-features/"><u>[Updated] 2024 Approved Mobilizing Money A Complete Guide to YouTube's Revenue Features</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-essential-insights-into-hands-free-interaction/"><u>[Updated] Essential Insights Into Hands-Free Interaction</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-android-and-iphones-leading-tools-for-enhanced-fb-likes/"><u>[Updated] In 2024, Android & iPhone's Leading Tools for Enhanced FB Likes</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/deciding-on-a-vr-setup-going-wireless-mobile-or-connected-tethered/"><u>Deciding on a VR Setup Going Wireless (Mobile) or Connected (Tethered)</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-to-mend-disk-errors-on-modern-windows-systems/"><u>Essential Tips to Mend Disk Errors on Modern Windows Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/intel-optane-driver-update-for-windows-users-free-download-and-installation-instructions/"><u>Intel Optane Driver Update for Windows Users: Free Download and Installation Instructions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-silent-pc-issue-fixing-the-sound-glitch-in-windows-11/"><u>Solve Your Silent PC Issue: Fixing the Sound Glitch in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-issues-with-the-primary-speaker-output-hole-a-comprehensive-guide/"><u>Solving Issues with the Primary Speaker Output Hole: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-no-sound-problems-expert-tips-for-getting-your-usb-headphones-working-on-windows-7/"><u>Solving No Sound Problems: Expert Tips for Getting Your USB Headphones Working on Windows 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-process-to-install-latest-version-of-intel-hd-graphics-5500-drivers/"><u>Step-by-Step Process to Install Latest Version of Intel HD Graphics 5500 Drivers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tackling-audio-playback-issues-in-audacity-try-these-5-key-solutions-to-resolve-sound-devices-error/"><u>Tackling Audio Playback Issues in Audacity? Try These 5 Key Solutions to Resolve Sound Devices Error.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-2024-manual-to-restoring-functionality-of-squad-microphones/"><u>The Definitive 2024 Manual to Restoring Functionality of Squad Microphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-fixing-squad-microphone-problems/"><u>The Ultimate Guide to Fixing Squad Microphone Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-solution-for-cutting-out-sound-problems-in-windows-11-explained/"><u>The Ultimate Solution for Cutting Out Sound Problems in Windows 11 Explained</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-your-logitech-g933-mic-follow-these-steps-to-fix-it/"><u>Trouble with Your Logitech G933 Mic? Follow These Steps to Fix It!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-quietness-sound-issues-in-pcs-borderlands-3/"><u>Troubleshooting Complete Quietness - Sound Issues in PC's Borderlands 3</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/easy-guide-to-youtube-downloads-on-idevices/"><u>Your Easy Guide to YouTube Downloads on iDevices</u></a></li>
 </ul></div>
 

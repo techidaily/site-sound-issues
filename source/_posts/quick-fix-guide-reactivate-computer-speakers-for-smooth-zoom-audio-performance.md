@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix Guide: Reactivate Computer Speakers for Smooth Zoom Audio Performance"
-date: 2025-01-12T16:03:18.789Z
-updated: 2025-01-16T16:04:53.360Z
+date: 2025-01-16T18:08:22.773Z
+updated: 2025-01-22T19:41:02.988Z
 tags:
   - win11
   - win10
@@ -35,13 +35,13 @@ When you try to play music or video on your laptop, but just find**no sound on t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-17.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Drag the slider to increase the volume to test if the sound could work.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-22.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Set your speakers as default device
 
@@ -53,10 +53,6 @@ When you try to play music or video on your laptop, but just find**no sound on t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:**  If you couldn’t find your speakers on the playback device list, it might be disabled.
 
 Go with the easy steps to show it.
@@ -65,13 +61,17 @@ Go with the easy steps to show it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) When your speakers shows up, right-click on it to choose**Enable** . Then you can set it as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3:**Reinstall your sound card driver**
 
@@ -80,6 +80,10 @@ Go with the easy steps to show it.
 2) Type **devmgmt.msc** . Then click **OK** to open **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Expand **Sound, video and game controllers** . Then right click on your sound card’s name and click **Uninstall** .
 
@@ -90,7 +94,7 @@ Go with the easy steps to show it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Restart your PC to make change take effect. Windows will automatically reinstall sound driver for you now.
@@ -106,10 +110,6 @@ Go with the easy steps to show it.
 It has two versions. Have a try on its **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , it will offer the latest drivers for you to install. But if you upgrade to **[PRO Version](https://tools.techidaily.com/drivereasy/download/)**  , you can get all your drivers including the sound card driver up-to-date with just one click — **Update All** (you get full tech support and 30-day money back guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -136,17 +136,24 @@ Any problems just feel free to leave your comment below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unleash-potential-the-finest-6-nft-creation-spaces/"><u>[New] Unleash Potential The Finest 6 NFT Creation Spaces</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-mastering-common-issues-in-youtube-shorts-for-2024/"><u>[Updated] Mastering Common Issues in YouTube Shorts for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014966548-fix-windows-media-player-mute-issue-solved/"><u>Fix Windows Media Player Mute Issue - Solved</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-hyperx-cloud-alphas-microphone-issues-troubleshooting-guide/"><u>Fixing HyperX Cloud Alpha's Microphone Issues - Troubleshooting Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-corsair-hs35-mic-working-again-in-windows-expert-fixes-and-advice/"><u>How to Get Your Corsair HS35 Mic Working Again in Windows - Expert Fixes and Advice</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-realme-narzo-60x-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Realme Narzo 60x 5G</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tips-for-adding-music-to-photo-online/"><u>In 2024, Tips for Adding Music to Photo Online</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/instagrams-best-practices-for-video-posts/"><u>Instagram's Best Practices for Video Posts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015798537-leap-ahead-of-lags-expert-techniques-to-get-your-computer-racing-again/"><u>Leap Ahead of Lags: Expert Techniques to Get Your Computer Racing Again</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2581650-9780008205348-libra-2017-your-personal-horoscope/"><u>Libra 2017: Your Personal Horoscope | Free Book</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-how-to-fix-turtle-beach-headphones-microphone-issues/"><u>Solved: How to Fix Turtle Beach Headphones Microphone Issues</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlock-efficient-remote-streaming-via-vlc-media-player-for-2024/"><u>Unlock Efficient Remote Streaming via VLC Media Player for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-mycamadventure-discovering-new-camera-worlds/"><u>2024 Approved MyCamAdventure Discovering New Camera Worlds</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-iphone-6s-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By iPhone 6s without the Previous Owner?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-file-funneling-transfer-techniques-for-your-computer/"><u>In 2024, File Funneling Transfer Techniques for Your Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-x-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone X Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pinnacle-chroma-modifier/"><u>In 2024, Pinnacle Chroma Modifier</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-top-50plus-overlays-for-engaging-media-content/"><u>In 2024, Top 50+ Overlays for Engaging Media Content</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-tecno-spark-10-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Tecno Spark 10 Pro FRP Bypass</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-crashing-hurdle-fixing-error-0xc00n00005-in-windows-systems/"><u>Overcoming the Crashing Hurdle: Fixing Error 0Xc00n00005 in Windows Systems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-lava-blaze-pro-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Lava Blaze Pro 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-eliminate-your-computers-stuttering-sounds-on-windows-117/"><u>Troubleshoot and Eliminate Your Computer’s Stuttering Sounds on Windows 11/7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-voicemod-malfunctions-and-start-using-it-again-today/"><u>Troubleshoot Voicemod Malfunctions & Start Using It Again Today</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-mic-issues-in-sea-of-thieves-for-pc-players/"><u>Troubleshooting and Fixing Mic Issues in Sea of Thieves for PC Players</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-g435-bluetooth-headphones-silent-issues-quick-guide/"><u>Troubleshooting G435 Bluetooth Headphones Silent Issues - Quick Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-no-audio-from-conexant-smartaudio-hd-in-windows-11-effective-solutions/"><u>Troubleshooting No Audio From Conexant SmartAudio HD in Windows 11 – Effective Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-how-to-get-your-corsair-earphones-back-in-action/"><u>Troubleshooting Tips: How To Get Your Corsair Earphones Back In Action!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-diy-repair-getting-your-turtle-beach-microphone-up-and-running-again/"><u>Ultimate DIY Repair: Getting Your Turtle Beach Microphone Up and Running Again</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-escalating-threats-top-8-explanations-of-generative-ais-security-challenges/"><u>Understanding the Escalating Threats: Top 8 Explanations of Generative AI's Security Challenges</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/voicemod-troubles-heres-how-you-can-get-your-recording-software-up-and-running-smoothly/"><u>Voicemod Troubles? Here's How You Can Get Your Recording Software Up and Running Smoothly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-is-discord-not-working-for-me-tackling-the-voice-chat-glitches/"><u>Why Is Discord Not Working for Me? Tackling the Voice Chat Glitches</u></a></li>
 </ul></div>
 

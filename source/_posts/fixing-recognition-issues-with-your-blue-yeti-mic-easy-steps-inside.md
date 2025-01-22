@@ -1,7 +1,7 @@
 ---
 title: Fixing Recognition Issues with Your Blue Yeti Mic – Easy Steps Inside
-date: 2024-08-13T10:54:02.311Z
-updated: 2024-08-14T10:54:02.311Z
+date: 2025-01-18T19:15:50.323Z
+updated: 2025-01-22T19:32:53.868Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 
 Having trouble with push-to-talk during gameplay? You’re not alone! Many Overwatch players are reporting it, but the good news is that you can fix it. Here is a list of fixes that have proved useful to many users.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Table of contents
 
 * [Fix 1: Restart your computer](https://tools.techidaily.com/drivereasy/download/)
@@ -29,12 +33,13 @@ Having trouble with push-to-talk during gameplay? You’re not alone! Many Overw
 
  You may not have to try them all; just work your way down the list until you find the one that does the trick.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 1: Restart your computer
 
  This is the quickest fix to try when you’re experiencing Overwatch audio issues. Just restart your computer and Overwatch to test your issue. If your problem still exists, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Run Discord as Administrator
 
@@ -47,13 +52,18 @@ If you’re not sure how to do it, follow the instructions below:
  1) Right-click your taskbar and select **Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/open-task-manager.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Right-click Discord then select **End Task** . (Ensure you right-click on the main Discord link, not the subdirectory entries)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/close-discord.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right-click the Discord icon on your desktop, then select **Properties** .
 
@@ -92,24 +102,15 @@ If your issue persists, try the next fix.
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-281.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Install the latest Overwatch patch
 
  The developers of Overwatch release regular game patches to fix bugs. It’s possible that a recent patch has stopped your chat from working, and that a new patch is required to fix it.
@@ -122,6 +123,10 @@ To check if there is any update, follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-712.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If a patch is available, install it, then run your game again to check whether your problem has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix.
 
 ## Fix 5: Check your in-game settings
@@ -133,27 +138,22 @@ To check if there is any update, follow the instructions below:
 **2)** Go to**Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-407.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
 **3)** Click the**Sound tab** , and verify that**TEAM VOICE CHAT** , and**GROUP VOICE CHAT** are set to**AUTO JOIN.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-400-1024x559.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Make sure the VOICE CHAT MODE is set to**PUSH TO TALK** , then select the correct VOCIE CHAT DEVICES.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-401-1024x569.png)
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Click the**CONTROLS** tab. Under**CHAT AND VOICE** , click the button next to**VOICE CHAT: PUSH TO TALK** and change your push-to-talk key to a different one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-416-1024x402.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Restart your game to test your issue.
 
@@ -172,8 +172,6 @@ To check if there is any update, follow the instructions below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +179,24 @@ To check if there is any update, follow the instructions below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-crafting-engaging-full-degree-footage-with-adobe-premieres-state-of-the-art-tools-for-2024/"><u>[New] Crafting Engaging Full Degree Footage with Adobe Premiere's State-of-the-Art Tools for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-tech-tutorial-download-youtube-for-your-idevice-securely/"><u>[New] In 2024, Tech Tutorial Download YouTube for Your iDevice Securely</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/adding-divisions-to-vimeos-media-shows-for-2024/"><u>Adding Divisions to Vimeo's Media Shows for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-google-pixel-fold-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Google Pixel Fold</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-realme-narzo-n53-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Realme Narzo N53 Without PUK Codes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/qualitatsbewahrendes-komprimieren-von-avi-filmen-unter-windows-10-ein-umfassender-leitfaden/"><u>Qualitätsbewahrendes Komprimieren Von AVI-Filmen Unter Windows 10: Ein Umfassender Leitfaden</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/record-your-gameplay-3-simple-and-effective-ways-for-2024/"><u>Record Your Gameplay 3 Simple and Effective Ways for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-steam-voice-call-problems-effective-techniques-and-tips/"><u>Resolve Steam Voice Call Problems – Effective Techniques and Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-found-when-headphones-are-on-but-music-plays-via-speakers/"><u>Solution Found! When Headphones Are On But Music Plays via Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-resolving-lack-of-soundscape-in-borderlands-3-windows-edition/"><u>Solution Guide: Resolving Lack of Soundscape in Borderlands 3 Windows Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-anthem-audio-problems-restore-sounds-in-your-windows-11-experience/"><u>Solve Anthem Audio Problems: Restore Sounds in Your Windows 11 Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-resolution-enabling-audio-on-your-large-screen-after-linking-to-pcmac-using-hdmi/"><u>Step-by-Step Resolution: Enabling Audio on Your Large Screen After Linking to PC/Mac Using HDMI</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steps-to-repair-a-dead-mic-in-your-steelseries-arctis-99x-gaming-earphones-fixed/"><u>Steps to Repair a Dead Mic in Your SteelSeries Arctis 9/9X Gaming Earphones [FIXED]</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/tiktok-to-tokens-financial-figures-of-pewdiepie-for-2024/"><u>TikTok to Tokens Financial Figures of PewDiePie for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-audio-problems-with-headphones-on-windows-7/"><u>Troubleshooting Guide: Resolving Audio Problems with Headphones on Windows 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-blue-yeti-microphone-solutions-when-its-unresponsive/"><u>Troubleshooting Your Blue Yeti Microphone: Solutions When It's Unresponsive</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-potential-with-anthropics-revolutionary-claude-3-prompt-repository/"><u>Unlocking Potential with Anthropic's Revolutionary Claude 3 Prompt Repository</u></a></li>
+</ul></div>
 

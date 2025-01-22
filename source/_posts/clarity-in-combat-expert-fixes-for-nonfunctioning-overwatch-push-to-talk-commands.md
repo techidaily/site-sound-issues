@@ -1,7 +1,7 @@
 ---
 title: "Clarity in Combat: Expert Fixes for Nonfunctioning Overwatch Push-to-Talk Commands"
-date: 2025-01-15T16:02:34.154Z
-updated: 2025-01-16T16:06:18.418Z
+date: 2025-01-20T16:45:11.192Z
+updated: 2025-01-22T17:15:48.951Z
 tags:
   - win11
   - win10
@@ -34,13 +34,13 @@ Having trouble with push-to-talk during gameplay? You’re not alone! Many Overw
 
  You may not have to try them all; just work your way down the list until you find the one that does the trick.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Restart your computer
 
  This is the quickest fix to try when you’re experiencing Overwatch audio issues. Just restart your computer and Overwatch to test your issue. If your problem still exists, move on to the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Run Discord as Administrator
 
@@ -55,12 +55,16 @@ If you’re not sure how to do it, follow the instructions below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/open-task-manager.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Right-click Discord then select **End Task** . (Ensure you right-click on the main Discord link, not the subdirectory entries)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/close-discord.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right-click the Discord icon on your desktop, then select **Properties** .
 
@@ -69,10 +73,6 @@ If you’re not sure how to do it, follow the instructions below:
  4) Under the **Compatibility**  tab, check the box next to **Run this program as an administrator** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Discord-admin-access.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Relaunch Discord.
 
@@ -105,7 +105,7 @@ If your issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -145,20 +145,20 @@ To check if there is any update, follow the instructions below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-400-1024x559.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Make sure the VOICE CHAT MODE is set to**PUSH TO TALK** , then select the correct VOCIE CHAT DEVICES.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-401-1024x569.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Click the**CONTROLS** tab. Under**CHAT AND VOICE** , click the button next to**VOICE CHAT: PUSH TO TALK** and change your push-to-talk key to a different one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-416-1024x402.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Restart your game to test your issue.
 
@@ -186,19 +186,24 @@ To check if there is any update, follow the instructions below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-easy-to-use-screen-recording-software-including-apowersoft-for-2024/"><u>[New] Easy-to-Use Screen Recording Software, Including Apowersoft for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-step-by-step-guide-to-pc-based-live-broadcasts-on-tiktok/"><u>[New] In 2024, Step-by-Step Guide to PC-Based Live Broadcasts on TikTok</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-apex-producer-syncing-shots-and-songs/"><u>[Updated] Apex Producer Syncing Shots & Songs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/black-ops-cold-war-voice-chat-problems-heres-how-to-resolve-them/"><u>Black Ops Cold War Voice Chat Problems? Here's How to Resolve Them!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/corsair-hs70-mic-problems-heres-how-to-fix-them-effectively/"><u>Corsair HS70 Mic Problems? Here's How to Fix Them Effectively</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-techniques-to-divide-videos-into-30-second-intervals-a-comprehensive-guide/"><u>Easy Techniques to Divide Videos Into 30-Second Intervals: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722969785151-fast-track-to-enhanced-performance-with-new-amd-smbus-drivers/"><u>Fast Track to Enhanced Performance with New AMD SMBus Drivers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-windows-media-player-mute-issue-solved/"><u>Fix Windows Media Player Mute Issue - Solved!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-v-purse-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Honor V Purse Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-potential-with-samsungs-latest-photo-editor/"><u>In 2024, Unlocking the Potential with Samsung's Latest Photo Editor</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Motorola Moto G 5G (2023)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-common-issues-with-the-logitech-g733-headset-mic/"><u>Solving Common Issues with the Logitech G733 Headset Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-tozo-t6-compatibility-on-windows-11/"><u>Troubleshooting Guide: Resolving Issues with Tozo T6 Compatibility on Windows 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-mastering-snapchat-share-tweets-via-video/"><u>[New] 2024 Approved Mastering Snapchat Share Tweets via Video</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-step-beyond-excavating-the-best-vr-treadmill-experiences/"><u>[New] A Step Beyond Excavating the Best VR Treadmill Experiences</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-memetic-innovations-ideas-that-delight-any-audience/"><u>[Updated] 2024 Approved Memetic Innovations Ideas That Delight Any Audience</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-audience-favorites-outstanding-vr-gaming-with-google-cardboard/"><u>[Updated] Audience Favorites Outstanding VR Gaming with Google Cardboard</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ais-impact-on-data-6-transformative-uses-of-gpt-3/"><u>AI's Impact on Data: 6 Transformative Uses of GPT-3</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/effortless-exchange-of-audio-photos-and-video-files-on-ipods-discover-leading-managers-for-quick-conversion/"><u>Effortless Exchange of Audio, Photos, and Video Files on iPods - Discover Leading Managers for Quick Conversion!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guide-pratique-pour-eliminer-les-desordres-visuels-lors-du-rip-dvd-vob-vers-mp4-a-laide-de-handbrake/"><u>Guide Pratique Pour Éliminer Les Désordres Visuels Lors Du Rip DVD VOB Vers MP4 À L’aide De Handbrake</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-realtek-hd-audio-manager-wont-launch-step-by-step-solution/"><u>How to Fix Realtek HD Audio Manager Won't Launch - Step-by-Step Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-solve-sony-wh-1n00xm34-computer-mic-problems-for-a-seamless-experience/"><u>How to Solve Sony WH-1n00XM3/4 Computer Mic Problems for a Seamless Experience</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-cut-beyond-youtube-unveiling-the-top-5-video-editor-options/"><u>In 2024, Cut Beyond Youtube Unveiling the Top 5 Video Editor Options</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g-pro-x-microphone-problems-resolved-expert-tips-and-tricks/"><u>Logitech G Pro X Microphone Problems Resolved: Expert Tips & Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-connectivity-issues-with-your-logitech-g43abrath-a-step-by-step-fix-guide/"><u>Overcoming Connectivity Issues with Your Logitech G43abrath: A Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-new-voicemod-obstacles-expert-advice-from-2024/"><u>Overcoming New Voicemod Obstacles - Expert Advice From 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-for-when-your-in-game-voice-chat-goes-silent-valorant-edition/"><u>Quick Solutions for When Your In-Game Voice Chat Goes Silent - Valorant Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-resolving-your-astro-a50-headphones-silent-issue/"><u>Quick Solutions: Resolving Your Astro A50 Headphones' Silent Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/rapid-resolution-techniques-for-non-functional-mic-on-your-oculus-rift-s-2024-edition/"><u>Rapid Resolution Techniques for Non-Functional Mic on Your Oculus Rift S - 2024 Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-issue-how-to-restore-functionality-of-your-steelseries-arctis-1-microphone/"><u>Resolved Issue: How To Restore Functionality of Your SteelSeries Arctis 1 Microphone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ath-to-passive-revenue-how-ajey-nagars-youtube-thrives-for-2024/"><u>The Path to Passive Revenue How Ajey Nagar's YouTube Thrives for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-troubleshooting-recurring-blender-program-crashes/"><u>Ultimate Guide: Troubleshooting Recurring Blender Program Crashes</u></a></li>
 </ul></div>
 

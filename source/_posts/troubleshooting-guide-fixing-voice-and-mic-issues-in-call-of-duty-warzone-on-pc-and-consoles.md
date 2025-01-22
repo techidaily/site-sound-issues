@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing Voice and Mic Issues in Call of Duty Warzone on PC and Consoles"
-date: 2024-08-13T10:55:10.185Z
-updated: 2024-08-14T10:55:10.185Z
+date: 2025-01-20T20:01:46.211Z
+updated: 2025-01-22T21:04:28.219Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ When you’re ready to fight side by side with your mates in Warzone, the last t
  Though this might seem tricky, it’s usually not hard to fix at all. In this tutorial, we’ll guide you through several fixes and help you reconnect with your amigos in a jiff.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try all the fixes. Just work your way down until you find the one that scores.
@@ -50,21 +51,27 @@ Here’s how:
 
 1. At the bottom right corner of your screen, right-click the**Sound** icon and select**Open Sound settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/bottom-right-corner-sound-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 2. Under the **Input**  section, make sure your input device is set to your desired one. Then click **Device properties and test microphone** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/input-device-testing.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/input-device-testing.jpg)
 3. Uncheck the box next to**Disable** , and set the slider under **Volume**  to 100.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
 4. Click **Start test** and tap or speak to your microphone. Then click **Stop test** . If you’re prompted **The highest value we saw was xx (xx > 0) percent** , it means your microphone is working correctly.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/sound-test-percent.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/sound-test-percent.jpg)
 
  Next you need to enable your mic in the**Battle.net** client.
 
@@ -73,16 +80,8 @@ Here’s how:
 1. Open your**Battle.net** client.
 2. At the top left corner, click the**BLIZZARD** icon and select**Settings** from the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/battle-net-settings-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. On the menu to your left, select **Voice Chat** . Set **OUTPUT DEVICE** and **INPUT DEVICE** to **System Default Device** . Then click **Done** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-voice-chat.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 
 Now you can launch Warzone and test the game chat.
 
@@ -113,6 +112,10 @@ Now you can launch Warzone and test the game chat.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-realtek-audio-driver.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your audio driver, restart your PC and see if the voice chat is working in Warzone.
@@ -129,8 +132,9 @@ So here’s a simple guide:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click **Check for updates** . Windows will automatically download and install the available updates. Wait for the process to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -139,9 +143,6 @@ So here’s a simple guide:
 
 If the voice chat still won’t work, simply try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Fix 5: Change in-game settings (PC & Console)
 
  If your mic works everywhere except in Warzone, then maybe there’s**something wrong with your in-game settings** .
@@ -153,8 +154,9 @@ You can follow these steps to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/warzone-voice-chat-in-game-1.jpg)
 3. Navigate to the**ACCOUNT** tab. Under the**Online** section, set**Crossplay** to**Enabled** . If you can see an option named**Crossplay Communication** , make sure it’s set to**Enabled** . (If your friend isn’t gaming on PC, make sure he or she has enabled this feature as well.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/warzone-crossplay.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now restart Warzone and check if you can chat with your friends now.
@@ -169,8 +171,6 @@ Now restart Warzone and check if you can chat with your friends now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +178,26 @@ Now restart Warzone and check if you can chat with your friends now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-integrating-obs-streams-with-the-worlds-largest-social-network-fb/"><u>[New] 2024 Approved Integrating OBS Streams with the World's Largest Social Network, FB</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-perfecting-your-craft-making-time-lapse-films-with-ipad/"><u>[Updated] In 2024, Perfecting Your Craft Making Time-Lapse Films with iPad</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-samsung-galaxy-xcover-7-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Samsung Galaxy XCover 7 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/brother-hl-l2350dw-fresh-driver-download-and-installation-tutorial/"><u>Brother HL-L2350DW: Fresh Driver Download and Installation Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convert-images-from-jpeg-to-png-for-free-with-movavis-web-tool/"><u>Convert Images From JPEG to PNG for Free with Movavi's Web Tool</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016282590-cyberpunk-groans-with-crackling-noise-heres-how-to-fix-it/"><u>Cyberpunk Groans with Crackling Noise? Here's How to Fix It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-ways-to-stop-sounds-from-randomly-stopping-out-on-your-windows-10-operating-system/"><u>Effective Ways to Stop Sounds From Randomly Stopping Out on Your Windows 10 Operating System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-disabling-advanced-audio-effects-in-windows-10/"><u>Expert Tips for Disabling Advanced Audio Effects in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-overcome-squad-communication-hurdles-mic-not-working-fixes/"><u>Expert Tips to Overcome Squad Communication Hurdles - Mic Not Working Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-difference-cat5-versus-cat6-networking-cable-options/"><u>Exploring the Difference: Cat5 Versus Cat6 Networking Cable Options</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/improve-your-sound-quality-increase-speaker-volume-like-a-pro-in-windows-10/"><u>Improve Your Sound Quality – Increase Speaker Volume Like a Pro in Windows 10</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-8-plus-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your iPhone 8 Plus</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/recording-live-videos-on-periscope-with-maximum-quality-for-2024/"><u>Recording Live Videos on Periscope with Maximum Quality for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-eliminating-the-cant-play-test-sound-problem-with-ease/"><u>Step-by-Step Guide: Eliminating the Can't Play Test Sound Problem with Ease</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-repairing-your-skype-mic-setup-on-the-latest-microsoft-operating-system/"><u>Step-by-Step Solutions: Repairing Your Skype Mic Setup on the Latest Microsoft Operating System</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/transform-your-folders-into-a-mystical-zodiac-a-step-by-step-guide-using-dr-folder-by-yl-software/"><u>Transform Your Folders Into a Mystical Zodiac: A Step-by-Step Guide Using Dr. Folder by YL Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-techniques-for-sound-glitches-on-current-software/"><u>Troubleshooting Techniques for Sound Glitches on Current Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015783019-unstuck-at-last-fix-windows-11s-malfunctioning-microphone-today/"><u>Unstuck at Last: Fix Windows 11'S Malfunctioning Microphone Today!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-prime-cloud-storage-options-for-2024/"><u>Unveiling Prime Cloud Storage Options for 2024</u></a></li>
+</ul></div>
 

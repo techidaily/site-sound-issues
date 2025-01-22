@@ -1,7 +1,7 @@
 ---
 title: Audio Disruption Diagnosis & Fix for Windows 7/10 Users - Say Goodbye to Sound Issues!
-date: 2025-01-15T16:05:16.505Z
-updated: 2025-01-16T16:03:26.938Z
+date: 2025-01-18T16:04:20.388Z
+updated: 2025-01-22T21:14:23.651Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Check for hardware issues
 
 1. Try the headphone on other devices and see if it works.
@@ -52,6 +48,10 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 2: Disable Exclusive Mode and change the sound format**
 
  Having **Exclusive Mode**   on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the **crackling or popping sound** in headphone  problem. To disable **Exclusive Mode** :
@@ -59,20 +59,20 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
  1) On the bottom right of your screen, right-click on**the sound icon** , then click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/12sound.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the**Playback** tab, right-click on**speakers** and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Advanced** tab, un-check **the box** before **Allow applications to take exclusive control of this device** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Play some music and check if the sound coming through is noise-free now. If not, continue with **5)** to **change the audio format** .
@@ -81,11 +81,19 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Hopefully the popping/crackling sound in your headphone problem has gone by now. If not, you might also want to change it to other audio formats to see if it works.
 
  Check if the headphone crackling problem persists. If yes, then congrats! But if it still persists, you should try **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -119,15 +127,7 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Depending on the build of your Windows, you might also see **On battery** and **Plugged in**  in **Setting (%)** . Change both values to **100** and click **OK** .
 
@@ -156,18 +156,18 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-facebook-overhaul-the-2023-updates-explained-for-2024/"><u>[New] Facebook Overhaul The 2023 Updates Explained for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ailor-the-rhythm-of-youtube-videos-desktopmobile-way-for-2024/"><u>[New] Tailor the Rhythm of YouTube Videos - Desktop/Mobile Way for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-ps4-the-ultimate-guide-to-capturing-your-games-for-2024/"><u>[Updated] Mastering PS4 The Ultimate Guide to Capturing Your Games for 2024</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/filmora/download/"><u>Filmora - AI Video Editing Software</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-mic-not-functioning-in-microsoft-teams-on-windows-11-or-10/"><u>Fixing the Issue: Mic Not Functioning in Microsoft Teams on Windows 11 or 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fixing-your-260ci-keyless-remote-usb-connection-issues/"><u>Fixing Your 260Ci Keyless Remote USB Connection Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functional-realtek-audience-interface/"><u>How to Fix a Non-Functional Realtek Audience Interface</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-during-discord-voice-chats/"><u>How to Restore Sound During Discord Voice Chats</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-fifas-best-players-trendy-videos-on-youtube/"><u>In 2024, FIFA's Best Players Trendy Videos on YouTube</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-harnessing-viral-power-your-pathway-to-youtube-fame/"><u>In 2024, Harnessing Viral Power Your Pathway to YouTube Fame</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-more-crunching-sounds-a-step-by-step-fix-for-windows-users-with-arctis-headphones/"><u>No More Crunching Sounds! A Step-by-Step Fix for Windows Users With Arctis Headphones</u></a></li>
-<li><a href="https://extra-information.techidaily.com/reviewing-the-gopro-hero5-session-series/"><u>Reviewing the GoPro Hero5 Session Series</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-repairing-corsair-headset-mic-failures-in-windows-environment/"><u>Step-by-Step Guide: Repairing Corsair Headset Mic Failures in Windows Environment</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-cutting-edge-creativity-on-tiktok-mastering-video-designs-in-minutes/"><u>[New] In 2024, Cutting-Edge Creativity on TikTok Mastering Video Designs in Minutes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-melodic-mastery-for-game-dominance-in-free-fire/"><u>[New] In 2024, Melodic Mastery for Game Dominance in Free Fire</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-screen-recorder-options-for-igadgets-for-2024/"><u>[Updated] Screen Recorder Options for iGadgets for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/computational-time-for-a-20mb-media-piece/"><u>Computational Time for a 20Mb Media Piece</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-asus-rog-phone-7-ultimate-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Asus ROG Phone 7 Ultimate Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silence-the-clicks-effective-solutions-to-stop-your-arctis-7-headset-from-making-crackling-sounds-on-pc/"><u>Silence the Clicks: Effective Solutions to Stop Your Arctis 7 Headset From Making Crackling Sounds on PC</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/phone-cinematography-crafting-perfect-youtube-thumbnails-for-2024/"><u>Smartphone Cinematography Crafting Perfect YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-for-resolving-no-sound-problems-in-windows-11-on-hp-computers/"><u>Solution Steps for Resolving No-Sound Problems in Windows 11 on HP Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-airpods-silence-audio-restoration-tips-for-windows-users/"><u>Solve Your AirPods Silence: Audio Restoration Tips for Windows Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-common-issues-with-unresponsive-headset-mics-step-by-step-repair/"><u>Solving Common Issues with Unresponsive Headset Mics – Step by Step Repair</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-windows-n-11-sound-issues-a-comprehensive-5-point-plan/"><u>Step-by-Step Fix for Windows N 11 Sound Issues: A Comprehensive 5-Point Plan</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-how-to-make-a-slideshow-with-music/"><u>Updated In 2024, How to Make a Slideshow with Music</u></a></li>
 </ul></div>
 

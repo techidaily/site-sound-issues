@@ -1,7 +1,7 @@
 ---
 title: Experiencing Trouble With Steam's Voice Chat? Here's How to Fix It
-date: 2024-08-13T10:53:34.619Z
-updated: 2024-08-14T10:53:34.619Z
+date: 2025-01-17T19:31:35.171Z
+updated: 2025-01-22T16:46:41.874Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/a4e1d9aad0c342b5e84a72b2aa595ddec8716c1b8
 2. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Making sure you’re using the right microphone**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Troubleshoot hardware issues
 
  You can start troubleshooting the Steam voice chat not working issue by ruling out the hardware issues.
@@ -37,9 +41,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your audio driver
 
  This problem may occur if you are using the wrong audio driver or it’s out of date. So you should update your audio driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -54,9 +55,17 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e879b5615.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e8c0387a6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -66,9 +75,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Making sure you’re using the right microphone
 
  In order for the microphone to work properly on Steam, you should make sure the microphone used by steam the same as the one you’ve set as the default input device.
@@ -78,15 +84,13 @@ Here is how to do it:
  1) On the bottom right of your desktop screen, right-click on**the sound icon** and click**Open Sound settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-295.png)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) In**Input** , select**the microphone** you’ve been actively using as the input device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-296.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Launch Steam.
@@ -94,8 +98,9 @@ Here is how to do it:
 4) In Steam, click**View** \>**Friends** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-290.png)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) In the Steam Friends & Chat pop-up window, click**the gear icon** .
@@ -105,9 +110,6 @@ Here is how to do it:
  6) In**VOICE INPUT DEVICE** , make sure the microphone you set as the input device in step 2) is selected. Then in**VOLUME** , make sure the**Input volume/gain** and**Output volume/gain** slide bars are dragged to**medium or high** to make sure both you and your teammates can be heard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-294.png)
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7) Save the changes and close the window.
 
@@ -126,8 +128,6 @@ Here is how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +135,18 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-polarr-mastery-manual-transforming-digital-imagery-with-ease/"><u>[New] Polarr Mastery Manual Transforming Digital Imagery with Ease</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-trends-top-10-instagram-tags-to-elevate-your-presence/"><u>2024 Approved Mastering Trends Top 10 Instagram Tags to Elevate Your Presence</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/a-step-by-step-guide-altering-text-styles-within-the-aldiko-ebook-player-on-android-systems/"><u>A Step-by-Step Guide: Altering Text Styles Within the Aldiko eBook Player on Android Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/dynamic-walls-for-windows-11-setting-lively-desktop-backdrops/"><u>Dynamic Walls for Windows 11: Setting Lively Desktop Backdrops</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-unresponsive-document-feeder-in-your-windows-scanner/"><u>Fixing Unresponsive Document Feeder in Your Windows Scanner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-files-after-iphone-factory-reset-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Files after iPhone Factory Reset? | Stellar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015770025-hp-laptop-no-audio-problem-here-are-the-best-solutions/"><u>HP Laptop No Audio Problem? Here Are the Best Solutions!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-resolve-non-functional-corsair-hs35-mic-on-pc-with-windows-operating-system/"><u>Troubleshoot and Resolve Non-Functional Corsair HS35 Mic on PC with Windows Operating System</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-phone-troubleshooting-success-the-benefits-of-regular-resets/"><u>Unlock Phone Troubleshooting Success: The Benefits of Regular Resets</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/winning-the-silent-war-fixing-sound-in-windows-11/"><u>Winning the Silent War: Fixing Sound in Windows 11</u></a></li>
+</ul></div>
 

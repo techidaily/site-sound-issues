@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Eliminating the Can't Play Test Sound Problem with Ease"
-date: 2025-01-12T16:00:42.938Z
-updated: 2025-01-16T16:03:49.688Z
+date: 2025-01-21T21:07:39.519Z
+updated: 2025-01-22T17:23:53.119Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/e7fd1d7d7ef931a3a24a13af3aded4ab35d933198
 5. **[Verify the game integrity](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Rule out other interference](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1\. Update your audio drivers
 
  A faulty/outdated audio driver can cause game audio issues. An audio driver is a translator for your system and device, and if it goes wrong, you will be having sound problems. There are onboard sound card drivers and headset drivers (for some older ones).
@@ -57,14 +53,14 @@ thumbnail: https://thmb.techidaily.com/e7fd1d7d7ef931a3a24a13af3aded4ab35d933198
 
 ![update sound card driver](https://images.drivereasy.com/wp-content/uploads/2021/09/update-audio-driver.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer and check whether your problem is solved.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2\. Check your default playback device
 
@@ -74,25 +70,29 @@ thumbnail: https://thmb.techidaily.com/e7fd1d7d7ef931a3a24a13af3aded4ab35d933198
 
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/09/playback-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Set the right device as the default playback device. There will be a green tick and a signal icon on this device if it’s set as default.
 
 ![set the right default device](https://images.drivereasy.com/wp-content/uploads/2021/09/speaker.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) If this device is not the one you desired, you can right-click another device and select**Set as Default Device** .
 
 ![set another device as default](https://images.drivereasy.com/wp-content/uploads/2021/09/set-as-default.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Right-click your default device and select**Properties** . Go to the Advanced tab, and select a format**no more than 24 bit, 96000 Hz** .
 
 ![choose a correct sample format](https://images.drivereasy.com/wp-content/uploads/2021/09/quality.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click**Apply** to save the changes.
 
@@ -130,10 +130,6 @@ thumbnail: https://thmb.techidaily.com/e7fd1d7d7ef931a3a24a13af3aded4ab35d933198
 
 ![open firewall settings](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Click the active network.
 
 ![click domain network](https://images.drivereasy.com/wp-content/uploads/2021/09/domain.jpg)
@@ -155,7 +151,7 @@ Launch your Battlefield 4 and check if the sound is working now.
 ![Battlefield 4 repair](https://images.drivereasy.com/wp-content/uploads/2021/09/battlefield-1200x686.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Once complete, close Origin. Then run Origin as administrator.
@@ -163,10 +159,14 @@ Launch your Battlefield 4 and check if the sound is working now.
 ![run origin as admin](https://images.drivereasy.com/wp-content/uploads/2019/08/run-origin-as-sdministrator.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Play Battlefield 4 and test the sound issue. If the Battlefield 4 sound not working issue persists, it’s very likely caused by interference by your devices or other apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6\. Rule out other interference
 
@@ -183,7 +183,7 @@ Launch your Battlefield 4 and check if the sound is working now.
 ![turn off orgin in game](https://images.drivereasy.com/wp-content/uploads/2021/09/originingame.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If disabling Origin In-Game Overlay doesn’t work, you can[perform a clean boot](https://tools.techidaily.com/drivereasy/download/) on your PC to find a problematic application.
@@ -211,22 +211,24 @@ Launch your Battlefield 4 and check if the sound is working now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-demystifying-data-a-beginners-guide-to-facebook-insights/"><u>[New] Demystifying Data A Beginner's Guide to Facebook Insights</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-hands-off-strategies-for-snapshots-of-online-meetings-macpc-platforms/"><u>[Updated] Hands-Off Strategies for Snapshots of Online Meetings (Mac/PC Platforms)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-master-commanders-unleashed-ranking-7-total-war-champions/"><u>[Updated] In 2024, Master Commanders Unleashed Ranking 7 Total War Champions</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>A Detailed VPNa Fake GPS Location Free Review On Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/avoiding-motherboard-issues-fixing-cmos-system-clock-corruption/"><u>Avoiding Motherboard Issues: Fixing CMOS System Clock Corruption</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cutting-edge-techniques-for-vce-22-optimization/"><u>Cutting Edge Techniques for VCE 2.2 Optimization</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/elevate-your-mobile-gaming-experience-a-look-at-the-best-8-on-play-pass/"><u>Elevate Your Mobile Gaming Experience – A Look at the Best 8 on Play Pass</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/facebook-watch-parties-with-sound-here-are-2024-tips-for-troubleshooting-and-fixing-muted-videos-on-your-desktop-computer/"><u>Facebook Watch Parties with Sound? Here Are 2024 Tips for Troubleshooting and Fixing Muted Videos on Your Desktop Computer</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-issues-troubleshooting-non-functional-voice-communication-in-league-of-legends/"><u>Fixing Issues: Troubleshooting Non-Functional Voice Communication in League of Legends</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-voice-communication-issues-in-back-4-blood-guide-and-troubleshooting/"><u>Fixing Voice Communication Issues in 'Back 4 Blood' - Guide & Troubleshooting</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-voice-communication-issues-in-call-of-duty-modern-warfare/"><u>Fixing Voice Communication Issues in Call of Duty: Modern Warfare</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-intermittent-bluetooth-audio-glitches-for-windows-11-users/"><u>How to Fix Intermittent Bluetooth Audio Glitches for Windows 11 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-onikumas-non-functional-headset-mic-a-comprehensive-guide/"><u>How to Fix Onikuma's Non-Functional Headset Mic: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-samsung-galaxy-a05s-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Samsung Galaxy A05s Phone Now with These Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-dolby-sound-problems-in-windows-10-operating-system/"><u>Troubleshooting Dolby Sound Problems in Windows 10 Operating System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unstuck-at-last-fix-windows-11s-malfunctioning-microphone-today/"><u>Unstuck at Last: Fix Windows 11'S Malfunctioning Microphone Today</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-discovering-the-ultimate-instrumental-soundtracks-for-cinematic-experiences-for-2024/"><u>Updated Discovering the Ultimate Instrumental Soundtracks for Cinematic Experiences for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-best-of-the-best-top-12-tycoon-games-for-epic-victories/"><u>[New] 2024 Approved Best of the Best Top 12 Tycoon Games for Epic Victories</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-taking-screenshots-of-pc-games-6-ways/"><u>[New] 2024 Approved Taking Screenshots of PC Games [6 Ways]</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-engaging-audiences-with-creative-text-features/"><u>[Updated] Engaging Audiences with Creative Text Features</u></a></li>
+<li><a href="https://fox-that.techidaily.com/confirming-an-imessage-block-tips-and-indicators-to-look-for/"><u>Confirming an iMessage Block: Tips and Indicators to Look For</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-2-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Lava Blaze 2 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://fox-links.techidaily.com/how-to-use-gopro-time-lapse-for-2024/"><u>How to Use GoPro Time Lapse for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/infographic-roundup-yts-shocking-reality-of-17/"><u>Infographic Roundup YT's Shocking Reality of '17</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagrams-hidden-gems-designing-stunning-engaging-puzzle-posts-for-2024/"><u>Instagram's Hidden Gems Designing Stunning, Engaging Puzzle Posts for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-problem-why-is-my-valorant-in-game-voice-chat-malfunctioning/"><u>Solving the Problem: Why Is My Valorant In-Game Voice Chat Malfunctioning?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-discord-audio-issues-a-step-by-step-guide/"><u>Solving Your Discord Audio Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-reviving-your-squads-silent-mic-as-of-2024/"><u>Step-by-Step Guide to Reviving Your Squad's Silent Mic as of 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-restoring-sound-functionality-to-your-conexant-smartaudio-hd-with-windows-10/"><u>Step-by-Step Solution: Restoring Sound Functionality to Your Conexant SmartAudio HD with Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-to-restore-voice-chat-functionality-in-destiny-2/"><u>Step-by-Step Tutorial to Restore Voice Chat Functionality in Destiny 2</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-for-broken-microphone-in-steelseries-arctis-prime/"><u>Troubleshooting Guide for Broken Microphone in SteelSeries Arctis Prime</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-what-to-do-if-logitechs-built-in-microphone-stops-functioning/"><u>Troubleshooting Guide: What to Do If Logitech's Built-In Microphone Stops Functioning?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/turning-up-the-volume-a-step-by-step-guide-to-fix-no-sound-in-google-chrome/"><u>Turning Up The Volume: A Step-by-Step Guide to Fix No Sound in Google Chrome</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-how-to-troubleshoot-unresponsive-pc-speakers/"><u>Ultimate Guide: How To Troubleshoot Unresponsive PC Speakers</u></a></li>
 </ul></div>
 

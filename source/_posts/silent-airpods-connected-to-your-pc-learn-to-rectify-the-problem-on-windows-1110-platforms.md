@@ -1,7 +1,7 @@
 ---
 title: Silent AirPods Connected to Your PC? Learn to Rectify the Problem on Windows 11/10 Platforms
-date: 2024-08-13T10:54:58.633Z
-updated: 2024-08-14T10:54:58.633Z
+date: 2025-01-18T18:17:51.940Z
+updated: 2025-01-22T18:03:29.506Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ Looking for answers to your**Speaker Setup (UNKNOWN)** error? You’ve come to t
 5. **[Check if your system is corrupted](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reset your PC](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Install all Windows updates
 
  Theoretically, Windows automatically installs the corresponding updates and drivers once you plugged in your peripherals. But that’s not always the case, especially when you’ve changed the update settings.
@@ -46,9 +50,6 @@ So you can follow these steps to install all system updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Windows will then search and install available system updates. This might take up to an hour depending on your Internet speed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Once completed, restart your computer.
 
  To make sure you’ve installed _all_  system updates, repeat these steps until you see “You’re up to date” when you click **Check for updates** .
@@ -64,12 +65,13 @@ So you can follow these steps to install all system updates manually:
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -85,20 +87,16 @@ Here’s how:
 
 1. On your keyboard, press the**Windows logo key** and type**audio troubleshooter** . Select**Fix and find problems with playing sound** from the results.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-troubleshooter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Click**Next** , then follow the on-screen instruction to troubleshoot your audio issue.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-troubleshooter-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-troubleshooter-2.jpg)
 
  If the audio troubleshooter failed to detect or solve your error, you can check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Change the startup type of audio services
 
  The audio error might appear when your audio service isn’t running properly. If that’s the case,**changing the startup type of your audio service** could solve your problem in a snap.
@@ -107,14 +105,13 @@ So here’s how to do it:
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Type**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-box-services-msc.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 2. Right-click**Windows Audio** and select**Properties** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-audio-services-properties.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-audio-services-properties.jpg)
 3. Set**Startup type** to**Automatic** . Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-audio-services-automatic-new.jpg)
 4. Use the same steps to set the**Startup type** of the following services to**Automatic** :  
@@ -125,8 +122,9 @@ So here’s how to do it:
  If this fix doesn’t give you any luck, you can take a look at the last method.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Check if your system is corrupted
 
  In the worst scenario, this could be a system-level issue. Or you can say that your system is corrupted. You need to run a complete scan to make sure there aren’t any critical issues. To do so, we recommend using **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  . It’s a system repair solution that will fix your system without damaging settings or data.
@@ -139,9 +137,6 @@ So here’s how to do it:
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Reset your PC
 
  If none of the above methods works for you, you can try this ultimate solution to**reset your PC** . This is like reinstalling your system, but without an USB or DVD recovery media.
@@ -153,18 +148,26 @@ You can follow these steps to reset your PC:
 1. On your keyboard, press the**Windows logo key** and**I** at the same time. This will open the Windows Settings app. Then select**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. From the left menu, select**Recovery** . Under the**Reset this PC** section, click**Get started** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/reset-pc.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/reset-pc.jpg)
 3. In the pop-up window, select**Remove everything** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/reset-pc-2.jpg)
 4. You might then see two reinstall options:**Cloud download** and**Local reinstall** . You can choose**Cloud download** if you want to reinstall using the latest Windows installation files. If you don’t wish to wait, choose**Local reinstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/reset-pc-3.jpg)
 5. Click**Next** and follow the on-screen instructions to reset your PC.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/reset-pc-04.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/reset-pc-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The reset process will take some time (up to a few hours) depending on your hard drive speed. Once you’ve reset your PC, check if your sound problem has disappeared.
@@ -179,8 +182,6 @@ You can follow these steps to reset your PC:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +189,23 @@ You can follow these steps to reset your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-best-screen-capture-apps-a-guide-for-educators/"><u>[New] The Best Screen Capture Apps A Guide for Educators</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-cashing-in-on-content-the-carminati-effect-ajay-for-2024/"><u>[Updated] Cashing In on Content The Carminati Effect (AJay) for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-guide-to-youtube-openers-aandb-methods/"><u>2024 Approved The Ultimate Guide to YouTube Openers A&B Methods</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beyond-anticipation-my-impressive-encounter-with-apple-vision-pro-featured-in-zdnet/"><u>Beyond Anticipation: My Impressive Encounter with Apple Vision Pro, Featured in ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertir-facilement-avi-en-3gp-sur-internet-et-gratuit-grace-a-movavi/"><u>Convertir Facilement AVI en 3GP Sur Internet Et Gratuit Grâce À Movavi</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/cut-pro-tutorials-for-top-tier-youtube-video-editing/"><u>FinalCut Pro Tutorials for Top-Tier YouTube Video Editing</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-samsung-galaxy-s23-ultra-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Samsung Galaxy S23 Ultra Quickly? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-leading-edge-quick-frame-gatherer-5/"><u>In 2024, Leading Edge Quick Frame Gatherer #5</u></a></li>
+<li><a href="https://facebook.techidaily.com/leveraging-likes-and-shares-without-overstepping-boundaries/"><u>Leveraging Likes & Shares Without Overstepping Boundaries</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/modern-solutions-to-overcome-audio-latency/"><u>Modern Solutions to Overcome Audio Latency</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/rainbow-six-siege-solving-post-update-voice-chat-disconnects-for-players/"><u>Rainbow Six Siege: Solving Post-Update Voice Chat Disconnects for Players</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solutions-for-when-your-corsair-virtuoso-microphone-wont-work/"><u>Solutions for When Your Corsair Virtuoso Microphone Won't Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-iphones-audio-problems-restoring-clear-sound-quality/"><u>Solve iPhone's Audio Problems: Restoring Clear Sound Quality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-a-non-functional-hyperx-cloud-stinger-mic-easy-fixes-revealed/"><u>Troubleshooting a Non-Functional HyperX Cloud Stinger Mic - Easy Fixes Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-bluetooth-connection-with-no-audio-output/"><u>Troubleshooting Guide: Fixing Bluetooth Connection with No Audio Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-intermittent-sound-issues-on-windows-11/"><u>Troubleshooting Intermittent Sound Issues on Windows 11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Restoring In-Game Music in Anthem on Windows 11 Machines
-date: 2025-01-14T16:00:08.650Z
-updated: 2025-01-16T16:04:52.550Z
+date: 2025-01-20T17:50:58.645Z
+updated: 2025-01-22T20:59:48.606Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -35,6 +35,10 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 1. [Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 2. [Check audio settings](https://tools.techidaily.com/drivereasy/download/)
 3. [Roll back your audio driver](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your audio driver
 
@@ -52,6 +56,10 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72204e5e8f.jpg)
 3. Click the**Update** button next to a flagged audio driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version of Driver Easy).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click**Update** **All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72220f11f9.jpg)
@@ -71,20 +79,16 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 2. In the**Sound** pane, click the**Playback** tab.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7201dbcc98.jpg)
 3. Select your speaker audio device, and click**Set Default** to set it as your default device.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If your device has been the default device, you’ll see a green check mark next to your device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72066a032c.jpg)
 4. Restart your computer, and plug a headphone to see if there’s any sound.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Still no luck? Okay, there’s one more thing to try.
 
@@ -97,15 +101,11 @@ Still no luck? Okay, there’s one more thing to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721431cb33.jpg)
 3. Double click**Sound, video and game controllers** to expand it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72165a0e6f.jpg)
 4. Double click on your**audio device** to open the properties pane.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7218e14fa5.jpg)
@@ -140,21 +140,18 @@ Feel free to leave a comment below if you have any questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-streamline-your-slides-with-these-4-youtube-video-inclusion-methods/"><u>[New] In 2024, Streamline Your Slides with These 4 YouTube Video Inclusion Methods</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-independent-artists-guide-to-personalized-visual-tricks/"><u>[Updated] Independent Artists' Guide to Personalized Visual Tricks</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/craft-your-story-pace-with-instagrams-temp-control-feature-for-2024/"><u>Craft Your Story Pace with Instagram's Temp Control Feature for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhancing-system-agility-through-memory-speed-and-latency-management-essential-insights/"><u>Enhancing System Agility Through Memory Speed & Latency Management: Essential Insights</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-voice-communication-issues-in-back-4-blood-a-comprehensive-guide/"><u>Fixing Voice Communication Issues in 'Back 4 Blood' - A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fuse-hp-envy-5530-drivers-with-your-win10-system/"><u>Fuse HP Envy 5530 Drivers with Your Win10 System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hdmi-device-conflict-resolution-tips-for-when-other-programs-are-running/"><u>HDMI Device Conflict Resolution: Tips for When Other Programs Are Running</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-silence-crackling-sound-from-your-speakers-on-windows-pc-solution/"><u>How to Silence Crackling Sound From Your Speakers on Windows PC (Solution)</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-audio-fix-ups-how-to-resolve-unable-to-reproduce-tone-errors/"><u>Mastering Audio Fix-Ups: How to Resolve 'Unable to Reproduce Tone' Errors</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-hd-audio-with-idts-codec-driver-seamless-integration-into-windows-11/"><u>Mastering HD Audio with IDT's Codec Driver: Seamless Integration Into Windows 11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/savory-scenes-mastering-the-art-of-eating-focused-filmography/"><u>Savory Scenes Mastering the Art of Eating-Focused Filmography</u></a></li>
-<li><a href="https://techtrends.techidaily.com/simplify-your-streaming-experience-with-the-ultimate-webm-codec-bundle/"><u>Simplify Your Streaming Experience with the Ultimate WebM Codec Bundle</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-resolving-non-functional-mic-problems-with-turtle-beach-elite-atlas/"><u>Step-by-Step Solution: Resolving Non-Functional Mic Problems with Turtle Beach Elite Atlas</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-realtek-hd-audio-issues-why-it-wont-launch-and-how-to-fix-it/"><u>Troubleshooting Realtek HD Audio Issues: Why It Won't Launch and How to Fix It</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-choosing-the-perfect-vr-headset-for-gamers/"><u>Ultimate Guide: Choosing the Perfect VR Headset for Gamers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-perfecting-altered-text-aesthetics-in-visual-media/"><u>[Updated] 2024 Approved Perfecting Altered Text Aesthetics in Visual Media</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ensuring-compatibility-with-macos-big-sur-release/"><u>[Updated] Ensuring Compatibility with MacOS Big Sur Release</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1791392-9781782796206-a-kitchen-witchs-world-of-magical-herbs-plants/"><u>A Kitchen Witch's World of Magical Herbs & Plants | Free Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/end-silent-screenings-top-strategies-to-restore-audio-in-pc-users-facebook-video-playbacks/"><u>End Silent Screenings: Top Strategies to Restore Audio in PC Users' Facebook Video Playbacks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-guide-to-enable-sound-capturing-in-discord-during-games/"><u>Expert Guide to Enable Sound Capturing in Discord During Games</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-issues-after-patching-the-escapists-game-on-windows-systems/"><u>How to Resolve Issues After Patching 'The Escapists' Game on Windows Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016500272-solve-airpods-microphone-failure-in-windows-10-with-easy-fixes/"><u>Solve 'AirPods Microphone Failure' In Windows 10 with Easy Fixes!</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/top-ranking-apps-for-embedding-dates-in-images/"><u>Top-Ranking Apps for Embedding Dates in Images</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unstuck-from-silence-resolving-headphone-issues-in-windows-10-systems/"><u>Unstuck From Silence: Resolving Headphone Issues In Windows 10 Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-upgrades-explore-how-apples-latest-airpods-pro-and-max-compare-insights/"><u>Unveiling the Upgrades: Explore How Apple's Latest AirPods Pro and Max Compare - Insights</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/wattpad-stars-moments-on-snapchat/"><u>Wattpad Stars Moments on Snapchat</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11s-epson-scanner-not-working-heres-how-to-fix-it/"><u>Windows 11'S Epson Scanner Not Working? Here's How To Fix It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015726148-zoom-microphone-failures-in-windows-1011-heres-how-to-resolve-them/"><u>Zoom Microphone Failures in Windows 10/11? Here's How to Resolve Them!</u></a></li>
 </ul></div>
 

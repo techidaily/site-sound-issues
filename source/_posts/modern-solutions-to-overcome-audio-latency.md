@@ -1,7 +1,7 @@
 ---
 title: Modern Solutions to Overcome Audio Latency
-date: 2025-01-09T16:01:45.468Z
-updated: 2025-01-16T16:02:38.914Z
+date: 2025-01-17T16:01:46.297Z
+updated: 2025-01-22T18:20:48.970Z
 tags:
   - win11
   - win10
@@ -36,10 +36,6 @@ It’s annoying that your Discord is picking up game audio all of a sudden. But 
 * [2. Change sound settings](https://tools.techidaily.com/drivereasy/download/)
 * [3. Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Update audio drivers
 
  A properly working audio driver can make sure your device is working normally. If your Discord picks up the game audio, it might be caused by a malfunctioning audio driver. To make sure your audio works fine, you should update your audio driver:
@@ -55,6 +51,10 @@ There’re mainly two ways for you to update an audio driver:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -76,7 +76,7 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Go to the**Recording** tab.
@@ -85,20 +85,20 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Open Discord application, and go to**User Settings** .
 
  5) Under**Voice Settings** , choose the correct**Input Device** and**Output Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Reinstall Discord
@@ -111,13 +111,13 @@ There’re mainly two ways for you to update an audio driver:
 
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click Discord, and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once complete, you can download[**the latest Discord client**](https://discord.com/brand-new) and check if the issues persist in the new version.
 
@@ -142,24 +142,16 @@ There’re mainly two ways for you to update an audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/nbox-the-joy-of-9-premium-complete-christmas-movies-for-free/"><u>[New] Unbox the Joy of 9 Premium, Complete Christmas Movies for Free</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-microsoft-teams-mic-not-working-on-windows-1110/"><u>[SOLVED] Microsoft Teams Mic Not Working on Windows 11/10</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-elevate-your-earnings-on-social-media-youtube-mastery-on-the-networking-powerhouse-for-2024/"><u>[Updated] Elevate Your Earnings on Social Media YouTube Mastery on the Networking Powerhouse for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-selecting-your-digital-stage-the-comparative-analysis-of-igtv-and-youtube/"><u>2024 Approved Selecting Your Digital Stage The Comparative Analysis of IGTV & YouTube</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/charting-2023s-social-trend-peaks-in-graphs/"><u>Charting 2023'S Social Trend Peaks in Graphs</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722986589881-cyberpunk-2077-overcome-freezing-issue-optimization-success/"><u>Cyberpunk 2077 Overcome Freezing Issue - Optimization Success</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/detailed-analysis-of-new-age-electronics-by-toms-guys/"><u>Detailed Analysis of New-Age Electronics by Tom's Guys</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-resolving-microphone-failures-with-turtle-beach-recon-70-models/"><u>Expert Advice: Resolving Microphone Failures with Turtle Beach Recon 70 Models</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-fixes-for-your-quiet-turtle-beach-advance-prise-microphone-get-it-working-again/"><u>Expert Fixes for Your Quiet Turtle Beach Advance Prise Microphone – Get It Working Again!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-windows-1110-bluetooth-stuttering-a-step-by-step-guide-to-smooth-sound/"><u>Fix Your Window's 11/10 Bluetooth Stuttering: A Step-by-Step Guide to Smooth Sound</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixes-for-silent-cyberpunk-2077-gameplay-in-windows-10-detailed-solutions/"><u>Fixes for Silent Cyberpunk 2077 Gameplay in Windows 10: Detailed Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/headphone-jack-issues-a-comprehensive-fix-for-laptops-audio-problems/"><u>Headphone Jack Issues? A Comprehensive Fix for Laptops' Audio Problems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Oppo Find X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1728499717211-onedrive/"><u>OneDrive同步文件夹移除指南：四种有效方法</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-logitech-g4nce-g430-headset-microphone-a-step-by-step-guide-to-troubleshooting/"><u>Reviving Your Logitech G4nce G430 Headset Microphone - A Step By Step Guide To Troubleshooting</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-process-how-to-delete-your-entire-itunes-backup-from-pc-or-icloud/"><u>Step-by-Step Process: How to Delete Your Entire iTunes Backup From PC or iCloud</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-voice-chat-problems-for-a-smooth-co-op-experience-in-back-4-blood/"><u>Troubleshooting Voice Chat Problems for a Smooth Co-Op Experience in Back 4 Blood</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-lineup-for-gaming-on-the-go-leading-steam-decks-and-rog-docking-stations-in-202cued-by-your-request-i-have-created-two-seo-friendly-titles-that-con38/"><u>Ultimate Lineup for Gaming on the Go: Leading Steam Decks & ROG Docking Stations in 202Cued by Your Request, I Have Created Two SEO-Friendly Titles that Convey Similar Meanings to The Best Steam Deck and ROG Ally Docks of 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/why-isnt-my-corsair-headset-working-step-by-step-fixes/"><u>Why Isn't My Corsair Headset Working? Step-by-Step Fixes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-earning-more-utilizing-youtubes-income-tools-on-all-devices-for-2024/"><u>[Updated] Earning More Utilizing YouTube's Income Tools on All Devices for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-convert-facebook-posts-to-mp3-files/"><u>2024 Approved Convert Facebook Posts to MP3 Files</u></a></li>
+<li><a href="https://win-webster.techidaily.com/comment-est-ce-que-lon-peut-transferer-un-fichier-entre-deux-ordinateurs-a-laide-dun-cable-reseau-ethernet/"><u>Comment Est-Ce Que L'on Peut Transférer Un Fichier Entre Deux Ordinateurs À L'aide D'un Câble Réseau Ethernet?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnose-and-fix-skype-microphone-failure-on-windows-11-systems/"><u>Diagnose and Fix Skype Microphone Failure on Windows 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-workspace-with-these-easy-themes-changes-on-win11/"><u>Enhance Your Workspace with These Easy Themes Changes on Win11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-restore-sound-on-a-non-working-laptop/"><u>Expert Tips to Restore Sound on a Non-Working Laptop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-resolving-undetected-headphones-on-playback-options-in-windows-11/"><u>Guide: Resolving Undetected Headphones on Playback Options in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-launch-dolby-digital-driver-for-windows-10-users/"><u>How to Troubleshoot and Launch Dolby Digital Driver for Windows 10 Users</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-capturing-and-polishing-videography-in-adobe-connect/"><u>In 2024, Capturing and Polishing Videography in Adobe Connect</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-laptop-screen-turn-off-problems-quickly-and-effectively/"><u>Resolve Laptop Screen Turn-Off Problems Quickly and Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-the-full-potential-of-windows-customizations-via-winbubble/"><u>Unleash the Full Potential of Windows Customizations via WinBubble</u></a></li>
 </ul></div>
 

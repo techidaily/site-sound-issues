@@ -1,7 +1,7 @@
 ---
 title: How to Fix Non-Functioning Voice Chat in League of Legends – Step by Step
-date: 2024-08-13T10:53:54.011Z
-updated: 2024-08-14T10:53:54.011Z
+date: 2025-01-17T17:23:16.045Z
+updated: 2025-01-22T16:39:22.894Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
  Occasionally, players find the**voice chat not working** in the game. If you happen to be in the same boat, don’t worry. It’s fixable.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to fix League of Legends Voice Chat Not Working
 
  Here are four fixes that have helped other users resolve the voice chat not working problem in LoL. You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
@@ -40,8 +41,9 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
  Once you have double-checked these items, test the voice chat feature in LoL to see if it works. If yes, then great! If the problem persists, please move on to**Fix 2** below.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Join voice channel automatically
 
  You may experience the sound not working in LoL if you disable the in-game sounds during some game session without you noticing it. So make sure to enable Join voice channel automatically to turn on the in-game sound.  
@@ -52,10 +54,11 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.png)
 3. Under the**Voice** tab, make sure the Join voice channel automatically option is checked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-1.png)
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Check to see if you can use the voice chat feature properly in game. If yes, then great! If it’s no joy, please move on to**Fix 3** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Configure the audio settings
 
@@ -65,26 +68,13 @@ You can follow the steps below to check:
 
 1. On your keyboard, press the **Windows logo key** and **R**  at the same time to bring up the Run box. Then type or paste **mmsys.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/r.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 2. In**Playback** tab, make sure that your preferred headphone or speaker is set as**Default Device** . Then right-click on the default device ane click**Test** to make sure you can hear sound coming through the headset.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-2.png)
 3. Click the**Recording** tab. Then make sure that your preferred mic is set as**Default Device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio-2.png)
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 4. Speak into yout mic to test if the indicator bar on the right moves. If yes, your mic should be working properly. If it doesn’t, check your headphone device to make sure it’s not muted.
 5. Click the**Advanced**  tab. Under the **Default Format** section, choose a different sample rate and bit depth and click**Test** . Repeat this process until you find a format that works for you. After that, make sure the box for**Allow application to take exclusive control of this deviice** is**unticked** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/111-1.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 6. Once finished, click**Apply** \>**OK** .
 7. Test in WoW to see if you can communicate with your friends. If it still gives you no luck, you should try**Fix 4** , below.
 
@@ -100,8 +90,18 @@ No advertising on the website.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Re-launch LoL, then test voice chatting with your friends to see if it solves the error.
 
@@ -116,8 +116,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +123,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-enhance-zoom-videos-efficiently-with-top-three-methods/"><u>[New] 2024 Approved Enhance Zoom Videos Efficiently with Top Three Methods</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-canva-enthusiasts-reveal-their-top-10-editor-steps-for-2024/"><u>[New] Canva Enthusiasts Reveal Their Top 10 Editor Steps for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-digital-domain-your-playground-for-1000-titles/"><u>[Updated] 2024 Approved Digital Domain Your Playground for 1,000 Titles</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-essentials-of-transferring-youtube-media-to-social-networks/"><u>[Updated] In 2024, The Essentials of Transferring YouTube Media to Social Networks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-asuss-hidden-gem-the-understated-yet-essential-display-a-must-read-for-savvy-shoppers-insights-from-zdnet/"><u>Discover Asus's Hidden Gem: The Understated Yet Essential Display - A Must-Read for Savvy Shoppers | Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/evaluating-marvels-avengers-balancing-outstanding-features-and-average-flaws/"><u>Evaluating Marvel's Avengers: Balancing Outstanding Features and Average Flaws</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-demystifying-data-a-beginners-guide-to-facebook-insights/"><u>In 2024, Demystifying Data A Beginner's Guide to Facebook Insights</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-vivo-v29-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Vivo V29 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-5-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 5 Pro to Outlook | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/mastering-skype-recording-obs-integration-guide-for-2024/"><u>Mastering Skype Recording OBS Integration Guide for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-no-audio-problems-with-conexant-smartaudio-on-windows-10/"><u>Resolving No Audio Problems with Conexant SmartAudio on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-pcs-sound-on-windows-10-solutions-for-nonworking-speakers/"><u>Revive Your PC's Sound on Windows 10: Solutions for Nonworking Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-discord-calls-expert-guides-to-fixing-voice-connectivity-problems/"><u>Reviving Discord Calls: Expert Guides to Fixing Voice Connectivity Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-the-sound-fixing-a-defective-microphone-on-hyperx-cloud-alpha-s/"><u>Reviving the Sound: Fixing a Defective Microphone on HyperX Cloud Alpha S</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-problems-enable-your-mic-for-google-meets-on-pc-windows-1110/"><u>Solving Audio Problems: Enable Your Mic for Google Meets on PC (Windows 11/10)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-silent-gameplay-restoring-sounds-in-call-of-duty-black-ops-cold-war-for-pc-players/"><u>Solving Silent Gameplay: Restoring Sounds in Call of Duty: Black Ops Cold War for PC Players</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-problem-of-non-functioning-turtle-beach-headset-mic/"><u>Solving the Problem of Non-Functioning Turtle Beach Headset Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-when-your-kotion-each-g2000-microphone-wont-work/"><u>Step-by-Step Fixes for When Your Kotion Each G2000 Microphone Won't Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-reviving-your-broken-beyond-the-wire-microphone/"><u>Step-by-Step Solution: Reviving Your Broken 'Beyond The Wire' Microphone</u></a></li>
+</ul></div>
 

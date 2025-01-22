@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Discord Sound Echo Issues on a PC - Updated Tips for 202 [Exercise]
-date: 2025-01-12T16:03:58.696Z
-updated: 2025-01-16T16:03:28.669Z
+date: 2025-01-16T20:31:56.138Z
+updated: 2025-01-22T16:15:45.244Z
 tags:
   - win11
   - win10
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/ec364dbb6168e683e422487379a99c7901eeab42b
  However, if your problem persists after you’ve taken these steps, you’ll need to make some changes on your Discord and Windows settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to stop Discord echo
@@ -55,29 +55,25 @@ Follow the steps below in order until you fix your issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/noise-suppression-inside-a-channel-voice-chat.jpg)
 3. And you’ll need to do the same inside**USER SETTINGS** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click on the gear icon at the bottom-left corner next to your username.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/Discord-settings.jpg)
 4. Select**Voice & Video** . Then make sure you’ve chosen the correct input and output device.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/Discord-choose-your-proper-input-and-output-device.jpg)
 5. Scroll down and toggle**on Echo Cancellation** . Then tick**Krisp** for Noise Suppression.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/Discord-Echo-Cancellation-on.jpg)
 
- Save your settings and restart Discord. If it’s still echoing, try the next fix below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Save your settings and restart Discord. If it’s still echoing, try the next fix below.
 
 ## 2\. Change Windows settings
 
@@ -88,26 +84,26 @@ Follow the steps below in order until you fix your issue.
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
 2. Make sure you select the correct output and input device from the drop-down.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/choose-the-correct-input-and-output-device.jpg)
 3. If your problem persists after verifying the correct input and output device, click**Sound Control Panel** in the top right.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/Sound-Control-Panel.jpg)
 4. Under the**Playback** tab, right-click your device and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound-control-panel-playback-properties.jpg)
 5. In the**Properties** window, select the**Spatial Sound** tab. Make sure to turn it**Off** . Then click**Apply > OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/turn-off-spatial-sound.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After applying the changes, do a test and check if your problem has been resolved. If not, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Download & Install all Windows updates
 
@@ -121,7 +117,7 @@ Follow the steps below in order until you fix your issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this doesn’t do the trick, proceed to the next fix.
@@ -137,6 +133,10 @@ If this doesn’t do the trick, proceed to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money-back guarantee** . You’ll be prompted to upgrade when you click Update All. You can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
@@ -165,15 +165,19 @@ If this doesn’t do the trick, proceed to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://novels-ebooks.techidaily.com/2476125-9781609259624-bloody-marys-guide-to-hauntings-horrors-and-dancing-with-the-dead/"><u>Bloody Mary's Guide to Hauntings, Horrors, and Dancing with the Dead | Free Book</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/enhancing-your-social-presence-tweeting-to-facebook/"><u>Enhancing Your Social Presence Tweeting to Facebook</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-non-functional-logitech-g-pro-x-microphones/"><u>How to Resolve Non-Functional Logitech G Pro X Microphones</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-mastering-fpv-drones-picking-perfect-propellers/"><u>In 2024, Mastering FPV Drones Picking Perfect Propellers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-default-settings-in-your-pubg-gameplay-win-1011/"><u>Restoring Default Settings in Your PUBG Gameplay (Win 10/11)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solutions-to-restore-your-steelseries-arctis-primes-mic-functionality/"><u>Solutions to Restore Your SteelSeries Arctis Prime's Mic Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/sound-blaster-mic-wont-work-here-are-the-top-fixes-you-need-to-try/"><u>Sound Blaster Mic Won't Work? Here Are the Top Fixes You Need to Try</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/turtle-beach-headset-dilemma-heres-how-to-make-your-mic-work-again/"><u>Turtle Beach Headset Dilemma? Here's How to Make Your Mic Work Again</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-update-error-code-0x80246007/"><u>Unraveling the Mystery of Update Error Code: 0X80246007</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-brand-protection-effective-techniques-for-instagram-watermarks/"><u>[New] 2024 Approved Brand Protection Effective Techniques for Instagram Watermarks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fine-tune-your-digital-discussions-zooming-upwards/"><u>[New] Fine-Tune Your Digital Discussions Zooming Upwards</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ow-to-live-stream-on-youtube-gaming-in-2024/"><u>[New] How to Live Stream on YouTube Gaming, In 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlock-the-secrets-of-youtube-monetization-key-viewer-numbers/"><u>[New] Unlock the Secrets of YouTube Monetization Key Viewer Numbers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-capture-and-preserve-windows-11-screens-for-2024/"><u>[Updated] Capture & Preserve Windows 11 Screens for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-my-broken-headphones-on-windows-11-solutions-and-tips-for-successful-setup/"><u>Fix My Broken Headphones on Windows 11: Solutions & Tips for Successful Setup</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-black-ops-cold-war-troubleshooting-non-functional-voice-chats/"><u>Fixing Black Ops: Cold War - Troubleshooting Non-Functional Voice Chats</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-lack-of-sound-in-samsung-galaxy-buds-plus-g435/"><u>Fixing Lack of Sound in Samsung Galaxy Buds Plus (G435)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-google-meet-audio-how-to-restore-microphone-function-in-windows-1011/"><u>Fixing Your Google Meet Audio: How to Restore Microphone Function in Windows 10/11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-jabra-headset-comprehensive-troubleshooting-steps/"><u>Fixing Your Jabra Headset: Comprehensive Troubleshooting Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-apple-airpods-working-perfectly-again-expert-tips-to-resolve-microphone-malfunctions-on-windows-10-systems/"><u>Getting Your Apple AirPods Working Perfectly Again: Expert Tips to Resolve Microphone Malfunctions on Windows 10 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003577710-how-to-fix-common-graphic-driver-problems-solutions-inside/"><u>How to Fix Common Graphic Driver Problems - Solutions Inside</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-slow-mo-camera-apps-for-iphoneandroid-users/"><u>Leading Slow Mo Camera Apps for iPhone/Android Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/price-friendly-nimbus-space-wide-file-vault/"><u>Price-Friendly Nimbus Space Wide File Vault</u></a></li>
 </ul></div>
 

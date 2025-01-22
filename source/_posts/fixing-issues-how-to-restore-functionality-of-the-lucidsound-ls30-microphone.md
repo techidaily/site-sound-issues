@@ -1,7 +1,7 @@
 ---
 title: "Fixing Issues: How to Restore Functionality of the LucidSound LS30 Microphone"
-date: 2025-01-12T16:02:17.146Z
-updated: 2025-01-16T16:02:09.939Z
+date: 2025-01-21T17:29:49.486Z
+updated: 2025-01-22T17:08:08.769Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -42,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Select the **Recording** tab, then right click on any empty place inside the device list and tick **Show Disabled Devices** .
@@ -63,24 +63,16 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)**  Right click the**Headset Microphone** and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)** Right click it again and select **Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **7)** Right click**Headset Microphone** and click**Properties** .
 
@@ -110,9 +102,17 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the**Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) — if you don’t already have it, you’ll be prompted to upgrade when you click**Update All** .)  
 
@@ -148,24 +148,22 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-an-insight-into-total-immersion-with-htc-vive-review/"><u>[New] An Insight Into Total Immersion with HTC Vive Review</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-breakneck-beats-short-track-highlights/"><u>[Updated] Breakneck Beats Short Track Highlights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-hand-held-balance-for-sharp-images-for-2024/"><u>[Updated] Hand-Held Balance for Sharp Images for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-future-of-marketing/"><u>2024 Approved Unveiling the Future of Marketing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/anticipated-innovations-in-visionos-the-ultimate-list-of-features-we-yearn-for-at-apples-upcoming-wwdc-event-tech-insights/"><u>Anticipated Innovations in VisionOS: The Ultimate List of Features We Yearn for at Apple’s Upcoming WWDC Event | Tech Insights</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-the-no-sound-problem-in-conexant-smartaudio-hd-for-windows-11-users/"><u>Diagnosing and Repairing the No Sound Problem in Conexant SmartAudio HD for Windows 11 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-access-to-updated-drivers-for-amds-ati-radeon-hd-3450-graphics-card/"><u>Easy Access to Updated Drivers for AMD's ATI Radeon HD 3450 Graphics Card</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-strategies-for-correcting-sound-disruptions-in-windows-11-systems/"><u>Effective Strategies for Correcting Sound Disruptions in Windows 11 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-restoring-audio-functionality-on-your-valorant-voice-call/"><u>Expert Advice: Restoring Audio Functionality on Your Valorant Voice Call</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-turtle-beach-mic-audio-on-any-device-successfully/"><u>How To Restore Turtle Beach Mic Audio on Any Device Successfully</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-solve-the-silent-modem-conexant-smartaudio-hd-fixes-under-windows-11/"><u>How to Solve the Silent Modem: Conexant SmartAudio HD Fixes Under Windows 11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/immerse-in-visual-creation-best-3d-model-and-rendering-tools-reviewed/"><u>Immerse in Visual Creation Best 3D Model & Rendering Tools Reviewed</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-a-step-into-anti-time-original-techniques-to-rewind-yt-videos/"><u>In 2024, A Step Into Anti-Time Original Techniques to Rewind YT Videos</u></a></li>
-<li><a href="https://driver-download.techidaily.com/newest-generic-bluetooth-dongle-driver-downloads-for-windows-pcs/"><u>Newest Generic Bluetooth Dongle Driver Downloads for Windows PCs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-audio-after-the-recent-windows-10-upgrade/"><u>Restoring Audio After the Recent Windows 10 Upgrade?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-to-get-your-jabra-headset-working-again-this-year/"><u>Step-by-Step Solutions to Get Your Jabra Headset Working Again This Year</u></a></li>
-<li><a href="https://extra-information.techidaily.com/streamlined-qanda-list-to-attract-podcast-audience/"><u>Streamlined Q&A List to Attract Podcast Audience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-getting-windows-7-speakers-working-again/"><u>Troubleshooting Guide: Getting Windows 7 Speakers Working Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-when-your-destiny-press-voice-chat-wont-work/"><u>Troubleshooting Tips for When Your Destiny Press Voice Chat Won't Work</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-essential-top-10-live-streamers-android-and-iphone-edition/"><u>[New] 2024 Approved Essential Top 10 Live Streamers Android & iPhone Edition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-calm-conclusions-fading-out-audio-effects-in-adobe-premiere-pro/"><u>[New] Crafting Calm Conclusions Fading Out Audio Effects in Adobe Premiere Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-chart-new-horizons-in-branding-with-these-top-10-youtube-tools/"><u>[New] In 2024, Chart New Horizons in Branding with These Top 10 YouTube Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hitch-youtube-sounds-into-imovie-tracks-swiftly/"><u>[Updated] In 2024, Hitch YouTube Sounds Into iMovie Tracks Swiftly</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-essential-blueprint-for-configuring-a-zoom-space-for-2024/"><u>[Updated] The Essential Blueprint for Configuring a Zoom Space for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/drive-your-site-traffic-with-cookiebot-technology/"><u>Drive Your Site Traffic with Cookiebot Technology</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-razer-blackshark-v2-microphone-problems-for-crystal-clear-audio/"><u>Fixing Razer BlackShark V2 Microphone Problems for Crystal Clear Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-calls-are-silent-on-cod-vanguard-restore-your-voice-chat/"><u>Fixing the Issue: Calls Are Silent on Cod: Vanguard - Restore Your Voice Chat</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-why-your-discord-voice-call-isnt-connecting/"><u>Fixing the Issue: Why Your Discord Voice Call Isn't Connecting</u></a></li>
+<li><a href="https://facebook.techidaily.com/halt-facebooks-integrated-internet-access/"><u>Halt Facebook's Integrated Internet Access</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-realtek-hd-audio-controller-wont-launch-complete-solution/"><u>How to Fix Realtek HD Audio Controller Won't Launch – Complete Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-reappear-headphone-options-on-your-device-list-after-upgrading-to-windows-11/"><u>How to Reappear Headphone Options on Your Device List After Upgrading to Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-voice-communication-in-fortnite-simple-solutions-inside/"><u>How to Restore Voice Communication in Fortnite - Simple Solutions Inside</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-unleashing-creativity-secrets-of-unique-yt-short-content/"><u>In 2024, Unleashing Creativity Secrets of Unique YT Short Content</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/nvidia-not-plugged-in-discover-effective-fixes-for-seamless-performance/"><u>Nvidia Not Plugged In? Discover Effective Fixes for Seamless Performance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimizing-game-performance-tackling-overheating-issues-in-modern-warfare/"><u>Optimizing Game Performance: Tackling Overheating Issues in Modern Warfare</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-audio-problems-a-guide-to-making-your-logitech-g935-work-with-windows-systems/"><u>Overcome Audio Problems: A Guide to Making Your Logitech G935 Work with Windows Systems</u></a></li>
 </ul></div>
 

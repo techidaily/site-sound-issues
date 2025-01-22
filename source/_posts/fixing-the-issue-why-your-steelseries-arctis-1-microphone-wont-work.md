@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Why Your SteelSeries Arctis 1 Microphone Won't Work"
-date: 2025-01-09T16:00:02.034Z
-updated: 2025-01-16T16:00:04.680Z
+date: 2025-01-16T20:20:33.318Z
+updated: 2025-01-22T17:03:39.837Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why your headset mic is not working
 
  The reasons why your SteelSeries Arctis Pro has mic problems are listed below:
@@ -35,6 +31,10 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 * Your headset is not set as the default device
 * The sound card driver is outdated/corrupted
 * Your microphone cannot access your device
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix your mic issues
 
@@ -69,7 +69,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Scroll down to allow microphone access for the Microsoft apps and desktop apps.
@@ -86,9 +86,17 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In the Sound windows, select the **Recording**  tab.
 
@@ -104,15 +112,15 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Also go to the**Enhancements** tab, and check the box Disable all sound effects.
 
  8) Click**Apply** \>**OK** .
 
  Now your SteelSeries Actis Pro should be working, and if you still have problems with the microphone, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update the headset driver
 
@@ -132,10 +140,6 @@ Here’s how to do it:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/SteelSeries-Apex-Pro.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)
 
  Once you’ve updated the driver for your SteelSeries Actis Pro, you can restart your computer and check if the microphone is working.
@@ -143,23 +147,19 @@ Here’s how to do it:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Make sure to use the correct Default Format
 
  1) On your keyboard, press the **Windows logo** key and the **R** key at the same time to open the Run box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In the Sound windows, select the **Recording**  tab.
 
@@ -194,22 +194,17 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-digital-cosmos-display-top-pick-hdr-sky-sites-list/"><u>[New] Digital Cosmos Display Top Pick HDR Sky Sites List</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-instant-insight-into-colour-difference-filming-methods/"><u>[New] Instant Insight Into Colour Difference Filming Methods</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-upgrade-your-photo-presence-best-border-selection-tips-for-instagram/"><u>[Updated] 2024 Approved Upgrade Your Photo Presence Best Border Selection Tips for Instagram</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-tecno-camon-20-premier-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Tecno Camon 20 Premier 5G</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-evolution-on-your-wrist-discover-the-six-game-changing-benefits-chatgpt-brings-to-smartwatch-users/"><u>AI Evolution on Your Wrist: Discover the Six Game-Changing Benefits ChatGPT Brings to Smartwatch Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/apex-legends-audio-troubleshooting-get-your-voice-chat-back-on-track-fixed/"><u>Apex Legends Audio Troubleshooting: Get Your Voice Chat Back On Track [FIXED]</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-instructions-for-downloading-and-setting-up-arduino-drivers-on-windows/"><u>Easy Instructions for Downloading and Setting Up Arduino Drivers on Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-your-logitech-camera-and-mic-troubleshooting-steps-for-unresponsive-audio/"><u>Fixing Your Logitech Camera & Mic: Troubleshooting Steps for Unresponsive Audio</u></a></li>
-<li><a href="https://win-blog.techidaily.com/free-online-converter-convert-raf-to-jpeg-using-movavi/"><u>Free Online Converter: Convert RAF to JPEG Using Movavi</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-samsung-galaxy-s21-fe-5g-2023-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Samsung Galaxy S21 FE 5G (2023) Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-enable-and-fix-missing-audio-in-apex-legends-game/"><u>How to Enable and Fix Missing Audio in Apex Legends Game</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-dolby-premium-playback-issues-in-windows-11-with-easy-driver-troubleshooting-steps/"><u>Overcoming Dolby Premium Playback Issues in Windows 11 with Easy Driver Troubleshooting Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016868751-realtek-hd-audio-manager-wont-open-heres-the-solution/"><u>Realtek HD Audio Manager Won't Open? Here's The Solution!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016258973-regain-your-battlefields-roar-resolve-borderlands-3s-muted-sounds-on-pc/"><u>Regain Your Battlefield's Roar - Resolve Borderlands 3’S Muted Sounds on PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-audio-problems-on-oculus-quest-2-a-step-by-step-guide-for-non-working-mics/"><u>Solving Audio Problems on Oculus Quest 2 – A Step-by-Step Guide for Non-Working Mics</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-picking-your-preferred-virtual-helper-amazons-alexa-vs-googles-gadget/"><u>The Ultimate Guide to Picking Your Preferred Virtual Helper: Amazon's Alexa Vs. Google's Gadget</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-pc-audio-problems-in-dota-2-a-step-by-step-guide/"><u>Troubleshooting PC Audio Problems in Dota 2 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-precise-color-correction-mastery-in-gopro-studio/"><u>[New] Precise Color Correction Mastery in GoPro Studio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-cinematic-experiences-on-your-desktop-with-windows-hdr/"><u>2024 Approved Crafting Cinematic Experiences on Your Desktop with Windows HDR</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/hear-the-magic-rokus-audio-and-video-overhaul/"><u>Hear the Magic: Roku’s Audio & Video Overhaul</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-dead-mic-in-your-turtle-beach-elite-atlas-headset/"><u>How to Fix a Dead Mic in Your Turtle Beach Elite Atlas Headset?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-glitches-and-distortions-in-windows-10-and-11-step-by-step-guide/"><u>How to Fix Audio Glitches & Distortions in Windows 10 and 11 (Step-by-Step Guide)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-new-world-sound-issues/"><u>How to Fix New World Sound Issues</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-p55-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel P55 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-monochrome-to-multicolor-grading-journey/"><u>In 2024, From Monochrome to Multicolor Grading Journey</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-tips-for-resolving-muted-or-quiet-system-volume-on-windows-11-devices/"><u>Master Tips for Resolving Muted or Quiet System Volume on Windows 11 Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mic-testing-how-to-test-your-microphone-quickly-and-easily/"><u>Mic Testing: How to Test Your Microphone Quickly & Easily</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Motorola Moto G04? | Dr.fone</u></a></li>
 </ul></div>
 

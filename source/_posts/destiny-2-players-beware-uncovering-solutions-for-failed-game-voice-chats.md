@@ -1,7 +1,7 @@
 ---
 title: Destiny 2 Players Beware! Uncovering Solutions for Failed Game Voice Chats
-date: 2024-08-13T10:56:25.048Z
-updated: 2024-08-14T10:56:25.048Z
+date: 2025-01-19T16:27:10.203Z
+updated: 2025-01-22T20:24:29.073Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b7
 
 **Windows Media Player no sound** ? You’re not the only one. But don’t worry, it’s often quite easy to fix…
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fixes For**Windows Media Player No Sound**
 
  Here’re 3 fixes that have helped other users resolve the problem. Just work your way down the list until you find the one that works for you.
@@ -31,8 +28,9 @@ thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b7
 3. **[Update or reinstall Windows Media Player](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Make sure you have not muted the sound
 
  Sometimes you hear no sound coming through Windows Media Player because you’ve muted the sound unknowingly.
@@ -42,16 +40,14 @@ To make sure the volume is not muted but audible:
  1) In**Windows Media Player** , move the slider of the volume control bar to at least half way up.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-151.png)
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the lower-right of your computer screen, click **the sound icon** and move **the volume slider** all the way to at least halfway up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-152.png)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 
  3) Play some music in Windows Media Player and see if the  
 **Windows Media Player no sound** issue has been resolved. If yes, then great! But if the problem persists, you should try**Fix 2** , below.
@@ -59,8 +55,9 @@ To make sure the volume is not muted but audible:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your audio driver
 
  This problem may occur if you have the wrong or outdated audio driver. So you should update your audio driver to see if it fixes the issue. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -74,8 +71,9 @@ To make sure the volume is not muted but audible:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-155.png)
+
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
@@ -89,6 +87,10 @@ To make sure the volume is not muted but audible:
 5) Play some audio in Windows Media Player to see if the no sound issue has been fixed. If yes, then congrats! If the issue remains, please try**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update or reinstall Windows Media Player
 
@@ -107,8 +109,6 @@ To make sure the volume is not muted but audible:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +116,20 @@ To make sure the volume is not muted but audible:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-quick-guide-overcoming-youtube-short-hurdles/"><u>[New] 2024 Approved Quick Guide Overcoming YouTube Short Hurdles</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-volume-control-strategies-in-logic-pro-productions/"><u>2024 Approved Volume Control Strategies in Logic Pro Productions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/addressing-outriders-sound-issues-effective-solutions-and-advice/"><u>Addressing Outriders Sound Issues: Effective Solutions & Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beyond-the-wire-microphone-troubleshooting-a-complete-fix-guide-to-restore-sound-output/"><u>Beyond The Wire Microphone Troubleshooting: A Complete Fix Guide to Restore Sound Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-a-non-functional-logitech-g5pect-533-headset-mic/"><u>Effective Solutions for a Non-Functional Logitech G5pect 533 Headset Mic</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-tips-for-effective-voice-to-text-in-google-docs/"><u>Essential Tips for Effective Voice-to-Text in Google Docs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/immediate-fixes-for-when-you-cant-hear-anythabody-pc-audio-repair-tips/"><u>Immediate Fixes for When You Can't Hear Anythabody: PC Audio Repair Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pioneering-giants-in-vr-development-for-2024/"><u>Pioneering Giants in VR Development for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/premier-music-selections-for-movie-making/"><u>Premier Music Selections for Movie Making</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-importing-mkv-video-format-into-camtasia-studio/"><u>Step-by-Step Guide: Importing MKV Video Format Into Camtasia Studio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-to-get-your-turtle-beach-mic-up-and-running-again/"><u>Step-by-Step Solutions to Get Your Turtle Beach Mic Up and Running Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-voice-chat-heres-how-to-get-your-sea-of-thieves-microphone-and-speaker-working-on-pc/"><u>Trouble With Voice Chat? Here's How to Get Your Sea of Thieves Microphone & Speaker Working on PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unraveling-the-mystery-behind-computers-blue-screen-of-death/"><u>Unraveling the Mystery Behind Computer's Blue Screen of Death</u></a></li>
+</ul></div>
 

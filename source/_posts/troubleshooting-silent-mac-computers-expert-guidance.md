@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Silent Mac Computers – Expert Guidance
-date: 2025-01-13T16:02:11.378Z
-updated: 2025-01-16T16:01:09.441Z
+date: 2025-01-17T20:48:37.725Z
+updated: 2025-01-22T17:28:42.808Z
 tags:
   - win11
   - win10
@@ -41,15 +41,11 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a27949ffeb.png)
 3. Choose**Browse my computer for driver software** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28445c675.png)
 4. Then choose**Let me pick from a list of available drivers on my computer** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a286f3d5de.png)
@@ -59,11 +55,15 @@ Read on and follow the easy-doing images below!
 6. You will see the warning asking you whether you want to go on with the installation, click**Yes** to continue.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a294398588.png)
 7. Restart your computer when the installation finishes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the generic audio driver doesn’t work to fix the sound cutting out issue, it’s possible that you have a corrupted or outdated sound card driver, so you should update the driver to see if it helps. If you’re not confident playing around with drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -83,6 +83,10 @@ Read on and follow the easy-doing images below!
 
  If your computer sound still keeps cutting out, please move on to the next option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 2: Change Sound Enhancement Settings
 
  The audio enhancements feature could interfere with the sound output, and therefore cause problems like sound keeping cutting out. To see if this is your case:
@@ -91,27 +95,15 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Option 3: Change Speaker Settings
 
@@ -122,11 +114,15 @@ Read on and follow the easy-doing images below!
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
@@ -135,6 +131,10 @@ Read on and follow the easy-doing images below!
 5. Click**Finish** to end the configuration.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Try to play audio with your computer again to see if the sound still cuts out.
 
@@ -159,24 +159,24 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/fixed-headphones-not-showing-up-in-playback-devices-on-windows-10/"><u>[Fixed] Headphones Not Showing Up in Playback Devices on Windows 10</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-20plus-funny-metaverse-memes-and-how-to-make-your-own-memes-for-2024/"><u>[New] 20+ Funny Metaverse Memes and How to Make Your Own Memes for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-young-yachtsmens-playtime-pleasures/"><u>[New] 2024 Approved Young Yachtsmen's Playtime Pleasures</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-captivating-content-the-basics-of-removing-background-from-videos-for-2024/"><u>[New] Captivating Content The Basics of Removing Background From Videos for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-ultimate-speech-refinement-kit-free-tools-for-flawless-audio-effects/"><u>[New] In 2024, The Ultimate Speech Refinement Kit Free Tools for Flawless Audio Effects</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-powerdirector-showcase-the-2024-edition-explored/"><u>[New] PowerDirector Showcase The 2024 Edition Explored</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-best-script-artisans-domain/"><u>2024 Approved Best Script Artisan's Domain</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-fix-addressing-the-failure-of-overwatchs-push-to-talk-system/"><u>Comprehensive Fix: Addressing the Failure of Overwatch’s Push-to-Talk System</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-fresh-innovations-now-experience-the-new-update-on-your-ios-devices-and-apple-watch/"><u>Discover Fresh Innovations Now - Experience the New Update on Your iOS Devices and Apple Watch</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722975108421-eveo-wireless-adapter-driver-update-secure-it-now-for-free/"><u>EVEO Wireless Adapter Driver Update - Secure It Now for Free</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-fixing-razer-barracuda-x-mic-malfunctions-in-windows-10-and-11-environments/"><u>Expert Advice: Fixing Razer Barracuda X Mic Malfunctions in Windows 10 and 11 Environments</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-enable-audio-on-your-pc-anthem-game-quieted-by-windows-11-update/"><u>How to Enable Audio on Your PC: Anthem Game Quieted by Windows 11 Update?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-phone-without-google-account-by-drfone-android/"><u>How to Unlock Infinix Smart 8 Phone without Google Account?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016829509-onikuma-headset-mic-problems-heres-how-you-can-fix-them/"><u>Onikuma Headset Mic Problems? Here's How You Can Fix Them!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-audio-functionality-after-a-recent-windows-10-update/"><u>Restoring Audio Functionality After a Recent Windows 10 Update</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-the-sounds-of-apex-legends-essential-tips-for-overcoming-no-sound-issues/"><u>Reviving the Sounds of Apex Legends - Essential Tips for Overcoming No Sound Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-silent-speakers-despite-connection-in-windows-os/"><u>Step-by-Step Solution for Silent Speakers Despite Connection in Windows OS</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/strategie-efficaci-per-lautomazione-backup-centralizzato-sui-servidori-windows-da-server-2008-a-server-2016/"><u>Strategie Efficaci per L'Automazione Backup Centralizzato Sui Servidori Windows: Da Server 2008 a Server 2016</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/top-solutions-troubleshooting-toshiba-laptop-audio-issues/"><u>Top Solutions: Troubleshooting Toshiba Laptop Audio Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015922534-back-4-blood-overcoming-voice-chat-failures-effective-solutions-inside/"><u>'Back 4 Blood': Overcoming Voice Chat Failures - Effective Solutions Inside!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitter-video-requirements-how-to-upload-a-video-on-twitter/"><u>[New] Twitter Video Requirements | How to Upload a Video on Twitter?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-holistic-locomotion-examination-2023/"><u>[Updated] 2024 Approved Holistic Locomotion Examination 2023</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-exploration-of-distinct-video-camera-kinds/"><u>[Updated] In 2024, Exploration of Distinct Video Camera Kinds</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-comprehensible-guide-to-leveraging-videos-for-social-media-success-for-2024/"><u>[Updated] The Comprehensible Guide to Leveraging Videos for Social Media Success for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/anthem-missing-sounds-on-windows-10-heres-how-you-can-restore-your-games-audio/"><u>Anthem Missing Sounds on Windows 10? Here's How You Can Restore Your Game's Audio!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/breaking-down-barriers-connect-your-iphone-to-a-vpn-in-7-steps/"><u>Breaking Down Barriers: Connect Your iPhone to a VPN in 7 Steps</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-corsair-keyboard-software-for-windows-free-and-secure/"><u>Download CORSAIR Keyboard Software for Windows - Free and Secure</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014487358-fortnite-voice-chat-trouble-heres-how-to-get-back-on-track/"><u>Fortnite Voice Chat Trouble? Here's How to Get Back on Track</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-effortlessly-connect-samsung-in-ear-headphones-with-a-laptop/"><u>How To Effortlessly Connect Samsung In-Ear Headphones With a Laptop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015159371-hyperx-cloud-stinger-mic-malfunction-heres-how-you-can-repair-it/"><u>HyperX Cloud Stinger Mic Malfunction? Here's How You Can Repair It!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-hourly-highlight-reel-1-to-10-on-youtubes-view-chart/"><u>In 2024, Hourly Highlight Reel #1 to #10 on YouTube's View Chart</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-scripting-for-advanced-typography-in-after-effects/"><u>In 2024, Innovative Scripting for Advanced Typography in After Effects</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015953568-modern-warfare-voice-chat-problems-here-are-the-solutions/"><u>Modern Warfare Voice Chat Problems? Here Are the Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015840782-sea-of-thieves-microphone-problems-solved-get-your-mic-working-again/"><u>Sea of Thieves Microphone Problems Solved: Get Your Mic Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fix-for-window-117-speaker-glitches-clear-the-crackling-audio-now/"><u>Ultimate Fix for Window 11/7 Speaker Glitches: Clear the Crackling Audio Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-tips-for-fixing-microphone-problems-in-windows-11/"><u>Ultimate Tips for Fixing Microphone Problems in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unstuck-from-silence-effective-fixes-for-non-responsive-voice-chat-in-destiny-2/"><u>Unstuck From Silence: Effective Fixes for Non-Responsive Voice Chat in Destiny 2</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-top-10-face-blurring-tools-for-photos-and-videos-free-and-easy-to-use/"><u>Updated In 2024, Top 10 Face Blurring Tools for Photos and Videos (Free & Easy to Use)</u></a></li>
 </ul></div>
 

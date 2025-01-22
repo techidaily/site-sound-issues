@@ -1,7 +1,7 @@
 ---
 title: DIY Tips for Restoring Audio Capture on Your OBS Setup
-date: 2024-08-13T10:51:22.759Z
-updated: 2024-08-14T10:51:22.759Z
+date: 2025-01-21T17:09:00.954Z
+updated: 2025-01-22T18:22:23.227Z
 tags:
   - win11
   - win10
@@ -53,6 +53,10 @@ See if Bluetooth audio lags or not. If not, try the next fix, below.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Run Windows audio playback troubleshooter
 
  The built-in Windows audio playback troubleshooter is a useful tool that can help you resolve audio playback issue. Follow the instructions below to run Windows audio playback troubleshooter:
@@ -60,15 +64,13 @@ See if Bluetooth audio lags or not. If not, try the next fix, below.
  1)**Right-click** the speaker icon at the bottom-right corner, then select **Troubleshoot sound problems** . You’ll be prompted for permission. Click **Yes** to run Windows audio playback troubleshooter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap187-5.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 
  2) In the pop-up window, click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap185-5.png)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select your Bluetooth audio device and click**Next** .
@@ -98,9 +100,6 @@ See if Bluetooth audio lags or not. If not, try the next fix, below.
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap14.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Update** next to your Bluetooth device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
@@ -110,10 +109,6 @@ See if Bluetooth audio lags or not. If not, try the next fix, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Set your Bluetooth audio device as default audio playback device
 
  You may encounter this issue if your Bluetooth audio device is not the default audio playback device. Try setting it as default audio playback device to see if Bluetooth audio will lag or not. Here is how to do it:
@@ -122,15 +117,20 @@ See if Bluetooth audio lags or not. If not, try the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap188-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Navigate to the**Playback** tab. Select your Bluetooth audio device and click **Set Default** . Then click **OK** to save the changes and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap189-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  See if Bluetooth audio lag issue reappears. If this issue is not fixed, try the next fix to restart Windows audio service.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Restart Windows audio service
 
  If there is something wrong with Windows audio service, you may run into the audio lag issue. Try restarting Windows audio service to see if you can resolve this issue. Here is how to do it:
@@ -138,30 +138,26 @@ See if Bluetooth audio lags or not. If not, try the next fix, below.
  1) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Type **services.msc** and press **Enter** . You’ll be prompted for permission. Click **Yes** to open **Services** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap190-5.png)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Scroll down to locate**Windows Audio** . **Right-click** it and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap193-5.png)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Under the**General** tab, if the service is disabled, click **Star** to enable it. For **Startup type** , select **Automatic** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap194-5.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Navigate to the**Recovery** tab. For **First failure** , select **Restart the Service** . Then click **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap195-5.png)
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Locate the service**Windows Audio Endpoint Builder** . Follow step 3 and step 4 above to do the same thing for Windows Audio Endpoint Builder.
 
@@ -182,8 +178,6 @@ See if the audio lag issue reappears.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +185,26 @@ See if the audio lag issue reappears.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/fixed-no-pen-or-touch-input-is-available-for-this-display/"><u>[Fixed] No Pen or Touch Input Is Available for This Display</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-fcp-without-spending-practical-guide/"><u>[New] In 2024, FCP Without Spending – Practical Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-unveiled-transform-your-ride-with-innovative-modification-strategies/"><u>ChatGPT Unveiled: Transform Your Ride with Innovative Modification Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciphering-the-secrecy-surrounding-chatgpt/"><u>Deciphering the Secrecy Surrounding ChatGPT</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-fixes-for-dealing-with-windows-software-code-39-issues/"><u>Easy Fixes for Dealing with Windows Software Code 39 Issues</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-realme-c53-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-fcpx-captioning-guide-best-practices/"><u>New The Ultimate FCPX Captioning Guide Best Practices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-a-non-functional-razer-kraken-mic-effective-solutions-proven-successful/"><u>Reviving a Non-Functional Razer Kraken Mic: Effective Solutions Proven Successful</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-razer-blackshark-v2-microphone-a-comprehhavisnce-on-troubleshooting-techniques/"><u>Reviving Your Razer Blackshark V2 Microphone: A Comprehhavisnce on Troubleshooting Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-troubleshooting-steps-when-your-hangouts-microphone-fails/"><u>Simple Troubleshooting Steps When Your Hangouts Microphone Fails</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-get-your-hyperx-cloud-headset-mic-working-again/"><u>Solved! How to Get Your HyperX Cloud Headset Mic Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-mute-mystery-get-back-sound-on-windows-media-player-today/"><u>Solving the Mute Mystery: Get Back Sound on Windows Media Player Today</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-tips-for-nonfunctional-speakers-in-windows-7-pcs/"><u>Step-by-Step Repair Tips for Nonfunctional Speakers in Windows 7 PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-how-to-for-resolving-discords-persistent-sound-interruptions-updated/"><u>The Definitive How-To for Resolving Discord's Persistent Sound Interruptions, Updated</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-realme-c67-4g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Realme C67 4G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-razer-barracuda-x-mic-problems-in-windows-operating-systems/"><u>Troubleshooting Guide: Resolving Razer Barracuda X Mic Problems in Windows Operating Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-no-audio-on-your-hp-laptop-running-windows-10/"><u>Troubleshooting: Fixing No Audio on Your HP Laptop Running Windows 10</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/unlocking-the-potential-of-audacitys-audio-features-for-2024/"><u>Unlocking the Potential of Audacity's Audio Features for 2024</u></a></li>
+</ul></div>
 
