@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Tips for Diagnosing and Repairing Lack of Audio on Toshiba Portables
-date: 2024-08-13T10:48:50.177Z
-updated: 2024-08-14T10:48:50.177Z
+date: 2025-01-25T19:36:42.023Z
+updated: 2025-01-29T22:54:09.351Z
 tags:
   - win11
   - win10
@@ -31,9 +31,6 @@ It’s annoying that your Discord is picking up game audio all of a sudden. But 
 * [2. Change sound settings](https://tools.techidaily.com/drivereasy/download/)
 * [3. Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ### 1\. Update audio drivers
 
  A properly working audio driver can make sure your device is working normally. If your Discord picks up the game audio, it might be caused by a malfunctioning audio driver. To make sure your audio works fine, you should update your audio driver:
@@ -50,12 +47,17 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver-1.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 
@@ -65,8 +67,9 @@ There’re mainly two ways for you to update an audio driver:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Change sound settings
 
  This issue happens when Stereo Mix (instead of your headset microphone) is set to the default device. To fix it, you should disable Stereo Mix, and set your microphone as the default device:
@@ -79,21 +82,23 @@ There’re mainly two ways for you to update an audio driver:
 
  3) Right-click**Stereo Mix** and select **Disable** , and make sure you have set your headphone as the default device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Open Discord application, and go to**User Settings** .
 
  5) Under**Voice Settings** , choose the correct**Input Device** and**Output Device** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
 
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Reinstall Discord
 
@@ -103,9 +108,6 @@ There’re mainly two ways for you to update an audio driver:
 
  2) Type in**appwiz.cpl** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 
  3) Right-click Discord, and select**Uninstall** .
@@ -126,8 +128,6 @@ There’re mainly two ways for you to update an audio driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +135,21 @@ There’re mainly two ways for you to update an audio driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-from-raw-recordings-to-professional-vids-webcam-edition/"><u>[New] From Raw Recordings to Professional Vids - Webcam Edition</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-to-get-more-instagram-video-views-for-2024/"><u>[New] How to Get More Instagram Video Views for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unveiling-superior-screen-recording-obs-vs-fraps-face-off/"><u>[Updated] Unveiling Superior Screen Recording OBS vs Fraps Face-Off</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bypass-the-hurdle-fix-microphone-problems-in-airpods-when-using-windows-11/"><u>Bypass the Hurdle: Fix Microphone Problems in AirPods When Using Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cambia-tus-archivos-de-video-mp4-a-3g2-por-nada-el-procesador-en-linea-de-movavi-para-convertir-facilmente/"><u>Cambia Tus Archivos De Video MP4 a 3G2 Por Nada: El Procesador en Línea De Movavi Para Convertir Fácilmente</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/epson-printer-error-windows-11-workaround-and-solution/"><u>Epson Printer Error: Windows 11 Workaround and Solution</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-crafting-a-combined-video-narrative-on-iphone/"><u>In 2024, Crafting a Combined Video Narrative on iPhone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-sony-xperia-10-vfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Sony Xperia 10 VFRP Lock</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/jump-into-action-on-tiktok-live-easy-methods-revealed-for-2024/"><u>Jump Into Action on TikTok Live Easy Methods Revealed for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-discover-the-best-free-beats-and-tunes-creation-programs-for-pc-and-mac-updated/"><u>New In 2024, Discover the Best Free Beats and Tunes Creation Programs for PC & Mac, Updated</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-hd-speaker-drivers-wont-open-here-are-the-solutions/"><u>RealTek HD Speaker Drivers Won't Open? Here Are the Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-complete-fix-for-astro-a1e-wireless-mouse-and-usb-adapter-mic-problems/"><u>The Complete Fix for Astro A1e Wireless Mouse & USB Adapter Mic Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-solutions-for-high-performance-audio-settings-in-windows-11/"><u>Ultimate Solutions for High-Performance Audio Settings in Windows 11</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-tone-it-up-5-easy-to-use-online-generators-no-charge/"><u>Updated Tone It Up 5 Easy-to-Use Online Generators No Charge</u></a></li>
+</ul></div>
 

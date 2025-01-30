@@ -1,7 +1,7 @@
 ---
 title: How To Restore Microphone Functionality in Your SteelSeries Arctis Prime Audio Gear
-date: 2024-08-13T10:46:03.555Z
-updated: 2024-08-14T10:46:03.555Z
+date: 2025-01-25T16:27:36.758Z
+updated: 2025-01-29T20:12:36.447Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 
 The Corsair HS35 mic is a good-value product but it might be frustrating when it suddenly stops working sometimes. If you’re having the same issue, we have a few solutions that might work for you!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  **Before trying the fixes below, you should have a simple check first:**
@@ -46,6 +43,11 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 1. Press the**Windows + I** keys to open Windows settings, then select**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/setting-Privacy.jpg)
 2. Select**Microphone** on the left panel, then click the**Change** button to see if the toggle is**On** in the pop-up menu. If it isn’t, change the toggle to On.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-1.jpg)
 3. Check to see if the toggle in the**Allow apps to access your microphone** section is turned**On** . If it isn’t, change the toggle to On.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-2-1.jpg)
@@ -54,35 +56,31 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2 – Check the audio settings
 
  Sometimes your computer’s audio settings might be messed up because of frequent or erroneous operations. In this case, you should try the steps below to configure the audio settings.
 
 1. Right-click the**volume icon** on the task bar and then select**Sounds** from the mune that appears.  
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/volume-icon-sounds.jpg)
 2. Under the**Recording** tab, check to see if your headset microphone is set to disabled. If it is, right-click on it and select**Enable** . (If your mic is not the default device, click**Set Default** to set it as default)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-enable.jpg)
 3. Right-click the headset microphone again and select **Properties.**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-properties.jpg)
 4. Under the**Levels** tab, move the slider to the highest value and then click**OK** to save your settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this fix doesn’t give you the luck, try the next below to update your audio drives.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Fix 3 – Update your audio driver
 
  The mic not working problem may also occur if you are using the wrong audio driver or it’s out of date. Therefore you should update your audio driver to see if it fixes your problem.
@@ -95,17 +93,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DE-5.7.2-SCAN.jpg)
 3. Click the**Update** button next to the flagged audio driver to automatically download and install the correct version of that driver (you can do this with the FREE version).  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  ).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DE-audio-card-driver.jpg)
 4. After updating your audio driver, restart your PC for the trick to take effect.
 
@@ -114,9 +104,9 @@ The powerful video editing program for your Windows PC</a>
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4 – Reinstall the Corsair headset and iCUE software
 
  When you have problems using your microphone, you can try reinstalling your Corsair headset and the iCUE software. This will enable your computer to reload data from your Corsair headset and resolve the conflict between your PC and the iCUE software. Here’s how it’s done:
@@ -124,17 +114,23 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 1. Press**Windows + X** keys to open the quick access menu and select**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/quick-access-menu-device-manger.jpg)
 2. Click on the**Audio inputs and outputs** to expand the category, right-click your Corsair device and then select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DM-Audio-unindtall.jpg)
 3. Click**Uninstall** in the confirmation box that pops up.
 4. Press the**Windows + R** keys to open the Run command. Type**`appwiz.cpl`** in the text box and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-4.jpg)
 5. Select**iCUE** and then click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-5.jpg)
 6. Click**Yes** in the confirmation box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Restart your PC and replug your Corsair headset into your computer.
 8. Relaunch the iCUE software. You can click **[here](https://r.brandreward.com/?key=3882aba4cadd4473e0195097fdf20855&url=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Ficue&mktsrc=drivereasyen%5F166866)**  to download the latest version of iCUE.
 
@@ -174,6 +170,10 @@ Top Pick
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 6 – Seek technical support or after-sales service
 
  If you’ve tried all of the above fixes and still can’t get your mic boom to function, the issue could be with your headset rather than your computer.**You can try connecting your headset to another PC** ; if it’s still not working, there may be an issue with your Corsair Mic. In this situation, you should **[contact Corsair for support](https://help.corsair.com/hc/en-us)**  or have your headset serviced.
@@ -188,8 +188,6 @@ Top Pick
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +195,24 @@ Top Pick
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-pioneering-tools-for-the-future-of-3d-model-and-animation-artistry/"><u>[New] 2024 Approved Pioneering Tools for the Future of 3D Model & Animation Artistry</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-free-screen-recorder-programs-with-no-trial-period/"><u>[New] Best Free Screen Recorder Programs with No Trial Period</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-veiled-realities-an-insight-into-story-viewers-world/"><u>[New] In 2024, Veiled Realities An Insight Into Story Viewers' World</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-decode-your-youtube-preferences-with-these-6-fan-favorite-questionnaires/"><u>[Updated] In 2024, Decode Your YouTube Preferences with These 6 Fan-Favorite Questionnaires</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-melodious-memes-crafting-choreographed-reels-with-sound-for-2024/"><u>[Updated] Melodious Memes Crafting Choreographed Reels with Sound for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-reach-unprecedented-numbers-youtube-marketing-wisdom/"><u>[Updated] Reach Unprecedented Numbers YouTube Marketing Wisdom</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-why-your-razer-man-o-war-microphone-isnt-functioning/"><u>Fixing the Issue: Why Your Razer Man O' War Microphone Isn't Functioning</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-chatgpts-real-time-data-retrieval-transforms-the-information-landscape/"><u>How ChatGPT's Real-Time Data Retrieval Transforms the Information Landscape</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-for-speedy-chrome-no-more-lag/"><u>Quick Fixes for Speedy Chrome – No More Lag!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-sound-issues-how-to-prevent-audio-interruptions-in-windows-11/"><u>Troubleshooting Sound Issues: How to Prevent Audio Interruptions in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-a-broken-realtek-microphone-connection/"><u>Troubleshooting Steps for a Broken Realtek Microphone Connection</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-idt-hd-audio-codec-compatibility-with-windows-11/"><u>Troubleshooting the IDT HD Audio Codec Compatibility with Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-improved-game-audio-on-your-discord-streams/"><u>Troubleshooting Tips for Improved Game Audio on Your Discord Streams</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-non-functional-sennheiser-game-one-microphones/"><u>Troubleshooting Tips for Non-Functional Sennheiser Game One Microphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-rejuvenating-a-dormant-windows-scan-tool/"><u>Troubleshooting: Rejuvenating a Dormant Windows Scan Tool</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/turn-up-the-volume-effective-solutions-to-no-sound-problem-for-cod-black-ops-cold-war-gamers/"><u>Turn Up the Volume: Effective Solutions to 'No Sound' Problem for COD: Black Ops Cold War Gamers</u></a></li>
+</ul></div>
 

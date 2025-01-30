@@ -1,7 +1,7 @@
 ---
 title: "Resolved Issue: How to Repair the Unresponsive Mic on Your Corsair HS60"
-date: 2025-01-18T16:17:25.420Z
-updated: 2025-01-22T18:29:42.129Z
+date: 2025-01-29T01:20:38.355Z
+updated: 2025-01-30T02:12:40.976Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5 fixes for Bluetooth Connected But No Sound
 
  The screenshots below are from**Windows 10** , but the fixes also work in**Windows 8.1** and**7** .
@@ -40,6 +36,10 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Select the Bluetooth device as the default playback device
 
  Sometimes we might need to set our audio devices as default in order for them to work properly. To do so:
@@ -49,17 +49,13 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 2. In the**Playback** tab, click on**your** **Bluetooth device** \>**Set Default** . Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d212718ff2.jpg)
 3. Play some music and see if this**Bluetooth Connected But No Sound** problem gets resolved.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Make sure the audio level is high enough
 
@@ -70,7 +66,7 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 2. In the**Playback** tab, click on**your** **Bluetooth device** \>**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d223cd2694.jpg)
@@ -83,10 +79,6 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Make sure the Bluetooth Support Service is enabled
 
  Another reason for this **Bluetooth Connected But No Sound**  problem is the service simply disabled. To turn it back on:
@@ -94,6 +86,10 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 1. On your keyboard, press the **Windows logo key**  and **R**  at the same time. Then copy & paste **services.msc**  into the box and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ef3aff37fc.jpg)
 2. Double-click on**Bluetooth Support Service** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1e0590947.jpg)
 3. Select**Automatic** in the**Startup type** drop-down menu and then click**Start** to jumpstart the service. Then click**Apply** \>**OK** .  
@@ -121,13 +117,13 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627e9c324d0.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer, play some music and see if **Bluetooth Connected But No Sound**  problem has been resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Repair corrupted system files
 
@@ -139,6 +135,10 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortectdetects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -165,20 +165,19 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-access-youtube-tracks-without-spending-a-dime-25plus-no-cost-audio-extractors/"><u>[Updated] 2024 Approved Access YouTube Tracks Without Spending a Dime 25+ No-Cost Audio Extractors</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-essential-list-5-leading-youtube-shortened-url-services/"><u>2024 Approved Essential List 5 Leading YouTube Shortened URL Services</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-into-the-depths-mastering-gopros-time-lapse-techniques/"><u>2024 Approved Into the Depths Mastering GoPro's Time-Lapse Techniques</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-sony-xperia-1-v-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Sony Xperia 1 V Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/call-of-duty-wwii-black-screen-fix-for-windows-users-solution-game-support/"><u>Call of Duty: WWII Black Screen Fix for Windows Users [SOLUTION] | Game Support</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/improve-your-listening-experience-guide-to-turning-off-sound-amplification-on-windows-10-devices/"><u>Improve Your Listening Experience - Guide to Turning Off Sound Amplification on Windows 10 Devices</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-6s-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 6s to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-silent-moments-audio-issue-fixes-for-it-takes-two-on-windows/"><u>Overcoming Silent Moments: Audio Issue Fixes for 'It Takes Two' On Windows</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1629060-9781444719833-psychic-case-files/"><u>Psychic Case Files | Free Book</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-install-lenovo-thinkpad-x230-driver-update-instructions/"><u>Quick Install: Lenovo ThinkPad X230 Driver Update Instructions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reinvigorating-windows-faded-scanning-abilities/"><u>Reinvigorating Windows' Faded Scanning Abilities</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-silent-facebook-videos-a-comprehensive-troubleshooting-manual-for-pc-users/"><u>Resolve Silent Facebook Videos : A Comprehensive Troubleshooting Manual for PC Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-windows-11-playback-device-problems-with-headphones/"><u>Resolving Windows 11 Playback Device Problems with Headphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-sound-on-your-hp-laptop-with-these-easy-windows-10-tips-and-tricks/"><u>Revive Sound on Your HP Laptop with These Easy Windows 10 Tips & Tricks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tdr-alert-deactivated-with-nvidias-immediate-action/"><u>TDR Alert Deactivated with Nvidia's Immediate Action</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-dive-into-the-world-of-podcasting-from-concept-to-finalized-scripts-for-2024/"><u>[New] Dive Into the World of Podcasting From Concept to Finalized Scripts for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-igtv-title-and-description-revision/"><u>[Updated] 2024 Approved Mastering IGTV Title & Description Revision</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-4-essential-methods-for-file-delivery-to-pc/"><u>2024 Approved 4 Essential Methods for File Delivery to PC</u></a></li>
+<li><a href="https://win11.techidaily.com/adding-a-functional-system-update-alert-in-win11-pro/"><u>Adding a Functional System Update Alert in Win11 Pro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cutting-edge-stabilization-unmatched-tracker-tech/"><u>Cutting-Edge Stabilization Unmatched Tracker Tech</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-fixing-unresponsive-computer-speaker-issues-effectively/"><u>Expert Tips on Fixing Unresponsive Computer Speaker Issues Effectively</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-honor-80-pro-straight-screen-edition-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor 80 Pro Straight Screen Edition Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-sharp-printer-drivers-on-windows-pc/"><u>How to Update Sharp Printer Drivers on Windows PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-smart-8-plus-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Smart 8 Plus to Outlook | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/onikuma-headset-mic-problems-heres-how-you-can-fix-them/"><u>Onikuma Headset Mic Problems? Here's How You Can Fix Them</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-how-to-eliminate-unwanted-humming-from-your-speakers/"><u>Quick Solutions: How to Eliminate Unwanted Humming From Your Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-windows-7s-hdmi-sound-failure-quick-and-easy-repair-tips/"><u>Solving Windows 7'S HDMI Sound Failure - Quick and Easy Repair Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/supercharge-speaker-settings-how-to-upscale-the-volume-on-windows-10/"><u>Supercharge Speaker Settings: How to Upscale the Volume on Windows 10</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-lenovo-thinkphone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Lenovo ThinkPhone | Dr.fone</u></a></li>
 </ul></div>
 

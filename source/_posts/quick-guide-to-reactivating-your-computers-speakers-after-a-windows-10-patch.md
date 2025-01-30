@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Reactivating Your Computer's Speakers After a Windows 10 Patch
-date: 2024-08-13T10:47:15.757Z
-updated: 2024-08-14T10:47:15.757Z
+date: 2025-01-28T05:45:24.943Z
+updated: 2025-01-29T22:16:23.677Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 
 ## Quick Fixes for a Silent PC – Get Your Computer Speakers Working Now
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a96299621e81.jpg)
 
 **No sound on computers** is one of the most common issues for Windows users, especially after Windows Updates (for example the Windows 10 October Update). Don’t worry! There are solutions to**fix no sound on computers** quickly and easily.
@@ -36,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 **Note** : Make sure that the volume icon at the bottom right is not mute or silent. If the icon is displayed with a red cross, it means that no volume on your computer and you should click the icon to unmute it.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why is there no sound on my computer?
 
  The reasons why there is no sound on your computer normally are the hardware faculty, the wrong audio settings or the missing or outdated audio driver in your computer.
@@ -47,8 +45,9 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1: Check the hardware faulty
 
  If your computer suddenly has a no sound issue, there is likely a problem with the hardware issue. You can troubleshoot by the following tips:
@@ -71,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Check the audio settings on your computer
 
  If the hardware works properly after troubleshooting but still has no sound on your computer, you can check the audio settings on your computer.
@@ -82,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
  1) Right-click the**volume icon** at the bottom right corner, and click**Open Volume mixer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Make sure all the entries at not in the minimum level. In my case, I set Speakers, System Sounds and HyperSnap to 20.
 
@@ -97,9 +104,6 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 
  2) Check your audio device in the**Playback** tab. Make sure there is a**green check** next to your audio device.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b59d5056.png)
 
  3) If your audio device is not the default device,**select your audio device** , and click**Set Default** . Then click**OK** to save.
@@ -118,11 +122,11 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 
  2)**Select your audio device** in the Playback tab, and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962c8cd39cb.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Advanced** . In**Default Format** , choose another different audio rate, then click the**Test** button. Then play music or audio to test.
 
@@ -146,9 +150,6 @@ If the issue persists, go to the next solution.
 
  3) Right-click your**audio card** , and click**Uninstall device** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ec385bd3.jpg)
 
  4) If you see a popup pane to confirm, check the box next to**Delete the driver software for this device** , then click **Uninstall**  to delete.
@@ -160,17 +161,9 @@ If the issue persists, go to the next solution.
 ---
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Update your audio driver
 
 **A missing or outdated audio driver** can also cause no sound on the computer. If uninstalling the driver doesn’t solve your problem, you can try to update the audio driver to have it work.
@@ -189,13 +182,14 @@ If the issue persists, go to the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2dec2431048.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged audio driver to automatically download and install the correct audio driver (You can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install all the latest correct drivers that are missing or outdated (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2dec588b55a.jpg)
 
 4) Restart your computer and check whether your problem is solved.
@@ -206,8 +200,9 @@ If the issue persists, go to the next solution.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Troubleshoot the sound issue
 
  To fix no sound on computers, you can try the troubleshooter in Windows to troubleshoot the sound issue and automatically fix it. To do so, follow the steps below:
@@ -216,16 +211,10 @@ If the issue persists, go to the next solution.
 
  2) Click**Troubleshooting** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af030d516ecb.jpg)
 
  3) In the**Hardware** **and** **Sound** section, click**Troubleshoot audio recording** .
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af031019f411.png)
 
  4) Make sure to check the box next to**Apply repairs automatically** , and click**Next** to start troubleshooting.
@@ -238,11 +227,12 @@ If the issue persists, go to the next solution.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 6: Switch to ChromeOS
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
@@ -280,8 +270,6 @@ And that’s just the start of the benefits…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -289,4 +277,26 @@ And that’s just the start of the benefits…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-evaluating-dji-phantom-3s-advanced-capabilities-for-2024/"><u>[New] Evaluating DJI Phantom 3'S Advanced Capabilities for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-share-videos-directly-on-twitter-via-mobile-devices-only/"><u>[New] Share Videos Directly on Twitter via Mobile Devices Only</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-revenue-breakdown-cpm-insights/"><u>[New] YouTube Revenue Breakdown CPM Insights</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-oppo-a1x-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Oppo A1x 5G</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/como-entrar-al-estado-de-restauracion-de-windows-10-para-usar-opciones-avanzadas/"><u>Cómo Entrar Al Estado De Restauración De Windows 10 Para Usar Opciones Avanzadas</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repair-tips-making-your-sound-blaster-mic-work-perfectly-once-more/"><u>DIY Repair Tips: Making Your Sound Blaster Mic Work Perfectly Once More</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-techniques-to-correct-audio-driver-glitches-on-dell-under-windows-7/"><u>Effective Techniques to Correct Audio Driver Glitches on Dell Under Windows 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ensuring-clear-communication-resolving-destiny-2s-voice-chat-glitches/"><u>Ensuring Clear Communication: Resolving Destiny 2'S Voice Chat Glitches</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-non-functional-mic-on-steelseries-arctis-prime-headset/"><u>Fixing the Issue: Non-Functional Mic on SteelSeries Arctis Prime Headset</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-google-pixel-7a-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Google Pixel 7a Location Settings | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/maintain-your-data-expand-disk-space-techniques-for-windows-11-users-max-156-chars/"><u>Maintain Your Data, Expand Disk Space: Techniques for Windows 11 Users (Max 156 Chars)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-issues-with-non-responsive-realtek-hd-audio-manager-expert-strategies/"><u>Overcome Issues with Non-Responsive Realtek HD Audio Manager: Expert Strategies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/photoshop-insider-tips-for-novice-editors-for-2024/"><u>Photoshop Insider Tips for Novice Editors for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revolutionizing-your-stay-apple-airplay-now-available-at-exclusive-hotels-understanding-the-game-changing-tech-on-tap/"><u>Revolutionizing Your Stay: Apple AirPlay Now Available at Exclusive Hotels - Understanding the Game-Changing Tech on Tap</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/sonicscope-in-depth-auditory-evaluation/"><u>SonicScope In-Depth Auditory Evaluation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-making-your-logitech-g-pro-x-mic-work-again/"><u>Troubleshooting Tips: Making Your Logitech G PRO X Mic Work Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-squad-mic-comprehensive-solutions-for-the-modern-era/"><u>Troubleshooting Your Squad Mic: Comprehensive Solutions for the Modern Era</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unheard-messages-matter-resolving-discords-microphone-dilemma/"><u>Unheard Messages Matter: Resolving Discord's Microphone Dilemma</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unrecognizable-blue-yeti-mic-here-are-effective-remedies-to-resolve-the-issue/"><u>Unrecognizable Blue Yeti Mic? Here Are Effective Remedies to Resolve the Issue</u></a></li>
+</ul></div>
 

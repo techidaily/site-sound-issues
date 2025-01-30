@@ -1,7 +1,7 @@
 ---
 title: Counter-Strike 2 Mic Not Functional? Here's Your Step-by-Step Fix!
-date: 2024-08-13T10:46:52.502Z
-updated: 2024-08-14T10:46:52.502Z
+date: 2025-01-26T01:19:29.319Z
+updated: 2025-01-30T00:03:56.078Z
 tags:
   - win11
   - win10
@@ -23,9 +23,6 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
  When the above check is done, and you find the problem on your computer, please move on.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## Step 2, make sure the connection between your speakers and computer is good
 
  If the speakers work properly on a second device, make sure that the connection between your speakers and your computer is intact.
@@ -44,26 +41,36 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
 1. On your keyboard, press the**Windows** logo key and**R** key at the same time to invoke the run box.
 2. Type control panel and click**OK** . This is to open Control Panel window.  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a379fb55982a.png)
 3. In Control Panel, view by Category, click **Hardware and Sound** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a37a0193f08b.jpg)
 4. Under **Sound** , click **Adjust system volume** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-24.png)
 5. If the sound is unmuted, move to the next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Try to move the slider up to increase the volume.  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/volume-mixer.jpg)
 
  If the problem still cannot be resolved, try solutions below. Sound setting issues or driver issues may also cause this problem.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Set Speakers as Default
 
  Your speakers won’t work if it’s not set as the default output. To resolve the problem, you can set the speaker as default. To do so:
@@ -71,20 +78,23 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 1. Right-click the speaker icon at the bottom right corner of the desktop and click on**Playback devices** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b11f3def8f1.png)
 2. Highlight**Speakers** or**Speakers /Headphones** and click**Set Default** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/set-as-default.jpg)
 
  If you don’t see the speakers in the device list, it may be disabled. In this case, right-click on the blank area and select**Show disabled devices** on the context menu.
 
 ![show disabled device](https://images.drivereasy.com/wp-content/uploads/2016/08/show-disabled-device.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After it is listed, right-click on the speakers and click**Enable** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![enable speakers](https://images.drivereasy.com/wp-content/uploads/2016/08/enable-speakers.jpg)
 
  The problem also can be caused by outdated or missing audio drivers. So try to fix audio drivers.
@@ -95,19 +105,15 @@ Follow these steps:
 
 1. Press the**Windows logo** key and**R** key at the same time. A Run dialog box will appear.
 2. Type **devmgmt.msc** in the run box and click**OK** button. This is to open Device Manager Window.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57354ce2ad87d.png)
 3. In Device Manager, double-click**Sound, video and game controllers** and right-click your sound card. A context menu will pop up. Then select**Uninstall** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
 4. Tick the box for**Delete the driver software for this device** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
 5. Reboot your PC and check to see if the problem is resolved.
 
@@ -119,9 +125,6 @@ Follow these steps:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and**install** Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -138,8 +141,6 @@ Follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +148,22 @@ Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-unveiling-the-mystery-of-instagrams-most-trusted-6-techniques-for-building-a-fanbase-for-2024/"><u>[New] Unveiling the Mystery of Instagram's Most Trusted 6 Techniques for Building a Fanbase for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-your-quick-path-to-multimedia-tweeting-for-2024/"><u>[New] Your Quick Path to Multimedia Tweeting for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-light-and-shadow-in-hdr-portraiture/"><u>2024 Approved Mastering Light and Shadow in HDR Portraiture</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-authorized-streaming-systems/"><u>Advanced Authorized Streaming Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/auditory-glitches-solved-restoring-sounds-to-cyberpunk-2077-on-windows-10-pcs/"><u>Auditory Glitches Solved: Restoring Sounds to Cyberpunk 2077 on Windows 10 PCs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/dissecting-video-self-presentation-uncovering-truthfulness-needs-for-2024/"><u>Dissecting Video Self-Presentation Uncovering Truthfulness Needs for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-inconsistent-exports-securing-smooth-srt-outputs-for-2024/"><u>From Inconsistent Exports Securing Smooth SRT Outputs for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-revive-your-dead-macbook-pro-charger-cost-free-solutions-and-expert-tips/"><u>How to Revive Your Dead MacBook Pro Charger - Cost-Free Solutions and Expert Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-high-resolution-drone-flights-a-mi-examination/"><u>In 2024, High-Resolution Drone Flights A MI Examination</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016274074-laptop-audio-malfunction-here-are-effective-solutions/"><u>Laptop Audio Malfunction? Here Are Effective Solutions!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-mic-a-guide-to-restoring-lost-sounds-in-fortnite/"><u>Mastering the Mic: A Guide to Restoring Lost Sounds in Fortnite</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-corsair-virtuoso-mic-step-by-step-repair-instructions/"><u>Revive Your Corsair Virtuoso Mic: Step-by-Step Repair Instructions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-problems-in-windows-10-a-comprehensive-5-step-guide/"><u>Solving Audio Problems in Windows 10: A Comprehensive 5-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-free-audio-how-to-restore-sound-on-a-bluetooth-device-that-is-connected-but-silent/"><u>Trouble-Free Audio: How to Restore Sound on a Bluetooth Device That Is Connected But Silent</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-a-malfunctioning-mpow-microphone-in-windows/"><u>Troubleshooting Guide: Fixing a Malfunctioning MPOW Microphone in Windows</u></a></li>
+</ul></div>
 

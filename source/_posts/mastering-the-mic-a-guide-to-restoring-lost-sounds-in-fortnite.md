@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Mic: A Guide to Restoring Lost Sounds in Fortnite"
-date: 2024-08-13T10:46:34.201Z
-updated: 2024-08-14T10:46:34.201Z
+date: 2025-01-27T21:10:15.509Z
+updated: 2025-01-30T04:34:15.760Z
 tags:
   - win11
   - win10
@@ -37,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
  Now run the game again and test to see whether chat is working. If it’s not, move on to Fix 2, below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your sound card driver
 
  A missing or outdated sound card driver may also stop chat from working in Fortnite.
@@ -57,11 +58,16 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Update-all-drivers.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Install the latest Fortnite patch
 
  The developers of Fortnite release regular game patches to fix bugs. It’s possible that a recent patch has stopped your chat from working, and that a new patch is required to fix it.
@@ -74,11 +80,12 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap911.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3.**Turn on** the toggle next to **Auto update** .
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap912.png)
 
 4\. Restart the Epic Games Launcher.
@@ -97,18 +104,16 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap427.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2\. Click **Microphone**  on the left pane, and make sure**Microphone access for this device** is**on** , and the status is **On** for **Fortnite** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap428.jpg)
 
 3\. Run Fortnite to see if chat works now. If not, try Fix 5, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ### Fix 5: Check your audio settings
 
  Windows and Fortnite both have audio settings, and sometimes things just get a little mixed up. So it can help to reset everything, manually, to clear out the cobwebs. (Kinda like how restarting your PC can sometimes mysteriously resolve problems.) Here is how to do it:
@@ -121,31 +126,29 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 
  ii. Click**the speaker icon** to view the audio settings. Then**turn off Voice Chat** and click**Apply** .  
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap431-1024x576.jpg)
 
 iii. Exit Fortnite.
 
  2\. On your desktop,**right-click** **the speaker icon** at the bottom-right corner, and then select**Sounds** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap432.jpg)
 
  3\. Click the **Playback** tab, select the speakers/headphones you’re using and click **Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4\. Click the **Recording** tab, select the microphone you’re using and click **Set Default** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5\. While still in the**Recording** tab, try**speaking into your microphone** to test if it works properly. If it is, you should see some green in the bar on the right:
 
@@ -157,9 +160,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Join a squad to check ifchat is now working . If not, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Reinstall Fortnite
 
  If none of the above fixes resolves your chat problem, try reinstalling Fortnite. Here is how to do it:
@@ -170,12 +170,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  2\. Click**Uninstall** to uninstall Fortnite.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap950.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3\. Restart your PC.
 
@@ -197,8 +196,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -206,4 +203,22 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-essential-listings-for-easy-access-to-youtube-intro-files/"><u>[New] 2024 Approved Essential Listings for Easy Access to YouTube Intro Files</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-are-earnings-linked-to-assessing-merchandise-for-2024/"><u>[New] Are Earnings Linked to Assessing Merchandise for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-pathway-to-smart-youtube-frames-free-methods-inside/"><u>[New] The Pathway to Smart YouTube Frames (Free Methods Inside!)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-expand-your-gaming-library-5-best-xbox-hdds-for-2024/"><u>[Updated] Expand Your Gaming Library 5 Best Xbox HDDs for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-most-popular-free-photography-and-film-archives-for-2024/"><u>[Updated] Most Popular Free Photography and Film Archives for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-os-error-xc0000142-on-windows/"><u>Eradicating OS Error XC0000142 on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-crackling-sound-from-speakers-on-windows-11-and-7-problem-solved/"><u>Fixing Crackling Sound From Speakers on Windows 11 & 7 - Problem Solved!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015699155-hearthstone-audio-malfunction-heres-how-to-restore-your-game-sounds/"><u>Hearthstone Audio Malfunction? Here's How to Restore Your Game Sounds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-on-your-chrome-browser-solutions-at-hand/"><u>How to Restore Sound on Your Chrome Browser - Solutions at Hand</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-tecno-spark-10-4g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Tecno Spark 10 4G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-understanding-360-degree-and-virtual-reality-cinematography/"><u>In 2024, Understanding 360-Degree and Virtual Reality Cinematography</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-guide-resolving-logitech-g533-microphone-issues/"><u>Quick Fix Guide: Resolving Logitech G533 Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-how-to-restore-destiny-2s-voice-chat-functionality/"><u>Troubleshooting Tips - How to Restore Destiny 2'S Voice Chat Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-successfully-opening-the-realtek-hd-audio-manager/"><u>Troubleshooting Tips for Successfully Opening the Realtek HD Audio Manager</u></a></li>
+</ul></div>
 

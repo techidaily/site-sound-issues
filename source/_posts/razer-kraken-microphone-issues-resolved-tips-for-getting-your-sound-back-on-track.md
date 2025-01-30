@@ -1,7 +1,7 @@
 ---
 title: "Razer Kraken Microphone Issues Resolved: Tips for Getting Your Sound Back On Track"
-date: 2024-08-13T10:48:57.290Z
-updated: 2024-08-14T10:48:57.290Z
+date: 2025-01-24T21:43:15.115Z
+updated: 2025-01-29T22:53:20.400Z
 tags:
   - win11
   - win10
@@ -15,16 +15,10 @@ thumbnail: https://thmb.techidaily.com/6c0a15a3d6083cf4363045e7514d3f4e9e6ab2b47
 
 ## Quick and Easy Mic Check Techniques - Expert Tips on Testing Your Microphone
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![mic testing](https://images.drivereasy.com/wp-content/uploads/2019/05/mic1.png)
 
  **Don’t know how to test your microphone on your Windows computer?** Don’t worry! You’ve come to the right place. It’s pretty easy. After reading this post, you should be able to test your mic quickly and easily!
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## There’re two methods to test your microphone
 
 1. **[Mic testing in Windows audio settings](https://tools.techidaily.com/drivereasy/download/)**
@@ -32,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/6c0a15a3d6083cf4363045e7514d3f4e9e6ab2b47
 3. **[Bonus tip: How to fix microphone not working on your computer?](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Mic testing in Windows audio settings
 
@@ -46,25 +44,33 @@ thumbnail: https://thmb.techidaily.com/6c0a15a3d6083cf4363045e7514d3f4e9e6ab2b47
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**control /name Microsoft.Sound** and press**Enter** to open**Windows sound settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-36-29-1.png)
 2. In the Windows audio settings window, navigate to**the Recording tab** , select the microphone you want to test and click**Configure** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-37-58.png)
 3. Click**Set up microphone** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-38-40.png)
 4. Select the correct type of your microphone and click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-39-30.png)
 5. Follow the**Microphone Setup Wizard** to configure your microphone. Close the wizard when it completes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-40-26.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 2: Test your microphone
 
 Follow the steps below to test your microphone in Windows audio settings:
 
 1. **Right-click** **the speaker icon** in the bottom-right corner of your screen, then select**Sounds** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-41-21.png)
 2. Navigate to**the Recording tab** . Select the microphone you’re going to test, then try speaking into your microphone to test if it works properly. If it is, you should see some green in the bar on the right. Click**OK** to close the window after testing.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-42-45.png)
@@ -74,31 +80,27 @@ Follow the steps below to test your microphone in Windows audio settings:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Mic testing with the built-in Voice Recorder app
 
  You can also test your microphone using the built-in**Voice Recorder app** in Windows 10\. Here is how to do it:
 
 1. On your keyboard, press**the Windows logo key** and type**recorder** . In the list of search results, click**Voice Recorder** to open it.  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-44-48.png)
 2. Click**the record icon** to start recording. Try speaking into your microphone.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-45-47.png)
 3. Click**the stop button** to stop recording.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-46-27.png)
 4. Click the recording file to replay it. If your microphone is fine, you should be able to hear your voice clearly.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-47-16.png)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bonus tip: How to fix microphone not working on your computer?
 
@@ -118,9 +120,6 @@ Follow the steps below to test your microphone in Windows audio settings:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
  Alternatively if you’re comfortable manually installing drivers, you can click**Update** next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.  
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-49-09.png)
 
  You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade. Don’t worry; it comes with a**30-day money-back guarantee** , so if you don’t like it you can get a full refund, no questions asked.
@@ -136,8 +135,6 @@ Follow the steps below to test your microphone in Windows audio settings:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +142,19 @@ Follow the steps below to test your microphone in Windows audio settings:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-implementing-youtubes-custom-markup-guide/"><u>[Updated] 2024 Approved Implementing YouTube's Custom Markup Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-20plus-funny-metaverse-memes-and-how-to-make-your-own-memes/"><u>2024 Approved 20+ Funny Metaverse Memes and How to Make Your Own Memes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-seamless-filming-experience-the-10-devices-that-make-every-shot-perfect/"><u>2024 Approved Seamless Filming Experience The 10 Devices That Make Every Shot Perfect</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/exploring-8-top-tier-free-video-communication-tools-for-enterprises/"><u>Exploring 8 Top-Tier Free Video Communication Tools for Enterprises</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-quiet-foes-in-hearthstone-restoring-audio-for-ultimate-gaming-experience/"><u>Fixing Quiet Foes in Hearthstone - Restoring Audio for Ultimate Gaming Experience!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-problem-of-a-non-functional-corsair-hs70-microphone-a-step-by-step-guide/"><u>Fixing the Problem of a Non-Functional Corsair HS70 Microphone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuit-verbetering-van-vocalpeel-gecodeerd-naar-m4a-format-movavi/"><u>Gratuit Verbetering Van Vocalpeel Gecodeerd Naar M4A Format - Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-logitech-g733-microphone-working-again-step-by-step-fixes/"><u>How To Get Your Logitech G733 Microphone Working Again: Step By Step Fixes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-ad-profits-unveiled-how-much-do-creators-make-on-youtube/"><u>In 2024, Ad Profits Unveiled How Much Do Creators Make on Youtube?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-playback-interruptions-a-guide-to-resolving-stuttering-sounds-on-pcs-windows-107/"><u>Overcoming Playback Interruptions: A Guide to Resolving Stuttering Sounds on PCs (Windows 10/7)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-issue-of-inoperative-mic-on-your-steelseries-arctis-headset-a-step-by-step-guide/"><u>Solving the Issue of Inoperative Mic on Your SteelSeries Arctis Headset – A Step by Step Guide</u></a></li>
+</ul></div>
 

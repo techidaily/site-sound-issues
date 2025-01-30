@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Problems with In-Game Communication: Fixing the Voice Chat in Call of Duty's Modern Warfare"
-date: 2024-08-13T10:46:00.647Z
-updated: 2024-08-14T10:46:00.647Z
+date: 2025-01-23T02:55:46.804Z
+updated: 2025-01-29T19:47:16.732Z
 tags:
   - win11
   - win10
@@ -27,9 +27,6 @@ Many players are reporting that they can hear others clearly but the voice chat 
 4. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Disable the SIP-ALG setting](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Fix 1: Enable Voice Chat
 
  Before getting started, please make sure your microphone is not muted, especially when you’re using a headset (the mute button is not activated). When you make sure the mic is not muted, please do the following:
@@ -44,20 +41,23 @@ Many players are reporting that they can hear others clearly but the voice chat 
 
 **Note:** If you’re on Xbox, please check to ensure that your Xbox privacy settings are set appropriately for**Crossplay** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Perform a Windows Update
 
  COD: Modern Warfare voice chat requires that Windows is fully updated. So if you’re getting this problem on Windows, make sure to run Windows Updates. Here’s how to do it quickly:
 
 1. In the Windows Search bar, start typing**check for updates** , and select**Check for updates** .  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates-windows.jpg)
 2. Install the available updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Once complete, launch Modern Warfare again to see if voice chat is working now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Check sound settings
 
@@ -70,25 +70,19 @@ Many players are reporting that they can hear others clearly but the voice chat 
 3. Right-click your default microphone and then select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/audio-properties.jpg)
 4. On the **Levels** tab, drag the sliders of the **Microphone** to turn up the volume. Just make sure you haven’t muted them or set them to such low levels that you cannot hear the voice yourself.  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/headphone-levels.jpg)
 5. Click **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Play Modern Warfare and test if others can hear you this time.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Update your audio driver
 
  The Modern Warfare voice chat not working issue might also be triggered by outdated audio drivers. If you haven’t updated your drivers for a long time, then you definitely need to do it now.
@@ -96,17 +90,15 @@ Many players are reporting that they can hear others clearly but the voice chat 
  There are mainly two ways you can update your audio driver:[manually](https://tools.techidaily.com/drivereasy/download/) and[automatically](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1: Manually update your audio driver
 
  First, make sure you know the PC model and device model, and then go to the PC manufacturer’s website or the sound card’s website to check for the latest audio driver.
 
 **Note:** You can update your device driver via Device Manager, but Windows won’t deliver the latest driver.[Learn Why…](https://tools.techidaily.com/drivereasy/download/) So to make sure you can update your audio card driver to the latest version, you should get it from the manufacturer.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2: Automatically update your audio driver (recommended)
 
  If you don’t have the time, patience, or computer skills to update the graphics card driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -117,12 +109,13 @@ Here’s how to update your drivers with Driver Easy:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged device to automatically download the correct version of the driver (you can do this with the FREE version), and then manually install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Update-all.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll have the full support and a 30-day money back guarantee).
 4. Restart your computer for the changes to take effect.
@@ -154,8 +147,6 @@ Here’s how to update your drivers with Driver Easy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +154,21 @@ Here’s how to update your drivers with Driver Easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-building-a-sports-channel-via-macos-step-by-step-guide/"><u>[New] 2024 Approved Building a Sports Channel via macOS Step by Step Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-transform-video-editing-with-kinemaster-know-how-and-premier-online-counterparts-for-2024/"><u>[New] Transform Video Editing with KineMaster Know-How & Premier Online Counterparts for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unleashing-creativity-converting-youtube-videos-into-captivating-gifs/"><u>[Updated] Unleashing Creativity Converting YouTube Videos Into Captivating GIFs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-saving-face-to-face-with-hangouts/"><u>2024 Approved Saving Face-to-Face with Hangouts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortless-image-transformation-with-movavis-free-online-pcx-converter/"><u>Effortless Image Transformation with Movavi's Free Online PCX Converter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-guide-restoring-your-closed-off-w11-calendars/"><u>Quick Fix Guide: Restoring Your Closed-Off W11 Calendars</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quickly-restore-sound-quality-with-these-5-tips-for-windows-nusers/"><u>Quickly Restore Sound Quality with These 5 Tips for Windows nUsers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resident-evil-village-how-to-fix-persistent-sound-errors/"><u>Resident Evil Village - How to Fix Persistent Sound Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-post-windows-10-upgrade-audio-issues-quick-fixes/"><u>Resolved: Post-Windows 10 Upgrade Audio Issues – Quick Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-voicemod-proven-techniques-for-opening-and-fixing-issues/"><u>Revive Your Voicemod: Proven Techniques for Opening & Fixing Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-sound-solutions-for-a-non-responsive-voice-mic/"><u>Reviving Sound: Solutions for a Non-Responsive Voice Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-razer-headsets-audio-easy-fixes-for-the-unresponsive-mic/"><u>Reviving Your Razer Headset's Audio: Easy Fixes for the Unresponsive Mic</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-gadget-gurus-edge-trustworthy-advice-on-computer-hardware-by-tom/"><u>The Gadget Guru's Edge: Trustworthy Advice on Computer Hardware by Tom</u></a></li>
+<li><a href="https://win-help.techidaily.com/troubleshooting-and-repairing-disconnection-issues-with-your-hard-drive-tips-by-yl-software-experts/"><u>Troubleshooting and Repairing Disconnection Issues with Your Hard Drive, Tips by YL Software Experts</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Turtle Beach Microphone Won't Work? Here's What You Need to Do
-date: 2024-08-13T10:49:22.269Z
-updated: 2024-08-14T10:49:22.269Z
+date: 2025-01-26T00:45:24.742Z
+updated: 2025-01-30T04:09:50.455Z
 tags:
   - win11
   - win10
@@ -15,10 +15,6 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 
 ## Turtle Beach Microphone Won't Work? Here's What You Need to Do
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a1e37a756-231x300.jpg)
 
  Many **Turtle Beach** users are reporting that their **headset** microphone is not working properly — it’s not recording any sound! If you’re experiencing this problem, don’t worry. You should be able to fix the problem quite easily using one of the solutions we’ve listed below.
@@ -32,6 +28,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: Check your microphone device settings
 
@@ -51,38 +51,27 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 **4)**  Select the **Recording** tab, then right click on any empty place inside the device list and tick **Show Disabled Devices** .
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 
 **5)**  Right click the**Headset Microphone** and click **Enable** .
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Right click it again and select **Set as Default Device** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
 
 **7)** Right click**Headset Microphone** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **8)** Click the**Levels** tab, then drag the volume slider towards the_largest value_ .
 
@@ -94,9 +83,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2: Update your audio drivers
 
  The mic on your Turtle Beach headset won’t work if you’re using an incorrect or outdated audio or headset driver. So you should update the driver to see if that fixes the issue.
@@ -111,12 +97,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the**Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) — if you don’t already have it, you’ll be prompted to upgrade when you click**Update All** .)  
 
@@ -124,9 +115,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Troubleshoot hardware issues
 
  If your headset microphone is still not working, it’s likely there are hardware issues with your computer or your headset. In this case, there are a few things you need to do.
@@ -146,8 +134,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +141,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-the-ultimate-list-of-androids-best-music-video-apps-for-2024/"><u>[New] The Ultimate List of Android's Best Music Video Apps for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-riddle-me-this-the-ultimate-room-conundrums/"><u>[Updated] Riddle Me This The Ultimate Room Conundrums</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-fixed-youtube-shorts-lacking-in-sight/"><u>2024 Approved Fixed YouTube Shorts Lacking in Sight</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/bypass-geographic-locks-on-dvds-a-guide-to-enable-global-playback/"><u>Bypass Geographic Locks on DVDs: A Guide to Enable Global Playback</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cooler-masters-newest-addition-a-giant-57-inch-mini-led-gaming-monitor-featuring-a-dual-4k-super-ultrawide-screen-for-an-immersive-gaming-session/"><u>Cooler Master's Newest Addition: A Giant 57 Inch Mini LED Gaming Monitor Featuring a Dual-4K Super Ultrawide Screen for an Immersive Gaming Session</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Xiaomi Redmi 12? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-oculus-quest-2-microphone-issues-a-step-by-step-guide/"><u>Solving Oculus Quest 2 Microphone Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-popping-sound-on-your-logitech-g-pro-x-keyboard-expert-advice-and-tips/"><u>Troubleshooting Popping Sound on Your Logitech G Pro X Keyboard: Expert Advice and Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-nonfunctional-voip-in-call-of-duty-warzone-on-both-pc-and-gaming-consoles/"><u>Troubleshooting Steps for Nonfunctional VOIP in Call of Duty: Warzone on Both PC and Gaming Consoles</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-making-your-tozo-t6-device-work-seamlessly-on-windows-nx/"><u>Ultimate Guide: Making Your Tozo T6 Device Work Seamlessly on Windows nX</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/uncover-the-cause-of-your-battlefield-4-muted-mess-and-learn-how-to-fix-it-now/"><u>Uncover the Cause of Your Battlefield 4 Muted Mess and Learn How To Fix It Now</u></a></li>
+</ul></div>
 

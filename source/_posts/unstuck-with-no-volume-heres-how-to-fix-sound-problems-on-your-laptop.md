@@ -1,7 +1,7 @@
 ---
 title: Unstuck with No Volume? Here's How to Fix Sound Problems on Your Laptop
-date: 2025-01-17T16:10:28.899Z
-updated: 2025-01-22T20:43:49.560Z
+date: 2025-01-23T03:51:31.622Z
+updated: 2025-01-30T00:22:12.488Z
 tags:
   - win11
   - win10
@@ -26,16 +26,16 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Razer Kraken Mic Not Working
 
  Here are two fixes for you to try. You may not have to try them all. Just work your way down the list until you find the one that works for you.
 
 1. [](https://tools.techidaily.com/drivereasy/download/) [**Check your microphone device settings**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Update your audio drivers**](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 1: Check your microphone device settings
 
@@ -49,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Select **Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
@@ -58,16 +62,12 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)**  Right click the**Headset Microphone** and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** Right click it again and select **Set as Default Device** .
 
@@ -77,21 +77,17 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **8)** Click the**Levels** tab, then drag the volume slider towards the_largest value_ .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **9)** Click**OK** , then click**OK** .
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem. But if not, you may need to…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Update your audio drivers
 
@@ -106,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 **2)**  Run**Driver Easy** and click the **Scan Now** button.**Driver Easy** will scan your computer and detect any problem drivers.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the**Activate & Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
@@ -132,18 +132,16 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-trends-essential-hashtags-for-todays-influencers-for-2024/"><u>[New] Navigating Trends Essential Hashtags for Today's Influencers for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-exploring-iphoneutility-mirror-photo-mastery-tips-for-2024/"><u>[Updated] Exploring iPhone'utility Mirror Photo Mastery Tips for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-top-picks-7-royalty-free-audios-for-video-editing/"><u>[Updated] In 2024, Top Picks 7 Royalty-Free Audios for Video Editing</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-desktop-broadcasting-tools-face-off-obs-vs-shadowplay/"><u>2024 Approved Desktop Broadcasting Tools Face-Off OBS vs ShadowPlay</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-perfecting-pace-and-flow-in-film-using-kinemaster/"><u>2024 Approved Perfecting Pace and Flow in Film Using Kinemaster</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-effortlessly-watch-flash-videos-on-a-mac-expert-reviews-of-the-finest-flv-tools/"><u>How to Effortlessly Watch Flash Videos on a Mac: Expert Reviews of the Finest FLV Tools</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-motorola-moto-g13-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Motorola Moto G13 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/metodos-eficaces-para-restaurar-archivos-eliminados-en-tu-cuenta-de-dropbox/"><u>Métodos Eficaces Para Restaurar Archivos Eliminados en Tu Cuenta De Dropbox</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-more-quiet-computers-fix-the-audio-problems-with-ease-on-your-pc/"><u>No More Quiet Computers - Fix the Audio Problems with Ease on Your PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcome-windows-amobluetooth-struggles-with-this-simple-step-by-step-guide-for-windows-11-users/"><u>Overcome Windows amoBluetooth Struggles with This Simple Step-by-Step Guide for Windows 11 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-silence-solutions-for-mics-not-detecting-voice-output/"><u>Overcoming Silence: Solutions for Mics Not Detecting Voice Output</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-the-problem-of-your-runmdt-gaming-headsets-unresponsive-mic/"><u>Resolving the Problem of Your RUNMDT Gaming Headset's Unresponsive Mic</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unveiling-the-hidden-truths-behind-vrs-advantages-and-limitations-for-2024/"><u>Unveiling the Hidden Truths Behind VR's Advantages and Limitations for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/mov-file-keeping-hacks-for-new-win-11-users/"><u>.MOV File Keeping Hacks for New Win 11 Users</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-behind-the-scenes-to-the-best-free-meme-designs/"><u>2024 Approved Behind-The-Scenes to the Best FREE Meme Designs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/end-the-distraction-fix-fluctuating-audio-in-windows-11-and-10s-bluetooth-setups/"><u>End the Distraction: Fix Fluctuating Audio in Windows 11 & 10'S Bluetooth Setups</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-top-9-free-custom-youtube-branding-tools-online/"><u>In 2024, Top 9 FREE Custom YouTube Branding Tools Online</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Oppo A1 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/lucidsound-ls30-trouble-heres-how-to-get-your-mic-working-again/"><u>LucidSound LS30 Trouble? Here's How to Get Your Mic Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-no-sound-error-when-your-speaker-is-connected-to-pc-in-windows-os/"><u>Resolve 'No Sound' Error When Your Speaker Is Connected to PC in Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-voice-input-problems-for-counter-strike-global-offensive-players/"><u>Resolving Voice Input Problems for Counter-Strike Global Offensive Players</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailor-your-workflow-perfecting-the-use-of-window-11s-search-box/"><u>Tailor Your Workflow: Perfecting the Use of Window 11'S Search Box</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-connections-no-speakers-or-headphones-detected-on-windows-os/"><u>Troubleshooting Audio Connections: No Speakers or Headphones Detected on WIndows OS</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-xiaomi-redmi-k70-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Xiaomi Redmi K70</u></a></li>
 </ul></div>
 

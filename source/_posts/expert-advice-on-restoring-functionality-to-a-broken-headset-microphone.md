@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Restoring Functionality to a Broken Headset Microphone
-date: 2025-01-18T16:50:17.154Z
-updated: 2025-01-22T18:03:45.640Z
+date: 2025-01-27T20:09:11.935Z
+updated: 2025-01-30T07:23:01.513Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix CS:GO mic not working
 
@@ -67,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/img_5baf47cf4729b.jpg)
 7. Right-click on other recording devices and select**Disable** to turn them off temporarily. If you’d like to turn them on after playing CS:GO, simply repeat this step and select**Enable** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Also, if you have other output devices, go to the**Playback** tab and disable them (except the one in use) in the same way as you did on the**Recording** tab.
 8. After everything’s done, click**OK** to save the changes.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-335.png)
@@ -79,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Disable exclusive control for your microphone
 
  If the above sound setting modifications don’t help to restore your CS:GO mic, you can try to disable the Allowing executive control of microphone feature, as it’s proven to be effective by some community gamers. To do so:
@@ -90,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 1. At the bottom right corner of your computer screen – namely the notification area – you’ll find the**volume icon** . Right-click on it and select**Sound settings** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/win-11-right-click-on-sound.jpg)
 2. Scroll down and click on**More sound settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/win-11-sound-settings.jpg)
 3. Select the**Recording** tab. Right-click on the device that you’re currently using and then select**Set as Default Device** from its context menu.  
@@ -121,22 +105,26 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-339.png)
 3. Select**Game Settings** **\> Communication** . Make sure you haven’t muted your friends or others in the game. (This is not necessarily related to your mic, so you may skip this step if you want.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-345.png)
 4. Go to**Controller** . Below you’ll see the item –**Use Mic** . If there’s already a shortcut key assigned to it, then you don’t need to change anything; otherwise please assign a shortcut key to it. (The default key is**K** .)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-396.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you’re all set, join a squad to see if you can use the mic properly. If not, move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update device drivers
 
@@ -156,6 +144,10 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Does this fix solve your mic-not-working issue? Hopefully it does; if not, you may give the next fix a whirl.
@@ -173,7 +165,7 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
@@ -196,16 +188,12 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 3. Wait for the process to complete and then exit the window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this fix didn’t help, you might try out the next one.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7: Check Privacy settings
 
@@ -214,13 +202,13 @@ If this fix didn’t help, you might try out the next one.
 1. On your keyboard, press the**Windows Logo key** ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5ae0331bc08e4-2.png) and**I** at the same time to open the**Settings** window. Then, select**Privacy** and**Microphone** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/win-11-settings-privacy-microphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Check if the Microphone access button is Off. If so, simply turn it**On** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/win-11-settings-privacy-microphone-access.jpg)
 3. Below you’ll see another toggle for**Let apps access your microphone** . Also turn it on if it’s been set to**Off** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/win-11-settings-privacy-microphone-access-1.jpg)
 4. Scroll down and head to the part of**Choose which apps can access your microphone** . You won’t see Steam or CS:GO there but you can toggle on the apps related to your audio output. For instance, if you use Skype to communicate in games, make sure you turn its toggle on.
@@ -239,6 +227,10 @@ If this fix didn’t help, you might try out the next one.
 
 3. Type **voice\_enable 1** and click **Submit** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-417.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Test your mic in the game and see if it works properly now.
 
@@ -276,6 +268,14 @@ Here’s how to use Fortect to repair system files on your PC:
 1. On your keyboard, press the **Windows Logo key** ![](https://images.drivereasy.com/wp-content/uploads/2023/10/windows-logo.png) , type in**command prompt** , and select **Run as administrator.** (If Windows prompts for permission, click **OK** to continue.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-admin-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Type in **SFC /Scannow** , and then press **Enter** .  
 
 ![win 11 command prompt to run sfc 1](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-1.jpg)
@@ -308,17 +308,22 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/2024-approved-blur-your-images-soul-the-best-face-pixelation-techniques/"><u>2024 Approved Blur Your Image's Soul The Best Face Pixelation Techniques</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-how-to-stay-ahead-of-the-curve-in-tiktok-world/"><u>2024 Approved How to Stay Ahead of the Curve in TikTok World</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/become-a-pro-at-hosting-virtual-meetings-with-zoom-an-android-users-guide/"><u>Become a Pro at Hosting Virtual Meetings with Zoom An Android User's Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/enshrouded-game-fixed-now-running-smoothly-on-your-computer/"><u>Enshrouded Game Fixed: Now Running Smoothly on Your Computer</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Vivo V29? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-fixes-to-address-long-waiting-periods-launching-the-force-unleashed-battlefront-ii-on-pc/"><u>Quick Fixes to Address Long Waiting Periods Launching The Force Unleashed: Battlefront II on PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-fixes-and-tips-for-hyperx-cloud-alpha-s-headset-microphone-issues/"><u>Solved: Fixes and Tips for HyperX Cloud Alpha S Headset Microphone Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-hdmi-connection-errors-when-your-device-is-in-use-a-step-by-step-guide/"><u>Solving HDMI Connection Errors When Your Device Is in Use: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-silent-pcs-how-to-restore-sound-after-a-windows-10-update/"><u>Solving Silent PCs: How To Restore Sound After A Windows 10 Update</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-a-broken-corsair-virtuoso-mic/"><u>Step-by-Step Solutions for a Broken Corsair Virtuoso Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-complete-fix-guide-resolving-rec-room-microphone-problems-on-windows-computers/"><u>The Complete Fix Guide: Resolving Rec Room Microphone Problems on Windows Computers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/winning-software-to-capture-your-display-on-windows-10-for-2024/"><u>Winning Software to Capture Your Display on Windows 10 for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-crafting-a-tiktok-twosome-film-for-2024/"><u>[Updated] Crafting a TikTok Twosome Film for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-evolution-of-engagement-key-post-vidcon-events/"><u>[Updated] Evolution of Engagement Key Post-VidCon Events</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1726027979361-dvditunes/"><u>「ジャニーズのDVDをiTunesでスムーズ取り込む方法：使いやすいガイド」</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/3-ways-to-track-apple-iphone-13-pro-max-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>3 Ways to Track Apple iPhone 13 Pro Max without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-fixing-a-malfunctioning-headphone-socket-on-your-gadget/"><u>Effective Solutions for Fixing A Malfunctioning Headphone Socket on Your Gadget</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-mute-mode-how-to-restore-sounds-for-your-borderlands-check-out-this-guide-pc/"><u>Fixing Mute Mode: How to Restore Sounds for Your Borderlands ^ Check Out This Guide! ^ (PC)</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-se-2022-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone SE (2022) to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-visualvision-studio-for-win8/"><u>In 2024, VisualVision Studio for Win8</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/jabra-audio-issues-heres-your-2024-go-to-troubleshooting-handbook/"><u>Jabra Audio Issues? Here's Your 2024 Go-To Troubleshooting Handbook</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/optimizing-loudspeaker-performance-in-windows-pertinent-solutions-for-fixing-low-sound-output/"><u>Optimizing Loudspeaker Performance in Windows Pertinent Solutions for Fixing Low Sound Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-warzone-chat-resolving-playstation-xbox-and-pc-mic-voice-troubleshooting-guide/"><u>Revive Your Warzone Chat - Resolving PlayStation, Xbox & PC Mic Voice Troubleshooting Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/step-by-step-instructions-producing-alluring-video-thumbnails-on-youtube/"><u>Step-by-Step Instructions Producing Alluring Video Thumbnails on YouTube</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/supercharge-your-sound-expert-strategies-for-raising-speaker-output-in-windows-10/"><u>Supercharge Your Sound: Expert Strategies for Raising Speaker Output in Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/surprise-hit-discover-the-most-compatible-and-affordable-magsafe-wallet-thats-not-from-apple-or-anker-limited-time-offer-exclusive-to-zdnet-readers/"><u>Surprise Hit: Discover the Most Compatible and Affordable MagSafe Wallet That's Not From Apple or Anker – Limited Time Offer Exclusive to ZDNET Readers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/syncing-perfectly-overcoming-audio-synchronization-challenges/"><u>Syncing Perfectly: Overcoming Audio Synchronization Challenges</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-fixing-the-non-responsive-windows-11-taskbar/"><u>Troubleshooting Tips: Fixing the Non-Responsive Windows 11 Taskbar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-is-my-mac-quiet-and-how-to-fix-it-comprehensive-solutions-for-the-no-sound-problem/"><u>Why Is My Mac Quiet and How to Fix It - Comprehensive Solutions for the 'No Sound' Problem</u></a></li>
 </ul></div>
 

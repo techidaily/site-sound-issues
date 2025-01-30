@@ -1,7 +1,7 @@
 ---
 title: "Modern Warfare's Voice Chat Problem: Solutions and Tips for Gamers"
-date: 2024-08-13T10:49:55.966Z
-updated: 2024-08-14T10:49:55.966Z
+date: 2025-01-27T16:01:55.069Z
+updated: 2025-01-29T21:34:07.831Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/cbf529e05dd3135fe67a52edb00f230c5ea151216
 
 Many players are reporting that they can hear others clearly but the voice chat is not working in Call of Duty: Modern Warfare. If you’re experiencing the same problem, don’t worry. We’ve put together every possible fix for you.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -30,6 +27,10 @@ Many players are reporting that they can hear others clearly but the voice chat 
 4. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Disable the SIP-ALG setting](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Enable Voice Chat
 
  Before getting started, please make sure your microphone is not muted, especially when you’re using a headset (the mute button is not activated). When you make sure the mic is not muted, please do the following:
@@ -37,21 +38,18 @@ Many players are reporting that they can hear others clearly but the voice chat 
 1. When you’re in the game, access your**Options** Menu.
 2. Go to the**AUDIO** tab and set**Voice Chat** to**Enabled** .  
 ![voice chat enabled](https://images.drivereasy.com/wp-content/uploads/2021/01/Voice-chat-enabled.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 3. If your**Voice Chat Recording Mode** is set to**Open Mic** , set Set **Open Mic Recording Threshold** to the lowest setting/minimum (we recommend 0.00). Setting this level too high may prevent your voice from being heard by other players.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/set-low.png)
 4. But if you set it to**Push to Talk** , please be sure you’re aware of exactly what button you’d need to press to activate your microphone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Apply the settings. Go back to your game and test the sound issues.
 
 **Note:** If you’re on Xbox, please check to ensure that your Xbox privacy settings are set appropriately for**Crossplay** .
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Perform a Windows Update
 
  COD: Modern Warfare voice chat requires that Windows is fully updated. So if you’re getting this problem on Windows, make sure to run Windows Updates. Here’s how to do it quickly:
@@ -67,24 +65,20 @@ The powerful video editing program for your Windows PC</a>
 
 1. At the bottom right corner of your computer screen – namely the notification area – you’ll find the **volume**  icon. Right-click it and select **Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 2. Select the **Recording** tab. Right-click on the device that you’re currently using (your headphone) and then select **Set as Default Device** and then **Set as Default Communication Device** from its context menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/default.jpg)
 3. Right-click your default microphone and then select **Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/audio-properties.jpg)
 4. On the **Levels** tab, drag the sliders of the **Microphone** to turn up the volume. Just make sure you haven’t muted them or set them to such low levels that you cannot hear the voice yourself.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/headphone-levels.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click **OK** to save the changes.
 6. Play Modern Warfare and test if others can hear you this time.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Update your audio driver
 
  The Modern Warfare voice chat not working issue might also be triggered by outdated audio drivers. If you haven’t updated your drivers for a long time, then you definitely need to do it now.
@@ -92,13 +86,18 @@ The powerful video editing program for your Windows PC</a>
  There are mainly two ways you can update your audio driver:[manually](https://tools.techidaily.com/drivereasy/download/) and[automatically](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1: Manually update your audio driver
 
  First, make sure you know the PC model and device model, and then go to the PC manufacturer’s website or the sound card’s website to check for the latest audio driver.
 
 **Note:** You can update your device driver via Device Manager, but Windows won’t deliver the latest driver.[Learn Why…](https://tools.techidaily.com/drivereasy/download/) So to make sure you can update your audio card driver to the latest version, you should get it from the manufacturer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your audio driver (recommended)
 
@@ -118,8 +117,9 @@ Here’s how to update your drivers with Driver Easy:
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Disable the SIP-ALG setting
 
  Use a wired Ethernet connection whenever possible, because a wireless connection can cause latency and affect VoIP calls (your voice chat). But if you’re using Wi-Fi, make sure you have disabled SIP ALG.
@@ -147,8 +147,6 @@ Here’s how to update your drivers with Driver Easy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +154,24 @@ Here’s how to update your drivers with Driver Easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-farewell-your-instagram-presence-permanently-for-2024/"><u>[New] How to Farewell Your Instagram Presence Permanently for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-how-to-navigate-virtual-realities-without-nausea/"><u>[Updated] 2024 Approved How to Navigate Virtual Realities without Nausea</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-google-powered-success-in-podcast-submissions/"><u>[Updated] In 2024, Google-Powered Success in Podcast Submissions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/google-tv-chromecast-unveiled-a-new-contender-against-amazons-firetv/"><u>Google TV Chromecast Unveiled: A New Contender Against Amazon's FireTV!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-vivo-y100-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Vivo Y100 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-newcomer-to-notable-nominee-nudging-numbers-naturally/"><u>In 2024, From Newcomer to Notable Nominee Nudging Numbers Naturally</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/pc3/"><u>PCゲームを楽しむ上で必要不可欠な！セーブデータの安全対策：トップ3バックアップ法</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-soundscape-harmony-troubleshooting-wows-muted-mystery/"><u>Restoring Soundscape Harmony: Troubleshooting WoW's Muted Mystery</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-get-your-logitech-g230-mic-back-online/"><u>Solved! How to Get Your Logitech G230 Mic Back Online</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-issue-of-arctis-7-audio-glitches-in-windows-a-comprehensive-guide/"><u>Solving the Issue of Arctis 7 Audio Glitches in Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-pcs-missing-sound-issue-in-zoom-a-step-by-step-guide/"><u>Solving the PC's Missing Sound Issue in Zoom: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-puzzle-ultimate-guide-to-eliminate-crackling-sounds-from-your-logitech-g-pro-x-headset/"><u>Solving the Puzzle: Ultimate Guide to Eliminate Crackling Sounds From Your Logitech G Pro X Headset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sony-wh-1000xm-microphone-problem-fixes-for-windows-and-mac-users/"><u>Sony WH-1000XM Microphone Problem Fixes for Windows and Mac Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steelseries-arctis-prime-headset-effective-solutions-to-restore-mic-working-status/"><u>SteelSeries Arctis Prime Headset: Effective Solutions to Restore Mic Working Status</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-creative-pebble-bluetooth-audio-devices-not-working-properly/"><u>Step-by-Step Fixes for Creative Pebble Bluetooth Audio Devices Not Working Properly</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-tecno-spark-10-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Tecno Spark 10 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-phone-stores-where-to-find-the-perfect-mobile-device/"><u>Top Phone Stores: Where to Find the Perfect Mobile Device</u></a></li>
+</ul></div>
 

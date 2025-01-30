@@ -1,7 +1,7 @@
 ---
 title: Advanced Techniques to Fix Sound Latency Issues as of 2024
-date: 2024-08-18T07:58:08.035Z
-updated: 2024-08-19T07:58:08.035Z
+date: 2025-01-22T23:54:01.059Z
+updated: 2025-01-30T07:16:10.501Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check for hardware issues
 
 1. Try the headphone on other devices and see if it works.
@@ -48,20 +52,22 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
  Having **Exclusive Mode**   on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the **crackling or popping sound** in headphone  problem. To disable **Exclusive Mode** :
 
  1) On the bottom right of your screen, right-click on**the sound icon** , then click**Sounds** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/12sound.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In the**Playback** tab, right-click on**speakers** and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Advanced** tab, un-check **the box** before **Allow applications to take exclusive control of this device** . Then click **Apply** \> **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 
  4) Play some music and check if the sound coming through is noise-free now. If not, continue with **5)** to **change the audio format** .
@@ -86,22 +92,18 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/IntelR-Display-Audio.jpg)
 4. Restart your computer, play some audio through your headphone to see if this nasty crackling noise has been resolved. If yes, then great! If it’s still happening, move on to **Fix 4**  , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Adjust **the minimum processor state**
 
  Adjusting **the minimum processor state** , as reported by many users, is another effective way to fix the**crackling**   **in headphones** issue . To do so:
@@ -109,17 +111,15 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Depending on the build of your Windows, you might also see **On battery** and **Plugged in**  in **Setting (%)** . Change both values to **100** and click **OK** .
 
@@ -139,8 +139,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +146,17 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-9-powerful-applications-for-saving-youtube-content-on-android/"><u>[New] 2024 Approved 9 Powerful Applications for Saving YouTube Content on Android</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/chrome-speaker-issues-fixed-regain-your-videoaudio-sounds/"><u>Chrome Speaker Issues Fixed: Regain Your Video/Audio Sounds!</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-system-repair-exploring-distinctions-between-chkdsk-sfc-and-dism/"><u>Deciphering System Repair: Exploring Distinctions Between CHKDSK, SFC, and DISM</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/from-silence-to-clarity-expert-tips-on-enhancing-mic-volume-performance/"><u>From Silence to Clarity: Expert Tips on Enhancing Mic Volume Performance</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-immersive-tech-critical-review-of-vr-gadgets/"><u>In 2024, Immersive Tech Critical Review of VR Gadgets</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/integrating-custom-sounds-into-your-whatsapp-experience-for-2024/"><u>Integrating Custom Sounds Into Your WhatsApp Experience for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/navigating-nearby-your-personal-guide-for-on-the-go-assistance-for-2024/"><u>Navigating Nearby - Your Personal Guide for On-the-Go Assistance for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-to-restore-functionality-of-the-steam-voice-chat-service/"><u>Quick Fixes to Restore Functionality of the Steam Voice Chat Service</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-how-to-restore-functionality-in-your-steelseries-arctis-1-headsets-mic/"><u>Solution Guide: How to Restore Functionality in Your SteelSeries Arctis 1 Headset's Mic</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/streamlining-the-process-vimeo-to-mp3-conversion-for-2024/"><u>Streamlining the Process Vimeo to MP3 Conversion for 2024</u></a></li>
+</ul></div>
 

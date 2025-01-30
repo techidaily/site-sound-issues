@@ -1,7 +1,7 @@
 ---
 title: Solve Windows 11 Microphone Problems with These Easy Fixes!
-date: 2024-08-18T07:58:44.230Z
-updated: 2024-08-19T07:58:44.230Z
+date: 2025-01-28T16:14:04.389Z
+updated: 2025-01-29T17:18:02.007Z
 tags:
   - win11
   - win10
@@ -32,35 +32,43 @@ We’ve seen users reporting the microphone not working after they updated to Wi
  2\. If you’re using a**headset mi** c, make sure it’s not set to mute on your headset.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1: Configure the input device
 
  The first fix you can try is to set up the input device, the microphone you’re using, correctly and adjust the recording volume. Here’s how to do it on Windows 11:
 
 1. Right-click the**speaker icon** on the taskbar, and click**Sound settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-06-12.png)
 2. In the input section,**set the microphone you’re using as the input device** . You can also turn the volume up to make sure the microphone can catch your voice clearly.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-05-53.png)
 
  If you experience the microphone issue only while using a certain app, for example, Zoom or Discord, you can adjust the settings in-app. Similar to the steps above, you need to find the audio setting, choose the right input device, and adjust the input volume if needed.
 
  You can check your microphone to see if it works now. If it doesn’t, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Allow apps to access your microphone
 
  Users report that even if they set up the correct input device in an app, the microphone still won’t work. The possible reason is that the app doesn’t have access to your microphone on a system level. To allow the related program on Windows 11, here’s how:
 
 1. Press the**Windows logo key** on your keyboard, or**click the magnifier icon on the taskbar** . Then, search for**Microphone privacy settings** .  
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-08-20.png)
 2. **Turn on the Microphone access and Let apps access your microphone** options. You can scroll down and manage the microphone access to a specific app.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-08-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After allowing apps to use your microphone, you can restart the problem app and test if the issue is solved now. If not, try the next fix.
 
@@ -71,9 +79,6 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 1. On the taskbar, right-click the**speaker icon** and select**Sound settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-06-12.png)
 2. Scroll down and click**More sound settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-13-21-2.png)
 3. Under the**Recording tab** , enable your microphone. If you can’t find it, right-click anywhere empty and select**Show Disabled devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-14-04.png)
@@ -94,9 +99,6 @@ If this fix doesn’t solve your problem, try the next one.
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
@@ -106,9 +108,6 @@ If this fix doesn’t solve your problem, try the next one.
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Bonus tip: Repair corrupted system files
 
  Sometimes a system-wide issue where some system files are corrupted can affect the functioning of the microphone. It’s less common, and you can use the System File Checker tool (sfc /scannow) to look for any critical system corruption. However, manual repair is required most of the time.
@@ -117,21 +116,18 @@ If this fix doesn’t solve your problem, try the next one.
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
 2. Run the software. Fortect will start a deep scan of your system. The process may take a while.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 3. Once the scan is complete, you can review the summary. If Fortect detects any missing or broken system files or other issues that may have caused the microphone or other sound issues, you can click **START REPAIR** to fix them.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a 60-day money-back guarantee. If you encounter any issues while using Fortect, feel free to contact their support team.
 
@@ -148,8 +144,6 @@ If this fix doesn’t solve your problem, try the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +151,24 @@ If this fix doesn’t solve your problem, try the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevating-your-content-choosing-right-youtube-duosgroups/"><u>[New] In 2024, Elevating Your Content Choosing Right YouTube Duos/Groups</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-choose-best-free-youtube-video-editor-apps-on-ios/"><u>[Updated] In 2024, How to Choose Best-Free YouTube Video Editor Apps on iOS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-steps-to-ensure-continuous-auto-play-for-fb-content/"><u>[Updated] In 2024, The Steps to Ensure Continuous Auto-Play for FB Content</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-youtubes-earning-potential-in-the-new-year-for-2024/"><u>[Updated] Unlocking YouTube's Earning Potential in the New Year for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/blueprint-for-big-screens-the-art-of-filmmaking-for-2024/"><u>Blueprint for Big Screens The Art of Filmmaking for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetooth-keeps-connecting-but-no-sound-fix-this-problem-today/"><u>Bluetooth Keeps Connecting but No Sound! Fix This Problem Today</u></a></li>
+<li><a href="https://some-tips.techidaily.com/empowering-small-e-commerce-vendors-through-alibabas-innovative-generative-ai-quality-control/"><u>Empowering Small E-Commerce Vendors Through Alibaba’s Innovative Generative AI Quality Control</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fortnite-voice-communication-issues-heres-how-you-can-fix-them-fast-and-simple/"><u>Fortnite Voice Communication Issues? Here's How You Can Fix Them Fast and Simple</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-printer-software-downloads/"><u>Get the Latest HP Printer Software Downloads</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-effective-guide-to-cast-apple-iphone-13-mini-to-macbook-without-hindrance-drfone-by-drfone-ios/"><u>In 2024, Effective Guide to Cast Apple iPhone 13 mini to MacBook without Hindrance | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/laptop-sound-malfunction-heres-how-to-get-audio-working-again/"><u>Laptop Sound Malfunction? Here’s How to Get Audio Working Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-audio-hurdles-a-comprehensive-guide-on-fixing-rust-mics/"><u>Overcoming Audio Hurdles: A Comprehensive Guide on Fixing Rust Mics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-quick-fixes-for-skype-audio-problems/"><u>Solved: Quick Fixes for Skype Audio Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-google-meet-microphone-problems-for-users-of-windows-11-and-10/"><u>Solving Google Meet Microphone Problems for Users of Windows 11 & 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-restoring-functionality-of-redragon-headset-mic-on-computers/"><u>Step-by-Step Guide to Restoring Functionality of Redragon Headset Mic on Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016940523-troubleshooting-and-repairing-the-audio-input-for-oculus-quest-ebrary-inc/"><u>Troubleshooting and Repairing the Audio Input for Oculus Quest Ebrary, Inc.</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/ultimate-leawo-dvd-copier-guide-all-you-need-to-know-about-copying-burning-and-compressing-dvds-leawo-prof-media/"><u>Ultimate Leawo DVD Copier Guide: All You Need to Know About Copying, Burning & Compressing DVDs | Leawo Prof. Media</u></a></li>
+</ul></div>
 

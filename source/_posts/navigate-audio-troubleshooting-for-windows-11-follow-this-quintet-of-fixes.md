@@ -1,7 +1,7 @@
 ---
 title: "Navigate Audio Troubleshooting for Windows 11: Follow This Quintet of Fixes"
-date: 2025-01-19T16:19:05.339Z
-updated: 2025-01-22T18:48:32.914Z
+date: 2025-01-28T17:58:52.847Z
+updated: 2025-01-30T01:53:00.833Z
 tags:
   - win11
   - win10
@@ -49,13 +49,13 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72204e5e8f.jpg)
 3. Click the**Update** button next to a flagged audio driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version of Driver Easy).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update** **All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72220f11f9.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Check if there’s any sound in your computer.
 
@@ -72,25 +72,17 @@ To do so:
 2. In the**Sound** pane, click the**Playback** tab.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7201dbcc98.jpg)
 3. Select your speaker audio device, and click**Set Default** to set it as your default device.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If your device has been the default device, you’ll see a green check mark next to your device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72066a032c.jpg)
 4. Restart your computer, and plug a headphone to see if there’s any sound.
 
 Still no luck? Okay, there’s one more thing to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Roll back your audio driver
 
@@ -101,6 +93,10 @@ Still no luck? Okay, there’s one more thing to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721431cb33.jpg)
 3. Double click**Sound, video and game controllers** to expand it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72165a0e6f.jpg)
 4. Double click on your**audio device** to open the properties pane.  
 
@@ -108,11 +104,15 @@ Still no luck? Okay, there’s one more thing to try.
 5. Click the**Driver** tab, and click**Roll Back Driver** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721ba8a50e.jpg)
 6. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Restart your computer.
 
@@ -140,21 +140,17 @@ Feel free to leave a comment below if you have any questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-lore-masters-collective-essential-eight/"><u>[Updated] 2024 Approved Lore Masters Collective - Essential Eight</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-exclusive-collection-vimeo-video-clippers/"><u>[Updated] In 2024, Exclusive Collection Vimeo Video Clippers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-lighted-paths-guiding-viewers-with-intelligent-illumination/"><u>[Updated] Lighted Paths Guiding Viewers with Intelligent Illumination</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726225479093-3gpgif-movavi/"><u>無限量化3GP為GIF - 使用Movavi免費直接上線轉換工具</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-vivo-v27-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo V27 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-corsair-hs35-headset-microphone-issues-in-windows-environments/"><u>Fixing Corsair HS35 Headset Microphone Issues in Windows Environments</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-persistent-sound-cutouts-in-discord-comprehensive-2-steps-to-stability/"><u>Fixing Persistent Sound Cutouts in Discord - Comprehensive 2# Steps to Stability</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-troubleshooting-when-your-league-of-legends-voice-chat-fails/"><u>Fixing the Issue: Troubleshooting When Your League of Legends Voice Chat Fails</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-your-creative-pebble-speakers-troubleshooting-tips/"><u>Fixing Your Creative Pebble Speakers: Troubleshooting Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-efficient-translation-the-top-8-best-apps-reviewed-for-2024/"><u>Free, Efficient Translation The Top 8 Best Apps Reviewed for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-mpow-microphone-working-on-a-pc-windows/"><u>How to Get Your MPOW Microphone Working on a PC (Windows)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-when-discords-push-to-talk-isnt-functioning-properly/"><u>How To Resolve When Discord's Push-to-Talk Isn't Functioning Properly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-sounds-on-realteks-digital-output-unit-a-step-by-step-solution/"><u>How To Restore Sounds on Realtek's Digital Output Unit: A Step-By-Step Solution</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-smartphones-meet-virtual-worlds-top-10-headsets/"><u>In 2024, Smartphones Meet Virtual Worlds - Top 10 Headsets</u></a></li>
-<li><a href="https://os-tips.techidaily.com/international-progress-for-iphones-overcoming-boundaries-abroad-while-standing-strong-stateside/"><u>International Progress for iPhones: Overcoming Boundaries Abroad While Standing Strong Stateside</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-maplestory-from-freezing-on-windows-11-expert-fixes-and-advice/"><u>Stop MapleStory From Freezing on Windows 11: Expert Fixes and Advice</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-choosing-between-bandicam-and-camtasia-for-video-capture/"><u>[Updated] 2024 Approved Choosing Between Bandicam and Camtasia for Video Capture</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-demystifying-the-mechanics-of-high-impact-tiktok-plays/"><u>[Updated] In 2024, Demystifying the Mechanics of High-Impact TikTok Plays</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-ultimate-how-to-for-navigating-old-features-on-fb-mobilepc-for-2024/"><u>[Updated] The Ultimate How-To for Navigating Old Features on FB, Mobile/PC for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1-troubleshooting-how-to-fix-imovie-will-not-download-issues-on-ios-devices-and-pcs/"><u>1. Troubleshooting: How to Fix 'iMovie Will Not Download' Issues on iOS Devices & PCs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-honor-magic-6-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Honor Magic 6 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hear-again-simple-solutions-to-resolve-no-sound-problem-on-laptop-or-desktop/"><u>Hear Again! Simple Solutions to Resolve No-Sound Problem on Laptop or Desktop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-turtle-beach-elite-atlas-microphone-working-again-expert-advice/"><u>How to Get Your Turtle Beach Elite Atlas Microphone Working Again – Expert Advice</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-infinix-hot-40-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Infinix Hot 40</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitechs-noise-nightmare-tackle-your-g-pro-x-microphones-popping-sounds-with-these-2024-troubleshooting-secrets/"><u>Logitech's Noise Nightmare? Tackle Your G Pro X Microphone's Popping Sounds with These 2024 Troubleshooting Secrets</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-discord-voice-chat-woes-expert-tips-and-tricks/"><u>Solving Your Discord Voice Chat Woes: Expert Tips and Tricks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-infinix-hot-40-pro-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Infinix Hot 40 Pro Phone Hassle-Free</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-mute-mode-a-guide-to-recovering-sound-on-pc-for-zoom-users/"><u>Troubleshooting Mute Mode: A Guide to Recovering Sound on PC for Zoom Users</u></a></li>
 </ul></div>
 

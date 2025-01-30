@@ -1,7 +1,7 @@
 ---
 title: Resolve Your Voicemod Problems with These Latest Tips
-date: 2024-08-18T07:58:13.370Z
-updated: 2024-08-19T07:58:13.370Z
+date: 2025-01-28T19:05:30.544Z
+updated: 2025-01-30T01:01:50.996Z
 tags:
   - win11
   - win10
@@ -44,26 +44,19 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 1. At the bottom right corner of your computer screen – namely the notification area – you’ll find the**volume icon** . Right-click on it and select**Sound settings** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/win-11-right-click-on-sound.jpg)
 2. Scroll down and click on**More sound settings** .  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/win-11-sound-settings.jpg)
 3. Select the**Recording** tab. Right-click on the device that you’re currently using and then select**Set as Default Device** from its context menu.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-334.png)
 4. Click to highlight your default microphone and then click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-346.png)
 5. On the**Levels** tab, drag the sliders of**Microphone** and**Microphone Boost** to turn up the volume. Just make sure you haven’t muted them or set them to such low levels that you cannot hear the voice yourself. After that, click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-393.png)
 6. You may do a voice test by speaking into your mic. If the recording device is working properly, you should witness a rise in the green bar as you talk.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/img_5baf47cf4729b.jpg)
 7. Right-click on other recording devices and select**Disable** to turn them off temporarily. If you’d like to turn them on after playing CS:GO, simply repeat this step and select**Enable** .  
 
@@ -82,18 +75,17 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 1. At the bottom right corner of your computer screen – namely the notification area – you’ll find the**volume icon** . Right-click on it and select**Sound settings** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/win-11-right-click-on-sound.jpg)
 2. Scroll down and click on**More sound settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/win-11-sound-settings.jpg)
 3. Select the**Recording** tab. Right-click on the device that you’re currently using and then select**Set as Default Device** from its context menu.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-334.png)
 4. Click to highlight your default microphone and then click**Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-346.png)
 5. Go to**Advanced** , and untick the box for**Allow applications to take exclusive control of this device** . After that, click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-36.png)
 6. Click**OK** to save the change.
 
@@ -106,31 +98,25 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
  Make sure you haven’t turned off any options related to microphone in CS:GO. Usually there won’t be any problems with your default audio settings. That said, you should still check the in-game settings, just in case.
 
 1. Launch CS:GO and click the gear icon in the left pane.  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/image-338.png)
 2. Go to the**Audio Settings** tab and select**Audio** below. Then, pay attention to the related audio settings and make certain they are**turned on** or set to the correct state.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-339.png)
 3. Select**Game Settings** **\> Communication** . Make sure you haven’t muted your friends or others in the game. (This is not necessarily related to your mic, so you may skip this step if you want.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-345.png)
 4. Go to**Controller** . Below you’ll see the item –**Use Mic** . If there’s already a shortcut key assigned to it, then you don’t need to change anything; otherwise please assign a shortcut key to it. (The default key is**K** .)  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-396.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you’re all set, join a squad to see if you can use the mic properly. If not, move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update device drivers
 
@@ -147,12 +133,12 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -167,15 +153,9 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 1. Launch Steam.
 2. In the**LIBRARY** , right-click on your game and select**Properties** from the drop-down menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
 
@@ -190,9 +170,6 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 1. On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5ae0331bc08e4-2.png) and **R** at the same time to invoke the Run box. Type**services.msc** and click **OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-363.png)
 2. In the pop-up window, scroll through the list of services to locate**Windows Audio** . Click to highlight this item and click**Restart** in the left pane.  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/img_5baf52397a39c.jpg)
 3. Wait for the process to complete and then exit the window.
 
@@ -200,20 +177,18 @@ If this fix didn’t help, you might try out the next one.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## Fix 7: Check Privacy settings
 
  There’s a possibility that your privacy settings related to the microphone has been reset after a Windows update or other events. If that’s the case, CS:GO might be forbidden to access your mic. To modify the privacy settings, you should perform the following procedure:
 
 1. On your keyboard, press the**Windows Logo key** ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5ae0331bc08e4-2.png) and**I** at the same time to open the**Settings** window. Then, select**Privacy** and**Microphone** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/win-11-settings-privacy-microphone.jpg)
 2. Check if the Microphone access button is Off. If so, simply turn it**On** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/win-11-settings-privacy-microphone-access.jpg)
 3. Below you’ll see another toggle for**Let apps access your microphone** . Also turn it on if it’s been set to**Off** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/win-11-settings-privacy-microphone-access-1.jpg)
@@ -235,9 +210,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 Test your mic in the game and see if it works properly now.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## Fix 9: Repair corrupted system files
 
  Missing, corrupt, or damaged system files may be the culprit for this CSGO mic not working error. To eliminate this issue as a possible cause, you can try the 2 ways below to repair possible system file issues.
@@ -248,10 +220,11 @@ Test your mic in the game and see if it works properly now.
 ### Repair & replace corrupted system files with Fortect
 
  The issue could be caused by corrupt system files.[**Fortect**](https://tools.techidaily.com/drivereasy/download/) is a tool that specializes in Windows repairing and fixing corrupt files automatically.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/fortect-logo-white.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With[**Fortect**](https://tools.techidaily.com/drivereasy/download/) , the preliminary will scan your computer’s operating system for viruses, malware, and missing, damaged, or corrupt files, then it removes all problematic files found and replaces them with new healthy files. It’s like a clean reinstall of your operating system, except that you won’t lose any user data, and all programs, and settings are exactly as they are before the repair.
 
@@ -260,9 +233,6 @@ Here’s how to use Fortect to repair system files on your PC:
 1. [Download](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
 2. Fire up Fortect and run a free scan.
 3. Once finished, Fortect will generate a detailed report of your computer health, which includes all issues detected.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 4. To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 5. Restart your computer for the changes to take effect.
@@ -271,28 +241,29 @@ Here’s how to use Fortect to repair system files on your PC:
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact[](https://tools.techidaily.com/drivereasy/download/) the[Fortect support team](https://www.fortect.com/support/) .
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Run SFC scan
 
 **System File Checker** (**SFC** ) is a handy feature in Windows that helps scan your system files and repair missing or corrupted system files(including those related to **BSOD** ). To **run the SFC scan** :
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 1. On your keyboard, press the **Windows Logo key** ![](https://images.drivereasy.com/wp-content/uploads/2023/10/windows-logo.png) , type in**command prompt** , and select **Run as administrator.** (If Windows prompts for permission, click **OK** to continue.)  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-admin-1.jpg)
-2. Type in **SFC /Scannow** , and then press **Enter** .  
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+2. Type in **SFC /Scannow** , and then press **Enter** .  
 ![win 11 command prompt to run sfc 1](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-1.jpg)
 3. It’ll take some time for the SFC to repair the corrupted system files if it detects any.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-3.png)
 4. When the process is completed, reboot your computer and test if the issue still exists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files, so please be patient.
 
@@ -309,8 +280,6 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -318,4 +287,21 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-symphony-in-softness-playback-reduction-guide/"><u>[New] Symphony in Softness Playback Reduction Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-how-to-facetime-with-your-android-phone/"><u>[Updated] 2024 Approved How To Facetime with Your Android Phone ?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/conquer-the-mute-effective-fixes-for-noise-less-conexant-smartaudio-hd-on-win10-platforms/"><u>Conquer the Mute: Effective Fixes for Noise-Less Conexant SmartAudio HD on Win10 Platforms</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-troubleshooting-steps-for-toshibes-silent-pc-problems/"><u>Effective Troubleshooting Steps for Toshibe's Silent PC Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-fixes-for-your-steelseries-arctis-pro-microphone-problems-now-working/"><u>Expert Fixes for Your SteelSeries Arctis Pro Microphone Problems - Now Working</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-android-16-app-upcoming-release-dates-and-pricing-details-unveiled-stay-ahead-of-the-curve/"><u>Free Android 16 App: Upcoming Release Dates & Pricing Details Unveiled – Stay Ahead of the Curve</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/front-speaker-connection-issues-heres-how-to-restore-sound-output/"><u>Front Speaker Connection Issues? Here's How to Restore Sound Output</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-windows-7-microphone-issues-a-step-by-step-guide/"><u>How to Fix Windows 7 Microphone Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-master-technique-long-term-disabling-of-youtube-shorts/"><u>In 2024, Master Technique Long-Term Disabling of YouTube Shorts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimal-focus-techniques-for-videoleap-users/"><u>In 2024, Optimal Focus Techniques for Videoleap Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-codegpt-installation-within-visual-studio-code-environment/"><u>Mastering CodeGPT Installation Within Visual Studio Code Environment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/post-update-sound-loss-on-windows-11-heres-your-easy-remedy/"><u>Post-Update Sound Loss on Windows 11? Here's Your Easy Remedy!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-top-10-best-talk-with-strangers-apps/"><u>Updated Top 10 Best Talk with Strangers Apps</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Fix for Audio Glitches in Windows Operating Systems
-date: 2024-08-18T07:59:26.171Z
-updated: 2024-08-19T07:59:26.171Z
+date: 2025-01-27T04:20:11.291Z
+updated: 2025-01-30T08:10:43.711Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ When you try to play music or video on your laptop, but just find**no sound on t
 [ **3\. Reinstall your sound card driver** ](<https://www.drivereasy.com/knowledge/laptop-internal-speakers-no-sound-solved/#Fix> 3. Reinstall your sound driver)
 [ **4\. Update your sound card driver** ](<https://www.drivereasy.com/knowledge/laptop-internal-speakers-no-sound-solved/#Fix> 4. Update your sound card driver) ``
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## Fix 1: Check your speakers volume
 
  1)`` Make sure your laptop sound isn’t muted.
@@ -34,18 +30,27 @@ When you try to play music or video on your laptop, but just find**no sound on t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Drag the slider to increase the volume to test if the sound could work.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-22.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Set your speakers as default device
 
  1) Right-click on the**s** **ound** icon on your taskbar. Then click**Playback devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2)Highlight your speakers, then click **Set Default** . Click **OK.**
 
@@ -57,21 +62,12 @@ Go with the easy steps to show it.
 
  1) On the Sound window, right-click on the blank area of the playback device list. Then choose**Show disabled devices** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.jpg)
 
  2) When your speakers shows up, right-click on it to choose**Enable** . Then you can set it as the default device.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## Fix 3:**Reinstall your sound card driver**
 
 1) Press the **Windows** logo key + **R** key together to open the **Run** box.
@@ -79,6 +75,10 @@ Go with the easy steps to show it.
 2) Type **devmgmt.msc** . Then click **OK** to open **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Expand **Sound, video and game controllers** . Then right click on your sound card’s name and click **Uninstall** .
 
@@ -88,13 +88,14 @@ Go with the easy steps to show it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Restart your PC to make change take effect. Windows will automatically reinstall sound driver for you now.
 
  5) Check if speakers works on your laptop now.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Fix 4: Update**your sound card driver**
 
  If the 1-3 fixes didn’t solve your issue, make sure to update your sound card driver.
@@ -103,10 +104,6 @@ Go with the easy steps to show it.
 
 It has two versions. Have a try on its **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , it will offer the latest drivers for you to install. But if you upgrade to **[PRO Version](https://tools.techidaily.com/drivereasy/download/)**  , you can get all your drivers including the sound card driver up-to-date with just one click — **Update All** (you get full tech support and 30-day money back guarantee).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-5.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -125,8 +122,6 @@ Any problems just feel free to leave your comment below, thanks.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +129,24 @@ Any problems just feel free to leave your comment below, thanks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-issues.techidaily.com/fixed-sea-of-thieves-voice-chat-notmic-working-on-pc/"><u>[Fixed] Sea of Thieves Voice Chat Not/Mic Working on PC</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-how-to-prevent-gaps-in-live-obs-broadcasting/"><u>[New] 2024 Approved How To Prevent Gaps In Live OBS Broadcasting</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-no-cost-humor-in-your-arsenal-ultimate-meme-guide/"><u>[New] 2024 Approved No-Cost Humor in Your Arsenal – Ultimate Meme Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-secrets-unveiled-the-ultimate-guide-to-recording-games/"><u>[Updated] Secrets Unveiled The Ultimate Guide to Recording Games</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-phantoms-reverse-video-capabilities/"><u>2024 Approved Navigating Phantom's Reverse Video Capabilities</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/discovering-2024s-premier-framing-apps/"><u>Discovering 2024’S Premier Framing Apps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/eveo-bluetooth-adapter-software-download-get-your-latest-drivers/"><u>Eveo Bluetooth Adapter Software Download - Get Your Latest Drivers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/experiencing-trouble-with-discord-voice-chat-heres-what-to-do/"><u>Experiencing Trouble With Discord Voice Chat? Here's What to Do!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-soundbar-problems-diagnosing-and-repairing-the-corsair-hs70-microphone-malfunction/"><u>Fix Your Soundbar Problems: Diagnosing and Repairing the Corsair HS70 Microphone Malfunction</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-oneplus-ace-2v-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your OnePlus Ace 2V Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-samsung-galaxy-a14-4g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Samsung Galaxy A14 4G to Roku | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-speaker-issues-while-playing-resident-evil-village/"><u>Overcoming Speaker Issues While Playing Resident Evil Village</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-voice-chat-and-microphone-compatibility-errors-in-sea-of-thieves-pc-version/"><u>Solving Voice Chat & Microphone Compatibility Errors in Sea of Thieves (PC Version)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-enabling-detection-of-playback-devices-like-headphones-on-your-windows-11-computer/"><u>Step-by-Step Solution: Enabling Detection of Playback Devices Like Headphones on Your Windows 11 Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-sound-problems-in-outriders-a-comprehensive-guide/"><u>Troubleshooting Sound Problems in Outriders: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-audio-malfunctions-effective-solutions-for-restoring-speakersheadphones-functionality/"><u>Windows 11 Audio Malfunctions: Effective Solutions for Restoring Speakers/Headphones Functionality</u></a></li>
+</ul></div>
 

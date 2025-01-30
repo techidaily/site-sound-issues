@@ -1,7 +1,7 @@
 ---
 title: Audio Service Outage? Here's How You Can Get It Running Again
-date: 2024-08-18T07:59:08.023Z
-updated: 2024-08-19T07:59:08.023Z
+date: 2025-01-28T05:28:21.810Z
+updated: 2025-01-30T00:37:08.526Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
  If your computer is having problems playing sound, and you receive the **One or more audio service isn’t running** error message, you’re not alone. Many Windows users have been reporting it. But the good news is you can fix it. This article gives you three fixes to try…
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -30,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 2. [**Update your audio drivers**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Reinstall your audio drivers**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ### Fix 1: Check the status of your audio services
 
  Whenever you encounter the **One or more audio service isn’t running** problem, the first thing you should do is make sure the service in question is running. Here’s how to check the status of your audio services:
@@ -41,22 +39,18 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 2. Type**services.msc** and press**Enter** to open the**Services** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9f60971b1b9.png)
 3. Scroll down to and right-click**Windows Audio** , then select**Restart** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f04b48d3d.jpg)
 4. Double-click**Windows Audio** , make sure the **Service status** is**running** and the**Startup type** is set to**Automatic** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f0d59e995.jpg)
 5. Repeat step 3) and step 4) for**Windows Audio Endpoint Builder** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f2e4d5191.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f2290c014.jpg)
 6. Click**OK** , then close the Service window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Test by playing a song. If your problem still exists, try Fix 2, below.
 
 ---
@@ -82,7 +76,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc075f35e6b9.jpg)
 4. Check if your computer now plays music properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 3, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall your audio drivers
 
@@ -90,21 +92,16 @@ OR
 
 1. Press the **Windows logo key** and **R** simultaneously to open the Run box.
 2. Type **devmgmt.msc** and click**OK** to access Device Manager.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f6f812df0.png)
 3. Expand the **Sound, video and game controllers** category.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f7aec80f7.jpg)
 4. For each audio device under that category, right-click on it and select**Uninstall device** . Note: Click**Uninstall** if prompted for confirmation.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f91648965.png)
 5. Restart your computer, then check if your problem is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -120,8 +117,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +124,17 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-mastering-iphones-simple-recording-features-quickly/"><u>[Updated] In 2024, Mastering iPhone's Simple Recording Features Quickly</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-meizu-21-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Meizu 21 Pro Phone When You Forget the Password</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-windows-error-when-sound-output-device-is-not-detected-or-plugged-in/"><u>How to Resolve Windows Error When Sound Output Device Is Not Detected or Plugged In</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/modern-solutions-for-non-working-rust-mics-a-step-by-step-2024-manual/"><u>Modern Solutions for Non-Working Rust Mics: A Step-by-Step 2024 Manual</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-sonic-hurdles-solving-resident-evil-villages-audio-issues/"><u>Overcoming Sonic Hurdles: Solving Resident Evil Village's Audio Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-mpow-mic-connectivity-issues-a-comprehensive-windows-fix-guide/"><u>Resolving MPOW Mic Connectivity Issues: A Comprehensive Windows Fix Guide</u></a></li>
+<li><a href="https://fox-making.techidaily.com/solve-memory-troubleshooting-for-windows-pc-systems-expert-advice-from-yl-computer-experts/"><u>Solve Memory Troubleshooting for Windows PC Systems - Expert Advice From YL Computer Experts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-path-to-polished-projects-utilizing-fades-effectively/"><u>The Path to Polished Projects Utilizing Fades Effectively</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/urgent-fix-for-windows-xp-users-resolving-haldll-file-errors-effectively/"><u>Urgent Fix for Windows XP Users: Resolving hal.dll File Errors Effectively</u></a></li>
+</ul></div>
 

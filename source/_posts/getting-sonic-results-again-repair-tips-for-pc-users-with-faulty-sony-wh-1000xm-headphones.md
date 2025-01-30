@@ -1,7 +1,7 @@
 ---
 title: "Getting Sonic Results Again: Repair Tips for PC Users with Faulty Sony WH-1000XM Headphones"
-date: 2024-08-13T10:47:34.606Z
-updated: 2024-08-14T10:47:34.606Z
+date: 2025-01-26T06:05:34.301Z
+updated: 2025-01-30T04:28:09.724Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
 
 Having a headphone crackling problem? You’re certainly not alone. But don’t worry, it can be quite easy to fix…
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4 fixes for Headphones Crackling
 
  Here are 4 fixes that have helped other users resolve their**Windows 10** /**8** **.1/7** **sound crackling in headphones** issue.  
@@ -33,8 +30,9 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Check for hardware issues
 
 1. Try the headphone on other devices and see if it works.
@@ -50,23 +48,18 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 2: Disable Exclusive Mode and change the sound format**
 
  Having **Exclusive Mode**   on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the **crackling or popping sound** in headphone  problem. To disable **Exclusive Mode** :
 
  1) On the bottom right of your screen, right-click on**the sound icon** , then click**Sounds** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/12sound.png)
 
  2) In the**Playback** tab, right-click on**speakers** and click **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 
  3) Click the**Advanced** tab, un-check **the box** before **Allow applications to take exclusive control of this device** . Then click **Apply** \> **OK** .
@@ -95,15 +88,16 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/IntelR-Display-Audio.jpg)
 4. Restart your computer, play some audio through your headphone to see if this nasty crackling noise has been resolved. If yes, then great! If it’s still happening, move on to **Fix 4**  , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Adjust **the minimum processor state**
 
@@ -112,14 +106,20 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Depending on the build of your Windows, you might also see **On battery** and **Plugged in**  in **Setting (%)** . Change both values to **100** and click **OK** .
 
@@ -139,8 +139,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +146,20 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-deciphering-your-pathway-to-youtubes-maker-land/"><u>[Updated] In 2024, Deciphering Your Pathway to YouTube's Maker Land</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-discreetly-discovering-stories-with-these-apps/"><u>[Updated] In 2024, Discreetly Discovering Stories with These Apps</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-editing-essentials-embark-on-your-lunapic-adventure/"><u>[Updated] In 2024, Editing Essentials Embark on Your LunaPic Adventure</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-elevate-your-video-presentations-with-top-30-free-intra-makers/"><u>[Updated] In 2024, Elevate Your Video Presentations with Top 30 Free Intra Makers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1716068870923-updated-in-2024-mastering-movie-capture-pc-mac-and-mobile-devices/"><u>[Updated] In 2024, Mastering Movie Capture PC, Mac & Mobile Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-fixing-malfunctioning-computer-sound-hardware/"><u>Expert Tips on Fixing Malfunctioning Computer Sound Hardware</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-with-lucidsound-ls30-microphone-troubleshooting-steps/"><u>Fixing Issues with LucidSound LS30 Microphone: Troubleshooting Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gym-enhancements-with-top-7-intelligent-plugins/"><u>Gym Enhancements with Top 7 Intelligent Plugins</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-solve-playback-failed-audio-issues-in-no-time/"><u>Troubleshoot & Solve Playback Failed Audio Issues in No Time</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-tozo-t6-compatibility-in-windows-11/"><u>Troubleshooting Guide: Resolving Issues with Tozo T6 Compatibility in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tutorial-guide-to-fade-out-music-in-premiere-pro-for-2024/"><u>Tutorial Guide To Fade Out Music In Premiere Pro for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/two-system-sync-fixes-remedying-the-absence-of-audio-on-your-dual-computer-setup/"><u>Two-System Sync Fixes: Remedying the Absence of Audio on Your Dual Computer Setup</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/verschieben-des-betriebssystems-auf-eine-neue-festplatte-professionelle-anleitung/"><u>Verschieben Des Betriebssystems Auf Eine Neue Festplatte – Professionelle Anleitung</u></a></li>
+</ul></div>
 

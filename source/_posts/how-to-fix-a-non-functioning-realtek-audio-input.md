@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Non-Functioning Realtek Audio Input
-date: 2024-08-13T10:48:46.047Z
-updated: 2024-08-14T10:48:46.047Z
+date: 2025-01-28T23:40:23.895Z
+updated: 2025-01-30T07:37:37.220Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ thumbnail: https://thmb.techidaily.com/0fffdaf6b0345d8277ec9fafebd3429c28f703cd8
  Find your**mic not working** in**CS:GO** ? Surely this is one of the most depressing moments when you lose audio in an intense battle, especially with so many enemies lurking around and teammates waiting for your response. In this post, you’ll be shown a few simple but useful methods that help tackle your mic-not-working issue. Read and check out…
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to fix CS:GO mic not working
 
  Here are 9 fixes that prove to be useful to many players. You don’t have to try all of them; simply work from the top down until you find the one that works.
@@ -41,86 +42,63 @@ thumbnail: https://thmb.techidaily.com/0fffdaf6b0345d8277ec9fafebd3429c28f703cd8
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1: Set your microphone as default device
 
  It is best practice to set your microphone as the default device when you come across the mic-not-working issue. To do so, you need to perform the following procedure:
 
 1. At the bottom right corner of your computer screen – namely the notification area – you’ll find the**volume icon** . Right-click on it and select**Sound settings** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/win-11-right-click-on-sound.jpg)
 2. Scroll down and click on**More sound settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/win-11-sound-settings.jpg)
 3. Select the**Recording** tab. Right-click on the device that you’re currently using and then select**Set as Default Device** from its context menu.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-334.png)
 4. Click to highlight your default microphone and then click**Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-346.png)
 5. On the**Levels** tab, drag the sliders of**Microphone** and**Microphone Boost** to turn up the volume. Just make sure you haven’t muted them or set them to such low levels that you cannot hear the voice yourself. After that, click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-393.png)
 6. You may do a voice test by speaking into your mic. If the recording device is working properly, you should witness a rise in the green bar as you talk.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/img_5baf47cf4729b.jpg)
 7. Right-click on other recording devices and select**Disable** to turn them off temporarily. If you’d like to turn them on after playing CS:GO, simply repeat this step and select**Enable** .  
 
  Also, if you have other output devices, go to the**Playback** tab and disable them (except the one in use) in the same way as you did on the**Recording** tab.
 8. After everything’s done, click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-335.png)
 
  Now it’s time to launch CS:GO and see whether your mic is working properly. If not, please proceed to the next fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Disable exclusive control for your microphone
 
  If the above sound setting modifications don’t help to restore your CS:GO mic, you can try to disable the Allowing executive control of microphone feature, as it’s proven to be effective by some community gamers. To do so:
 
 1. At the bottom right corner of your computer screen – namely the notification area – you’ll find the**volume icon** . Right-click on it and select**Sound settings** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/win-11-right-click-on-sound.jpg)
 2. Scroll down and click on**More sound settings** .  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/win-11-sound-settings.jpg)
 3. Select the**Recording** tab. Right-click on the device that you’re currently using and then select**Set as Default Device** from its context menu.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-334.png)
 4. Click to highlight your default microphone and then click**Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-346.png)
 5. Go to**Advanced** , and untick the box for**Allow applications to take exclusive control of this device** . After that, click**OK** to save the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-36.png)
 6. Click**OK** to save the change.
 
@@ -133,9 +111,6 @@ thumbnail: https://thmb.techidaily.com/0fffdaf6b0345d8277ec9fafebd3429c28f703cd8
  Make sure you haven’t turned off any options related to microphone in CS:GO. Usually there won’t be any problems with your default audio settings. That said, you should still check the in-game settings, just in case.
 
 1. Launch CS:GO and click the gear icon in the left pane.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/image-338.png)
 2. Go to the**Audio Settings** tab and select**Audio** below. Then, pay attention to the related audio settings and make certain they are**turned on** or set to the correct state.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-339.png)
@@ -148,9 +123,6 @@ thumbnail: https://thmb.techidaily.com/0fffdaf6b0345d8277ec9fafebd3429c28f703cd8
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Update device drivers
 
  Sometimes an outdated, corrupt or incompatible driver may trigger the mic-not-working issue. If that’s the root cause, you should try to update not only the audio drivers but also drivers for other motherboard devices like chipsets.
@@ -166,9 +138,6 @@ thumbnail: https://thmb.techidaily.com/0fffdaf6b0345d8277ec9fafebd3429c28f703cd8
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. Restart your computer for the changes to take effect.
 
@@ -200,13 +169,19 @@ thumbnail: https://thmb.techidaily.com/0fffdaf6b0345d8277ec9fafebd3429c28f703cd8
  Chances are your Windows Audio service is running into glitches that prevent the mic from working normally. In this case you should restart the service and see if that gets your mic back on track.
 
 1. On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5ae0331bc08e4-2.png) and **R** at the same time to invoke the Run box. Type**services.msc** and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-363.png)
 2. In the pop-up window, scroll through the list of services to locate**Windows Audio** . Click to highlight this item and click**Restart** in the left pane.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/img_5baf52397a39c.jpg)
 3. Wait for the process to complete and then exit the window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If this fix didn’t help, you might try out the next one.
 
@@ -218,11 +193,20 @@ If this fix didn’t help, you might try out the next one.
 
 1. On your keyboard, press the**Windows Logo key** ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5ae0331bc08e4-2.png) and**I** at the same time to open the**Settings** window. Then, select**Privacy** and**Microphone** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/win-11-settings-privacy-microphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Check if the Microphone access button is Off. If so, simply turn it**On** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/win-11-settings-privacy-microphone-access.jpg)
 3. Below you’ll see another toggle for**Let apps access your microphone** . Also turn it on if it’s been set to**Off** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/win-11-settings-privacy-microphone-access-1.jpg)
 4. Scroll down and head to the part of**Choose which apps can access your microphone** . You won’t see Steam or CS:GO there but you can toggle on the apps related to your audio output. For instance, if you use Skype to communicate in games, make sure you turn its toggle on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After making these tweaks, check to see if your mic goes back to normal in CS:GO. If not, there’s still one last fix you may try.
 
@@ -233,9 +217,6 @@ If this fix didn’t help, you might try out the next one.
  You can use the command-line tool in CS:GO to enable the mic. Here’s how:
 
 1. Launch CS:GO. In the left pane, click the gear icon to open the **Settings** window. Then go to the **Game Settings > Game** tab. Scroll through the list below to locate **Enable Developer Console (\~)** and select **Yes** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-406.png)
 2. Exit the **Settings** window. Press the **\~**  key on your keyboard (the one above Tab) to invoke the command-line window in CS:GO.
 3. Type **voice\_enable 1** and click **Submit** .  
@@ -243,9 +224,6 @@ If this fix didn’t help, you might try out the next one.
 
 Test your mic in the game and see if it works properly now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## Fix 9: Repair corrupted system files
 
  Missing, corrupt, or damaged system files may be the culprit for this CSGO mic not working error. To eliminate this issue as a possible cause, you can try the 2 ways below to repair possible system file issues.
@@ -265,9 +243,6 @@ Here’s how to use Fortect to repair system files on your PC:
 1. [Download](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
 2. Fire up Fortect and run a free scan.
 3. Once finished, Fortect will generate a detailed report of your computer health, which includes all issues detected.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 4. To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 5. Restart your computer for the changes to take effect.
@@ -275,27 +250,20 @@ Here’s how to use Fortect to repair system files on your PC:
 
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact[](https://tools.techidaily.com/drivereasy/download/) the[Fortect support team](https://www.fortect.com/support/) .
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Run SFC scan
 
 **System File Checker** (**SFC** ) is a handy feature in Windows that helps scan your system files and repair missing or corrupted system files(including those related to **BSOD** ). To **run the SFC scan** :
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. On your keyboard, press the **Windows Logo key** ![](https://images.drivereasy.com/wp-content/uploads/2023/10/windows-logo.png) , type in**command prompt** , and select **Run as administrator.** (If Windows prompts for permission, click **OK** to continue.)  
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-admin-1.jpg)
 2. Type in **SFC /Scannow** , and then press **Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![win 11 command prompt to run sfc 1](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-1.jpg)
 3. It’ll take some time for the SFC to repair the corrupted system files if it detects any.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-3.png)
 4. When the process is completed, reboot your computer and test if the issue still exists.
 
@@ -314,8 +282,6 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -323,4 +289,24 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-optimizing-your-chromebooks-zoom-capabilities/"><u>[New] In 2024, Optimizing Your Chromebook's Zoom Capabilities</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-cutting-edge-iphone-techniques-for-slow-motion/"><u>[Updated] 2024 Approved Cutting Edge iPhone Techniques for Slow Motion</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pivoting-from-srt-to-subtitle-format/"><u>2024 Approved Pivoting From SRT to Subtitle Format</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017031594-dota-groop-2-mic-not-working-heres-the-ultimate-solution/"><u>Dota Groop 2 Mic Not Working? Here's the Ultimate Solution!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-motorola-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Motorola Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-logitech-brio-webcam-drivers-available-for-windows-1187-users/"><u>Latest Logitech Brio Webcam Drivers Available for Windows 11/8/7 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-audio-playback-for-anthem-a-guide-for-gamers-using-windows-11/"><u>Restore Audio Playback for Anthem - A Guide for Gamers Using Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-no-output-device-is-installed-error-for-speakers-and-headphones-on-windows-versions-11-8-7/"><u>Solving 'No Output Device Is Installed' Error for Speakers and Headphones on Windows Versions (11, 8, 7)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-common-problems-with-all-your-g2000-mikes-on-kotion-systems/"><u>Solving Common Problems with All Your G2000 Mikes on Kotion Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/the-comprehensive-guide-to-top-ranked-educational-software-for-aspiring-editors/"><u>The Comprehensive Guide to Top-Ranked Educational Software for Aspiring Editors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-fix-for-the-persistent-crackle-solving-sound-distortion-problems-with-your-arctis-7-and-windows-computer/"><u>The Ultimate Fix for the Persistent Crackle: Solving Sound Distortion Problems with Your Arctis 7 and Windows Computer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-rated-blu-ray-writing-tools-how-to-burn-your-favorite-videos-onto-a-blu-ray-disk/"><u>Top Rated Blu-Ray Writing Tools: How To Burn Your Favorite Videos Onto a Blu-Ray Disk</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-your-fortnite-audio-issues-today-a-comprehensive-tutorial/"><u>Troubleshoot & Repair Your Fortnite Audio Issues Today - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-persistent-buzzing-in-your-audio-headphones-expert-tips-and-tricks/"><u>Troubleshooting Persistent Buzzing in Your Audio Headphones - Expert Tips & Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015189061-troubleshooting-stuttering-sounds-on-windows-systems-windows-107-effective-fixes-inside/"><u>Troubleshooting Stuttering Sounds on Windows Systems (Windows 10/7) – Effective Fixes Inside</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/wasteland-2-directors-cut-review-an-engrossing-adventure-in-turn-based-strategy/"><u>Wasteland 2 Director's Cut Review: An Engrossing Adventure in Turn-Based Strategy</u></a></li>
+</ul></div>
 

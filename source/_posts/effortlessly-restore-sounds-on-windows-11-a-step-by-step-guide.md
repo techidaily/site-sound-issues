@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Restore Sounds on Windows 11 – A Step-by-Step Guide
-date: 2024-08-13T10:46:06.470Z
-updated: 2024-08-14T10:46:06.470Z
+date: 2025-01-24T19:32:16.874Z
+updated: 2025-01-30T07:59:19.596Z
 tags:
   - win11
   - win10
@@ -23,9 +23,6 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
  When the above check is done, and you find the problem on your computer, please move on.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## Step 2, make sure the connection between your speakers and computer is good
 
  If the speakers work properly on a second device, make sure that the connection between your speakers and your computer is intact.
@@ -46,50 +43,56 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 2. Type control panel and click**OK** . This is to open Control Panel window.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a379fb55982a.png)
 3. In Control Panel, view by Category, click **Hardware and Sound** .  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a37a0193f08b.jpg)
 4. Under **Sound** , click **Adjust system volume** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-24.png)
 5. If the sound is unmuted, move to the next step.
 6. Try to move the slider up to increase the volume.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/volume-mixer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the problem still cannot be resolved, try solutions below. Sound setting issues or driver issues may also cause this problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Set Speakers as Default
 
  Your speakers won’t work if it’s not set as the default output. To resolve the problem, you can set the speaker as default. To do so:
 
 1. Right-click the speaker icon at the bottom right corner of the desktop and click on**Playback devices** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b11f3def8f1.png)
 2. Highlight**Speakers** or**Speakers /Headphones** and click**Set Default** .  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/set-as-default.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you don’t see the speakers in the device list, it may be disabled. In this case, right-click on the blank area and select**Show disabled devices** on the context menu.
 
 ![show disabled device](https://images.drivereasy.com/wp-content/uploads/2016/08/show-disabled-device.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After it is listed, right-click on the speakers and click**Enable** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![enable speakers](https://images.drivereasy.com/wp-content/uploads/2016/08/enable-speakers.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The problem also can be caused by outdated or missing audio drivers. So try to fix audio drivers.
 
@@ -99,19 +102,15 @@ Follow these steps:
 
 1. Press the**Windows logo** key and**R** key at the same time. A Run dialog box will appear.
 2. Type **devmgmt.msc** in the run box and click**OK** button. This is to open Device Manager Window.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57354ce2ad87d.png)
 3. In Device Manager, double-click**Sound, video and game controllers** and right-click your sound card. A context menu will pop up. Then select**Uninstall** .  
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
 4. Tick the box for**Delete the driver software for this device** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
 5. Reboot your PC and check to see if the problem is resolved.
 
@@ -123,10 +122,6 @@ Follow these steps:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and**install** Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -143,8 +138,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +145,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-innovative-approaches-to-keeping-your-snaps-connected/"><u>[Updated] 2024 Approved Innovative Approaches to Keeping Your Snaps Connected</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-seamless-sonic-connector-a-casters-companion/"><u>[Updated] Seamless Sonic Connector A Caster's Companion</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-edge-no-8-online-photomontage-toolkit/"><u>2024 Approved Leading Edge No. 8 Online Photomontage Toolkit</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-nubia-z50s-pro-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Nubia Z50S Pro Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functional-mic-on-your-oculus-quest-2/"><u>How to Fix a Non-Functional Mic on Your Oculus Quest 2</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-overwatchs-voice-chat-working-again/"><u>How to Get Overwatch's Voice Chat Working Again</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/how-to-use-gopro-hero5-black-tips-for-shooting-great-photos-and-videos/"><u>How to Use GoPro Hero5 Black Tips for Shooting Great Photos and Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopros-battle-royale-hero5-b-stacked-against-session/"><u>In 2024, GoPro's Battle Royale Hero5 B Stacked Against Session</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/minecrafts-latest-adventure-gear-the-in-depth-guide-to-the-campfire-tales-skin-collection/"><u>Minecraft's Latest Adventure Gear: The In-Depth Guide to the Campfire Tales Skin Collection</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/onikuma-microphone-malfunction-troubleshooting-solutions-revealed/"><u>Onikuma Microphone Malfunction - Troubleshooting Solutions Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-microphone-malfunctions-during-zoom-calls-on-microsofts-latest-os-versions/"><u>Overcoming Microphone Malfunctions During Zoom Calls on Microsoft's Latest OS Versions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-gaming-experience-with-noise-fixes-for-modern-titles/"><u>Resolve Your Gaming Experience with Noise Fixes for Modern Titles</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-windows-issues-when-your-plugged-in-speakers-wont-produce-any-audio/"><u>Resolving Windows Issues: When Your Plugged-In Speakers Won’t Produce Any Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-sounds-in-cyberpunk-2077-troubleshooting-no-sound-problems-on-windows-10-pcs/"><u>Restoring Sounds in Cyberpunk 2077: Troubleshooting No Sound Problems on Windows 10 PCs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/windows-10web-free13/"><u>Windows 10互換の最適な無料Webカメラ製品リスト - FREEソフトウェアベスト13</u></a></li>
+</ul></div>
 

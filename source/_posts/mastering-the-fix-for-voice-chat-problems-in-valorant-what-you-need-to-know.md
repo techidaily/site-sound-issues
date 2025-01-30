@@ -1,7 +1,7 @@
 ---
 title: Mastering the Fix for Voice Chat Problems in Valorant - What You Need to Know
-date: 2024-08-13T10:49:03.598Z
-updated: 2024-08-14T10:49:03.598Z
+date: 2025-01-24T18:12:20.128Z
+updated: 2025-01-29T18:36:13.003Z
 tags:
   - win11
   - win10
@@ -22,9 +22,6 @@ But first, ensure that your device has been connected and set correctly.
  You may plug your audio playback devices (e.g. headphones) in your computer and wear them to play Anthem. Unplugged your devices and plugged them back in, may give you the sound.  
  But even if this method works, it may work once, can’t last long. To solve the issue permanently, you can move down to check other fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  The “Anthem no sound” issue can be caused by several reasons: hardware; software; driver; incorrect settings or the game itself.
@@ -36,10 +33,6 @@ But first, ensure that your device has been connected and set correctly.
 5. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Restart the game**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### Fix 1: Set your device as Default
 
  If you have multiple output devices (more than two), you’d better set the headset as default. It probably the reason for “Anthem no sound” error.
@@ -48,26 +41,30 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 2. Click**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the Playback tab, select your device and click**Set Default** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/mi.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Go back to the Anthem and check it has sound or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run audio troubleshooting
 
  Windows 10 has a built-in troubleshooter to diagnose and automatically fix common problems. There are many troubleshooters for different problems. For the “Anthem no sound” error, you can run the audio troubleshooter to resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 1. Press the **Windows logo key**  \+ **R** to open the Run box. Type “ms-settings: troubleshoot” and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/troubleshoot.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Click **Playing Audio** . Then click **Run the troubleshooter** . Wait for the investigation complete. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/10-1.jpg)
 3. Follow the on-screen instructions to finish the process.
 4. Restart your computer and check whether Anthem has sound or not.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Set the Default Format in the lowest mode
 
  Excessive sound quality requirements may cause too much load on the game and lead to the “Anthem no sound” issue. So adjust the Sound default format into the lowest mode may help you solve the issue.
@@ -79,6 +76,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 4. Click the **Advanced** tab, select the lowest setting on the Default Format drop-down menu. Then click **OK** . Back to the Sound window, click **Apply** \> **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/12.jpg)
 5. Reboot your computer and check whether Anthem has sound or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Uncheck “Disable all sound effects”
 
  To solve the issue, you can try changing the sound settings. Uncheck “Disable all sound effect” has been proven effective by many users in audio issues.
@@ -86,17 +87,15 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 1. In the right-bottom toolbar, right-click on the volume icon.
 2. Click **Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 3. In the **Playback** tab, choose the device you’re using and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
 4. In the **Enhancements** tab, uncheck “**Disable all sound effects** “. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
 5. Click **Apply > OK** .
 6. Reboot your computer and go back to the game, you should have audio now.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Update your audio driver
 
  One reason for many computer errors is outdated drivers for your hardware devices. You should verify that your devices have the right and latest drivers, and update those that don’t.
@@ -109,17 +108,20 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver.jpg)
 3. Click the **Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
- Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver1.jpg)
 4. Restart your computer and check the Anthem has sound or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Restart the game
 
@@ -139,8 +141,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +148,26 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-tech-triad-analysis-unraveling-the-vr-ar-mr-tapestry/"><u>[New] Tech Triad Analysis Unraveling the VR-AR-MR Tapestry</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-experts-pick-essential-plugins-to-elevate-your-ae-projects/"><u>[Updated] Expert's Pick Essential Plugins to Elevate Your AE Projects</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagram-to-facebook-in-a-flash-easy-connection-methods/"><u>[Updated] In 2024, Instagram to Facebook in a Flash Easy Connection Methods</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-stepping-into-the-spotlight-joining-tiktok-sessions-for-2024/"><u>[Updated] Stepping Into the Spotlight Joining TikTok Sessions for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-polka-dotted-parakeet-party/"><u>2024 Approved Polka-Dotted Parakeet Party</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-snippet-analysis-for-beginners/"><u>Brief Snippet Analysis for Beginners</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-to-solving-realtek-hd-audio-player-startup-problems/"><u>Comprehensive Guide to Solving Realtek HD Audio Player Startup Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-mute-problems-how-to-restore-sound-on-windows-11-pcs/"><u>Cyberpunk 2077 Mute Problems: How to Restore Sound on Windows 11 PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862831524-gamers-rejoice-attain-exceptional-visual-clarity-and-smooth-gameplay-on-the-innocn-27g1s-plus-monitor-for-just-a-bargain-price-of-199/"><u>Gamers Rejoice: Attain Exceptional Visual Clarity and Smooth Gameplay on the Innocn 27G1S Plus Monitor for Just a Bargain Price of $199</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-restoring-audio-input-functionality-in-airpods-when-using-windows-11-operating-system/"><u>Guide to Restoring Audio Input Functionality in Airpods when Using Windows 11 Operating System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-address-the-issue-of-connected-speaker-with-no-output-in-windows-environment/"><u>How to Address the Issue of Connected Speaker with No Output in Windows Environment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-hyperx-cloud-stingers-unresponsive-mic-step-by-step-solutions/"><u>How to Repair Your HyperX Cloud Stinger's Unresponsive Mic – Step by Step Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-honor-80-pro-straight-screen-edition-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Honor 80 Pro Straight Screen Edition by Name | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-asus-rog-gt-ac5300-evaluation-a-dream-for-gamers-and-tech-professionals/"><u>In-Depth Asus ROG GT-AC5300 Evaluation: A Dream for Gamers & Tech Professionals</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-hdmi-speaker-functionality-solutions-for-windows-7-users/"><u>Reviving HDMI Speaker Functionality: Solutions for Windows 7 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-playback-problems-with-windows-11-sound-devices-easy-steps-to-follow/"><u>Solving Playback Problems with Windows 11 Sound Devices - Easy Steps to Follow</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-6-retailers-where-you-can-find-the-perfect-laptop/"><u>Top 6 Retailers Where You Can Find the Perfect Laptop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016534846-trouble-with-your-oculus-quest-2s-mic-heres-how-you-can-fix-it/"><u>Trouble with Your Oculus Quest 2'S Mic? Here's How You Can Fix It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-speaker-problems-on-your-pc-running-windows-10/"><u>Troubleshooting Speaker Problems on Your PC Running Windows 10</u></a></li>
+</ul></div>
 

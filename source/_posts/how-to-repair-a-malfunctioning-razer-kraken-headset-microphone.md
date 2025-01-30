@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Malfunctioning Razer Kraken Headset Microphone
-date: 2025-01-15T19:08:47.083Z
-updated: 2025-01-22T21:00:00.545Z
+date: 2025-01-24T04:25:10.303Z
+updated: 2025-01-30T02:37:33.341Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. [**Make sure you use the right ports**](https://tools.techidaily.com/drivereasy/download/)
@@ -34,6 +30,10 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 4. [**Change to DVD quality**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Let Windows find the problem for you**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Make sure you use the right ports
 
  You can connect your Virtuoso headset using the Slipstream Wireless dongle, a 3.5mm jack, or a USB connection. No matter what wired connection you use, you should first make sure you’re utilizing the correct port.
@@ -41,7 +41,7 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
  Then, ensure the detachable microphone is firmly plugged in and check if the RGB LED ring indicates the live status (green).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Set Virtuoso as the default recording device
@@ -55,15 +55,19 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
 3. Right-click your**Corsair Virtuoso** and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
 4. Go to the**Levels** tab and drag the slider to a proper volume.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 5. Click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you can test your microphone by recording your own voice using some voice apps such as Voice Recorder. If the Virtuoso mic works now, you can just join a league and enjoy talking with your teammates. But if the Corsaire mic is still not working, you can try the next fix below.
 
@@ -87,10 +91,6 @@ There are mainly two ways for you to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/gaming-headset.jpg)
 4. Reboot your PC for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance or the issue persists after updating all the drivers, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -109,14 +109,14 @@ There are mainly two ways for you to do this:
 4. Go to the**Advanced** tab, and select**DVD Quality** in the**Default Format** section. ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-format.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Let Windows find the problem for you
 
@@ -151,20 +151,22 @@ There are mainly two ways for you to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-master-the-momentum-sending-viral-videos-soaring/"><u>[New] 2024 Approved Master the Momentum Sending Viral Videos Soaring</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-expand-audiences-quickly-using-short-form-content-for-2024/"><u>[New] Expand Audiences Quickly Using Short Form Content for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/he-playlist-pivot-new-order-strategies-for-youtube-for-2024/"><u>[New] The Playlist Pivot New Order Strategies for YouTube for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-6-hidden-sources-for-custom-youtube-symbols-for-2024/"><u>[Updated] Unlocking 6 Hidden Sources for Custom YouTube Symbols for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-capturing-heights-a-deep-dive-into-gopro-karma/"><u>2024 Approved Capturing Heights A Deep Dive Into GoPro Karma</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/find-anything-you-want-to-know-about-instagram-video-limit/"><u>Find Anything You Want to Know About Instagram Video Limit</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-dota-2-microphone-issues-a-comprehensive-guide/"><u>Fixing Dota 2 Microphone Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-windows-7-hdmi-audio-issues-a-comprehensive-guide/"><u>Fixing Windows 7 HDMI Audio Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-play-fortnite-on-pc-easy-guide-for-beginners/"><u>How to Play Fortnite on PC — Easy Guide for Beginners!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-windows-11-compatibility-solving-airpods-microphone-problems/"><u>How to Repair Windows 11 Compatibility: Solving AirPods Microphone Problems</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-c210-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Nokia C210 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-problem-of-failed-steam-updates-a-step-by-step-guide/"><u>Resolving the Problem of Failed Steam Updates – A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-common-problems-fixing-pubg-voice-chat-malfunctions/"><u>Troubleshooting Common Problems: Fixing PubG Voice Chat Malfunctions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-windows-10-audio-issues-solved/"><u>Troubleshooting Guide: Fixing Windows 10 Audio Issues - Solved!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unlock-your-windows-scanner-a-practical-approach/"><u>Unlock Your Windows Scanner: A Practical Approach</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-summit-of-synergy-for-vr-sensations/"><u>[New] Summit of Synergy for VR Sensations</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-tv-disable-guide/"><u>[Updated] Instagram TV Disable Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015698223-cant-get-your-blue-yeti-to-work-here-are-some-quick-fixes/"><u>Can't Get Your Blue Yeti to Work? Here Are Some Quick Fixes!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-6-dietary-management-tools-in-app-form/"><u>Discover the Ultimate 6 Dietary Management Tools in App Form</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-oneplus-ace-2-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your OnePlus Ace 2 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/latin-playfully-unlocked-through-education/"><u>Latin Playfully Unlocked Through Education</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/navigating-and-repairing-sound-malfunctions-on-new-operating-systems/"><u>Navigating and Repairing Sound Malfunctions on New Operating Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-sound-in-apex-legends-troubleshooting-steps-to-restore-audio/"><u>No Sound in Apex Legends? Troubleshooting Steps to Restore Audio</u></a></li>
+<li><a href="https://win-online.techidaily.com/raid3/"><u>RAIDシステムから貴重な情報を取り戻す方法:皆が選ぶトップ3復旧ソフトに挑戦してみませんか？</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-the-soundscape-of-windows-11-comprehensive-solutions-for-fixing-audio-problems/"><u>Reviving the Soundscape of Windows 11: Comprehensive Solutions for Fixing Audio Problems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ideal-selection-of-accessories-to-maximize-your-iphone-experience/"><u>The Ideal Selection of Accessories to Maximize Your iPhone Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/this-device-cannot-start-code-10-error-solved/"><u>This Device Cannot Start Code 10 Error [Solved]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-restored-audio-capabilities-in-firefox/"><u>Troubleshooting Complete: Restored Audio Capabilities in Firefox</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-restore-your-fortnite-micspeaker-functionality-asap/"><u>Troubleshooting Guide: How to Restore Your Fortnite Mic/Speaker Functionality ASAP</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-solving-non-functional-microphone-issues-on-the-steelseries-arctis-7/"><u>Troubleshooting Tips: Solving Non-Functional Microphone Issues on the SteelSeries Arctis 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016513087-troubleshooting-why-isnt-my-mic-working-solutions-inside/"><u>Troubleshooting: Why Isn't My Mic Working? Solutions Inside</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-steps-to-refresh-your-chromecast-device/"><u>Ultimate Guide: Steps to Refresh Your Chromecast Device</u></a></li>
 </ul></div>
 

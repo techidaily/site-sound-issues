@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Sound Problems in Toshiba Portable Computers
-date: 2025-01-18T16:26:39.332Z
-updated: 2025-01-22T19:32:31.844Z
+date: 2025-01-23T06:25:08.185Z
+updated: 2025-01-30T01:38:01.268Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 1: Check your microphone settings**
 
 This issue may occur if your Logitech G230 is not set as the default device, or if it is disabled on your PC. In this case, you can follow the instructions below to check your microphone settings on your PC:
@@ -47,22 +43,30 @@ This issue may occur if your Logitech G230 is not set as the default device, or 
 2. **View Control Panel by Category** . Then click**Hardware and Sound** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000093.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click**Sound** to continue.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000094.png)
 4. Click the **Recording**  tab, then**right-click** on any empty place inside the device list and tick **Show Disabled Devices** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap892.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Right-click the**Headset Microphone** and click **Enable** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap893-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Select the microphone you’re using and click **Set Default** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 
 7. While still in the **Recording** tab, try **speaking into your microphone**  to test if it works properly. If it is, you should see some green in the bar on the right:![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
 8. Click **OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 See if your Logitech G230 mic works. If not, try the next fix, below.
 
@@ -74,14 +78,10 @@ If you don’t allow Windows 10 and applications to access your microphone, you 
 2. Click**Microphone** on the left panel. On the right,**if** **microphone access for this device is off** , click**Change** **to** **turn it on** . You should also all apps to access your microphone. If it is turned off, turn it on.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000088.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Check if your Logitech G230 mic works. If not, try the next fix below to update your audio driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 3: Update your audio driver**
 
@@ -102,11 +102,11 @@ An outdated or corrupted audio driver can also be the root of this issue. To fix
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap0029-1.png)  
  You can do it for free if you like, but it’s partly manual.  
 
- If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ### **Fix 4: Troubleshoot hardware issues**
 
@@ -135,20 +135,14 @@ Hopefully one of the fixes above resolved this issue for you. If you have any qu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-twitters-guide-posting-tiktok-videos/"><u>[New] 2024 Approved Twitter's Guide Posting TikTok Videos</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-the-ultimate-guide-to-winning-with-facebook-videos/"><u>[New] The Ultimate Guide to Winning with Facebook Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-win-audio-experience/"><u>[Updated] Exclusive Win Audio Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/a-simple-way-to-disengage-sound-effects-in-your-pc-running-windows-10/"><u>A Simple Way to Disengage Sound Effects in Your PC Running Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/astro-a10-microphone-not-working-discover-easy-fixes-here/"><u>Astro A10 Microphone Not Working? Discover Easy Fixes Here!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016210604-battlefield-4-sound-problem-heres-the-ultimate-guide-to-fixing-it/"><u>Battlefield 4 Sound Problem? Here's the Ultimate Guide to Fixing It!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/beat-the-buffering-clearing-up-netflixs-nw-1-19-issue/"><u>Beat the Buffering: Clearing Up Netflix's 'NW-1-19' Issue</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015474312-bosses/"><u>Bosses</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/collective-virtual-fun-in-the-metaverse/"><u>Collective Virtual Fun in the Metaverse</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-your-logitech-g9-33-mic-no-sound-solutions/"><u>Diagnosing and Repairing Your Logitech G9 33 Mic – No Sound Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/dolby-digital-woes-on-windows-11-heres-how-to-successfully-restart-and-fix-the-audio-driver-glitch/"><u>Dolby Digital Woes on Windows 11? Here's How to Successfully Restart and Fix the Audio Driver Glitch</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016189913-fast-track-mic-diagnostics-a-step-by-step-guide-to-easy-microphone-testing/"><u>Fast-Track Mic Diagnostics: A Step-by-Step Guide to Easy Microphone Testing!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-tvplus-on-iphone-13-pro-max-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple TV+ on iPhone 13 Pro Max</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-the-power-of-luts-in-adobes-creative-suite/"><u>In 2024, Harnessing the Power of LUTs in Adobe's Creative Suite</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-v30-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-mastering-jujutsu-kaisen-challenges-for-tiktok-for-2024/"><u>[New] Mastering Jujutsu Kaisen Challenges for TikTok for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-smooth-volume-reduction-a-system-friendly-approach-for-2024/"><u>[Updated] Smooth Volume Reduction A System-Friendly Approach for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-leveraging-youtubes-adsense-for-maximum-profits/"><u>2024 Approved Leveraging YouTube's AdSense for Maximum Profits</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-microphone-malfunctions-heres-how-to-repair-and-restore-functionality/"><u>Corsair Microphone Malfunctions? Here’s How to Repair and Restore Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-speakers-steps-to-reconnect-realtek-high-def-audio-devices/"><u>Fix Your Speakers! Steps to Reconnect Realtek High-Def Audio Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-logitech-g430-mic-a-step-by-step-guide-to-restoring-functionality/"><u>Fixing Your Logitech G430 Mic - A Step-by-Step Guide to Restoring Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-quiet-pcs-fast-fixes-to-bring-back-the-audio-on-any-device/"><u>No More Quiet PCs: Fast Fixes to Bring Back the Audio on Any Device</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/successful-setup-of-handbrake-software-on-latest-windows-versions/"><u>Successful Setup of HandBrake Software on Latest Windows Versions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-evolution-of-interactive-assistance-personalized-directives-in-ai/"><u>The Evolution of Interactive Assistance: Personalized Directives in AI</u></a></li>
 </ul></div>
 

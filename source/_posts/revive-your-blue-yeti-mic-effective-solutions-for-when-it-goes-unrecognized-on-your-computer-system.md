@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Blue Yeti Mic: Effective Solutions for When It Goes Unrecognized on Your Computer System"
-date: 2024-08-13T10:45:35.933Z
-updated: 2024-08-14T10:45:35.933Z
+date: 2025-01-29T00:09:41.301Z
+updated: 2025-01-29T22:07:31.079Z
 tags:
   - win11
   - win10
@@ -33,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 **Note** : Make sure that the volume icon at the bottom right is not mute or silent. If the icon is displayed with a red cross, it means that no volume on your computer and you should click the icon to unmute it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why is there no sound on my computer?
 
  The reasons why there is no sound on your computer normally are the hardware faculty, the wrong audio settings or the missing or outdated audio driver in your computer.
@@ -66,8 +67,9 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Check the audio settings on your computer
 
  If the hardware works properly after troubleshooting but still has no sound on your computer, you can check the audio settings on your computer.
@@ -82,9 +84,6 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 
  2) Make sure all the entries at not in the minimum level. In my case, I set Speakers, System Sounds and HyperSnap to 20.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-3.png)
 
 3) Now test and see if there is any sound from your computer.
@@ -111,14 +110,15 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 
  1) Right-click the**volume icon** at the bottom right corner, and click**Playback devices** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 
  2)**Select your audio device** in the Playback tab, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962c8cd39cb.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Advanced** . In**Default Format** , choose another different audio rate, then click the**Test** button. Then play music or audio to test.
 
@@ -131,8 +131,9 @@ If the issue persists, go to the next solution.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Reinstall your audio driver
 
  If your audio driver is corrupted or incompatible with Windows, you could have a sound problem as well. You can try uninstalling and reinstalling the audio driver to fix it.
@@ -147,6 +148,10 @@ If the issue persists, go to the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ec385bd3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) If you see a popup pane to confirm, check the box next to**Delete the driver software for this device** , then click **Uninstall**  to delete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ef431c66.png)
@@ -154,6 +159,10 @@ If the issue persists, go to the next solution.
  5) Restart your computer and Windows will automatically download and install the audio driver for you. After that, check the audio to see if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your audio driver
 
@@ -177,9 +186,6 @@ If the issue persists, go to the next solution.
 
  Or click**Update All** to automatically download and install all the latest correct drivers that are missing or outdated (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2dec588b55a.jpg)
 
 4) Restart your computer and check whether your problem is solved.
@@ -190,8 +196,9 @@ If the issue persists, go to the next solution.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Troubleshoot the sound issue
 
  To fix no sound on computers, you can try the troubleshooter in Windows to troubleshoot the sound issue and automatically fix it. To do so, follow the steps below:
@@ -200,24 +207,19 @@ If the issue persists, go to the next solution.
 
  2) Click**Troubleshooting** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af030d516ecb.jpg)
 
  3) In the**Hardware** **and** **Sound** section, click**Troubleshoot audio recording** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af031019f411.png)
 
  4) Make sure to check the box next to**Apply repairs automatically** , and click**Next** to start troubleshooting.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af0313d5958d.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Follow the on-screen wizard to continue and fix the no-sound issue on your computer.
 
@@ -226,13 +228,11 @@ If the issue persists, go to the next solution.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 6: Switch to ChromeOS
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
@@ -270,8 +270,6 @@ And that’s just the start of the benefits…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -279,4 +277,24 @@ And that’s just the start of the benefits…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-essential-instagram-repost-strategies/"><u>[New] Essential Instagram Repost Strategies</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-get-perfect-film-endings-for-your-projects-on-the-house-for-2024/"><u>[New] Get Perfect Film Endings for Your Projects - On the House for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-top-windows-cutting-tools-for-editors-and-vids/"><u>[Updated] Top Windows Cutting Tools for Editors & Vids</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-the-logitech-g430-mic-connection-problems/"><u>Diagnosing and Repairing the Logitech G430 Mic Connection Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-restoring-realtek-microphone-functionality/"><u>Diagnosing and Restoring Realtek Microphone Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repairs-how-to-restore-functionality-to-your-sound-blaster-mic/"><u>DIY Repairs: How to Restore Functionality to Your Sound Blaster Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-world-of-warcraft-voice-chat-failures-and-interruptions/"><u>Effective Fixes for World of Warcraft Voice Chat Failures and Interruptions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-dealing-with-hyperx-cloud-alpha-microphone-failures/"><u>Expert Advice: Dealing With HyperX Cloud Alpha Microphone Failures</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-why-isnt-my-razor-kraken-mic-working-and-how-to-solve-it/"><u>Expert Advice: Why Isn't My Razor Kraken Mic Working and How to Solve It!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-restore-and-improve-your-discord-voice-call-experience/"><u>Expert Tips to Restore and Improve Your Discord Voice Call Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-world-of-chatgpt-understanding-its-capabilities-and-uses/"><u>Exploring the World of ChatGPT: Understanding Its Capabilities and Uses</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-a-broken-fortnite-microphone-tips-and-solutions-for-players/"><u>Fixing a Broken Fortnite Microphone: Tips & Solutions for Players</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-optimal-sony-ps3-reproduction-tools-ranked-pc/"><u>In 2024, Optimal Sony PS3 Reproduction Tools Ranked (PC)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-sony-xperia-5-v-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Sony Xperia 5 V ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-itel-p40plus-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Itel P40+ Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-to-correct-ftd2xxdll-is-missing-error-on-your-computer/"><u>Steps to Correct 'ftd2xx.dll' Is Missing Error on Your Computer</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unlock-nonstop-powerful-bass-performance-with-the-ion-tailgater-plus-in-depth-review/"><u>Unlock Nonstop Powerful Bass Performance with the ION Tailgater Plus - In Depth Review</u></a></li>
+</ul></div>
 

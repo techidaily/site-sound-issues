@@ -1,7 +1,7 @@
 ---
 title: Solutions for When Your Corsair Virtuoso Microphone Won't Work
-date: 2025-01-20T19:32:08.832Z
-updated: 2025-01-22T21:26:43.340Z
+date: 2025-01-26T17:57:52.805Z
+updated: 2025-01-30T01:20:59.508Z
 tags:
   - win11
   - win10
@@ -32,16 +32,12 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 4. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Run Beyond The Wire as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Restart your game
 
  If your microphone accidentally disconnects during the play sessions, it may stop working until you restart the game completely. Make sure the microphone is securely connected and then restart Beyond The Wire to see if everything goes back to normal. If not, go ahead with the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Allow the game to access your microphone
@@ -53,6 +49,10 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 **2)** Click**Privacy** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Select**Microphone** on the left pane. Then, click the**Change** button, and make sure**Microphone access for this device** is turned**on** .
 
@@ -69,7 +69,7 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
  Test how the microphone works in Beyond The Wire. If the mic-not-working issue reoccurs, read on to more solutions below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Configure the sound settings correctly
@@ -79,10 +79,6 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box. Then, type**control** in the field and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Select**Small icons** under**View by** . Then, click**Sound** .
 
@@ -97,24 +93,28 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Click the microphone you’re using and click**Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-2-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)** Click the**Levels** tab. If your microphone is muted, click the**speaker icon** to unmute it. Then, drag the slider to**set the microphone volume to the max** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **7)** Click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-49.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now that you’ve set your desired microphone as the default device, disabled other microphones, and also turned up the volume to the max, it should be working fine when you’re playing Beyond The Wire. If not, check out the next fix below.
 
@@ -154,13 +154,13 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-1-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-2-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Launch your game again and the microphone should be transmitting your voice in the right way.
 
@@ -187,22 +187,20 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-tapping-into-trendy-partnerships-how-to-profit-from-your-passion-on-instagram-for-2024/"><u>[Updated] Tapping Into Trendy Partnerships How to Profit From Your Passion on Instagram for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-z2-play-revolution-a-smartphone-review-odyssey/"><u>2024 Approved Z2 Play Revolution A Smartphone Review Odyssey</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/besteingangssperre-beheben-sie-den-fehler-zugriff-auf-ordner-verweigert-unter-windows-10-mit-9-effektiven-losungen/"><u>Besteingangssperre: Beheben Sie Den Fehler 'Zugriff Auf Ordner Verweigert' Unter Windows 10 Mit 9 Effektiven Lösungen</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-latest-updates-canon-printer-software-mg2520-for-windows/"><u>Download & Latest Updates: Canon Printer Software (MG2520) for Windows</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ring-youtubes-latest-revenue-guidelines-for-2024/"><u>Exploring YouTube's Latest Revenue Guidelines for 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/high-resolution-woman-wallpaper-hd-backgrounds-and-images-premium-collection-by-yl-computing/"><u>High-Resolution Woman Wallpaper HD Backgrounds & Images: Premium Collection by YL Computing</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/lenovo-laptop-screen-logging-made-easy-for-2024/"><u>Lenovo Laptop Screen Logging Made Easy for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/movavis-livre-conversor-dts-para-streaming-em-aac-flac-and-mp3-sem-custo/"><u>Movavi's Livre Conversor DTS Para Streaming Em AAC, FLAC & MP3 - Sem Custo!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-definitive-fix-for-crackling-computer-speakers-in-windows-operating-systems-a-users-guide/"><u>The Definitive Fix for Crackling Computer Speakers in Windows Operating Systems - A User's Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-most-detailed-guide-to-use-3d-lut-in-photoshop-for-2024/"><u>The Most Detailed Guide to Use 3D LUT in Photoshop for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-the-oculus-rift-s-headset-mic-problems-swiftly-with-these-fixes-updated/"><u>Troubleshoot the Oculus Rift S Headset Mic Problems Swiftly with These Fixes - Updated</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-non-functional-laptop-speakers/"><u>Troubleshooting Guide: How to Fix Non-Functional Laptop Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-unresponsive-headphones-on-a-windows-10-system/"><u>Troubleshooting Guide: Unresponsive Headphones on a Windows 10 System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-non-functional-logitech-g9-grove-headset-on-pc/"><u>Troubleshooting Non-Functional Logitech G9 Grove Headset on PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-quiet-deserts-solutions-for-the-borderlands-3-pc-sound-issue/"><u>Troubleshooting Quiet Deserts: Solutions for the Borderlands 3 PC Sound Issue</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-hyperx-cloud-alphas-non-functional-mic-expert-fixes-revealed/"><u>Troubleshooting the HyperX Cloud Alpha's Non-Functional Mic – Expert Fixes Revealed!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unmuted-success-resolving-sound-problems-in-your-lenovo-device-easily/"><u>Unmuted Success: Resolving Sound Problems in Your Lenovo Device Easily</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-kinemasters-comprehensive-guide-to-green-screen-usage/"><u>[Updated] Kinemaster's Comprehensive Guide to Green Screen Usage</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-shake-and-smile-with-iphone-memes/"><u>[Updated] Shake & Smile with iPhone Memes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-velvet-vaults-2022-olympic-skaters-for-2024/"><u>[Updated] Velvet Vaults 2022 Olympic Skaters for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-vivo-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Vivo FRP Bypass Instantly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-windows-11-speaker-malfunctions-a-step-by-step-fix/"><u>Diagnosing and Repairing Windows 11 Speaker Malfunctions – A Step-by-Step Fix</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-and-techniques-for-repairing-broken-audio-in-fortnite-games/"><u>Expert Tips and Techniques for Repairing Broken Audio in Fortnite Games</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-on-your-pc-when-playing-call-of-duty-warzone-latest-update/"><u>How to Restore Audio on Your PC When Playing Call of Duty: Warzone (Latest Update)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-fix-for-your-intel-dual-band-wi-fi-latest-3160-driver-edition/"><u>Quick Fix for Your Intel Dual Band Wi-Fi: Latest 3160 Driver Edition</u></a></li>
+<li><a href="https://techidaily.com/samsung-data-recovery-recover-lost-data-from-samsung-galaxy-m54-5g-by-fonelab-android-recover-data/"><u>Samsung Data Recovery – recover lost data from Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-rectifying-lack-of-sound-in-pc-version-of-borderlands-3-gameplay/"><u>Solved! Rectifying Lack of Sound in PC Version of Borderlands 3 Gameplay</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-sound-problems-on-your-pc-running-windows-7-operating-system/"><u>Solving Sound Problems on Your PC Running Windows 7 Operating System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015268435-specific-heat-capacity-is-the-energy-required-to-raise-1-gram-of-substance-by-1-kelvin/"><u>Specific Heat Capacity Is the Energy Required to Raise 1 Gram of Substance by 1 Kelvin.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-fixing-a-nonfunctional-keyboard-for-your-pathfinder-game/"><u>Step-by-Step Guide to Fixing a Nonfunctional Keyboard for Your Pathfinder Game</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixes-for-a-malfunctioning-corsair-audio-headset/"><u>Troubleshooting: Fixes for a Malfunctioning Corsair Audio Headset</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-oppo-find-x7-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Oppo Find X7 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

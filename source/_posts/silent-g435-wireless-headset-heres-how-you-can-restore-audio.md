@@ -1,7 +1,7 @@
 ---
 title: Silent G435 Wireless Headset? Here's How You Can Restore Audio!
-date: 2024-08-13T10:46:31.286Z
-updated: 2024-08-14T10:46:31.286Z
+date: 2025-01-28T18:35:49.332Z
+updated: 2025-01-29T18:42:28.043Z
 tags:
   - win11
   - win10
@@ -21,14 +21,6 @@ Hey, buddy, can you hear me?
 
  When playing Fortnite on PC, you can’t talk to your mates because**your mic doesn’t work in Fortnite** ? You’re not alone. Many Fortnite players have recently been reporting this issue. But don’t worry, it’s fixable! And in most cases, the fix is pretty fast and simple…
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## How to fix Fortnite mic not working?
 
  Here are 5 methods that have helped many players get their mic working in Fortnite again. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -45,14 +37,13 @@ Hey, buddy, can you hear me?
 
 1. You need to disable**Voice Chat** in Fortnite first.  
    1. In Fortnite, click the**3 lines** on the top right, then select the**cog icon** to open the settings menu.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
    ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88b171d3c2d.jpg)  
    2. At the top of the screen, click the**speaker icon** to view the**Audio** settings.  
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
    ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88b3985ef65.jpg)  
    3. **Turn off** Voice Chat, then click**Apply** at the bottom.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88b6b121fbd.jpg)
@@ -60,18 +51,17 @@ Hey, buddy, can you hear me?
 3. **Right-click** the volume icon in the bottom-right part of your screen, then select **Sounds.** \>>If you are using Windows 11, it will be Settings > System > Sound > More sound settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88bde6a8295.jpg)
 4. Click the**Recording** tab.  
+
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf478c5ca3c.jpg)
 5. **Right-click** on the device you want to use, and select**Set as Default Device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf47aa5ad97.jpg)  
 **Note:** You can try**speaking into your microphone** to test if it’s working properly. If it is, you should see a green bar rising next to it while you talk.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf47cf4729b.jpg)
 6. **Right click** on and**disable** every other input device except the one you want to use. (If you have any other output devices, repeat for the**Playback** tab).  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf47f49119e.jpg)
 7. Click**OK** .
 8. Open Fortnite again, go to the settings menu and**turn Voice Chat on** .
@@ -80,8 +70,9 @@ Hey, buddy, can you hear me?
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Update your audio driver
 
  A missing or outdated audio driver may also stop the mic from working in Fortnite. You can try **updating your audio driver** to better troubleshoot the problem.
@@ -99,7 +90,15 @@ Hey, buddy, can you hear me?
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb0550e404c0.jpg)
 4. Restart your computer and check if your mic now works properly in Fortnite. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Method 3 below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Restart the Windows Audio service
 
@@ -109,18 +108,21 @@ Hey, buddy, can you hear me?
 2. Type**services.msc** and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf51cc29fe5.png)
 3. Find and right-click on **Windows Audio** , then click **Restart** on the upper left.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf52397a39c.jpg)
 4. **Close** the Services window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. **Relaunch** Fortnite to see if your mic is working now.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 4: Allow apps to access your mic
 
  Many computers had a kind of privacy settings reset after a major**Windows 10** update in April 2018, which may have caused Fortnite unable to access your microphone. You can check for it through**Windows Settings** . Here’s how:
@@ -133,6 +135,11 @@ Hey, buddy, can you hear me?
 3. In the left pane, click **Microphone** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88ebcdd1f01.jpg)
 4. In the right pane, click the**Change** button, and you’ll see your mic is turned on. Also make sure**All apps to access your microphone** is enabled:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf492ca1d0f.jpg)
 5. In the section of**Choose which apps can access your microphone** , verify that**Fortnite is turned on** .
 6. Test in Fortnite.
@@ -141,14 +148,8 @@ Hey, buddy, can you hear me?
 
 1. On your keyboard, press the **Windows logo + I keys**  simultaneously to open Settings.
 2. Select **Privacy & security**  from the left panel. Then scroll down to the section **App permissions** , and click on **Microphone** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![windows 11 - Make sure apps have access to your microphone](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Settings-Privacy-and-security-Microphone.jpg)
 3. Toggle on **Microphone access** and **Let apps access your microphone** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![windows 11 - Make sure apps have access to your microphone](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Microphone-access-and-Let-apps-access-your-microphone-On.jpg)  
 
  Also, make sure that you toggle on **Let desktop apps access your microphone** .  
@@ -159,8 +160,9 @@ Hey, buddy, can you hear me?
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 5: Check for Windows updates
 
  If the above methods didn’t work for you, your**Fortnite mic not working** problem is probably being caused by**system issues** . Then, you can check for**Windows updates** .
@@ -173,9 +175,6 @@ Hey, buddy, can you hear me?
 
  That’s it. You’re more than welcome to leave a comment below to share your results or any other suggestions.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b87ea7983aa7-269x300.jpg)
 
 Enjoy your game!
@@ -189,8 +188,6 @@ Enjoy your game!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,4 +195,20 @@ Enjoy your game!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-how-to-take-screenshots-on-xbox-one/"><u>[New] In 2024, How to Take Screenshots on Xbox One</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-hidden-history-in-your-browser-how-to-tackle-for-2024/"><u>[New] The Hidden History in Your Browser How to Tackle for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-master-the-craft-essential-filmmaking-advice-from-youtube-pros/"><u>[Updated] Master the Craft Essential Filmmaking Advice From YouTube Pros</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-solutions-for-dealing-with-a-faulty-mic-in-your-steelseries-arctis-headset-model-identifier/"><u>Comprehensive Solutions for Dealing with a Faulty Mic in Your SteelSeries Arctis Headset ([Model Identifier])</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-tips-for-diagnosing-and-repairing-lack-of-audio-on-toshiba-portables/"><u>Comprehensive Tips for Diagnosing and Repairing Lack of Audio on Toshiba Portables</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-advice-for-tackling-cc-troubles-on-windows/"><u>Essential Advice for Tackling CC Troubles on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-battlefield-4-silent-mode-a-comprehensive-audio-troubleshooting-guide/"><u>Fixing Battlefield 4 Silent Mode: A Comprehensive Audio Troubleshooting Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-remote-connectivity-tips-for-controlling-your-samsung-smart-tv-from-afar/"><u>Mastering Remote Connectivity: Tips for Controlling Your Samsung Smart TV From Afar</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/mastering-your-pcs-configuration-essential-tips-from-the-windows-control-panel-yl-software-insights/"><u>Mastering Your PC's Configuration: Essential Tips From the Windows Control Panel - YL Software Insights</u></a></li>
+<li><a href="https://facebook.techidaily.com/new-identity-new-space-modify-your-fb-profile-url/"><u>New Identity, New Space: Modify Your FB Profile URL</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-dolby-advanced-audio-unable-to-start-the-dolby-audio-driver-in-windows-11/"><u>Solved Dolby Advanced Audio: Unable to Start the Dolby Audio Driver in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-issues-unplugging-false-alarms-for-headphones-and-speakers-in-windows-os/"><u>Troubleshooting Audio Issues: Unplugging False Alarms for Headphones and Speakers in Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-tricks-for-upping-speaker-levels-in-the-latest-windows-operating-system/"><u>Ultimate Tricks for Upping Speaker Levels in the Latest Windows Operating System</u></a></li>
+</ul></div>
 

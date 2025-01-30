@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Resolve Astro A2e 20 Microphone Issues
-date: 2024-08-13T10:48:22.171Z
-updated: 2024-08-14T10:48:22.171Z
+date: 2025-01-28T23:53:18.755Z
+updated: 2025-01-29T18:30:38.473Z
 tags:
   - win11
   - win10
@@ -34,20 +34,18 @@ You care about stunning sound quality but find that you can’t use the micropho
 
 ![mic not working](https://images.drivereasy.com/wp-content/uploads/2021/04/knob-right-turn.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Check if your microphone is physically muted on your headset switch or inline mute. Sometimes you may accidentally flip mute.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/SRX3flipmute.png)
 
  3) If you’re using a 6.3mm microphone, make sure that there’s no microphone connected to the 3.5mm microphone port and vice versa.
 
  4) Now you can test your microphone again.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Allow your device and apps to access the microphone
 
  Another cause of the Sound Blaster mic not working is that your PC can’t access your microphone. Here’s how to allow microphone access for your device:
@@ -64,9 +62,6 @@ You care about stunning sound quality but find that you can’t use the micropho
 
  5) Test your microphone again.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Disable Direct Mode
 
  Enabling Direct Mode allows audio to output in its original form, directly from its original source, but your Mic doesn’t work in this mode. When direct mode is enabled it bypasses the SoundCore 3D chipset and therefore the mic path is not operational.
@@ -75,9 +70,6 @@ You care about stunning sound quality but find that you can’t use the micropho
 
  Or you can check**Playback** \>**Direct Mode** in Sound Blaster Command software, and make sure it’s turned**Off** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/direct-mode.jpg)
 
  2) Go to the**Recording** tab, make sure the microphone is not muted in Sound Blaster Command and has an adequate volume level. Tick**Listen to this device** under**Microphone/Headset (Mic)** to verify Mic function.
@@ -92,9 +84,17 @@ You care about stunning sound quality but find that you can’t use the micropho
 
 ![sounds settings](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Go to the**Recording** tab, choose**External Mic** . Set**Line In** as the default device if you’re using a Line-in source.
 
 ![set as the default](https://images.drivereasy.com/wp-content/uploads/2021/04/save.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right-click and select**Properties** .
 
@@ -102,10 +102,11 @@ You care about stunning sound quality but find that you can’t use the micropho
 
  5) Then go to the**Advanced** tab, and select**2 channel, 16 bit, 48000 Hz (DVD Quality)** for the**Default Format** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/check-all-boxes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Check all the boxes below.
 
@@ -114,8 +115,9 @@ You care about stunning sound quality but find that you can’t use the micropho
  If this method doesn’t do the trick, you can disable all enhancements by right-clicking your microphone, and then click**Properties** \>**Enhancements** . After disabling all enhancements, you can’t apply any processing to the mic via Sound Blaster Command.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Update audio drivers
 
  If you have tried these methods above but to no avail, you should update all your audio drivers. This can be done with the latest Windows Updates. However, you can’t rely on Windows to update ([Learn Why…](https://tools.techidaily.com/drivereasy/download/) ) to do the job for you. So to make sure all your audio drivers are up to date, you can do it in the following two ways:
@@ -128,9 +130,6 @@ You care about stunning sound quality but find that you can’t use the micropho
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
  3) Click the**Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -145,18 +144,15 @@ You care about stunning sound quality but find that you can’t use the micropho
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 6\. Reinstall Sound Blaster Command
 
  If the Sound Blaster mic not working persists, there might be some issues with your software.
 
  1) Before reinstalling your software, you can try resetting to factory default. Go to your Sound Blaster Command, and select**Settings** \> click**Reset** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/reset-all.jpg)
 
  2) If the microphone issue persists, you can uninstall Sound Blaster Command.
@@ -164,6 +160,10 @@ You care about stunning sound quality but find that you can’t use the micropho
  3) Press the**Windows** key +**R** to open the Run box, and enter**appwiz.cpl** .
 
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Right-click Sound Blaster Command and select**Uninstall** .
 
@@ -182,8 +182,6 @@ You care about stunning sound quality but find that you can’t use the micropho
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +189,21 @@ You care about stunning sound quality but find that you can’t use the micropho
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/nderstanding-your-profit-revenue-per-thousand-from-youtubes-adsense-income-for-2024/"><u>[New] Understanding Your Profit Revenue Per Thousand From YouTube's AdSense Income for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1716069689702-updated-2024-approved-internal-screen-recording-huawei-mate-1020-and-p-series-devices-p20-p10/"><u>[Updated] 2024 Approved Internal Screen Recording Huawei Mate 10/20 & P Series Devices (P20, P10).</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-motorola-g54-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Motorola G54 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016459618-a-comprehensive-solution-for-when-your-laptop-is-mute-get-it-working-again/"><u>A Comprehensive Solution for When Your Laptop Is Mute – Get It Working Again!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/avatars-new-horizon-exploring-pandora-as-the-game-crashes-on-pc/"><u>Avatar's New Horizon: Exploring Pandora as the Game Crashes on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-productivity-with-descriptive-folders-in-windows-11/"><u>Boosting Productivity with Descriptive Folders in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-ways-to-recognize-and-repair-hidden-or-faulty-speakers-in-windows-10/"><u>Easy Ways to Recognize and Repair Hidden or Faulty Speakers in Windows 10</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-xiaomi-redmi-note-12-pro-4g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Xiaomi Redmi Note 12 Pro 4G Quickly | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-no-audio-in-realtek-digital-output-systems-and-enjoy-sound-again/"><u>How to Resolve 'No Audio' In Realtek Digital Output Systems and Enjoy Sound Again!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/maximizing-video-quality-with-zooms-format-tools-for-2024/"><u>Maximizing Video Quality with Zoom's Format Tools for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-errcachemiss-problem-a-step-by-step-guide-for-chrome-users/"><u>Resolving the 'ERR_CACHE_MISS' Problem: A Step-by-Step Guide for Chrome Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-iphone-sound-issues-fixing-no-audio-and-distortion-woes/"><u>Solving iPhone Sound Issues: Fixing No Audio and Distortion Woes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-solving-fix-my-fortnite-audio/"><u>Troubleshooting Steps: Solving 'Fix My Fortnite Audio'</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-editing-internet-setup-in-win11/"><u>Understanding and Editing Internet Setup in Win11</u></a></li>
+</ul></div>
 

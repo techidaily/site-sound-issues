@@ -1,7 +1,7 @@
 ---
 title: "Restoring Sounds in Call of Duty: Black Ops Cold War PC Version - Step-by-Step Guide"
-date: 2024-08-18T07:59:12.286Z
-updated: 2024-08-19T07:59:12.286Z
+date: 2025-01-27T16:38:27.753Z
+updated: 2025-01-30T04:25:52.423Z
 tags:
   - win11
   - win10
@@ -15,16 +15,14 @@ thumbnail: https://thmb.techidaily.com/a6e5c2635593081e4b6078ab257c66dc8d161f27c
 
 ## LucidSound LS3t Mic Malfunction? Here's Your Step-by-Step Guide to Fixing It
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-124-1024x974.png)
 
  If you run into the **LucidSound LS30 mic not working** problem, don’t panic – many users have reported the same. Luckily, it’s quite easy to fix…
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4 Fixes For **LucidSound LS30 Mic Not Working** In Windows
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -46,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/a6e5c2635593081e4b6078ab257c66dc8d161f27c
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Make sure the volume is audible
 
  Sometimes the mic on your**LusidSound LS30** won’t work simply because the volume is mute or set too low.
@@ -65,9 +60,6 @@ To make sure the volume is audible:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ### Fix 3: Adjust your audio settings
 
  Ideally when a new audio device is inserted, Windows will automatically set it as the default audio playback device. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -78,25 +70,31 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-139.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-140.png)
 
  If **no microphone devices shows up in the device list** , then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device** once it appears and click **Enable** before you do step **2)** .  
 
  3) Click on **your microphone device** and click **Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-141.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click the **Levels** tab, then drag **the Microphone slider** all the way to _its top_ and click **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-137.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click **OK** to apply the changes in the windows.
 
@@ -122,6 +120,10 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-144.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
  4) Once you’ve updated the driver for your LucidSound LS30 headset, **restart** your computer and check if the LucidSound LS30**mic not working** problem has been resolved.
@@ -144,8 +146,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +153,26 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-the-top-beauty-brands-with-powerful-youtubers/"><u>[New] 2024 Approved The Top Beauty Brands with Powerful YouTubers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-unlocking-screen-capture-mastery-on-iphone-7/"><u>[New] 2024 Approved Unlocking Screen Capture Mastery on iPhone 7</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-from-oven-to-screen-cooking-videos-unveiled/"><u>[Updated] From Oven to Screen Cooking Videos Unveiled</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-travel-film-kit-the-necessary-arsenal-for-2024/"><u>[Updated] Travel Film Kit The Necessary Arsenal for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-iphone-video-potential-mastering-8-essential-filmmaking-skills/"><u>2024 Approved Unlock iPhone Video Potential Mastering 8 Essential Filmmaking Skills</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dive-into-the-world-of-lengthened-images-with-iphone/"><u>Dive Into the World of Lengthened Images with iPhone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminate-game-sounds-trouble-in-outriders-expert-fixing-tips-revealed/"><u>Eliminate Game Sounds Trouble in Outriders: Expert Fixing Tips Revealed</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211455024-9798330388974-ensename-a-hablar-de-amor/"><u>Enséñame a Hablar de Amor | Free Book</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harness-the-power-of-chatgpt-for-enhanced-personal-job-support-and-task-automation/"><u>Harness the Power of ChatGPT for Enhanced Personal Job Support and Task Automation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-the-unresponsive-headset-mic-on-sony-wh-1000-series-for-desktop-computers/"><u>How to Repair the Unresponsive Headset Mic on Sony WH-1000 Series for Desktop Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/idt-hd-audio-codec-driver-in-windows-11-solved/"><u>IDT HD Audio CODEC Driver in Windows 11 [Solved]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/improve-your-iphones-audio-experience-remedies-for-sound-problems/"><u>Improve Your iPhone's Audio Experience - Remedies for Sound Problems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-insta-authenticity-selfie-verification-insights/"><u>In 2024, Insta Authenticity Selfie Verification Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-sound-issue-effortless-fixes-for-logitech-g933s-lack-of-volume/"><u>Solving the Sound Issue: Effortless Fixes for Logitech G933's Lack of Volume</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-common-issues-with-the-logitech-g430-microphone/"><u>Step-by-Step Solutions for Common Issues with the Logitech G430 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-lack-of-sound-on-logitech-g933-a-step-by-step-tutorial/"><u>Troubleshoot and Repair Lack of Sound on Logitech G933 - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-skype-mic-issues-on-windows-11/"><u>Troubleshooting Guide: How to Fix Skype Mic Issues on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017007890-troubleshooting-no-sound-problems-in-windows-media-player-solved/"><u>Troubleshooting No Sound Problems in Windows Media Player: Solved</u></a></li>
+</ul></div>
 

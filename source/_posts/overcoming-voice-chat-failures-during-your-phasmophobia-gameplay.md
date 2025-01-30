@@ -1,7 +1,7 @@
 ---
 title: Overcoming Voice Chat Failures During Your Phasmophobia Gameplay
-date: 2025-01-20T16:01:53.398Z
-updated: 2025-01-22T17:56:22.543Z
+date: 2025-01-26T23:13:15.049Z
+updated: 2025-01-30T09:10:00.765Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all; simply work your way down the list until you find the one that works for you.
@@ -34,10 +38,6 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 
 ![fix Phasmophobia voice chat not working](https://img.gamerjournalist.com/spai/w_1535+q_lossy+ret_img+to_webp/https://cdn.gamerjournalist.com/primary/2020/10/Test-Voice-Phasmophobia.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Check sound settings
 
  Sometimes your Microphone may not be detected or selected correctly. So when you’re in-game, the voice chat would not be working as you wish. To fix it, you should check your sound settings.
@@ -47,20 +47,20 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2020/10/open-sound-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Make sure that your input device is set to whatever microphone you’re currently using or prefer to use. Then click**Device properties** .
 
 ![check input device ](https://images.drivereasy.com/wp-content/uploads/2020/10/check-your-input-device-1200x903.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Set the volume to at least 50.
 
 ![set the volume](https://images.drivereasy.com/wp-content/uploads/2020/10/set-the-volume-to-as-least-50-1200x571.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After applying the changes, play your game to check if the problem persists.
 
@@ -78,6 +78,10 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 
 ![check in-game audio settings Phasmophobia voice chat not working](https://images.drivereasy.com/wp-content/uploads/2020/10/test-Microphone-1200x715.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Remember to click**Apply** if you change the**Microphone** .
 
  3) You’ll be asked to speak into your connected piece of hardware to ensure Voice Recognition is properly set up. If it shows**We heard you!** , your voice chat should be working now.
@@ -86,15 +90,15 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Update your audio driver
 
  This voice chat not working issue may indicate that**the audio driver you’re using is out of date** . If you can’t remember when was the last time you updated your drivers, definitely do it right now. This is probably the best shot you have got without doing a lot of troubleshooting.
 
  There are mainly two ways you can update your audio driver: [manually](https://tools.techidaily.com/drivereasy/download/) and [**automatically**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Manually update your audio driver
 
@@ -112,19 +116,11 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 
 ![update drivers automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
   
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.
 
 ![update audio driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/click-update-all.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -144,10 +140,6 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 
 ![reset network to fix Phasmophobia voice chat not working issue](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-reset-now.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once it’s finished, play your game to check if it works.
 
 ---
@@ -160,9 +152,17 @@ Once it’s finished, play your game to check if it works.
 
 ![verify integrity of game files Phasmophobia voice chat not working](https://images.drivereasy.com/wp-content/uploads/2020/10/click-on-Properties-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select the **Installed Files**  tab and click the **Verify integrity of game files** button.
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-1200x610.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Steam will verify the game’s files and this process may take several minutes. After it’s finished, launch your game to check if it works for you.
 
@@ -187,19 +187,18 @@ Once it’s finished, play your game to check if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-breaking-down-barriers-to-inaccessible-youtube-content/"><u>[New] 2024 Approved Breaking Down Barriers to Inaccessible YouTube Content</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-bridging-beats-with-logic-pro-x-fade-techniques/"><u>[New] 2024 Approved Bridging Beats with Logic Pro X Fade Techniques</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-chip-synergy-flawless-video-editing-redefined-by-m1s-efficiency/"><u>[New] Chip Synergy Flawless Video Editing Redefined by M1's Efficiency</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-analyzing-instagrams-per-video-timeframe/"><u>[New] In 2024, Analyzing Instagram's Per-Video Timeframe</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-art-of-advertising-making-money-on-the-worlds-social-network/"><u>[Updated] In 2024, The Art of Advertising Making Money on the World's Social Network</u></a></li>
-<li><a href="https://common-error.techidaily.com/black-screen-no-more-a-guide-to-troubleshooting-your-obs-setup/"><u>Black Screen No More: A Guide to Troubleshooting Your OBS Setup</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/chronological-clarity-in-your-photographic-work-for-2024/"><u>Chronological Clarity in Your Photographic Work for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-and-simple-guide-to-mic-checks-mastering-microphone-test/"><u>Quick and Simple Guide to Mic Checks - Mastering Microphone Test</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/rectifying-non-working-microphone-problems-on-the-turtle-beach-elite-atlas-gaming-headset/"><u>Rectifying Non-Working Microphone Problems on the Turtle Beach Elite Atlas Gaming Headset</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-device-in-use-hdmi-errors-during-multi-application-sessions/"><u>Resolving 'Device In Use' HDMI Errors During Multi-Application Sessions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restore-your-hearing-fixing-the-cant-listen-problem-in-discord-calls/"><u>Restore Your Hearing: Fixing the 'Can't Listen' Problem in Discord Calls</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revamp-your-file-organizers-appearance-changing-folder-colors-on-a-mac/"><u>Revamp Your File Organizer's Appearance - Changing Folder Colors on a Mac!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-the-problem-of-invisible-headphones-in-windows-10s-media-player/"><u>Solve the Problem of Invisible Headphones in Windows 10'S Media Player</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ling-the-must-have-gear-for-new-youtubers/"><u>Unveiling the Must-Have Gear for New YouTubers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-10-proven-steps-to-skyrocket-traffic-via-facebook-videos/"><u>[New] In 2024, 10 Proven Steps to Skyrocket Traffic via Facebook Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-essential-guide-to-youtube-video-resolutions-and-aspects/"><u>[Updated] In 2024, Essential Guide to YouTube Video Resolutions & Aspects</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/amazon-prime-just-got-more-powerful-access-exclusive-discounts-on-top-e-commerce-sites-zdnet/"><u>Amazon Prime Just Got More Powerful: Access Exclusive Discounts on Top E-Commerce Sites | ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/astro-a50-hearing-troubles-fast-track-to-resolving-the-soundless-dilemma/"><u>Astro A50 Hearing Troubles? Fast Track to Resolving the Soundless Dilemma</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/como-volver-a-habilitar-tu-barra-de-tareas-en-windows-11-4-pasos-faciles-y-un-truco-util/"><u>Cómo Volver a Habilitar Tu Barra De Tareas en Windows 11: 4 Pasos Fáciles Y Un Truco Útil!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/configuring-and-repairing-unseen-speakers-on-windows-11-systems-with-ease/"><u>Configuring and Repairing Unseen Speakers on Windows 11 Systems with Ease</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/ejemplo-sencillo-como-restaurar-el-sistema-de-tu-asus-usando-la-clave-de-recuperacion-en-caso-de-fallo/"><u>Ejemplo Sencillo: Cómo Restaurar El Sistema De Tu ASUS Usando La Clave De Recuperación en Caso De Fallo</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-getting-your-corsair-audio-gear-back-in-action-the-virtuoso-mic-edition/"><u>Expert Advice on Getting Your Corsair Audio Gear Back in Action: The Virtuoso Mic Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-turn-off-sound-effects-feature-in-windows-11-a-step-by-step-guide/"><u>How to Turn Off Sound Effects Feature in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-poco-c55-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Poco C55 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/laying-the-groundwork-for-understanding-generative-ai/"><u>Laying the Groundwork for Understanding Generative AI</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-sound-problem-resolved-reestablishing-audio-output-after-complete-silence/"><u>Realtek Sound Problem Resolved: Reestablishing Audio Output After Complete Silence</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-onikuma-mic-effective-strategies-for-restoring-audio-input/"><u>Revive Your Onikuma Mic: Effective Strategies for Restoring Audio Input</u></a></li>
 </ul></div>
 

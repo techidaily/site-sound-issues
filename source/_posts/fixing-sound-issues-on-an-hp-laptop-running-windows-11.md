@@ -1,7 +1,7 @@
 ---
 title: Fixing Sound Issues on an HP Laptop Running Windows 11
-date: 2025-01-18T19:58:13.410Z
-updated: 2025-01-22T17:57:35.028Z
+date: 2025-01-29T02:14:57.051Z
+updated: 2025-01-30T06:56:41.683Z
 tags:
   - win11
   - win10
@@ -38,26 +38,18 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a273f85c31.png)
 2. Double-click**Sound, video, and game controllers** . Then right-click the audio device driver that you have and choose**Update driver** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a27949ffeb.png)
 3. Choose**Browse my computer for driver software** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28445c675.png)
 4. Then choose**Let me pick from a list of available drivers on my computer** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a286f3d5de.png)
 5. Make sure the box for**Show compatible hardware** is**TICKED** . Then choose**High Definition Audio Device** from the list, and hit**Next** to continue.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28cccfd3f.png)
 6. You will see the warning asking you whether you want to go on with the installation, click**Yes** to continue.  
@@ -74,18 +66,22 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If your computer sound still keeps cutting out, please move on to the next option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 2: Change Sound Enhancement Settings
 
@@ -95,19 +91,27 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Try your computer sound again to see if it still cuts out. If so, please move on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 3: Change Speaker Settings
 
@@ -120,21 +124,17 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Try to play audio with your computer again to see if the sound still cuts out.
 
@@ -159,20 +159,17 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-crafting-engaging-visual-storytelling-with-b-roll/"><u>[New] 2024 Approved Crafting Engaging Visual Storytelling with B-Roll</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-instant-aspect-ratio-tuning-for-youtube-on-mac/"><u>[New] 2024 Approved Instant Aspect Ratio Tuning for Youtube on Mac</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-perfecting-high-resolution-views-on-tweet-vids/"><u>[New] In 2024, Perfecting High-Resolution Views on Tweet Vids</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-windows-fingerprint-reader-not-working/"><u>[SOLVED] Windows Fingerprint Reader Not Working</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-pioneering-youtube-success-stories-via-tubebuddy/"><u>[Updated] Pioneering YouTube Success Stories via TubeBuddy</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/1-efficaci-soluzioni-per-risolvere-i-tuoi-problemi/"><u>1. Efficaci Soluzioni per Risolvere I Tuoi Problemi</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-full-assessment-razers-hd-webcam/"><u>2024 Approved Full Assessment Razer's HD Webcam</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/essential-free-jpeg-to-gif-conversion-websites-ranked/"><u>Essential Free JPEG to GIF Conversion Websites Ranked</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-create-a-successful-live-stream/"><u>In 2024, How to Create A Successful Live Stream</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ornamentation/"><u>Ornamentation</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-hdmi-issues-how-to-fix-a-device-tied-up-by-other-apps/"><u>Resolving HDMI Issues: How to Fix a Device Tied Up by Other Apps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-the-audio-on-your-hp-notebook-expert-troubleshooting-steps/"><u>Reviving the Audio on Your HP Notebook: Expert Troubleshooting Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-the-volume-effective-solutions-for-laptop-sound-failure/"><u>Reviving the Volume: Effective Solutions for Laptop Sound Failure</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-common-problems-and-solutions-for-the-logitech-g230-headset-mic/"><u>Solved! Common Problems and Solutions for the Logitech G230 Headset Mic</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-oppo-find-x6-pro-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Oppo Find X6 Pro Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/udget-friendly-webinar-strategies-for-youtube/"><u>[New] Budget-Friendly Webinar Strategies for YouTube</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-spark-interest-10-innovative-highlight-ideas-to-try-now/"><u>2024 Approved Spark Interest 10 Innovative Highlight Ideas to Try Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-resolving-logitech-g733-microphone-connectivity-problems/"><u>Diagnosing and Resolving Logitech G733 Microphone Connectivity Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-resolve-silent-mac-systems-for-restoring-sounds/"><u>How to Troubleshoot and Resolve Silent Mac Systems for Restoring Sounds</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/1716080341344-how-to-watch-facebook-live-on-roku/"><u>How to Watch Facebook Live on Roku</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-next-level-graphic-cards-for-4k-titles/"><u>In 2024, Next-Level Graphic Cards for 4K Titles</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-polaroid-xs-100i-action-camera-review/"><u>In 2024, Polaroid XS 100I Action Camera Review</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/is-your-blue-yeti-not-responding-discover-how-to-restore-its-functionality/"><u>Is Your Blue Yeti Not Responding? Discover How to Restore Its Functionality</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ights-and-soft-shadows-for-vloggers-for-2024/"><u>Key Lights and Soft Shadows for Vloggers for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-microphone-tests-the-fast-and-easy-way-for-crystal-clear-audio/"><u>Mastering Microphone Tests: The Fast and Easy Way for Crystal Clear Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-maximizing-volume-settings-on-your-pc-running-windows-10/"><u>Step-by-Step: Maximizing Volume Settings on Your PC Running Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unleash-potential-get-updated-drivers-for-lenovos-yoga-900s-and-win10/"><u>Unleash Potential: Get Updated Drivers for Lenovo's Yoga 900S & Win10</u></a></li>
 </ul></div>
 

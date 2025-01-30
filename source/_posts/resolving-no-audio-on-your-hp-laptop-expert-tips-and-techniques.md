@@ -1,7 +1,7 @@
 ---
 title: Resolving No Audio on Your HP Laptop – Expert Tips and Techniques
-date: 2025-01-20T19:02:53.129Z
-updated: 2025-01-22T16:48:47.529Z
+date: 2025-01-24T16:32:45.764Z
+updated: 2025-01-29T18:46:01.421Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1: Check cable connection and volume
 
  Before we do any changes to the software, we need to rule out some possible human error. So please check to see if:
@@ -46,6 +42,10 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 
  4) headphones are plugged in: your speakers might not work if you have the headphones in.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2: Turn off Audio Enhancements
 
  Audio enhancement feature is supposed to make your sound card work at its peak, but unfortunately, not all sound card hardware work well when it’s on. You can turn it off by:
@@ -56,10 +56,6 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881b98693b49.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In the **Playback** tab, right-click **Default Device**  you have and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881badde83bd.png)
@@ -67,10 +63,6 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
  4) Go to **the Enhancement** tab, tick the box for**Disable all sound effects** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881bcabb193b.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) See if your sound is back. If you still cannot get your sound back, choose Cancel here, and then repeat 2) and 3) with your other default device and have a try again.
 
@@ -98,6 +90,10 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5964407a532ed.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4: Uninstall driver from Device Manager
 
  If you have faulty driver installed, problem like no sound coming out from your speaker is inevitable. To fix it:
@@ -110,20 +106,20 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881bdc6126ad.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click your sound card driver, then click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c04799622.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click**OK** at the prompted notification to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c05dde5db.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) When the uninstall completes, restart your computer.
@@ -133,7 +129,7 @@ Windows will then help you reinstall the driver.
  And if this still don’t work, please try the next step where we try using the generic audio driver that comes with Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5: Try generic audio driver provided by Windows 10
@@ -142,25 +138,25 @@ Windows will then help you reinstall the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586b799d15ed0.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Expand**Sound, video and game controllers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881bdc6126ad.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right-click your sound card driver, then click**Update Driver Software…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881be049db87.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click **Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c1cb5f81b.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Click **Let me pick from a list of device drivers on my computer** .
 
@@ -169,6 +165,10 @@ Windows will then help you reinstall the driver.
  6) Click**High Definition Audio Device** , and**Next.**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c28f9c29e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click**Yes** at this prompt and continue.
 
@@ -199,17 +199,17 @@ Check if your sound is back.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-simplify-tech-transitions-smartphone-vr-integration-guide/"><u>[New] In 2024, Simplify Tech Transitions Smartphone-VR Integration Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-unveiling-the-typical-podcasters-income/"><u>[New] In 2024, Unveiling the Typical Podcaster's Income</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-razer-kraken-mic-not-working/"><u>[SOLVED] Razer Kraken Mic Not Working</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-essential-knowledge-for-saving-app-activity/"><u>[Updated] In 2024, Essential Knowledge for Saving App Activity</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-artistry-of-image-editing-understanding-luts-role/"><u>[Updated] In 2024, The Artistry of Image Editing Understanding LUTs' Role</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-modulating-murmurs-for-free-fire-success/"><u>[Updated] Modulating Murmurs for Free Fire Success</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-path-to-outstanding-interviewer-expertise/"><u>2024 Approved The Path to Outstanding Interviewer Expertise</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-creativity-with-free-audio-effects-online-for-2024/"><u>Boost Creativity with Free Audio Effects Online for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-honor-v-purse-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Honor V Purse Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-pcs-audio-essential-fixes-for-sound-issues-on-hp-devices-with-windows-11/"><u>Revive Your PC's Audio: Essential Fixes for Sound Issues on HP Devices with Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-overcoming-voice-chat-problems-in-call-of-duty-vanguard/"><u>Solution Guide: Overcoming Voice Chat Problems in Call of Duty Vanguard</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-silent-issue-top-tips-for-restoring-audio-to-your-facebook-videos/"><u>Solving the Silent Issue: Top Tips for Restoring Audio to Your Facebook Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/dark-realm-explorations-dos-and-donts-of-nocturnal-shooting-for-2024/"><u>Dark Realm Explorations Do's & Don'ts of Nocturnal Shooting for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enablingdisabling-network-discovery-on-windows-10-a-comprehensive-guide/"><u>Enabling/Disabling Network Discovery on Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-servers-resolving-pc-audio-issues-in-valheim/"><u>Fixing Silent Servers: Resolving PC Audio Issues in Valheim</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-the-steelseries-arctis-9-headset-microphone-issues-comprehensive-guide/"><u>How to Fix the SteelSeries Arctis 9 Headset Microphone Issues – Comprehensive Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-m14-4g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy M14 4G Phones with/without a PC</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-rhythmic-revelations-top-15-vlogs-celebrating-music-creators-stories/"><u>In 2024, Rhythmic Revelations Top 15 Vlogs Celebrating Music Creators' Stories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/next-level-imaging-breakthroughs-coming-to-mobile-tech-how-apples-iphone-16-ultra-redefines-color-and-clarity-in-photos-zdnet-insights/"><u>Next-Level Imaging Breakthroughs Coming to Mobile Tech: How Apple's iPhone 16 Ultra Redefines Color and Clarity in Photos | ZDNET Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-sound-on-device-heres-how-to-quickly-bring-back-the-volume/"><u>No Sound on Device? Here’s How to Quickly Bring Back the Volume!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-silent-kotion-each-g200-00-microphones-expert-solutions/"><u>Reviving Your Silent Kotion Each G200 00 Microphones: Expert Solutions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-travelers-guide-to-portable-reading-unveiling-the-kobo-clara-hd-features-and-benefits/"><u>The Traveler’s Guide to Portable Reading: Unveiling the Kobo Clara HD Features & Benefits</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unidentified-fingerprint-attempts/"><u>Unidentified Fingerprint Attempts</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-canon-video-editing-made-easy-a-beginners-guide-to-professional-results/"><u>Updated 2024 Approved Canon Video Editing Made Easy A Beginners Guide to Professional Results</u></a></li>
 </ul></div>
 

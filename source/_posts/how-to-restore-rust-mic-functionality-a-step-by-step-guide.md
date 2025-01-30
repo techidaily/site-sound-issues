@@ -1,7 +1,7 @@
 ---
 title: "How to Restore Rust Mic Functionality: A Step-by-Step Guide"
-date: 2024-12-30T17:40:59.784Z
-updated: 2025-01-03T23:37:20.765Z
+date: 2025-01-29T08:43:21.584Z
+updated: 2025-01-30T00:03:54.214Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 5. [**Let Windows find the problem for you**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Make sure you use the right ports
@@ -41,7 +41,7 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
  Then, ensure the detachable microphone is firmly plugged in and check if the RGB LED ring indicates the live status (green).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Set Virtuoso as the default recording device
@@ -52,8 +52,16 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 2. Go to the**Recording** tab and set your headset as the default device. Your device should be displayed as**Corsair Virtuoso** and shows strong signals when you speak.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
 3. Right-click your**Corsair Virtuoso** and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
 4. Go to the**Levels** tab and drag the slider to a proper volume.  
@@ -62,7 +70,7 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 5. Click**OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you can test your microphone by recording your own voice using some voice apps such as Voice Recorder. If the Virtuoso mic works now, you can just join a league and enjoy talking with your teammates. But if the Corsaire mic is still not working, you can try the next fix below.
@@ -87,16 +95,8 @@ There are mainly two ways for you to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/gaming-headset.jpg)
 4. Reboot your PC for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance or the issue persists after updating all the drivers, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Change to DVD quality
 
@@ -113,7 +113,7 @@ There are mainly two ways for you to do this:
 4. Go to the**Advanced** tab, and select**DVD Quality** in the**Default Format** section. ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-format.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**OK** .
@@ -151,22 +151,18 @@ There are mainly two ways for you to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-exploring-the-finest-8-no-cost-open-source-video-communication-apps/"><u>[New] Exploring the Finest 8 No-Cost, Open Source Video Communication Apps</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/earn-how-to-upload-music-to-your-youtube-channel/"><u>[New] Learn How to Upload Music to Your YouTube Channel</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/he-ultimate-intro-video-guide-for-iphone-and-android-users-for-2024/"><u>[New] The Ultimate Intro Video Guide for iPhone and Android Users for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-top-5-xbox-external-hard-drive-you-can-find/"><u>[Updated] In 2024, Top 5 Xbox External Hard Drive You Can Find</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-fixes-to-stop-that-persistent-hiss-in-your-sound-system/"><u>DIY Fixes to Stop that Persistent Hiss in Your Sound System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/eliminate-audio-glitches-fixing-dell-sound-drivers-under-windows-7/"><u>Eliminate Audio Glitches: Fixing Dell Sound Drivers Under Windows 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/enhance-your-audio-experience-in-windows-11-tips-on-amplifying-volume/"><u>Enhance Your Audio Experience in Windows 11: Tips on Amplifying Volume</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-s18-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo S18 Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mend-noise-troubles-expert-solutions-to-the-logitech-g933-silent-setback/"><u>Mend Noise Troubles: Expert Solutions to the Logitech G933 Silent Setback</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/photography-made-easy-beginners-guide-to-lunapic/"><u>Photography Made Easy Beginner’s Guide to LunaPic</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/qualitatsbewahrung-bei-der-umwandlung-von-hevc-zu-mp4-eine-detaillierte-anleitung/"><u>Qualitätsbewahrung Bei Der Umwandlung Von HEVC Zu MP4 - Eine Detaillierte Anleitung</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resident-evil-village-troubleshooting-common-sound-problems/"><u>Resident Evil Village - Troubleshooting Common Sound Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-pcs-volume-problem-restoring-sound-for-valheim-gamers/"><u>Solve Your PC's Volume Problem: Restoring Sound for Valheim Gamers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-conexant-smartaudio-hd-audio-problem-on-windows-11-a-step-by-step-guide/"><u>Solving the Conexant SmartAudio HD Audio Problem on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/tranquil-tracks-easy-volume-diminution-via-garageband/"><u>Tranquil Tracks Easy Volume Diminution via Garageband</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-non-functional-headphones-in-windows-11/"><u>Troubleshooting Guide: Fixing Non-Functional Headphones in Windows 11</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unfreeze-your-gaming-experience-with-these-code-vein-fixes/"><u>Unfreeze Your Gaming Experience with These Code Vein Fixes</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-efficient-broadcast-techniques-incorporating-youtube-loops-on-tv/"><u>2024 Approved Efficient Broadcast Techniques Incorporating YouTube Loops on TV</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accelerating-textual-analysis-from-pdfs-using-chatgpt-solutions/"><u>Accelerating Textual Analysis From PDFs Using ChatGPT Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/astro-a50-wireless-earbuds-resolving-non-functioning-microphone-problems-easily/"><u>Astro A50 Wireless Earbuds - Resolving Non-Functioning Microphone Problems Easily</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-apple-iphone-15-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your Apple iPhone 15 Apple ID and Apple Pay</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-google-chromes-picture-in-picture-feature/"><u>In 2024, Navigating Google Chrome's Picture In Picture Feature</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-art-of-mic-testing-in-minutes/"><u>Master the Art of Mic Testing in Minutes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-logitech-g935-headset-microphone-problems-in-windows/"><u>Resolving Logitech G935 Headset Microphone Problems in Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-honor-x9b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/strategic-lines-for-striking-iphone-photography/"><u>Strategic Lines for Striking iPhone Photography</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-anthem-quiet-effective-strategies-to-restore-game-audio-and-enjoy-full-experience/"><u>Windows 10 Anthem Quiet: Effective Strategies to Restore Game Audio & Enjoy Full Experience</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-blue-screen-issue-fixed/"><u>Windows 10 Blue Screen Issue Fixed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-tackling-non-appearing-headphones-issue-in-sound-settings/"><u>Windows Tackling Non-Appearing Headphones Issue in Sound Settings</u></a></li>
 </ul></div>
 

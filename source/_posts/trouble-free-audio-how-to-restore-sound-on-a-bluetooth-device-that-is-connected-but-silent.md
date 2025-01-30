@@ -1,7 +1,7 @@
 ---
 title: "Trouble-Free Audio: How to Restore Sound on a Bluetooth Device That Is Connected But Silent"
-date: 2024-08-13T10:46:37.166Z
-updated: 2024-08-14T10:46:37.166Z
+date: 2025-01-27T02:44:25.003Z
+updated: 2025-01-30T03:03:16.644Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/7ec641d0887205acbcfc6836f03618d0eee863811
 If you run into the**Bluetooth** connected but no sound coming out issue on your computer, don’t worry. It’s often quite easy to fix…
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5 fixes for Bluetooth Connected But No Sound
 
  The screenshots below are from**Windows 10** , but the fixes also work in**Windows 8.1** and**7** .
@@ -34,9 +35,6 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Select the Bluetooth device as the default playback device
 
  Sometimes we might need to set our audio devices as default in order for them to work properly. To do so:
@@ -49,23 +47,27 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Make sure the audio level is high enough
 
  In**Fix 2** , we make sure our Bluetooth speaker/headphone’s is at least audible. Here’s how:
 
 1. On your keyboard, press the **Windows logo key**  and type**sound** . Then click on**Sound** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1c8bbf643.jpg)
 2. In the**Playback** tab, click on**your** **Bluetooth device** \>**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d223cd2694.jpg)
 3. Click the Levels tab. Then make sure**the volume bar is dragged to an audible level** and the sound icon**isn’t muted** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d22c378f3f.png)
 4. Click**Apply** \>**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Hopefully the **Bluetooth Connected But No Sound problem** has been resolvedthis time. If the problem still persists, move on to **Fix 3** .
 
 ---
@@ -75,27 +77,24 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
  Another reason for this **Bluetooth Connected But No Sound**  problem is the service simply disabled. To turn it back on:
 
 1. On your keyboard, press the **Windows logo key**  and **R**  at the same time. Then copy & paste **services.msc**  into the box and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ef3aff37fc.jpg)
 2. Double-click on**Bluetooth Support Service** .  
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1e0590947.jpg)
 3. Select**Automatic** in the**Startup type** drop-down menu and then click**Start** to jumpstart the service. Then click**Apply** \>**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1ea8ed445.jpg)
 4. Play some music and test if your**Bluetooth Connected But No Sound** has been fixed. If it’s still no joy, please move on to F**ix 4,** below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your Bluetooth driver
 
  This problem may occur if you have the wrong or outdated (or even none) Bluetooth driver. So you should update your Bluetooth driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -113,6 +112,10 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627e9c324d0.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -145,8 +148,6 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +155,23 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-first-choice-top-15-videography-power-tools/"><u>[New] First Choice Top 15 Videography Power Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-android-companions-compassionate-3d-experience/"><u>[New] In 2024, Android Companions Compassionate 3D Experience</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-bringing-ideas-to-life-video-editing-essentials-in-windows-11/"><u>[Updated] 2024 Approved Bringing Ideas to Life Video Editing Essentials in Windows 11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-ultimate-guide-to-vlc-features-in-mac-os/"><u>[Updated] In 2024, The Ultimate Guide to VLC Features in Mac OS</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-rise-above-the-rest-how-to-swell-your-youtube-base/"><u>[Updated] Rise Above the Rest How to Swell Your YouTube Base</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-mastery-in-video-creation-using-captivate-software/"><u>2024 Approved Mastery in Video Creation Using Captivate Software</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/androids-optimal-cloud-savers-updated-list-for-2024/"><u>Android's Optimal Cloud Savers Updated List for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/epson-scanner-glitch-resolved-now-functioning-on-windows-11/"><u>Epson Scanner Glitch Resolved - Now Functioning on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016956572-expert-fixes-for-when-your-steelseries-arctis-pros-microphone-wont-work-anymore/"><u>Expert Fixes for When Your SteelSeries Arctis Pro's Microphone Won't Work Anymore</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-solutions-how-to-get-your-steelseries-arctis-pro-mic-up-and-running-again/"><u>Expert Solutions: How to Get Your SteelSeries Arctis Pro Mic Up and Running Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-idt-high-definition-audio-codec-driver-issues-on-windows-10-a-complete-guide/"><u>Fixing IDT High Definition Audio Codec Driver Issues on Windows 10: A Complete Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-restoring-optimal-sound-levels-on-your-windows-10-pc/"><u>Guide to Restoring Optimal Sound Levels on Your Windows 10 PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>How to identify malfunctioning your hardware drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-your-logitech-g733-headset-resolving-non-functional-mic-problems/"><u>Troubleshoot Your Logitech G733 Headset: Resolving Non-Functional Mic Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/understanding-and-fixing-your-voice-chat-issues-on-discord/"><u>Understanding and Fixing Your Voice Chat Issues on Discord</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-using-wintoys-a-compreayers-guide-for-windows-applications/"><u>Understanding and Using WinToys: A Compreayer's Guide for Windows Applications</u></a></li>
+</ul></div>
 

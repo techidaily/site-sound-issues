@@ -1,7 +1,7 @@
 ---
 title: "Fixing World of Warcraft: How to Restore Your In-Game Voice Communication"
-date: 2024-08-13T10:47:05.634Z
-updated: 2024-08-14T10:47:05.634Z
+date: 2025-01-26T03:36:25.695Z
+updated: 2025-01-30T08:40:56.072Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 **Voice chat is not working** in PLAYERUNKNOWN’S BATTLEGROUNDS (PUBG) Duo or Squad mode? This is so frustrating. But don’t worry, whether you’re getting issues like PUBG voice chat not working, or PUBG mic not working, there is something you can do to fix your problem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to fix voice chat not working in PUBG
 
  Here are the solutions that have helped players resolve the voice chat issue. You shouldn’t have to try them all. Just try each one in turn until everything’s working again.
@@ -48,32 +49,18 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Make sure your mic is on for PUBG (for Windows 10 users)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you find your voice chat is not working in PUBG on Windows 10 computer, the first thing you should check is to turn on microphone permission for PUBG. Here’s what you need to do:  1) On your keyboard, press the **Windows logo key![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**I** at the same time.  2) Click**Privacy** in**Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2665c0c8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Microphone** on the left pane, and make sure Microphone access for this device is on, and the status is**On** for**PUBG** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ad8d38e.jpg)
 
  4) Log in PUBG and see if your microphone works this time.
@@ -92,18 +79,23 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 
  3) Click the**Recording** tab, and make sure your microphone is the**Default Device** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd37007122.jpg)
 
  4) Then right click on your microphone device, and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd3b101d73.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) In the new pop up pane, click the**Advanced** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd419e19e4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Make sure to**uncheck** the box next to**Allow application to take exclusive control of this device** . Then click**Apply** and**OK** .
 
@@ -123,13 +115,18 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd61613c73.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer to take effect.  Open PUBG in your computer and see if voice chat works in duo or squad mode.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Check audio settings for your game
 
  The incorrect audio settings in your game can also result in PUBG voice chat not working, so ensure you’ve configured the audio settings in your PUBG. below lists a few audio settings that you should check:
@@ -138,9 +135,6 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 
  First of all, make sure you’ve select to use all channels in your voice chat:  1) Go to PUBG**Settings** \>**Sound** .  2) In the**Voice** section, make sure to select**Voice Channel** to**All** ,**Voice Chat Mode** to**Push** **To Talk** , and the**Voice Chat Input** and**Voice Chat Output** is**100** .
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd6ce9ed90.jpg)
 
  3) Save your settings and try it again to see if it works.
@@ -153,9 +147,6 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 
  2) Click**Voice** or**In-Game Voice** .
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd839562f7.jpg)
 
  3) In the**Recording (audio input) device** section, make sure your**microphone** is selected. If the detected recording device is not your microphone, click**Change** (or**Change Device** ) to change it to your device.
@@ -164,18 +155,16 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 
  4) Make sure the**Microphone volume** and**Receive volume** is dragged to medium or high, so you can hear from your friends and you can be heard.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd888581ab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Save your changes and open PUBG again to see if it works for voice chat.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Change your network
 
  As many people have reported that they solved the PUBG voice chat not working issue after switching to another network, you can try this method and see if it works for you.  If you’re using VPN, try**disabling your VPN** or**changing to another VPN** , then open PUBG and see if voice chat works this time.  If you’re using WiFi or Ethernet broadband, try**connecting to another WiFi** .
@@ -183,23 +172,17 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7: Modify the game file settings
 
  Sometimes the improper settings in your game configuration files can also cause the voice chat not working issue in your PUBG game. So follow the steps below:  1) Type**%appdata%** in the**search** bar from the**Start** menu, then select**%appdata%** in**File Folder** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd9f253113.jpg)
 
  2) Windows will open the**File Explorer** , then click**AppData** in the directory bar.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fda44e6191.png)
 
  3) Go to**Local** \>**TslGame** \>**Saved** \>**Config** \>**WindowsNoEditor** .
@@ -210,6 +193,10 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdae51587f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) In the file that you open, make sure the following settings is configured correctly:
 
 IsVoiceInputMute=False
@@ -218,11 +205,11 @@ IsVoiceOutputMute=False
 VoiceInputVolume=100
 VoiceOutputVolume=100
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdb1927f7f.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Save the file and restart your computer.  Open PUBG in your computer and try if voice chat works.
 
@@ -238,8 +225,6 @@ VoiceOutputVolume=100
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -247,4 +232,21 @@ VoiceOutputVolume=100
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-fast-track-to-fandom-top-30-engaging-nicknames-for-discord/"><u>[New] 2024 Approved Fast Track to Fandom Top 30 Engaging Nicknames for Discord</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-capture-and-record-videos-from-your-webcam/"><u>[New] Capture and Record Videos From Your Webcam</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-cutting-edge-recording-best-camcorders-reviewed/"><u>[New] In 2024, Cutting-Edge Recording Best Camcorders Reviewed</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-a-critique-of-vivas-video-capabilities/"><u>[Updated] A Critique of Viva's Video Capabilities</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-12-ultimate-insta-image-enhancers/"><u>2024 Approved 12 Ultimate Insta Image Enhancers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-hardware-with-tom-expert-tips-and-advice/"><u>Dive Into Hardware with Tom - Expert Tips & Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-squads-mic-issues-ultimate-troubleshooting-steps/"><u>Fixing Your Squad's Mic Issues: Ultimate Troubleshooting Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-microsoft-teams-microphone-up-and-running-on-pc-or-laptop-with-windows-1110/"><u>Get Microsoft Teams Microphone Up and Running on PC or Laptop with Windows 11/10</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-15-pro-max-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro To Other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-alpha-s-mic-problem-solved-step-by-step-fixes-for-gamers/"><u>HyperX Cloud Alpha S Mic Problem Solved – Step-by-Step Fixes for Gamers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-vivo-x-flip-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Vivo X Flip? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014999163-laptop-audio-issues-solved-get-your-sound-back/"><u>Laptop Audio Issues Solved: Get Your Sound Back!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-hp-computers-sound-malfunction-under-windows-11/"><u>Troubleshooting HP Computer's Sound Malfunction Under Windows 11</u></a></li>
+</ul></div>
 

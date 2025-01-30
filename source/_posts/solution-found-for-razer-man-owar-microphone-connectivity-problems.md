@@ -1,7 +1,7 @@
 ---
 title: Solution Found for Razer Man O’War Microphone Connectivity Problems
-date: 2024-08-13T10:45:34.987Z
-updated: 2024-08-14T10:45:34.987Z
+date: 2025-01-26T07:26:21.762Z
+updated: 2025-01-30T08:42:21.439Z
 tags:
   - win11
   - win10
@@ -15,17 +15,14 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
 
 ## Razer Man O' War Headset Malfunction? Here Are Solutions for Your Mic Troubles
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-98.png)
 
  The mic of your Razer ManO’War headset stops working for no reason? Well, that’s pretty infuriating – especially when you’re immersing in a multiplayer video game and all of a sudden, the mic refuses to transmit your voice or produce sound. Luckily, you’re not the only one here as many other disgruntled users reported the same problem.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5 fixes for Razer ManO’War mic not working
 
  So is it possible to resolve this problem? Sure thing, as long as your mic is not broken. Here’re 5 fixes that have proved useful in many situations. You can try any of them selectively, or you can try them one by one; just work your way down the list until you find that one what does the trick.
@@ -43,21 +40,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Check your Sound settings
 
  Usually Windows will identify your plugged-in headset as the default playback/recording device, but that’s not always the case. To see if there’s anything wrong with the settings for your Razer ManO’War, please perform the following procedure:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
  1) Click the speaker icon![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-26_14-41-05.jpg) in the notification area of your task bar. Then click**Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-101.png)
@@ -68,16 +57,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  3) Click to highlight**Razer ManO’War** , then click**Set Default > Default Device** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-115.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also right-click**Razer ManO’War** and check if it is disabled. If it is, select**Enable** to get your mic working.
 
  4) Right-click**Razer ManO’War** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-106.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the**Levels** tab, see if your mic is muted. In case it is (as shown in the following screenshot), click on the little speaker icon to unmute your mic. On completion, click**OK** .
 
@@ -91,27 +85,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Modify Privacy settings
 
  There’s a possibility that your privacy settings related to the microphone has been reset after a Windows Update or other system events. If so, some programs (e.g. a video game) might be forbidden to access your mic. Here’s how to check and modify these settings:
 
  1) On your keyboard, press the **Windows logo key** and **I** at the same time to fire up the **Settings** window. Then, select **Privacy** .
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-365.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) On the**Microphone** tab, in the results pane, click **Change** to see if**Microphone access for this device** is toggled on. If it isn’t, make sure you toggle it on.
 
  Right below you’ll see another toggle for **Allow apps to access your microphone** . Also remember to turn it on.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-368.png)
 
  3) Scroll down and head to the part of **Choose which apps can access your microphone** . Make sure you**toggle on** the apps in which you want to use the mic.
@@ -121,6 +110,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 If this fix didn’t help, please try out the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall Razer Synapse
 
@@ -136,26 +129,19 @@ If this fix didn’t help, please try out the next fix.
 
  3) On the next page, scroll down and select**Razer ManO’War** .
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-110.png)
 
  4) Click**View software, drivers and updates for download >** .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-111.png)
 
  5) Find the one compatible with your operating system, and click**Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-114.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After downloading the correct file, install it on your PC. Then, launch Razer Synapse and configure the settings for your Razer ManO’War mic. Check to see whether your mic has gone back to normal; if it hasn’t, then please give the next fix a shot.
 
@@ -177,11 +163,12 @@ If this fix didn’t help, please try out the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-07-15_14-27-17.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your audio driver for now, simply click the **Update**  button next to it.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-7.png)
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -214,8 +201,6 @@ If this fix didn’t help, please try out the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -223,4 +208,17 @@ If this fix didn’t help, please try out the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-superior-music-sync-for-windows/"><u>[Updated] 2024 Approved Superior Music Sync for Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/blue-yeti-unrecognized-by-computer-essential-troubleshooting-steps-to-follow/"><u>Blue Yeti Unrecognized by Computer? Essential Troubleshooting Steps to Follow</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/explore-the-future-of-gaming-comprehensive-dell-alienware-aurora-r9-system-analysis/"><u>Explore the Future of Gaming: Comprehensive Dell Alienware Aurora R9 System Analysis</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/fade-to-darkness-instantaneously/"><u>Fade to Darkness Instantaneously</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ideal-modeling-software-for-animation-professionals/"><u>Ideal Modeling Software for Animation Professionals</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-quantitative-vs-qualitative-analysis-a-guide-for-professionals/"><u>In 2024, Mastering the Art of Quantitative vs Qualitative Analysis A Guide for Professionals</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Realme 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015087351-modern-warfare-voice-communication-issues-solved/"><u>Modern Warfare Voice Communication Issues - Solved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016849789-solution-steps-why-is-my-razer-kraken-mic-not-working-find-out-here/"><u>Solution Steps: Why Is My Razer Kraken Mic Not Working? Find Out Here</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016967623-troubleshooting-tips-for-solving-logitech-g533-headset-mic-issues-all-cases-covered/"><u>Troubleshooting Tips for Solving Logitech G533 Headset Mic Issues - All Cases Covered!</u></a></li>
+</ul></div>
 

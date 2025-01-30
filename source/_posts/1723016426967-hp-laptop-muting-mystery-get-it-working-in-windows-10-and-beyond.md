@@ -1,7 +1,7 @@
 ---
 title: HP Laptop Muting Mystery? Get It Working in Windows 10 and Beyond
-date: 2024-08-13T10:49:00.560Z
-updated: 2024-08-14T10:49:00.560Z
+date: 2025-01-23T16:06:49.855Z
+updated: 2025-01-30T02:39:09.297Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b
 
 ## HP Laptop Muting Mystery? Get It Working in Windows 10 and Beyond
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacbac36ff6b.png)
 
  If**the sound is not working** on your HP laptop (either HP pavilion or HP Envy laptop), don’t worry. This is a common issue. The good news is, you can**fix sound not working** **on HP laptop** quickly and easily.
@@ -32,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b
 4. [**Reinstall your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ### **Fix 1: Troubleshoot the hardware issue**
 
  The hardware problem can cause the sound not working issue, so you can follow the instructions below to troubleshoot and identify your sound problem.
@@ -51,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b
 
  If the sound is still not working, here’s the next thing to try…
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 2: Check the audio settings in your Windows**
 
  If the hardware is working properly, the sound issue can be caused by the**incorrect settings** in your laptop. Follow the steps below to check the settings for your sound.
@@ -70,24 +61,19 @@ thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b
 
  1) Right click the**volume icon** at the bottom right corner, and click**Playback devices** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 
  2) Check your audio device in the**Playback** tab. Make sure there’s a**green check** next to your audio device, and that shows that your audio device is the**default** playback device.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b59d5056.png)
 
  3) If your audio device is not the default device, click**Set Default** . Then click**OK** to save.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a446177e761d.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Test the sound on your laptop so see whether there is any sound.
 
@@ -97,9 +83,6 @@ thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b
 
  1) Right click the**volume icon** at the bottom right corner, and click**Playback** **devices** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 
  2) Select your audio device in the**Playback** tab, and click**Properties** .
@@ -122,9 +105,17 @@ thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb470694a1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Make sure there’s**NOT** a down arrow displayed next to the volume icon in your sound device, like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb4e9bbee3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If a**down arrow** displays on the volume icon, the sound device is disabled. Right click the device name, and select**Enable** **device** to enable your sound device.
 
@@ -133,8 +124,9 @@ thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b
 4) Try the sound to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 3: Update your sound driver**
 
  A missing or outdated sound driver can cause the sound not working, so you can try to update your driver to the latest version to fix the problem.
@@ -153,16 +145,21 @@ thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged audio driver to automatically download and install the correct audio driver (You can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install all the latest correct drivers that is missing or outdated (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
 
 4) Restart your computer and check whether your problem is solved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 4: Reinstall your audio driver**
 
@@ -172,9 +169,6 @@ thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b
 
  2) Double-click**Sound, video and game controllers** to expand it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962e2ade37c.jpg)
 
  3) Right-click your sound device and click**Uninstall device** .
@@ -185,7 +179,15 @@ thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ef431c66.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Restart your computer and Windows will automatically download and install the sound driver for your device. After that, check the sound to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Check for corrupted system files
 
@@ -205,9 +207,6 @@ thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b
 
  2) Open Fortect. It will run a free scan of your PC and give you **a detailed report of your PC status** .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 
  3) Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
@@ -227,8 +226,6 @@ thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -236,4 +233,22 @@ thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-cutting-through-the-clutter-youtubes-copyright-evolution/"><u>[New] 2024 Approved Cutting Through the Clutter YouTube's Copyright Evolution</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-features-and-flaws-of-samsungs-image-editor-reviewed/"><u>[New] Features and Flaws of Samsung's Image Editor Reviewed</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-subtitles-on-the-social-media-stage-igtv-for-2024/"><u>[New] Mastering Subtitles on the Social Media Stage IGTV for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-triller-101-the-unique-path-of-non-tiktok-social-media-for-2024/"><u>[Updated] Triller 101 The Unique Path of Non-TikTok Social Media for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-from-capture-to-curve-an-insider-look-at-editing-and-sharing-360-videos-on-youtube/"><u>2024 Approved From Capture to Curve An Insider Look at Editing and Sharing 360° Videos on YouTube</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-plugged-in-audio-equipment-errors-on-windows-platforms-version-11-8-and-7/"><u>Diagnosing and Repairing Plugged-In Audio Equipment Errors on Windows Platforms (Version 11, 8 & 7)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhancing-your-listening-experience-troubleshooting-windows-11s-audio-issues/"><u>Enhancing Your Listening Experience: Troubleshooting Windows 11'S Audio Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensuring-full-visibility-for-system-startups/"><u>Ensuring Full Visibility for System Startups</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-and-simple-mic-checks-the-ultimate-guide-to-rapid-microphone-testing/"><u>Quick and Simple Mic Checks: The Ultimate Guide to Rapid Microphone Testing!</u></a></li>
+<li><a href="https://discover-great.techidaily.com/recuperacion-exitosa-como-restaurar-la-particion-de-arranque-eliminada-por-error-en-versiones-recientes-de-windows/"><u>Recuperación Exitosa: Cómo Restaurar La Partición De Arranque Eliminada Por Error en Versiones Recientes De Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-silent-speakers-despite-connection-tips-for-windows-users/"><u>Resolving Silent Speakers Despite Connection - Tips for Windows Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-quests-resolved-reinstating-audio-in-world-of-warcraft/"><u>Silent Quests Resolved? Reinstating Audio in World of Warcraft</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016674492-ultimate-solution-for-onikuma-headset-mic-issues-now-resolved/"><u>Ultimate Solution for Onikuma Headset Mic Issues - Now Resolved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/use-compatibility-mode-right-click-on-your-desktop-select-personalize-)-themes-)-display-style-)-change-across-all-monitors-)-advanced-scaling-settings-adju622/"><u>Use Compatibility Mode: Right-Click on Your Desktop, Select Personalize > Themes > Display Style > Change Across All Monitors > Advanced Scaling Settings. Adjust Resolution to Ensure Compatibility with Tozo T6</u></a></li>
+</ul></div>
 

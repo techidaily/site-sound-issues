@@ -1,7 +1,7 @@
 ---
 title: Fix No Speakers or Headphones Are Plugged in Issue in Windows 10/8/7
-date: 2024-08-13T10:45:31.133Z
-updated: 2024-08-14T10:45:31.133Z
+date: 2025-01-24T16:05:46.603Z
+updated: 2025-01-29T16:11:16.914Z
 tags:
   - win11
   - win10
@@ -42,9 +42,6 @@ Before you start, make sure your headset is working properly.
 
 If this trick doesn’t work for you, please move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Update your audio driver
 
  The Windows 11 no sound issue and other audio issues are usually caused by drivers. Outdated drivers or missing drivers are the reason for many PC problems. To fix it, you need to find the latest and compatible driver for your devices.
@@ -53,9 +50,6 @@ If this trick doesn’t work for you, please move to the next fix.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and**install** Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -68,9 +62,6 @@ If this trick doesn’t work for you, please move to the next fix.
 
 If this fix doesn’t help, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Realtek driver issue
 
  If you have Realtek audio on your PC, this fix might be the right one for you. Realtek driver is sometimes corrupted on Windows 11 and it can lead to Windows 11 no sound or other audio issues. Here’s how to fix it.
@@ -78,46 +69,42 @@ If this fix doesn’t help, move to the next fix.
 1. Click the**Search** button on the bottom and type**device manager** . Then press the**Enter** key to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound3.jpg)
 2. Expand**Sound, video and game controllers** . Find**Realtek audio** and right-click on it. Choose**Update driver** .  
+
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound4.jpg)
 3. Click**Browse my computer for drivers** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound5.jpg)
 4. Click**Let me pick from a list of available drivers on my computer** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound6.jpg)
 5. Check**Show compatible hardware** . Then click**High Definition Audio Device** \>**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound7.jpg)
 6. Click**Yes** in the pop-up window.  
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound8.jpg)
 7. Restart your PC for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Check the sound on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Update your Windows system
 
  Windows 11 will release new updates to fix some issues, so check for updates and it might cure the Windows 11 no sound issue. You can do it manually by following the steps below.
@@ -126,6 +113,11 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 2. Click**Windows Update** \>**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound9.jpg)
 3. Windows will check the latest available updates for you. If you have available updates, Windows 11 will download and install them automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. After the whole process, restart your PC and check the effect.
 
 ## Fix 5: Repair system files
@@ -141,10 +133,11 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -157,8 +150,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +157,26 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-retail-marketing-through-vr-technology-for-2024/"><u>[Updated] Retail Marketing Through VR Technology for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-industrys-airborenas-titans-10-lifters-reviewed/"><u>2024 Approved Industry's Airborenas Titans 10 Lifters Reviewed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dive-into-the-world-of-yakuza-like-a-dragon-a-captivating-jrpg-you-ought-to-play-now/"><u>Dive Into the World of Yakuza: Like a Dragon - A Captivating JRPG You Ought to Play Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-the-chronic-black-screen-glitch-when-playing-fortnite-on-pcs-with-windows-os/"><u>Effective Solutions for the Chronic Black Screen Glitch When Playing Fortnite on PCs with Windows OS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-transferring-your-dvds-from-disc-to-desktop-step-by-step-process/"><u>Guide: Transferring Your DVDs From Disc to Desktop – Step-by-Step Process</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-top-10-best-free-online-screen-recorders/"><u>In 2024, Top 10 Best Free Online Screen Recorders</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-visual-entry-examination-digest/"><u>In 2024, Visual Entry Examination Digest</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/laptop-as-external-monitor-how-to-easily-project-your-desktop/"><u>Laptop as External Monitor: How to Easily Project Your Desktop</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/most-asked-questions-about-pokemon-go-battle-league-rewards-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>Most Asked Questions about Pokemon Go Battle League Rewards On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-common-problems-getting-your-razer-blackshark-v2-mic-up-and-running/"><u>Overcoming Common Problems: Getting Your Razer Blackshark V2 Mic Up and Running</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-silent-displays-a-guide-for-restoring-sounds-from-laptoptv-connection-through-hdmi-cable/"><u>Overcoming Silent Displays: A Guide for Restoring Sounds From Laptop/TV Connection Through HDMI Cable</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-common-microphonevoice-chat-problems-in-call-of-dutys-battle-royale-warzone/"><u>Quick Fixes for Common Microphone/Voice Chat Problems in Call of Duty's Battle Royale - Warzone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-corsair-hs35-audio-problems-in-windows-os-a-step-by-step-guide/"><u>Resolving Corsair HS35 Audio Problems in Windows OS - A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-non-functional-astro-a1n-mic-errors-tutorial/"><u>Resolving Non-Functional Astro A1n Mic Errors [Tutorial]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-sound-to-enhance-your-experience-with-black-ops-cold-war-on-windows-solved/"><u>Restore Sound to Enhance Your Experience with Black Ops Cold War on Windows - Solved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-airpods-mic-a-step-by-step-guide-for-windows-10-systems/"><u>Reviving Your AirPods' Mic: A Step-by-Step Guide for Windows 10 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-stereo-sound-fixing-issues-with-stereo-mix-functionality/"><u>Reviving Your Stereo Sound: Fixing Issues with Stereo Mix Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-solutions-eliminate-that-unwanted-buzz-in-audio-equipment/"><u>Simple Solutions: Eliminate That Unwanted Buzz in Audio Equipment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformacion-de-videos-a-formato-wmv-una-guia-sencilla-con-movavi/"><u>Transformación De Videos a Formato WMV: Una Guía Sencilla Con Movavi</u></a></li>
+</ul></div>
 

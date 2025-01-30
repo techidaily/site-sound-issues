@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Restoring Windows 7 Microphone Functionality"
-date: 2024-08-13T10:46:16.142Z
-updated: 2024-08-14T10:46:16.142Z
+date: 2025-01-22T23:25:02.576Z
+updated: 2025-01-30T03:32:36.369Z
 tags:
   - win11
   - win10
@@ -30,25 +30,20 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 5. [Make sure your microphone is enabled](https://tools.techidaily.com/drivereasy/download/)
 6. [Download and install Windows updates](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Run the audio troubleshooter
 
  When you run into audio or sound issues, using the troubleshooting tool can help you identify what’s going on. To run the audio troubleshooter, take these steps:
 
  1) In the search box on the taskbar, type **audio troubleshooter** . Then click **Find and fix problems with playing sound**  from the results.  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![run the audio troubleshooter Windows](https://images.drivereasy.com/wp-content/uploads/2021/03/audion-troubleshooter.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Select your device and click **Next**  to start the troubleshooting process. Then wait for it to complete and you may be asked to restart your computer.  
   
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![run the audio troubleshooter MPOW Microphone not working](https://images.drivereasy.com/wp-content/uploads/2021/04/select-the-device-you-want-to-troubleshoot.png)
 
  Now Windows will help you scan for issues. Simply follow the on-screen instructions to resolve your problems.
@@ -82,18 +77,21 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Set your microphone as the default device
 
  Normally, when your microphone is connected, Windows can automatically detect it and set it as the default input device. But you may have multiple input or recording devices connected. It would occur to you that your computer is using another device instead of the one you’re attempting to. In order to set your MPOW microphone as your input device, follow the instructions below:
 
  1) At the bottom-right corner of your taskbar, right-click your speaker icon and select **Open Sound settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Scroll down to the section of **Related Settings** and click **Sound Control Panel** .  
   
@@ -101,19 +99,16 @@ The powerful video editing program for your Windows PC</a>
 
  3) When the Sound window opens, select the**Recording** tab. Click on your microphone and then click**Set Default > OK** .  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![set MPOW microphone as the default device](https://images.drivereasy.com/wp-content/uploads/2021/04/image.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you’ve saved the changes, use your microphone to check if your problems have been solved.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Make sure apps have access to your microphone
 
  In order to access your microphone, the apps need permissions. To let apps access your microphone, take these steps:
@@ -126,16 +121,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  3) Click **Microphone**  on the left pane. Then click on the **Change**  button and make sure **Microphone access for this device**  is turned on.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![turn on app permissions on your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/turn-on-app-permissions-for-your-micropho0ne.png)
 
  4) Under the **Allow apps to access your microphone**  section, make sure it’s turned **On** .  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
 
  5) Once you’ve allowed microphone access to your apps, you can change the settings for each app. Simply head to the **Choose which Microsoft apps can access your microphone** , and turn on apps you want to use with it. For desktop apps, make sure that **Allow desktop apps to access your microphone**  is turned **On** .
@@ -144,23 +133,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Make sure your microphone is enabled
 
  It may sound odd but there are just possibilities that your microphone has accidentally been disabled. If that’s your case, your microphone definitely wouldn’t be recording any sound. To make sure your mic is enabled, take these steps:
 
  1) At the bottom-right corner of your taskbar, right-click your speaker icon and select **Open Sound settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
 
  2) Under the **Input**  section, make sure that your headset is selected as the input device. Then click **Device Properties** .  
   
 ![choose the audio input device](https://images.drivereasy.com/wp-content/uploads/2021/04/input-device.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Make sure that your headset is not disabled.  
   
@@ -178,9 +165,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it.  
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After installing the latest Windows updates, use your headset mic and it should be functioning now.
 
@@ -194,8 +189,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +196,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-capture-attention-with-influential-tags-on-social-medias-tiktok/"><u>[New] 2024 Approved Capture Attention with Influential Tags on Social Media's TikTok</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-elevate-your-ad-game-a-deep-dive-into-spotify-promotion/"><u>[New] Elevate Your Ad Game A Deep Dive Into Spotify Promotion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-strategic-placements-for-elevating-youtube-videos/"><u>[New] Strategic Placements for Elevating YouTube Videos</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-navigating-through-music-production-software-landscape-can-magix-samplitude-be-considered-supreme/"><u>2024 Approved Navigating Through Music Production Software Landscape Can MAGIX Samplitude Be Considered Supreme?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/addressing-mutism-problems-on-your-discord-conversations/"><u>Addressing Mutism Problems on Your Discord Conversations</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-making-your-microsoft-teams-microphone-work-properly-on-latest-windows-versions/"><u>Expert Advice: Making Your Microsoft Teams Microphone Work Properly on Latest Windows Versions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-restore-functionality-of-your-hyperx-cloud-alpha-mic-troubleshooting-steps/"><u>Expert Tips to Restore Functionality of Your HyperX Cloud Alpha Mic - Troubleshooting Steps</u></a></li>
+<li><a href="https://facebook.techidaily.com/mobile-mastery-fastest-android-compact-apps/"><u>Mobile Mastery: Fastest Android Compact Apps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-sounds-in-pc-gaming-overcoming-silent-mode-on-black-ops-cold-war/"><u>Restoring Sounds in PC Gaming - Overcoming Silent Mode on Black Ops: Cold War</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-infinix-note-30-pro-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Infinix Note 30 Pro Device</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Shut Down Audio Enhancements on Your Windows 10 Device"
-date: 2024-08-13T10:46:02.588Z
-updated: 2024-08-14T10:46:02.588Z
+date: 2025-01-27T19:51:53.194Z
+updated: 2025-01-29T20:29:26.628Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/bedf5c8b53d1004ac14c8188bc2b10e8fa9f12bca
 
 ## Troubleshoot Audio on Windows 11 - Quick Solutions, No More Silence
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/04/fix-windows-10-no-sound-2.jpg)
 
  One of the most common problems with Windows 10 is no sound. Particularly immediately after upgrading from a previous version of Windows. So if you’re experiencing this problem, rest assured, you’re not alone. More importantly, it’s usually a pretty easy problem to resolve.
@@ -25,8 +22,9 @@ thumbnail: https://thmb.techidaily.com/bedf5c8b53d1004ac14c8188bc2b10e8fa9f12bca
  Here are three simple fixes you can try. You don’t necessarily have to try them all. Just start at the top of the list and work your way down.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Fix No Sound Issue on Windows 10
 
 1. [**Check cables and volumes**](https://tools.techidaily.com/drivereasy/download/)
@@ -36,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/bedf5c8b53d1004ac14c8188bc2b10e8fa9f12bca
 5. [**Disable audio enhancements**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Restart audio services**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Check cable and volumes
 
  If you don’t hear sound from your external audio devices, like speakers and headphones, you can check if their cable is broken. You can plug them to in another computer and see if they work in another computer. If they work in another computer, the problem is probably caused by the cable.
@@ -50,23 +45,28 @@ thumbnail: https://thmb.techidaily.com/bedf5c8b53d1004ac14c8188bc2b10e8fa9f12bca
 1. Right-click the sound icon at the bottom right corner of your desktop and click **Playback devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/04/img_570b4f3700616.png)
 2. In the**Playback** tab, ensure there’s a green tick on**Speakers** . This indicates that your speakers are the default playback device.  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Default speaker ticked Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Default-speaker-ticked-Windows10.png)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your Speakers are NOT already set as the default, this is doubtless your problem. To fix, just click them, click**Set Default** , then click **OK** and test whether you have sound.  
 ![Set default speakers Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Set-default-speakers-Windows-10.png)  
 
  If your Speakers are set as the default playback device, and you’re still not hearing any sound, you should experiment with different sound formats. To do this, click**Speakers** then **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Change speaker sound format Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Change-speaker-sound-format-Windows-10.png)
 3. Go to the **Advanced** tab, and in the**Default Format** section, select a different sample rate and bit depth, then click**Test** . Repeat this process until you find a format that works, then click**OK** . If you don’t find a format that works, proceed to[Method 2](https://tools.techidaily.com/drivereasy/download/) below.  
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Test speaker sound format Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Test-speaker-sound-format-Windows-10.png)
 
 ### Method 3: Uninstall your audio driver
@@ -79,20 +79,16 @@ thumbnail: https://thmb.techidaily.com/bedf5c8b53d1004ac14c8188bc2b10e8fa9f12bca
 2. Click **Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-9.jpg)
 3. In Device Manager, expand**Sound, video and game controllers** , right-click on your sound card, and click **Uninstall** .  
+
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
 4. If you’re asked to confirm the uninstall, check the**Delete the driver software for this device** box and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
 5. Restart your computer and check to see if the problem is resolved. If it’s not, move on to[Method 3](https://tools.techidaily.com/drivereasy/download/) below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 4: Update your audio driver
 
  If experimenting with different sound formats and uninstalling your audio driver didn’t bring back your sound in Windows 10, it’s likely that you’re using the wrong audio driver.
@@ -123,11 +119,19 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-272.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select one**Default Device** and select**Properties** .
 
 In the example below, the default device is Speakers / Headphones.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-275.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) On the**Enhancements** tab,**select** the**Disable all enhancements** check box. Then click**OK** .
 
@@ -137,6 +141,10 @@ In the example below, the default device is Speakers / Headphones.
 
 **Note** if you have multiple default devices, you may need to repeat the steps above for each default device until the sound issue is resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 6: Restart audio services
 
 Follow these steps to restart audio services.
@@ -145,17 +153,10 @@ Follow these steps to restart audio services.
 
  2) Type**services.msc** in the run box.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-278.png)
 
  3) Right-click on**Windows Audio** service and select**Restart** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-279.png)
 
 4) Restart your computer and check to see if the problem is resolved.
@@ -171,8 +172,6 @@ Follow these steps to restart audio services.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +179,23 @@ Follow these steps to restart audio services.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweet-trailblazers-the-trending-threads-showdown/"><u>[Updated] 2024 Approved Tweet Trailblazers The Trending Threads Showdown</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harness-the-power-of-online-cropping-to-elevate-your-photos/"><u>[Updated] Harness the Power of Online Cropping to Elevate Your Photos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-oppo-reno-10-pro-5g-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Oppo Reno 10 Pro 5G</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-xiaomi-redmi-note-13-proplus-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Xiaomi Redmi Note 13 Pro+ 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-samsung-galaxy-s23plus-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Samsung Galaxy S23+ to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/serene-digital-artwork-for-pc-high-resolution-designs-and-imagery-from-yl-creations/"><u>Serene Digital Artwork for PC: High-Resolution Designs & Imagery From YL Creations</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sleep-aid-asmr-techniques-unveiled-for-2024/"><u>Sleep Aid ASMR Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-guide-to-repairing-rust-mic-malfunctions-updated/"><u>The Definitive Guide to Repairing Rust Mic Malfunctions (Updated )</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-hidden-history-in-your-browser-how-to-tackle/"><u>The Hidden History in Your Browser How to Tackle?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-fix-for-obs-desktop-audio-problems-techniques-to-restore-recording-quality/"><u>The Ultimate Fix for OBS Desktop Audio Problems: Techniques to Restore Recording Quality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-a-non-functional-logitech-g733-headset-mic/"><u>Troubleshoot and Repair a Non-Functional Logitech G733 Headset Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-resolve-modern-gaming-sound-glitches-easily/"><u>Troubleshoot and Resolve Modern Gaming Sound Glitches Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-g435-bluetooth-headphones-silent-mode-solutions/"><u>Troubleshooting G435 Bluetooth Headphones - Silent Mode Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-onikuma-headsets-non-functional-mic-fixed-now/"><u>Troubleshooting Onikuma Headset's Non-Functional Mic - Fixed Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-steelseries-arctis-prime-headset-microphone-issues/"><u>Troubleshooting: Fixing SteelSeries Arctis Prime Headset Microphone Issues</u></a></li>
+</ul></div>
 

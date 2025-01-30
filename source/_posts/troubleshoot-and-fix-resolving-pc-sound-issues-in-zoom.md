@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot & Fix: Resolving PC Sound Issues in Zoom"
-date: 2024-08-13T10:47:01.620Z
-updated: 2024-08-14T10:47:01.620Z
+date: 2025-01-22T18:36:23.898Z
+updated: 2025-01-30T04:17:53.098Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 
  **If you’re playing a song on your HP laptop but you don’t hear anything,** Don’t worry, although it’s very frustrating, you’re definitely not the only person to experience the no sound issue. Many other HP laptop users have reported the very same problem. More importantly, you can resolve this issue pretty easily on your own after reading this article!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## **Try these fixes**
 
  Here’s a list of fixes that have resolved this problem for other HP laptop users. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -46,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 
  When it is completed, play a song on your HP laptop to see if you resolved the no sound issue. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### **Fix 2: Update your audio driver**
 
  An missing or corrupted audio driver can also be the root of the HP laptop no sound issue. In this case, you can fix this issue easily by updating your audio driver to the latest version.
@@ -69,68 +63,70 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap14.png)
 3. Click **Update**  next to your Bluetooth device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee  ).  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap908-2.png)  
  You can do it for free if you like, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 3: Check your audio settings**
 
  The incorrect audio settings on your laptop can also trigger the no sound issues. You can follow the instructions below to check your audio settings:
 
 1. On your desktop,   **right-click**  **the speaker icon**  on the lower-right corner, and then select **Sounds**  .  
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap432.jpg)
 2. Navigate to**the Playback tab** .**Right-click** anywhere on the Playback tab of the Sound window, and make sure you select**Show Disabled Devices** and**Show Disconnected Devices** options.  
+
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000237-2.png)
 3. If your laptop speaker is disabled,**right-click** your laptop speaker and select**Enable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000236.png)
 4. Select the speaker / headphone you’re using and  click **Set Default** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
 5. Click**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. On your desktop,   **right-click**  **the speaker icon**  on the lower-right corner, and then select**Open Volume Mixer**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000233.png)
 7. If you see some application is muted, click**the speaker icon** under that application to unmute it.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000235-2.png)
 8. Play a song on your laptop to see if you fixed the no sound issue. If not, move on to the next step.
 9. On your keyboard, press**the Windows logo key** and**X** at the same time. Then select**Device Manager** to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000238.png)
 10. In Device Manager,**double-click** **Sound, video and game controllers** to expand the list. If you see**a downward arrow** next to your audio device,**right-click** it then select**Enable device** to enable it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000240.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Play a song on your HP laptop to see if the no sound issue is resolved. If not, try the next fix to restart Windows audio service.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 4: Restart Windows audio service**
 
  If the Windows audio service is stopped, your audio device may not function properly. Try restarting Windows audio service to see if you can fix it. Here is how to do it:
@@ -140,18 +136,17 @@ DbSchema database designer for all databases, schema design in the team, schema 
 3. Under the **General**   tab, if the service is disabled, click **Star**   to enable it. For **Startup type** , select **Automatic** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap194-5.png)
 4. Navigate to the **Recovery**   tab. For **First failure** , select **Restart the Service** . Then click **OK**   to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap195-5.png)
 5. Locate the service **Windows Audio Endpoint Builder** . Follow step 3 and step 4 above to do the same thing for Windows Audio Endpoint Builder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Restart your PC.
 
  See if you fix this issue after restarting Windows audio service. If it works, congratulations! This issue is fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **Fix 5: Troubleshoot hardware issues**
 
  If none of the fixes above works for you, you may need to troubleshoot hardware issues. Here’re some tips you can try:
@@ -173,8 +168,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +175,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-flip-and-flash-unveiling-the-power-of-instagrams-angled-photos/"><u>[New] 2024 Approved Flip and Flash Unveiling the Power of Instagram's Angled Photos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-the-new-world-of-360-camera-shopping/"><u>[New] Navigating the New World of 360 Camera Shopping</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-quickest-sharp-window-photo-enhancer-for-2024/"><u>[Updated] Quickest Sharp Window Photo Enhancer for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-5-helmet-action-cameras-for-motorcycle/"><u>[Updated] Top 5 Helmet Action Cameras For Motorcycle</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-review-insights-acevideo-editor-2023-edition/"><u>2024 Approved Full Review Insights AceVideo Editor, 2023 Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/as-maiores-plataformas-onlines-livres-e-profissionais-para-construcao-do-seu-logotipo/"><u>As Maiores Plataformas Onlines Livres E Profissionais Para Construção Do Seu Logotipo</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/elevate-your-sound-experience-raising-system-volume-settings-on-windows-10-devices/"><u>Elevate Your Sound Experience: Raising System Volume Settings on Windows 10 Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-pcs-audio-issue-instantly-a-simple-guide/"><u>Fix Your PC's Audio Issue Instantly: A Simple Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/from-quiet-to-chaos-a-step-by-step-guide-to-fix-no-audio-problems-in-call-of-duty-mobile-warzone-on-your-laptop-or-desktop/"><u>From Quiet to Chaos: A Step-by-Step Guide to Fix No Audio Problems in Call of Duty Mobile (Warzone) on Your Laptop or Desktop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/google-meet-not-recognizing-mic-heres-how-to-fix-it-on-windows-11-and-10-devices/"><u>Google Meet Not Recognizing Mic? Here's How to Fix It on Windows 11 & 10 Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/regain-audio-functionality-following-recent-windows-10-software-enhancements/"><u>Regain Audio Functionality Following Recent Windows 10 Software Enhancements</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-secret-to-advanced-productivity-how-integrating-chatgpt-into-onlyoffices-docspace-transforms-office-dynamics/"><u>The Secret to Advanced Productivity: How Integrating ChatGPT Into ONLYOFFICE's DocSpace Transforms Office Dynamics</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/toggle-pip-for-streaming-youtube-videos-more-conveniently-with-iphone-for-2024/"><u>Toggle PIP for Streaming Youtube Videos More Conveniently with iPhone for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-ranking-flv-video-player-get-the-best-free-version-compatible-with-macos-and-windows-11-81-or-8/"><u>Top Ranking FLV Video Player - Get the Best Free Version Compatible with macOS & Windows 11, 8.1, or 8</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016453253-troubleshooting-the-non-functional-logitech-g633-mic-solutions-inside/"><u>Troubleshooting the Non-Functional Logitech G633 Mic - Solutions Inside!</u></a></li>
+</ul></div>
 

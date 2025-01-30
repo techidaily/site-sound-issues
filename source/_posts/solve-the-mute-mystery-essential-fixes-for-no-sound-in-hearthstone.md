@@ -1,7 +1,7 @@
 ---
 title: Solve the Mute Mystery - Essential Fixes for No Sound in Hearthstone
-date: 2024-08-13T10:46:28.388Z
-updated: 2024-08-14T10:46:28.388Z
+date: 2025-01-27T00:31:37.904Z
+updated: 2025-01-30T02:31:31.460Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 
 If you’re playing_Hearthstone_ and the audio cuts out abruptly, or there is no sound at all, you’re not alone! Many players are reporting it. But the good news is that you can fix it. Here are 7 fixes to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7 simple fixes to try
 
  You may not have to try them all; just work your way through the list until you find the one that does the trick for you.
@@ -29,6 +33,10 @@ If you’re playing_Hearthstone_ and the audio cuts out abruptly, or there is no
 6. **[Reset sound settings](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall_Hearthstone_ and/or the Blizzard launcher](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check cables and volume
 
  If you don’t have any sound at all, you need to check your audio device is well-connected to your computer, and it’s not muted. Follow the instructions below:
@@ -40,9 +48,6 @@ If you’re playing_Hearthstone_ and the audio cuts out abruptly, or there is no
 
 If your cables and volume are okay, move on and check the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your audio driver
 
  One of the most common issues of the_Hearthstone_ audio issue is a corrupted or outdated audio driver. To keep the audio works properly on your computer, it’s essential that you have the latest correct audio driver at all times.
@@ -79,10 +84,6 @@ OR
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-281.jpg)
 
  You can do it for free if you like, but it’s partly manual.
@@ -100,17 +101,15 @@ OR
 
 **1)**  Right-click your taskbar and select **Start Task Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-763.jpg)
 
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-794.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
@@ -126,18 +125,15 @@ OR
 
 **1)**  Right-click your taskbar and select **Task Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-762.jpg)
 
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-805.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Right-click the resource-consuming process and select **End task** .
 
@@ -146,6 +142,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-810.jpg)
 
  Try launching_Hearthstone_ again to see if the sound works properly now. If your issue still exists, read on and check the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair_Hearthstone_ files
 
@@ -159,9 +159,6 @@ OR
 
 **3)**  Click **Begin Scan** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-422.jpg)
 
  Wait for the scans to be complete, then relaunch_Hearthstone_ to test your issue. If the audio issue persists, read on and try the fix below.
@@ -172,10 +169,11 @@ OR
 
 **1)** Right-click**Battle.net.exe** and select**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-423.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Click the**Compatibility tab** , then uncheck**Run this program in compatibility mode for:** .
 
@@ -183,9 +181,6 @@ OR
 
 **3)** Click**Apply** then**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-425.jpg)
 
  Relaunch your game to check if the sound comes back. If not, go ahead with the fix below.
@@ -196,10 +191,11 @@ OR
 
 **1)** Run the Blizzard launcher and click**Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-300.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Click the**Sound & Notifications tab** , then click**Reset to Defaults** .
 
@@ -211,30 +207,26 @@ OR
 
 **4)** Click the**Voice chat tab** , then click**Reset to Defaults** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-551.jpg)
 
 **5)** Click**Reset** .
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-552.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Click**DONE** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-553.jpg)
 
  Relaunch your game to test your issue. If the audio is still missing in_Hearthstone_ , try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7: Reinstall_Hearthstone_ and/or the Blizzard launcher
 
  If none of the fixes above helped, the sound problem is probably triggered by corrupted game files. In this case, reinstalling_Hearthstone_ and/or the Blizzard laucnher is very likely the solution to your problem. Here is how to do it:
@@ -270,10 +262,11 @@ OR
 
 **3)** Click**Uninstall a program** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-443-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Right-click**Battle.net** , then click**Uninstall/Change** .
 
@@ -300,8 +293,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -309,4 +300,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-building-an-impressive-instagram-network-for-2024/"><u>[New] Building an Impressive Instagram Network for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-storytellers-supreme-curated-yt-channels-for-2024/"><u>[Updated] Storytellers Supreme Curated YT Channels for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-djis-game-changing-innovation-mavic-air-and-spark-face-off/"><u>2024 Approved DJI’s Game-Changing Innovation Mavic Air and Spark Face Off</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-recording-titans-duel/"><u>2024 Approved Recording Titans Duel</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/astro-a50-earpods-malfunction-heres-how-to-repair-them/"><u>Astro A50 EarPods Malfunction? Here's How to Repair Them</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-team-talking-again-resolving-voice-chat-glitches-in-modern-warfare/"><u>Getting Your Team Talking Again: Resolving Voice Chat Glitches in Modern Warfare</u></a></li>
+<li><a href="https://discover-best.techidaily.com/how-to-fix-a-non-responsive-keyboard-issue-expert-advice-from-yl-computing/"><u>How to Fix a Non-Responsive Keyboard Issue: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-toms-electronics-hub-the-ultimate-guide/"><u>Inside Tom's Electronics Hub: The Ultimate Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-hdmi-interference-dealing-with-devices-shared-by-multiple-apps/"><u>Overcoming HDMI Interference: Dealing with Devices Shared by Multiple Apps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-razer-headset-mic-functionality-a-5-step-troubleshooting-guide/"><u>Restoring Razer Headset Mic Functionality: A 5-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-connectivity-problems-a-step-by-nstep-guide-to-repairing-your-kotion-each-g2000-mic/"><u>Solving Connectivity Problems: A Step-by-nStep Guide to Repairing Your Kotion Each G2000 Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-capturing-desktop-audio-via-obs-heres-how-you-can-fix-it/"><u>Trouble with Capturing Desktop Audio via OBS? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-your-logitech-g935-microphone-issues-on-windows/"><u>Troubleshooting Guide: Fixing Your Logitech G935 Microphone Issues on Windows</u></a></li>
+</ul></div>
 

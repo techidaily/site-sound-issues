@@ -1,7 +1,7 @@
 ---
 title: "Fast-Track Microphone Diagnosis: Ensuring Optimal Audio Performance!"
-date: 2024-08-13T10:49:24.349Z
-updated: 2024-08-14T10:49:24.349Z
+date: 2025-01-25T22:22:10.448Z
+updated: 2025-01-30T00:14:43.892Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check for hardware issues
 
 1. Try the headphone on other devices and see if it works.
@@ -48,22 +52,22 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
  Having **Exclusive Mode**   on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the **crackling or popping sound** in headphone  problem. To disable **Exclusive Mode** :
 
  1) On the bottom right of your screen, right-click on**the sound icon** , then click**Sounds** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/12sound.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In the**Playback** tab, right-click on**speakers** and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Advanced** tab, un-check **the box** before **Allow applications to take exclusive control of this device** . Then click **Apply** \> **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 
  4) Play some music and check if the sound coming through is noise-free now. If not, continue with **5)** to **change the audio format** .
@@ -90,37 +94,31 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/IntelR-Display-Audio.jpg)
 4. Restart your computer, play some audio through your headphone to see if this nasty crackling noise has been resolved. If yes, then great! If it’s still happening, move on to **Fix 4**  , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Adjust **the minimum processor state**
 
  Adjusting **the minimum processor state** , as reported by many users, is another effective way to fix the**crackling**   **in headphones** issue . To do so:
 
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)
 
  Depending on the build of your Windows, you might also see **On battery** and **Plugged in**  in **Setting (%)** . Change both values to **100** and click **OK** .
@@ -141,8 +139,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +146,23 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ixelpie-slicer-for-2024/"><u>[New] PixelPie Slicer for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cant-find-your-prodigy-brio-webcam-after-windows-update-here-are-solved-fixes-for-you-answered/"><u>Can’t Find Your Prodigy Brio Webcam After Windows Update? Here Are Solved Fixes for You (Answered)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/chrome-audio-issue-solved-now-enjoying-sounds-again/"><u>Chrome Audio Issue Solved - Now Enjoying Sounds Again</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/cutting-through-the-clutter-mastering-social-media-videos-on-facebook/"><u>Cutting Through the Clutter Mastering Social Media Videos on Facebook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/descubre-el-secreto-reproducir-sin-errores-y-sin-disminucion-del-sonido-o-imagen-en-un-mac-incluida-la-version-big-sur/"><u>Descubre El Secreto: Reproducir Sin Errores Y Sin Disminución Del Sonido O Imagen en Un Mac, Incluida La Versión Big Sur</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-a-non-functional-headphone-port-on-your-laptop-a-comprehensive-guide/"><u>Fixing a Non-Functional Headphone Port on Your Laptop: A Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-x7b-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor X7b Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-multimedia-balancing-audio-visuals-and-content-quality-live/"><u>Mastering Multimedia Balancing Audio, Visuals, and Content Quality Live</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-fixing-the-unresponsive-mic-on-corsairs-hs70-model/"><u>Step-by-Step Guide to Fixing the Unresponsive Mic on Corsair's HS70 Model</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-lava-storm-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Lava Storm 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-complete-guide-to-resolving-jabra-earpiece-issues-in-202-(span-stylecolor-666)24(span)/"><u>The Complete Guide to Resolving Jabra Earpiece Issues in 202 <Span Style=color: #666;>24</Span></u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-selection-of-6-must-play-super-mario-games-for-pc-gamers/"><u>The Ultimate Selection of 6 Must-Play Super Mario Games for PC Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-upgrade-corsair-icue-link-h1-h150i-rgb-performance-excellence-with-limitless-creativity/"><u>The Ultimate Upgrade: Corsair iCUE Link H1 🖤H150i RGB - Performance Excellence with Limitless Creativity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-4-solutions-how-to-troubleshoot-your-webex-mic-issues/"><u>Top 4 Solutions: How to Troubleshoot Your WebEx Mic Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-resolving-issues-with-a-nonfunctioning-logitech-g430-microphone/"><u>Troubleshooting Steps for Resolving Issues with a Nonfunctioning Logitech G430 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-astro-a10s-audio-issues-solutions-for-a-broken-mic/"><u>Troubleshooting Your Astro A10's Audio Issues - Solutions for a Broken Mic</u></a></li>
+</ul></div>
 

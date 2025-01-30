@@ -1,7 +1,7 @@
 ---
 title: "Getting the Corsair HS60 Microphone Back to Life: A Step-by-Step Guide"
-date: 2024-08-13T10:49:43.897Z
-updated: 2024-08-14T10:49:43.897Z
+date: 2025-01-24T06:31:02.701Z
+updated: 2025-01-29T16:08:31.672Z
 tags:
   - win11
   - win10
@@ -30,8 +30,9 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Check for hardware issues
 
 1. Try the headphone on other devices and see if it works.
@@ -46,41 +47,38 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **Fix 2: Disable Exclusive Mode and change the sound format**
 
  Having **Exclusive Mode**   on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the **crackling or popping sound** in headphone  problem. To disable **Exclusive Mode** :
 
  1) On the bottom right of your screen, right-click on**the sound icon** , then click**Sounds** .  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/12sound.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In the**Playback** tab, right-click on**speakers** and click **Properties** .
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 
  3) Click the**Advanced** tab, un-check **the box** before **Allow applications to take exclusive control of this device** . Then click **Apply** \> **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Play some music and check if the sound coming through is noise-free now. If not, continue with **5)** to **change the audio format** .
 
  5) Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \> **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Hopefully the popping/crackling sound in your headphone problem has gone by now. If not, you might also want to change it to other audio formats to see if it works.
 
@@ -100,11 +98,12 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/IntelR-Display-Audio.jpg)
 4. Restart your computer, play some audio through your headphone to see if this nasty crackling noise has been resolved. If yes, then great! If it’s still happening, move on to **Fix 4**  , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -139,8 +138,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +145,24 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-maximize-zoom-audio-clarity-methods-and-tips-shared/"><u>[New] 2024 Approved Maximize Zoom Audio Clarity Methods & Tips Shared</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-unlocking-the-secrets-to-easy-metaverse-character-creation/"><u>[New] 2024 Approved Unlocking the Secrets to Easy Metaverse Character Creation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximizing-your-sightline-in-roblox-playground/"><u>[New] Maximizing Your Sightline in Roblox Playground</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-starting-and-participating-in-zoom-meetings-from-android-devices/"><u>[New] Starting and Participating in Zoom Meetings From Android Devices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-mastering-youtube-video-submission-your-detailed-walkthrough/"><u>[Updated] In 2024, Mastering YouTube Video Submission Your Detailed Walkthrough</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-smartphone-guide-crafting-engaging-video-content/"><u>2024 Approved Smartphone Guide Crafting Engaging Video Content</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/abbyys-invoice-processing-software-boosts-operational-efficiency-in-the-energy-sector/"><u>ABBYY's Invoice Processing Software Boosts Operational Efficiency in the Energy Sector</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-hyperx-cloud-alpha-mic-connectivity-problems/"><u>Diagnosing and Repairing HyperX Cloud Alpha Mic Connectivity Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repair-tips-for-when-your-creative-pebble-bass-boost-speaker-fails-to-work/"><u>DIY Repair Tips for When Your Creative Pebble Bass Boost Speaker Fails to Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-when-your-corsair-audio-device-stops-functioning/"><u>Effective Fixes for When Your Corsair Audio Device Stops Functioning</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-hyperx-cloud-stinger-headset-microphone-issues-step-by-step-guide/"><u>Fixing HyperX Cloud Stinger Headset Microphone Issues: Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-working-mic-on-your-sony-wh-1000xm34-headphones-for-laptop-use/"><u>How to Fix a Non-Working Mic on Your Sony WH-1000XM3/4 Headphones for Laptop Use</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-low-volume-or-distorted-audio-on-your-iphone/"><u>How to Fix Low Volume or Distorted Audio on Your iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-6s-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 6s and iPad Securely</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-common-issues-with-unresponsive-corsair-headsets-a-step-by-step-guide/"><u>Resolving Common Issues with Unresponsive Corsair Headsets - A Step by Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-a-non-functional-tozo-t6-in-the-latest-windows-operating-system/"><u>Step-by-Step Fix for a Non-Functional Tozo T6 in the Latest Windows Operating System</u></a></li>
+</ul></div>
 

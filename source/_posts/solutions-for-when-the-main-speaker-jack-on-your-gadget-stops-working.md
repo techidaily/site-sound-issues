@@ -1,7 +1,7 @@
 ---
 title: Solutions for When the Main Speaker Jack on Your Gadget Stops Working
-date: 2024-08-18T07:58:19.772Z
-updated: 2024-08-19T07:58:19.772Z
+date: 2025-01-23T06:05:32.323Z
+updated: 2025-01-29T21:05:16.048Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/f0d0c2a077419838d019249854e895427fabffcba
 
 ## How to Get Your Laptop's Speakers Back in Action
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac1ff654f741.jpg)
 
  If the**speakers can’t work on your laptop** , you’d be very annoyed and frustrated. Don’t panic. Usually it’s an easy problem to fix.
@@ -27,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/f0d0c2a077419838d019249854e895427fabffcba
 1. [Plug in and take out your headphone](https://tools.techidaily.com/drivereasy/download/)
 2. [Update your speakers related drivers](https://tools.techidaily.com/drivereasy/download/)
 3. [Reset your sound controller](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: Plug in and take out your headphone
 
@@ -40,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/f0d0c2a077419838d019249854e895427fabffcba
 
  3) After those testing, see if the sound comes from your speakers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## Method 2: Update your speakers related drivers
 
  An old, corrupted or missing driver related your speakers can also cause this error, like**a sound card driver** ,**a Bluetooth driver** (if yo’re using a Bluetooth speakers). You can solve it through updating the driver.
@@ -61,10 +55,11 @@ No advertising on the website.
 
  2) Run Driver Easy and click **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers. You sound driver is no exception.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to any falgged driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
@@ -75,19 +70,21 @@ Or click **Update All**  to automatically download and install the correct versi
  4) Play a music or video on your laptop to see if the sound comes from the speakers.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 3\. Reset your sound controller
 
  If unluckily, neither method 1 nor method 2 helps you fix the error, try to reset your sound controller.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdf8f58307f.png)**  and **R**  (at the same time) to invoke the Run command.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **devmgmt.msc**  and press **Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac1fec110a5a.png)
 
  3) Right-click on your sound card to choose**Disable device** .
@@ -100,12 +97,12 @@ Or click **Update All**  to automatically download and install the correct versi
 
  Then you may find its icon ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c3c1585ef.png) change into ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c4aebac0d.png) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Wait for a while. Right-click on your sound card again and this time click**Enable device** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c4fd4b764.png)
 
  6) Play a music or video on your laptop to see if the sound comes from the speakers.
@@ -118,8 +115,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +122,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-screen-recorders-face-off-determining-superiority-of-bandicam-and-camtasia/"><u>[New] In 2024, Screen Recorders Face-Off Determining Superiority of Bandicam & Camtasia</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-core-principles-of-e-storytelling/"><u>[Updated] 2024 Approved Core Principles of E-Storytelling</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-deciding-on-itop-recorder-an-indispensable-tool/"><u>[Updated] 2024 Approved Deciding on ITop Recorder - An Indispensable Tool?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-which-is-superior-for-editing-bandicam-or-camtasia/"><u>[Updated] 2024 Approved Which Is Superior for Editing Bandicam or Camtasia?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-high-end-psd-lighting-tweaks-for-2024/"><u>[Updated] High-End PSD Lighting Tweaks for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-ideal-caption-solutions-photo-text-integration-guide-for-2024/"><u>[Updated] Ideal Caption Solutions Photo-Text Integration Guide for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-walkthrough-for-keeping-your-dell-laptop-spotless-and-fresh/"><u>A Comprehensive Walkthrough for Keeping Your Dell Laptop Spotless & Fresh</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/battlefield-4-audio-problems-discover-how-to-fix-it-here/"><u>Battlefield 4 Audio Problems? Discover How to Fix It Here!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-5-apple-podcast-services-for-ios-users/"><u>Best 5 Apple Podcast Services for iOS Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-issues-with-unresponsive-headset-microphones-and-effective-remedies/"><u>Diagnosing Issues with Unresponsive Headset Microphones and Effective Remedies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/discord-not-working-heres-how-to-get-your-voice-back-in-conversations/"><u>Discord Not Working? Here's How to Get Your Voice Back in Conversations!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-muted-madness-solutions-for-silent-hearthstone-gameplay/"><u>Fixing Muted Madness: Solutions for Silent Hearthstone Gameplay</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-ready-for-the-next-big-thing-comprehensive-coverage-of-samsung-unpacked-2025-dates-rumors-and-product-insights/"><u>Get Ready For The Next Big Thing: Comprehensive Coverage of Samsung Unpacked 2025 – Dates, Rumors, and Product Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-microphone-on-a-windows-11-operating-system/"><u>How to Repair Your Microphone on a Windows 11 Operating System</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-path-to-influential-prominence-instagram-edition/"><u>In 2024, The Path to Influential Prominence Instagram Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015790777-reviving-speakers-post-win-11-updates-effortless-solutions-inside/"><u>Reviving Speakers Post-Win 11 Updates - Effortless Solutions Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-laptops-internal-audio-solutions-for-the-silent-setup-problem/"><u>Reviving Your Laptop's Internal Audio: Solutions for the Silent Setup Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/say-goodbye-to-mute-swift-fix-for-windows-11s-missing-sounds/"><u>Say Goodbye to Mute: Swift Fix for Windows 11'S Missing Sounds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-mic-issues-in-google-meet-on-windows-11-and-10/"><u>Troubleshooting Guide: Fixing Mic Issues in Google Meet on Windows 11 & 10</u></a></li>
+</ul></div>
 

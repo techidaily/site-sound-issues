@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Missing Audio Output on PCs with Windows 10, 8, and 7
-date: 2025-01-21T20:49:08.373Z
-updated: 2025-01-22T16:37:43.352Z
+date: 2025-01-22T20:00:06.220Z
+updated: 2025-01-30T02:38:01.727Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/2281b9c089178cef469efa6df066ce173ea670348
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix HP Laptop Sound Not Working
 
  Here are the solutions that have helped people resolve the sound problem. You don’t need to try them all; just work your way down until your sound works.
@@ -33,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/2281b9c089178cef469efa6df066ce173ea670348
 3. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Reinstall your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 1: Troubleshoot the hardware issue**
 
@@ -53,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/2281b9c089178cef469efa6df066ce173ea670348
  If the sound gets working again, it should be a problem of the headphone jack on your laptop, so you can**clean the jacks with a cotton swab or soft brush** ; Or it can be a problem of your headphone, **replace with another headphone cord or try another new headphone** to have the sound working through your headphone.
 
  If the sound is still not working, here’s the next thing to try…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 2: Check the audio settings in your Windows**
 
@@ -76,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/2281b9c089178cef469efa6df066ce173ea670348
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Check your audio device in the**Playback** tab. Make sure there’s a**green check** next to your audio device, and that shows that your audio device is the**default** playback device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b59d5056.png)
@@ -83,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/2281b9c089178cef469efa6df066ce173ea670348
  3) If your audio device is not the default device, click**Set Default** . Then click**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a446177e761d.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Test the sound on your laptop so see whether there is any sound.
 
@@ -101,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/2281b9c089178cef469efa6df066ce173ea670348
  2) Select your audio device in the**Playback** tab, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962c8cd39cb.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Advanced** . In Default Format, choose another different audio rate, then click the**Test** button. Then play a music or audio to test.
 
@@ -130,15 +122,7 @@ thumbnail: https://thmb.techidaily.com/2281b9c089178cef469efa6df066ce173ea670348
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb53fb8555.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Try the sound to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 3: Update your sound driver**
 
@@ -158,6 +142,10 @@ thumbnail: https://thmb.techidaily.com/2281b9c089178cef469efa6df066ce173ea670348
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged audio driver to automatically download and install the correct audio driver (You can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install all the latest correct drivers that is missing or outdated (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will be prompted to upgrade when you click Update All).
@@ -167,7 +155,7 @@ thumbnail: https://thmb.techidaily.com/2281b9c089178cef469efa6df066ce173ea670348
 4) Restart your computer and check whether your problem is solved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 4: Reinstall your audio driver**
@@ -181,7 +169,7 @@ thumbnail: https://thmb.techidaily.com/2281b9c089178cef469efa6df066ce173ea670348
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962e2ade37c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right-click your sound device and click**Uninstall device** .
@@ -192,7 +180,15 @@ thumbnail: https://thmb.techidaily.com/2281b9c089178cef469efa6df066ce173ea670348
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ef431c66.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Restart your computer and Windows will automatically download and install the sound driver for your device. After that, check the sound to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Check for corrupted system files
 
@@ -213,6 +209,10 @@ thumbnail: https://thmb.techidaily.com/2281b9c089178cef469efa6df066ce173ea670348
  2) Open Fortect. It will run a free scan of your PC and give you **a detailed report of your PC status** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
@@ -240,22 +240,18 @@ thumbnail: https://thmb.techidaily.com/2281b9c089178cef469efa6df066ce173ea670348
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-from-zero-to-hero-in-youtubing-equipment-essentials/"><u>[Updated] 2024 Approved From Zero to Hero in YouTubing Equipment Essentials</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-laughter-on-your-phone-humorous-ringtone-sites/"><u>[Updated] Laughter on Your Phone Humorous Ringtone Sites</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leading-action-cameras-for-thrill-seekers/"><u>[Updated] Leading Action Cameras for Thrill Seekers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-income-streams-from-google-adsense-to-money-matters/"><u>[Updated] Unlocking Income Streams From Google AdSense to Money Matters</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/becoming-an-expert-at-scheduling-virtual-team-sessions-google/"><u>Becoming an Expert at Scheduling Virtual Team Sessions (Google)</u></a></li>
-<li><a href="https://win-lab.techidaily.com/how-to-fix-non-responsive-scanners-with-command-inputs-expert-advice-by-yl-software-solutions-yl-computing/"><u>How to Fix Non-Responsive Scanners with Command Inputs: Expert Advice by YL Software Solutions | YL Computing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/pubg-mobile-users-say-no-more-expert-tips-to-resolve-your-voice-communication-issues-quickly/"><u>PUBG Mobile Users, Say No More! Expert Tips to Resolve Your Voice Communication Issues Quickly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-restoring-steams-voice-communication-features/"><u>Quick Fixes for Restoring Steam's Voice Communication Features</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solutions-restoring-audio-on-your-astro-a50-headphones/"><u>Quick Solutions: Restoring Audio on Your Astro A50 Headphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/razer-barracuda-x-microphone-not-working-heres-how-you-can-resolve-it-for-windows-10-and-11-users/"><u>Razer Barracuda X Microphone Not Working? Here's How You Can Resolve It for Windows 10 and 11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sealing-the-gap-fixing-steam-play-on-windows-pcs/"><u>Sealing the Gap: Fixing Steam Play on Windows PCs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/simple-solutions-how-to-silence-the-hum-in-your-audio-system/"><u>Simple Solutions: How to Silence the Hum in Your Audio System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-chrome-no-sound-issue-with-these-effective-tips-and-tricks/"><u>Solve 'Chrome No Sound' Issue with These Effective Tips and Tricks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-unidentified-speaker-issues-in-windows-11-a-comprehensive-guide/"><u>Solving Unidentified Speaker Issues in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/steelseries-arctis-users-say-goodbye-to-mic-woes-with-our-easy-to-follow-solutions/"><u>SteelSeries Arctis Users, Say Goodbye to Mic Woes with Our Easy-to-Follow Solutions!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/trasforma-file-avi-in-formato-mp3-online-e-gratuitamente-con-movavi/"><u>Trasforma File AVI in Formato MP3 Online E Gratuitamente Con Movavi</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-ai-vulnerability-injecting-malicious-prompts-and-understanding-the-process/"><u>Unveiling AI Vulnerability: Injecting Malicious Prompts & Understanding the Process</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-art-of-mobile-collage-with-android-pros/"><u>[New] Mastering the Art of Mobile Collage with Android Pros</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/complete-solution-for-non-functioning-beyond-the-wire-mics/"><u>Complete Solution for Non-Functioning Beyond The Wire Mics</u></a></li>
+<li><a href="https://article-posts.techidaily.com/crafting-characters-and-settings/"><u>Crafting Characters and Settings</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-fix-no-audio-issue-on-pcs-using-realtek-digital-output-solutions/"><u>Expert Tips to Fix No Audio Issue on PCs Using Realtek Digital Output Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-headphones-functioning-again-on-windows-10-a-step-by-step-guide/"><u>Get Your Headphones Functioning Again on Windows 10 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-tecno-spark-10-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Tecno Spark 10 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-htc-u23-pro-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor HTC U23 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-thorough-review-of-lgs-upgraded-360-camera-lineup-2023-edition/"><u>In 2024, A Thorough Review of LG's Upgraded 360 Camera Lineup, 2023 Edition</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-zero-price-techniques-for-online-educational-recordings/"><u>In 2024, Zero Price Techniques for Online Educational Recordings</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-for-your-windows-11-sounds-a-step-by-step-breakdown/"><u>Quick Fix for Your Windows 11 Sounds: A Step-by-Step Breakdown</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-surround-sound-correcting-the-silent-problem-with-nvidia-hd-audio/"><u>Revive Your Surround Sound: Correcting the Silent Problem with Nvidia HD Audio</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209864083-9780648367543-thoughts-create/"><u>Thoughts Create | Free Book</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-console-to-camera-3-simple-video-game-recording-methods/"><u>Updated 2024 Approved From Console to Camera 3 Simple Video Game Recording Methods</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Laptop Audio Malfunction? Here Are Effective Solutions
-date: 2025-01-21T18:33:07.142Z
-updated: 2025-01-22T18:39:09.432Z
+date: 2025-01-23T22:50:52.519Z
+updated: 2025-01-29T20:03:52.896Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Firstly, Ensure the audio device is enabled**
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9642607bba2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) **View by large icons** and click **Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd4d734d2c.jpg)
@@ -47,22 +51,22 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd4dfc1fa7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If it is disabled, right click on it and select **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd4eb667e9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you don’t see **Speakers** option listed, it could be disabled and hidden. Right click on the blank space and select **Show Disabled Devices** . Then Enable it.
 
 ###
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd4f2b0a08.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Secondly: Ensure the sound is not muted**
 
@@ -80,21 +84,17 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9642d9827b4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Expand the category “**Sound, video and game controllers** “. Under this category, right-click on the audio device name. A context menu will pop up, then select **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd515db2c0.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Restart your PC. Then a Window will pop up to ask you to solve the sound problem. Just follow the on-screen instructions. Then the sound issue should resolve.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Method 2: Update the audio driver**
 
@@ -135,16 +135,24 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-essence-of-whatsapp-call-conversations/"><u>2024 Approved The Essence of WhatsApp Call Conversations</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/airpods-not-working-heres-how-to-get-your-windows-10-mic-up-and-running-again/"><u>AirPods Not Working? Here's How to Get Your Windows 10 Mic Up & Running Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/cracking-out-the-crackles-top-strategies-for-silencing-your-logitech-g-pro-x-on-pc-this-year/"><u>Cracking Out the Crackles: Top Strategies for Silencing Your Logitech G Pro X on PC This Year</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-solutions-for-corsair-hs70-headphones-when-the-microphone-fails/"><u>DIY Solutions for Corsair HS70 Headphones When the Microphone Fails</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-canoscan-lide-123-drivers-find-and-install-updates-today/"><u>Free CanoScan LiDE 123 Drivers: Find and Install Updates Today!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016194624-how-to-get-your-onikuma-headset-mic-up-and-running-again/"><u>How To Get Your Onikuma Headset Mic Up And Running Again!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-or-update-your-hp-deskjet-nw-3700-printer-software-for-optimal-performance/"><u>Install or Update Your HP Deskjet Nw-3700 Printer Software for Optimal Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/razer-blackwidow-user-manual-how-to-install-the-latest-driver-software/"><u>Razer BlackWidow User Manual: How to Install the Latest Driver Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/seamless-gaming-awaits-how-to-prevent-and-cure-csgo-crashing-issues/"><u>Seamless Gaming Awaits: How To Prevent & Cure CSGO Crashing Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-10-secure-and-swift-video-converters-for-windows-11-and-10-users/"><u>Top 10 Secure and Swift Video Converters for Windows 11 & 10 Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-ultimate-monitor-list-for-an-immersive-xbox-series-x-experience/"><u>[New] In 2024, The Ultimate Monitor List for an Immersive Xbox Series X Experience</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-10-immersive-traits-in-filmoras-editing-software/"><u>[New] Top 10 Immersive Traits in Filmora's Editing Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-muzik-pathway-tamil-music-to-your-phones-chime/"><u>[Updated] In 2024, Muzik Pathway Tamil Music to Your Phone's Chime</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2023-sound-savvy-with-facebook-downloader/"><u>2023 Sound Savvy with Facebook Downloader</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazing-bargain-alert-high-res-156-portable-monitor-with-ips-tech-now-falls-to-historic-low-of-6599/"><u>Amazing Bargain Alert: High-Res 15.6 Portable Monitor with IPS Tech Now Falls to Historic Low of $65.99</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016291581-corsair-hs35-mic-troubleshooting-expert-tips-for-making-it-work-perfectly-with-windows-top-solutions/"><u>Corsair HS35 Mic Troubleshooting: Expert Tips for Making It Work Perfectly with Windows – Top Solutions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/decoding-tablet-sizes-your-comprehensive-guide-to-lighter-more-compact-options/"><u>Decoding Tablet Sizes: Your Comprehensive Guide to Lighter, More Compact Options</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-fixing-non-functional-mics-on-windows-7-systems/"><u>Effective Solutions for Fixing Non-Functional Mics on Windows 7 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-when-your-audio-input-goes-wrong-a-focus-on-stereo-mix/"><u>Effective Solutions for When Your Audio Input Goes Wrong - A Focus on Stereo Mix</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhance-your-sea-of-thieves-adventure-essential-tips-to-repair-micspeakers-on-windows-computers/"><u>Enhance Your Sea of Thieves Adventure - Essential Tips to Repair Mic/Speakers on Windows Computers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-civ-5-system-crashes/"><u>Fixing Civ 5 System Crashes</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/guia-paso-a-paso-para-respaldar-correos-de-office-365-sin-necesitar-outlook/"><u>Guía Paso a Paso Para Respaldar Correos De Office 365 Sin Necesitar Outlook</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-apple-iphone-11-pro-max-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your Apple iPhone 11 Pro Max and iPad</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/in-depth-solutions-how-to-restore-functionality-to-broken-microphones/"><u>In-Depth Solutions: How to Restore Functionality to Broken Microphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-silence-solve-your-audacity-sound-device-issues-with-these-proven-techniques-5-expert-tips/"><u>No More Silence: Solve Your Audacity Sound Device Issues with These Proven Techniques [5 Expert Tips]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-headphone-muting-problem-restoring-volume-to-bose-quietcomfort-earbuds/"><u>Solve Headphone Muting Problem: Restoring Volume to Bose QuietComfort Earbuds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-fortnite-mic-problem-easy-fixes-for-non-responsive-mics/"><u>Solving Your Fortnite Mic Problem: Easy Fixes for Non-Responsive Mics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/synthesis-of-song-elements-the-crossfade-approach-for-2024/"><u>Synthesis of Song Elements The Crossfade Approach for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-stutter-and-lag-in-your-bluetooth-sound-on-windows-11/"><u>Troubleshoot Stutter and Lag in Your Bluetooth Sound on Windows 11</u></a></li>
 </ul></div>
 

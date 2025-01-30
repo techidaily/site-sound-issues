@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Non-Functioning Microphone During Skype Calls on Windows 11
-date: 2024-08-13T10:49:41.965Z
-updated: 2024-08-14T10:49:41.965Z
+date: 2025-01-25T08:40:45.332Z
+updated: 2025-01-29T18:10:16.698Z
 tags:
   - win11
   - win10
@@ -15,12 +15,13 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
 ## Troubleshooting Skype Microphone Issues on Windows 10 - Fixed
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab602132d542.jpg)
 
  If your**Microphone stops working on Skype** , you would be very annoyed. But don’t worry, you won’t be stuck there. You can fix it with this guide. We’re going to walk you through how to troubleshoot the Skype Microphone not working problem step by step. Read on to find how…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes for ‘Skype Microphone not working’
 
@@ -32,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 ###
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Make sure Microphone is set to On for Skype (Windows 10 users)
 
  If you’re running Skype on**Windows 10** , firstly please check if the Microphone is set to **On**  for Skype in the Privacy settings.
@@ -43,14 +45,16 @@ Follow these:
 1. On your keyboard, press the**Windows logo key**  and **I** (at the same time).
 2. Click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e2b7da45.png)
 3. Click**Microphone** on the left pane. Check if the status is**On**  for Skype.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
 
 ###
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Adjust the audio settings on Skype
 
 1. Login Skype with your own account.
@@ -61,9 +65,6 @@ Follow these:
 
 ###
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your sound card driver
 
  Skype Microphone not working problem can be also cause by the incorrect or outdated sound card driver. The solutions above may solve the problem, but if they don’t, please update your sound card driver.
@@ -71,28 +72,27 @@ Follow these:
  To update your sound card driver, you can download the latest one from its manufacturer’s website and install it on your computer, like**Realtek** . If you’re not confident playing around with drivers manually,  or if you want to save much more time, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . to do it automatically. Driver Easy will automatically recognize your system and find the correct drivers for your exact sound card, and your variant of Windows system, and it will download and install them correctly:
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/)  and install Driver Easy.
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. You sound driver is no exception.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 4. Restart your computer and run Skype to see if your Microphone works.
 
 ###
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Restart Windows audio service
 
 1. On your keyboard, press the **Windows logo** **key** and **R** (at the same time) to invoke the run command.
 2. Type**services.msc** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996978261d98.png)
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
 4. Log in Skype and check to see if your Microphone works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * [sound problem](https://tools.techidaily.com/drivereasy/download/)
 
@@ -102,8 +102,6 @@ Follow these:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,4 +109,21 @@ Follow these:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-celebrating-the-best-movies-that-evoke-hope-and-courage-for-2024/"><u>[New] Celebrating the Best Movies that Evoke Hope and Courage for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-e-identity-enhancement-drawing-your-playful-iconography-for-2024/"><u>[Updated] E-Identity Enhancement Drawing Your Playful Iconography for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/10-best-classic-family-vacation-movie-for-summer/"><u>10 Best Classic Family Vacation Movie for Summer</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-get-animated-discover-the-7-best-drawing-software/"><u>2024 Approved Get Animated Discover the 7 Best Drawing Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-eliminating-headphone-hum-and-whirring-sounds/"><u>Effective Solutions for Eliminating Headphone Hum and Whirring Sounds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-connectivity-issues-a-guide-for-restoring-logitech-g430-mic-performance/"><u>Fixing Connectivity Issues: A Guide for Restoring Logitech G430 Mic Performance</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-apple-iphone-6-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How To Leave a Life360 Group On Apple iPhone 6 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-thriving-as-an-online-gaming-content-creator/"><u>In 2024, Thriving as an Online Gaming Content Creator</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g935-microphone-not-detected-heres-how-to-fix-it/"><u>Logitech G935 Microphone Not Detected? Here's How to Fix It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-sounds-on-your-computer-after-a-recent-windows-11-update-easy-steps/"><u>Restoring Sounds on Your Computer After a Recent Windows 11 Update: Easy Steps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-connectivity-issues-in-terraria-with-these-six-effective-solutions/"><u>Solve Connectivity Issues in Terraria with These Six Effective Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-driver-errors-in-your-dell-system-on-windows-83647-easily/"><u>Solving Audio Driver Errors in Your Dell System on Windows #8364;7 Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-mystery-of-undetected-speakers-on-your-windows-11-pc-expert-tips-and-tricks/"><u>Solving the Mystery of Undetected Speakers on Your Windows 11 PC: Expert Tips & Tricks</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Xiaomi Redmi A2 | Dr.fone</u></a></li>
+</ul></div>
 

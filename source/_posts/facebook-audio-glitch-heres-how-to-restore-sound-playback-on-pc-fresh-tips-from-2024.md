@@ -1,7 +1,7 @@
 ---
 title: Facebook Audio Glitch? Here's How to Restore Sound Playback on PC – Fresh Tips From 2024
-date: 2024-08-13T10:47:06.711Z
-updated: 2024-08-14T10:47:06.711Z
+date: 2025-01-27T16:33:20.990Z
+updated: 2025-01-30T03:16:26.793Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/8eee5494b28afc7aa3f86c9129d566065bf2c03da
 
 ## Webex Microphone Failures? Here's How to Troubleshoot & Restore Audio in 2Nry 2024
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex.jpg)
 
  Microphone not working when you’re on a Webex meeting? You’re not alone! Such audio issues are quite common but they’re usually not hard to fix. Even if you’re not familiar with computer, follow this post and you’ll be able to tackle the Webex microphone not working issue easily and quickly.
@@ -32,9 +29,9 @@ thumbnail: https://thmb.techidaily.com/8eee5494b28afc7aa3f86c9129d566065bf2c03da
 4. **[Check the Webex settings](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1 – Troubleshoot the connection
 
  Before you proceed to anything more complicated, make sure you’ve set up the audio device correctly.
@@ -50,19 +47,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the Windows settings menu.
 2. Select**Privacy** .  
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-2.jpg)
 3. Select**Microphone** from the left pane. Then click the**Change** button and**turn on** Microphone access for this device.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 4. Scroll down and toggle on the button below**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
 
  Once you’ve allowed the microphone access to your apps, check if the problem is resolved. If not, try the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your audio driver
 
@@ -86,10 +86,11 @@ There are mainly two ways you can update the audio driver:
 3. Click the**Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).  
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -104,14 +105,13 @@ There are mainly two ways you can update the audio driver:
 2. Click your profile at the top left corner and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings.jpg)
 3. Select**Audio** from the left pane. Under the Microphone section, select your preferred audio device from the drop-down menu.  
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-3.jpg)
 4. You can also adjust the volume by dragging the slider. Then click Save to apply the changes.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-4.jpg)
 
  Once completed, you can click the Test button under Microphone to see if everything goes back to normal.
@@ -128,8 +128,6 @@ There are mainly two ways you can update the audio driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +135,19 @@ There are mainly two ways you can update the audio driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-pro-video-enhancers-for-social-media-platforms/"><u>[New] 2024 Approved Pro Video Enhancers for Social Media Platforms</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-unending-shutdown-method-how-to-kill-off-youtube-shorts/"><u>[New] 2024 Approved Unending Shutdown Method How to Kill Off Youtube Shorts</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-explore-best-10-websites-for-professional-vectors/"><u>[New] Explore Best 10 Websites for Professional Vectors</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-cinematic-closeness-a-kinemaster-expertise-for-close-up-craft/"><u>[New] In 2024, Cinematic Closeness A Kinemaster Expertise for Close-Up Craft</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-13-easy-to-master-revenue-strategies-on-reddit/"><u>[New] Top 13 Easy-to-Master Revenue Strategies on Reddit</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-cod-vanguard-voice-chat-working-again-expert-tips/"><u>Get Your Cod: Vanguard Voice Chat Working Again - Expert Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-free-epson-scan-now-v39-drivers-for-windows-7-8-or-10-operating-systems/"><u>Get Your Free Epson Scan-Now V39 Drivers for Windows 7, 8 or 10 Operating Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-9-android-apps-minimize-videos-effortlessly-and-costlessly/"><u>In 2024, Best 9 Android Apps Minimize Videos Effortlessly and Costlessly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-problem-when-your-in-game-voice-chat-fails-on-lol/"><u>Solving the Problem When Your In-Game Voice Chat Fails on LoL</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-repair-non-functional-mic-on-windows-11-and-10-during-google-meets/"><u>Troubleshooting Guide: How to Repair Non-Functional Mic on Windows 11 and 10 During Google Meets</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-techniques-for-nonfunctional-sound-blaster-microphones/"><u>Troubleshooting Techniques for Nonfunctional Sound Blaster Microphones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-ultimate-savings-essential-gaming-picks-for-the-upcoming-oct-24-prime-day-deals-insights-from-zdnet/"><u>Unlock Ultimate Savings: Essential Gaming Picks for the Upcoming Oct '24 Prime Day Deals – Insights From ZDNET</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Hearthstone Audio Malfunction? Here's How to Restore Your Game Sounds
-date: 2024-08-13T10:48:36.463Z
-updated: 2024-08-14T10:48:36.463Z
+date: 2025-01-23T21:15:08.063Z
+updated: 2025-01-30T05:04:43.236Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/192f81e62d92a192c6756d4acefa6e25619bd0109
 
 If you’re playing_Hearthstone_ and the audio cuts out abruptly, or there is no sound at all, you’re not alone! Many players are reporting it. But the good news is that you can fix it. Here are 7 fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7 simple fixes to try
 
  You may not have to try them all; just work your way through the list until you find the one that does the trick for you.
@@ -32,10 +29,6 @@ If you’re playing_Hearthstone_ and the audio cuts out abruptly, or there is no
 6. **[Reset sound settings](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall_Hearthstone_ and/or the Blizzard launcher](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ### Fix 1: Check cables and volume
 
  If you don’t have any sound at all, you need to check your audio device is well-connected to your computer, and it’s not muted. Follow the instructions below:
@@ -85,13 +78,14 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-281.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: End unnecessary background programs
 
  Some programs running on the background may conflict with_Hearthstone_ or the Blizzard launcher, causing audio issues for you. Try turning off unnecessary processes while gaming to see if the audio comes back.
@@ -105,6 +99,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-763.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-794.jpg)
@@ -113,9 +111,6 @@ OR
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-809.jpg)
 
  If your issue continues, try **[Fix4](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -126,17 +121,10 @@ OR
 
 **1)**  Right-click your taskbar and select **Task Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-762.jpg)
 
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-805.jpg)
 
 **3)**  Right-click the resource-consuming process and select **End task** .
@@ -148,9 +136,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Try launching_Hearthstone_ again to see if the sound works properly now. If your issue still exists, read on and check the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Repair_Hearthstone_ files
 
  The audio issue in_Hearthstone_ is sometimes triggered by damaged or missing game files. To see if that’s the problem for you, try verifying the integrity of your game files. Here is how to do it:
@@ -161,15 +149,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-402-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click **Begin Scan** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-422.jpg)
 
  Wait for the scans to be complete, then relaunch_Hearthstone_ to test your issue. If the audio issue persists, read on and try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable Compatibility Mode
 
@@ -177,29 +169,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 **1)** Right-click**Battle.net.exe** and select**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-423.jpg)
 
 **2)** Click the**Compatibility tab** , then uncheck**Run this program in compatibility mode for:** .
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-424.jpg)
 
 **3)** Click**Apply** then**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-425.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Relaunch your game to check if the sound comes back. If not, go ahead with the fix below.
 
@@ -213,18 +195,10 @@ No advertising on the website.
 
 **2)** Click the**Sound & Notifications tab** , then click**Reset to Defaults** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-549.jpg)
 
 **3)** Click**Reset** .
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-550.jpg)
 
 **4)** Click the**Voice chat tab** , then click**Reset to Defaults** .
@@ -239,11 +213,16 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-553.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Relaunch your game to test your issue. If the audio is still missing in_Hearthstone_ , try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7: Reinstall_Hearthstone_ and/or the Blizzard launcher
 
  If none of the fixes above helped, the sound problem is probably triggered by corrupted game files. In this case, reinstalling_Hearthstone_ and/or the Blizzard laucnher is very likely the solution to your problem. Here is how to do it:
@@ -259,6 +238,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-438.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Yes, Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-439.jpg)
@@ -271,14 +254,15 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 **1)** On your keyboard, press the**Windows logo key** and type**control** . Then select**Control Panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-441.jpg)
 
 **2)** Under**View by** , select**Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-443.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click**Uninstall a program** .
 
@@ -309,8 +293,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -318,4 +300,26 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-dissecting-the-best-app-for-video-editing-is-inshot-it/"><u>[Updated] 2024 Approved Dissecting the Best App for Video Editing - Is InShot It?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-silent-movies-to-sound-films-a-modern-tutorial/"><u>[Updated] From Silent Movies to Sound Films A Modern Tutorial</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-optimize-video-views-with-these-top-5-link-shrinkers/"><u>[Updated] In 2024, Optimize Video Views with These Top 5 Link Shrinkers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-iphone-flipping-and-tilting-photos-perfectly/"><u>[Updated] Mastering iPhone Flipping & Tilting Photos Perfectly</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-synchronizing-social-media-channels-for-broad-distribution/"><u>[Updated] Synchronizing Social Media Channels for Broad Distribution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015107644-battlefield-4-no-sound-heres-the-fix/"><u>Battlefield 4 No Sound? Here’s The Fix</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/conquer-your-quiet-connection-expert-tips-on-restoring-sound-to-bluetooth-devices/"><u>Conquer Your Quiet Connection: Expert Tips on Restoring Sound to Bluetooth Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-list-of-premium-cost-free-webm-streaming-services/"><u>Essential List of Premium, Cost-Free WebM Streaming Services</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-tips-on-selecting-best-free-srt-tools-for-2024/"><u>Expert Tips on Selecting Best FREE SRT Tools for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-headphone-connectivity-problems-on-windows-11-systems/"><u>Fixing Headphone Connectivity Problems on Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-pc-solutions-for-restoring-audio-in-borderlands-3/"><u>Fixing Silent PC: Solutions for Restoring Audio in Borderlands 3</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-elevate-mobile-streaming-with-obs-studio-android-edition/"><u>In 2024, Elevate Mobile Streaming with OBS Studio Android Edition</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-movements-intova-xs-video-excellence/"><u>In 2024, Mastering Movements Intova X's Video Excellence</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-audio-on-your-airpods-pro-heres-how-to-fix-it/"><u>No Audio on Your AirPods Pro? Here's How to Fix It!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-m6-pro-4g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco M6 Pro 4G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-for-when-your-discord-voice-chat-stays-silent-ptt-problems-solved/"><u>Quick Fix for When Your Discord Voice Chat Stays Silent: PTT Problems Solved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-the-sound-of-legends-how-to-address-and-resolve-valheim-no-sound-on-pc-issue/"><u>Reviving the Sound of Legends: How to Address and Resolve Valheim No Sound on PC Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-hack-for-resolving-no-sound-in-fortnite/"><u>The Ultimate Hack for Resolving No Sound in Fortnite</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-7-hdmi-sound-not-working-solved/"><u>Windows 7 HDMI Sound Not Working [Solved]</u></a></li>
+</ul></div>
 

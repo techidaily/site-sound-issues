@@ -1,7 +1,7 @@
 ---
 title: "The Definitive Fixes for Sound Lag: Advanced Strategies and Tips"
-date: 2024-08-13T10:46:59.642Z
-updated: 2024-08-14T10:46:59.642Z
+date: 2025-01-27T02:01:39.996Z
+updated: 2025-01-30T07:07:47.313Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ The annoying sound bugs in Borderlands 3 are spoiling your fun. Many players are
 
  Of course, the answer is “**YES”** . Whether you’re experiencing**no sound effects** ,**no weapon sound** ,**no dialogue sound,** or**no sound at all** , this post will show you how to fix it quickly and easily.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. **[Check your default output device](https://tools.techidaily.com/drivereasy/download/)**
@@ -42,19 +39,25 @@ The annoying sound bugs in Borderlands 3 are spoiling your fun. Many players are
   
  However, if it keeps giving you the silent treatment, you can try the fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check your default output device
 
  First, you need to make sure that the default playback device (your headset or speaker) is correctly set, especially when you have multiple audio outputs.
 
 1. Right-click the volume icon on the right corner of your taskbar.
 2. Click Sounds.  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/sound-settings-1.jpg)
 3. In the Playback tab, select your device and click Set Default. Then click Apply to save the changes. (If already default, you can set another device as default and set it back again.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/default-device-1.jpg)
 4. Go to**Audio Settings** of Borderlands 3 and make sure the output audio is set to your default device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Launch your Borderlands 3.
 6. Go to**Settings > System > Sound** , then click**App volume and device preferences** under**Advanced sound options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/advanded-sounds-1.jpg)
@@ -69,27 +72,22 @@ The annoying sound bugs in Borderlands 3 are spoiling your fun. Many players are
 
 If the sound issue still persists, then head on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### Fix 2: Turn off Spatial sound
 
  Many Borderlands players find Spatial sound is always the culprit of their Borderlands 3 no sound issue. To fix it, you need to turn off Spatial sound both in your Windows settings and in-game settings.
 
 1. Select your default audio device and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/audio-device-properties-1.jpg)
 2. Choose the**Spatial sound** tab. Then select**Windows Sonic for Headphones** and click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/spatial-sounds-turn-on-1.jpg)
 3. Choose**None** to turn it back off and click**Apply** again.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/spatial-sounds-turn-off-1.png)
 4. In Borderlands 3, go to**Sound** settings and set**Spatial Sound** to**Disabled** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Restart your game and see if this fixes your sound not working issue.
 
  On the contrary, some of the Borderlands players find it fixed their sound problems by**turning on the Spatial sounds** both in Windows and in-game settings.  
@@ -100,13 +98,14 @@ If the sound issue still persists, then head on to the next fix.
 
 1. Go to the**Playback** tab and select your default audio device and click**Properties** .
 2. Go to the**Advanced** tab and select a lower value from the drop-down list. Then click**Apply** \>**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/audio-qulaity-1.jpg)
 3. Restart your game and check if the sound is coming back now.
 4. If this fix doesn’t work for you, then uncheck both**Allow applications to take exclusive control of this device** and**Give exclusive mode applications priority** .
 5. Run your Borderlands 3 again to check your sound issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update the audio driver
 
@@ -137,35 +136,35 @@ If the sound issue still persists, then head on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now-4.png)
 3. Click the**Update** button next to your sound card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
- Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will get**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will get**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/update-all-your-drivers-1.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Launch your Borderlands 3 again to test the sound issue.
 
  If you need assistance, please contact **Driver Easy’s support** **team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Turn off Social Notification Frequency
 
  If the issue still bugs you after updating your audio driver, then you can try to turn off Social Notification Frequency to reduce input lag. Here is how to do it:
 
 1. Open Borderlands 3 and go to Network & Social.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/network-and-social-Borderlands-3.jpg)
 2. Turn off**Notification Frequency** .
 3. Restart your game and test the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Run as administrator
 
  Whenever you bump into game issues, it never hurts to run both your game launcher and Borderlands 3 as administrator. These sound issues might occur if you have limited access to your game files.
@@ -173,9 +172,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Right click your game launcher (Epic Games) and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/run-as-admin-2.jpg)
 2. Go to the**Compatibility** tab and tick the**Run this program as an administrator** box. Then click**Apply** \>**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/epic-games-run-as-admin.jpg)
 3. Navigate to where your Borderlands 3 is installed (C:\\Program Files\\Epic Games\\Borderlands 3).  
 
@@ -187,8 +183,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 6. Launch your Borderlands 3 to see if the sound issue still persists.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7: Check the integrity of game files
 
  Verify your Borderlands 3 game files in case any corrupt files prevent the sound from working properly.
@@ -200,18 +197,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. After verifying your game files, run your Borderlands 3 again and test the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 8: Change your default device to the stereo mix
 
 1. Right-click the volume icon and select**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/sound-settings-2.jpg)
 2. Under the**Playback** tab, select your default device and click**Configure** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/configure.jpg)
 3. For**Audio channels** , select**Stereo** and click**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/speaker-set-up.jpg)
 4. Check the**Front left and right** box. Then click**Next** .
 5. Click**Finish** to save changes.
@@ -244,8 +244,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -253,4 +251,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-action-filmmaking-camera-picks-for-newbies/"><u>[New] In 2024, Action Filmmaking Camera Picks for Newbies</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-perfectly-preserved-your-ultimate-guide-to-saving-tweet-animations/"><u>[Updated] 2024 Approved Perfectly Preserved Your Ultimate Guide to Saving Tweet Animations</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/imate-live-streaming-apps-for-iphone-and-android-users-on-youtube-for-2024/"><u>7 Ultimate Live Streaming Apps for iPhone and Android Users on YouTube for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/crafting-precise-shadows-with-adobe-curves/"><u>Crafting Precise Shadows with Adobe Curves</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-back-to-gaming-solving-counter-strike-microphone-malfunctions/"><u>Get Back to Gaming: Solving Counter-Strike Microphone Malfunctions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hdmi-detection-error-in-windows-10-tips-and-solutions-for-connecting-your-television/"><u>HDMI Detection Error in Windows 10: Tips and Solutions for Connecting Your Television</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-hp-scanner-not-working-2022-tips/"><u>How to Fix HP Scanner Not Working – 2022 Tips</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/joyful-views-essential-15-comical-youtubers-to-relax-with-for-2024/"><u>Joyful Views Essential 15 Comical YouTubers to Relax With for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-itel-p40-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Itel P40 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/re-establish-the-connection-repairing-your-windows-7-headphone-functionality-issue/"><u>Re-Establish the Connection: Repairing Your Windows 7 Headphone Functionality Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reactivate-your-pcs-volume-effective-fixes-for-immediate-sound-restoration/"><u>Reactivate Your PC's Volume: Effective Fixes for Immediate Sound Restoration</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sound-solutions-swiftly-ending-the-silence-of-your-astro-a5link-to-guide/"><u>Sound Solutions: Swiftly Ending the Silence of Your Astro A5([link to Guide])</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-converting-youtube-videos-for-iphone-playback/"><u>Step-by-Step Guide: Converting YouTube Videos for iPhone Playback</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-the-microphone-on-your-astro-a50-headphones/"><u>Troubleshooting and Fixing the Microphone on Your Astro A50 Headphones</u></a></li>
+</ul></div>
 

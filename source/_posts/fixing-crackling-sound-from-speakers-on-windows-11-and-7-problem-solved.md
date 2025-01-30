@@ -1,7 +1,7 @@
 ---
 title: Fixing Crackling Sound From Speakers on Windows 11 & 7 - Problem Solved!
-date: 2024-08-13T10:48:35.440Z
-updated: 2024-08-14T10:48:35.440Z
+date: 2025-01-24T18:53:00.037Z
+updated: 2025-01-30T01:10:44.699Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/84a193c7dfe30d1711082c3e2e61ae28fba386e22
 4. [**Reinstall your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 1: Troubleshoot the hardware issue**
 
  The hardware problem can cause the sound not working issue, so you can follow the instructions below to troubleshoot and identify your sound problem.
@@ -46,8 +50,9 @@ thumbnail: https://thmb.techidaily.com/84a193c7dfe30d1711082c3e2e61ae28fba386e22
  If the sound is still not working, here’s the next thing to try…
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 2: Check the audio settings in your Windows**
 
  If the hardware is working properly, the sound issue can be caused by the**incorrect settings** in your laptop. Follow the steps below to check the settings for your sound.
@@ -58,9 +63,6 @@ thumbnail: https://thmb.techidaily.com/84a193c7dfe30d1711082c3e2e61ae28fba386e22
 
  Plus, you can drag the**volume** to the**medium** or**maximum** to see if there’s any sound.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb12196f37.png)
 
 #### 2\. Make sure your audio device is set as default
@@ -69,16 +71,16 @@ thumbnail: https://thmb.techidaily.com/84a193c7dfe30d1711082c3e2e61ae28fba386e22
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Check your audio device in the**Playback** tab. Make sure there’s a**green check** next to your audio device, and that shows that your audio device is the**default** playback device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b59d5056.png)
 
  3) If your audio device is not the default device, click**Set Default** . Then click**OK** to save.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a446177e761d.png)
 
 3) Test the sound on your laptop so see whether there is any sound.
@@ -93,17 +95,15 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  2) Select your audio device in the**Playback** tab, and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962c8cd39cb.png)
 
  3) Click**Advanced** . In Default Format, choose another different audio rate, then click the**Test** button. Then play a music or audio to test.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962d0ec718d.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) You will need to repeat this until you find a proper audio format. Once you find the proper audio format to work, click**OK** to save the settings.
 
@@ -115,14 +115,15 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  2) Double click**Sound, video and game controllers** to expand it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb470694a1.png)
 
  3) Make sure there’s**NOT** a down arrow displayed next to the volume icon in your sound device, like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb4e9bbee3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If a**down arrow** displays on the volume icon, the sound device is disabled. Right click the device name, and select**Enable** **device** to enable your sound device.
 
@@ -146,10 +147,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged audio driver to automatically download and install the correct audio driver (You can do this with the**FREE** version).
 
@@ -157,11 +159,12 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer and check whether your problem is solved.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 4: Reinstall your audio driver**
 
  HP laptop sound not working issue can be caused by the driver corruption, so you can uninstall the existed sound driver in your laptop and reinstall a new driver for your sound device.
@@ -172,23 +175,16 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962e2ade37c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click your sound device and click**Uninstall device** .
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ec385bd3.jpg)
 
  4)**Confirm** the uninstallation. Check the box next to**Delete the driver software for this device** if there’s an option like this, then confirm the uninstall.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ef431c66.png)
 
  5) Restart your computer and Windows will automatically download and install the sound driver for your device. After that, check the sound to see if it works.
@@ -215,9 +211,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  3) Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
 
 ---
@@ -233,8 +226,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -242,4 +233,17 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-issues.techidaily.com/fixed-speaker-plugged-in-but-no-sound-in-windows/"><u>[Fixed] Speaker Plugged In But No Sound in Windows</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-infinite-save-instagram-stories-secret-weapon/"><u>[New] 2024 Approved Infinite Save Instagram Stories' Secret Weapon</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-your-guide-to-the-hottest-screen-free-android-gaming-apps-for-2024/"><u>[Updated] Your Guide to the Hottest Screen-Free Android Gaming Apps for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-sound-troubleshooting-for-windows-11-users-now-playing/"><u>Cyberpunk 2077 Sound Troubleshooting for Windows 11 Users - Now Playing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138621359-9781601635846-heavenly-hugs/"><u>Heavenly Hugs | Free Book</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/myspace-profileshot-guide-size-codec-timing/"><u>MySpace Profileshot Guide Size, Codec, Timing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016763871-no-audio-post-windows-10-upgrade-heres-the-quick-fix/"><u>No Audio Post-Windows 10 Upgrade? Here's the Quick Fix!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-game-sounds-to-cod-black-ops-cold-war-a-comprehensive-no-sound-fix-for-pc-players/"><u>Restore Game Sounds to COD: Black Ops Cold War – A Comprehensive No Sound Fix for PC Players</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-quest-for-excellence-between-gemini-max-and-enhanced-chatgpt/"><u>The Quest for Excellence: Between Gemini Max & Enhanced ChatGPT</u></a></li>
+</ul></div>
 

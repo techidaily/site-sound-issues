@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows 11 Speaker & Microphone Not Functioning Correctly
-date: 2024-08-13T10:47:54.339Z
-updated: 2024-08-14T10:47:54.339Z
+date: 2025-01-22T16:05:56.294Z
+updated: 2025-01-29T17:53:11.874Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ Are you facing no sound issues on Windows 11? Or maybe you’re suffering from t
 
 Before you start, make sure your headset is working properly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  These fixes have helped many people. Because of the different devices and environments, you may need to work your way down the list until you find the one that works for you.
@@ -33,27 +30,30 @@ Before you start, make sure your headset is working properly.
 5. [**Repair system files**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1: Enable Enhance audio
 
  If you have sound issues or can’t bear an awful sound that goes through your headset, this simple trick may help. We don’t know the mechanism behind the trick yet, but many users have proved it’s a working fix.
 
 1. Press the**Windows logo key + I (i) key** together to open**Settings** .
 2. Go to**System > Sound > All sound devices** and choose your device.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound1.jpg)
 3. Scroll down to find**Enhance audio** . Turn Enhance audio on and then back off.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound2.jpg)
 4. Check your PC sound, it should be back to normal.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this trick doesn’t work for you, please move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Update your audio driver
 
  The Windows 11 no sound issue and other audio issues are usually caused by drivers. Outdated drivers or missing drivers are the reason for many PC problems. To fix it, you need to find the latest and compatible driver for your devices.
@@ -64,6 +64,10 @@ If this trick doesn’t work for you, please move to the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
@@ -79,36 +83,29 @@ If this fix doesn’t help, move to the next fix.
  If you have Realtek audio on your PC, this fix might be the right one for you. Realtek driver is sometimes corrupted on Windows 11 and it can lead to Windows 11 no sound or other audio issues. Here’s how to fix it.
 
 1. Click the**Search** button on the bottom and type**device manager** . Then press the**Enter** key to open it.  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound3.jpg)
 2. Expand**Sound, video and game controllers** . Find**Realtek audio** and right-click on it. Choose**Update driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound4.jpg)
 3. Click**Browse my computer for drivers** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound5.jpg)
 4. Click**Let me pick from a list of available drivers on my computer** .  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound6.jpg)
 5. Check**Show compatible hardware** . Then click**High Definition Audio Device** \>**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound7.jpg)
 6. Click**Yes** in the pop-up window.  
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound8.jpg)
 7. Restart your PC for the changes to take effect.
 8. Check the sound on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Update your Windows system
 
  Windows 11 will release new updates to fix some issues, so check for updates and it might cure the Windows 11 no sound issue. You can do it manually by following the steps below.
@@ -117,12 +114,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Click**Windows Update** \>**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound9.jpg)
 3. Windows will check the latest available updates for you. If you have available updates, Windows 11 will download and install them automatically.
-4. After the whole process, restart your PC and check the effect.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. After the whole process, restart your PC and check the effect.
+
 ## Fix 5: Repair system files
 
  If important Windows files in your PC are corrupted or missing, your PC will have problems, no sound or audio issues might be one of them. In this case, you’ll need to find and repair corrupted system files.  
@@ -149,8 +147,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +154,24 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-finalcut-pro-101-crafting-professional-youtube-edits-for-2024/"><u>[New] FinalCut Pro 101 Crafting Professional YouTube Edits for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-unlocking-seamless-communication-with-top-tier-free-and-paid-zoom-applications/"><u>[New] In 2024, Unlocking Seamless Communication with Top-Tier Free & Paid Zoom Applications</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-from-zero-to-hero-youtubes-masterclass-in-channels/"><u>[Updated] From Zero to Hero YouTube's Masterclass in Channels</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-comprehensible-guide-to-dji-inspire-2/"><u>[Updated] In 2024, The Comprehensible Guide to DJI Inspire 2</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-honor-x8b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnose-and-repair-get-your-laptops-sound-working-again-with-simple-fixes/"><u>Diagnose & Repair: Get Your Laptop's Sound Working Again with Simple Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-ways-to-project-your-online-meetings-on-the-big-screen-using-zoom-and-tv-together/"><u>Easy Ways to Project Your Online Meetings on the Big Screen: Using Zoom & TV Together</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-vivo-s17e-is-unlocked-by-drfone-android/"><u>How To Check if Your Vivo S17e Is Unlocked</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-enable-and-repair-wow-voice-chat-functionality-a-complete-guide/"><u>How to Enable and Repair WoW Voice Chat Functionality: A Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 13 Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-oneplus-ace-3-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your OnePlus Ace 3 Data? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-audio-hurdles-a-guide-to-restoring-your-cs-global-offensive-mic/"><u>Overcoming Audio Hurdles: A Guide to Restoring Your CS: Global Offensive Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-audacity-sound-device-glitch-with-these-5-methods/"><u>Resolve Your Audacity Sound Device Glitch with These 5 Methods</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016627598-runmus-gaming-headset-microphone-woes-heres-how-you-can-get-it-working-again/"><u>Runmus Gaming Headset Microphone Woes? Here's How You Can Get It Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016532412-skip-the-wait-fix-bluetooth-sync-issues-in-a-flash/"><u>Skip the Wait, Fix Bluetooth Sync Issues in a Flash!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-cyberpunk-2077-sound-issues-a-comprehensive-audio-fix-manual/"><u>Solve Your Cyberpunk 2077 Sound Issues: A Comprehensive Audio Fix Manual</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-opening-sound-device-issues-in-audacity-with-these-5-tips/"><u>Troubleshoot Opening Sound Device Issues in Audacity with These 5 Tips</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Repairing CS:GO Audio Problems"
-date: 2024-08-18T07:59:20.776Z
-updated: 2024-08-19T07:59:20.776Z
+date: 2025-01-25T02:24:41.731Z
+updated: 2025-01-29T19:27:36.940Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/85d1b13c1ebb0877b2226a27f70682a117714d804
 If your**microphone can’t pick up your voice** despite the computer recognizing that it’s plugged in, you can try using your mic on your phone to check if it’s a hardware issue. If your mic works on your phone but not on your computer, you can then try the methods below to troubleshoot the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Troubleshoot mic problems
 
 1. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
@@ -28,9 +29,6 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 4. [**Check in-game settings**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Check for Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Update your audio driver
 
  A missing or outdated audio driver may stop mic from picking up voice. Make sure that the audio driver on your PC is up to date.
@@ -58,36 +56,47 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 2. Click**Set up microphone** , and follow the Microphone Setup Wizard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6b23de4e69.jpg)
 3. When you reach “Adjust the microphone volume”, please note if the volume bar moves from yellow to red.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6b3b757a02.jpg)
 4. Is the Setup wizard complete? If your microphone works properly, congratulations! If not, you can follow Method 2 below to check your audio settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Set your mic as your default device
 
  You can take the following steps to check if your microphone is the Default Device on your computer (be sure that your audio driver is up-to-date):
 
 1. Right-click the volume icon in the bottom-right part of your screen, then select**Sounds** .  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6b7cd6c388.jpg)
 2. Click the **Recording** tab.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6ca5ddbaee.jpg)
 3. Right-click on the device you want to use, and select **Set as Default Device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6ca767b35a.jpg)  
 **Note:** You can try speaking into your microphone to test if it’s working properly. If it is, you should see a green bar rising next to it while you talk:  
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6caa71d6b3.jpg)
 4. Right click on and **disable** every other input device except the one you want to use. (If you have any other output devices, repeat for the **Playback** tab).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6cabba2f9f.jpg)
 5. Click**OK** .
 6. Check if your mic works as expected.
@@ -96,27 +105,20 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Allow apps to access your mic (Windows 10)
 
  If you mic problem occurs in a specific program, you can go to Windows Settings to check if that program is allowed to access your microphone. Here’s how:
 
 1. Type**settings** in the search box, and click**Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6d1f6bf629.jpg)
 2. Click **Privacy** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6d22eaa914.jpg)
 3. In the left pane, click **Microphone** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6d24e48342.jpg)
 4. In the right pane, click the **Change** button, and you’ll see your mic is turned on. Also make sure **All apps to access your microphone** is enabled.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6d2820592a.jpg)
@@ -159,8 +161,6 @@ Check to see if your mic can pick up voice now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +168,23 @@ Check to see if your mic can pick up voice now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-secret-handbook-to-instagrams-exclusive-club-elevating-your-profile-with-six-tips/"><u>[Updated] 2024 Approved The Secret Handbook to Instagram's Exclusive Club Elevating Your Profile with Six Tips</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-exclusive-round-up-premium-vr-tools-for-2024/"><u>[Updated] Exclusive Round-Up Premium VR Tools for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-most-trusted-free-open-source-video-meeting-solutions-for-companies-and-schools-for-2024/"><u>[Updated] The Most Trusted Free, Open Source Video Meeting Solutions for Companies & Schools for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-shorts-success-error-free-techniques/"><u>2024 Approved YouTube Shorts Success Error-Free Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/back-4-blood-fixing-voice-communication-issues-a-step-by-step-guide/"><u>Back 4 Blood: Fixing Voice Communication Issues – A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-reviews-the-most-effective-storm-chasing-tools-for-navigating-2024/"><u>Expert Reviews: The Most Effective Storm Chasing Tools for Navigating 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/how-to-blur-pictures-on-iphone-for-free-for-2024/"><u>How to Blur Pictures on iPhone for Free for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-itel-s23-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Itel S23 Phone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-mic-functionality-in-microsoft-teams-for-windows-11-and-10-users/"><u>How to Restore Mic Functionality in Microsoft Teams for Windows 11 & 10 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/identifying-and-fixing-audio-service-interruptions-a-comprehensive-solution/"><u>Identifying and Fixing Audio Service Interruptions: A Comprehensive Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-dilemma-a-step-by-step-guide-to-repairing-a-nonfunctional-corsair-hs70-headset-microphone/"><u>Solving the Dilemma: A Step-by-Step Guide to Repairing a Nonfunctional Corsair HS70 Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/squad-mic-troubleshooting-and-solutions-for-gamers-guide/"><u>Squad Mic Troubleshooting and Solutions for Gamers (Guide )</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-solving-issues-with-unresponsive-wireless-microphones/"><u>Step by Step Guide: Solving Issues with Unresponsive Wireless Microphones</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/strategies-for-minimizing-large-scale-video-and-audio-data-for-2024/"><u>Strategies for Minimizing Large-Scale Video and Audio Data for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-resolving-lack-of-sound-on-monitortv-with-computer-via-hdmi-connection/"><u>Ultimate Guide: Resolving Lack of Sound on Monitor/TV with Computer via HDMI Connection</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-unlock-your-creative-potential-10-top-music-video-editing-software/"><u>Updated 2024 Approved Unlock Your Creative Potential 10 Top Music Video Editing Software</u></a></li>
+</ul></div>
 

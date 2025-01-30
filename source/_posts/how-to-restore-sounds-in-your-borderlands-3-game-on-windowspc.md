@@ -1,7 +1,7 @@
 ---
 title: How To Restore Sounds In Your Borderlands 3 Game On Windows/PC?
-date: 2024-08-13T10:49:25.348Z
-updated: 2024-08-14T10:49:25.348Z
+date: 2025-01-27T06:10:05.843Z
+updated: 2025-01-30T05:51:10.176Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 
 ## How to Restore Sounds on Your Chrome Browser - Issue Resolved
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc712b2a9ec9.jpg)
 
  Many users are experiencing a**Chrome no sound** issue on their computer. If you happen to be in the same situation, don’t worry. It’s often quite easy to fix…
@@ -37,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### Fix 1: Rule out the obvious
 
  Sometimes the reason why we can’t hear sound from Chrome can be obvious yet easily neglected. So we might need to rule out the obvious first:
@@ -51,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your sound driver
 
  The**Chrome no sound** problem may occur if you’re using the wrong or corrupt sound driver on your system. So you should update your sound driver to see if it fixes the issue. If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -66,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd6217aadf1.jpg)
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -79,14 +67,15 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Check volume mixer
 
 **Volume mixer** is a feature in Windows that allows us to adjust the volumes for individual apps. If sound plays properly on apps other than Chrome, chances are you might have muted the volume for Chrome. To check and un-mute:
 
 1. Right-click on the sound icon  on the lower-right of your screen, then click**Open Volume Mixer** .  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df14ca9334.jpg)
 2. Make sure you’ve moved the**volume slider** for**Chrome** to at least halfway up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df24a53f15.jpg)  
@@ -101,21 +90,14 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then copy & paste **inetcpl.cpl**  into the box and click OK.  
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-31.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click the **Advanced**  tab. Then scroll down to **Multimedia** and check the box before **Play sounds in web pages** . Then click **Apply** \> **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-32.png)
 
  3) Re-launch Chrome and check if you can hear sound from web apps. If the problem persists, don’t worry -here’re a few more fixes for you to try.
@@ -123,22 +105,24 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Clear cache and cookies
 
  Cache and cookies are some temporary data that help speed up webpage loading. But too much of them may overload Chrome and cause no sound problem. So in order to**clear cache and cookies** :
 
 1. Open Chrome.
 2. On the top right, click on**the three vertical dots** button >**More tools** \>**clear browsing data** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df7b87cca5.jpg)
 3. In the drop-down menu, click to select**the time range** for the data cache clearing (Last 7 days in my example). Then click**CLEAR DATA** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df83c76d86.jpg)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable extensions
 
@@ -146,11 +130,13 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 
 1. Open Chrome.
 2. At the top right, click on**the three vertical dots** button >**More tools** \>**Extensions** .  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e192f97a1a.jpg)
 3. Toggle off all the extensions on Chrome.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e199b56ceb.png)
 4. Re-launch Chrome and check if sound comes through. If yes, you can try to enable the extensions one by one until you find out the responsible one. But if it doesn’t help with the situation, you might want to turn on the extensions and move on to**Fix 7** , below.
 
@@ -164,11 +150,12 @@ Here’s how to do it:
 
 1. Open Chrome and visit **chrome://components/** to check for update.
 2. Under**Adobe Flash Player** , click**Check for update** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1dfb5ac965f.jpg)
 3. Check the status:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * If it says **Status – Component not updated**  , then go to **[Adobe Flash Player](https://flash.2144.com/)** [](https://flash.2144.com/)  to  download & install the latest version of your   **Adobe flash player**  .
 * If it says otherwise, then move on to**Fix 8** .
@@ -185,8 +172,18 @@ Here’s how to do it:
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **appwiz.cpl**  into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d37f8cbb5d.png)
 2. Locate and right-click on Chrome, then click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e14cb32cd8.jpg)
 3. Download and install Chrome from another web browser or Windows store.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Try sound on the re-installed Chrome and see if the**Chrome no sound** problem has been fixed.
 
 ---
@@ -203,8 +200,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +207,24 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-ultimate-guide-to-iphone-composition-choosing-right-angles/"><u>[New] 2024 Approved The Ultimate Guide to iPhone Composition Choosing Right Angles</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-iphones-hdr-features-for-professional-photography/"><u>[Updated] Exploring iPhone's HDR Features for Professional Photography</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-accessing-zoom-directly-from-google-mail-interface/"><u>[Updated] In 2024, Accessing Zoom Directly From Google Mail Interface</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-behind-the-scenes-iphone-video-loops-unveiled/"><u>[Updated] In 2024, Behind the Scenes IPhone Video Loops Unveiled</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-video-growth-booster-top-seo-tools-uncovered-for-2024/"><u>[Updated] Video Growth Booster – Top SEO Tools Uncovered for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1-issues-with-liquid-found-in-iphone-charging-port-what-are-the-solutions-a-comprehensive-guide/"><u>1. 'Issues with Liquid Found in iPhone Charging Port: What Are the Solutions?' - A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/android-companion-emulating-your-favored-dreamcatcher-titles/"><u>Android Companion: Emulating Your Favored Dreamcatcher Titles</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-razer-man-o-war-headset-microphone-issues-a-comprehensive-guide/"><u>Fixing Your Razer Man O' War Headset Microphone Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-the-sounds-rolling-again-repairing-hdmi-sound-output-in-windows-7/"><u>Get the Sounds Rolling Again: Repairing HDMI Sound Output in Windows 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-malfunctioning-skype-audio-input-on-windows-11-systems/"><u>How to Repair a Malfunctioning Skype Audio Input on Windows 11 Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015266247-revive-the-audio-on-your-oculus-rift-s-essential-quick-fixes-you-need/"><u>Revive the Audio on Your Oculus Rift S: Essential Quick Fixes You Need !</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-mystery-a-step-by-step-guide-to-restore-your-fortnite-sounds/"><u>Solving the Mystery: A Step-by-Step Guide to Restore Your Fortnite Sounds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-overcoming-common-problems-with-the-astro-a20-microphone/"><u>Step-by-Step Repair: Overcoming Common Problems with the Astro A20 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-in-game-communication-heres-what-to-do-when-your-csgo-mic-fails/"><u>Trouble with In-Game Communication? Here's What to Do When Your CS:GO Mic Fails</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-picks-the-safest-and-quickest-video-converters-for-windows-1110-enthusiasts/"><u>Ultimate Picks: The Safest and Quickest Video Converters for Windows 11/10 Enthusiasts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlock-pure-sound-performance-how-to-switch-off-audio-improvement-features-on-windows-10/"><u>Unlock Pure Sound Performance - How to Switch Off Audio Improvement Features on Windows 10</u></a></li>
+</ul></div>
 

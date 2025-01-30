@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Restoring In-Game Music in Anthem on Windows 11 Machines
-date: 2025-01-20T17:50:58.645Z
-updated: 2025-01-22T20:59:48.606Z
+date: 2025-01-23T17:36:38.843Z
+updated: 2025-01-29T21:11:45.701Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -37,7 +37,7 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 3. [Roll back your audio driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your audio driver
@@ -57,13 +57,13 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72204e5e8f.jpg)
 3. Click the**Update** button next to a flagged audio driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version of Driver Easy).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update** **All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72220f11f9.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Check if there’s any sound in your computer.
 
@@ -78,10 +78,6 @@ To do so:
 1. Right click on the**Volume icon** at the bottom right corner, and click**Sounds** (or**Playback devices** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 2. In the**Sound** pane, click the**Playback** tab.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7201dbcc98.jpg)
 3. Select your speaker audio device, and click**Set Default** to set it as your default device.  
@@ -104,15 +100,19 @@ Still no luck? Okay, there’s one more thing to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72165a0e6f.jpg)
 4. Double click on your**audio device** to open the properties pane.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7218e14fa5.jpg)
 5. Click the**Driver** tab, and click**Roll Back Driver** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721ba8a50e.jpg)
 6. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Restart your computer.
 
@@ -140,18 +140,20 @@ Feel free to leave a comment below if you have any questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-perfecting-altered-text-aesthetics-in-visual-media/"><u>[Updated] 2024 Approved Perfecting Altered Text Aesthetics in Visual Media</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-ensuring-compatibility-with-macos-big-sur-release/"><u>[Updated] Ensuring Compatibility with MacOS Big Sur Release</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1791392-9781782796206-a-kitchen-witchs-world-of-magical-herbs-plants/"><u>A Kitchen Witch's World of Magical Herbs & Plants | Free Book</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/end-silent-screenings-top-strategies-to-restore-audio-in-pc-users-facebook-video-playbacks/"><u>End Silent Screenings: Top Strategies to Restore Audio in PC Users' Facebook Video Playbacks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-guide-to-enable-sound-capturing-in-discord-during-games/"><u>Expert Guide to Enable Sound Capturing in Discord During Games</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-resolve-issues-after-patching-the-escapists-game-on-windows-systems/"><u>How to Resolve Issues After Patching 'The Escapists' Game on Windows Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016500272-solve-airpods-microphone-failure-in-windows-10-with-easy-fixes/"><u>Solve 'AirPods Microphone Failure' In Windows 10 with Easy Fixes!</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/top-ranking-apps-for-embedding-dates-in-images/"><u>Top-Ranking Apps for Embedding Dates in Images</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unstuck-from-silence-resolving-headphone-issues-in-windows-10-systems/"><u>Unstuck From Silence: Resolving Headphone Issues In Windows 10 Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-upgrades-explore-how-apples-latest-airpods-pro-and-max-compare-insights/"><u>Unveiling the Upgrades: Explore How Apple's Latest AirPods Pro and Max Compare - Insights</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/wattpad-stars-moments-on-snapchat/"><u>Wattpad Stars Moments on Snapchat</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-11s-epson-scanner-not-working-heres-how-to-fix-it/"><u>Windows 11'S Epson Scanner Not Working? Here's How To Fix It</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015726148-zoom-microphone-failures-in-windows-1011-heres-how-to-resolve-them/"><u>Zoom Microphone Failures in Windows 10/11? Here's How to Resolve Them!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-lgs-monitor-marvel-an-exhaustive-look-at-ultra-clear-technology/"><u>[Updated] In 2024, LG's Monitor Marvel An Exhaustive Look at Ultra-Clear Technology</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-sony-x1000d-vivid-full-action-cam-test/"><u>[Updated] Sony X1000D Vivid - Full Action Cam Test</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-frame-your-photos-right-a-guide-to-top-notch-edges-in-instagram/"><u>2024 Approved Frame Your Photos Right A Guide to Top-Notch Edges in Instagram</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-top-6-unobtrusive-applications-for-android-captures/"><u>2024 Approved Top 6 Unobtrusive Applications for Android Captures</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1728464164420-windows-11/"><u>長期間のWindows 11再インストール中に発生する一般的なシステム停止問題</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-laser-productora-mg5420-drivers-download-guide-for-windows-11-8-and-7-systems/"><u>Canon Laser Productora MG5420 Drivers: Download Guide for Windows 11, 8 & 7 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/google-chrome-audio-restored-fixing-the-silent-mode-dilemma/"><u>Google Chrome Audio Restored – Fixing the Silent Mode Dilemma</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-mic-problems-on-your-windows-7-pc-complete-guide/"><u>How to Fix Mic Problems on Your Windows 7 PC - Complete Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-tecno-camon-30-pro-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Tecno Camon 30 Pro 5G FRP</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722846627202-master-your-reading-experience-with-a-customized-kindle-paperwhite-display-time/"><u>Master Your Reading Experience with a Customized Kindle Paperwhite Display Time</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/maximizing-audio-experience-for-pc-users-enhancing-speaker-volume-on-windows-10/"><u>Maximizing Audio Experience for PC Users: Enhancing Speaker Volume on Windows 10</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-discover-the-best-free-and-paid-3d-animation-programs/"><u>New In 2024, Discover the Best Free and Paid 3D Animation Programs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-for-usb-earbuds-plugged-into-windows-aturality-with-a-sophisticated-natural-feel/"><u>Restoring Audio for USB Earbuds Plugged Into Windows Aturality with a Sophisticated, Natural Feel.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-mystery-of-sudden-sounds-on-your-pc-windows-troubleshooting-tips/"><u>Solving the Mystery of Sudden Sounds on Your PC - Windows Troubleshooting Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-pc-the-top-5-solutions-for-audio-problems-in-windows-10/"><u>Troubleshooting Your PC: The Top 5 Solutions for Audio Problems in Windows 10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Addressing Mutism Problems on Your Discord Conversations
-date: 2024-08-18T07:58:59.065Z
-updated: 2024-08-19T07:58:59.065Z
+date: 2025-01-26T01:27:21.042Z
+updated: 2025-01-29T16:40:19.486Z
 tags:
   - win11
   - win10
@@ -31,9 +31,6 @@ It’s annoying that your Discord is picking up game audio all of a sudden. But 
 * [2. Change sound settings](https://tools.techidaily.com/drivereasy/download/)
 * [3. Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ### 1\. Update audio drivers
 
  A properly working audio driver can make sure your device is working normally. If your Discord picks up the game audio, it might be caused by a malfunctioning audio driver. To make sure your audio works fine, you should update your audio driver:
@@ -48,9 +45,6 @@ There’re mainly two ways for you to update an audio driver:
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
  3) Click the **Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -64,6 +58,10 @@ There’re mainly two ways for you to update an audio driver:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Change sound settings
 
  This issue happens when Stereo Mix (instead of your headset microphone) is set to the default device. To fix it, you should disable Stereo Mix, and set your microphone as the default device:
@@ -76,10 +74,11 @@ There’re mainly two ways for you to update an audio driver:
 
  3) Right-click**Stereo Mix** and select **Disable** , and make sure you have set your headphone as the default device.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Open Discord application, and go to**User Settings** .
 
@@ -87,11 +86,16 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Reinstall Discord
 
  If nothing worked, you can try reinstalling Discord in case it’s an app-related issue. Here’s how:
@@ -100,17 +104,14 @@ There’re mainly two ways for you to update an audio driver:
 
  2) Type in**appwiz.cpl** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right-click Discord, and select**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
 
  Once complete, you can download[**the latest Discord client**](https://discord.com/brand-new) and check if the issues persist in the new version.
@@ -127,8 +128,6 @@ There’re mainly two ways for you to update an audio driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +135,17 @@ There’re mainly two ways for you to update an audio driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/2024-approved-create-unique-audio-trailers-at-zero-expense/"><u>2024 Approved Create Unique Audio Trailers at Zero Expense</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-ultimate-color-tweaking-discover-top-tips-for-enhancing-hues/"><u>2024 Approved Ultimate Color Tweaking Discover Top Tips for Enhancing Hues</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-radio-theatre-scripting/"><u>Cutting-Edge Radio Theatre Scripting</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repairs-restoring-microphone-function-in-the-corsair-hs60-headset/"><u>DIY Repairs: Restoring Microphone Function in the Corsair HS60 Headset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fast-solutions-repairing-your-oculus-rift-s-headsets-microphone-in-minutes-updated-guide/"><u>Fast Solutions: Repairing Your Oculus Rift S Headset's Microphone in Minutes – Updated Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-with-idt-hd-audio-codec-in-windows/"><u>Fixing Issues with IDT HD Audio Codec in Windows</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-visuals-adding-value-with-3-strategic-video-descriptions-for-2024/"><u>Instagram Visuals Adding Value with 3 Strategic Video Descriptions for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-muted-messages-how-to-fix-voice-chat-failures-on-discord/"><u>Overcoming Muted Messages: How to Fix Voice Chat Failures on Discord</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamless-transition-to-safe-mode-in-window-8-and-gpu-driver-deletion-guide/"><u>Seamless Transition to Safe Mode in Window 8 & GPU Driver Deletion Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-transformative-impact-of-the-m1-chip-on-imac-a-fresh-look-at-unmatched-performance/"><u>The Transformative Impact of the M1 Chip on iMac: A Fresh Look at Unmatched Performance</u></a></li>
+</ul></div>
 

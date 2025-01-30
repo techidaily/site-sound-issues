@@ -1,7 +1,7 @@
 ---
 title: Cyberpunk Groans with Crackling Noise? Here's How to Fix It!
-date: 2024-08-13T10:48:02.482Z
-updated: 2024-08-14T10:48:02.482Z
+date: 2025-01-24T19:32:08.945Z
+updated: 2025-01-30T06:49:29.009Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Feel vexing about Zoom audio not working? You’re not alone. This is incredibly
 * The mic is broken.
 * PC issue
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  If you’re sure there’s nothing wrong with your mic and the Zoom settings, you can work your way down the list until you find the one that works for you.
@@ -35,33 +39,17 @@ Feel vexing about Zoom audio not working? You’re not alone. This is incredibly
 3. [Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 4. [Reinstall Zoom](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ### Fix 1: Allow access to your microphone
 
  There are chances that the Zoom app is not allowed to access your audio device, and encounter the Zoom audio not working problem. Follow the steps to fix the problem.
 
 1. On your keyboard, press the**Windows logo key** +**I** at the same time to open the Settings menu. Then, click**Privacy** .  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/privacy.jpg)
 2. In the left pane, scroll down to find**Microphone** . Click**Change** , and make sure Microphone access for this device is on.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-21_12-01-05.jpg)
 3. Check Allow apps to access your microphone, make sure the toggle is on.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-21_11-59-51.jpg)
 4. Scroll down to the**Allow desktop apps to access your microphone** section, and make sure you’ve**turned on** this setting.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-21_12-03-38.jpg)
 5. You’ve finished granting the access. Restart Zoom and check Zoom audio not working issue is solved or not.
 
@@ -72,34 +60,43 @@ No advertising on the website.
  The wrong settings, such as the microphone being muted or not set as the default device or the too low volume, will prevent you from using the microphone normally on Zoom. So, it’s necessary to check if everything in the settings is configured correctly.
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box. Then, type**control** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 2. In Control Panel, select **Large icons** from the **View by** drop-down menu. Then, click**Sound.**  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-21_15-47-32.jpg)
 3. Click the**Recording** tab. Then, right-click on any empty area and tick**Show Disabled Devices** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dc36f136c6.jpg)
 4. Make sure your microphone is enabled. If not, right-click it and click**Enable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4daac96f5e7.jpg)
 5. Check if your microphone is set as the default device. If not, click it and click**Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
 6. Right-click your microphone and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
 7. Select the**Levels** tab. If your microphone is muted, click the**speaker icon** to unmute it. Then, drag the slider to**set the microphone volume to the max** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4db71801655.jpg)
 8. Click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The microphone of your headset is enabled and set as the default device. Take a mic test on Zoom to check the audio not working issue is solved or not.  
  If the issue persists, please move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio drivers
 
@@ -115,10 +112,12 @@ No advertising on the website.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-1-9.jpg)
 3. Click the**Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
- Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2-11.jpg)
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -127,21 +126,20 @@ No advertising on the website.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Reinstall Zoom
 
  If none of the solutions above does the trick, reinstalling always help.
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Then, type**appwiz.cpl** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/appwiz-cpl.png)
 2. Right-click**Zoom** and click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/6-2-1.jpg)
 3. Complete the uninstallation process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Download Zoom from the **[official website](https://zoom.us/download)**  .
 5. Open and install it step by step.
 6. Login to check the Zoom audio is working or not.
@@ -156,8 +154,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +161,19 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-loilo-game-recorder-complete-review/"><u>[New] 2024 Approved The LoiLo Game Recorder [Complete Review]</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-from-twitters-tube-to-your-whatsapp-buddy-list/"><u>[Updated] From Twitter's Tube to Your WhatsApp Buddy List</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/arctis-9-series-fixing-your-steelseries-headset-microphone-issues-a-step-by-step-guide/"><u>Arctis 9 Series: Fixing Your SteelSeries Headset Microphone Issues – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-online.techidaily.com/boost-your-computers-speed-by-freeing-disk-space-a-comprehensive-guide-yl-software-solutions/"><u>Boost Your Computer's Speed by Freeing Disk Space: A Comprehensive Guide – YL Software Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/boost-your-sound-ultimate-guide-to-amplifying-audio-in-windows-10/"><u>Boost Your Sound: Ultimate Guide to Amplifying Audio in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-solutions-to-overcome-silence-in-nvidias-high-def-audio-system/"><u>Expert Solutions to Overcome Silence in NVIDIA's High Def Audio System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-issues-resolving-borderlands-3-audio-problems-on-windows/"><u>Fixing Silent Issues: Resolving Borderlands 3 Audio Problems on Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-tecno-spark-20-pro-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Tecno Spark 20 Pro Phone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-audio-configuration-setting-up-unknown-speakers-in-windows-11/"><u>Mastering Audio Configuration: Setting Up Unknown Speakers in Windows 11</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-cutting-3gp-files-heres-a-simple-and-fast-solution/"><u>New 2024 Approved Cutting 3GP Files? Heres a Simple and Fast Solution</u></a></li>
+<li><a href="https://network-issues.techidaily.com/opengl-quirk-found-and-resolved-in-nvidia-graphics/"><u>OpenGL Quirk Found & Resolved in Nvidia Graphics</u></a></li>
+</ul></div>
 

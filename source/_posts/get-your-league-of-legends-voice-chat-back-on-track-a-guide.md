@@ -1,7 +1,7 @@
 ---
 title: "Get Your League of Legends Voice Chat Back On Track: A Guide"
-date: 2024-08-13T10:48:40.941Z
-updated: 2024-08-14T10:48:40.941Z
+date: 2025-01-29T05:00:50.465Z
+updated: 2025-01-29T18:47:10.421Z
 tags:
   - win11
   - win10
@@ -28,9 +28,6 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 3. **[Configure the audio settings](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Check out the obvious
 
  Whether it is that you cannot hear your friends, or you can’t get heard, the first thing you should check is whether your headset is connected properly.
@@ -39,6 +36,10 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 
  Once you have double-checked these items, test the voice chat feature in LoL to see if it works. If yes, then great! If the problem persists, please move on to**Fix 2** below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Join voice channel automatically
 
  You may experience the sound not working in LoL if you disable the in-game sounds during some game session without you noticing it. So make sure to enable Join voice channel automatically to turn on the in-game sound.  
@@ -46,20 +47,20 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 
 1. Open League of Legends client.
 2. In the upper right corner, click**Settings** (the cog icon).  
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.png)
 3. Under the**Voice** tab, make sure the Join voice channel automatically option is checked.  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-1.png)
 4. Check to see if you can use the voice chat feature properly in game. If yes, then great! If it’s no joy, please move on to**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Configure the audio settings
 
  You may not be able to use voice chat due to incorrect audio settings in Windows.
@@ -69,21 +70,20 @@ You can follow the steps below to check:
 1. On your keyboard, press the **Windows logo key** and **R**  at the same time to bring up the Run box. Then type or paste **mmsys.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/r.png)
 2. In**Playback** tab, make sure that your preferred headphone or speaker is set as**Default Device** . Then right-click on the default device ane click**Test** to make sure you can hear sound coming through the headset.  
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-2.png)
 3. Click the**Recording** tab. Then make sure that your preferred mic is set as**Default Device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio-2.png)
 4. Speak into yout mic to test if the indicator bar on the right moves. If yes, your mic should be working properly. If it doesn’t, check your headphone device to make sure it’s not muted.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click the**Advanced**  tab. Under the **Default Format** section, choose a different sample rate and bit depth and click**Test** . Repeat this process until you find a format that works for you. After that, make sure the box for**Allow application to take exclusive control of this deviice** is**unticked** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/111-1.png)
 6. Once finished, click**Apply** \>**OK** .
 7. Test in WoW to see if you can communicate with your friends. If it still gives you no luck, you should try**Fix 4** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your audio drivers
 
  Your voice chat not working in LoL problem is probably being caused by driver issues. The steps above may resolve it, but if they don’t, or you’re not confident playing around with drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -98,6 +98,11 @@ You can follow the steps below to check:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Re-launch LoL, then test voice chatting with your friends to see if it solves the error.
 
@@ -112,8 +117,6 @@ You can follow the steps below to check:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +124,22 @@ You can follow the steps below to check:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/rafting-a-profitable-youtube-content-strategy-for-2024/"><u>[New] Crafting a Profitable YouTube Content Strategy for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/outube-tunes-heres-how-to-download-safely-and-free-for-2024/"><u>[New] Youtube Tunes? Here's How to Download Safely & Free for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-creating-impressive-video-tracks-with-a-newbie-mac-user-for-2024/"><u>[Updated] Creating Impressive Video Tracks with a Newbie Mac User for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-conquer-the-digital-landscape-10-steps-towards-dominating-smm/"><u>[Updated] In 2024, Conquer the Digital Landscape 10 Steps Towards Dominating SMM</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/cost-effective-choices-chinese-vr-technology-for-2024/"><u>Cost-Effective Choices Chinese VR Technology for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-window-11-audio-issues-no-more-random-sound-drops/"><u>Fix Your Window 11 Audio Issues - No More Random Sound Drops!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-restore-audio-on-your-hp-laptop-running-windows-11/"><u>Fixing the Issue: How to Restore Audio on Your HP Laptop Running Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-idt-high-definition-sound-card-drivers-for-windows-10-a-step-by-step-guide/"><u>How to Fix IDT High Definition Sound Card Drivers for Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-synth-symphony-selecting-superior-dj-templates-for-download/"><u>In 2024, Synth Symphony Selecting Superior DJ Templates for Download</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-creating-motivational-videos-with-ai-comprehensive-guide-2024/"><u>New Creating Motivational Videos with AI Comprehensive Guide 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-windows-11-bluetooth-audio-interruptions-a-step-by-step-guide/"><u>Resolving Windows 11 Bluetooth Audio Interruptions: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-hyperx-cloud-alpha-s-headset-microphone-expert-solutions-to-fix-the-silence/"><u>Revive Your HyperX Cloud Alpha S Headset Microphone - Expert Solutions to Fix the Silence</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-silencing-crackling-sound-from-windows-computers-solutions-for-windows-107/"><u>Step-by-Step Guide to Silencing Crackling Sound From Windows Computers (Solutions for Windows 10/7)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-zoom-from-crashing-expert-solutions-for-windows-users-2e-edition/"><u>Stop Zoom From Crashing: Expert Solutions for Windows Users (2E Edition)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-essence-and-mechanics-of-predictive-ai-explored/"><u>The Essence and Mechanics of Predictive AI Explored</u></a></li>
+</ul></div>
 

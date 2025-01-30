@@ -1,7 +1,7 @@
 ---
 title: Fixing Issues with Your LucidSound LS30 - Step by Step Guide for Unresponsive Mics
-date: 2024-08-13T10:47:04.640Z
-updated: 2024-08-14T10:47:04.640Z
+date: 2025-01-28T23:05:17.205Z
+updated: 2025-01-29T21:51:43.679Z
 tags:
   - win11
   - win10
@@ -33,9 +33,6 @@ The problem would be caused by broken hardware devices. Test the related hardwar
   
  If you have problem downloading drivers manually, click **[here](https://tools.techidaily.com/drivereasy/download/)**  to download Driver Easy to help you. Driver Easy will detect all problem drivers in your computer and recommend new drivers. You can use it to download and install new audio drivers easily.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f0a91831558.jpg)
 
  Driver Easy has Free version and PRO version. You can download the Free version for a try. If you find it helpful, you can consider upgrading to PRO version. With PRO version, you can enjoy free technical support guarantee. You can contact us for further assistance regarding the HDMI problem. And you will have 30-day money back guarantee. You can ask for a full refund if you are not satisfied with the product.  
@@ -48,23 +45,14 @@ The problem would be caused by broken hardware devices. Test the related hardwar
   
  2\. Put**Control Panel** in the search box and click “Control Panel” on the menu. Then Control Panel window will open.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_5774bfb775931.png)
   
  3\. View by Large icons and click on**Sound** option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_5774c057b2dac.png)
 
  4\. Go to Playback tab. Select **Digital Output Device** or **HDMI** option. Click **Set Default**  and Press**OK** button to apply the change  . Then the HDMI sound output will be set as default.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_5774c399405c3.png)
   
  **Solution 4: Enable High Definition Audio Controller**
@@ -75,9 +63,6 @@ The problem would be caused by broken hardware devices. Test the related hardwar
   
  2\. Expand category**System devices** and you will see two identical items called High Definition Audio Controller under this category. If they are disabled, you can see there is an arrow mark next to the device name. In this case, right-click on the one which is disabled and click**Enable** on the context menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_5774c621c7e99.png)
 
  Try solutions above to resolve your HDMI sound not working issue in Windows 7\. One should work for you.
@@ -88,8 +73,6 @@ The problem would be caused by broken hardware devices. Test the related hardwar
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -97,4 +80,25 @@ The problem would be caused by broken hardware devices. Test the related hardwar
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-insights-how-to-choose-among-the-top-9-free-youtube-makers-for-2024/"><u>[New] Essential Insights How to Choose Among the Top 9 Free YouTube Makers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-psychology-behind-successful-facebook-gifting-campaigns/"><u>[Updated] The Psychology Behind Successful Facebook Gifting Campaigns</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-avoiding-common-pitfalls-in-drone-battery-choices/"><u>2024 Approved Avoiding Common Pitfalls in Drone Battery Choices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-evaluating-frame-rates-the-decision-on-30-vs-60hz/"><u>2024 Approved Evaluating Frame Rates The Decision on 30 Vs. 60Hz</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-sound-driver-glitches-on-a-dell-pc-using-windows-83647/"><u>How to Resolve Sound Driver Glitches on a Dell PC Using Windows #8364;7</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y55s-5g-2023-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y55s 5G (2023) Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xs-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XS To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-easy-cinematography-a-beginners-guide-to-making-movies/"><u>In 2024, Easy Cinematography A Beginners Guide to Making Movies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/modern-warfares-voice-chat-problem-solutions-and-tips-for-gamers/"><u>Modern Warfare's Voice Chat Problem: Solutions and Tips for Gamers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-domestic-ai-exclusive-look-at-apples-pursuit-of-innovative-robotic-solutions-and-upcoming-product-lineup-gadget-central/"><u>Revolutionizing Domestic AI: Exclusive Look at Apple's Pursuit of Innovative Robotic Solutions and Upcoming Product Lineup | Gadget Central</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/specific-heat-plays-an-important-role-in-climate-science-as-it-affects-how-quickly-land-or-water-bodies-can-warm-up-or-cool-down-under-sunlight-or-during-ni662/"><u>Specific Heat Plays an Important Role in Climate Science as It Affects How Quickly Land or Water Bodies Can Warm up or Cool Down Under Sunlight or During Nighttime.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-audio-setup-issues-in-audacity-with-these-5-effective-solutions/"><u>Troubleshoot Audio Setup Issues in Audacity with These 5 Effective Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016019998-turtle-beach-microphone-wont-work-heres-what-you-need-to-do/"><u>Turtle Beach Microphone Won't Work? Here's What You Need to Do!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-tricks-to-amplify-audio-levels-on-windows-10-computers-easily/"><u>Ultimate Tricks to Amplify Audio Levels on Windows 10 Computers Easily</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

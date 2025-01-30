@@ -1,7 +1,7 @@
 ---
 title: "Logitech G Pro X Click-Free Experience: How to Resolve Crackling Sounds"
-date: 2024-08-13T10:46:46.033Z
-updated: 2024-08-14T10:46:46.033Z
+date: 2025-01-25T18:23:30.458Z
+updated: 2025-01-29T21:43:21.570Z
 tags:
   - win11
   - win10
@@ -34,30 +34,30 @@ While being one of the most popular shooters in 2020, Black Ops Cold War is not 
 To verify the integrity of game files, simply do the following:
 
 1. Open your **Blizzard Battle.net** client. From the left menu, select **Call of Duty: BOCW** .  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify.jpg)
 2. Click **Options**  and select **Scan and Repair** from the drop-down menu. Wait until the checking finishes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can now launch Black Ops Cold War and check if the audio is back.
 
 If the no sound issue persists, you can take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Configure your device properly
 
  Next you need to make sure your output device is set to the desired one, and all the related settings should be configured correctly. If you don’t know how, you can follow these steps:
 
 1. On your keyboard, press**Win+R** (the Windows logo button and the r button) at the same time to invoke the Run box. Type or paste **ms-settings:sound** and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-ms-settings-sound.jpg)
 2. Under the**Input** section, make sure your input device is set to the one you’re using. Then click**Device properties and test microphone** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/input-device-testing.jpg)
 3. Make sure the box next to**Disable** is unchecked, and the slider under**Volume** is set to**100** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
@@ -65,9 +65,6 @@ If the no sound issue persists, you can take a look at the next fix.
 
  If there’s nothing wrong with your settings, or you can hear the computer sound everywhere except in Black Ops Cold War, check out the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your audio driver
 
  One of the most common causes of sound issues is that you’re using**a faulty or outdated audio driver** . New drivers tend to have better compatibility that the legacy ones provided by Windows. So if you haven’t updated your audio driver, definitely do it now.
@@ -88,6 +85,11 @@ If the no sound issue persists, you can take a look at the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
@@ -98,8 +100,9 @@ If the no sound issue persists, you can take a look at the next fix.
  If the latest driver doesn’t give you luck, simply try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Install all Windows updates
 
  Besides drivers, you should also make sure that your system is up to date. Windows updates provide bugs fixes and performance boosts that might cure some strange issues.
@@ -107,21 +110,17 @@ If the no sound issue persists, you can take a look at the next fix.
 Here’s how you can check for updates manually:
 
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -130,9 +129,6 @@ After rebooting your PC, return to Black Ops Cold War and test the audio.
 
 If this trick doesn’t help you, try the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Check your in-game audio settings
 
  If you’ve tried all the fixes above but to no avail, you need to take a look at your in-game settings. Faulty audio settings could also lead to no sound issues in Black Ops Cold War.
@@ -142,6 +138,10 @@ Here’s what you should check:
 1. Open Black Ops Cold War and go to**Settings** .
 2. Navigate to the**AUDIO** tab. Under the**GAME SOUND** section, make sure you didn’t mute the game and all the**Volume settings** are toggled to the highest**100** . Then you can try changing**Audio Presets** and see which option gives you luck. (You can start with High Boost.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/bocw-audio.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -153,8 +153,6 @@ Here’s what you should check:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +160,26 @@ Here’s what you should check:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-exploring-object-oriented-programming-for-complex-applications/"><u>[New] 2024 Approved Exploring Object-Oriented Programming for Complex Applications</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-creativity-the-top-8-iphone-drawing-apps-uncovered/"><u>[New] Explore Creativity The Top 8 iPhone Drawing Apps Uncovered</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-powerpoint-to-video-best-practices-with-webcams-now-for-2024/"><u>[New] PowerPoint to Video Best Practices with Webcams, Now for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-5-expedited-mobile-video-tools-on-android/"><u>[Updated] 5 Expedited Mobile Video Tools on Android</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-future-of-finance-15-must-watch-market-videos/"><u>[Updated] In 2024, The Future of Finance 15 Must-Watch Market Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-streamlining-youtube-audio-pace-via-devices-for-2024/"><u>[Updated] Streamlining YouTube Audio Pace via Devices for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-balancing-acts-the-power-of-alternate-perspectives-in-crafting-engaging-reaction-videos-on-youtube-2-pov-method/"><u>2024 Approved Balancing Acts The Power of Alternate Perspectives in Crafting Engaging Reaction Videos on YouTube (2 POV Method)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723014073078-acrocefexeexe-application-failure-heres-how-you-can-repair-it/"><u>acrocefexe.exe Application Failure? Here's How You Can Repair It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-system-malfunction-heres-how-to-get-your-sounds-running-again/"><u>Audio System Malfunction? Here’s How to Get Your Sounds Running Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016772068-getting-windows-10-speakers-back-on-track-expert-solutions/"><u>Getting Windows 10 Speakers Back On Track – Expert Solutions!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016967821-hear-again-on-your-logitech-g933-follow-these-straightforward-sound-solutions/"><u>Hear Again on Your Logitech G933? Follow These Straightforward Sound Solutions!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-install-and-fix-idt-high-definition-sound-codec-driver-on-windows-11/"><u>How to Install and Fix IDT High Definition Sound Codec Driver on Windows 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-audio-connectivity-hurdles-correcting-speaker-and-headphone-issues-in-various-windows-versions-11-groovy-7/"><u>Overcome Audio Connectivity Hurdles: Correcting Speaker and Headphone Issues in Various Windows Versions (11, Groovy, 7)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-corsair-hs7-cufflinks-a-comprehensive-guide-to-fix-a-broken-mic/"><u>Overcoming Corsair HS7 Cufflinks: A Comprehensive Guide to Fix a Broken Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-guide-to-reactivating-your-computers-speakers-after-a-windows-10-patch/"><u>Quick Guide to Reactivating Your Computer's Speakers After a Windows 10 Patch</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-compatibility-installing-idt-hd-sound-card-drivers-in-windows-11/"><u>Resolving Compatibility: Installing IDT HD Sound Card Drivers in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-reviving-your-steelseries-arctis-7s-mic-capabilities/"><u>Step-by-Step Solution: Reviving Your SteelSeries Arctis 7'S Mic Capabilities</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/what-is-virtual-reality-and-how-does-it-work-for-2024/"><u>What Is Virtual Reality and How Does It Work for 2024</u></a></li>
+</ul></div>
 

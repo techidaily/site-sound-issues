@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Audio Fix: Enabling Visibility for Headphones in Media Controls"
-date: 2024-08-13T10:48:56.300Z
-updated: 2024-08-14T10:48:56.300Z
+date: 2025-01-28T22:07:50.960Z
+updated: 2025-01-29T18:37:22.804Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check for hardware issues
 
 1. Try the headphone on other devices and see if it works.
@@ -43,35 +47,33 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 2: Disable Exclusive Mode and change the sound format**
 
  Having **Exclusive Mode**   on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the **crackling or popping sound** in headphone  problem. To disable **Exclusive Mode** :
 
  1) On the bottom right of your screen, right-click on**the sound icon** , then click**Sounds** .  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/12sound.png)
 
  2) In the**Playback** tab, right-click on**speakers** and click **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 
  3) Click the**Advanced** tab, un-check **the box** before **Allow applications to take exclusive control of this device** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Play some music and check if the sound coming through is noise-free now. If not, continue with **5)** to **change the audio format** .
 
  5) Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \> **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 
  6) Hopefully the popping/crackling sound in your headphone problem has gone by now. If not, you might also want to change it to other audio formats to see if it works.
@@ -90,18 +92,16 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/IntelR-Display-Audio.jpg)
 4. Restart your computer, play some audio through your headphone to see if this nasty crackling noise has been resolved. If yes, then great! If it’s still happening, move on to **Fix 4**  , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Adjust **the minimum processor state**
 
@@ -110,16 +110,15 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)
 
  Depending on the build of your Windows, you might also see **On battery** and **Plugged in**  in **Setting (%)** . Change both values to **100** and click **OK** .
@@ -140,8 +139,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +146,23 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-top-windows-photo-inspector-fast-edition/"><u>[Updated] 2024 Approved Top Windows Photo Inspector, Fast Edition</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-staying-legal-in-the-digital-space-youtubes-copyright-guide/"><u>2024 Approved Staying Legal in the Digital Space YouTube's Copyright Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/a-comparative-analysis-of-macs-best-snipping-tools-for-2024/"><u>A Comparative Analysis of Mac's Best Snipping Tools for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016265161-cyberpunk-2077-sound-issues-heres-how-to-silence-the-crackles/"><u>Cyberpunk 2077 Sound Issues? Here's How to Silence the Crackles</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-common-issues-solutions-when-your-phasmophobia-games-voice-chat-stops-functioning/"><u>Fixing Common Issues: Solutions When Your Phasmophobia Game's Voice Chat Stops Functioning</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-glitches-in-resident-evil-village-expert-tips-and-solutions/"><u>How to Fix Audio Glitches in Resident Evil Village: Expert Tips & Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-vivo-x100-pro-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Vivo X100 Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-monster-hunter-worlds-black-out-on-boot-problem/"><u>How to Resolve Monster Hunter: World’s Black Out on Boot Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-to-your-steelseries-arctis-1-microphone-expert-tips-and-tricks/"><u>How to Restore Functionality to Your SteelSeries Arctis 1 Microphone: Expert Tips and Tricks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-vivo-y17s-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Vivo Y17s Phone Hassle-Free</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/kinetic-control-on-android-the-kinemaster-dive/"><u>Kinetic Control on Android The KineMaster Dive</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/learning-capabilities-of-chatgpt-is-it-enhanced-by-user-dialogue/"><u>Learning Capabilities of ChatGPT: Is It Enhanced by User Dialogue?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722847007317-quick-guide-crafting-the-symbol-from-keystrokes-alone-no-touch-needed/"><u>Quick Guide: Crafting the ❤️ Symbol From Keystrokes Alone – No Touch Needed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-common-problems-with-the-logitech-g933-headset-mic-easily/"><u>Solve Common Problems with the Logitech G933 Headset Mic Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-to-activate-your-sony-wh-1000-series-microphone-compatible-with-laptop/"><u>Step-by-Step Solution to Activate Your Sony WH-1000 Series Microphone Compatible with Laptop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-windows-11-microphone-issues/"><u>Troubleshooting Steps: Resolving Windows 11 Microphone Issues</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Achieving Successful Game Audio Streaming on Discord - Fixed
-date: 2024-08-13T10:49:53.867Z
-updated: 2024-08-14T10:49:53.867Z
+date: 2025-01-25T16:20:41.514Z
+updated: 2025-01-30T02:55:04.089Z
 tags:
   - win11
   - win10
@@ -25,9 +25,6 @@ It’s annoying that your Discord is picking up game audio all of a sudden. But 
 * **Outdated audio drivers** : It’s possible that an outdated or corrupt audio driver is causing your Discord to pick up the game audio.
 * **Sound settings:** Another possible cause of Discord picking up game audio is that your microphone is not set as the default input device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to fix Discord audio issues?
 
 * [1. Update audio drivers](https://tools.techidaily.com/drivereasy/download/)
@@ -35,8 +32,9 @@ It’s annoying that your Discord is picking up game audio all of a sudden. But 
 * [3. Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Update audio drivers
 
  A properly working audio driver can make sure your device is working normally. If your Discord picks up the game audio, it might be caused by a malfunctioning audio driver. To make sure your audio works fine, you should update your audio driver:
@@ -53,6 +51,10 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver-1.jpeg)
@@ -65,8 +67,9 @@ There’re mainly two ways for you to update an audio driver:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Change sound settings
 
  This issue happens when Stereo Mix (instead of your headset microphone) is set to the default device. To fix it, you should disable Stereo Mix, and set your microphone as the default device:
@@ -80,10 +83,6 @@ There’re mainly two ways for you to update an audio driver:
  3) Right-click**Stereo Mix** and select **Disable** , and make sure you have set your headphone as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
  4) Open Discord application, and go to**User Settings** .
 
@@ -91,11 +90,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Reinstall Discord
 
  If nothing worked, you can try reinstalling Discord in case it’s an app-related issue. Here’s how:
@@ -105,8 +105,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  2) Type in**appwiz.cpl** and press**Enter** .
 
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right-click Discord, and select**Uninstall** .
@@ -127,8 +128,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +135,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-audiences-on-the-rise-gauge/"><u>[New] 2024 Approved Audiences on the Rise Gauge</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-a-step-by-step-approach-add-a-linked-url-to-your-tiktok-profile-for-2024/"><u>[New] A Step-by-Step Approach Add a Linked URL to Your TikTok Profile for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-impressive-initiations-podcasting-prose-poems/"><u>[Updated] In 2024, Impressive Initiations Podcasting Prose Poems</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-share-your-vids-youtube-to-insta-stories/"><u>[Updated] Share Your Vids YouTube to Insta-Stories</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-the-ideal-playlist-video-integration-on-youtube-platform/"><u>2024 Approved Crafting the Ideal Playlist Video Integration on YouTube Platform</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/astro-a50-earbuds-silent-mic-dilemma-learn-quick-fixes-to-restore-voice-chat-functionality/"><u>Astro A50 Earbuds Silent Mic Dilemma? Learn Quick Fixes to Restore Voice Chat Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016024070-audacitys-common-error-when-opening-sound-devices-discover-5-effective-solutions/"><u>Audacity's Common Error When Opening Sound Devices? Discover 5 Effective Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-redirection-solution-ensuring-sound-outputs-to-headphones-instead-of-bluetooth-or-wired-speakers/"><u>Audio Redirection Solution: Ensuring Sound Outputs to Headphones Instead of Bluetooth or Wired Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-causes-and-remedies-for-non-functional-corsair-void-microphones/"><u>Common Causes and Remedies for Non-Functional Corsair Void Microphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-virtuoso-headset-trouble-heres-how-to-get-it-working-again/"><u>Corsair Virtuoso Headset Trouble? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/digital-content-filming-talents-release/"><u>Digital Content Filming Talents Release</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discovering-the-best-in-economy-laptops-an-in-depth-review-of-acer-aspire-e-15/"><u>Discovering the Best in Economy Laptops: An In-Depth Review of Acer Aspire E 15</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/essential-fixes-for-when-your-pubg-chat-feature-isnt-working/"><u>Essential Fixes for When Your PUBG Chat Feature Isn't Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/essential-troubleshooting-guide-resolving-your-razer-microphone-issue-quickly/"><u>Essential Troubleshooting Guide: Resolving Your Razer Microphone Issue Quickly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-restoring-audio-on-a-malfunctioning-logitech-g533-microphone-headset/"><u>Expert Tips for Restoring Audio on a Malfunctioning Logitech G533 Microphone Headset</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/navigating-kinemasters-features-and-comparing-to-leading-online-games/"><u>Navigating KineMaster's Features and Comparing to Leading Online Games</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016227167-sonic-relief-for-chrome-users-sound-problems-now-solved/"><u>Sonic Relief for Chrome Users: Sound Problems Now Solved!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/step-by-step-guide-to-creating-engaging-high-quality-asmr-scenes-for-2024/"><u>Step-by-Step Guide to Creating Engaging, High-Quality ASMR Scenes for 2024</u></a></li>
+</ul></div>
 

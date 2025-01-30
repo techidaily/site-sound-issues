@@ -1,7 +1,7 @@
 ---
 title: "Diagnosing and Repairing Your Logitech G Pro X Microphone: Expert Advice"
-date: 2024-12-30T20:50:25.820Z
-updated: 2025-01-04T00:09:08.795Z
+date: 2025-01-26T01:21:51.957Z
+updated: 2025-01-30T02:24:07.982Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 4. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Close unnecessary background apps](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Troubleshoot the hardware issue
 
  Before moving on to some more advanced methods, you need to make sure your microphone is not physically broken and the connection works fine. You can take these steps to do a basic check:
@@ -52,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 2. Click the**Change** button and make sure**Microphone access for this device is turned on** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-6.jpg)
@@ -63,11 +67,11 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg)
 
- After applying the settings, you can restart Rec Room to test the issue. If it’s not resolved, try the next fix.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ After applying the settings, you can restart Rec Room to test the issue. If it’s not resolved, try the next fix.
 
 ### Fix 3 – Set your headset mic as the default device
 
@@ -79,17 +83,21 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel-0.jpg)
 2. Select**Small icons** from the menu next to View by and click**Sound** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-4.jpg)
 3. Go to the**Recording** tab. Then right-click other recording devices you’re not using and click**Disable** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-2.jpg)
 4. Make sure your preferred headset mic is**enabled** , which should be covered with a green check mark, and**set as default** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### On Oculus or SteamVR
 
@@ -109,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 
  See if your microphone works in Rec Room. If not, continue to the next method below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4 – Update your audio driver
 
  If you’ve been constantly running into mic not working with Rec Room or other apps, chances are that your audio driver is faulty or out-of-date. In this case, you should update the driver to keep your VR rig up and running, and there are two ways for you:
@@ -126,16 +130,16 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-oculus-headset-driver.jpg)
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After the update completes, restart the PC and see if your audio issue gets fixed. If not, there is one more fix to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Close unnecessary background apps
 
@@ -146,10 +150,6 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 2. Right-click each application you want to close and click**End task** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-2-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
@@ -177,22 +177,24 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-bite-sized-urls-essential-tools-for-youtubers-to-streamline-sharing/"><u>[New] Bite-Sized URLs Essential Tools for Youtubers to Streamline Sharing</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-bringing-heartwarmth-to-the-winter-5-snug-cinematographic-tips/"><u>2024 Approved Bringing Heartwarmth to the Winter 5 Snug Cinematographic Tips</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-professional-video-grabber-for-win10-pcs/"><u>2024 Approved Professional Video Grabber for Win10 PCs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/arctis-wart-free-auditory-experience-on-windows-troubleshooting-and-fixes/"><u>Arctis Wart-Free Auditory Experience on Windows: Troubleshooting and Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/black-ops-cold-war-pc-troubleshooting-how-to-restore-audio-functionality/"><u>Black Ops Cold War PC Troubleshooting - How to Restore Audio Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/definitive-fixes-overcoming-microphone-hiccups-in-airpods-for-windows-10-users/"><u>Definitive Fixes: Overcoming Microphone Hiccups in AirPods for Windows 10 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-guide-to-fixing-stereophonic-sound-failures-reconnect-your-audio-dimensions/"><u>DIY Guide to Fixing Stereophonic Sound Failures: Reconnect Your Audio Dimensions</u></a></li>
-<li><a href="https://article-tips.techidaily.com/harmonizing-your-camera-and-drone-with-a-pro-gimbal-for-2024/"><u>Harmonizing Your Camera and Drone with a Pro Gimbal for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-skullduggery-scribblers-den/"><u>In 2024, Skullduggery Scribbler's Den</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-ultimate-visual-storyteller-harmony-in-imagery-and-melodies/"><u>In 2024, Ultimate Visual Storyteller Harmony in Imagery & Melodies</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-crucials-powerful-overclocked-c36-ddr5-memory-sticks-the-road-back-to-enhanced-performance/"><u>In-Depth Analysis of Crucial's Powerful Overclocked C36 DDR5 Memory Sticks: The Road Back to Enhanced Performance</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/key-approaches-to-compelling-client-endorsements-on-film-for-2024/"><u>Key Approaches to Compelling Client Endorsements on Film for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-excel-macros-streamline-your-workflow-and-eliminate-repetitive-chores/"><u>Mastering Excel Macros: Streamline Your Workflow and Eliminate Repetitive Chores</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-dell-speaker-and-microphone-errors-in-windows-7/"><u>Resolving Dell Speaker and Microphone Errors in Windows 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-audio-input-on-windows-10-with-troubleshooting-tips-for-airpods-mic-failures/"><u>Restoring Audio Input on Windows 10 with Troubleshooting Tips for AirPods Mic Failures</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-the-volume-on-windows-media-player-proven-problem-solvers/"><u>Reviving the Volume on Windows Media Player - Proven Problem Solvers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-your-logitech-g430-microphone/"><u>Troubleshooting Guide: Resolving Issues with Your Logitech G430 Microphone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-time-saving-strategies-for-efficient-content-engagement-on-tiktok/"><u>[New] 2024 Approved Time-Saving Strategies for Efficient Content Engagement on TikTok</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-windowsmacos-visual-enhancement-a-guide-to-text-embellishments-in-photos/"><u>[New] In 2024, Windows/MacOS Visual Enhancement A Guide to Text Embellishments in Photos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-must-have-3d-model-systems-in-animation/"><u>[New] Must-Have 3D Model Systems in Animation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-partner-up-strategies-optimal-selection-for-youtube-teams-for-2024/"><u>[Updated] Partner Up Strategies Optimal Selection for YouTube Teams for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ai60-120/"><u>高效AI填充软件：实现每秒60-120帧稳定流畅视频</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetooth-pairing-success-but-silent-playback-how-to-restore-audio/"><u>Bluetooth Pairing Success but Silent Playback: How to Restore Audio</u></a></li>
+<li><a href="https://facebook.techidaily.com/digging-deeper-into-facebooks-renaming-speculation/"><u>Digging Deeper Into Facebook's Renaming Speculation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-dolby-truehd-to-work-on-windows-11-overcoming-driver-initialization-challenges/"><u>Getting Dolby TrueHD to Work on Windows 11: Overcoming Driver Initialization Challenges</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-and-repair-bluetooth-functionality-in-windows-11/"><u>How to Restore and Repair Bluetooth Functionality in Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-xiaomi-redmi-note-13-pro-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Xiaomi Redmi Note 13 Pro 5G Through Google Earth?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-the-freely-flowing-world-of-historical-works/"><u>In 2024, The Freely Flowing World of Historical Works</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/keep-your-views-covert-with-these-tools-for-2024/"><u>Keep Your Views Covert with These Tools for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-art-of-uninterrupted-discord-communication-tackling-audio-problems-head-on/"><u>Master the Art of Uninterrupted Discord Communication - Tackling Audio Problems Head-On,</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-jabra-earphone-problems-effective-solutions-and-troubleshooting-techniques/"><u>Overcome Jabra Earphone Problems : Effective Solutions and Troubleshooting Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-challenge-of-intense-dwm-gpu-utilization-on-windows-10-and-11-with-these-five-fixes/"><u>Overcome the Challenge of Intense DWM GPU Utilization on Windows 10 and 11 with These Five Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-microsoft-teams-audio-on-windows-1110-with-these-fixes/"><u>Revive Your Microsoft Teams Audio on Windows 11/10 with These Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/skype-no-sound-dilemma-effortless-troubleshooting-techniques/"><u>Skype No Sound Dilemma: Effortless Troubleshooting Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixes-how-to-repair-a-non-functional-logitech-g230-microphone/"><u>Troubleshooting Fixes: How to Repair a Non-Functional Logitech G230 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fixes-for-when-your-oculus-quest-microphone-wont-work-with-a-computer-in-2e25/"><u>Ultimate Fixes for When Your Oculus Quest Microphone Won't Work with a Computer in 2E25</u></a></li>
 </ul></div>
 

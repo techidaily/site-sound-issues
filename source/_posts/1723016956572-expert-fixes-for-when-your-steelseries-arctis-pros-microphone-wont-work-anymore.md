@@ -1,7 +1,7 @@
 ---
 title: Expert Fixes for When Your SteelSeries Arctis Pro's Microphone Won't Work Anymore
-date: 2024-08-13T10:48:16.023Z
-updated: 2024-08-14T10:48:16.023Z
+date: 2025-01-23T03:45:11.922Z
+updated: 2025-01-30T02:48:55.503Z
 tags:
   - win11
   - win10
@@ -39,9 +39,6 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### Fix 1: Set up the microphone correctly
 
  Before you try the following fixes, please make sure the mute button is not activated.
@@ -60,9 +57,6 @@ Here’s how to do it:
 
  2) Please be sure to turn on “**Allow access to the microphone on this device** ” and “**Allow apps to access your microphone** “.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image.png)
 
  3) Scroll down to allow microphone access for the Microsoft apps and desktop apps.
@@ -70,8 +64,9 @@ Here’s how to do it:
  Now you can test recording and see if your SteelSeries Arctis Pro mic is working right now. But if not, please move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Set your headset as the default device
 
  In most cases, when you plug your headset into the computer, it will be set as the default device on the computer. But sometimes it can bump into issues. If your SteelSeries Actis Pro mic is not working, your headset may be disabled or not set as the default device.
@@ -80,27 +75,29 @@ Here’s how to do it:
 
  1) On your keyboard, press the **Windows logo** key and the **R** key at the same time to open the Run box.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In the Sound windows, select the **Recording**  tab.
 
  4) Make sure your Actis Pro is**Enabled** (shows a green checkmark) and set it as the**Default Device** . If not, you can right-click it and select**Set as Default Device** and**Set as Default Communication Device** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In your VoIP application, select Actis Pro Chat Audio as the default audio device.
 
@@ -134,6 +131,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/SteelSeries-Apex-Pro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)
 
  Once you’ve updated the driver for your SteelSeries Actis Pro, you can restart your computer and check if the microphone is working.
@@ -145,18 +146,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  1) On your keyboard, press the **Windows logo** key and the **R** key at the same time to open the Run box.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In the Sound windows, select the **Recording**  tab.
 
@@ -182,8 +180,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +187,24 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-perfecting-fade-out-techniques-in-audacity/"><u>[New] Perfecting Fade-Out Techniques in Audacity</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/potlight-on-shared-screen-space-for-2024/"><u>[New] Spotlight on Shared Screen Space for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-watcher-to-writer-how-to-set-up-a-sports-channel-on-macos/"><u>[Updated] From Watcher to Writer How to Set Up a Sports Channel on macOS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-unlocking-pc-capabilities-how-to-record-tv-on-windows/"><u>2024 Approved Unlocking PC Capabilities How to Record TV on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-service-failures-and-how-to-resolve-them-successfully/"><u>Audio Service Failures and How to Resolve Them Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-hidden-touchpad-in-device-manager/"><u>Discover Hidden Touchpad in Device Manager!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-muted-troubles-world-of-warcraft-sound-issues-resolved/"><u>Fixing Muted Troubles: World of Warcraft Sound Issues Resolved</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/how-to-erase-your-disk-in-windows-absoluement-sans-cd-guide-complet-en-deux-etapes/"><u>How to Erase Your Disk in Windows Absoluement Sans CD : Guide Complet en Deux Etapes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/optimize-sound-quality-fixing-noise-issues-with-your-arctisys-7-microphone-on-windows-systems/"><u>Optimize Sound Quality: Fixing Noise Issues with Your ArctiSys 7 Microphone on Windows Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/photoshop-alternatives-on-android/"><u>Photoshop Alternatives on Android</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reactive-solutions-for-your-turtle-beach-mic-not-working-problems/"><u>Reactive Solutions for Your Turtle Beach Mic Not Working Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-dolby-atmos-and-truehd-issues-how-to-fix-unresponsive-dolby-audio-drivers-on-windows-11/"><u>Resolving Dolby Atmos & TrueHD Issues: How to Fix Unresponsive Dolby Audio Drivers on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-sound-problems-in-resident-evil-village-troubleshooting-guide/"><u>Resolving Sound Problems in Resident Evil: Village - Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-troubleshooting-and-fixing-non-functional-redragon-microphone-compatibility-with-windows/"><u>Solution Guide: Troubleshooting and Fixing Non-Functional Redragon Microphone Compatibility with Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/squad-mic-not-working-discover-proven-solutions-and-tips/"><u>Squad Mic Not Working? Discover Proven Solutions & Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trading-tech-how-chatgpt-revolutionizes-crypto-investments/"><u>Trading Tech: How ChatGPT Revolutionizes Crypto Investments</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/vergleich-von-hyper-v-vs-virtualbox-welche-virtualisierungsoption-wird-sie-bevorzugen/"><u>Vergleich Von Hyper-V Vs. VirtualBox: Welche Virtualisierungsoption Wird Sie Bevorzugen?</u></a></li>
+</ul></div>
 

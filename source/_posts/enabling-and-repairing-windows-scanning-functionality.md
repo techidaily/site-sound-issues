@@ -1,7 +1,7 @@
 ---
 title: Enabling and Repairing Windows Scanning Functionality
-date: 2025-01-16T17:31:03.358Z
-updated: 2025-01-22T20:07:57.358Z
+date: 2025-01-23T23:53:34.335Z
+updated: 2025-01-30T02:26:25.380Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why is my HP scanner not working?
 
  The HP scanner not working issues include**the** scanner won’t scan, the scanner not being detected by your computer, or errors popping**up** when you’re using your scanner, etc.
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
  The causes for these problems are various and sometimes hard to identify. As you can imagine, the connection problem can prevent your scanner from connecting to the computer, and the software and services problems in your computer are the possible reasons for this issue.
 
  But don’t worry. We’ll help you fix the scanner not working on HP.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix the HP scanner not working
 
@@ -65,11 +73,15 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1678201865.jpg)
 3. Scroll down and double click**Windows Image Acquisition (WIA)** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd167eed749a.jpg)
 4. In the popup pane, ensure the**Startup type** is set**Automatic** , and the**Service status** is**Running** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd168549db26.jpg)  
@@ -77,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 
 5. Click**Apply** and**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1688e0055e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then restart your computer. Try to use your HP scanner again and see if it works now.
 
@@ -102,10 +110,6 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 4. Save the changes and try your scanner again to see if it works.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your scanner driver (Windows PC)
 
@@ -131,6 +135,10 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/update-dell-touchpad-driver.jpg.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -148,22 +156,18 @@ Then try scanning with your scanner to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/cmd-run-as-admin.jpg)
 2. Copy & paste the following command line into the Command Prompt window and press**Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `**msdt.exe -id DeviceDiagnostic**`
 3. Click**Next** in the popped-up window and the troubleshooter will start detecting hardware problems automatically.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/next-step.jpg)
 4. Follow the on-screen instructions to finish the troubleshooting and fix the detected issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After that, try your scanner again and see if it’s working properly.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Run System File Checker
 
@@ -175,13 +179,13 @@ Then try scanning with your scanner to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0319454560.jpg)
 2. In Command Prompt, type the following command, then press**Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd031d993e59.jpg)
 3. Then wait for**Verification 100% complete** . This can take a while.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Once complete, Type**exit** in Command Prompt and press**Enter** to close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd036dad46be.jpg)
@@ -197,10 +201,6 @@ To fix your issues, follow the steps below to run a full scan of your PC:
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.
 
@@ -226,24 +226,16 @@ To fix your issues, follow the steps below to run a full scan of your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-transform-every-moment-top-tasks-to-master-while-immersing-in-your-favorite-podcasts/"><u>[New] 2024 Approved Transform Every Moment Top Tasks to Master While Immersing in Your Favorite Podcasts</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-inside-camstudios-updated-screen-recorder-techniques/"><u>[New] Inside CamStudio's Updated Screen Recorder Techniques</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-metaverse-versus-multi-meva-comprehensive-differences-overviewed/"><u>[New] The Metaverse Versus Multi-Meva Comprehensive Differences Overviewed</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-comparative-analysis-of-the-metaverse-and-multimeva-worlds-detailed-guide-for-2024/"><u>[Updated] Comparative Analysis of the Metaverse & Multimeva Worlds (Detailed Guide) for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-hitting-1080p-quality-with-facebook-broadcasting/"><u>2024 Approved Hitting 1080P Quality with Facebook Broadcasting</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-mastering-audio-adjustment-on-youtube-devices/"><u>2024 Approved Mastering Audio Adjustment on YouTube Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-non-functional-speakers-on-your-windows-11-pc-solved/"><u>How to Fix Non-Functional Speakers on Your Windows 11 PC - Solved</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-speaker-setup-unknown-on-windows-11/"><u>How to Fix Speaker Setup (Unknown) on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-increase-system-speaker-volume-efficiently-on-a-windows-11-pc/"><u>How to Increase System Speaker Volume Efficiently on a Windows 11 PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-hdmi-sound-functionality-in-windows-7-solutions-revealed/"><u>How to Restore HDMI Sound Functionality in Windows 7 - Solutions Revealed</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-15-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 15 Properly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/instant-remedies-for-common-playback-issues-a-guide-to-silencing-errors/"><u>Instant Remedies for Common Playback Issues – A Guide to Silencing Errors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/iphone-12-enhances-with-new-qi2-wireless-charger-independently-of-magsafe-technology-zdnet/"><u>IPhone 12 Enhances with New Qi2 Wireless Charger, Independently of MagSafe Technology | ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-the-sound-quality-fixing-common-auditory-faults-in-resident-evil-village/"><u>Mastering the Sound Quality: Fixing Common Auditory Faults in Resident Evil Village</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-more-quiet-battles-wows-sound-problem-solved/"><u>No More Quiet Battles: WoW's Sound Problem Solved</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/overcoming-issues-with-fraps-what-to-do-when-it-halts-capture/"><u>Overcoming Issues with Fraps: What to Do When It Halts Capture?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-issues-with-one-or-more-nonfunctional-audio-streams/"><u>Overcoming Issues with One or More Nonfunctional Audio Streams</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-guide-to-restoring-sounds-on-the-astro-a50-wireless-speakers/"><u>Quick Guide to Restoring Sounds on the Astro A50 Wireless Speakers</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-samsung-galaxy-s23-tactical-edition-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Samsung Galaxy S23 Tactical Edition? Here is How | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-brand-alliances-elevating-youtube-content-for-2024/"><u>[New] Brand Alliances Elevating YouTube Content for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-audiophiles-collection-of-drama-writing/"><u>[New] In 2024, Audiophile's Collection of Drama Writing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-path-to-your-first-tweet-signing-up-for-twitter/"><u>2024 Approved The Path to Your First Tweet Signing Up for Twitter</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016510772-cant-use-your-blue-yeti-mic-here-are-remedies-that-work/"><u>Can't Use Your Blue Yeti Mic? Here Are Remedies That Work!</u></a></li>
+<li><a href="https://win-news.techidaily.com/clear-out-full-backup-space-a-guide-for-cleaning-up-windows-aturation-disks/"><u>Clear Out Full Backup Space: A Guide for Cleaning Up Windows Aturation Disks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cyberpunk-277-sound-issues-heres-how-to-troubleshoot-the-static-noise/"><u>Cyberpunk 2#77 Sound Issues? Here's How to Troubleshoot the Static Noise!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/headphone-troubles-on-windows-11-heres-how-you-can-solve-it/"><u>Headphone Troubles on Windows 11? Here's How You Can Solve It!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-iphone-xr-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On iPhone XR</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-eliminate-sound-fluctuations-on-windows-11windows-7-systems/"><u>Troubleshooting Guide: How to Eliminate Sound Fluctuations on Windows 11/Windows 7 Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-potential-of-ai-5-techniques-for-writing-effective-chatgpt-prompts-for-quality-answers/"><u>Unlocking the Potential of AI: 5 Techniques for Writing Effective ChatGPT Prompts for Quality Answers</u></a></li>
 </ul></div>
 

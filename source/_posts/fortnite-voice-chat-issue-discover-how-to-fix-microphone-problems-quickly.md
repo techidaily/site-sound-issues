@@ -1,7 +1,7 @@
 ---
 title: Fortnite Voice Chat Issue? Discover How to Fix Microphone Problems Quickly
-date: 2024-08-18T07:59:29.204Z
-updated: 2024-08-19T07:59:29.204Z
+date: 2025-01-22T22:24:12.654Z
+updated: 2025-01-30T02:09:33.006Z
 tags:
   - win11
   - win10
@@ -15,16 +15,10 @@ thumbnail: https://thmb.techidaily.com/ae8c78a8c030725bbe9ccbbc07dfcf9053a98f744
 
 ## SteelSeries Arctis Prime Microphone Problems? Here’s How to Fix Them
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/buyimg_arctis_prime_002.jpg__1850x800_q100_crop-scale_optimize_subsampling-2-1200x689.jpg)
 
  SteelSeries Arctis Prime gaming headset is the new release of the Arctis line. It features the Hi-Fi audio drivers from Arctis Pro, and provides decent sound quality at a reasonable price. But some users have been reporting their**mics aren’t working** . The good news is there are some known fixes available. Read on and find out what they are…
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down until you find the one that does the trick!
@@ -39,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/ae8c78a8c030725bbe9ccbbc07dfcf9053a98f744
 
 [5: Install the latest SteelSeries Engine software](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Before we dive into anything advanced…
 
 **1: Check your cable connection.** Arctis Prime uses a detachable 3.5mm cable for PCs with a single headset jack, and also provides a mic splitter for PCs that use separate jacks for mic audio and headphone audio.  
@@ -49,15 +40,8 @@ thumbnail: https://thmb.techidaily.com/ae8c78a8c030725bbe9ccbbc07dfcf9053a98f744
  So, if your PC has a single headset jack, simply plugging it in should connect your headset to your PC right away. If your PC has separate audio jacks, make sure you connect the cables correctly.
 
 **2: Unmute your mic.** On the left earcup of your Arctis Prime, there are two controls, one for muting/unmuting your pic, and one for volume control. You need to make sure your mic is unmuted by pressing the mic mute button and test your audio.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/feature_arctis_prime_d_controls-1.jpg__1920x700_q100_crop-scale_optimize_subsampling-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3:**Bonus discounts** ![ SteelSeries Coupons](https://tools.techidaily.com/drivereasy/download/) are now available on DE coupon site. Don’t miss the deal and remember to grab your promo code before you make the purchase!
 
 ## Fix 1: Set your headset as the input device
@@ -67,6 +51,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 1. Next to your Start button, type**sound input** in the search bar, then click**Sound input device properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/search-sound-input.jpg)
 2. Choose your Arctis Prime headset as the input device.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/set-input-device.jpg)
 3. Test your microphone.
 
@@ -77,22 +66,22 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  When your headset is connected to your PC, it doesn’t necessarily mean the recording feature of your mic is turned on. Here’s how to set up your Arctis Prime microphone for recording:
 
 1. Right-click the speaker icon on the right side of your taskbar, then click**Sounds** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_16-48-56.jpg)
 2. Switch to the**Recording** tab and look for your headset. If you don’t see it, right-click an empty area then select**Show Disabled Devices** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_16-57-37.jpg)
 3. Right-click your headset device, then click**Enable** .  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-05-17.jpg)
 4. Click**Apply** then**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-06-58.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your headset mic is enabled for recording but it still won’t pick up your voice in-game, move on to the next fix.
 
@@ -108,21 +97,18 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-54-35.jpg)
 3. Click the **Update**  button next to the flagged audio driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-54-43.jpg)
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Turn on the microphone access on your PC
 
  Although less likely, sometimes your microphone isn’t allowed to record audio even when it’s connected to your PC. In this case, you’ll need to turn on the access of your headset mic on your PC. Here’s how:
@@ -130,9 +116,18 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 1. In the search bar next to the Start button, type**microphone** then click**Microphone privacy settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-08-05.jpg)
 2. Click**Change** , then**turn on the microphone access** **for this device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-10-26.jpg)
 
 If your Arctis Prime microphone is still not working, try the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Install the latest SteelSeries Engine software
 
@@ -141,6 +136,11 @@ If your Arctis Prime microphone is still not working, try the last fix.
 1. Go to the[SteelSeries Engine official site](https://steelseries.com/engine) and download the software.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/download-steelseries-engine.jpg)
 2. Run the SteelSeries installer, and follow the on-screen instructions to finish the installation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Once SteelSeries Engine is installed on your PC, run the software and it’ll automatically detect your Arctis Prime headset.
 4. Go to the headset page, and you can test your microphone using the**LIVE MIC PREVIEW** feature. You can also**adjust your mic volume** below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/mic-live-preview.jpg)
@@ -159,8 +159,6 @@ If your Arctis Prime microphone is still not working, try the last fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +166,23 @@ If your Arctis Prime microphone is still not working, try the last fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-quick-file-integration-from-pc-to-iphone/"><u>[New] Quick File Integration From PC to iPhone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-step-by-step-guide-distribute-your-youtube-collection/"><u>2024 Approved Step-by-Step Guide Distribute Your YouTube Collection</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-complete-process-of-logging-google-voice-calls/"><u>2024 Approved The Complete Process of Logging Google Voice Calls</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/efficient-fixes-for-hd-audio-driver-challenges-with-intels-idt-technology-in-windows-11/"><u>Efficient Fixes for HD Audio Driver Challenges with Intel's IDT Technology in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/handling-and-repairing-d3dx939dll-not-found-issues-successfully/"><u>Handling and Repairing D3Dx9_39.dll Not Found Issues Successfully</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-hdmi-audio-output-on-your-windows-7-pc-easy-fixes-and-tips/"><u>How to Restore HDMI Audio Output on Your Windows 7 PC – Easy Fixes and Tips</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-15-ways-to-enhance-your-listening-pleasure-with-podcasts/"><u>In 2024, 15 Ways to Enhance Your Listening Pleasure with Podcasts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/lost-ark-pc-stability-issues-heres-the-ultimate-guide-to-solve-them/"><u>Lost Ark PC Stability Issues? Here's the Ultimate Guide to Solve Them!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-art-of-troubleshooting-stop-microphone-pop-ups-with-your-logitech-g-pro-x/"><u>Master the Art of Troubleshooting: Stop Microphone Pop-Ups with Your Logitech G Pro X</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-sound-on-your-hp-laptop-heres-how-you-can-fix-it-for-good/"><u>No Sound on Your HP Laptop? Here's How You Can Fix It for Good!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-voice-communication-barriers-to-enhance-teamwork-in-phasmophobia/"><u>Overcoming Voice Communication Barriers to Enhance Teamwork in Phasmophobia</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-fix-for-crackling-headphones-a-comprehnose-guide-to-silky-audio/"><u>Simple Fix for Crackling Headphones: A Comprehnose Guide to Silky Audio</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722994132990-the-need-for-careful-design-considerations-to-optimize-esp-performance-while-avoiding-problems-like-back-corona-discharge-or-dust-re-entrainment/"><u>The Need for Careful Design Considerations to Optimize ESP Performance While Avoiding Problems Like Back Corona Discharge or Dust Re-Entrainment.</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/tips-for-restoring-damaged-nikon-movie-files/"><u>Tips for Restoring Damaged Nikon Movie Files</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-your-corsair-virtuosity-mic/"><u>Troubleshooting Guide: Resolving Issues with Your Corsair Virtuosity Mic</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/wege-zur-losung-des-what-failed-intcoedsys-fehlers-unter-windows-11-top-4-methoden/"><u>Wege Zur Lösung Des 'What Failed IntcOED.sys' Fehlers Unter Windows 11 - Top 4 Methoden</u></a></li>
+</ul></div>
 

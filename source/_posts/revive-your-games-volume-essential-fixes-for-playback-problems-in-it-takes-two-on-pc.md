@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Game's Volume: Essential Fixes for Playback Problems in It Takes Two on PC"
-date: 2024-08-13T10:46:25.444Z
-updated: 2024-08-14T10:46:25.444Z
+date: 2025-01-26T07:45:11.363Z
+updated: 2025-01-30T00:12:45.085Z
 tags:
   - win11
   - win10
@@ -25,36 +25,36 @@ Read on and follow the easy-doing images below!
 2. [**Option 2: Change Sound Enhancement Settings**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Option 3: Change Speaker Settings**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1: Try the generic audio driver
 
  Sound keeps cutting out on Windows 10 could relate to problematic audio driver. To see if this is the case, you can try the generic sound driver provided by Windows and see if it works. To do so:
 
 1. On your keyboard, press the**Windows key** and**X** at the same time, then choose**Device Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a273f85c31.png)
 2. Double-click**Sound, video, and game controllers** . Then right-click the audio device driver that you have and choose**Update driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a27949ffeb.png)
 3. Choose**Browse my computer for driver software** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28445c675.png)
 4. Then choose**Let me pick from a list of available drivers on my computer** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a286f3d5de.png)
 5. Make sure the box for**Show compatible hardware** is**TICKED** . Then choose**High Definition Audio Device** from the list, and hit**Next** to continue.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28cccfd3f.png)
 6. You will see the warning asking you whether you want to go on with the installation, click**Yes** to continue.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a294398588.png)
 7. Restart your computer when the installation finishes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the generic audio driver doesn’t work to fix the sound cutting out issue, it’s possible that you have a corrupted or outdated sound card driver, so you should update the driver to see if it helps. If you’re not confident playing around with drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -62,9 +62,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and**install** Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -72,6 +69,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -88,42 +89,38 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## Option 3: Change Speaker Settings
 
  Incorrect speaker settings could also relate to the sound keeping cutting out on Windows 10 issue. To see if this is your case:
 
 1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
  Try to play audio with your computer again to see if the sound still cuts out.
@@ -140,8 +137,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +144,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-frozen-olympics-spectacular-2022-highlights/"><u>[New] Frozen Olympics Spectacular 2022 Highlights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-prepare-for-the-metaverse-the-7-indispensable-tools/"><u>[New] Prepare for the Metaverse - The 7 Indispensable Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-basic-blueprint-for-choosing-gamer-friendly-recordings-and-edits-for-2024/"><u>[New] The Basic Blueprint for Choosing Gamer-Friendly Recordings & Edits for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/battlefield-4-no-sound-heres-the-fix/"><u>Battlefield 4 No Sound? Here's The Fix</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnose-and-solve-mpow-microphone-problems-on-windows-systems/"><u>Diagnose and Solve MPOW Microphone Problems on Windows Systems</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210170733-9781643343136-el-brillo-de-tu-recuerdo/"><u>El Brillo de Tu Recuerdo | Free Book</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enjoy-festive-fun-with-these-top-10-animated-christmas-flicks-perfect-for-the-whole-family/"><u>Enjoy Festive Fun with These Top 10 Animated Christmas Flicks Perfect for the Whole Family</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-the-corsair-hs60-microphone-back-to-life-a-step-by-step-guide/"><u>Getting the Corsair HS60 Microphone Back to Life: A Step-by-Step Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-fake-snapchat-location-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-realtek-hd-audio-manager-wont-launch-solutions-revealed/"><u>How to Fix Realtek HD Audio Manager Won't Launch – Solutions Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-non-functioning-microphone-during-skype-calls-on-windows-11/"><u>How to Resolve Non-Functioning Microphone During Skype Calls on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-x100-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from X100 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-tecno-spark-go-2024-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Tecno Spark Go (2024) Phone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-silence-restore-fortnite-microphone-functionality-easy-fixes-inside/"><u>No More Silence: Restore Fortnite Microphone Functionality – Easy Fixes Inside!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-cyberpunk-2077-to-use-gpu-on-a-windows-10-machine/"><u>Optimizing Cyberpunk 2077 to Use GPU on a Windows 10 Machine</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-silent-videos-expert-guide-to-restoring-audio-in-your-fb-movies-pc-2024/"><u>Solving Silent Videos: Expert Guide to Restoring Audio in Your FB Movies (PC) – 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/the-ultimate-guide-to-crafting-compelling-tiktok-captions-5-must-knows/"><u>The Ultimate Guide to Crafting Compelling TikTok Captions (5 Must-Knows)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-realtek-digital-output-lacking-sound-playback/"><u>Troubleshooting Guide: Realtek Digital Output Lacking Sound Playback</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-laptop-speakers-easy-fixes-that-work/"><u>Troubleshooting Silent Laptop Speakers – Easy Fixes That Work</u></a></li>
+</ul></div>
 

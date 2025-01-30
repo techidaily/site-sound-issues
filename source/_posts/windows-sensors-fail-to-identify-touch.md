@@ -1,7 +1,7 @@
 ---
 title: Windows Sensors Fail to Identify Touch
-date: 2025-01-18T20:10:56.260Z
-updated: 2025-01-22T19:26:01.070Z
+date: 2025-01-29T05:23:52.033Z
+updated: 2025-01-29T17:14:21.201Z
 tags:
   - win11
   - win10
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
  But don’t worry. We’ll help you fix the scanner not working on HP.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix the HP scanner not working
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1688e0055e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then restart your computer. Try to use your HP scanner again and see if it works now.
@@ -91,20 +91,12 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1678201865.jpg)
 3. Ensure these services are set to**Automatic** and the**Service status** is**Running** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
    * **Remote Procedure Call RPC**  
    * **DCOM Server Process Launcher**  
    * **RPC Endpoint Mapper**  
    * **Shell Hardware Detection**  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd169897b1a1.jpg)  
    **INFORMATION:**  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
     The**Windows Image Acquisition (WIA)** service is dependent upon the**Shell Hardware Detection Service** , while the**Shell Hardware Detection Service** is dependent upon these services: Remote Procedure Call RPC, DCOM Server Process Launcher, and RPC Endpoint Mapper.
 4. Save the changes and try your scanner again to see if it works.
@@ -135,10 +127,6 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/update-dell-touchpad-driver.jpg.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -148,6 +136,10 @@ Then try scanning with your scanner to see if it works.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Troubleshoot hardware problems
 
  It’s possible that there’s something wrong with your scanner, so run a troubleshooter in your computer to fix the issue.
@@ -155,10 +147,6 @@ Then try scanning with your scanner to see if it works.
 1. Type**cmd** in the Windows Search bar and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/cmd-run-as-admin.jpg)
 2. Copy & paste the following command line into the Command Prompt window and press**Enter** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `**msdt.exe -id DeviceDiagnostic**`
 3. Click**Next** in the popped-up window and the troubleshooter will start detecting hardware problems automatically.  
@@ -170,7 +158,7 @@ Then try scanning with your scanner to see if it works.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Run System File Checker
@@ -183,12 +171,24 @@ Then try scanning with your scanner to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0319454560.jpg)
 2. In Command Prompt, type the following command, then press**Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd031d993e59.jpg)
 3. Then wait for**Verification 100% complete** . This can take a while.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Once complete, Type**exit** in Command Prompt and press**Enter** to close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd036dad46be.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Restart your computer and see if your scanner begins to work.
 
@@ -226,17 +226,24 @@ To fix your issues, follow the steps below to run a full scan of your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-10-essential-meme-blueprints/"><u>[New] 10 Essential Meme Blueprints</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-the-definitive-ranking-of-11-top-audio-capture-gadgets/"><u>[New] The Definitive Ranking of 11 Top Audio Capture Gadgets</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-laugh-ledger-unveiling-the-best-text-generation-apps/"><u>[Updated] Laugh Ledger Unveiling the Best Text Generation Apps</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-tips-to-improve-profile-cover-videos/"><u>[Updated] Tips to Improve Profile Cover Videos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-apex-legends-solving-the-voice-chat-issue/"><u>Fixing Apex Legends: Solving the Voice Chat Issue</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-audio-glitches-within-the-game-resident-evil-village-guide/"><u>Fixing Audio Glitches Within the Game: Resident Evil Village Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-back-your-audio-a-complete-walkthrough-to-fix-windows-media-player-silence/"><u>Get Back Your Audio: A Complete Walkthrough to Fix Windows Media Player Silence</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-ensure-your-headphones-appear-as-active-playback-devices-in-windows-10/"><u>How to Ensure Your Headphones Appear as Active Playback Devices in Windows 10</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y27-4g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y27 4G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pioneering-4k-adventures-q500-typhoon-reviewed/"><u>In 2024, Pioneering 4K Adventures - Q500 Typhoon Reviewed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mobiles-leading-free-image-enhancement-and-layer-apps-ranked-for-2024/"><u>Mobile's Leading Free Image Enhancement & Layer Apps Ranked for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-top-rated-free-video-capture-apps-ranked/"><u>The Ultimate List of Top-Rated Free Video Capture Apps - Ranked!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-android-and-ios-users-choice-top-playlist-saving-apps-for-youtube/"><u>[New] 2024 Approved Android & iOS Users' Choice Top Playlist Saving Apps for YouTube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-streamline-your-workflow-with-these-5-obs-editing-hacks/"><u>[Updated] 2024 Approved Streamline Your Workflow with These 5 OBS Editing Hacks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-software-for-asus-wireless-adapter-model-pce-ac68/"><u>Download Updated Software for ASUS Wireless Adapter Model PCE-AC68</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elite-psd-bevel-and-emboss-styles/"><u>Elite PSD Bevel & Emboss Styles</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-the-latest-upgrades-to-apple-carplay-from-the-2024-worldwide-developers-conference-key-features-revealed/"><u>Explore the Latest Upgrades to Apple CarPlay From the 2024 Worldwide Developers Conference - Key Features Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016244187-fix-your-window-11-audio-issues-no-more-random-sound-drops/"><u>Fix Your Window 11 Audio Issues - No More Random Sound Drops</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-conexant-smartaudio-hd-working-again-in-windows-11-a-comprehensive-fix-guide/"><u>Getting Your Conexant SmartAudio HD Working Again in Windows 11: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-x-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone X To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-speaker-configuration-issues-a-windows-10-user-guide/"><u>Mastering Speaker Configuration Issues: A Windows 10 User Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-audio-issue-after-windows-11-patch-quick-troubleshooting-steps-inside/"><u>No Audio Issue After Windows 11 Patch? Quick Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/protect-your-child-online-windows-11-safety-guide/"><u>Protect Your Child Online: Windows 11 Safety Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-soundscape-of-logitech-g933-headset-with-these-basic-fixes/"><u>Revive Soundscape of Logitech G933 Headset with These Basic Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-pcs-audio-a-fix-for-windows-7-sound-failures/"><u>Revive Your PC's Audio: A Fix for Windows 7 Sound Failures</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-found-how-to-restore-sound-on-a-non-responsive-laptop-headphone-connector/"><u>Solution Found! How to Restore Sound on a Non-Responsive Laptop Headphone Connector</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/successfully-configuring-the-idt-hd-audio-codec-for-windows-10-systems/"><u>Successfully Configuring the IDT HD Audio Codec for Windows 10 Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723013767591-this-title-implies-expertise-expert-tips-and-reassures-users-they-can-get-the-game-running-again-which-is-a-primary-concern-when-facing-launch-issues/"><u>This Title Implies Expertise (Expert Tips) and Reassures Users They Can Get the Game Running Again, Which Is a Primary Concern when Facing Launch Issues.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-tech-bargains-grab-the-latest-google-pixel-7a-high-quality-anker-buds-and-top-tier-robot-vacuums/"><u>Unbeatable Tech Bargains: Grab the Latest Google Pixel 7a, High-Quality Anker Buds & Top-Tier Robot Vacuums</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-whos-engaging-with-your-videos-tips-for-youtubers/"><u>Understanding Who's Engaging with Your Videos: Tips for YouTubers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/valheim-quiet-dilemma-resolved-restore-game-audio-for-pc-players/"><u>Valheim Quiet Dilemma Resolved - Restore Game Audio for PC Players</u></a></li>
 </ul></div>
 

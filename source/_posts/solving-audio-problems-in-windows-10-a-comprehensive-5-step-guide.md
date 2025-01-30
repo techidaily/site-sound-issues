@@ -1,7 +1,7 @@
 ---
 title: "Solving Audio Problems in Windows 10: A Comprehensive 5-Step Guide"
-date: 2024-08-13T10:46:35.231Z
-updated: 2024-08-14T10:46:35.231Z
+date: 2025-01-27T06:31:40.203Z
+updated: 2025-01-30T05:08:02.466Z
 tags:
   - win11
   - win10
@@ -51,19 +51,16 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881badde83bd.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Go to **the Enhancement** tab, tick the box for**Disable all sound effects** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881bcabb193b.png)
 
  5) See if your sound is back. If you still cannot get your sound back, choose Cancel here, and then repeat 2) and 3) with your other default device and have a try again.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3: Update sound driver
 
  If no good signs are shown after the first two methods, it’s likely that you’re using the wrong driver altogether.
@@ -80,9 +77,6 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596440101ae68.png)
 
  3) Click the**Update** button next to the audio device to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
@@ -92,17 +86,15 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5964407a532ed.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4: Uninstall driver from Device Manager  
 
  If you have faulty driver installed, problem like no sound coming out from your speaker is inevitable. To fix it:
 
  1) On your keyboard, press the **Windows key** and**X** at the same time, then click**Device Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586b799d15ed0.png)
 
 2) Expand **Sound, video and game controllers** .
@@ -111,10 +103,11 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 
  3) Right-click your sound card driver, then click**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c04799622.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click**OK** at the prompted notification to continue.
 
@@ -126,11 +119,19 @@ Windows will then help you reinstall the driver.
 
  And if this still don’t work, please try the next step where we try using the generic audio driver that comes with Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5: Try generic audio driver provided by Windows 10
 
  1) On your keyboard, press**Windows key** and**X** at the same time, then click**Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586b799d15ed0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Expand**Sound, video and game controllers** .
 
@@ -138,17 +139,19 @@ Windows will then help you reinstall the driver.
 
  3) Right-click your sound card driver, then click**Update Driver Software…** .
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881be049db87.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click **Browse my computer for driver software** .
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c1cb5f81b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click **Let me pick from a list of device drivers on my computer** .
 
@@ -156,21 +159,19 @@ Windows will then help you reinstall the driver.
 
  6) Click**High Definition Audio Device** , and**Next.**  
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c28f9c29e.png)
 
  Click**Yes** at this prompt and continue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c43152df5.png)
 
  7) Now you should be able to see that the driver you are having now is the generic audio driver provided by Windows 10\. The name of which is**High Definition Audio Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c48369340.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Check if your sound is back.
 
@@ -184,8 +185,6 @@ Check if your sound is back.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +192,22 @@ Check if your sound is back.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-premier-online-streaming-options-for-faith-communities/"><u>[New] Premier Online Streaming Options for Faith Communities</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-shoot-with-confidence-the-beginners-guide-to-cameras-for-2024/"><u>[New] Shoot with Confidence - The Beginner's Guide to Cameras for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-dissecting-the-revenue-sharing-mechanisms-in-youtube-shorts-economy/"><u>[Updated] Dissecting the Revenue-Sharing Mechanisms in YouTube Shorts Economy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/concealing-status-bars-language-symbol-win11-edition/"><u>Concealing Status Bar's Language Symbol, Win11 Edition</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-itel-p55plus-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Itel P55+ FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://facebook.techidaily.com/engagement-inquiry-what-shapes-your-social-media-experience/"><u>Engagement Inquiry: What Shapes Your Social Media Experience?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-voice-chat-problems-in-league-of-legends-a-step-by-step-guide/"><u>How to Resolve Voice Chat Problems in League of Legends - A Step-by-Step Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-12-mini-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 12 mini Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/navigating-through-common-pitfalls-of-file-retrieval-fails-insights-from-yl-computing-and-yl-software-solutions/"><u>Navigating Through Common Pitfalls of File Retrieval Fails - Insights From YL Computing & YL Software Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reactivate-your-razer-headset-microphone-with-these-5-steps/"><u>Reactivate Your Razer Headset Microphone with These 5 Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-your-voice-in-battle-resolving-warzones-microphone-and-speaker-problems-on-pc-and-console/"><u>Restore Your Voice in Battle - Resolving Warzone's Microphone & Speaker Problems on PC and Console</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-laptop-speakers-not-working-problem-a-step-by-step-guide/"><u>Solving the 'Laptop Speakers Not Working' Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-7-solving-common-microphone-issues/"><u>Troubleshooting Windows 7: Solving Common Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-how-to-resolve-zooms-microphone-problems-for-users-of-windows-11-and-10/"><u>Troubleshooting: How to Resolve Zoom's Microphone Problems for Users of Windows 11 & 10</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+</ul></div>
 

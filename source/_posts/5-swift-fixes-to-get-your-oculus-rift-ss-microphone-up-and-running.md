@@ -1,7 +1,7 @@
 ---
 title: 5 Swift Fixes to Get Your Oculus Rift S's Microphone Up and Running
-date: 2024-08-18T07:58:50.636Z
-updated: 2024-08-19T07:58:50.636Z
+date: 2025-01-27T17:23:54.374Z
+updated: 2025-01-30T01:52:30.921Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/bd1f3164b21938808543fb77a181f9a976b01572c
 ## Arctis #7 Microphone Woes? Here's How You Can Get It Up and Running Again
 
 Your SteelSeries Arctis 7 headset microphone stopped working for no reason? Youâ€™re not alone. Many users reported the same Arctis 7 mic-not-working issue, but they managed to solve it with the following fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Here are the fixes:**
 
@@ -39,23 +43,20 @@ Your SteelSeries Arctis 7 headset microphone stopped working for no reason? Youâ
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2 â€“ Check the microphone settings
 
  You need to correctly configure the settings for SteelSeries Arctis 7 headset microphone after itâ€™s plugged into your PC. Otherwise, it may not work as intended. Follow the steps below to set everything appropriately.
 
 **1)** Type**control panel** in the search bar and click**Control Panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-1-4.jpg)
 
 **2)** Select**Small icons** from the menu next to**View by** , and click**Sound** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-2-7.jpg)
 
 **3)** Click the**Recording** tab. Then, right-click on any empty place and tick**Show Disabled Devices** .
@@ -64,9 +65,6 @@ Your SteelSeries Arctis 7 headset microphone stopped working for no reason? Youâ
 
 **4)** Check if your SteelSeries Arctis 7 headset microphone is enabled. If not, right-click it and click**Enable** .
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-4-2.jpg)
 
 **5)** Make sure your microphone is set as the default device. If not, click it and click**Set Default** .
@@ -75,34 +73,27 @@ Your SteelSeries Arctis 7 headset microphone stopped working for no reason? Youâ
 
 **6)** Right-click your microphone and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-7-2.jpg)
 
 **7)** Select the**Levels** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-7-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **8)** If the microphone is muted, click the**speaker icon** to unmute it. Then,**drag the volume slider to the largest** .
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-8.jpg)
 
 **9)** Click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-49.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  So youâ€™ve applied the correct settings and SteelSeries Arctis 7 mic should be working again. If not, check out the next fix below.
 
@@ -122,10 +113,11 @@ Your SteelSeries Arctis 7 headset microphone stopped working for no reason? Youâ
 
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-1-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the**Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -142,9 +134,6 @@ Your SteelSeries Arctis 7 headset microphone stopped working for no reason? Youâ
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4 â€“ Allow access to your SteelSeries Arctis 7 microphone
 
  If your SteelSeries Arctis 7 mic refuses to work after a new system update, itâ€™s likely Windows has disabled the apps from accessing your microphone. If so, you need to allow the permission manually.
@@ -155,17 +144,19 @@ Your SteelSeries Arctis 7 headset microphone stopped working for no reason? Youâ
 
 **2)** Click**Privacy** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click**Microphone** on the left pane. Then, click the**Change** button and make sure**Microphone access for this device** is**On** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-2-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Make sure to turn on**Allow apps to access your microphone** .
 
@@ -175,9 +166,6 @@ Your SteelSeries Arctis 7 headset microphone stopped working for no reason? Youâ
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5 â€“ Reinstall the SteelSeries Engine software
 
  The SteelSeries Engine software offers users better control over their SteelSeries gaming devices, but sometimes the app updates can mess with your SteelSeries Arctis headset. In this case, try to reinstall the program to cure the mic not working problem.
@@ -186,11 +174,12 @@ Your SteelSeries Arctis 7 headset microphone stopped working for no reason? Youâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click**SteelSeries Engine** and click**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-7.jpg)
 
 **3)** Go to the **[SteelSeries official website](https://steelseries.com/engine)**  .
@@ -220,8 +209,6 @@ It should be automatically detected and function normally.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -229,4 +216,26 @@ It should be automatically detected and function normally.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-examining-youtubes-noteworthy-chats/"><u>[New] 2024 Approved Examining YouTube's Noteworthy Chats</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-novice-writers-guide-to-boosting-brand-visibility-through-content-creation/"><u>[New] 2024 Approved The Novice' Writers' Guide to Boosting Brand Visibility Through Content Creation</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-start-streaming-sports-a-mac-based-channel-guide/"><u>[Updated] In 2024, Start Streaming Sports A Mac-Based Channel Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-reel-in-your-audience-with-professional-ipadiphone-podcasting-hacks-for-2024/"><u>[Updated] Reel in Your Audience with Professional IPad/iPhone Podcasting Hacks for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-discords-microphone-problems/"><u>Effective Solutions for Discord's Microphone Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-techniques-to-restore-audio-functionality-in-conexant-smartaudio-hd-devices-compatible-with-windows/"><u>Effective Techniques to Restore Audio Functionality in Conexant SmartAudio HD Devices Compatible with Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-fixes-to-eliminate-bluetooth-sound-delays/"><u>Effortless Fixes to Eliminate Bluetooth Sound Delays</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-seamless-connectivity-latest-windows-compatible-usb-30-ethernet-controller-drivers/"><u>Ensure Seamless Connectivity: Latest Windows-Compatible USB 3.0 Ethernet Controller Drivers</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/guide-rapide-a-la-copie-du-message-demarrage-dun-serveur-windows-server-versions-2003-2008-et-2012-sans-reinstaller/"><u>Guide Rapide Ã€ La Copie Du Message DÃ©marrage Dâ€™un Serveur Windows Server (Versions 2003, 2008 Et 2012) Sans RÃ©installer</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-huawei-p60-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Huawei P60 by Name | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-core-principles-for-online-storytelling-craftsmanship/"><u>In 2024, Core Principles for Online Storytelling Craftsmanship</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigate-like-a-pro-with-top-windows-10-hacks/"><u>In 2024, Navigate Like a Pro with Top WINDOWS 10 Hacks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-vivo-x100-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Vivo X100 Android SIM Unlock APK</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/specific-heat-plays-an-important-role-in-climate-science-as-it-affects-how-quickly-land-or-water-bodies-can-warm-up-or-cool-down-under-sunlight-or-during-ni639/"><u>Specific Heat Plays an Important Role in Climate Science as It Affects How Quickly Land or Water Bodies Can Warm up or Cool Down Under Sunlight or During Nighttime</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-to-get-your-hyperx-cloud-alpha-mic-working-again/"><u>Step-by-Step Solution to Get Your HyperX Cloud Alpha Mic Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solutions-for-non-functional-redragon-pc-mic/"><u>Troubleshooting and Solutions for Non-Functional Redragon PC Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015907731-troubleshooting-bluetooth-audio-jitters-in-windows-10-and-11-solutions-inside/"><u>Troubleshooting Bluetooth Audio Jitters in Windows 10 & 11 â€“ Solutions Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-common-issues-with-creative-pebble-bluetooth-speakers/"><u>Troubleshooting Guide: Fixing Common Issues with Creative Pebble Bluetooth Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016100156-troubleshooting-mac-audio-issues-effective-fixes-that-work/"><u>Troubleshooting Mac Audio Issues â€“ Effective Fixes That Work</u></a></li>
+</ul></div>
 

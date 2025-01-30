@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Fix: Resolve the SteelSeries Arctis Headset Mic Not Working Issue Today"
-date: 2024-08-13T10:49:34.452Z
-updated: 2024-08-14T10:49:34.452Z
+date: 2025-01-28T07:43:34.344Z
+updated: 2025-01-29T17:38:19.220Z
 tags:
   - win11
   - win10
@@ -45,9 +45,6 @@ Here’s how to check on Windows 11 PC:
 
  If you’re sure your device supports Bluetooth and was already paired with your PC, move to the next method to get it working.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Run the Windows 11 Bluetooth troubleshooter
 
  Windows has built-in troubleshooters to fix some common errors. You can run the Bluetooth troubleshooter to fix the Windows 11 Bluetooth not working issue. This is the most common and easy way to fix the problem.
@@ -56,34 +53,35 @@ Here’s how:
 
 1. Press the**Windows logo key + I (i) key** together to open**Settings** .
 2. Click**System** in the left panel. Then scroll down on the right panel and click**Troubleshoot** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-troubleshoot-1.jpg)
 3. Click**Other troubleshooters** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-troubleshoot-2.jpg)
 4. Find Bluetooth and click**Run** .  
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-troubleshoot-3.jpg)
 5. The system will automatically run the troubleshooter to fix the problem. When the process is completed, Windows will let you know whether the problem is solved or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the Bluetooth troubleshooter doesn’t work, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## Fix 3: Update your Bluetooth driver
 
  One of the most common causes of Bluetooth not working problem is an outdated or faulty Bluetooth driver. If you never bother to or don’t remember when was the last time you updated your Bluetooth driver, definitely do it now. It might just fix your problem right away.
 
  There’re mainly 2 ways you can update your Bluetooth driver: manually or automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 1: Update your Bluetooth driver manually
 
  If you’re familiar with computer hardware, you can try to update the Bluetooth driver manually.
@@ -102,17 +100,11 @@ Here’s how:
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2022/01/intel-wireless-bluetooth.png)
 4. After updating, restart your computer to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Restart Bluetooth Support Service
 
  If the Bluetooth Support Service is not working or is set to manual, you might encounter Bluetooth not working issue. You can check if that’s the case for your PC by following the steps below.
@@ -120,6 +112,11 @@ Here’s how:
 1. Press the**Windows logo key + S** together. Type**services** in the search bar, then click**Services** app.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/services.jpg)
 2. Scroll down to find**Bluetooth Support Service** , then double-click it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-service-1.jpg)
 3. In the pop-up window, go to the**General** tab. Click**Stop** under Service status. Then click**Start** next to it.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/blutooth-service-restart.jpg)
@@ -128,23 +125,30 @@ Here’s how:
 
  The Bluetooth Support Service is running in normal terms and you should be able to pair your device and use it normally.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Change the Bluetooth devices discovery setting
 
  As per quite some Reddit readers, setting the Bluetooth devices discovery setting to Advanced helps to fix the Bluetooth not working problem on their Windows 11 computers. To see if this does the trick for you as well:
 
 1. On your keyboard, press the**Windows** key and the**I** key together. Select**Bluetooth & devices** , then**Devices.**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-settings.png)
 2. Scroll down and change the**Bluetooth devices discovery** option to**Advanced** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-settings-advanced.png)
 
  Try to see if your Bluetooth starts working properly. If the problem remains, please move on.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 6: Repair your system files
 
  It’s possible that Bluetooth not working issue is caused by a Windows system error. Corrupt, damaged, or missing system files can cause Windows issues. To check if this is the exact cause, you can either use the Windows built-in tool to run a basic check or use an automatic tool to perform a complete diagnosis.
@@ -160,24 +164,19 @@ Here’s how:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2 – Manually
 
  Microsoft’s inbuilt program – System File Checker (SFC) makes it easy for you to get your original system files back. It will restore any broken or missing system files that could be causing your PC issues.
@@ -186,9 +185,6 @@ Here’s how:
 
 2) Type **cmd** and then right-click on **Command Prompt** . Click **Run as administrator** . Click**Yes** to provide administrator permission.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/cmd.jpg)
 
 3) In the black Command Prompt window, type:
@@ -197,16 +193,14 @@ sfc /scannow
 
  Then press **Enter** on your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/sfc-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows will scan your system for corrupted files, and attempt to fix any it finds. The results will display in this window, so please leave it open until the operation is complete.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to pair your Bluetooth device on Windows 11
 
 1. Press the**Windows logo key + I (i)** key together to open**Settings** .
@@ -217,13 +211,15 @@ sfc /scannow
 4. Click the device you want to pair and wait for a while. It should appear as**Connected** or**Paired** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-add-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -232,4 +228,19 @@ sfc /scannow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/boosting-sound-easy-steps-to-enhance-speaker-volume-on-windows-10/"><u>Boosting Sound: Easy Steps to Enhance Speaker Volume on Windows 10</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/efficient-methods-for-nvidia-screen-recording-for-2024/"><u>Efficient Methods for NVIDIA Screen Recording for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-tips-to-overcome-destiny-server-access-issues-online/"><u>Essential Tips to Overcome Destiny Ⅱ Server Access Issues Online</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-samsung-galaxy-a54-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Samsung Galaxy A54 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-microphone-functionality-in-steelseries-arctis-headsets-the-ultimate-guide/"><u>How to Restore Microphone Functionality in SteelSeries Arctis Headsets: The Ultimate Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-stinger-microphone-malfunctions-a-comprehensive-guide-to-solving-them/"><u>HyperX Cloud Stinger Microphone Malfunctions - A Comprehensive Guide to Solving Them</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-infinix-smart-8-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Infinix Smart 8 Pro Through Google Earth?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-infinix-hot-40i-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Infinix Hot 40i</u></a></li>
+<li><a href="https://win11.techidaily.com/proven-windows-11-ways-to-boost-workflow-and-productivity-45/"><u>Proven Windows 11 Ways to Boost Workflow and Productivity (45)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-razer-kraken-mic-a-complete-guide-on-restoring-its-functionality/"><u>Trouble with Razer Kraken Mic? A Complete Guide on Restoring Its Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-razer-microphone-a-quick-guide-5-simple-solutions/"><u>Troubleshooting Your Razer Microphone: A Quick Guide (5 Simple Solutions)</u></a></li>
+</ul></div>
 

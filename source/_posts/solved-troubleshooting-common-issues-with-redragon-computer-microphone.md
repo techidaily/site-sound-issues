@@ -1,7 +1,7 @@
 ---
 title: "Solved: Troubleshooting Common Issues with Redragon Computer Microphone"
-date: 2024-08-13T10:48:05.521Z
-updated: 2024-08-14T10:48:05.521Z
+date: 2025-01-23T19:10:39.622Z
+updated: 2025-01-29T23:50:23.287Z
 tags:
   - win11
   - win10
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 
 ###
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Make sure Microphone is set to On for Skype (Windows 10 users)
 
  If you’re running Skype on**Windows 10** , firstly please check if the Microphone is set to **On**  for Skype in the Privacy settings.
@@ -40,47 +37,29 @@ Follow these:
 1. On your keyboard, press the**Windows logo key**  and **I** (at the same time).
 2. Click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e2b7da45.png)
 3. Click**Microphone** on the left pane. Check if the status is**On**  for Skype.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###
 
 ### Fix 2: Adjust the audio settings on Skype
 
 1. Login Skype with your own account.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 2. On Skype window, Click**Tools** \>**Options** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599a3fd935df2.png)
 3. Click**Audio settings** on the left pane. Then set your Microphone device and un-tick**Automatically adjust microphone settings** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
 4. Check to see if your Microphone works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your sound card driver
 
  Skype Microphone not working problem can be also cause by the incorrect or outdated sound card driver. The solutions above may solve the problem, but if they don’t, please update your sound card driver.
@@ -88,24 +67,32 @@ Key features:
  To update your sound card driver, you can download the latest one from its manufacturer’s website and install it on your computer, like**Realtek** . If you’re not confident playing around with drivers manually,  or if you want to save much more time, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . to do it automatically. Driver Easy will automatically recognize your system and find the correct drivers for your exact sound card, and your variant of Windows system, and it will download and install them correctly:
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/)  and install Driver Easy.
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. You sound driver is no exception.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer and run Skype to see if your Microphone works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ### Fix 4: Restart Windows audio service
 
 1. On your keyboard, press the **Windows logo** **key** and **R** (at the same time) to invoke the run command.
 2. Type**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996978261d98.png)
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Log in Skype and check to see if your Microphone works.
 
 * [sound problem](https://tools.techidaily.com/drivereasy/download/)
@@ -116,8 +103,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +110,21 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-sound-capture-module-for-iphone-24-year/"><u>[Updated] In 2024, Sound Capture Module for iPhone '24 Year</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-oculus-quest-2-microphone-problems/"><u>Diagnosing and Repairing Oculus Quest 2 Microphone Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-get-your-astro-a20-microphone-working-again/"><u>Expert Tips to Get Your Astro A20 Microphone Working Again</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gear-for-capturing-journeys-on-camera-for-2024/"><u>Gear for Capturing Journeys on Camera for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-fixing-microphone-not-functioning-even-when-its-plugged-into-a-windows-computer/"><u>Guide: Fixing Microphone Not Functioning Even When It’s Plugged Into a Windows Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-this-app-package-is-not-supported-for-installation-on-windows/"><u>How to Fix This App Package Is Not Supported for Installation on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016960898-how-to-get-back-the-soundscape-in-apex-legends-audio-problem-solved/"><u>How to Get Back the Soundscape in Apex Legends: Audio Problem Solved!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-itel-p40-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Itel P40 Phone FRP Lock</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-ultimate-20-country-chill-out-playlist-for-relaxing-dance-moves-tiktok/"><u>In 2024, Ultimate 20 Country Chill-Out Playlist for Relaxing Dance Moves (TikTok)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/memorable-images-top-10-best-meme-blueprints/"><u>Memorable Images TOP 10 Best Meme Blueprints</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-for-sound-hiccups-reviving-the-microphone-on-the-turtle-beach-elite-atlas/"><u>Quick Fix for Sound Hiccups: Reviving the Microphone on the Turtle Beach Elite Atlas</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-incorrect-side-by-side-configuration-on-windows-10-comprehensive-guide-and-fixes/"><u>Solve 'Incorrect Side-by-Side Configuration' On Windows 10 - Comprehensive Guide and Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-2024-guide-resolving-sound-synchronization-issues/"><u>Ultimate 2024 Guide: Resolving Sound Synchronization Issues</u></a></li>
+</ul></div>
 

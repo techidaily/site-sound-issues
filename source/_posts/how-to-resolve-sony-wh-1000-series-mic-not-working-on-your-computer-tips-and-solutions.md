@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Sony WH-1000 Series Mic Not Working on Your Computer - Tips & Solutions
-date: 2024-08-13T10:46:57.473Z
-updated: 2024-08-14T10:46:57.473Z
+date: 2025-01-27T16:21:26.081Z
+updated: 2025-01-30T02:08:20.976Z
 tags:
   - win11
   - win10
@@ -28,8 +28,9 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 * Your microphone cannot access your device
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to fix your mic issues
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -58,6 +59,10 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/privacy.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Please be sure to turn on “**Allow access to the microphone on this device** ” and “**Allow apps to access your microphone** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image.png)
@@ -78,10 +83,11 @@ Here’s how to do it:
 
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In the Sound windows, select the **Recording**  tab.
 
@@ -95,10 +101,11 @@ Here’s how to do it:
 
  6) Click the **Levels**  tab, and drag the slider to a proper volume.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Also go to the**Enhancements** tab, and check the box Disable all sound effects.
 
@@ -107,8 +114,9 @@ Here’s how to do it:
  Now your SteelSeries Actis Pro should be working, and if you still have problems with the microphone, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update the headset driver
 
  The microphone on your SteelSeries Arctis Pro won’t work if you’re using an incorrect or outdated driver. So if the fixes above didn’t work, you should try updating the driver to see if it does the trick.
@@ -121,9 +129,6 @@ Here’s how to do it:
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
  3) Click the**Activate & Update** button next to the headset to download the latest and correct driver for it.
@@ -138,22 +143,17 @@ Here’s how to do it:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Make sure to use the correct Default Format
 
  1) On your keyboard, press the **Windows logo** key and the **R** key at the same time to open the Run box.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
 
  3) In the Sound windows, select the **Recording**  tab.
@@ -180,8 +180,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +187,23 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-best-action-cameras-feature-front-display/"><u>[New] Best Action Cameras Feature Front Display</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-guide-fixing-non-operational-srt-exports/"><u>[Updated] Step-by-Step Guide Fixing Non-Operational SRT Exports</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725286776346-dvd-dvd/"><u>合法的にDVDをコピーして保存するための効果的な方法 - DVDのバックアップとデジタル化ガイド</u></a></li>
+<li><a href="https://win-news.techidaily.com/5ywl6zqg6jck6kw5lqe6yyv6kqk56ob56kf5a656yep5lin6lazic0g5bey5oiq5yqf6kej5rg6/"><u>克隆萊西亞錯誤磁碟容量不足 - 已成功解決</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beat-the-tech-solving-your-squad-mic-woes/"><u>Beat the Tech: Solving Your Squad Mic Woes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oppo-find-x7-ultra-device-sim-by-drfone-android/"><u>Easily Unlock Your Oppo Find X7 Ultra Device SIM</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-common-sound-blaster-microphone-problems/"><u>Effective Fixes for Common Sound Blaster Microphone Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortlessly-restore-sounds-on-windows-11-a-step-by-step-guide/"><u>Effortlessly Restore Sounds on Windows 11 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/exclusive-look-at-zooms-prime-transcription-software-choices-for-2024/"><u>Exclusive Look at Zoom's Prime Transcription Software Choices for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-oppo-a38-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Oppo A38</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/pinnacle-mac-studio-for-unparalleled-video-and-audio-recording/"><u>Pinnacle Mac Studio for Unparalleled Video & Audio Recording</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-red-magic-8s-pro-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Red Magic 8S Pro on Mac</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-why-your-computer-speakers-arent-producing-sound-after-being-connected/"><u>Solution Guide: Why Your Computer Speakers Aren't Producing Sound After Being Connected</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-making-unlisted-headphones-visible-again-on-windows-11-sound-settings/"><u>Solution Steps: Making Unlisted Headphones Visible Again on Windows 11 Sound Settings</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-lack-of-speakers-in-windows-11-setup/"><u>Troubleshooting Guide: Resolving Lack of Speakers in Windows 11 Setup</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlocking-the-volume-puzzle-for-seamless-hearthstone-soundscape-restoration/"><u>Unlocking the Volume Puzzle for Seamless Hearthstone Soundscape Restoration</u></a></li>
+</ul></div>
 

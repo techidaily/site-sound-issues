@@ -1,7 +1,7 @@
 ---
 title: How to Fix Windows 11 Microphone Not Working
-date: 2024-12-29T17:19:26.099Z
-updated: 2025-01-03T16:35:07.457Z
+date: 2025-01-28T02:40:09.691Z
+updated: 2025-01-29T23:03:18.378Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c
 4. **[Check the Webex settings](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Troubleshoot the connection
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c
 * Make sure the mute button on your headsets or microphone is turned off.
 
  If your mic is securely plugged in but still not working in Webex, continue to more solutions below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Allow Webex to access your microphone
 
@@ -58,17 +62,17 @@ thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 4. Scroll down and toggle on the button below**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve allowed the microphone access to your apps, check if the problem is resolved. If not, try the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Update your audio driver
 
@@ -112,14 +116,10 @@ There are mainly two ways you can update the audio driver:
 4. You can also adjust the volume by dragging the slider. Then click Save to apply the changes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once completed, you can click the Test button under Microphone to see if everything goes back to normal.
 
@@ -144,20 +144,18 @@ There are mainly two ways you can update the audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-ustream-evaluation-find-alternates/"><u>[New] Ustream Evaluation, Find Alternates</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-10-best-online-video-call-free-to-use/"><u>[Updated] 2024 Approved 10 Best Online Video Call (Free to Use)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-embrace-the-brilliance-stream-create-and-revel-in-pcs-hd-video-splendor/"><u>[Updated] 2024 Approved Embrace the Brilliance Stream, Create, and Revel in PC's HD Video Splendor</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-leverage-windows-movie-maker-to-upgrade-your-youtube-videos/"><u>2024 Approved Leverage Windows Movie Maker to Upgrade Your YouTube Videos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016878952-fixing-sound-problems-on-the-g435-headset-effective-solutions-inside/"><u>Fixing Sound Problems on the G435 Headset – Effective Solutions Inside</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-the-potential-of-chatgpt-through-its-advanced-custom-instruction-set/"><u>Leveraging the Potential of ChatGPT Through Its Advanced Custom Instruction Set</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/oculus-quest-2-headset-solutions-for-a-malfunctioning-built-in-microphone/"><u>Oculus Quest 2 Headset: Solutions for a Malfunctioning Built-In Microphone</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimizing-playstation-subscription-plans/"><u>Optimizing PlayStation Subscription Plans</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-audio-hurdles-in-re8-solutions-for-a-smoother-gaming-experience/"><u>Overcoming Audio Hurdles in RE8 – Solutions for a Smoother Gaming Experience</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-skype-audio-repairing-microphone-problems-in-windows-10/"><u>Revive Your Skype Audio: Repairing Microphone Problems in Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-elevating-sound-levels-in-windows-11/"><u>Step-by-Step Tutorial: Elevating Sound Levels in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixes-restoring-audio-in-apex-legends/"><u>Troubleshooting Fixes: Restoring Audio in Apex Legends</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-voice-and-mic-issues-in-call-of-duty-warzone-on-pc-and-consoles/"><u>Troubleshooting Guide: Fixing Voice and Mic Issues in Call of Duty Warzone on PC and Consoles</u></a></li>
-<li><a href="https://program-issues.techidaily.com/what-happened-to-mafia-definitive-edition-release-date/"><u>What Happened to Mafia: Definitive Edition Release Date?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-become-a-zoom-screenshare-pro-in-minutes-for-2024/"><u>[New] Become a Zoom Screenshare Pro in Minutes for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-camera-charisma-a-guide-to-personal-video-content/"><u>[New] On-Camera Charisma A Guide to Personal Video Content</u></a></li>
+<li><a href="https://win-blog.techidaily.com/a-complete-manual-to-restore-stability-post-building-dismantling/"><u>A Complete Manual to Restore Stability Post Building Dismantling</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/breaking-the-internet-with-these-hysterical-stickers-for-2024/"><u>Breaking the Internet with These Hysterical Stickers for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choose-wisely-comparing-top-performing-2024-cpu-coolers-aios-versus-traditional-fans/"><u>Choose Wisely: Comparing Top-Performing 2024 CPU Coolers - AIOs Versus Traditional Fans</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/clear-audio-solutions-diagnosing-and-repairing-your-arctis-n-headset-noise-woes-under-windows/"><u>Clear Audio Solutions: Diagnosing and Repairing Your Arctis N Headset Noise Woes Under Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-guide-why-opting-for-a-vpn-boosts-security-on-vision-pro-and-similar-xr-headsets-insights/"><u>Essential Guide: Why Opting for a VPN Boosts Security on Vision Pro and Similar XR Headsets - Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016732771-fix-your-headphones-crackling-sound-instantly-a-step-by-step-guide/"><u>Fix Your Headphones' Crackling Sound Instantly - A Step-by-Step Guide!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/onikuma-mic-malfunction-heres-how-to-restore-audio-functionality/"><u>Onikuma Mic Malfunction? Here's How to Restore Audio Functionality!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-no-sound-dilemma-on-computers-effortlessly-and-fast/"><u>Resolving No-Sound Dilemma on Computers Effortlessly & Fast</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-moderation-issues-in-chatgpt-conversations/"><u>Troubleshooting Moderation Issues in ChatGPT Conversations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-wows-fatal-issue-in-windows-1111/"><u>Troubleshooting WoW's Fatal Issue in Windows 11/11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-the-simplest-tone-adjustments-in-pubg/"><u>Unveiling the Simplest Tone Adjustments in PUBG</u></a></li>
 </ul></div>
 

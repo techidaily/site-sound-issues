@@ -1,7 +1,7 @@
 ---
 title: "Reviving Volume: Effective Fixes for Lenovo Laptop Sound Issues"
-date: 2025-01-18T19:51:07.310Z
-updated: 2025-01-22T20:24:55.361Z
+date: 2025-01-29T00:29:59.298Z
+updated: 2025-01-30T02:03:23.522Z
 tags:
   - win11
   - win10
@@ -45,17 +45,13 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 2. In the pop-up window, select**Playing Audio** , then click**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000232.png)
 3. Follow the on-screen instructions to troubleshoot the audio playback issue.
 
  When it is completed, play a song on your HP laptop to see if you resolved the no sound issue. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 2: Update your audio driver**
 
@@ -83,14 +79,10 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap908-2.png)  
  You can do it for free if you like, but it’s partly manual.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 3: Check your audio settings**
@@ -102,14 +94,14 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 2. Navigate to**the Playback tab** .**Right-click** anywhere on the Playback tab of the Sound window, and make sure you select**Show Disabled Devices** and**Show Disconnected Devices** options.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000237-2.png)
 3. If your laptop speaker is disabled,**right-click** your laptop speaker and select**Enable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000236.png)
@@ -117,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
 5. Click**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. On your desktop,   **right-click**  **the speaker icon**  on the lower-right corner, and then select**Open Volume Mixer**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000233.png)
@@ -129,16 +125,12 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000238.png)
 10. In Device Manager,**double-click** **Sound, video and game controllers** to expand the list. If you see**a downward arrow** next to your audio device,**right-click** it then select**Enable device** to enable it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000240.png)
 
  Play a song on your HP laptop to see if the no sound issue is resolved. If not, try the next fix to restart Windows audio service.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 4: Restart Windows audio service**
@@ -152,8 +144,16 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap194-5.png)
 4. Navigate to the **Recovery**   tab. For **First failure** , select **Restart the Service** . Then click **OK**   to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap195-5.png)
 5. Locate the service **Windows Audio Endpoint Builder** . Follow step 3 and step 4 above to do the same thing for Windows Audio Endpoint Builder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Restart your PC.
 
@@ -189,14 +189,20 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-superior-satire-picture-styler/"><u>[New] Superior Satire Picture Styler</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-elevate-zoom-audio-clarity-with-strategic-effective-tweaks-for-2024/"><u>[Updated] Elevate Zoom Audio Clarity with Strategic, Effective Tweaks for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-record-internet-radio-a-simple-guide/"><u>2024 Approved How To Record Internet Radio - A Simple Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/master-the-win-compatibility-toolkit/"><u>Master the Win Compatibility Toolkit</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solutions-fixing-google-hangouts-mic-issues-effortlessly/"><u>Quick Solutions: Fixing Google Hangouts Mic Issues Effortlessly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-logitech-g933-microphone-troubleshooting-and-solutions/"><u>Reviving Your Logitech G933 Microphone: Troubleshooting and Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silenced-by-the-latest-regain-audio-control-after-your-windows-10-update-now/"><u>Silenced by the Latest? Regain Audio Control After Your Windows 10 Update Now</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-for-resolving-zoom-microphone-failures-on-windows-operating-systems-111n/"><u>Solution Steps for Resolving Zoom Microphone Failures on Windows Operating Systems (11/1N)</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-why-your-windows-files-may-have-an-x/"><u>Understanding Why Your Windows Files May Have an X</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-ace-your-project-advanced-srt-tweaks-on-a-mac/"><u>[New] 2024 Approved Ace Your Project Advanced SRT Tweaks on a Mac</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-smooth-sailing-through-sequences-with-kinemaster/"><u>[Updated] In 2024, Smooth Sailing Through Sequences with Kinemaster</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-unlocking-the-secrets-to-iphone-stellar-images/"><u>[Updated] In 2024, Unlocking the Secrets to iPhone Stellar Images</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-techniques-to-restore-audio-input-functionality-in-obs-desktop-applications/"><u>Effective Techniques to Restore Audio Input Functionality in OBS Desktop Applications</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-conversion-techniques-from-webm-video-to-animated-gifs-on-and-off-the-internet/"><u>Effortless Conversion Techniques: From WebM Video to Animated GIFs on and Off the Internet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-common-problems-when-your-steam-microphone-isnt-responding/"><u>Fixing Common Problems When Your Steam Microphone Isn't Responding</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-mpow-mic-issues-troubleshooting-windows-compatibility-problems/"><u>Fixing MPOW Mic Issues: Troubleshooting Windows Compatibility Problems</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rinciples-to-uphold-youtube-civility-for-2024/"><u>Key Principles to Uphold YouTube Civility for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/kissanime-closed-discover-alternative-legitimate-sites-for-streaming-your-favorite-anime/"><u>KissAnime Closed: Discover Alternative Legitimate Sites for Streaming Your Favorite Anime</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-performance-solutions-for-reducing-god-of-wars-cpu-drain/"><u>Optimizing Performance: Solutions for Reducing God of War's CPU Drain</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/repairing-your-turtle-beach-recon-n-common-solutions-for-a-non-functional-mic/"><u>Repairing Your Turtle Beach Recon N: Common Solutions for a Non-Functional Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-turtle-beach-headset-mic-problems-quick-and-easy-solutions/"><u>Resolving Turtle Beach Headset Mic Problems - Quick and Easy Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-overcoming-the-silence-getting-your-corsair-hs35-mic-to-work-on-windows-computers/"><u>Solved! Overcoming the Silence: Getting Your Corsair HS35 Mic to Work on Windows Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/speedy-repairs-needed-heres-how-to-fix-the-microphone-on-your-oculus-rift-s-quickly/"><u>Speedy Repairs Needed? Here's How to Fix the Microphone on Your Oculus Rift S Quickly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-expert-insights-on-latest-hardware/"><u>Tom's Tech Hub: Expert Insights on Latest Hardware</u></a></li>
 </ul></div>
 

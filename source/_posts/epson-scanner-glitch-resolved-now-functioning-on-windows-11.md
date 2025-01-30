@@ -1,7 +1,7 @@
 ---
 title: Epson Scanner Glitch Resolved - Now Functioning on Windows 11
-date: 2024-08-13T10:48:15.023Z
-updated: 2024-08-14T10:48:15.023Z
+date: 2025-01-26T07:57:34.295Z
+updated: 2025-01-29T18:30:55.363Z
 tags:
   - win11
   - win10
@@ -15,17 +15,10 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
 
 ## How to Fix HP Scanner Not Working - 2022 Tips
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd167112d84d.jpg)
 
  If your**HP scanner is not working** , don’t worry. This is a common scanner problem and you can fix it quickly and easily.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why is my HP scanner not working?
 
  The HP scanner not working issues include**the** scanner won’t scan, the scanner not being detected by your computer, or errors popping**up** when you’re using your scanner, etc.
@@ -33,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
  The causes for these problems are various and sometimes hard to identify. As you can imagine, the connection problem can prevent your scanner from connecting to the computer, and the software and services problems in your computer are the possible reasons for this issue.
 
  But don’t worry. We’ll help you fix the scanner not working on HP.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix the HP scanner not working
 
@@ -48,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ### Fix 1: Check the connection issue
 
  To use your scanner, you need to make sure that your scanner is**powered on** in the first place.
@@ -61,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Enable Windows Image Acquisition (WIA) service and associated services
 
 **Windows Image Acquisition** **(WIA)** is a Microsoft model that allows graphics software to communicate with imaging hardware such as scanners and cameras. So you should enable WIA service in your computer if your scanner stops working. Here’s what you need to do:
@@ -69,17 +67,11 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
 2. Type**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1678201865.jpg)
 3. Scroll down and double click**Windows Image Acquisition (WIA)** .  
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd167eed749a.jpg)
 4. In the popup pane, ensure the**Startup type** is set**Automatic** , and the**Service status** is**Running** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd168549db26.jpg)  
  If the**Service status** is already**Running** , click**Stop** to stop the service, then click**Start** to re-enable the service.
 5. Click**Apply** and**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1688e0055e.jpg)
 
  Then restart your computer. Try to use your HP scanner again and see if it works now.
@@ -88,9 +80,6 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box.
 2. Type**services.msc** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1678201865.jpg)
 3. Ensure these services are set to**Automatic** and the**Service status** is**Running** .  
    * **Remote Procedure Call RPC**  
@@ -127,6 +116,10 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/update-dell-touchpad-driver.jpg.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -135,6 +128,10 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
 Then try scanning with your scanner to see if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware problems
 
@@ -145,19 +142,21 @@ Then try scanning with your scanner to see if it works.
 2. Copy & paste the following command line into the Command Prompt window and press**Enter** .  
 `**msdt.exe -id DeviceDiagnostic**`
 3. Click**Next** in the popped-up window and the troubleshooter will start detecting hardware problems automatically.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/next-step.jpg)
 4. Follow the on-screen instructions to finish the troubleshooting and fix the detected issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After that, try your scanner again and see if it’s working properly.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Run System File Checker
 
  System File Checker (SFC) is a built-in Windows feature that scans corrupted system files and repairs it automatically.
@@ -168,13 +167,14 @@ Then try scanning with your scanner to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0319454560.jpg)
 2. In Command Prompt, type the following command, then press**Enter** .  
 sfc /scannow  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd031d993e59.jpg)
 3. Then wait for**Verification 100% complete** . This can take a while.
 4. Once complete, Type**exit** in Command Prompt and press**Enter** to close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd036dad46be.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Restart your computer and see if your scanner begins to work.
 
@@ -186,10 +186,6 @@ To fix your issues, follow the steps below to run a full scan of your PC:
 2. Open Fortect and it will run a free scan of your PC. Upon completion of the scan, the software will conduct a diagnosis and show you a summary of system issues. This will take a few minutes.
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.
@@ -207,8 +203,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +210,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-the-ultimate-method-for-mastery-in-morphvox-usage/"><u>[New] The Ultimate Method for Mastery in MorphVOX Usage</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-gain-traction-with-effective-video-descriptions-and-tagging/"><u>[Updated] In 2024, Gain Traction with Effective Video Descriptions and Tagging</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-spread-the-rhythm-sharing-playlists-in-minutes/"><u>2024 Approved Spread the Rhythm Sharing Playlists in Minutes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/briskly-revamp-rx-5500xt-drivers/"><u>Briskly Revamp RX 5500XT Drivers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/descubre-el-secreto-de-los-archivos-cr2-como-abrirlos-correctamente/"><u>Descubre El Secreto De Los Archivos CR2: Cómo Abrirlos Correctamente</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-annoying-humming-noises-coming-from-headphone-speakers/"><u>Diagnosing and Repairing Annoying Humming Noises Coming From Headphone Speakers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-download-asus-usb-drivers-win-setup/"><u>Direct Download: ASUS USB Drivers Win Setup</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-advice-on-how-to-obtain-and-implement-the-dell-mouse-driver-seamlessly/"><u>Expert Advice on How to Obtain and Implement the Dell Mouse Driver Seamlessly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-for-black-ops-cold-war-players-struggling-with-voice-chat-connectivity/"><u>Fixes for 'Black Ops Cold War' Players Struggling with Voice Chat Connectivity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fortnite-voice-communication-issues-fix-them-fast-with-our-simple-solutions/"><u>Fortnite Voice Communication Issues? Fix Them Fast with Our Simple Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-streamline-your-gameplay-professional-ps4-recording-tips/"><u>In 2024, Streamline Your Gameplay Professional PS4 Recording Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-stuttering-noise-and-sound-quality-issues-on-your-desktops-os-a-guide-for-windows-10-and-7-users/"><u>Overcome Stuttering Noise & Sound Quality Issues on Your Desktop's OS: A Guide for Windows 10 and 7 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016333476-overcoming-sound-disruptions-in-windows-11-tips-and-fixes-that-worked/"><u>Overcoming Sound Disruptions in Windows 11: Tips and Fixes That Worked!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-sound-pop-issues-on-windows-step-by-step-troubleshooting-tips/"><u>Solving Sound Pop Issues on Windows: Step-by-Step Troubleshooting Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-razer-barracuda-x-microphone-issues-on-windows-10-and-11/"><u>Troubleshooting Guide: Fixing Razer Barracuda X Microphone Issues on Windows 10 & 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-mpow-microphone-issue-for-windows-users/"><u>Troubleshooting the MPOW Microphone Issue for Windows Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-resolving-voicemod-issues-and-start-working/"><u>Ultimate Guide: Resolving Voicemod Issues and Start Working</u></a></li>
+</ul></div>
 

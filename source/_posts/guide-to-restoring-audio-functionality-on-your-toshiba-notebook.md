@@ -1,7 +1,7 @@
 ---
 title: Guide to Restoring Audio Functionality on Your Toshiba Notebook
-date: 2025-01-18T19:42:21.375Z
-updated: 2025-01-22T19:47:00.162Z
+date: 2025-01-28T18:12:55.593Z
+updated: 2025-01-29T19:57:19.969Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
 4. [Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Troubleshoot hardware issues](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Turn on app permissions for your microphone
 
  To use your microphone with apps on Windows, you’ll need to turn on some permissions in Microphone settings. Here’s how:
@@ -48,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
   
 ![Privacy in Settings](https://images.drivereasy.com/wp-content/uploads/2021/02/privacy.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Microphone** on the left pane. Then click on the**Change** button and make sure**Microphone access for this device** is turned on.  
   
 ![turn on app permissions on your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/turn-on-app-permissions-for-your-micropho0ne.png)
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Once you’ve allowed microphone access to your apps, you can change the settings for each app. Simply head to the**Choose which Microsoft apps can access your microphone** , and turn on apps you want to use with it. For desktop apps, make sure that**Allow desktop apps to access your microphone** is turned**On** .
@@ -65,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
  After you’ve done all of these, try to use your headset microphone and check if it’s working properly. If the issue persists, try the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Make sure your mic isn’t disabled
 
@@ -90,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Set your microphone device as default
 
  Normally, when your microphone is connected, Windows can automatically detect it and set it as the default input device. But sometimes it just fails to do that and you have to set it manually:
@@ -103,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
 ![Open Sound Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-control-panel.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select the**Recording** tab. Select your microphone and then click**Set Default > OK** .  
@@ -113,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
  When it’s all done, use your microphone to check if it’s working now. If you’re still having the same problem, try the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Update your audio driver
 
@@ -132,20 +128,24 @@ Here’s how to update drivers with Driver Easy:
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![update audio driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/12/update-audio-driver-automatically-with-Driver-Easy.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and do a mic test to check if it’s back to a normal state. If the microphone is still not working properly, try the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Troubleshoot hardware issues
 
@@ -174,22 +174,20 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-a-thumbnail-for-your-youtube-free-easily/"><u>[New] In 2024, How to Make a Thumbnail for Your YouTube Free Easily</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-iphone-techniques-creating-extended-frame-videos/"><u>[New] IPhone Techniques Creating Extended Frame Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-gain-traction-on-youtube-surpass-10000-viewer-count-for-affiliate-rewards/"><u>[Updated] Gain Traction on YouTube - Surpass 10,000 Viewer Count for Affiliate Rewards</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-authenticity-focused-tiktok-followers-buying-guide/"><u>[Updated] In 2024, Authenticity-Focused TikTok Followers Buying Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/complete-solution-for-stable-dauntless-play-on-your-windows-computer/"><u>Complete Solution for Stable Dauntless Play on Your Windows Computer</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/effective-strategies-for-mov-video-recording-in-windows-11-for-2024/"><u>Effective Strategies for MOV Video Recording in Windows 11 for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-non-functional-tozo-t6-printer-in-windows-11-environment/"><u>How to Repair a Non-Functional Tozo T6 Printer in Windows 11 Environment</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-of-your-runmus-gaming-headsets-microphone/"><u>How to Restore Functionality of Your Runmus Gaming Headset's Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-functionality-in-a-laptop-with-no-output/"><u>How to Restore Sound Functionality in a Laptop with No Output</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-repair-an-unresponsive-headset-socket-on-pcs/"><u>How to Troubleshoot and Repair an Unresponsive Headset Socket on PCs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-repair-no-sound-from-laptop-built-in-speakers/"><u>How to Troubleshoot and Repair No Sound From Laptop Built-In Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hp-laptop-speakers-silent-troubleshoot-non-functioning-sounds-in-windows-10/"><u>HP Laptop Speakers Silent? Troubleshoot Non-Functioning Sounds in Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-stinger-microphone-not-working-heres-how-to-fix-it/"><u>HyperX Cloud Stinger Microphone Not Working? Here's How to Fix It</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mac-audio-not-working-heres-how-you-can-fix-it-now/"><u>Mac Audio Not Working? Here’s How You Can Fix It Now</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-power-of-politeness-in-growing-your-audience/"><u>The Power of Politeness in Growing Your Audience</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-ultimate-guide-to-android-slow-motion-video-magic/"><u>The Ultimate Guide to Android Slow Motion Video Magic</u></a></li>
-<li><a href="https://win11.techidaily.com/title-personalizing-icon-gaps-on-modern-and-vintage-winoses/"><u>Title: Personalizing Icon Gaps on Modern & Vintage WinOSes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/levating-channel-excellence-with-best-ideas/"><u>[New] Elevating Channel Excellence with Best Ideas</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-unleash-gaming-potential-using-obs-recording-features-for-2024/"><u>[New] Unleash Gaming Potential - Using OBS Recording Features for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-ultimate-slomo-recording-tool-assessment-guide-for-2024/"><u>[Updated] The Ultimate SloMo Recording Tool Assessment Guide for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-firefoxs-best-screen-recorders-roundup/"><u>2024 Approved Firefox's Best Screen Recorders Roundup</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/are-your-files-secure-with-recovery-software-discover-reliable-solutions-and-expert-answers/"><u>Are Your Files Secure with Recovery Software? Discover Reliable Solutions & Expert Answers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-addressing-logitech-g430-microphone-connectivity-problems/"><u>Effective Solutions for Addressing Logitech G430 Microphone Connectivity Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/headset-mic-problems-heres-how-to-get-your-audio-working-again/"><u>Headset Mic Problems? Here's How to Get Your Audio Working Again</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-tecno-pop-8-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Tecno Pop 8 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-solve-common-microphone-errors-in-windows-7-systems-easily/"><u>How to Solve Common Microphone Errors in Windows 7 Systems Easily</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-art-of-subtlety-garagebands-audio-softening/"><u>The Art of Subtlety Garageband's Audio Softening</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-hdmi-sound-problems-in-windows-7-easy-solutions/"><u>Troubleshooting HDMI Sound Problems in Windows 7: Easy Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-iphone-sound-malfunctions-restore-crystal-clear-audio/"><u>Troubleshooting iPhone Sound Malfunctions – Restore Crystal Clear Audio</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-black-battery-setups-for-gopro-hero5-genuine-and-imitators/"><u>Ultimate Black Battery Setups for GoPro Hero5 – Genuine & Imitators</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/wrangling-your-tunes-troubleshooting-and-fixing-stuttering-bluetooth-sound-quality-on-modern-windows-machines/"><u>Wrangling Your Tunes: Troubleshooting and Fixing Stuttering Bluetooth Sound Quality on Modern Windows Machines</u></a></li>
 </ul></div>
 

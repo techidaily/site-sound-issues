@@ -1,7 +1,7 @@
 ---
 title: Corsair HS70 Mic Woes? Here's How to Get It Working Perfectly Again
-date: 2025-01-19T21:24:41.486Z
-updated: 2025-01-22T18:28:43.064Z
+date: 2025-01-22T20:37:16.099Z
+updated: 2025-01-30T00:51:38.452Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ If your Corsair HS70 Mic Stopped Working on Windows, don’t worry. You can use 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow access to your microphone
 
  If your microphone is not allowed to access on your computer, you can’t use it properly. So first, check if it’s allowed to access on your computer. If it’s not allowed to access, configure the setting to make it work.
@@ -50,27 +54,27 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-146.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Microphone** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-150.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click the**Change** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-158.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you see ‘Microphone access for this device’ is**On** , it means microphone is allowed to access on your computer. Leave it and**head to the next step** .
 
  If you see ‘Microphone access for this device’ is**Off** , click on the button to**turn it on** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-159.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Make sure**Allow apps to access your microphone** is turned on.
 
@@ -90,13 +94,13 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-161.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In Control Panel, View by**Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-162.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Click**Sound** .
 
@@ -106,9 +110,17 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-164.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you see microphone is disabled,**right click the device** and select**Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-165.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you don’t see microphone in the device list, you need to show it first, then enable it manually.
 
@@ -116,13 +128,13 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-166.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  b. Right click the microphone and select**Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-167.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Right click the microphone again and select**Set as Default Device** .
 
@@ -134,19 +146,11 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-169.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  9) Click**OK** \->**OK** .
 
 10) Check to see if your Corsair HS70 mic is working.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio drivers
 
@@ -170,10 +174,6 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-143.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  After updating the driver, restart your computer and check to see if your Corsair HS70 mic is working.
@@ -181,7 +181,7 @@ To do this, you can follow these steps:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
@@ -215,17 +215,24 @@ To do this, you can follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-guide-to-free-online-youtube-mp3-converters/"><u>[New] The Ultimate Guide to Free Online YouTube-MP3 Converters</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-integrating-videos-into-youtube-shelves-a-practical-guide/"><u>[Updated] Integrating Videos Into YouTube Shelves A Practical Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advanced-techniques-to-master-voice-activated-accessibility-on-windows/"><u>Advanced Techniques to Master Voice-Activated Accessibility on Windows</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-iphone-14-pro-max-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On iPhone 14 Pro Max in the Best Ways</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-resolution-duel-comparing-gopro-hero-and-polaroid-cube/"><u>In 2024, Resolution Duel Comparing GoPro Hero and Polaroid Cube</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/kotion-g2000-mic-not-working-heres-how-to-restore-functionality-in-easy-steps/"><u>Kotion G2000 Mic Not Working? Here's How to Restore Functionality in Easy Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/master-the-art-of-troubleshooting-fixing-zoom-mic-malfunctions-in-windows-operating-systems/"><u>Master the Art of Troubleshooting: Fixing Zoom Mic Malfunctions in Windows Operating Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/noise-issues-resolved-ensuring-your-bluetooth-headphones-produce-sound-after-connection/"><u>Noise Issues Resolved: Ensuring Your Bluetooth Headphones Produce Sound After Connection</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-audio-hurdles-how-to-get-the-mic-working-on-cs-2/"><u>Overcoming Audio Hurdles: How to Get the Mic Working on CS 2</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-connectivity-hurdles-reviving-your-runmus-mic-during-gameplay/"><u>Overcoming Connectivity Hurdles: Reviving Your Runmus Mic During Gameplay</u></a></li>
-<li><a href="https://some-tips.techidaily.com/scholars-highlight-growing-threats-as-ai-agent-use-expands-insights-from-zdnet/"><u>Scholars Highlight Growing Threats as AI Agent Use Expands - Insights From ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-pathway-to-character-map/"><u>Windows 11 Pathway to Character Map</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-avoid-the-fake-out-maintaining-authenticity-in-likes/"><u>[New] In 2024, Avoid the Fake-Out Maintaining Authenticity in Likes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-artisans-code-a-complete-blueprint-for-flawless-windows-tv-recording/"><u>[Updated] In 2024, The Artisan's Code A Complete Blueprint for Flawless Windows TV Recording</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-shine-brightly-youtubes-17-must-have-illumination/"><u>[Updated] Shine Brightly! YouTube's #17 Must-Have Illumination</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-unleashing-your-content-going-live-on-instagram/"><u>2024 Approved Unleashing Your Content Going Live on Instagram</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-guide-repairing-a-malfunctioning-bose-sound-system/"><u>DIY Guide: Repairing a Malfunctioning Bose Sound System</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/effective-ways-to-prevent-trackers-while-browsing-with-firefox/"><u>Effective Ways to Prevent Trackers While Browsing with Firefox</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-discords-echo-complications-on-a-laptop-or-desktop/"><u>How to Resolve Discord's Echo Complications on a Laptop or Desktop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-problems-with-your-logitech-g533-mic-step-by-step-fixes/"><u>How to Resolve Problems with Your Logitech G533 Mic - Step-by-Step Fixes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-become-a-zoom-pro-on-your-pc-the-win10-way/"><u>In 2024, Become a Zoom Pro on Your PC The Win10 Way</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-experts-choice-7-premium-videos-on-mac/"><u>In 2024, Expert's Choice 7 Premium Videos on Mac</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-proiphone-close-ups-techniques-for-captivating-images/"><u>In 2024, Proiphone Close-Ups Techniques for Captivating Images</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-top-10-channels-to-watch-on-igtv-daily/"><u>In 2024, Top 10 Channels to Watch on IGTV Daily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overwatch-communication-error-solved-restoring-push-to-talk-functionality/"><u>Overwatch Communication Error Solved: Restoring Push-to-Talk Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reactivating-game-sounds-on-apex-legends-expert-tips-and-fixes/"><u>Reactivating Game Sounds on Apex Legends: Expert Tips and Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-hd-audio-fix-solutions-for-when-its-unplugged/"><u>Realtek HD Audio Fix: Solutions for When It's Unplugged</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-the-sound-fixing-a-malfunctioning-razer-blackshark-v2-microphone/"><u>Reviving the Sound: Fixing a Malfunctioning Razer BlackShark V2 Microphone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-for-macs-that-wont-connect-with-outside-screens/"><u>Step-by-Step Solutions for Macs That Won't Connect With Outside Screens</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-headphone-not-working-in-windows-vehicle-7/"><u>Troubleshooting Guide: Resolving 'Headphone Not Working' In Windows Vehicle 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-to-fix-sound-malfunctions-in-conexant-smartaudio-hd-for-users-of-windows/"><u>Ultimate Guide to Fix Sound Malfunctions in Conexant SmartAudio HD for Users of Windows # -</u></a></li>
 </ul></div>
 

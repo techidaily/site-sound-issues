@@ -1,7 +1,7 @@
 ---
 title: "Solving the Problem: Unstuck Your Voice Chat in Destiny 2 Today"
-date: 2024-08-18T07:59:14.395Z
-updated: 2024-08-19T07:59:14.395Z
+date: 2025-01-28T22:21:33.285Z
+updated: 2025-01-29T20:09:39.348Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/d4c3e08ad2c1079e3a0235e50a952e0f146bf5d50
 
 ## Solving the Silent Mac Dilemma - Restore Your Audio Today
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03bb72019e3.jpg)
 
  No sound comes through your Mac? Don’t panic –  it’s usually not a hard problem to solve at all. In this article, we’ll provide 8 tried and tested fixes to help you**get your Mac sound back** in no time.
@@ -52,18 +49,12 @@ thumbnail: https://thmb.techidaily.com/d4c3e08ad2c1079e3a0235e50a952e0f146bf5d50
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Check the audio settings
 
  If the volume on your computer is set mute or too low, you won’t be able to hear the sound. To make sure you have turned up the volume:
 
  1) On the dock, click the**System Preferences** icon ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b026d618d4e9.png) , then click on the **Sound** icon.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b026dbda51a8.jpg)
 
  2) Click the**Output** tab > **Internal Speakers** . Move the**Output volume** slider all the way to the right and make sure the box before**Mute** is**unchecked** .
@@ -77,17 +68,9 @@ thumbnail: https://thmb.techidaily.com/d4c3e08ad2c1079e3a0235e50a952e0f146bf5d50
 ---
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Turn off Bluetooth
 
  Sometimes this**no sound problem** happens because you have your Bluetooth on and it sends the audio to the device your computer is connected to. If that’s the case, we need to turn off Bluetooth to eliminate any glitches resulting from this.
@@ -98,35 +81,38 @@ thumbnail: https://thmb.techidaily.com/d4c3e08ad2c1079e3a0235e50a952e0f146bf5d50
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b037f3956a98.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * If**no** (i.e. **Bluetooth: Off** ): click the**Close** button. Proceed to Fix 5.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03a1e86842f.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Check if the**no sound problem** has been solved.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Restart your Mac
 
  A simple restart can fix many minor issues our computer is having, including audio problems. After the restart, you can check again and see if you get the sound back.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Reset **NVRAM**
 
  By resetting NVRAM, we bring back the default settings (including speaker volume, time zone, and display solution etc.). This may well help solve sound-related problems.
 
 1) Shut down your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 2) Turn on your computer by pressing the power button, and IMMEDIATELY hold down**the** **Command key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b029439e60ea.png) **, the options/alt key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b02946710198.png) ,**P** and**R** at the same time.
 
 3) Don’t release the keys before you hear the start-up sound. (This reboot will take up to 20 seconds.)
@@ -138,8 +124,9 @@ thumbnail: https://thmb.techidaily.com/d4c3e08ad2c1079e3a0235e50a952e0f146bf5d50
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix **7: Create a testing account on safe mode**
 
  In this method, we create a new Apple account and test if sound works properly in this new account. Here’s a quick walk-through:
@@ -176,8 +163,9 @@ thumbnail: https://thmb.techidaily.com/d4c3e08ad2c1079e3a0235e50a952e0f146bf5d50
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix **8: Update your Mac OS**
 
  If all the fixes above don’t solve your problem, then you might have to update your OS. Sometimes the older system can have some sound problems and Apple will roll out new versions to fix them.
@@ -209,8 +197,6 @@ thumbnail: https://thmb.techidaily.com/d4c3e08ad2c1079e3a0235e50a952e0f146bf5d50
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -218,4 +204,22 @@ thumbnail: https://thmb.techidaily.com/d4c3e08ad2c1079e3a0235e50a952e0f146bf5d50
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-social-media-self-proofing-deciphering-ig-identity/"><u>[New] Social Media Self-Proofing Deciphering IG Identity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/battlefield-4-sound-problems-discover-effective-fixes-now/"><u>Battlefield 4 Sound Problems? Discover Effective Fixes Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-strategies-to-restore-sound-in-facebook-videos-streamed-from-pc/"><u>Comprehensive Strategies to Restore Sound in Facebook Videos Streamed From PC</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/critical-review-of-best-screen-capture-tools-in-linux/"><u>Critical Review of Best Screen Capture Tools in Linux</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/delving-into-macos-montereys-features/"><u>Delving Into macOS Monterey's Features</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-to-fix-your-sennheiser-gaming-headset-microphone-problems/"><u>Effective Solutions to Fix Your Sennheiser Gaming Headset Microphone Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/elevate-your-listening-simple-ways-to-increase-volume-levels-in-windows-10/"><u>Elevate Your Listening: Simple Ways to Increase Volume Levels in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016846313-entropy-changes-can-be-calculated-using-the-formula-ds-qrevt-for-reversible-processes-where-qrev-is-the-heat-exchanged-and-t-is-the-absolute-temperature/"><u>Entropy Changes Can Be Calculated Using the Formula ΔS = Q_rev/T for Reversible Processes, Where Q_rev Is the Heat Exchanged and T Is the Absolute Temperature</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-asus-rog-phone-7-ultimate-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Asus ROG Phone 7 Ultimate to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-xiaomi-13t-by-drfone-android/"><u>In 2024, How to Bypass FRP on Xiaomi 13T?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-keys-no-more-effortlessly-resolving-the-logitech-g933s-audio-problem/"><u>Silent Keys No More: Effortlessly Resolving the Logitech G933's Audio Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015038856-solve-your-fortnite-microphone-woes-quickly-detailed-tips-inside/"><u>Solve Your Fortnite Microphone Woes Quickly - Detailed Tips Inside</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-blur-background-in-adobe-premiere-pro-detailed-guide/"><u>Updated How To Blur Background in Adobe Premiere Pro Detailed Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-ventures-youtube-shorts-or-tiktok/"><u>Video Ventures YouTube Shorts or TikTok?</u></a></li>
+<li><a href="https://win11.techidaily.com/win1011-secrets-integrating-zips-into-image-files-unseen/"><u>Win10/11 Secrets: Integrating ZIPs Into Image Files Unseen</u></a></li>
+</ul></div>
 

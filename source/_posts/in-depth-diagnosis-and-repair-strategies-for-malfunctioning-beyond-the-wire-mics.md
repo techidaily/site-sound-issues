@@ -1,7 +1,7 @@
 ---
 title: In-Depth Diagnosis and Repair Strategies for Malfunctioning Beyond The Wire Mics
-date: 2024-08-13T10:46:43.088Z
-updated: 2024-08-14T10:46:43.088Z
+date: 2025-01-26T01:59:21.654Z
+updated: 2025-01-30T07:11:35.834Z
 tags:
   - win11
   - win10
@@ -18,17 +18,15 @@ thumbnail: https://thmb.techidaily.com/799b62d064a45ec31383dad7a037b165e61e53db2
 If your external speakers are not working on Windows 10, don’t worry, you’re not alone. The speakers not working problem could relate to many factors, for instance, the speakers, the hardware themselves, could be damaged, your system sound could be muted, your audio driver could be faulty, and so forth. If you encounter this problem, follow the troubleshooting tips here and find the solution that works for you.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 1, make sure your speakers are not the problem
 
  Try to test your speakers on another device (a computer or a mobile phone would both do) to see if they are working properly. This will help determine if the issue is with the speakers themselves or with your computer.
 
  When the above check is done, and you find the problem on your computer, please move on.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 2, make sure the connection between your speakers and computer is good
 
  If the speakers work properly on a second device, make sure that the connection between your speakers and your computer is intact.
@@ -39,14 +37,16 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
  And your speakers should be plugged into the line-out jack. If you’re not sure which jack this is, try plugging your speakers or headphones into each of the jacks to see if any of them produce sound.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b5314e30c21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 3, check the volume settings
 
  If your speakers are muted or their volume is set to too slow, the speakers would produce no sound. You can follow the steps below to check and ensure the volume is set correctly.
@@ -57,11 +57,13 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 3. In Control Panel, view by Category, click **Hardware and Sound** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a37a0193f08b.jpg)
 4. Under **Sound** , click **Adjust system volume** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-24.png)
 5. If the sound is unmuted, move to the next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Try to move the slider up to increase the volume.  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/volume-mixer.jpg)
 
@@ -74,26 +76,21 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 1. Right-click the speaker icon at the bottom right corner of the desktop and click on**Playback devices** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b11f3def8f1.png)
 2. Highlight**Speakers** or**Speakers /Headphones** and click**Set Default** .  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/set-as-default.jpg)
 
  If you don’t see the speakers in the device list, it may be disabled. In this case, right-click on the blank area and select**Show disabled devices** on the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![show disabled device](https://images.drivereasy.com/wp-content/uploads/2016/08/show-disabled-device.jpg)
 
  After it is listed, right-click on the speakers and click**Enable** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![enable speakers](https://images.drivereasy.com/wp-content/uploads/2016/08/enable-speakers.jpg)
 
  The problem also can be caused by outdated or missing audio drivers. So try to fix audio drivers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Uninstall the Audio Driver
 
@@ -105,12 +102,18 @@ Follow these steps:
 3. In Device Manager, double-click**Sound, video and game controllers** and right-click your sound card. A context menu will pop up. Then select**Uninstall** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
 4. Tick the box for**Delete the driver software for this device** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
 5. Reboot your PC and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Update the Audio Driver
 
  The steps above may resolve it, but if they don’t, try to update the audio driver. If you’re not confident playing around with drivers manually,  you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -119,9 +122,6 @@ Follow these steps:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and**install** Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -138,8 +138,6 @@ Follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +145,20 @@ Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-mastering-luts-premiere-pro-essentials/"><u>[New] 2024 Approved Mastering LUTs Premiere Pro Essentials</u></a></li>
+<li><a href="https://win11.techidaily.com/1726030291888-mp46/"><u>「ダウンロード不要でスムーズな動画コンバート - MP4に最適化しやすいフリーサイトベスト6選」</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/anthem-on-windows-11-wont-sound-heres-how-to-get-your-game-roaring-again/"><u>Anthem on Windows 11 Won't Sound? Here's How to Get Your Game Roaring Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-troubleshooting-guide-solving-windows-1nt-playing-sounds-issue/"><u>Easy Troubleshooting Guide: Solving Windows 1N't Playing Sounds Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-ways-to-fix-fluctuating-sound-quality-on-your-windows-11-pc/"><u>Effortless Ways to Fix Fluctuating Sound Quality on Your Windows 11 PC</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-vivo-y78plus-t1-edition-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-understanding-the-key-of-youtube-aspect-ratios-for-success/"><u>In 2024, Understanding the Key of YouTube Aspect Ratios for Success</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimize-your-storage-without-spending-a-penny-best-30-clouds-with-1tb-included-for-2024/"><u>Optimize Your Storage Without Spending a Penny Best 30 Clouds with 1TB Included for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-dolby-audio-problems-steps-to-reactivate-your-driver-on-windows-11/"><u>Overcoming Dolby Audio Problems: Steps to Reactivate Your Driver on Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pinpointing-key-versions-of-microsofts-movie-maker-for-2024/"><u>Pinpointing Key Versions of Microsoft's Movie Maker for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-a-dead-logitech-g633-mic-techniques-and-advice/"><u>Reviving a Dead Logitech G633 Mic: Techniques and Advice</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/solving-the-issue-when-diskpart-fails-to-establish-a-new-primary-partition/"><u>Solving the Issue: When DiskPart Fails to Establish a New Primary Partition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-resolving-razer-barracuda-x-mic-problems-for-w10w11-users/"><u>Step-by-Step Guide: Resolving Razer Barracuda X Mic Problems for W10/W11 Users</u></a></li>
+</ul></div>
 

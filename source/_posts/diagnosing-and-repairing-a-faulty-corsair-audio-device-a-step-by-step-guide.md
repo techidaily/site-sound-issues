@@ -1,7 +1,7 @@
 ---
 title: "Diagnosing and Repairing a Faulty Corsair Audio Device: A Step by Step Guide"
-date: 2024-08-13T10:45:52.348Z
-updated: 2024-08-14T10:45:52.348Z
+date: 2025-01-25T19:02:31.393Z
+updated: 2025-01-30T04:06:46.237Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/7e377b50c4e513bd18b3a4caf17d4fa401f54e28d
 
 If you’re using Oculus Quest 2 with a Link cable on PC but the mic isn’t working, don’t worry. In this post, you’ll learn 4 easy & quick fixes to get your VR headset mic back to life.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 4 methods that helped other users with the Oculus Quest 2 mic not working issue. You may not try them all. Just work your way down the list until you find the one that does the trick.
@@ -26,9 +30,6 @@ If you’re using Oculus Quest 2 with a Link cable on PC but the mic isn’t wor
 3. [**Update your device drivers**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Unplug and replug your headset](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1 – Allow access to your microphone
 
  To use Oculus Quest 2 normally on your PC, you should allow the apps to access its microphone in the privacy settings. Here are the steps:
@@ -38,47 +39,49 @@ If you’re using Oculus Quest 2 with a Link cable on PC but the mic isn’t wor
 2. Click the**Change** button and**toggle on** Microphone access for this device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-2-2.jpg)
 3. Scroll to Allow apps to access your microphone and**turn on** the button.  
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-3-3.jpg)
 4. Scroll down to**turn on** desktop apps’ access to your microphone.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-4-2.jpg)
 
  If you’ve enabled all the accesses but the microphone still refuses to work, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2 – Adjust the sound settings
 
  Oculus Quest 2 mic not working may also be caused by improper sound settings. If so, you need to set your headset mic as the default device manually as follows:
 
 1. Right-click**the speaker icon** at the bottom right corner of the taskbar, and click**Open Sound settings** .  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-1-4.jpg)
 2. Under the Input section, choose**Headset Microphone (Oculus Virtual Audio Device)** from the menu.  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-4-1.jpg)
 3. Scroll down to select**Sound Control Panel** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-7.jpg)
 4. Navigate to the**Recording** tab. Then select**Oculus Quest 2 headset microphone** and click**Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-3-2.jpg)
 5. Click your mic again and click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-8.jpg)
 6. Go to the**Levels** tab and**set the mic volume to the max** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-9.jpg)
 7. Select the**Advanced** tab and untick**Allow applications to take exclusive control of this device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-6.jpg)
 8. Click**OK** to apply the changes.
 
@@ -96,23 +99,25 @@ If this trick doesn’t help, take a look at more fixes below.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/de-borderless-1.jpg)
 3. Click**Update** next to the flagged_Oculus VR Headset driver_ or any devices to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all the drivers_ that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-oculus-headset-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 If updating the driver doesn’t work, continue to Fix 4 below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Fix 4 – Unplug and replug your headset
 
  Some users reported the standard unplug-and-replug method dramatically solved the Quest 2 mic not working problem, but note that you need to run the Windows voice recorder while doing this.
@@ -142,8 +147,6 @@ If updating the driver doesn’t work, continue to Fix 4 below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +154,19 @@ If updating the driver doesn’t work, continue to Fix 4 below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-affordable-pc-display-recorder-apps-for-2024/"><u>[Updated] Affordable PC Display Recorder Apps for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-step-by-step-guide-to-snapchats-captivating-boomers/"><u>[Updated] In 2024, Step-By-Step Guide to Snapchat's Captivating Boomers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-innovation-in-action-youtube-split-screen-techniques-for-2024/"><u>[Updated] Innovation in Action YouTube Split-Screen Techniques for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hdmi-problem-solutions-preventing-device-access-by-competing-software/"><u>HDMI Problem Solutions: Preventing Device Access by Competing Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-eliminate-bluetooth-audio-glitches-in-your-windows-pc-step-by-step-fixes/"><u>How to Eliminate Bluetooth Audio Glitches in Your Windows PC: Step-by-Step Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-pair-a-logitech-mouse/"><u>How to Pair a Logitech Mouse</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-the-problem-when-your-steelseries-arctis-1-microphone-fails-to-function-properly/"><u>How to Resolve the Problem When Your SteelSeries Arctis 1 Microphone Fails to Function Properly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-push-to-talk-functionality-for-a-smooth-gameplay-experience-in-overwatch/"><u>How to Restore 'Push-to-Talk' Functionality for a Smooth Gameplay Experience in Overwatch</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-infinix-smart-7-hd-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Infinix Smart 7 HD</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-conversations-a-guide-to-chatting-efficiently-with-mozilla-thunderbird/"><u>Mastering Conversations: A Guide to Chatting Efficiently with Mozilla Thunderbird</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/oadmap-to-engaging-youtube-trailers-through-filmora/"><u>The Roadmap to Engaging YouTube Trailers Through Filmora</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-recovering-lost-airpods-and-preventative-measures-for-future-losses-insights-from-zdnet/"><u>The Ultimate Guide: Recovering Lost AirPods & Preventative Measures for Future Losses - Insights From ZDNET</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Why Your SteelSeries Arctis 1 Microphone Won't Work"
-date: 2025-01-16T20:20:33.318Z
-updated: 2025-01-22T17:03:39.837Z
+date: 2025-01-24T03:09:34.763Z
+updated: 2025-01-30T01:47:09.102Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 * Your headset is not set as the default device
 * The sound card driver is outdated/corrupted
 * Your microphone cannot access your device
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix your mic issues
 
@@ -68,13 +64,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Scroll down to allow microphone access for the Microsoft apps and desktop apps.
 
  Now you can test recording and see if your SteelSeries Arctis Pro mic is working right now. But if not, please move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Set your headset as the default device
 
@@ -87,22 +83,22 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In the Sound windows, select the **Recording**  tab.
 
  4) Make sure your Actis Pro is**Enabled** (shows a green checkmark) and set it as the**Default Device** . If not, you can right-click it and select**Set as Default Device** and**Set as Default Communication Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In your VoIP application, select Actis Pro Chat Audio as the default audio device.
 
@@ -112,6 +108,10 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Also go to the**Enhancements** tab, and check the box Disable all sound effects.
 
  8) Click**Apply** \>**OK** .
@@ -119,7 +119,7 @@ Here’s how to do it:
  Now your SteelSeries Actis Pro should be working, and if you still have problems with the microphone, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update the headset driver
@@ -140,6 +140,10 @@ Here’s how to do it:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/SteelSeries-Apex-Pro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)
 
  Once you’ve updated the driver for your SteelSeries Actis Pro, you can restart your computer and check if the microphone is working.
@@ -156,10 +160,6 @@ Here’s how to do it:
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) In the Sound windows, select the **Recording**  tab.
 
@@ -194,17 +194,24 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-precise-color-correction-mastery-in-gopro-studio/"><u>[New] Precise Color Correction Mastery in GoPro Studio</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-cinematic-experiences-on-your-desktop-with-windows-hdr/"><u>2024 Approved Crafting Cinematic Experiences on Your Desktop with Windows HDR</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/hear-the-magic-rokus-audio-and-video-overhaul/"><u>Hear the Magic: Roku’s Audio & Video Overhaul</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-dead-mic-in-your-turtle-beach-elite-atlas-headset/"><u>How to Fix a Dead Mic in Your Turtle Beach Elite Atlas Headset?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-glitches-and-distortions-in-windows-10-and-11-step-by-step-guide/"><u>How to Fix Audio Glitches & Distortions in Windows 10 and 11 (Step-by-Step Guide)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-new-world-sound-issues/"><u>How to Fix New World Sound Issues</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-p55-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel P55 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-monochrome-to-multicolor-grading-journey/"><u>In 2024, From Monochrome to Multicolor Grading Journey</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/master-tips-for-resolving-muted-or-quiet-system-volume-on-windows-11-devices/"><u>Master Tips for Resolving Muted or Quiet System Volume on Windows 11 Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mic-testing-how-to-test-your-microphone-quickly-and-easily/"><u>Mic Testing: How to Test Your Microphone Quickly & Easily</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-master-your-most-watched-videos-on-fb-today-and-beyond-2023/"><u>[New] 2024 Approved Master Your Most-Watched Videos on FB Today & Beyond 2023</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-rising-viewers-rising-prosperity-the-youtube-route/"><u>[New] 2024 Approved Rising Viewers, Rising Prosperity The Youtube Route</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-the-roadmap-for-success-mastering-the-art-of-fb-reel-production/"><u>[New] In 2024, The Roadmap for Success Mastering the Art of FB Reel Production</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/atire-skills-video-comedy-mastery-tips-for-2024/"><u>[New] Satire Skills Video Comedy Mastery Tips for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-skype-recording-top-10-picks-for-optimal-audio-for-2024/"><u>[New] Skype Recording Top 10 Picks for Optimal Audio for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-fixes-for-running-into-issues-with-audio-services-resolved/"><u>Comprehensive Fixes for Running Into Issues with Audio Service(s) [Resolved]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/demystifying-kubernetes-the-essential-tool-for-cloud-native-applications-techrepublic/"><u>Demystifying Kubernetes: The Essential Tool for Cloud-Native Applications | TechRepublic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-strategies-to-resolve-sound-issues-in-your-laptop-a-step-by-step-approach/"><u>Effective Strategies to Resolve Sound Issues in Your Laptop: A Step-by-Step Approach</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/essential-steps-for-repairing-your-skype-mic-on-windows-11-systems/"><u>Essential Steps for Repairing Your Skype Mic on Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015852929-fix-your-oculus-rift-s-microphone-issues-in-minutes-top-solutions-of-2024/"><u>Fix Your Oculus Rift S Microphone Issues in Minutes: Top Solutions of 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-crackling-speaker-issue-on-your-pc-with-windows-10-or-7/"><u>How to Fix a Crackling Speaker Issue on Your PC with Windows 10 or 7</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-guide-removing-photo-backdrops/"><u>In 2024, Step-by-Step Guide Removing Photo Backdrops</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/lost-in-silence-a-step-by-step-strategy-for-reactivating-your-nvidia-hd-speakers/"><u>Lost in Silence: A Step-by-Step Strategy for Reactivating Your Nvidia HD Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-realtek-hd-audio-manager-startup-errors-expert-solutions-revealed/"><u>Overcoming Realtek HD Audio Manager Startup Errors: Expert Solutions Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-for-broken-headphone-connection-in-windows-10-operating-system/"><u>Quick Fix for Broken Headphone Connection in Windows 10 Operating System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-common-problems-with-your-logitech-g933-headset-mic-a-step-by-step-guide/"><u>Solving Common Problems with Your Logitech G933 Headset Mic: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-superb.techidaily.com/trasforma-i-tuoi-video-mxf-in-gif-con-lonline-free-service-di-movavi/"><u>Trasforma I Tuoi Video MXF in GIF Con L'Online Free Service Di Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-the-full-potential-of-craft-your-definitive-step-by-step-macos-document-tool-tutorial/"><u>Unlock the Full Potential of Craft - Your Definitive Step-by-Step macOS Document Tool Tutorial</u></a></li>
 </ul></div>
 

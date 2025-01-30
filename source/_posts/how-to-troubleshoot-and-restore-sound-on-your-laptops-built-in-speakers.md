@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot and Restore Sound on Your Laptop's Built-In Speakers
-date: 2025-01-19T21:18:24.276Z
-updated: 2025-01-22T20:45:23.572Z
+date: 2025-01-28T08:12:05.770Z
+updated: 2025-01-29T18:09:44.122Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes for speakers crackling
 
@@ -55,14 +51,22 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -93,21 +97,17 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Click the **High performance** option > **Change plan settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
@@ -137,17 +137,16 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-how-to-change-screenshot-file-formats-on-a-mac-for-2024/"><u>[New] How to Change Screenshot File Formats on a Mac for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-ultimate-handbook-to-effective-spotify-marketing/"><u>[Updated] In 2024, The Ultimate Handbook to Effective Spotify Marketing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/changer-facilement-un-fichier-webm-en-format-swf-gratuitement-sur-internet-via-loutil-de-conversion-movavi/"><u>Changer Facilement Un Fichier WebM en Format SWF Gratuitement Sur Internet via L'outil De Conversion Movavi</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/configuring-undetected-audio-outputs-on-your-pc-with-windows-10/"><u>Configuring Undetected Audio Outputs on Your PC with Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/configuring-your-audio-devices-when-the-speaker-type-is-undefined-on-windows-11/"><u>Configuring Your Audio Devices When the Speaker Type Is Undefined on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-tips-to-restore-functionality-of-broken-headset-microphones/"><u>DIY Tips to Restore Functionality of Broken Headset Microphones</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1724766863631-dvd-decrypter/"><u>DVD Decrypter 使用中に発生する書き込み障害:解決策とその詳細を学ぶ！</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-non-functioning-airpods-mic-on-a-windows-10-pc/"><u>Effective Fixes for Non-Functioning AirPods Mic on a Windows 10 PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-to-restore-in-game-voice-chat-in-dota-2-windows-version/"><u>Effective Fixes to Restore In-Game Voice Chat in Dota 2 Windows Version</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-google-by-drfone-android/"><u>In 2024, How to Bypass FRP from Google?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-8-undead-adventures-ultimate-zombie-game-guide/"><u>[New] 2024 Approved Top 8 Undead Adventures Ultimate Zombie Game Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-visual-magic-grading-through-hue-manipulation/"><u>[New] In 2024, Visual Magic Grading Through Hue Manipulation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/anticipating-apples-launch-the-future-of-ai-with-new-m4-processors-in-all-mac-models-release-timeline/"><u>Anticipating Apple's Launch: The Future of AI with New M4 Processors in All Mac Models - Release Timeline</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017057391-bluetooth-wont-play-sound-troubleshoot-steps-to-restore-audio-now/"><u>Bluetooth Won’t Play Sound? Troubleshoot Steps to Restore Audio Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-speaker-setup-unknown-on-windows-10/"><u>How to Fix Speaker Setup (Unknown) on Windows 10</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2022-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2022) With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-fix-for-audacity-sound-output-errors-top-5-solutions/"><u>Mastering the Fix for Audacity Sound Output Errors - Top 5 Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-verification-vexations-top-tips-to-turbo-charge-installation/"><u>Navigate Verification Vexations: Top Tips to Turbo-Charge Installation</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/perfecting-film-grading-a-deep-dive-into-cg-centrals-look-up-tables/"><u>Perfecting Film Grading A Deep Dive Into CG Central's Look-Up Tables</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-complete-2024-guide-solving-common-issues-with-jabra-wireless-headsets/"><u>The Complete 2024 Guide: Solving Common Issues with Jabra Wireless Headsets</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211219563-9781837992348-the-little-book-for-modern-witches/"><u>The Little Book for Modern Witches | Free Book</u></a></li>
 </ul></div>
 

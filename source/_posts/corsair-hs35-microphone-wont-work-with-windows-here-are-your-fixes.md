@@ -1,7 +1,7 @@
 ---
 title: Corsair HS35 Microphone Won't Work with Windows? Here Are Your Fixes!
-date: 2024-08-18T07:58:34.597Z
-updated: 2024-08-19T07:58:34.597Z
+date: 2025-01-26T07:46:41.643Z
+updated: 2025-01-30T00:53:48.560Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9b
 
 We’ve seen users reporting the microphone not working after they updated to Windows 11\. It’s a common issue, but not a hard one to fix. If you’re experiencing the same problem, you’ve come to the right place. In this article, we’ll show you how to troubleshoot this problem and get your microphone back to work.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all, just work your way down the list until you find the one that does the trick!
@@ -31,25 +35,28 @@ We’ve seen users reporting the microphone not working after they updated to Wi
  1\. If you’re using an**external microphone** , make sure it’s correctly connected to your PC.  
  2\. If you’re using a**headset mi** c, make sure it’s not set to mute on your headset.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Configure the input device
 
  The first fix you can try is to set up the input device, the microphone you’re using, correctly and adjust the recording volume. Here’s how to do it on Windows 11:
 
 1. Right-click the**speaker icon** on the taskbar, and click**Sound settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-06-12.png)
 2. In the input section,**set the microphone you’re using as the input device** . You can also turn the volume up to make sure the microphone can catch your voice clearly.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-05-53.png)
 
  If you experience the microphone issue only while using a certain app, for example, Zoom or Discord, you can adjust the settings in-app. Similar to the steps above, you need to find the audio setting, choose the right input device, and adjust the input volume if needed.
 
  You can check your microphone to see if it works now. If it doesn’t, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Allow apps to access your microphone
 
  Users report that even if they set up the correct input device in an app, the microphone still won’t work. The possible reason is that the app doesn’t have access to your microphone on a system level. To allow the related program on Windows 11, here’s how:
@@ -57,35 +64,31 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 1. Press the**Windows logo key** on your keyboard, or**click the magnifier icon on the taskbar** . Then, search for**Microphone privacy settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-08-20.png)
 2. **Turn on the Microphone access and Let apps access your microphone** options. You can scroll down and manage the microphone access to a specific app.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-08-01.png)
 
  After allowing apps to use your microphone, you can restart the problem app and test if the issue is solved now. If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Enable the microphone for recording
 
  Normally when you connect an external microphone, for example. a USB mic or your headset mic, to your computer, the device will be automatically recognized. But sometimes it just doesn’t, and you may need to manually enable the microphone for recording. Here’s how to do it on Windows 11:
 
 1. On the taskbar, right-click the**speaker icon** and select**Sound settings** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-06-12.png)
 2. Scroll down and click**More sound settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-13-21-2.png)
 3. Under the**Recording tab** , enable your microphone. If you can’t find it, right-click anywhere empty and select**Show Disabled devices** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-14-04.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If this fix doesn’t solve your problem, try the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Update the audio drivers
 
  If you’ve tried the above fixes and nothing worked, chances are you need to update your audio driver, or install the device driver for your microphone. A faulty or outdated audio driver may trigger random audio problems and compatibility issues with sound devices.
@@ -104,17 +107,15 @@ If this fix doesn’t solve your problem, try the next one.
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## Bonus tip: Repair corrupted system files
 
  Sometimes a system-wide issue where some system files are corrupted can affect the functioning of the microphone. It’s less common, and you can use the System File Checker tool (sfc /scannow) to look for any critical system corruption. However, manual repair is required most of the time.
@@ -142,8 +143,6 @@ If this fix doesn’t solve your problem, try the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +150,21 @@ If this fix doesn’t solve your problem, try the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/advanced-mastery-over-iphone-hdr-issues-with-4-best-practices-for-editors/"><u>[Advanced] Mastery Over iPhone HDR Issues with 4 Best Practices for Editors</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-the-artisans-realm-inside-youtubes-studio-space/"><u>[New] 2024 Approved The Artisan’s Realm Inside YouTube's Studio Space</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-ultimate-live-setting-picks-for-2024/"><u>[New] Ultimate Live Setting Picks for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-aurora-vs-standard-hd-is-the-premium-worth-it-in-2024/"><u>[Updated] Aurora vs Standard HD Is the Premium Worth It, In 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y36i-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/elevate-your-computers-speed-essential-strategies-for-enhancing-performance-by-cleanup-guided-by-yl-technologies/"><u>Elevate Your Computer's Speed: Essential Strategies for Enhancing Performance by Cleanup – Guided by YL Technologies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-mpow-mic-issues-in-windows/"><u>Fixing Your MPOW Mic Issues in Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fortnite-sound-troubles-heres-how-to-get-your-mic-working-perfectly-again/"><u>Fortnite Sound Troubles? Here's How to Get Your Mic Working Perfectly Again!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Lava Blaze Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015100018-restoring-soundscape-a-guide-for-resolving-audio-problems-in-windows/"><u>Restoring Soundscape: A Guide for Resolving Audio Problems in Windows.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-eliminating-unexpected-noise-from-new-system-enhancements/"><u>Step-by-Step Solution: Eliminating Unexpected Noise From New System Enhancements</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-fixing-no-sound-in-it-takes-two-during-pc-gaming-sessions/"><u>Troubleshooting Steps: Fixing 'No Sound in It Takes Two' During PC Gaming Sessions</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/unveiling-the-blade-e-flite-mcx2-a-masterclass-on-ready-to-fly-rc-helicopters-that-soar-above-the-rest/"><u>Unveiling the Blade E-Flite mCX^2: A Masterclass on Ready-To-Fly RC Helicopters That Soar Above The Rest</u></a></li>
+</ul></div>
 

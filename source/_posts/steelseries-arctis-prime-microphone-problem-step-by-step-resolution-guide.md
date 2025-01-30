@@ -1,7 +1,7 @@
 ---
 title: "SteelSeries Arctis Prime Microphone Problem: Step-by-Step Resolution Guide"
-date: 2024-08-13T10:46:56.502Z
-updated: 2024-08-14T10:46:56.502Z
+date: 2025-01-24T07:08:53.351Z
+updated: 2025-01-30T00:40:46.177Z
 tags:
   - win11
   - win10
@@ -15,16 +15,10 @@ thumbnail: https://thmb.techidaily.com/d35e798d7cf8d00e558373e4952ec0178aa0674db
 
 ## SteelSeries Arctis Prime Headset Mic Failure - Solutions at Hand
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/buyimg_arctis_prime_002.jpg__1850x800_q100_crop-scale_optimize_subsampling-2-1200x689.jpg)
 
  SteelSeries Arctis Prime gaming headset is the new release of the Arctis line. It features the Hi-Fi audio drivers from Arctis Pro, and provides decent sound quality at a reasonable price. But some users have been reporting their**mics aren’t working** . The good news is there are some known fixes available. Read on and find out what they are…
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down until you find the one that does the trick!
@@ -46,51 +40,56 @@ thumbnail: https://thmb.techidaily.com/d35e798d7cf8d00e558373e4952ec0178aa0674db
  So, if your PC has a single headset jack, simply plugging it in should connect your headset to your PC right away. If your PC has separate audio jacks, make sure you connect the cables correctly.
 
 **2: Unmute your mic.** On the left earcup of your Arctis Prime, there are two controls, one for muting/unmuting your pic, and one for volume control. You need to make sure your mic is unmuted by pressing the mic mute button and test your audio.  
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/feature_arctis_prime_d_controls-1.jpg__1920x700_q100_crop-scale_optimize_subsampling-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  3:**Bonus discounts** ![ SteelSeries Coupons](https://tools.techidaily.com/drivereasy/download/) are now available on DE coupon site. Don’t miss the deal and remember to grab your promo code before you make the purchase!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Set your headset as the input device
 
  If it’s your first time connecting your Arctis Prime to your PC, your PC may fail to recognize the headset as the input device. You can manually set up the input device on your PC as below:
 
 1. Next to your Start button, type**sound input** in the search bar, then click**Sound input device properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/search-sound-input.jpg)
 2. Choose your Arctis Prime headset as the input device.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/set-input-device.jpg)
 3. Test your microphone.
 
  If the input device on your PC has been set as your headset but your mic still doesn’t work, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Enable your mic for recording
 
  When your headset is connected to your PC, it doesn’t necessarily mean the recording feature of your mic is turned on. Here’s how to set up your Arctis Prime microphone for recording:
 
 1. Right-click the speaker icon on the right side of your taskbar, then click**Sounds** .  
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_16-48-56.jpg)
 2. Switch to the**Recording** tab and look for your headset. If you don’t see it, right-click an empty area then select**Show Disabled Devices** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_16-57-37.jpg)
 3. Right-click your headset device, then click**Enable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-05-17.jpg)
 4. Click**Apply** then**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-06-58.jpg)
 
  If your headset mic is enabled for recording but it still won’t pick up your voice in-game, move on to the next fix.
@@ -111,10 +110,11 @@ thumbnail: https://thmb.techidaily.com/d35e798d7cf8d00e558373e4952ec0178aa0674db
 3. Click the **Update**  button next to the flagged audio driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-54-43.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -127,6 +127,10 @@ thumbnail: https://thmb.techidaily.com/d35e798d7cf8d00e558373e4952ec0178aa0674db
 2. Click**Change** , then**turn on the microphone access** **for this device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-10-26.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If your Arctis Prime microphone is still not working, try the last fix.
 
 ## Fix 5: Install the latest SteelSeries Engine software
@@ -138,9 +142,6 @@ If your Arctis Prime microphone is still not working, try the last fix.
 2. Run the SteelSeries installer, and follow the on-screen instructions to finish the installation.
 3. Once SteelSeries Engine is installed on your PC, run the software and it’ll automatically detect your Arctis Prime headset.
 4. Go to the headset page, and you can test your microphone using the**LIVE MIC PREVIEW** feature. You can also**adjust your mic volume** below.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/mic-live-preview.jpg)
 
 ---
@@ -157,8 +158,6 @@ If your Arctis Prime microphone is still not working, try the last fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +165,20 @@ If your Arctis Prime microphone is still not working, try the last fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-engaging-audiences-how-tos-for-effective-youtube-logo-creation/"><u>[Updated] 2024 Approved Engaging Audiences How-To's for Effective YouTube Logo Creation</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-essential-tips-for-iphone-users-podcasting-guide-for-2024/"><u>[Updated] Essential Tips for iPhone Users - Podcasting Guide for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-navigate-nature-androids-animated-adventure-series/"><u>[Updated] In 2024, Navigate Nature Android’s Animated Adventure Series</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-secrets-for-transcribing-twitter-videos-into-mp3-format-for-2024/"><u>[Updated] Secrets for Transcribing Twitter Videos Into MP3 Format for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-samsung-galaxy-a54-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Samsung Galaxy A54 5G</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-stop-windows-pertinent-sound-glitches-and-interruptions-solution/"><u>How to Stop Windows Pertinent Sound Glitches and Interruptions [Solution]</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Realme 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-basics-of-electronic-story-craftsmanship/"><u>In 2024, The Basics of Electronic Story Craftsmanship</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-quiet-pcs-how-to-restore-sound-after-windows-11-update/"><u>No More Quiet PCs: How to Restore Sound After Windows 11 Update</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-common-issues-with-your-astro-a20-microphone/"><u>Overcoming Common Issues with Your Astro A20 Microphone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/prime-day-alert-save-big-with-a-whopping-460-discount-on-the-microsoft-surface-pro-hu-ztechnews/"><u>Prime Day Alert: Save Big with a Whopping $460 Discount on the Microsoft Surface Pro ˈHu| ZTechNews</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-for-no-audio-in-windows-media-player-step-by-step-instructions/"><u>Solution for No Audio in Windows Media Player: Step-by-Step Instructions</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Reactivate Your Computer's Audio: Quick and Effective Methods"
-date: 2024-08-13T10:46:44.071Z
-updated: 2024-08-14T10:46:44.071Z
+date: 2025-01-25T08:04:55.099Z
+updated: 2025-01-30T08:34:34.330Z
 tags:
   - win11
   - win10
@@ -28,8 +28,9 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 3. [Roll back your audio driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Update your audio driver
 
  It’s likely your audio driver becomes incompatible after upgrading Windows system, so it’s recommended to update your audio driver to fix the no sound issue.
@@ -54,6 +55,10 @@ Check if there’s any sound in your computer.
 
  If the problem still persists, don’t worry. We have other solutions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Check audio settings
 
  The improper audio settings can also result in the no sound issue in your computer, so you should configure the audio settings properly.
@@ -63,23 +68,23 @@ To do so:
 1. Right click on the**Volume icon** at the bottom right corner, and click**Sounds** (or**Playback devices** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 2. In the**Sound** pane, click the**Playback** tab.  
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7201dbcc98.jpg)
 3. Select your speaker audio device, and click**Set Default** to set it as your default device.  
  If your device has been the default device, you’ll see a green check mark next to your device.  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72066a032c.jpg)
 4. Restart your computer, and plug a headphone to see if there’s any sound.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Still no luck? Okay, there’s one more thing to try.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Roll back your audio driver
 
  Another effective method to resolve the no sound issue is to roll back your audio driver. To do so:
@@ -88,14 +93,13 @@ Still no luck? Okay, there’s one more thing to try.
 2. Type**devmgmt.msc** and click**OK** to open Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721431cb33.jpg)
 3. Double click**Sound, video and game controllers** to expand it.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72165a0e6f.jpg)
 4. Double click on your**audio device** to open the properties pane.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7218e14fa5.jpg)
 5. Click the**Driver** tab, and click**Roll Back Driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721ba8a50e.jpg)
@@ -117,8 +121,6 @@ Feel free to leave a comment below if you have any questions.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +128,18 @@ Feel free to leave a comment below if you have any questions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-hdr-review-luminances-creation-capability/"><u>[New] In 2024, HDR Review Luminance's Creation Capability</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-the-art-of-igtv-on-instagram-stories/"><u>[Updated] 2024 Approved Mastering the Art of IGTV on Instagram Stories</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-decoding-the-new-era-of-video-editing-with-vivacut/"><u>2024 Approved Decoding the New Era of Video Editing with VivaCut</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fixing-connectivity-troubleshooting-the-ralink-rt3290-wifi-drivers-on-windows-10-8-and-7/"><u>Fixing Connectivity: Troubleshooting the Ralink RT3290 WiFi Drivers on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-install-idt-hd-audio-codec-on-windows-11-a-complete-guide/"><u>How to Install IDT HD Audio Codec on Windows 11: A Complete Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-inside-look-expert-techniques-with-vlc-playback/"><u>In 2024, Inside Look Expert Techniques with VLC Playback</u></a></li>
+<li><a href="https://discover-data.techidaily.com/incorporating-your-company-emblem-into-flipbook-content-created-via-flipbuilder/"><u>Incorporating Your Company Emblem Into FlipBook Content Created via FlipBuilder</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016657907-logitech-g733-mic-failure-heres-how-you-can-fix-it/"><u>Logitech G733 Mic Failure? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-troubleshooting-mic-issues-on-skype-with-windows-10/"><u>Resolved: Troubleshooting Mic Issues on Skype with Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-lack-of-audio-on-your-laptop-effective-solutions/"><u>Troubleshooting Complete Lack of Audio on Your Laptop – Effective Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-unknown-speaker-configurations-in-windows-11/"><u>Troubleshooting Unknown Speaker Configurations in Windows 11</u></a></li>
+</ul></div>
 

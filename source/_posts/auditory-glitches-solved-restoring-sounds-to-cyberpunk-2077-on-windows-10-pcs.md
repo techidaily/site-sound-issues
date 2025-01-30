@@ -1,7 +1,7 @@
 ---
 title: "Auditory Glitches Solved: Restoring Sounds to Cyberpunk 2077 on Windows 10 PCs"
-date: 2024-08-13T10:46:33.223Z
-updated: 2024-08-14T10:46:33.223Z
+date: 2025-01-28T02:58:18.099Z
+updated: 2025-01-29T21:56:22.556Z
 tags:
   - win11
   - win10
@@ -58,8 +58,9 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
  5) See if your sound is back. If you still cannot get your sound back, choose Cancel here, and then repeat 2) and 3) with your other default device and have a try again.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3: Update sound driver
 
  If no good signs are shown after the first two methods, it’s likely that you’re using the wrong driver altogether.
@@ -76,19 +77,16 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596440101ae68.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the audio device to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5964407a532ed.jpg)
 
 ## 4: Uninstall driver from Device Manager  
@@ -97,17 +95,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  1) On your keyboard, press the **Windows key** and**X** at the same time, then click**Device Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586b799d15ed0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Expand **Sound, video and game controllers** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881bdc6126ad.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right-click your sound card driver, then click**Uninstall** .
 
@@ -117,22 +117,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c05dde5db.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) When the uninstall completes, restart your computer.
 
 Windows will then help you reinstall the driver.
 
  And if this still don’t work, please try the next step where we try using the generic audio driver that comes with Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5: Try generic audio driver provided by Windows 10
 
  1) On your keyboard, press**Windows key** and**X** at the same time, then click**Device Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586b799d15ed0.png)
 
 2) Expand**Sound, video and game controllers** .
@@ -145,32 +143,35 @@ Windows will then help you reinstall the driver.
 
  4) Click **Browse my computer for driver software** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c1cb5f81b.png)
 
  5) Click **Let me pick from a list of device drivers on my computer** .
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c2564577d.png)
 
  6) Click**High Definition Audio Device** , and**Next.**  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c28f9c29e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click**Yes** at this prompt and continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c43152df5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Now you should be able to see that the driver you are having now is the generic audio driver provided by Windows 10\. The name of which is**High Definition Audio Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c48369340.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Check if your sound is back.
 
@@ -184,8 +185,6 @@ Check if your sound is back.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +192,19 @@ Check if your sound is back.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-deciphering-authenticity-in-your-facebook-brand-community/"><u>[New] 2024 Approved Deciphering Authenticity in Your Facebook Brand Community</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-top-7-essential-metaverse-tech-for-your-arsenal/"><u>[Updated] In 2024, Top 7 Essential Metaverse Tech for Your Arsenal</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-techniques-for-high-quality-rl-footage-for-2024/"><u>[Updated] Techniques for High-Quality RL Footage for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-audio-problems-on-a-windows-7-machine/"><u>Diagnosing and Fixing Audio Problems on a Windows 7 Machine</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719580633810-dive-into-dialect-diversity-get-a-staggering-95-off-languages-this-year/"><u>Dive Into Dialect Diversity - Get a Staggering 95% Off Languages This Year!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-league-of-legends-voice-chat-back-on-track-a-guide/"><u>Get Your League of Legends Voice Chat Back On Track: A Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-the-no-speaker-or-headphone-connected-problem-on-windows-10-8-and-7/"><u>How to Resolve the 'No Speaker or Headphone Connected' Problem on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-the-future-of-editing-shines-with-magix-video-pro-x/"><u>In 2024, The Future of Editing Shines with Magix Video Pro X</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-final-cut-pro-time-lapse-tutorial-create-stunning-videos-in-minutes/"><u>New In 2024, Final Cut Pro Time Lapse Tutorial Create Stunning Videos in Minutes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/say-goodbye-to-crackles-and-clipping-eliminating-audio-problems-on-your-pc-with-windows-11-or-7/"><u>Say Goodbye to Crackles & Clipping: Eliminating Audio Problems on Your PC with Windows 11 or 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-sync-issues-the-latest-techniques-for-fixing-audio-latency/"><u>Solving Your Sync Issues: The Latest Techniques for Fixing Audio Latency</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/top-tier-durable-tablet-a-windows-device-that-enhances-productivity-with-built-in-stylus-insights-from-a-zdnet-review/"><u>Top-Tier Durable Tablet: A Windows Device That Enhances Productivity with Built-In Stylus - Insights From a ZDNet Review</u></a></li>
+</ul></div>
 

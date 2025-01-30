@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue of Sound Skipping and Failing in Windows 11: A Step-by-Step Guide"
-date: 2024-08-13T10:49:29.389Z
-updated: 2024-08-14T10:49:29.389Z
+date: 2025-01-28T00:44:43.760Z
+updated: 2025-01-29T19:57:05.302Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/2fd2af990894cf11cb2087adc0179e8a43be6adf1
 4. **[Modify Windows sound settings](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Fix 1: Troubleshoot the connection
 
  First things first. Before trying anything more complicated, you need to do some basic troubleshooting steps:
@@ -43,13 +40,18 @@ thumbnail: https://thmb.techidaily.com/2fd2af990894cf11cb2087adc0179e8a43be6adf1
  If you’re pretty sure that everything is OK, but there’s still no sound in the game, don’t worry. Let’s move on to the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Update your audio driver
 
  If the audio driver on your PC is missing, corrupted or outdated, it may cause the no sound issue in It Takes Two. If you haven’t updated your audio driver for a long time, you should update the audio driver.
 
  There are two ways to update your audio driver: **[manually](https://tools.techidaily.com/drivereasy/download/)**  and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Download and install the audio driver manually
 
@@ -63,15 +65,14 @@ thumbnail: https://thmb.techidaily.com/2fd2af990894cf11cb2087adc0179e8a43be6adf1
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![scan now](https://images.drivereasy.com/wp-content/uploads/2021/04/scannow.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
- (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![update audio driver with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/3-2-1.jpg)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
@@ -81,35 +82,22 @@ thumbnail: https://thmb.techidaily.com/2fd2af990894cf11cb2087adc0179e8a43be6adf1
 
  If the latest audio driver doesn’t give you luck, just try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Fix 3: Run the Windows audio troubleshooter
 
  The built-in Windows audio troubleshooter is a useful tool that can help you resolve audio-related issues. To run Windows audio troubleshooter, just follow the steps below:
 
 1. On your keyboard, press**the Windows logo key** and type**troubleshoot audio** . From the list of search results, select**Find and fix problems with playing sound** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Run Windows audio troubleshooter](https://images.drivereasy.com/wp-content/uploads/2021/04/Run-Windows-audio-troubleshooter.jpg)
 2. Click**Next** to run the troubleshooter.  
 ![Run Windows audio troubleshooter 1](https://images.drivereasy.com/wp-content/uploads/2021/04/Run-Windows-audio-troubleshooter-1.jpg)
 3. Wait for it to detect problems. This usually takes only a few seconds.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![Run Windows audio troubleshooter 2](https://images.drivereasy.com/wp-content/uploads/2021/04/Run-Windows-audio-troubleshooter-2.jpg)
 4. Select the audio device you’re using, then click **Next** .  
+
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Run Windows audio troubleshooter 3](https://images.drivereasy.com/wp-content/uploads/2021/04/Run-Windows-audio-troubleshooter-3.jpg)
 5. If the troubleshooter suggests that you turn off the audio enhancements for better sound quality. Click **Yes, Open Audio Enhancements** if you wish to do so. If you click no, it will skip to the scan results.  
 ![Run Windows audio troubleshooter 4](https://images.drivereasy.com/wp-content/uploads/2021/04/Run-Windows-audio-troubleshooter-4.jpg)
@@ -118,8 +106,9 @@ thumbnail: https://thmb.techidaily.com/2fd2af990894cf11cb2087adc0179e8a43be6adf1
  Launch It Takes Two to see if this fix works. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Modify Windows sound settings
 
  The incorrect audio settings on your computer may also trigger the no sound issues. You can follow the instructions below to check your audio settings:
@@ -127,15 +116,27 @@ thumbnail: https://thmb.techidaily.com/2fd2af990894cf11cb2087adc0179e8a43be6adf1
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the**Run** dialog. Type`**control mmsys.cpl sounds**` and press**Enter** to open**Windows sound settings** .  
 ![control mmsys.cpl sounds](https://images.drivereasy.com/wp-content/uploads/2021/04/control-mmsys.cpl-sounds-1.jpg)
 2. **Right-click** anywhere under the**Playback** tab of the Sound window, and make sure you select **Show Disabled Devices** and **Show Disconnected Devices** options.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows sound settings playback](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-sound-settings-playback.jpg)
 3. If your audio device is disabled, **right-click** on it and select **Enable** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Enable audio device](https://images.drivereasy.com/wp-content/uploads/2021/04/Enable-audio-device.jpg)
 4. Select the speaker / headset you’re using and click **Set Default** .  
 ![set default audio device](https://images.drivereasy.com/wp-content/uploads/2021/04/set-default-audio-device.jpg)
 5. Click **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Launch It Takes Two.
 7. On your desktop, **right-click** **the speaker icon** on the lower-right corner, and then select **Open Volume Mixer** .  
 ![Open volume mixer](https://images.drivereasy.com/wp-content/uploads/2021/04/Open-volume-mixer.jpg)
@@ -144,9 +145,6 @@ thumbnail: https://thmb.techidaily.com/2fd2af990894cf11cb2087adc0179e8a43be6adf1
 
  Now see if the in-game audio works as expected. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Verify the integrity of game files
 
  Corrupted audio files of the game may lead to ITW no sound issue. If it’s the case, you need to verify the game files and repair the game. Here’s how to do it:
@@ -173,8 +171,6 @@ thumbnail: https://thmb.techidaily.com/2fd2af990894cf11cb2087adc0179e8a43be6adf1
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +178,22 @@ thumbnail: https://thmb.techidaily.com/2fd2af990894cf11cb2087adc0179e8a43be6adf1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-an-insiders-guide-to-screen-recording-on-macs/"><u>[New] 2024 Approved An Insider's Guide to Screen Recording on Macs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-igniting-online-trends-crafting-viral-facebook-posts/"><u>[Updated] 2024 Approved Igniting Online Trends Crafting Viral Facebook Posts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decode-the-steady-freeze-top-9-fixes-for-windows-update-stall/"><u>Decode the Steady Freeze: Top 9 Fixes for Windows Update Stall</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-fixing-an-unresponsive-headphone-socket-on-your-pc/"><u>Expert Tips for Fixing an Unresponsive Headphone Socket on Your PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-dolby-atmos-issue-troubleshooting-failed-launch-of-dolby-drivers-on-windows-11/"><u>Fixing Dolby Atmos Issue: Troubleshooting Failed Launch of Dolby Drivers on Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-novices-to-pros-the-journey-of-learning-magix-maker-for-2024/"><u>From Novices to Pros The Journey of Learning Magix Maker for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-restoring-bluetooth-functionality-on-your-windows-11-pc/"><u>Guide: Restoring Bluetooth Functionality on Your Windows 11 PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-wipe-iphone-se-data-permanently-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Wipe iPhone SE Data Permanently? | Stellar</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-apple-iphone-7-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing Apple iPhone 7 Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/is-paying-for-chatgpt-plus-advantageous-over-the-basic-version-a-zdnet-examination/"><u>Is Paying for ChatGPT Plus Advantageous Over the Basic Version? A ZDNet Examination</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/quiet-chaos-dive-into-idle-realms/"><u>Quiet Chaos: Dive Into Idle Realms</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-problems-when-lucidsound-ls30-mic-fails-to-work-properly/"><u>Resolving Problems When LucidSound LS30 Mic Fails to Work Properly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-the-problem-when-modern-warfare-chat-feature-stops-working/"><u>Resolving the Problem When Modern Warfare Chat Feature Stops Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-solution-for-persistent-discord-audio-glitches/"><u>The Definitive Solution for Persistent Discord Audio Glitches</u></a></li>
+</ul></div>
 

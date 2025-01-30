@@ -1,7 +1,7 @@
 ---
 title: "Realtek Digital DAC: Overcoming the Silent Problem with Effective Fixes"
-date: 2024-08-13T10:46:21.013Z
-updated: 2024-08-14T10:46:21.013Z
+date: 2025-01-29T02:29:20.730Z
+updated: 2025-01-30T02:37:24.424Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/f29f99d4419c1c54f223ae0fe4e25f224aa2e0b29
 
 Having trouble with push-to-talk during gameplay? You’re not alone! Many Overwatch players are reporting it, but the good news is that you can fix it. Here is a list of fixes that have proved useful to many users.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Table of contents
 
 * [Fix 1: Restart your computer](https://tools.techidaily.com/drivereasy/download/)
@@ -50,10 +47,11 @@ If you’re not sure how to do it, follow the instructions below:
 
  2) Right-click Discord then select **End Task** . (Ensure you right-click on the main Discord link, not the subdirectory entries)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/close-discord.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right-click the Discord icon on your desktop, then select **Properties** .
 
@@ -61,10 +59,11 @@ If you’re not sure how to do it, follow the instructions below:
 
  4) Under the **Compatibility**  tab, check the box next to **Run this program as an administrator** , then click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Discord-admin-access.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Relaunch Discord.
 
@@ -98,14 +97,15 @@ If your issue persists, try the next fix.
 
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-281.png)
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Install the latest Overwatch patch
 
@@ -121,9 +121,6 @@ To check if there is any update, follow the instructions below:
 
  If a patch is available, install it, then run your game again to check whether your problem has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Check your in-game settings
 
  Improper audio settings can also trigger this issue. To see if that’s the problem for you, verify your in-game push-to-talk settings. Follow the instructions below:
@@ -132,18 +129,19 @@ To check if there is any update, follow the instructions below:
 
 **2)** Go to**Options** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-407.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the**Sound tab** , and verify that**TEAM VOICE CHAT** , and**GROUP VOICE CHAT** are set to**AUTO JOIN.**
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-400-1024x559.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Make sure the VOICE CHAT MODE is set to**PUSH TO TALK** , then select the correct VOCIE CHAT DEVICES.
 
@@ -151,10 +149,11 @@ To check if there is any update, follow the instructions below:
 
 **5)** Click the**CONTROLS** tab. Under**CHAT AND VOICE** , click the button next to**VOICE CHAT: PUSH TO TALK** and change your push-to-talk key to a different one.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-416-1024x402.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Restart your game to test your issue.
 
@@ -173,8 +172,6 @@ To check if there is any update, follow the instructions below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +179,17 @@ To check if there is any update, follow the instructions below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-directsnaprecorder-straightforward-windows-11-capture-for-2024/"><u>[New] DirectSnapRecorder Straightforward Windows 11 Capture for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015249753-logitech-g2n30-headset-mic-problems-quick-solutions-that-actually-work/"><u>Logitech G2n30 Headset Mic Problems: Quick Solutions That Actually Work</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-explainer-video-creation-made-easy-top-picks/"><u>New In 2024, Explainer Video Creation Made Easy Top Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/power-uninstaller-forcibly-remove-printers-in-windows-11/"><u>Power Uninstaller: Forcibly Remove Printers in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-clicks-no-more-easy-remedies-for-fixing-logitech-g933s-sound-issues/"><u>Silent Clicks No More - Easy Remedies for Fixing Logitech G933's Sound Issues</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-fundamentals-of-successful-instagram-video-promotion-planning-for-2024/"><u>The Fundamentals of Successful Instagram Video Promotion Planning for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-issues-with-valorants-voice-communication/"><u>Troubleshooting Tips: Resolving Issues with Valorant's Voice Communication</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-enhancing-privacy-on-your-android-device/"><u>Ultimate Guide to Enhancing Privacy on Your Android Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-tricks-to-raise-the-decibels-optimizing-windows-10-soundsystem/"><u>Ultimate Tricks to Raise the Decibels: Optimizing Window's 10 Soundsystem</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips - How to Restore Destiny 2'S Voice Chat Functionality
-date: 2024-08-13T10:48:33.366Z
-updated: 2024-08-14T10:48:33.366Z
+date: 2025-01-26T16:18:43.631Z
+updated: 2025-01-29T21:48:37.810Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ As a direct follow-up to Cloud II, HyperX Cloud Alpha adds a whole bunch of new 
 
  Since HyperX Cloud Alpha comes with a detachable microphone, so it’s important to firmly insert the detachable cable plug to ensure full connectivity (you really need to push it into the headset). Also, make sure not to mute the Mic, and increase the volume to the max level. This is the final fix for many users.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/hx-keyfeatures-headset-alpha-4-lg-1200x356.jpg)
 
  If you’re using HyperX Cloud Alpha on Xbox One, you’ll need an adapter. Make sure the Mute button is not active, and use the buttons on the adapter to adjust the sound and microphone volume. Then go to**Settings** , and go to**Audio** to make sure the microphone is on. (The Cloud Alpha S is only compatible with PC and PS4.)
@@ -43,21 +40,19 @@ As a direct follow-up to Cloud II, HyperX Cloud Alpha adds a whole bunch of new 
  If you run into hardware issues, you can always use Windows inbuilt troubleshooter. This will help you fix minor problems.
 
 1. Right-click the Speaker button on the bottom right side, and choose**Open Sound Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Open-sound-settings.jpg)
 2. Under**Input** , choose the right input device (HyperX Cloud Alpha) and click**Troubleshoot** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/input.jpg)
 3. Follow the on-screen instructions and wait till this gets finished.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Allow access to the microphone
 
@@ -65,16 +60,20 @@ As a direct follow-up to Cloud II, HyperX Cloud Alpha adds a whole bunch of new 
 
 1. On your keyboard, press the **Windows** logo key to invoke the Search box and type **microphone** .
 2. Select **Microphone Privacy Settings** from the results list.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/microphone-setup.jpg)
 3. Under the **Allow Apps To Access Your Microphone** tab, ensure that the toggle is in the **On**  position so that other apps can use your microphone.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/on.jpg)
 4. Scroll down to choose which app can access your microphone, and make sure that you have it set for all the apps you want.  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![choose apps to allow](https://images.drivereasy.com/wp-content/uploads/2020/12/allow-apps-microphone.jpg)
 5. Now check if your mic is working for the app you’re using.
 
@@ -90,42 +89,39 @@ As a direct follow-up to Cloud II, HyperX Cloud Alpha adds a whole bunch of new 
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged sound card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/audio-drivers.jpg)
 4. Restart your computer for the changes to take full effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Change your microphone settings
 
  Normally, Windows can automatically detect your microphone and set it as the default input device once your headphone is plugged into. But sometimes you’ll need to set it as the default device manually:
 
 1. Right-click on the sound icon in the lower-right corner of your desktop, and select **Sounds** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/sounds.jpg)
 2. Go to the **Recording** tab, and make sure your **Headset Microphone** is set as the default device. If not, select your headphone and click **Set Default** .  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set as default microphone](https://images.drivereasy.com/wp-content/uploads/2020/12/default.png)
 3. Also, make sure it displays your headphone name correctly and shows strong signals. If your headphone is shown as something else, there’s something wrong with your mic settings, so you should re-connect your headset.  
 ![mic not working wrong settings](https://images.drivereasy.com/wp-content/uploads/2020/12/no-connection.png)
 4. If the display name and signal is normal, right-click **Headset Microphone** and click **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/image.jpg)
 5. Click the **Levels** tab, then drag the volume slider towards the largest value (100).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/levels.jpg)
@@ -148,8 +144,6 @@ As a direct follow-up to Cloud II, HyperX Cloud Alpha adds a whole bunch of new 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +151,21 @@ As a direct follow-up to Cloud II, HyperX Cloud Alpha adds a whole bunch of new 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-ultimate-kid-friendly-driving-delights/"><u>[New] In 2024, Ultimate Kid-Friendly Driving Delights</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-disentangling-fisheye-photos-from-gopro-footage/"><u>[Updated] In 2024, Disentangling Fisheye Photos From GoPro Footage</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unlock-facebook-slide-in-content-access/"><u>[Updated] In 2024, Unlock Facebook Slide-In Content Access</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfecting-audio-records-with-our-step-by-step-guide/"><u>[Updated] Perfecting Audio Records with Our Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-quick-route-to-your-latest-fb-video-viewings/"><u>2024 Approved Quick Route to Your Latest FB Video Viewings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-image-transformation-with-3d-lut-in-photoshop/"><u>2024 Approved The Art of Image Transformation with 3D LUT in Photoshop</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/best-available-avi-player-with-cross-platform-support/"><u>Best Available Avi Player with Cross-Platform Support</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-issues-and-remedies-reviving-your-dead-headset-microphone/"><u>Common Issues & Remedies: Reviving Your Dead Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-anthems-game-sounds-working-again-on-your-new-windows-11-pc/"><u>Get Anthem's Game Sounds Working Again on Your New Windows 11 PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-valorant-voice-chat-not-working/"><u>How to Fix Valorant Voice Chat Not Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-logitech-g933-malfunctions-a-step-by-step-fix-for-a-broken-mic/"><u>Overcoming Logitech G933 Malfunctions: A Step-by-Step Fix for a Broken Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solutions-for-logitech-g733-microphone-malfunction-problems/"><u>Solutions for 'Logitech G733' Microphone Malfunction Problems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-downloading-content-from-tokyvideo/"><u>Step-by-Step Guide: Downloading Content From TokyVideo</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/your-quick-reference-to-using-windows-11s-movie-maker-for-2024/"><u>Your Quick Reference to Using Windows 11'S Movie Maker for 2024</u></a></li>
+</ul></div>
 

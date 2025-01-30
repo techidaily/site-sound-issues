@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Eliminate Pops and Noise From Your Computer's Speakers (Windows)
-date: 2025-01-17T17:49:15.586Z
-updated: 2025-01-22T17:34:20.581Z
+date: 2025-01-24T06:35:07.653Z
+updated: 2025-01-30T04:41:04.363Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix HP Laptop Sound Not Working
@@ -72,17 +72,21 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Check your audio device in the**Playback** tab. Make sure there’s a**green check** next to your audio device, and that shows that your audio device is the**default** playback device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b59d5056.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) If your audio device is not the default device, click**Set Default** . Then click**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a446177e761d.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Test the sound on your laptop so see whether there is any sound.
 
@@ -94,17 +98,9 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Select your audio device in the**Playback** tab, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962c8cd39cb.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Advanced** . In Default Format, choose another different audio rate, then click the**Test** button. Then play a music or audio to test.
 
@@ -122,17 +118,21 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb470694a1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Make sure there’s**NOT** a down arrow displayed next to the volume icon in your sound device, like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb4e9bbee3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If a**down arrow** displays on the volume icon, the sound device is disabled. Right click the device name, and select**Enable** **device** to enable your sound device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb53fb8555.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Try the sound to see if it works.
 
@@ -154,15 +154,15 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to a flagged audio driver to automatically download and install the correct audio driver (You can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install all the latest correct drivers that is missing or outdated (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer and check whether your problem is solved.
 
@@ -176,17 +176,21 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962e2ade37c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click your sound device and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ec385bd3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4)**Confirm** the uninstallation. Check the box next to**Delete the driver software for this device** if there’s an option like this, then confirm the uninstall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ef431c66.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Restart your computer and Windows will automatically download and install the sound driver for your device. After that, check the sound to see if it works.
 
@@ -209,10 +213,6 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
  2) Open Fortect. It will run a free scan of your PC and give you **a detailed report of your PC status** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
@@ -240,24 +240,19 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/upercharge-your-content-editing-and-enhancing-youtube-tags-for-2024/"><u>[New] Supercharge Your Content Editing and Enhancing YouTube Tags for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-achieving-visual-excellence-aspect-ratio-mastery-on-youtube/"><u>[Updated] In 2024, Achieving Visual Excellence ASPECT RATIO Mastery on YOUTUBE</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-epson-perfection-v500-scanner-driver-download-now/"><u>Get Your Epson Perfection V500 Scanner Driver - Download Now!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-12-mini-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your iPhone 12 mini</u></a></li>
-<li><a href="https://windows11.techidaily.com/overhauling-the-standard-windows-11-launch-page/"><u>Overhauling the Standard Windows 11 Launch Page</u></a></li>
-<li><a href="https://fox-making.techidaily.com/1728468593991-samsungbitlocker/"><u>Samsungデータ転送後解決：BitLockerバックアップ失敗のトラブルシューティング</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-astro-a10-microphone-malfunctions-expert-tips/"><u>Step-by-Step Fixes for Astro A10 Microphone Malfunctions - Expert Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-restoring-sound-from-laptop-headset-jack-issues-solved/"><u>Step-by-Step Guide to Restoring Sound From Laptop Headset Jack [ISSUES SOLVED]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-repairing-a-nonfunctional-sennheiser-gameone-mic/"><u>Step-by-Step Guide: Repairing a Nonfunctional Sennheiser GameOne Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-restoration-repair-techniques-for-unresponsive-btws-mic-systems/"><u>Step-by-Step Restoration: Repair Techniques for Unresponsive BTWS Mic Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-clearing-up-sound-disruption-problems-on-windows-pcs/"><u>Step-by-Step Solutions for Clearing Up Sound Disruption Problems on Windows PCs</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/step-by-step-tutorial-download-youtube-videos-in-pieces-for-2024/"><u>Step-by-Step Tutorial Download YouTube Videos in Pieces for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-realme-c67-4g-by-fonelab-android-recover-music/"><u>The way to get back lost music from Realme C67 4G</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-razer-kraken-solutions-for-when-your-mic-wont-work-anymore/"><u>Trouble with Razer Kraken? Solutions for When Your Mic Won't Work Anymore</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubled-by-an-inactive-nvidia-gpu-here-are-some-quick-fixes-to-try/"><u>Troubled by an Inactive Nvidia GPU? Here Are Some Quick Fixes to Try</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-a-non-functional-headphone-port-on-your-laptop/"><u>Troubleshooting & Fixing a Non-Functional Headphone Port on Your Laptop</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-airpods-microphone-issues-on-windows-11/"><u>Troubleshooting AirPods Microphone Issues on Windows 11</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-best-free-avi-video-joiners-top-10-picks-for-seamless-merging-for-2024/"><u>Updated Best Free AVI Video Joiners Top 10 Picks for Seamless Merging for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-master-digital-design-integrating-text-with-visuals-for-improved-clarity/"><u>[New] Master Digital Design Integrating Text with Visuals for Improved Clarity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/battlefield-4-sound-issues-find-relief-in-our-detailed-fixes/"><u>Battlefield 4 Sound Issues? Find Relief in Our Detailed Fixes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-gopro-video-processing-apps-for-2024/"><u>Best GoPro Video Processing Apps for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diagnose-and-repair-dealing-with-rockalldlldll-not-found-system-issues/"><u>Diagnose and Repair: Dealing with Rockalldll.dll Not Found System Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-to-fix-failed-to-play-test-tone-error/"><u>Easy to Fix “Failed to Play Test Tone” Error</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-when-your-hyperx-cloud-headset-mic-fails-to-work-properly/"><u>Effective Solutions When Your HyperX Cloud Headset Mic Fails to Work Properly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fast-track-fixes-for-audio-playback-error-test-tones-not-working/"><u>Fast-Track Fixes for 'Audio Playback Error: Test Tones Not Working'</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-pro-max-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Pro Max without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-photo-enhancement-with-complete-guide-to-facetune/"><u>In 2024, Mastering Photo Enhancement with Complete Guide to Facetune</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-audio-timing-troubleshooting-delays-for-optimal-listening-experience-2erky/"><u>Mastering Audio Timing: Troubleshooting Delays for Optimal Listening Experience, 2Erky</u></a></li>
+<li><a href="https://fox-http.techidaily.com/ps5xbox-series-x-top-gaming-tvs-unveiled-for-2024/"><u>PS5/Xbox Series X Top Gaming TVs Unveiled for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/stepwise-blend-integrating-obs-and-zoom-for-2024/"><u>Stepwise Blend Integrating OBS and Zoom for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95703156-9781507204313-the-supernatural-guide-to-the-other-side/"><u>The Supernatural Guide to the Other Side | Free Book</u></a></li>
+<li><a href="https://fox-within.techidaily.com/ultimate-guide-removing-text-overlays-from-your-snaps-on-snapchat/"><u>Ultimate Guide: Removing Text Overlays From Your Snaps on Snapchat</u></a></li>
 </ul></div>
 

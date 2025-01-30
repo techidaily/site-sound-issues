@@ -1,7 +1,7 @@
 ---
 title: Silent Clicks No More - Easy Remedies for Fixing Logitech G933's Sound Issues
-date: 2024-08-18T07:58:22.679Z
-updated: 2024-08-19T07:58:22.679Z
+date: 2025-01-26T08:40:38.383Z
+updated: 2025-01-30T07:11:31.531Z
 tags:
   - win11
   - win10
@@ -15,12 +15,13 @@ thumbnail: https://thmb.techidaily.com/af956098d5b96a801357a76a13d56b662de68774c
 
 ## Expert Advice for Troubleshooting No-Sound Issues in HP Laptops - Fixed
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000230.png)
 
  **If you’re playing a song on your HP laptop but you don’t hear anything,** Don’t worry, although it’s very frustrating, you’re definitely not the only person to experience the no sound issue. Many other HP laptop users have reported the very same problem. More importantly, you can resolve this issue pretty easily on your own after reading this article!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Try these fixes**
 
@@ -34,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/af956098d5b96a801357a76a13d56b662de68774c
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 1: Run Windows audio playback troubleshooter**
 
  This might be one of the easiest fixes to try. The built-in Windows audio playback troubleshooter is a useful tool that can help you resolve audio playback issues. Here is how to do it:
@@ -41,14 +46,16 @@ thumbnail: https://thmb.techidaily.com/af956098d5b96a801357a76a13d56b662de68774c
 1. On your keyboard, press**the Windows logo key** and type**troubleshoot** . In the list of search results, select **Troubleshoot settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000231-1.png)
 2. In the pop-up window, select**Playing Audio** , then click**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000232.png)
 3. Follow the on-screen instructions to troubleshoot the audio playback issue.
 
  When it is completed, play a song on your HP laptop to see if you resolved the no sound issue. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### **Fix 2: Update your audio driver**
 
  An missing or corrupted audio driver can also be the root of the HP laptop no sound issue. In this case, you can fix this issue easily by updating your audio driver to the latest version.
@@ -69,13 +76,15 @@ thumbnail: https://thmb.techidaily.com/af956098d5b96a801357a76a13d56b662de68774c
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap14.png)
 3. Click **Update**  next to your Bluetooth device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee  ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap908-2.png)  
  You can do it for free if you like, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ### **Fix 3: Check your audio settings**
@@ -87,39 +96,28 @@ thumbnail: https://thmb.techidaily.com/af956098d5b96a801357a76a13d56b662de68774c
 2. Navigate to**the Playback tab** .**Right-click** anywhere on the Playback tab of the Sound window, and make sure you select**Show Disabled Devices** and**Show Disconnected Devices** options.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000237-2.png)
 3. If your laptop speaker is disabled,**right-click** your laptop speaker and select**Enable** .  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000236.png)
 4. Select the speaker / headphone you’re using and  click **Set Default** .  
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
 5. Click**OK** to save the changes.
 6. On your desktop,   **right-click**  **the speaker icon**  on the lower-right corner, and then select**Open Volume Mixer**  .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000233.png)
 7. If you see some application is muted, click**the speaker icon** under that application to unmute it.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000235-2.png)
 8. Play a song on your laptop to see if you fixed the no sound issue. If not, move on to the next step.
 9. On your keyboard, press**the Windows logo key** and**X** at the same time. Then select**Device Manager** to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000238.png)
 10. In Device Manager,**double-click** **Sound, video and game controllers** to expand the list. If you see**a downward arrow** next to your audio device,**right-click** it then select**Enable device** to enable it.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000240.png)
 
  Play a song on your HP laptop to see if the no sound issue is resolved. If not, try the next fix to restart Windows audio service.
@@ -131,14 +129,13 @@ thumbnail: https://thmb.techidaily.com/af956098d5b96a801357a76a13d56b662de68774c
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time to open the Run dialog. Type **services.msc**   and press **Enter** . You’ll be prompted for permission. Click **Yes**   to open **Services** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap190-5.png)
 2. Scroll down to locate **Windows Audio** . **Right-click**   it and select **Properties** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap193-5.png)
 3. Under the **General**   tab, if the service is disabled, click **Star**   to enable it. For **Startup type** , select **Automatic** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap194-5.png)
 4. Navigate to the **Recovery**   tab. For **First failure** , select **Restart the Service** . Then click **OK**   to save the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap195-5.png)
 5. Locate the service **Windows Audio Endpoint Builder** . Follow step 3 and step 4 above to do the same thing for Windows Audio Endpoint Builder.
 6. Restart your PC.
@@ -146,8 +143,9 @@ thumbnail: https://thmb.techidaily.com/af956098d5b96a801357a76a13d56b662de68774c
  See if you fix this issue after restarting Windows audio service. If it works, congratulations! This issue is fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 5: Troubleshoot hardware issues**
 
  If none of the fixes above works for you, you may need to troubleshoot hardware issues. Here’re some tips you can try:
@@ -169,8 +167,6 @@ thumbnail: https://thmb.techidaily.com/af956098d5b96a801357a76a13d56b662de68774c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +174,26 @@ thumbnail: https://thmb.techidaily.com/af956098d5b96a801357a76a13d56b662de68774c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-chuckle-constructor-app/"><u>[New] Chuckle Constructor App</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/trategic-timestamp-use-for-increased-youtube-traction/"><u>[New] Strategic Timestamp Use for Increased YouTube Traction</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-fixing-unintended-you-mistakes-while-chatting-online/"><u>[Updated] 2024 Approved Fixing Unintended 'You' Mistakes While Chatting Online</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-enjoy-youtube-music-anytime-with-these-23-essential-no-cost-audio-extractors/"><u>[Updated] Enjoy YouTube Music Anytime with These 23 Essential, No-Cost Audio Extractors</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-step-by-step-guide-for-capturing-stunning-insta-cover-photos-for-your-highlights/"><u>[Updated] Step-by-Step Guide for Capturing Stunning Insta Cover Photos for Your Highlights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easily-restore-audio-on-your-logitech-g933-mouse-with-our-proven-fixes/"><u>Easily Restore Audio on Your Logitech G933 Mouse with Our Proven Fixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-strategies-for-icloud-collaboration-in-apple-pages-documents-tech-insights/"><u>Effective Strategies for iCloud Collaboration in Apple Pages Documents | Tech Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixed-issues-with-overwatchs-voice-chat-feature/"><u>Fixed: Issues with Overwatch's Voice Chat Feature</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/g435-headphone-amnesia-diagnosing-and-fixing-the-lack-of-audio-output/"><u>G435 Headphone Amnesia – Diagnosing and Fixing the Lack of Audio Output</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-determining-windows-app-storage-addresses/"><u>Guide to Determining Windows App Storage Addresses</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-bebops-feathered-wings-unleashed-in-the-parrot-review/"><u>In 2024, Bebop's Feathered Wings Unleashed in the Parrot Review</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/investigating-royal-match-layers-a-detailed-guide/"><u>Investigating 'Royal Match' Layers - A Detailed Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015905555-solve-sound-problems-on-pc-fast-and-effective-solutions-inside/"><u>Solve Sound Problems on PC - Fast and Effective Solutions Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-setting-up-undefined-speakers-on-a-windows-11-pc/"><u>Step-by-Step Guide: Setting Up Undefined Speakers on a Windows 11 PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-techniques-for-addressing-stereo-mix-problems-in-audio-systems/"><u>Step-by-Step Repair Techniques for Addressing Stereo Mix Problems in Audio Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-your-redragon-pc-mic-problems/"><u>Troubleshooting and Repairing Your Redragon PC Mic Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-headphone-hum-steps-to-remove-annoying-buzz-from-audio-devices/"><u>Troubleshooting Headphone Hum: Steps to Remove Annoying Buzz From Audio Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-persistent-audio-drops-on-windows-10-solutions-revealed/"><u>Troubleshooting Persistent Audio Drops on Windows 10 – Solutions Revealed</u></a></li>
+</ul></div>
 

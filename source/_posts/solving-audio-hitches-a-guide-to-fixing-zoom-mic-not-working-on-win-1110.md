@@ -1,7 +1,7 @@
 ---
 title: "Solving Audio Hitches: A Guide to Fixing Zoom Mic Not Working on Win 11/10"
-date: 2024-08-13T10:47:53.355Z
-updated: 2024-08-14T10:47:53.355Z
+date: 2025-01-23T04:31:07.977Z
+updated: 2025-01-29T19:41:37.052Z
 tags:
   - win11
   - win10
@@ -17,11 +17,6 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 
 You’re joining an online meeting on Zoom but find the microphone isn’t working and your teammates couldn’t hear you at all? If yes, here are 5 simple but effective fixes to help you with**Zoom microphone not working on Windows 10 and 11** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here is a full list of fixes that helped many Zoom users get their microphone back to work. You may not try them all; just work your way down the list until you find the one that solves your problem.
@@ -33,9 +28,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 5. **[Reinstall Zoom](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1 – Allow access to your microphone
 
  To use your microphone on Zoom, you should ensure this app has the necessary microphone acccess. Follow these steps to configure the settings correctly:
@@ -44,9 +39,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 **1)** On your keyboard, press the**Windows logo key** and**I** at the same time to open the Settings menu. Then, click**Privacy** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-2.jpg)
 
 **2)** In the left pane, scroll down and click**Microphone** .
@@ -55,27 +47,27 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 **3)** Click**Change** , and make sure Microphone access for this device is**on** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-3.jpg)
 
 **4)** **Toggle on** to allow apps to access your microphone.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-4.jpg)
 
 **5)** Scroll down to the**Allow desktop apps to access your microphone** section, and make sure to**turn on** this setting.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now that you’ve granted the access, check if your microphone can pick up your voice as intended. If not, please proceed to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Check your microphone settings
 
@@ -89,22 +81,20 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the**Recording** tab. Then, right-click on any empty area and tick**Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-3.jpg)
 
 **4)** Make sure your microphone is enabled. If not, right-click it and click**Enable** .
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-4.jpg)
 
 **5)** Check if your microphone is set as the default device. If not, click it and click**Set Default** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
 
 **6)** Right-click your microphone and click**Properties** .
@@ -124,8 +114,9 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3 – Update your audio driver
 
  One of the most common causes of Zoom microphone not working is an outdated or a faulty audio driver. To keep your audio devices work in the tip-top condition, you should install the latest audio driver.
@@ -140,18 +131,16 @@ There are two ways you can update your audio driver:
 
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-1-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the**Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2-11.jpg)
 
  You can do it for free if you like, but it’s partly manual.
@@ -164,24 +153,19 @@ There are two ways you can update your audio driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4 – Modify Zoom’s audio settings
 
  If your microphone works well on other programs and only runs into problems on Zoom, the reason may be the app’s settings. You can adjust the settings as follows and see whether this brings back your audio input.
 
 **1)** Launch Zoom. Then, click the**cogwheel icon** on the top right corner to enter Zoom’s settings.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-1.jpg)
 
 **2)** Click the**Audio** tab, select the right microphone you’re using from the drop-down menu next to Microphone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-1.jpg)
 
 **3)** Tick**Automatically join audio by computer when joining a meeting** .
@@ -192,6 +176,10 @@ There are two ways you can update your audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Configure the settings as below:
 
 * **Suppress Persistent Background Noise** :_Moderate_ or_Disable_
@@ -201,6 +189,10 @@ There are two ways you can update your audio driver:
  Join a meeting to test if your microphone works on Zoom. If you see the microphone icon with a red line in the bottom bar, it’s muted, and you need to click the icon to unmute it before other participants can hear you. If the mic-not-working problem remains, please check out the last fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Reinstall Zoom
 
@@ -230,8 +222,6 @@ There are two ways you can update your audio driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -239,4 +229,17 @@ There are two ways you can update your audio driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-in-video-earnings-techno-gamers-guide/"><u>[New] In 2024, In-Video Earnings Techno Gamers' Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-the-pathway-to-reinvention-step-by-step-guide-on-altering-your-tiktok-handle/"><u>[New] In 2024, The Pathway to Reinvention Step-by-Step Guide on Altering Your TikTok Handle</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-logitech-g733-mic-not-working/"><u>[SOLVED] Logitech G733 Mic Not Working</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-perfecting-your-xbox-one-gaming-archive-for-2024/"><u>[Updated] Perfecting Your Xbox One Gaming Archive for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-savor-the-spectacle-best-practices-for-cooking-channel-titling/"><u>[Updated] Savor the Spectacle Best Practices for Cooking Channel Titling</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-twist-your-way-through-youtube-mastering-rotation-techniques-for-2024/"><u>[Updated] Twist Your Way Through YouTube Mastering Rotation Techniques for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-magic-5-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor Magic 5 Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fingerprint-sensor-no-reading-on-pc/"><u>Fingerprint Sensor: No Reading on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-a-non-functioning-mic-in-microsoft-teams-for-windows-operating-systems/"><u>How to Troubleshoot a Non-Functioning Mic in Microsoft Teams for Windows Operating Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-for-no-sound-in-logitech-g93-revised-problem/"><u>Quick Fix for No Sound in Logitech G93 # Revised Problem</u></a></li>
+</ul></div>
 

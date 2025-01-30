@@ -1,7 +1,7 @@
 ---
 title: Google Meet Not Recognizing Mic? Here's How to Fix It on Windows 11 & 10 Devices
-date: 2024-08-13T10:45:39.831Z
-updated: 2024-08-14T10:45:39.831Z
+date: 2025-01-24T20:43:19.102Z
+updated: 2025-01-29T19:06:45.729Z
 tags:
   - win11
   - win10
@@ -15,16 +15,10 @@ thumbnail: https://thmb.techidaily.com/0e0ddc9d3f1e3fb1a939d99c12ca5daee2fa294d0
 
 ## Google Meet Not Recognizing Mic? Here's How to Fix It on Windows 11 & 10 Devices
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet.jpg)
 
  Your microphone isn’t working in Google Meet and you can’t be heard in a meeting? This can be a very annoying situation. If you’re wondering why this issue occurs and don’t know how to fix it, follow this guide. We’ll show you all the proven fixes and help you troubleshoot the problem step by step.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here are 4 fixes that helped other users solve**Google Meet mic not working on a Windows PC** . You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -48,6 +42,11 @@ thumbnail: https://thmb.techidaily.com/0e0ddc9d3f1e3fb1a939d99c12ca5daee2fa294d0
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-3.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** to do it for free, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-driver-update-de.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -60,47 +59,41 @@ thumbnail: https://thmb.techidaily.com/0e0ddc9d3f1e3fb1a939d99c12ca5daee2fa294d0
  To make your microphone work normally, it’s also necessary to allow the operating system, browser and apps to use your microphone. Make sure to turn on the permission especially if you’ve just connected a new mic to your computer. Here are the steps:
 
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the Settings menu. Select**Privacy** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-2.jpg)
 2. Select**Microphone** . Then on the right pane, click the**Change** button and turn Microphone access for this device to**On** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 3. Scroll down and make sure the button under**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** is set to**On** . This makes it possible for your browser to access the microphone.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you complete the steps, check if Google Meet can pick up your voice. If not, move on to the next method below.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3 – Check your PC sound settings
 
  If you have several peripherals connected to the computer, there’s a good chance that your preferred device is not set as default and thus the microphone doesn’t work properly in Google Meet. To see if that’s the case, check the sound settings as follows.
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Then type**mmsys.cpl** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-1.jpg)
 2. Navigate to the**Recording** tab. First make sure your microphone is enabled (showing a green checkmark). If it’s not and displays a grey down-arrow icon, right-click it and click**Enable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-3.jpg)
 3. Click the**Microphone** you would like to use and click**Set Default** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
 4. You also need to set the microphone volume to a proper level: right-click the microphone and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-6-1.jpg)
 5. Click the**Levels** tab and drag the microphone slider to turn the volume to the max. Then click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Test your microphone again to see if it works without problem. If the issue persists, check out the next solution below.
 
@@ -111,12 +104,19 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 1. Enter your online meeting on Google Meet. Click the**lock icon** at the far right of the Google chrome search bar, and**toggle on the permission to your microphone** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting.jpg)
 2. Make sure your microphone is not turned off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click the**vertical ellipsis icon** at the top left and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-2.jpg)
 4. From the drop-down menu under Microphone, select your primary microphone.  
+
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-3.jpg)
 
  If you still can’t use the microphone in Google Meet, the last resort is to**double-check the physical connection** .
@@ -137,8 +137,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +144,16 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-instagrams-updated-feed-dynamics/"><u>[New] Navigating Instagram’s Updated Feed Dynamics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-hp-laptop-sound-not-working-in-windows-11/"><u>[SOLVED] HP Laptop Sound Not Working in Windows 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/create-captivating-content-engaging-windows-movie-maker-on-w11-for-2024/"><u>Create Captivating Content Engaging Windows Movie Maker on W11 for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-ten-commandments-of-stream-undoing-on-twitch/"><u>In 2024, Ten Commandments of Stream Undoing on Twitch</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solutions-for-razer-kraken-mic-failure-a-step-by-step-guide/"><u>Solutions for Razer Kraken Mic Failure - A Step by Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solutions-for-when-your-nvidia-device-isnt-connected-get-it-fixed-now/"><u>Solutions for When Your Nvidia Device Isn't Connected – Get It Fixed Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-resolving-issues-with-idt-hd-sound-card-driver-in-windows-11/"><u>Step-by-Step Guide: Resolving Issues with IDT HD Sound Card Driver in Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/understanding-youtubes-monetization-schedule-for-2024/"><u>Understanding YouTube's Monetization Schedule for 2024</u></a></li>
+</ul></div>
 

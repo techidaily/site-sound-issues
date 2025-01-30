@@ -1,7 +1,7 @@
 ---
 title: "Solving Your Sync Issues: The Latest Techniques for Fixing Audio Latency"
-date: 2024-08-13T10:48:39.554Z
-updated: 2024-08-14T10:48:39.554Z
+date: 2025-01-24T00:04:00.641Z
+updated: 2025-01-29T21:46:05.752Z
 tags:
   - win11
   - win10
@@ -38,23 +38,14 @@ thumbnail: https://thmb.techidaily.com/8b86753cae048297a750321083f2087f1622c0cfc
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Make sure your volume is not muted
 
  As we know, if your volume is muted, you won’t be able to hear any sound from your PC. So make sure your volume is not muted.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff2a8dbdca.png)
 
  In addition, sometimes your sound is not working if your volume is set minimum. With that being said, drag your volume slider to maximum and play any sound to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff2e94ca54.jpg)
 
  If your sound starts working again, then you should have found and fixed your problem.
@@ -87,9 +78,6 @@ Your hardware issues can cause your sound not working on PC.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Run Hardware and Sound troubleshooter
 
  The Hardware and Sound troubleshooter scans your PC and provides solutions for detected issues. So you can run the troubleshooter and see if it helps with your sound problem.
@@ -99,21 +87,34 @@ Here’s what you can do:
 1. Type**Control Panel** in the search box on your PC, and click**Control Panel** in the list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdfee79972a5.jpg)
 2. Ensure to view by large icons or small icons. Click**Troubleshooting** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdfeea70b4c6.jpg)
 3. Click**Hardware** **and Sound** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdfeee6b6fce.jpg)
 4. Click**Playing Audio** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdfef0aa581c.jpg)
 5. Ensure to check the box next to**Apply repairs automatically** . Then click**Next** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdfef327fb38.jpg)
 6. Select your**audio device** that you want to troubleshoot, then click**Next** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdfef5c55867.jpg)
 7. Wait for a while for the troubleshooting to be completed, and follow the on-screen instructions to finish it.
 
@@ -122,8 +123,9 @@ Then try playing any sound in your PC and see if it works.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your sound card driver
 
  If your sound card driver is missing or outdated, you’ll have the sound problems on PC, so you should update your sound card driver to the latest version.
@@ -163,11 +165,18 @@ To do so:
 2. In the**Playback** tab, right click on any**empty area** and check the box next to**Show Disabled Devices** and**Show Disconnected Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff0531a8bf.jpg)
 3. Select your**audio device** and click**Set Default** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff073c7190.jpg)  
 Ensure there’s a green check next to your audio device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click**Apply** and**OK** to save the changes.
 
 Test and see if there is any sound from your speaker.
@@ -179,9 +188,6 @@ If not, continue these steps:
 1. On the same**Playback** pane, select your audio device and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff0a2d3420.jpg)
 2. Click the**Advanced** tab. In the**Default Format** section, choose different**audio rate** and click**Test** to see if there’s sound.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff0bb5c7f2.jpg)
 
 Try different audio format until you find the one that works.
@@ -196,19 +202,20 @@ Still no luck? Okay, there’s one more thing to try.
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
 2. Type**services.msc** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff15fea14e.jpg)
 3. Scroll down and double click**Windows Audio** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff17e0a729.jpg)
 4. Ensure the**Startup type** is set to**Automatic** , and**Service status** is**Running** .  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff1a46292f.jpg)
 5. Click**Apply** and**OK** to save the changes.
 
@@ -227,8 +234,6 @@ Restart your PC and check your sound works or not.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -236,4 +241,26 @@ Restart your PC and check your sound works or not.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-mobile-media-best-phones-reviewed/"><u>[Updated] Mastering Mobile Media Best Phones Reviewed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-winxvideo-ai-lightning-fast-video-and-audio-conversion-with-gpu-acceleration/"><u>1. WinxVideo AI: Lightning-Fast Video and Audio Conversion with GPU Acceleration</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-scaling-your-influence-with-youtube-shorts-strategy/"><u>2024 Approved Scaling Your Influence with YouTube Shorts Strategy</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/8-elite-applications-to-extract-mp3-audio/"><u>8 Elite Applications to Extract MP3 Audio</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apples-future-unveiled-a-comprehemail-protected-date-insights-and-latest-buzz/"><u>Apple's Future Unveiled: A Compreh([email Protected] Date Insights & Latest Buzz</u></a></li>
+<li><a href="https://win11.techidaily.com/direct-guide-square-windows-interface/"><u>Direct Guide: Square Windows' Interface</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/evaluating-the-top-entry-level-portable-power-source-the-innovative-ecoflow-river-ebook-revealed/"><u>Evaluating the Top Entry-Level Portable Power Source: The Innovative EcoFlow River eBook Revealed!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-lenovo-thinkphone-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Lenovo ThinkPhone Face Lock?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-nonfunctional-microphone-for-skype-in-windows-11/"><u>How to Fix a Nonfunctional Microphone for Skype in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-razer-kraken-microphone-up-and-running-again/"><u>How to Get Your Razer Kraken Microphone Up and Running Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-a-step-by-step-guide-to-playing-fb-videos-with-sound-on-laptopsdesktops/"><u>How to Restore Audio: A Step-by-Step Guide to Playing FB Videos with Sound on Laptops/Desktops</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-turn-off-audio-boosting-features-on-windows-10/"><u>How to Turn Off Audio Boosting Features on Windows 10</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restored-harmony-resolving-the-no-sound-issue-in-world-of-warcraft/"><u>Restored Harmony: Resolving the 'No Sound' Issue in World of Warcraft</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-voice-communication-problems-in-apex-legends-a-comprehensive-guide/"><u>Solving Voice Communication Problems in Apex Legends: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-tips-for-resolving-squad-mic-problems-a-step-by-step-guide/"><u>Top Tips for Resolving Squad Mic Problems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-fixing-issues-with-the-lucidsound-ls30-microphone/"><u>Troubleshooting Tips: Fixing Issues with the LucidSound LS30 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-eliminating-sound-lag/"><u>Ultimate Troubleshooting: Eliminating Sound Lag</u></a></li>
+</ul></div>
 

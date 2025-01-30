@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Resolving Sound Issues with Zoom on Your Computer"
-date: 2024-08-13T10:48:45.049Z
-updated: 2024-08-14T10:48:45.049Z
+date: 2025-01-27T23:14:43.464Z
+updated: 2025-01-30T08:39:02.880Z
 tags:
   - win11
   - win10
@@ -15,16 +15,10 @@ thumbnail: https://thmb.techidaily.com/c8eb03733ef324f2e03346e87f6cada30d7b235c9
 
 ## Expert Advice for Troubleshooting No-Sound Issues in HP Laptops - Fixed
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000230.png)
 
  **If you’re playing a song on your HP laptop but you don’t hear anything,** Don’t worry, although it’s very frustrating, you’re definitely not the only person to experience the no sound issue. Many other HP laptop users have reported the very same problem. More importantly, you can resolve this issue pretty easily on your own after reading this article!
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Try these fixes**
 
  Here’s a list of fixes that have resolved this problem for other HP laptop users. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -42,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/c8eb03733ef324f2e03346e87f6cada30d7b235c9
  This might be one of the easiest fixes to try. The built-in Windows audio playback troubleshooter is a useful tool that can help you resolve audio playback issues. Here is how to do it:
 
 1. On your keyboard, press**the Windows logo key** and type**troubleshoot** . In the list of search results, select **Troubleshoot settings** .  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000231-1.png)
 2. In the pop-up window, select**Playing Audio** , then click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000232.png)
@@ -52,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/c8eb03733ef324f2e03346e87f6cada30d7b235c9
 
  When it is completed, play a song on your HP laptop to see if you resolved the no sound issue. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 2: Update your audio driver**
 
  An missing or corrupted audio driver can also be the root of the HP laptop no sound issue. In this case, you can fix this issue easily by updating your audio driver to the latest version.
@@ -79,11 +67,17 @@ thumbnail: https://thmb.techidaily.com/c8eb03733ef324f2e03346e87f6cada30d7b235c9
 3. Click **Update**  next to your Bluetooth device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee  ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap908-2.png)  
  You can do it for free if you like, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 3: Check your audio settings**
 
  The incorrect audio settings on your laptop can also trigger the no sound issues. You can follow the instructions below to check your audio settings:
@@ -91,33 +85,35 @@ thumbnail: https://thmb.techidaily.com/c8eb03733ef324f2e03346e87f6cada30d7b235c9
 1. On your desktop,   **right-click**  **the speaker icon**  on the lower-right corner, and then select **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap432.jpg)
 2. Navigate to**the Playback tab** .**Right-click** anywhere on the Playback tab of the Sound window, and make sure you select**Show Disabled Devices** and**Show Disconnected Devices** options.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000237-2.png)
 3. If your laptop speaker is disabled,**right-click** your laptop speaker and select**Enable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000236.png)
 4. Select the speaker / headphone you’re using and  click **Set Default** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
 5. Click**OK** to save the changes.
 6. On your desktop,   **right-click**  **the speaker icon**  on the lower-right corner, and then select**Open Volume Mixer**  .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000233.png)
 7. If you see some application is muted, click**the speaker icon** under that application to unmute it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000235-2.png)
 8. Play a song on your laptop to see if you fixed the no sound issue. If not, move on to the next step.
-9. On your keyboard, press**the Windows logo key** and**X** at the same time. Then select**Device Manager** to open it.  
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+9. On your keyboard, press**the Windows logo key** and**X** at the same time. Then select**Device Manager** to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000238.png)
 10. In Device Manager,**double-click** **Sound, video and game controllers** to expand the list. If you see**a downward arrow** next to your audio device,**right-click** it then select**Enable device** to enable it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000240.png)
 
  Play a song on your HP laptop to see if the no sound issue is resolved. If not, try the next fix to restart Windows audio service.
@@ -128,12 +124,19 @@ thumbnail: https://thmb.techidaily.com/c8eb03733ef324f2e03346e87f6cada30d7b235c9
 
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time to open the Run dialog. Type **services.msc**   and press **Enter** . You’ll be prompted for permission. Click **Yes**   to open **Services** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap190-5.png)
 2. Scroll down to locate **Windows Audio** . **Right-click**   it and select **Properties** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap193-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Under the **General**   tab, if the service is disabled, click **Star**   to enable it. For **Startup type** , select **Automatic** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap194-5.png)
 4. Navigate to the **Recovery**   tab. For **First failure** , select **Restart the Service** . Then click **OK**   to save the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap195-5.png)
 5. Locate the service **Windows Audio Endpoint Builder** . Follow step 3 and step 4 above to do the same thing for Windows Audio Endpoint Builder.
 6. Restart your PC.
@@ -141,9 +144,9 @@ thumbnail: https://thmb.techidaily.com/c8eb03733ef324f2e03346e87f6cada30d7b235c9
  See if you fix this issue after restarting Windows audio service. If it works, congratulations! This issue is fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 5: Troubleshoot hardware issues**
 
  If none of the fixes above works for you, you may need to troubleshoot hardware issues. Here’re some tips you can try:
@@ -165,8 +168,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +175,26 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-virtual-aid-fb-stories-downloader/"><u>[New] 2024 Approved Virtual Aid FB Stories Downloader</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-exquisite-couple-clips-the-best-weddings-online-8-picks/"><u>[Updated] 2024 Approved Exquisite Couple Clips The Best Weddings Online (8 Picks)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-excellence-in-entertainment-the-finest-offline-ios-games/"><u>[Updated] Excellence in Entertainment - The Finest Offline iOS Games</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-ideal-fps-levels-in-slow-motion-cinema/"><u>2024 Approved Ideal FPS Levels in Slow Motion Cinema</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-troubleshooting-your-razer-manowar-microphone-malfunction/"><u>Fixing the Issue: Troubleshooting Your Razer ManO'War Microphone Malfunction</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-canon-mg3000-printing-drivers-free-download-and-installation-tutorial/"><u>Get the Newest Canon MG3000 Printing Drivers - Free Download & Installation Tutorial</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/guide-to-safely-update-vcenter-ip-address-parameters/"><u>Guide to Safely Update vCenter IP Address Parameters</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-vivo-s18-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Vivo S18</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/networking-opportunities/"><u>Networking Opportunities:</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-microphone-challenges-in-windows-7-expert-fix-strategies/"><u>Overcoming Microphone Challenges in Windows 7: Expert Fix Strategies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-realtek-speakers-a-step-by-step-solution-for-loss-of-audio-feedback/"><u>Revive Your Realtek Speakers: A Step-by-Step Solution for Loss of Audio Feedback</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/smooth-repair-techniques-for-overcoming-playback-error-on-devices/"><u>Smooth Repair Techniques for Overcoming Playback Error on Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016117161-solution-recording-and-playing-games-audio-on-discord-now-possible/"><u>Solution: Recording and Playing Games Audio on Discord, Now Possible!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-why-your-logitech-g230-mic-wont-work-and-how-to-repair-it/"><u>Solved! Why Your Logitech G230 Mic Won't Work and How to Repair It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015713971-speedy-repairs-needed-heres-how-to-fix-the-microphone-on-your-oculus-rift-s-quickly/"><u>Speedy Repairs Needed? Here's How to Fix the Microphone on Your Oculus Rift S Quickly!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-game-mouse-checklist-a-focus-on-five-standout-qualities/"><u>The Ultimate Game Mouse Checklist: A Focus on Five Standout Qualities</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-hyperx-cloud-speaker-and-mic-solved/"><u>Troubleshooting HyperX Cloud Speaker and Mic: Solved</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-major-update-alert-filmora-x-now-compatible-with-arm-processors/"><u>Updated Major Update Alert Filmora X Now Compatible with ARM Processors</u></a></li>
+<li><a href="https://article-tips.techidaily.com/video-mastery-without-relying-on-xsplit-for-2024/"><u>Video Mastery Without Relying on Xsplit for 2024</u></a></li>
+</ul></div>
 

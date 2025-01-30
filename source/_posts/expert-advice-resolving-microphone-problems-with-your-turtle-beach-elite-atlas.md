@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Resolving Microphone Problems with Your Turtle Beach Elite Atlas"
-date: 2025-01-21T17:13:27.583Z
-updated: 2025-01-22T18:13:43.384Z
+date: 2025-01-25T18:42:58.690Z
+updated: 2025-01-29T19:31:38.749Z
 tags:
   - win11
   - win10
@@ -37,7 +37,7 @@ We’ve seen users reporting the microphone not working after they updated to Wi
  2\. If you’re using a**headset mi** c, make sure it’s not set to mute on your headset.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Configure the input device
@@ -49,13 +49,13 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 2. In the input section,**set the microphone you’re using as the input device** . You can also turn the volume up to make sure the microphone can catch your voice clearly.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-05-53.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you experience the microphone issue only while using a certain app, for example, Zoom or Discord, you can adjust the settings in-app. Similar to the steps above, you need to find the audio setting, choose the right input device, and adjust the input volume if needed.
@@ -72,6 +72,10 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-08-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After allowing apps to use your microphone, you can restart the problem app and test if the issue is solved now. If not, try the next fix.
 
 ## Fix 3: Enable the microphone for recording
@@ -82,18 +86,14 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-06-12.png)
 2. Scroll down and click**More sound settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-13-21-2.png)
 3. Under the**Recording tab** , enable your microphone. If you can’t find it, right-click anywhere empty and select**Show Disabled devices** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-14-04.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-14-04.png)
 
 If this fix doesn’t solve your problem, try the next one.
 
@@ -118,6 +118,10 @@ If this fix doesn’t solve your problem, try the next one.
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ## Bonus tip: Repair corrupted system files
@@ -132,10 +136,6 @@ If this fix doesn’t solve your problem, try the next one.
 3. Once the scan is complete, you can review the summary. If Fortect detects any missing or broken system files or other issues that may have caused the microphone or other sound issues, you can click **START REPAIR** to fix them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a 60-day money-back guarantee. If you encounter any issues while using Fortect, feel free to contact their support team.
 
@@ -161,22 +161,21 @@ If this fix doesn’t solve your problem, try the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-the-basic-blueprint-for-win-based-fishy-vocal-shifts-for-2024/"><u>[New] The Basic Blueprint for Win-Based Fishy Vocal Shifts for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-3d-text-psd-goldmine-top-selections/"><u>2024 Approved Free 3D Text PSD Goldmine - Top Selections</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/becoming-a-greenscreen-specialist-in-kinemasters-vfx-realm-for-2024/"><u>Becoming a Greenscreen Specialist in KineMaster's VFX Realm for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/consumers-speak-the-vllo-narrative/"><u>Consumers Speak The VLLO Narrative</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/cutting-edge-cat-entertainment-discover-the-premier-electronic-toy-picks-for-your-pet-in-2-techcattoys2023/"><u>Cutting-Edge Cat Entertainment: Discover the Premier Electronic Toy Picks for Your Pet in 2# Tech_CatToys_2023</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210643704-9780008601614-gentle-spells-kind-magic/"><u>Gentle Spells & Kind Magic | Free Book</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-samsung-galaxy-s21-fe-5g-2023-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Samsung Galaxy S21 FE 5G (2023) Device SIM</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-insiders-guide-to-creating-viral-memes-on-9gag/"><u>In 2024, The Insider's Guide to Creating Viral Memes on 9GAG</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-detection-challenges-for-the-blue-yeti-microphone-fix-and-tips/"><u>Overcoming Detection Challenges for the Blue Yeti Microphone – Fix & Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-noise-problems-effective-ways-to-hear-on-discord-again/"><u>Overcoming Noise Problems: Effective Ways to Hear on Discord Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-overwatchs-push-to-talk-malfunction-solutions-and-fixes/"><u>Overcoming Overwatch's Push-to-Talk Malfunction: Solutions & Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solutions-stop-your-speakers-from-humming-or-buzzing/"><u>Quick Solutions: Stop Your Speakers From Humming or Buzzing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/realtek-hd-audio-driver-fixed-now-fully-functional/"><u>Realtek HD Audio Driver Fixed: Now Fully Functional</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/realtek-hd-audio-manager-problem-here-are-proven-ways-to-get-it-running/"><u>Realtek HD Audio Manager Problem? Here Are Proven Ways to Get It Running!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-no-audio-on-your-hp-device-windows-10-solutions/"><u>Resolving No Audio on Your HP Device - Windows 10 Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-skype-audio-problems-with-simple-fixes/"><u>Resolving Skype Audio Problems with Simple Fixes</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/troubleshooting-guide-how-to-fix-your-screen-when-it-wont-turn-on-expert-advice-from-yl-computing/"><u>Troubleshooting Guide: How To Fix Your Screen When It Won't Turn On - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-best-8-subtitle-transformers-seamless-switch-from-sub-to-srtr-in-seconds-on-windowsmacos/"><u>[Updated] Best 8 Subtitle Transformers Seamless Switch From SUB to SRTR in Seconds on Windows/MacOS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-your-digital-helper-the-ultimate-battle-between-google-assistant-and-alexe/"><u>Choosing Your Digital Helper: The Ultimate Battle Between Google Assistant and Alexe</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-issues-with-your-pc-loudspeakers/"><u>Diagnosing and Repairing Issues with Your PC Loudspeakers</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-correcting-a-broken-launcher-in-windows-11-os/"><u>Effective Solutions for Correcting a Broken Launcher in Windows 11 OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-voice-chat-glitches-in-pubg-a-comprehensive-guide-for-smooth-gaming-experience/"><u>Fixing Voice Chat Glitches in PUBG: A Comprehensive Guide for Smooth Gaming Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-voice-chat-functionality-after-the-2024-patch-on-rainbow-six-siege/"><u>How to Restore Voice Chat Functionality After the 2024 Patch on Rainbow Six Siege</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-mastering-audible-content-conversion-into-slide-ready-format-with-powerpoint/"><u>In 2024, Mastering Audible Content Conversion Into Slide-Ready Format with PowerPoint</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-audio-troubleshooting-fixing-issues-with-the-non-opening-of-realtek-hd-audio-player/"><u>Mastering Audio Troubleshooting: Fixing Issues with the Non-Opening of Realtek HD Audio Player</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-not-showing-fullscreen-view-in-win10/"><u>Monitor Not Showing Fullscreen View in Win10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-microphone-malfunctions-of-airpods-on-your-new-pc-running-windows-11/"><u>Resolving Microphone Malfunctions of AirPods on Your New PC Running Windows 11</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/resolving-network-adapter-problems-expert-tips-from-yl-computing/"><u>Resolving Network Adapter Problems: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-a-malfunctioning-bose-speaker-setup/"><u>Step-by-Step Fixes for a Malfunctioning Bose Speaker Setup</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-ultimate-guide-to-video-excellence-and-staff-picks-at-vimeo/"><u>The Ultimate Guide to Video Excellence & Staff Picks at Vimeo</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-anticipated-ios-18-innovations-revealed-at-wwdc-2024-featuring-groundbreaking-ai-enhancements-discover-more-on-zdnet/"><u>Top 5 Anticipated iOS 18 Innovations Revealed at WWDC 2024, Featuring Groundbreaking AI Enhancements - Discover More on ZDNet!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-dolby-sound-problems-starting-your-dolby-audio-driver-with-windows-11/"><u>Troubleshooting Dolby Sound Problems: Starting Your Dolby Audio Driver with Windows 11</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your hardware drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
 </ul></div>
 

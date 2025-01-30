@@ -1,7 +1,7 @@
 ---
 title: Fixing HDMI Audio Issues on Windows 7 - Step-by-Step Guide
-date: 2024-12-27T16:58:03.098Z
-updated: 2025-01-04T03:23:55.829Z
+date: 2025-01-29T07:49:33.470Z
+updated: 2025-01-29T16:24:32.950Z
 tags:
   - win11
   - win10
@@ -38,22 +38,18 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a273f85c31.png)
 2. Double-click**Sound, video, and game controllers** . Then right-click the audio device driver that you have and choose**Update driver** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a27949ffeb.png)
 3. Choose**Browse my computer for driver software** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28445c675.png)
 4. Then choose**Let me pick from a list of available drivers on my computer** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a286f3d5de.png)
@@ -61,6 +57,10 @@ Read on and follow the easy-doing images below!
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28cccfd3f.png)
 6. You will see the warning asking you whether you want to go on with the installation, click**Yes** to continue.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a294398588.png)
 7. Restart your computer when the installation finishes.
@@ -73,6 +73,10 @@ Read on and follow the easy-doing images below!
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
@@ -97,21 +101,13 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Option 3: Change Speaker Settings
 
@@ -121,15 +117,19 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
@@ -159,24 +159,20 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/2024-fix-rainbow-six-siege-voice-chat-not-working/"><u>[2024 Fix] Rainbow Six Siege Voice Chat Not Working</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-first-lessons-in-frame-rate-and-fidelity-for-newbies/"><u>[Updated] 2024 Approved The First Lessons in Frame Rate and Fidelity for Newbies</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-unlocking-the-potential-of-vimeo-video-logging/"><u>[Updated] Unlocking the Potential of Vimeo Video Logging</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/44cm44oh44k444k44or44kr44oh44op44gn5asx44kp44km44gf44cb44gplus44gf44gv5rai5y6744gv44km44gf5pig5yop44ov44kh44kk44or44gu5zue5b6p5oml6acg44cn/"><u>「デジタルカメラで失われた、または消去された映像ファイルの回復手順」</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-shared-sights-origins-spelled-out/"><u>2024 Approved Shared Sights Origins Spelled Out</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-list-watching-nba-in-real-time/"><u>2024 Approved The Ultimate List Watching NBA in Real-Time</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/crossover-solutions-for-non-working-corsair-hs70-microphone-issues/"><u>Crossover Solutions for Non-Working Corsair HS70 Microphone Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hear-the-click-restore-the-beep-overcoming-no-sound-troubles-with-your-lenovo-laptop/"><u>Hear the Click, Restore the Beep: Overcoming No-Sound Troubles with Your Lenovo Laptop</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-does-a-whole-sphere-video-work/"><u>How Does a Whole-Sphere Video Work?</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-s24-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy S24 phone? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/instas-best-practices-choosing-videography-sizes-and-formats-for-2024/"><u>Insta's Best Practices - Choosing Videography Sizes & Formats for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/iphone-volume-not-working-fixes-for-muffled-silent-or-crackling-sounds/"><u>IPhone Volume Not Working? Fixes for Muffled, Silent, or Crackling Sounds</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-common-problems-restore-your-steam-voice-call-functionality/"><u>Overcoming Common Problems: Restore Your Steam Voice Call Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-microphone-challenges-in-counter-strike-global-offensive/"><u>Overcoming Microphone Challenges in Counter-Strike Global Offensive</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-process-for-disabling-audio-effects-on-windows-11-pcs/"><u>Step-by-Step Process for Disabling Audio Effects on Windows 11 PCs</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-motorola-moto-g34-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016765439-troubleshooting-non-functional-onikuma-headset-mics-solutions-inside/"><u>Troubleshooting Non-Functional Onikuma Headset Mics - Solutions Inside!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unmute-your-laptops-internal-speakers-proven-methods-for-restoring-audio/"><u>Unmute Your Laptop's Internal Speakers: Proven Methods for Restoring Audio</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-lgs-virtual-frontier-a-comprehensive-vr-review/"><u>[Updated] LG's Virtual Frontier A Comprehensive VR Review</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-average-income-derived-from-each-video-watcher-for-2024/"><u>[Updated] The Average Income Derived From Each Video Watcher for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-in-depth-overview-of-showmore-for-video-tech-professionals/"><u>2024 Approved In-Depth Overview of ShowMore for Video Tech Professionals</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-salty-sessions-captured-best-cams-for-surfers/"><u>2024 Approved Salty Sessions Captured - Best Cams for Surfers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-the-problem-of-unplugged-speakersheadphones-in-windows-os-a-step-by-step-guide-for-windows-10-8-and-7-users/"><u>Diagnosing and Fixing the Problem of Unplugged Speakers/Headphones in Windows OS: A Step-by-Step Guide for Windows 10, 8 & 7 Users.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-restoring-sound-with-headsets-on-your-windows-7-pc/"><u>Expert Tips for Restoring Sound with Headsets on Your Windows 7 PC</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2089648-9780892545681-modern-buddhist-healing/"><u>Modern Buddhist Healing | Free Book</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/optimizing-youtube-thumbnails-for-better-clickthrough-rates-for-2024/"><u>Optimizing YouTube Thumbnails for Better Clickthrough Rates for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-windows-1aster7-sound-distortion-issues-in-depth-troubleshooting-guide/"><u>Overcoming Windows 1Aster/7 Sound Distortion Issues – In-Depth Troubleshooting Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-critical-failure-in-directx-system-detailed-analysis/"><u>Resolved: Critical Failure in DirectX System - Detailed Analysis</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-logitech-g230-microphone-a-step-by-step-guide-to-fix-the-problems/"><u>Reviving Your Logitech G230 Microphone: A Step-by-Step Guide to Fix the Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silencing-your-logitech-g-pro-x-top-solutions-for-eliminating-clicky-sounds/"><u>Silencing Your Logitech G Pro X: Top Solutions for Eliminating Clicky Sounds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-microphone-issues-in-google-meet-on-windows-11-and-10/"><u>Troubleshooting Guide: Fixing Microphone Issues in Google Meet on Windows 11 & 10</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/vocal-variety-ventures-in-free-fire-play/"><u>Vocal Variety Ventures in Free Fire Play</u></a></li>
 </ul></div>
 

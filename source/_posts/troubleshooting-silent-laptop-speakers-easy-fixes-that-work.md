@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Silent Laptop Speakers – Easy Fixes That Work
-date: 2024-08-13T10:49:42.926Z
-updated: 2024-08-14T10:49:42.926Z
+date: 2025-01-28T20:59:33.826Z
+updated: 2025-01-29T17:20:04.959Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ When you try to play music or video on your laptop, but just find**no sound on t
 [ **3\. Reinstall your sound card driver** ](<https://www.drivereasy.com/knowledge/laptop-internal-speakers-no-sound-solved/#Fix> 3. Reinstall your sound driver)
 [ **4\. Update your sound card driver** ](<https://www.drivereasy.com/knowledge/laptop-internal-speakers-no-sound-solved/#Fix> 4. Update your sound card driver) ``
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your speakers volume
 
  1)`` Make sure your laptop sound isn’t muted.
@@ -32,14 +36,8 @@ When you try to play music or video on your laptop, but just find**no sound on t
 
  3) Drag the slider to increase the volume to test if the sound could work.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-22.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Set your speakers as default device
 
  1) Right-click on the**s** **ound** icon on your taskbar. Then click**Playback devices** .
@@ -48,9 +46,6 @@ When you try to play music or video on your laptop, but just find**no sound on t
 
  2)Highlight your speakers, then click **Set Default** . Click **OK.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-7.jpg)
 
 **Note:**  If you couldn’t find your speakers on the playback device list, it might be disabled.
@@ -63,14 +58,12 @@ Go with the easy steps to show it.
 
  2) When your speakers shows up, right-click on it to choose**Enable** . Then you can set it as the default device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3:**Reinstall your sound card driver**
 
 1) Press the **Windows** logo key + **R** key together to open the **Run** box.
@@ -79,23 +72,25 @@ Go with the easy steps to show it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Expand **Sound, video and game controllers** . Then right click on your sound card’s name and click **Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-10.jpg)
 
 3) Tick on **Delete the driver software for this device.** Then click **OK** to confirm.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.jpg)
 
  4) Restart your PC to make change take effect. Windows will automatically reinstall sound driver for you now.
 
  5) Check if speakers works on your laptop now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update**your sound card driver**
 
@@ -106,6 +101,10 @@ Go with the easy steps to show it.
 It has two versions. Have a try on its **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , it will offer the latest drivers for you to install. But if you upgrade to **[PRO Version](https://tools.techidaily.com/drivereasy/download/)**  , you can get all your drivers including the sound card driver up-to-date with just one click — **Update All** (you get full tech support and 30-day money back guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -123,8 +122,6 @@ Any problems just feel free to leave your comment below, thanks.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +129,21 @@ Any problems just feel free to leave your comment below, thanks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-definitive-vivacut-video-editing-manual-for-24/"><u>[New] 2024 Approved The Definitive VivaCut Video Editing Manual for '24</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-enhancing-outdoor-vision-with-gopro-and-live-streaming-platforms/"><u>[New] In 2024, Enhancing Outdoor Vision with GoPro and Live Streaming Platforms</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instagram-victory-tackling-video-tribulations-head-on/"><u>[Updated] In 2024, Instagram Victory Tackling Video Tribulations Head-On</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comparing-smart-speakers-google-nest-audio-versus-apples-homepod/"><u>Comparing Smart Speakers: Google Nest Audio Versus Apple's HomePod</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-repairing-microphone-connectivity-in-windows-11/"><u>Expert Advice: Repairing Microphone Connectivity in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-restoring-microphone-functionality-in-google-meet-across-windows-1110-platforms/"><u>Expert Tips for Restoring Microphone Functionality in Google Meet Across Windows 11/10 Platforms</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-persistent-crashes-of-thunder-tier-1-game-on-pc-a-complete-guide/"><u>Fixing the Persistent Crashes of Thunder Tier 1 Game on PC: A Complete Guide</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/free-handmade-christmas-decorations-diy-kid-friendly-tree-ornaments-and-contests/"><u>Free Handmade Christmas Decorations: DIY Kid-Friendly Tree Ornaments & Contests</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-restoring-microphone-functionality-during-a-zoom-call-on-pc/"><u>Guide: Restoring Microphone Functionality During a Zoom Call on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-broken-headphone-port-on-your-computer-or-laptop/"><u>How to Repair a Broken Headphone Port on Your Computer or Laptop</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-samsung-galaxy-z-flip-5-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Samsung Galaxy Z Flip 5 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-exeapplication-error-fixed-stopped-working-issue/"><u>Resolved: Exe.Application Error - Fixed 'Stopped Working' Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-no-audio-devices-detected-problem-on-pcs-with-windows-11-8-or-7/"><u>Resolving 'No Audio Devices Detected' Problem on PCs with Windows 11, 8, or 7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-free-way-to-leverage-gpt-4s-speed-with-copilot-your-guide-inside/"><u>The Ultimate FREE Way to Leverage GPT-4's Speed with Copilot: Your Guide Inside!</u></a></li>
+</ul></div>
 

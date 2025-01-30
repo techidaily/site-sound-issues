@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Problems with Discord's Push-To-Talk Not Working
-date: 2024-08-13T10:47:22.361Z
-updated: 2024-08-14T10:47:22.361Z
+date: 2025-01-27T02:06:01.630Z
+updated: 2025-01-29T22:46:11.432Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/c9f7f229be93bd16f345ab244a59038de305839bf
 ## Overcoming Problems with Overwatch's Push-to-Talk Feature – Solutions Inside
 
 Having trouble with push-to-talk during gameplay? You’re not alone! Many Overwatch players are reporting it, but the good news is that you can fix it. Here is a list of fixes that have proved useful to many users.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Table of contents
 
@@ -33,9 +37,6 @@ Having trouble with push-to-talk during gameplay? You’re not alone! Many Overw
 
  This is the quickest fix to try when you’re experiencing Overwatch audio issues. Just restart your computer and Overwatch to test your issue. If your problem still exists, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Run Discord as Administrator
 
  If you’re using Discord instead of Overwatch’s own chat feature, try this fix. If you’re not using Discord, move on to **[Fix 3](https://tools.techidaily.com/drivereasy/download/)**  below.
@@ -58,18 +59,16 @@ If you’re not sure how to do it, follow the instructions below:
 
  4) Under the **Compatibility**  tab, check the box next to **Run this program as an administrator** , then click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Discord-admin-access.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Relaunch Discord.
 
 If your issue persists, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3: Update your audio driver
 
  In most cases, audio issues occur when users are using the faulty audio driver, or the driver is outdated. It’s essential that you have the latest correct audio driver at all times to keep Overwatch running smoothly.
@@ -94,22 +93,20 @@ If your issue persists, try the next fix.
 
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-281.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Fix 4: Install the latest Overwatch patch
 
  The developers of Overwatch release regular game patches to fix bugs. It’s possible that a recent patch has stopped your chat from working, and that a new patch is required to fix it.
@@ -120,10 +117,11 @@ To check if there is any update, follow the instructions below:
 
 **2)** Click **Overwatch > Options > Patch Notes** .
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-712.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If a patch is available, install it, then run your game again to check whether your problem has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix.
 
@@ -139,17 +137,19 @@ To check if there is any update, follow the instructions below:
 
 **3)** Click the**Sound tab** , and verify that**TEAM VOICE CHAT** , and**GROUP VOICE CHAT** are set to**AUTO JOIN.**
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-400-1024x559.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Make sure the VOICE CHAT MODE is set to**PUSH TO TALK** , then select the correct VOCIE CHAT DEVICES.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-401-1024x569.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Click the**CONTROLS** tab. Under**CHAT AND VOICE** , click the button next to**VOICE CHAT: PUSH TO TALK** and change your push-to-talk key to a different one.
 
@@ -172,8 +172,6 @@ To check if there is any update, follow the instructions below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +179,21 @@ To check if there is any update, follow the instructions below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unique-gifting-made-simple-discover-top-10-custom-box-sellers/"><u>[New] 2024 Approved Unique Gifting Made Simple Discover Top 10 Custom Box Sellers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-escalate-video-display-in-public-profile-for-2024/"><u>[New] Escalate Video Display in Public Profile for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-fundamental-codex-for-online-video-communities/"><u>[Updated] 2024 Approved Fundamental Codex for Online Video Communities</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhance-listening-experience-increase-sound-volume-on-windows-11/"><u>Enhance Listening Experience: Increase Sound Volume on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-sound-blaster-microphone-back-on-track-a-comprehensive-guide/"><u>Getting Your Sound Blaster Microphone Back on Track: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-mic-working-again-for-microsoft-teams-on-windows-operating-systems-1110/"><u>How to Get Your Mic Working Again for Microsoft Teams on Windows Operating Systems (11/10)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-making-every-photo-on-iphone-blurry-with-4-tricks-up-your-sleeve/"><u>In 2024, Making Every Photo on iPhone Blurry with 4 Tricks Up Your Sleeve</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ize-money-from-youtube-shorts-tactics-and-tricks/"><u>Maximize Money From YouTube Shorts Tactics & Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-system-failure-windows-error-0x8007045d/"><u>Overcoming System Failure - Windows Error 0X8007045D</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-remedies-to-eliminate-bluetooth-playback-delays-and-enhance-listening-joy/"><u>Quick Remedies to Eliminate Bluetooth Playback Delays and Enhance Listening Joy</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reconnect-your-ears-essential-fixes-for-discord-users-experiencing-hearing-issues/"><u>Reconnect Your Ears: Essential Fixes for Discord Users Experiencing Hearing Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-logitechs-pro-x-mic-failures-with-these-easy-fixes/"><u>Resolve Logitech's Pro X Mic Failures with These Easy Fixes</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/robocopy-strategies-pour-le-mode-de-preservation-des-fichiers-tutoriel-complet-et-methodes-substituts/"><u>Robocopy : Stratégies Pour Le Mode De Préservation Des Fichiers – Tutoriel Complet Et Méthodes Substituts</u></a></li>
+</ul></div>
 

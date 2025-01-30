@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Voice Chat Disruption in Apex Legends: An Expert's Guide to Solutions"
-date: 2024-08-13T10:45:38.814Z
-updated: 2024-08-14T10:45:38.814Z
+date: 2025-01-23T08:05:44.124Z
+updated: 2025-01-30T04:05:44.411Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 
  Occasionally, players find the**voice chat not working** in the game. If you happen to be in the same boat, don’t worry. It’s fixable.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to fix League of Legends Voice Chat Not Working
 
  Here are four fixes that have helped other users resolve the voice chat not working problem in LoL. You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
@@ -48,15 +45,18 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 2. In the upper right corner, click**Settings** (the cog icon).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.png)
 3. Under the**Voice** tab, make sure the Join voice channel automatically option is checked.  
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-1.png)
 4. Check to see if you can use the voice chat feature properly in game. If yes, then great! If it’s no joy, please move on to**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Configure the audio settings
 
  You may not be able to use voice chat due to incorrect audio settings in Windows.
@@ -64,26 +64,26 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 You can follow the steps below to check:
 
 1. On your keyboard, press the **Windows logo key** and **R**  at the same time to bring up the Run box. Then type or paste **mmsys.cpl** and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/r.png)
 2. In**Playback** tab, make sure that your preferred headphone or speaker is set as**Default Device** . Then right-click on the default device ane click**Test** to make sure you can hear sound coming through the headset.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-2.png)
 3. Click the**Recording** tab. Then make sure that your preferred mic is set as**Default Device** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio-2.png)
 4. Speak into yout mic to test if the indicator bar on the right moves. If yes, your mic should be working properly. If it doesn’t, check your headphone device to make sure it’s not muted.
 5. Click the**Advanced**  tab. Under the **Default Format** section, choose a different sample rate and bit depth and click**Test** . Repeat this process until you find a format that works for you. After that, make sure the box for**Allow application to take exclusive control of this deviice** is**unticked** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/111-1.png)
 6. Once finished, click**Apply** \>**OK** .
 7. Test in WoW to see if you can communicate with your friends. If it still gives you no luck, you should try**Fix 4** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your audio drivers
 
  Your voice chat not working in LoL problem is probably being caused by driver issues. The steps above may resolve it, but if they don’t, or you’re not confident playing around with drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -96,6 +96,11 @@ You can follow the steps below to check:
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
@@ -112,8 +117,6 @@ You can follow the steps below to check:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +124,23 @@ You can follow the steps below to check:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-streamlining-google-meets-with-efficient-snap-photography-tips/"><u>[New] Streamlining Google Meets with Efficient Snap Photography Tips</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-make-a-splash-on-social-media-adding-animated-text-to-instagram-stories/"><u>[Updated] 2024 Approved Make a Splash on Social Media Adding Animated Text to Instagram Stories</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-mastery-choosing-between-free-and-paid-video-download-solutions-for-2024/"><u>[Updated] Vimeo Mastery Choosing Between Free and Paid Video-Download Solutions for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discover-the-best-iphones-selfie-upgrades-all-for-free-now/"><u>Discover the Best iPhones' Selfie Upgrades - All for Free, Now</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tips-clearing-browser-plug-ins-and-toolbars-in-windows-11-environment/"><u>Expert Tips: Clearing Browser Plug-Ins and Toolbars in Windows 11 Environment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/identifying-and-resolving-unknown-speaker-issues-on-your-windows-11-pc/"><u>Identifying and Resolving 'Unknown' Speaker Issues on Your Windows 11 PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-realme-v30t-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Realme V30T Phone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/internal-laptop-speakers-not-working-heres-how-you-can-make-them-sound-again/"><u>Internal Laptop Speakers Not Working? Here's How You Can Make Them Sound Again!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-simplest-online-tone-generators-our-top-picks/"><u>New Simplest Online Tone Generators Our Top Picks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-connection-problems-with-the-logitech-g430-microphone/"><u>Overcoming Connection Problems with the Logitech G430 Microphone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/premium-wmv-file-reader-software-ideal-for-macos-windows-11-and-windows-10-users/"><u>Premium Wmv File Reader Software: Ideal for macOS, Windows 11 and Windows 10 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-to-enable-your-windows-scanner/"><u>Quick Fixes to Enable Your Windows Scanner</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reactivate-your-rainbow-six-siege-voice-chat-comprehensive-solutions-and-tips/"><u>Reactivate Your Rainbow Six Siege Voice Chat : Comprehensive Solutions and Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-team-coordination-solutions-for-restarting-wows-voice-communication-feature/"><u>Revive Your Team Coordination: Solutions for Restarting WoW's Voice Communication Feature</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-found-get-your-windows-11-speakers-working-again-today/"><u>Solution Found: Get Your Windows 11 Speakers Working Again Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-stream-netflix-content-through-your-nintendo-switch-gaming-system/"><u>Steps To Stream Netflix Content Through Your Nintendo Switch Gaming System</u></a></li>
+</ul></div>
 

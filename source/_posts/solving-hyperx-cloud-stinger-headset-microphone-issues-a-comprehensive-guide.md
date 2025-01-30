@@ -1,7 +1,7 @@
 ---
 title: "Solving HyperX Cloud Stinger Headset Microphone Issues: A Comprehensive Guide"
-date: 2024-08-13T10:49:45.934Z
-updated: 2024-08-14T10:49:45.934Z
+date: 2025-01-24T05:08:46.405Z
+updated: 2025-01-30T03:59:49.073Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ Many **headset** users are reporting that their headset**microphone** is not wor
  If you’re experiencing this problem, don’t worry. You should be able to fix the problem quite easily using one of the solutions we’ve listed below.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -44,22 +45,13 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Allow access to your headset microphone (for Windows 10 users)
 
  You should allow your Windows 10 system and your application to access your headset microphone before you can use it. To check this:
 
 1. On your desk, right-click on the**Start** button, and select**Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/open-settings-from-start-button.jpg)
 2. Select the**Privacy & security** section and click**Microphone** .  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/win-11-settings-privacy-microphone.jpg)
 3. Click the Change button, then make sure the**Microphone for this device** is turned**on** . Also, make sure to put**Let apps access your microphone** at On.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/win-11-settings-privacy-microphone-access-1.jpg)
@@ -68,41 +60,42 @@ Many **headset** users are reporting that their headset**microphone** is not wor
  The screenshots above are captured from a Windows 11 operating system. If you are using Windows 10 or older versions, be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Set your microphone device as default
 
  Your headset mic may be disabled or not set as the default device on your computer. Or the microphone volume is so low that it can’t record your sound clearly. To check these settings:
 
 1. **Hold down the Windows logo** **key**  and**press the R** **key** on your keyboard at the same time to bring up the Run dialog, then type “_**control**_ ” and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 2. In Control Panel, select**Large icons** from the**View by** drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Select **Sound** .![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
 4. Select the Recording tab, then right-click on any empty place inside the device list and tick Show Disabled Devices.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 5. Right click the Headset Microphone and click Enable.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
 6. Right-click it again and select Set as Default Device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
 7. Right-click Headset Microphone and click Properties.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click the Levels tab, then drag the volume slider toward the_largest value_ .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 9. Click**OK** , then click**OK** .
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio drivers
 
@@ -116,10 +109,12 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 2. Run**Driver Easy** and click the **Scan Now** button.**Driver Easy** will scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan.jpg)
 3. Click the**Activate & Update** button next to your sound device or your headset to update the latest and correct driver for it. You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer.  
- (You’ll be prompted to upgrade when you click Update All. If you are not sure whether Driver Easy is right for you, our free trial version lets you try out the_full features_ of the Pro version for 7 days. You won’t be charged before your trial ends.)  
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ (You’ll be prompted to upgrade when you click Update All. If you are not sure whether Driver Easy is right for you, our free trial version lets you try out the_full features_ of the Pro version for 7 days. You won’t be charged before your trial ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/Intel-display-audio-1.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -132,8 +127,9 @@ Many **headset** users are reporting that their headset**microphone** is not wor
  Sometimes, some communication apps like Discord, Skype, Zoom, etc. can play with your headset microphone when they’re not in use and make your headset mic not working properly. Shutting down all other programs that utilize the headset microphone is the easiest way to do it. Then check whether the problem is solved.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Troubleshoot hardware issues
 
  If your headset microphone is still not working, it’s likely there are hardware issues with your computer or your headset. In this case, there are a few things you need to do.
@@ -157,8 +153,6 @@ Many **headset** users are reporting that their headset**microphone** is not wor
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +160,22 @@ Many **headset** users are reporting that their headset**microphone** is not wor
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-effortless-introduction-designs-at-no-cost/"><u>[New] 2024 Approved Effortless Introduction Designs at No Cost</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-essential-top-10-photo-keeping-websites-never-a-missed-shot-for-2024/"><u>[New] Essential Top 10 Photo-Keeping Websites, Never a Missed Shot for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-mastering-playlist-sharing-on-youtube/"><u>[New] In 2024, Mastering Playlist Sharing on YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-segment-screen-showdown-recorders-leader-status/"><u>[Updated] Segment Screen Showdown Recorder's Leader Status</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-motivational-lens-capturing-stirring-scenes-on-ig/"><u>[Updated] The Motivational Lens Capturing Stirring Scenes on IG</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/clear-audio-pathways-address-and-fix-crackling-sounds-from-an-arctis-7-with-windows-computing-systems/"><u>Clear Audio Pathways: Address and Fix Crackling Sounds From an Arctis 7 with Windows Computing Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solutions-to-get-your-silent-bose-speakers-back-in-action/"><u>DIY Solutions to Get Your Silent Bose Speakers Back in Action</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-to-restore-speakers-in-toshibe-computers/"><u>Expert Advice to Restore Speakers in Toshibe Computers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/from-screens-to-gifs-the-art-of-converting-vimeo-footage/"><u>From Screens to Gifs The Art of Converting Vimeo Footage</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-the-economics-of-evaluating-everything-on-electronic-streams/"><u>In 2024, The Economics of Evaluating Everything on Electronic Streams</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-audio-how-to-get-speakers-functioning-in-windows-11/"><u>Reviving Audio: How to Get Speakers Functioning in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-razer-microphone-problems-with-these-easy-to-follow-steps/"><u>Solve Razer Microphone Problems with These Easy-to-Follow Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016778856-solve-your-anthem-games-sound-issues-on-windows-10-here/"><u>Solve Your Anthem Game's Sound Issues on Windows 10 Here</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/transforma-tus-archivos-mts-en-mp4-de-forma-gratuita-con-estos-trucos-sencillos/"><u>Transforma Tus Archivos Mts en Mp4 De Forma Gratuita Con Estos Trucos Sencillos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/win1011-no-response-from-epson-printer/"><u>Win10/11, No Response From Epson Printer</u></a></li>
+</ul></div>
 

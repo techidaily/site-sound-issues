@@ -1,7 +1,7 @@
 ---
 title: "League of Legends Communication Hacks: Restarting Voice Chat Services to Work Again"
-date: 2024-08-18T07:58:16.513Z
-updated: 2024-08-19T07:58:16.513Z
+date: 2025-01-28T08:50:11.496Z
+updated: 2025-01-29T18:40:24.116Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
  Occasionally, players find the**voice chat not working** in the game. If you happen to be in the same boat, don’t worry. It’s fixable.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to fix League of Legends Voice Chat Not Working
 
  Here are four fixes that have helped other users resolve the voice chat not working problem in LoL. You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
@@ -39,9 +40,6 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 
  Once you have double-checked these items, test the voice chat feature in LoL to see if it works. If yes, then great! If the problem persists, please move on to**Fix 2** below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Join voice channel automatically
 
  You may experience the sound not working in LoL if you disable the in-game sounds during some game session without you noticing it. So make sure to enable Join voice channel automatically to turn on the in-game sound.  
@@ -49,21 +47,24 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 
 1. Open League of Legends client.
 2. In the upper right corner, click**Settings** (the cog icon).  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.png)
 3. Under the**Voice** tab, make sure the Join voice channel automatically option is checked.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-1.png)
 4. Check to see if you can use the voice chat feature properly in game. If yes, then great! If it’s no joy, please move on to**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Configure the audio settings
 
  You may not be able to use voice chat due to incorrect audio settings in Windows.
@@ -71,11 +72,13 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 You can follow the steps below to check:
 
 1. On your keyboard, press the **Windows logo key** and **R**  at the same time to bring up the Run box. Then type or paste **mmsys.cpl** and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/r.png)
 2. In**Playback** tab, make sure that your preferred headphone or speaker is set as**Default Device** . Then right-click on the default device ane click**Test** to make sure you can hear sound coming through the headset.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-2.png)
 3. Click the**Recording** tab. Then make sure that your preferred mic is set as**Default Device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio-2.png)
@@ -113,8 +116,6 @@ You can follow the steps below to check:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +123,20 @@ You can follow the steps below to check:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-the-abcs-of-amassing-affection-on-fb-squaring-up-your-video-strategy-for-2024/"><u>[New] The ABC's of Amassing Affection on FB Squaring Up Your Video Strategy for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-posting-youtube-videos-to-your-facebook-feed/"><u>[Updated] In 2024, Posting YouTube Videos to Your Facebook Feed</u></a></li>
+<li><a href="https://win-able.techidaily.com/1-easy-video-to-audio-extraction-turn-your-videos-into-high-quality-mp3s/"><u>1. Easy Video-to-Audio Extraction: Turn Your Videos Into High-Quality MP3s</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-make-your-gaming-great-not-stressful/"><u>2024 Approved Make Your Gaming Great, Not Stressful</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015601033-battlefield-4-audio-problems-discover-how-to-fix-it-here/"><u>Battlefield 4 Audio Problems? Discover How to Fix It Here</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/disabling-audio-boosts-a-step-by-step-guide-for-windows-11-users/"><u>Disabling Audio Boosts: A Step-by-Step Guide for Windows 11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-mpow-mic-issues-troubleshooting-steps-for-windows-users/"><u>Fixing MPOW Mic Issues: Troubleshooting Steps for Windows Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/learn-to-link-zoom-effortlessly-with-email-clients-like-gmail-for-2024/"><u>Learn to Link Zoom Effortlessly with Email Clients Like Gmail for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-to-reactivate-steam-voice-chatting-functionality/"><u>Step-by-Step Solutions to Reactivate Steam Voice Chatting Functionality 📢</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-art-of-online-recording/"><u>The Art of Online Recording</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-oppo-a79-5g-by-drfone-android/"><u>Universal Unlock Pattern for Oppo A79 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-admin-controls-in-windows-security-alert/"><u>Unlocking Admin Controls in Windows Security Alert</u></a></li>
+</ul></div>
 

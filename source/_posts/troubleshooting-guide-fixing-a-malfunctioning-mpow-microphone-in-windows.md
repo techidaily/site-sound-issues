@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing a Malfunctioning MPOW Microphone in Windows"
-date: 2024-08-13T10:46:36.198Z
-updated: 2024-08-14T10:46:36.198Z
+date: 2025-01-27T06:16:05.087Z
+updated: 2025-01-30T01:04:29.755Z
 tags:
   - win11
   - win10
@@ -32,9 +32,6 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 * **Use the microphone on another computer** to confirm it’s not physically damaged.
 * **Check the mute switches** on your microphone and make sure it’s disabled.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1 – Run the audio troubleshooter
 
  Windows offers a set of troubleshooters to help you with the device glitches. So if something goes wrong with your Onikuma headset mic, you can start with this easy tool to detect the potential causes.
@@ -42,9 +39,18 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 1. Type**troubleshoot** in the Windows search box and select**Troubleshooting settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/run-troubleshooter-1.jpg)
 2. Scroll down to**Recording Audio** . Then select it and click**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/run-troubleshooter-2-1.jpg)
 
  Wait for the process to complete and follow the on-screen instructions to repair the detected issues. If your microphone still doesn’t work, proceed to the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Check the privacy settings
 
@@ -54,52 +60,49 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 2. Select**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-1-2.jpg)
 3. Navigate to the**Microphone** tab on the left pane. Then, click the**Change** button and**turn on** Microphone access for this device.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-2-1.jpg)
 4. **Toggle on the button** below Allow apps to access your microphone.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-3-1.jpg)
 5. Scroll to locate Allow desktop apps to access your microphone, and set the option to**On** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-2.jpg)
 
  Now you should be able to use the Onikuma headset mic with whatever applications. But if the problem persists, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3 – Set your Onikuma mic as the default device
 
  If there are multiple microphone inputs on your computer, the Onikuma headset mic might not be used properly until you set it as the default device. Here’s how:
 
 1. In the Windows search box, type**control** and select**Control Panel** .  
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-1-3.jpg)
 2. Select**Small icons** next to View by and click**Sound** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-2-1.jpg)
 3. Select the**Recording** tab. Then right-click your Onikuma headset mic and click**Enable** (if it’s not) and click**Set as Default Device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don’t see it listed, right-click any blank space and tick**Show Disabled Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-0-1.jpg)
 4. Right-click the microphone again and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-3-1.jpg)
 5. On the**Levels** tab, check whether the microphone is muted. If yes, click the**speaker icon** to unmute it and**drag the volume slider to the max** .  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-8-1.jpg)
 
  In some cases, Onikuma headset mic not working only occurs in specific applications. If so, you should**check the application settings** and manually**set the Onikuma headset as your preferred audio device** .
 
  If this method doesn’t help either, move on to the next fix to check your audio driver.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4 – Update your audio driver
 
  If the audio driver is faulty or outdated, your Onikuma headset may constantly act up and the mic isn’t working. To keep your gaming headset up and running at all times, you should update the audio driver on a regular basis.
@@ -122,21 +125,13 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click**Update** to do it for free, but it’s partly manual.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-1.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -157,8 +152,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +159,21 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-style-with-confidence-adding-border-artistry-to-your-instagram-posts/"><u>[New] 2024 Approved Style with Confidence Adding Border Artistry to Your Instagram Posts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/outube-expertise-pathway-choosing-between-standard-studio-and-beta/"><u>[New] YouTube Expertise Pathway Choosing Between Standard Studio and Beta</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-finest-free-iphone-composition-and-photo-editing-tools-reviewed/"><u>[Updated] 2024 Approved The Finest FREE iPhone Composition and Photo Editing Tools Reviewed</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-mastering-the-mechanics-an-introduction-to-gopro-time-lapse-for-2024/"><u>[Updated] Mastering the Mechanics An Introduction to GoPro Time-Lapse for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-ultimate-code-of-conduct-on-youtube/"><u>[Updated] Ultimate Code of Conduct on YouTube</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-from-past-to-present-a-detailed-tiktok-username-overhaul-guide/"><u>2024 Approved From Past to Present A Detailed TikTok Username Overhaul Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/clearer-listening-no-buzzy-interruptions-a-comprehensive-guide-to-repairing-headphone-noise-issues/"><u>Clearer Listening, No Buzzy Interruptions: A Comprehensive Guide to Repairing Headphone Noise Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-a-non-functional-logitech-camcorder-mic-a-step-by-step-guide/"><u>Fixing a Non-Functional Logitech Camcorder Mic: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-usb-headphones-on-your-pc-running-windows-wo-firiendly/"><u>Fixing Silent USB Headphones on Your PC Running Windows Wo-Firiendly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/google-meet-microphone-malfunction-on-windows-1110-heres-how-you-can-get-it-working-again/"><u>Google Meet Microphone Malfunction on Windows 11/10? Here's How You Can Get It Working Again</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-free-video-text-dynamics/"><u>Mastering FREE Video Text Dynamics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016162732-resolving-sound-distortion-and-stuttering-troubles-on-your-windows-117-system-expert-solutions-revealed/"><u>Resolving Sound Distortion & Stuttering Troubles on Your Windows 11/7 System - Expert Solutions Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-steps-to-resolve-astro-a2e-20-microphone-issues/"><u>Simple Steps to Resolve Astro A2e 20 Microphone Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-dilemma-of-missing-d3dx928dll-step-by-step-guide/"><u>Solving the Dilemma of Missing d3dx9_28.dll: Step-by-Step Guide</u></a></li>
+</ul></div>
 

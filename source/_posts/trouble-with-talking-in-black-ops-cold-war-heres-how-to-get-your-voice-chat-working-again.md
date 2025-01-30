@@ -1,7 +1,7 @@
 ---
 title: "Trouble with Talking in Black Ops: Cold War? Here's How to Get Your Voice Chat Working Again!"
-date: 2025-01-18T16:34:04.987Z
-updated: 2025-01-22T19:14:22.970Z
+date: 2025-01-26T03:23:48.252Z
+updated: 2025-01-29T20:53:08.236Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ If that didn’t work, proceed to the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Use Legacy Audio Subsystem
 
  There are instances where there’s an incompatibility between your hardware and Discord’s latest subsystem. Therefore, it’s recommended to revert to Legacy Audio Subsystem to fix the issue. To do this, follow these steps:
@@ -58,12 +62,16 @@ If that didn’t work, proceed to the next fix.
 
 ![confirm to change audio subsystem Discord](https://images.drivereasy.com/wp-content/uploads/2020/12/confirm-to-change-audio-subsystem.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once Discord reboots, check to see if the problem is resolved.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Update your audio driver
@@ -85,6 +93,10 @@ Here’s how to update drivers with Driver Easy:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.
 
@@ -110,29 +122,17 @@ Here’s how to update drivers with Driver Easy:
   
 ![set input and output device correctly](https://images.drivereasy.com/wp-content/uploads/2020/12/input-and-output-device.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once done, follow the steps below to set your audio device as the Default Communication Device:
 
  1) On your taskbar, right-click on the sound icon and select**Sounds** to open the Sound window.  
   
 ![set audio device as default Discord can't hear anyone](https://images.drivereasy.com/wp-content/uploads/2020/12/click-on-Sounds.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under the**Playback** tab. Click on your audio device. Then in the lower right, click on the drop-down menu next to the**Set Default** option and select**Default Communication Device** .
 
  3) Click**Apply > OK** to apply the changes. Then open the Discord app to check if you can hear your people now.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Use the correct output device
 
@@ -143,12 +143,16 @@ Here’s how to update drivers with Driver Easy:
 ![open Discord settings](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-settings-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the left pane, select**Voice & Video** . Under the**OUTPUT DEVICE** section, click on the down arrow and select your output device instead of Default.
 
 ![use the correct output device Discord](https://images.drivereasy.com/wp-content/uploads/2020/12/use-the-correct-output-device.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Exit the Settings and you should be able to hear something from Discord.
 
@@ -161,10 +165,6 @@ Here’s how to update drivers with Driver Easy:
  2) Type**taskmgr** and press**Enter** .
 
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/10/open-task-manager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Under the**Processes** tab, navigate to your game. Right-click it and select**Go to details** . Then you’ll be directed to the**Details** tab and your game will be highlighted. Till then, right-click it and select**Set priority > Normal/ Realtime** .
 
@@ -185,19 +185,19 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/hoosing-between-tiktok-and-youtube-shorts-a-users-guide-for-2024/"><u>[New] Choosing Between TikTok and YouTube Shorts A User's Guide for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-how-to-turn-a-tiktok-sound-into-your-ringtone-a-detailed-guidance/"><u>[New] How To Turn A TikTok Sound Into Your Ringtone? A Detailed Guidance</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-luminous-leaders-top-5-monitors-that-bring-shades-to-life/"><u>[Updated] 2024 Approved Luminous Leaders Top 5 Monitors That Bring Shades to Life</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-enhance-your-ios-experience-with-ps2-emulators/"><u>[Updated] Enhance Your IOS Experience with PS2 Emulators</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-from-graphic-geniuses-to-sticker-stars-in-all-chat-apps/"><u>2024 Approved Step by Step From Graphic Geniuses to Sticker Stars in All Chat Apps</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-spark-10-pro-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from Spark 10 Pro</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-for-troubleshooting-the-absence-of-nvidia-high-definition-audio-output/"><u>Expert Advice for Troubleshooting the Absence of Nvidia High Definition Audio Output</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-restoring-microphone-functionality-in-steelseries-arctis-1/"><u>Expert Tips: Restoring Microphone Functionality in SteelSeries Arctis 1</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/screens-to-spreads-the-dos-and-donts-of-live-blogging/"><u>From Screens to Spreads The Do's and Don'ts of Live Blogging</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-samsung-galaxy-a54-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Samsung Galaxy A54 5G to Another | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-11-pro-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 11 Pro Properly | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-onikuma-microphone-expert-tips-for-resolving-mic-not-working/"><u>Revive Your Onikuma Microphone: Expert Tips for Resolving 'Mic Not Working'</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-windows-scanner-a-step-by-step-guide/"><u>Reviving Your Windows Scanner: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015727900-the-latent-heat-of-fusion-for-ice-is-334-kjkg/"><u>The Latent Heat of Fusion for Ice Is 334 kJ/Kg.</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-navigate-the-melody-maze-crafting-a-personalized-youtube-playlist/"><u>[New] In 2024, Navigate the Melody Maze Crafting a Personalized YouTube Playlist</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-unleash-potential-in-online-collaboration-using-snap-photography/"><u>[New] Unleash Potential in Online Collaboration Using Snap Photography</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elevate-your-content-strategy-with-social-blade-and-youtube-stats-for-2024/"><u>[Updated] Elevate Your Content Strategy with Social Blade and YouTube Stats for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-uncompromised-creativity-best-macos-big-sur-editing-tools-ranked/"><u>[Updated] In 2024, Uncompromised Creativity Best macOS Big Sur Editing Tools Ranked</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-oppo-a56s-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Oppo A56s 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-correctly-update-and-repair-dell-sound-drivers-in-windows-7/"><u>How to Correctly Update and Repair Dell Sound Drivers in Windows 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-services-not-operational-on-your-device/"><u>How to Fix: Audio Services Not Operational on Your Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-undetected-headphones-problems-for-playback-devices-in-windows-11/"><u>How to Resolve Undetected Headphones Problems for Playback Devices in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-voice-chat-functionality-in-valorant/"><u>How to Restore Voice Chat Functionality in Valorant</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-solve-common-audio-glitches-in-outriders-expert-advice-and-fixes/"><u>How to Solve Common Audio Glitches in Outriders – Expert Advice and Fixes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/latest-release-nvidia-gtx-1060-software/"><u>Latest Release: Nvidia GTX 1060 Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-sound-problems-repairing-logitech-g935-microphone-compatibility-with-windows/"><u>Solving Sound Problems: Repairing Logitech G935 Microphone Compatibility with Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-your-iphones-calendar-data-on-windows-10/"><u>Unlocking Your iPhone's Calendar Data on Windows 10</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1728480686124-windows-11/"><u>Windows 11 重置到出厂设置的两种无需付出一丝力气的方法</u></a></li>
 </ul></div>
 

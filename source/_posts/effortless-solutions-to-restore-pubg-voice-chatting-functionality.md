@@ -1,7 +1,7 @@
 ---
 title: Effortless Solutions to Restore PubG Voice Chatting Functionality
-date: 2024-08-13T10:49:51.855Z
-updated: 2024-08-14T10:49:51.855Z
+date: 2025-01-28T16:44:19.268Z
+updated: 2025-01-29T18:14:46.027Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/389119a9b1ef7454e728ac8598e8590bfc343297a
 Corsair Virtuoso gaming headset is not working properly? If you can’t be heard on the microphone, you can follow the troubleshooting steps in this post.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [**Make sure you use the right ports**](https://tools.techidaily.com/drivereasy/download/)
@@ -28,14 +29,15 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 4. [**Change to DVD quality**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Let Windows find the problem for you**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### 1\. Make sure you use the right ports
 
  You can connect your Virtuoso headset using the Slipstream Wireless dongle, a 3.5mm jack, or a USB connection. No matter what wired connection you use, you should first make sure you’re utilizing the correct port.
 
  Then, ensure the detachable microphone is firmly plugged in and check if the RGB LED ring indicates the live status (green).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Set Virtuoso as the default recording device
 
@@ -45,12 +47,14 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 2. Go to the**Recording** tab and set your headset as the default device. Your device should be displayed as**Corsair Virtuoso** and shows strong signals when you speak.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Right-click your**Corsair Virtuoso** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
 4. Go to the**Levels** tab and drag the slider to a proper volume.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 5. Click**OK** .
 
@@ -74,36 +78,32 @@ There are mainly two ways for you to do this:
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/gaming-headset.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 4. Reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance or the issue persists after updating all the drivers, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Change to DVD quality
 
  The Virtuoso microphone not working can also be caused by an unsupported audio format. Therefore, you can follow the method below to change the sound settings to DVD quality.
 
 1. Right-click the Volume icon in the notification area, and select**Open Sound settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. In the**Input** section, click**Device properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/device.jpg)
 3. Click**Additional device properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/additional.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 4. Go to the**Advanced** tab, and select**DVD Quality** in the**Default Format** section. ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-format.jpg)
 5. Click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Let Windows find the problem for you
 
@@ -111,10 +111,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 1. Right-click the volume button in the notification area, and select**Troubleshoot sound problems** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/troubleshoot.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Follow the instructions given in the popped-up Help window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. You may need to restart your computer for the changes to take effect.
 
 ---
@@ -131,8 +133,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +140,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-proven-techniques-for-capturing-dynamic-and-engaging-ppts/"><u>[New] 2024 Approved Proven Techniques for Capturing Dynamic and Engaging PPTs</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-constructing-captivating-youtube-music-selections/"><u>[Updated] Constructing Captivating YouTube Music Selections</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-expert-tips-for-streamlining-youtube-audio-into-imovie/"><u>[Updated] In 2024, Expert Tips for Streamlining YouTube Audio Into iMovie</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-full-length-guide-to-transforming-gif-images-into-fun-stickers-on-popular-messengers/"><u>[Updated] In 2024, Full-Length Guide to Transforming GIF Images Into Fun Stickers on Popular Messengers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-masterclass-in-merging-movies-with-modern-education-for-2024/"><u>[Updated] Masterclass in Merging Movies with Modern Education for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comprehensive-guide-on-macx-dvd-ripper-pro-popularity-and-feedback-compilation/"><u>Comprehensive Guide on MacX DVD Ripper Pro Popularity & Feedback Compilation</u></a></li>
+<li><a href="https://fox-access.techidaily.com/cutting-edge-vr-tools-for-drones-for-2024/"><u>Cutting-Edge VR Tools for Drones for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/diagnosing-and-resolving-ram-troubles-in-your-pc-a-comprehensive-guide-by-yl-software-experts/"><u>Diagnosing and Resolving RAM Troubles in Your PC: A Comprehensive Guide by YL Software Experts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-headphone-detection-issues-for-windows-10-media-streams/"><u>How to Fix Headphone Detection Issues for Windows 10 Media Streams</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-stereo-sound-issues-on-your-device-quick-guide/"><u>How to Fix Stereo Sound Issues on Your Device - Quick Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-unresponsive-microphone-in-airpods-when-using-windows-11/"><u>How to Fix Unresponsive Microphone in AirPods When Using Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-malfunctioning-razer-kraken-audio-device/"><u>How to Repair a Malfunctioning Razer Kraken Audio Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-no-audio-output-from-external-speakers-in-windows-environment/"><u>How to Resolve No Audio Output From External Speakers in Windows Environment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-game-sounds-resolving-world-of-warcrafts-muting-troubles/"><u>How to Restore Game Sounds - Resolving World of Warcraft's Muting Troubles</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-stop-unexpected-noise-interferences-in-windows-easily/"><u>How to Stop Unexpected Noise Interferences in Windows Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-successfully-restore-and-improve-your-voicemod-experience/"><u>How to Successfully Restore and Improve Your Voicemod Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/modern-troubleshooting-correcting-sound-delays-on-your-devices-latest-guide/"><u>Modern Troubleshooting: Correcting Sound Delays on Your Devices (Latest Guide)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/neuroplasticity-through-polyglotism/"><u>Neuroplasticity Through Polyglotism</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-computer-equipment/"><u>Tom's Tech Reviews: The Ultimate Guide to Computer Equipment</u></a></li>
+</ul></div>
 

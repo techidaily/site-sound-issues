@@ -1,7 +1,7 @@
 ---
 title: How to Regain Sound Functionality Following the Most Recent Update for Windows 11 Systems
-date: 2025-01-19T19:45:38.964Z
-updated: 2025-01-22T18:00:15.298Z
+date: 2025-01-25T00:22:27.761Z
+updated: 2025-01-30T00:04:18.734Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ When you’re trying to trick your friends by changing your voice in Discord, Zo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -41,7 +41,7 @@ When you’re trying to trick your friends by changing your voice in Discord, Zo
 7. **[Scan and repair your system](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Restart your PC
@@ -63,23 +63,11 @@ You can follow these steps to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/windows-settings-click-sound.jpg)
 3. First you need to test your microphone. Under the**Input** section, set your input device to the**physical one (e.g. Headset)** instead of the virtual Microphone of Voicemod. Then click**Device properties and test microphone** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/voicemod-test-mic-1.jpg)
 4. Make sure you’ve **unchecked the box** next to **Disable** , and the slider under the **Volume** section is set to **100** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
 5. Click **Start test** and tap or speak to your microphone. Then click **Stop test** . If you’re prompted **The highest value we saw was xx (xx>0) percent** , it means your microphone is working correctly.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/test-mic-new.jpg)
 6. At the bottom right corner of your screen, right-click the sound icon and select**Sounds** .  
@@ -96,7 +84,7 @@ You can follow these steps to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/voicemod-sound-set-default.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now you can restart Voicemod and see if it’s working.
@@ -117,7 +105,7 @@ Here’s an example of Discord:
 If this doesn’t work for you, simply move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Reinstall Voicemod drivers
@@ -129,6 +117,10 @@ First you need to uninstall the Voicemod driver:
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**devmgmt.msc** and click**OK** to open Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/device-manager-run-box-ok.jpg)
 2. Click to expand**Audio inputs and outputs** . Right-click**Microphone (Voicemod Virtual Audio Device (WDM))** and select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/voicemod-reinstall-1.jpg)
 3. In the pop-up window, click**Uninstall** .  
@@ -151,10 +143,6 @@ First you need to uninstall the Voicemod driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-voicemod-update-all.jpg)
 
@@ -172,11 +160,11 @@ Here’s a quick guide for that:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then search and install the system updates automatically.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To make sure you’ve installed **all**  the system updates, repeat these steps until it prompts “You’re up to date” when you click **Check for updates** .
 
@@ -184,11 +172,19 @@ Here’s a quick guide for that:
 
 If this fix doesn’t work for you, simply try the next one below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Overwrite current version with fresh install
 
  Some users reported that reinstalling could fix the Voicemod issue. You can try the same and see if this works. Note that this time we’re taking a different approach—instead of uninstalling, we just**overwrite the current version with the latest** .
 
  To do so, simply go to the[**Voicemode website**](https://www.voicemod.net/) and download the latest installer. Next open it and follow the on-screen instructions to proceed. This will automatically overwrite the previous build.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Scan and repair your system
 
@@ -200,6 +196,10 @@ If this fix doesn’t work for you, simply try the next one below.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -224,24 +224,17 @@ If this fix doesn’t work for you, simply try the next one below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-perfecting-pics-with-practicality-top-5-pc-snipping-tools/"><u>[New] 2024 Approved Perfecting Pics with Practicality - Top 5 PC Snipping Tools</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-techniques-for-restarting-disrupted-live-feeds-fb-for-2024/"><u>[New] Techniques for Restarting Disrupted Live Feeds (FB) for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-no-sound-in-world-of-warcraft/"><u>[Solved] No Sound in World of Warcraft</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-in-depth-analysis-complete-revamp-of-facetune-app/"><u>[Updated] 2024 Approved In-Depth Analysis Complete Revamp of Facetune App</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-network-growth-strategy-share-twitch-live-links-on-fb/"><u>[Updated] 2024 Approved Network Growth Strategy Share Twitch Live Links on FB</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-a-chill-out-guide-selecting-inviting-winter-backgrounds/"><u>[Updated] A Chill-Out Guide Selecting Inviting Winter Backgrounds</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-best-auto-tracking-mount-for-cameras-and-phones/"><u>[Updated] Best Auto Tracking Mount for Cameras and Phones</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-good-to-great-elevate-your-tiktok-edits/"><u>From Good to Great Elevate Your TikTok Edits</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/how-can-i-enhance-my-pcs-performance-with-hardware-improvements-yl-computing/"><u>How Can I Enhance My PC's Performance with Hardware Improvements? - YL Computing</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-honor-magic-6-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Honor Magic 6 Pro to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/maximize-your-gridiron-experience-with-these-5-key-streamers-for-the-entire-nfl-season/"><u>Maximize Your Gridiron Experience with These 5 Key Streamers for the Entire NFL Season</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-the-puzzle-of-audio-hiccups-in-bluetooth-connections-on-microsofts-latest-os/"><u>Resolve the Puzzle of Audio Hiccups in Bluetooth Connections on Microsoft's Latest OS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-microphones-volume-issues-a-comprehensive-guide/"><u>Solve Your Microphone's Volume Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-your-microphones-volume-problem-a-step-by-step-guide/"><u>Solving Your Microphone’s Volume Problem - A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/squad-mic-malfunction-solutions-and-tips-for-gamers-edition/"><u>Squad Mic Malfunction Solutions & Tips for Gamers - Edition</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-strategies-for-dealing-with-playback-tone-issues/"><u>Step-by-Step Strategies for Dealing with 'Playback Tone Issues'</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-definitive-solution-for-eliminating-audio-delays-2024s-top-strategies/"><u>The Definitive Solution for Eliminating Audio Delays: 2024'S Top Strategies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-unconnected-nvidia-ports-with-proven-techniques/"><u>Troubleshoot Unconnected Nvidia Ports with Proven Techniques</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-a-non-functional-front-panel-audio-jack/"><u>Troubleshooting and Fixing a Non-Functional Front Panel Audio Jack</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-unveil-the-untouched-best-of-insta-stories/"><u>[New] In 2024, Unveil the Untouched Best of Insta Stories</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-luminaries-crafting-spectaculous-vr-journeys/"><u>2024 Approved Luminaries Crafting Spectaculous VR Journeys</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/apex-legends-and-voice-chat-woes-discover-simple-solutions-to-sound-off-in-the-game/"><u>Apex Legends and Voice Chat Woes? Discover Simple Solutions to Sound Off in the Game</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/breaking-down-manycams-recording-capabilities-for-professionals/"><u>Breaking Down ManyCam's Recording Capabilities for Professionals</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/capture-and-save-your-snapchat-screen-seamlessly-for-2024/"><u>Capture and Save Your Snapchat Screen Seamlessly for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/constant-disconnects-with-your-printer-discover-why-and-fix-it-tips-by-yl-computing-expertise/"><u>Constant Disconnects with Your Printer? Discover Why and Fix It - Tips by YL Computing Expertise</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/crafting-cinematic-magic-essential-tips-for-creating-stunning-slow-motion-media-on-instagram/"><u>Crafting Cinematic Magic Essential Tips for Creating Stunning Slow-Motion Media on Instagram</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-logitech-camera-and-mic-back-online-expert-troubleshooting-tips/"><u>Get Your Logitech Camera and Mic Back Online - Expert Troubleshooting Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-phantom-v-fold-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Phantom V Fold</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/rectify-audio-problems-on-your-computer-a-comprehensive-guide-for-windows-11-users/"><u>Rectify Audio Problems on Your Computer: A Comprehensive Guide for Windows 11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-bluetooth-audio-jitters-in-windows-10-and-11-solutions-inside/"><u>Troubleshooting Bluetooth Audio Jitters in Windows 10 & 11 – Solutions Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-resolving-issues-with-unresponsive-mic-and-audio-detection/"><u>Ultimate Guide: Resolving Issues with Unresponsive Mic and Audio Detection</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Zoom Microphone Not Working on Windows 11/10"
-date: 2024-08-13T10:46:51.512Z
-updated: 2024-08-14T10:46:51.512Z
+date: 2025-01-24T03:07:03.627Z
+updated: 2025-01-30T05:51:39.675Z
 tags:
   - win11
   - win10
@@ -27,9 +27,6 @@ You’re joining an online meeting on Zoom but find the microphone isn’t worki
 4. **[Modify Zoom’s audio settings](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Zoom](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ### Fix 1 – Allow access to your microphone
 
  To use your microphone on Zoom, you should ensure this app has the necessary microphone acccess. Follow these steps to configure the settings correctly:
@@ -42,33 +39,36 @@ You’re joining an online meeting on Zoom but find the microphone isn’t worki
 
 **2)** In the left pane, scroll down and click**Microphone** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-2.jpg)
 
 **3)** Click**Change** , and make sure Microphone access for this device is**on** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** **Toggle on** to allow apps to access your microphone.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Scroll down to the**Allow desktop apps to access your microphone** section, and make sure to**turn on** this setting.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now that you’ve granted the access, check if your microphone can pick up your voice as intended. If not, please proceed to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2 – Check your microphone settings
 
  The wrong settings, such as the microphone being muted or not set as the default device or the too low volume, will prevent your microphone from working normally on Zoom. So you should configure everything in the settings correctly.
@@ -85,12 +85,17 @@ You’re joining an online meeting on Zoom but find the microphone isn’t worki
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Make sure your microphone is enabled. If not, right-click it and click**Enable** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Check if your microphone is set as the default device. If not, click it and click**Set Default** .
 
@@ -106,18 +111,20 @@ You’re joining an online meeting on Zoom but find the microphone isn’t worki
 
 **8)** Click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After settings are applied as above, your microphone should be working fine. You can simply take a mic test on Zoom to check. If the issue persists, please move on to the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3 – Update your audio driver
 
  One of the most common causes of Zoom microphone not working is an outdated or a faulty audio driver. To keep your audio devices work in the tip-top condition, you should install the latest audio driver.
@@ -132,19 +139,17 @@ There are two ways you can update your audio driver:
 
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-1-9.jpg)
 
 **3)** Click the**Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -155,16 +160,16 @@ There are two ways you can update your audio driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4 – Modify Zoom’s audio settings
 
  If your microphone works well on other programs and only runs into problems on Zoom, the reason may be the app’s settings. You can adjust the settings as follows and see whether this brings back your audio input.
 
 **1)** Launch Zoom. Then, click the**cogwheel icon** on the top right corner to enter Zoom’s settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-1.jpg)
 
 **2)** Click the**Audio** tab, select the right microphone you’re using from the drop-down menu next to Microphone.
@@ -177,9 +182,6 @@ There are two ways you can update your audio driver:
 
 **4)** Click the**Advanced** button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4.jpg)
 
 **5)** Configure the settings as below:
@@ -198,16 +200,10 @@ There are two ways you can update your audio driver:
 
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Then, type**appwiz.cpl** and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/6-1.jpg)
 
 **2)** Right-click**Zoom** and click**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/6-2-1.jpg)
 
  Follow the on-screen instructions to complete the uninstallation process. Then, download Zoom from the **[official website](https://zoom.us/download)**  and install a fresh new app on your computer.
@@ -226,8 +222,6 @@ There are two ways you can update your audio driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -235,4 +229,18 @@ There are two ways you can update your audio driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-navigating-video-creation-with-the-ultimate-screencast-guidebook/"><u>[New] In 2024, Navigating Video Creation with The Ultimate Screencast Guidebook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-guide-to-using-google-analytics-for-growth/"><u>[New] The Ultimate Guide to Using Google Analytics for Growth</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-bites-to-blocks-top-10-video-editing-principles/"><u>[Updated] 2024 Approved From Bites to Blocks Top 10 Video Editing Principles</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-mastering-profits-a-comprehensive-vimeo-revenue-strategy/"><u>[Updated] 2024 Approved Mastering Profits A Comprehensive Vimeo Revenue Strategy</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/an-in-depth-look-at-basic-and-simplified-hdr-photography-for-2024/"><u>An In-Depth Look at Basic and Simplified HDR Photography for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-problems-and-solutions-dealing-with-a-malfunctioning-lucidsound-ls30-mic/"><u>Common Problems & Solutions: Dealing With a Malfunctioning LucidSound LS30 Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-unplugged-nvidia-output-issues/"><u>Diagnosing and Fixing Unplugged Nvidia Output Issues</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-lava-blaze-2-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Lava Blaze 2 Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/in-depth-diagnosis-and-repair-strategies-for-malfunctioning-beyond-the-wire-mics/"><u>In-Depth Diagnosis and Repair Strategies for Malfunctioning Beyond The Wire Mics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-speakers-the-ultimate-solution-for-no-audio-in-zoom-meetings-on-windows-1011/"><u>Reviving Speakers: The Ultimate Solution for No Audio in Zoom Meetings on Windows 10/11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-issues-with-disconnected-realtek-hd-audio-drivers/"><u>Solved: Issues with Disconnected Realtek HD Audio Drivers</u></a></li>
+</ul></div>
 

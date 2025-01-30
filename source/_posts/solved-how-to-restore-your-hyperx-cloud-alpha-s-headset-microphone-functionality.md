@@ -1,7 +1,7 @@
 ---
 title: "Solved: How to Restore Your HyperX Cloud Alpha S Headset Microphone Functionality"
-date: 2024-08-13T10:48:03.542Z
-updated: 2024-08-14T10:48:03.542Z
+date: 2025-01-27T04:51:21.158Z
+updated: 2025-01-30T02:58:24.808Z
 tags:
   - win11
   - win10
@@ -15,17 +15,10 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 
 ## Turtle Beach Microphone Malfunction? Here's How to Restore Sound
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a1e37a756-231x300.jpg)
 
  Many **Turtle Beach** users are reporting that their **headset** microphone is not working properly — it’s not recording any sound! If you’re experiencing this problem, don’t worry. You should be able to fix the problem quite easily using one of the solutions we’ve listed below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fixes to try
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -46,10 +39,11 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Select **Sound** .
 
@@ -63,33 +57,35 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Right click it again and select **Set as Default Device** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
 
 **7)** Right click**Headset Microphone** and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
 
 **8)** Click the**Levels** tab, then drag the volume slider towards the_largest value_ .
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **9)** Click**OK** , then click**OK** .
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Update your audio drivers
 
@@ -107,11 +103,11 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 **3)** Click the**Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) — if you don’t already have it, you’ll be prompted to upgrade when you click**Update All** .)  
 
@@ -138,8 +134,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +141,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-versus-tiktok-whats-the-real-difference-for-2024/"><u>[New] Snapchat Versus TikTok What's The Real Difference for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-a-stepwise-strategy-to-make-mark-with-memes-at-9gag/"><u>[Updated] 2024 Approved A Stepwise Strategy to Make Mark with Memes at 9GAG</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-insider-secrets-for-online-gamers-channel-templates/"><u>2024 Approved Insider Secrets for Online Gamers' Channel Templates</u></a></li>
+<li><a href="https://win-docs.techidaily.com/automate-your-outlook-top-2-methods-for-effortless-pst-file-backups/"><u>Automate Your Outlook: Top 2 Methods for Effortless PST File Backups</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetooth-sound-issues-troubleshooting-for-windows-10-and-11-expert-solutions/"><u>Bluetooth Sound Issues Troubleshooting for Windows 10 & 11: Expert Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/destiny-2-players-beware-uncovering-solutions-for-failed-game-voice-chats/"><u>Destiny 2 Players Beware! Uncovering Solutions for Failed Game Voice Chats</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-nubia-red-magic-8s-proplus-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Nubia Red Magic 8S Pro+ FRP Locks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-sound-back-in-zoom-sessions-a-windows-users-guide/"><u>How to Get Sound Back in Zoom Sessions: A Windows User's Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mssql-revival-story-damian-wideras-testimonial/"><u>MSSQL Revival Story: Damian Widera's Testimonial</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pc-audio-solutions-a-step-by-step-guide-to-restoring-your-computers-sound-capabilities/"><u>PC Audio Solutions: A Step-by-Step Guide to Restoring Your Computer’s Sound Capabilities</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-tips-for-resolving-not-plugged-in-errors-with-realtek-sound-cards/"><u>Quick Tips for Resolving 'Not Plugged In' Errors with Realtek Sound Cards</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-logitech-g733-mic-problems-expert-fixes-and-advice/"><u>Resolve Logitech G733 Mic Problems: Expert Fixes & Advice</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-the-best-value-premium-laptops-for-black-friday-and-cyber-monday-2024-zdnet-insights/"><u>Secure the Best Value - Premium Laptops for Black Friday & Cyber Monday 2024 | ZDNet Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/skype-volume-troubles-heres-how-to-restore-your-sound/"><u>Skype Volume Troubles? Here's How to Restore Your Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/untangling-nvidia-connection-problems-proven-methods-to-get-everything-plugged-in-correctly/"><u>Untangling NVIDIA Connection Problems: Proven Methods to Get Everything Plugged In Correctly</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-essential-adobe-premiere-pro-extensions-free-and-paid-options/"><u>Updated 2024 Approved Essential Adobe Premiere Pro Extensions Free & Paid Options</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
+</ul></div>
 

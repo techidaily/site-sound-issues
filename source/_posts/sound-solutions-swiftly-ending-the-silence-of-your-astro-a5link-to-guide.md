@@ -1,7 +1,7 @@
 ---
 title: "Sound Solutions: Swiftly Ending the Silence of Your Astro A5([link to Guide])"
-date: 2024-08-13T10:45:55.712Z
-updated: 2024-08-14T10:45:55.712Z
+date: 2025-01-28T19:48:51.960Z
+updated: 2025-01-30T03:39:44.007Z
 tags:
   - win11
   - win10
@@ -30,13 +30,18 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 4. **[Restart Windows Audio Services](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your computer
 
  Some programs running in the background may conflict with Apex Legends, causing audio issues. In this case, try rebooting your computer to turn off unwanted programs completely. After your computer restarts, relaunch your game to check if you get the sound back. If not, read on and check the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Run the Windows audio troubleshooter
 
  Another quick fix to Apex Legends audio problems is running**the audio troubleshooter** . Follow the instructions below:
@@ -50,9 +55,6 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 
 **2)** Click**Playing Audio** , then click**Run the troubleshooter** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-323.png)
 
 **3)** Follow the on-screen instructions to troubleshoot your problem.
@@ -97,9 +99,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-281.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Restart Windows Audio Services
 
@@ -107,25 +117,20 @@ OR
 
 **1)** On your keyboard, press the**Windows logo** key and type**services** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-324.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Right-click**Windows Audio** , then select**Restart** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-326.png)
 
 **3)** Relaunch your game to test your issue.
 
  This should allow you to hear Apex Legends and everything else. If your issue still exists, don’t fret. There is still one more fix to try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Reinstall Apex Legends
 
  If none of the fixes above helped, reinstalling Apex Legends is very likely the solution to your issue. Here is how to do it:
@@ -134,9 +139,6 @@ OR
 
 **2)** Click**My Game Library** , right-click**Apex Legends** and select**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-327.png)
 
 **3)** After your game is uninstalled, restart your computer.
@@ -158,8 +160,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +167,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/nveiling-techniques-for-targeted-youtube-video-download-for-2024/"><u>[New] Unveiling Techniques for Targeted YouTube Video Download for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-assemble-mp3-files-with-powerpoint-narratives/"><u>[Updated] Assemble MP3 Files with PowerPoint Narratives</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-guide-to-notable-platforms-offering-text-modifications/"><u>2024 Approved Guide to Notable Platforms Offering Text Modifications</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-reverse-artisan-group/"><u>2024 Approved Reverse Artisan Group</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/windowsmac-os/"><u>逐步解決方案：如何在Windows及Mac OS環境中重建被移除的文件夾</u></a></li>
+<li><a href="https://win-dash.techidaily.com/bluetooth-ready-in-no-time-with-speedy-windows-7-driver-installations/"><u>Bluetooth-Ready in No Time with Speedy Windows 7 Driver Installations</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-google-pixel-7a-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Google Pixel 7a Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-realme-c51-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Realme C51 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-when-your-tozo-t6-device-fails-in-windows-11-environments/"><u>Step-by-Step Solutions for When Your Tozo T6 Device Fails in Windows 11 Environments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-your-turtle-beach-microphone-heres-how-to-restore-functionality/"><u>Trouble with Your Turtle Beach Microphone? Here's How to Restore Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-resolving-loudspeaker-issues-in-modern-windows-operating-environments/"><u>Troubleshooting and Resolving Loudspeaker Issues in Modern Windows Operating Environments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-device-usage-conflicts-with-hdmi-functionality/"><u>Troubleshooting Device Usage Conflicts with HDMI Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functioning-mic-on-skype-for-windows-10-users/"><u>Troubleshooting Guide: How to Fix a Non-Functioning Mic on Skype for Windows 10 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-repair-turtle-beach-elite-atlas-headset-microphone-issues/"><u>Troubleshooting Guide: How to Repair Turtle Beach Elite Atlas Headset Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-razer-blackshark-v2-mic-failure-resolution/"><u>Troubleshooting Guide: Razer Blackshark V2 Mic Failure Resolution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-idt-hd-audio-codec-setup-for-windows-11-users/"><u>Troubleshooting IDT HD Audio Codec Setup for Windows 11 Users</u></a></li>
+</ul></div>
 

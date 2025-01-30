@@ -1,7 +1,7 @@
 ---
 title: Restore Your Voice in Battle - Resolving Warzone's Microphone & Speaker Problems on PC and Console
-date: 2024-08-13T10:48:29.309Z
-updated: 2024-08-14T10:48:29.309Z
+date: 2025-01-23T19:36:49.752Z
+updated: 2025-01-30T01:23:11.175Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ When you’re ready to fight side by side with your mates in Warzone, the last t
  Though this might seem tricky, it’s usually not hard to fix at all. In this tutorial, we’ll guide you through several fixes and help you reconnect with your amigos in a jiff.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try all the fixes. Just work your way down until you find the one that scores.
@@ -32,16 +33,10 @@ When you’re ready to fight side by side with your mates in Warzone, the last t
 4. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Change in-game settings (PC & Console)](https://www.drivereasy.com/knowledge/fixed-cod-warzone-voice-chat-not-working/#fix5)**
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Check the connection of your device
 
  So let’s start with the basics. When your voice chat isn’t working, first you need to**check the connection of your device** . That means you should check if the cable is broken and is securely plugged into the correct headphone jack. You can also do a simple replug and see how it goes. In addition, if your device comes with a mic switch, make sure it’s turned on.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/audio-headphone-ports.jpg)
 
  If there’s nothing suspicious with the connection, you can check out the next fix.
@@ -55,19 +50,27 @@ Here’s how:
 #### Set up your mic correctly on Windows
 
 1. At the bottom right corner of your screen, right-click the**Sound** icon and select**Open Sound settings** .  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/bottom-right-corner-sound-settings.jpg)
 2. Under the **Input**  section, make sure your input device is set to your desired one. Then click **Device properties and test microphone** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/input-device-testing.jpg)
 3. Uncheck the box next to**Disable** , and set the slider under **Volume**  to 100.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
 4. Click **Start test** and tap or speak to your microphone. Then click **Stop test** . If you’re prompted **The highest value we saw was xx (xx > 0) percent** , it means your microphone is working correctly.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/sound-test-percent.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next you need to enable your mic in the**Battle.net** client.
 
@@ -75,9 +78,6 @@ Here’s how:
 
 1. Open your**Battle.net** client.
 2. At the top left corner, click the**BLIZZARD** icon and select**Settings** from the drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/battle-net-settings-1.jpg)
 3. On the menu to your left, select **Voice Chat** . Set **OUTPUT DEVICE** and **INPUT DEVICE** to **System Default Device** . Then click **Done** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-voice-chat.jpg)
@@ -109,23 +109,6 @@ Now you can launch Warzone and test the game chat.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-realtek-audio-driver.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -135,8 +118,9 @@ Key features:
  If updating the audio driver doesn’t work for you, simply continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Install all Windows updates
 
 **System updates** are as important as driver updates. Updates in Windows 10 include security patches and sometimes a performance booster. And they can to some extend fix some compatibility issues.
@@ -144,12 +128,18 @@ Key features:
 So here’s a simple guide:
 
 1. On your keyboard, press **Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click **Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click **Check for updates** . Windows will automatically download and install the available updates. Wait for the process to complete.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -181,8 +171,6 @@ Now restart Warzone and check if you can chat with your friends now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +178,22 @@ Now restart Warzone and check if you can chat with your friends now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevate-your-content-from-instagram-vids-to-crisp-mp4-files/"><u>[Updated] Elevate Your Content From Instagram Vids to Crisp MP4 Files</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-networking-galore-places-for-youtube-affiliate-marketing-for-2024/"><u>[Updated] Networking Galore Places for YouTube Affiliate Marketing for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-transition-turning-mac-videos-into-discs/"><u>2024 Approved Seamless Transition Turning Mac Videos Into Discs</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>5 Easy Ways to Change Location on YouTube TV On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015765423-bluetooth-speaker-lags-resolve-now-with-ease/"><u>Bluetooth Speaker Lags - Resolve Now with Ease!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-fixing-unresponsive-headphones-and-speakers-in-windows-1187-environments/"><u>Guide to Fixing Unresponsive Headphones and Speakers in Windows 11/8/7 Environments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-nvidia-high-definition-audio-no-sound/"><u>How to Fix Nvidia High Definition Audio No Sound</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-s17t-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo S17t Without PUK Codes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/iphone-xs-data-recovery-software-to-recover-lost-ios-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone XS® Data Recovery Software to Recover Lost iOS® Data | Stellar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-art-of-solving-your-pcs-sound-stuttering-on-windows-107-with-simple-steps/"><u>Master the Art of Solving Your PC's Sound Stuttering on Windows 10/7 with Simple Steps</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/precise-steps-to-take-prior-to-buying-recording-equipment/"><u>Precise Steps to Take Prior to Buying Recording Equipment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-silent-laps-effective-techniques-for-fixing-laptop-speaker-issues/"><u>Resolving Silent Laps: Effective Techniques for Fixing Laptop Speaker Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-sound-on-a-toshibe-notebook-proven-techniques-and-advice/"><u>Reviving Sound on a Toshibe Notebook: Proven Techniques and Advice</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/seamless-streaming-smarter-storing-top-51-exclusive-android-mobile-video-trimming-software/"><u>Seamless Streaming, Smarter Storing Top 51 Exclusive Android Mobile Video Trimming Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-how-to-fix-voice-communication-problems-in-pubg/"><u>Troubleshooting: How to Fix Voice Communication Problems in PUBG</u></a></li>
+</ul></div>
 

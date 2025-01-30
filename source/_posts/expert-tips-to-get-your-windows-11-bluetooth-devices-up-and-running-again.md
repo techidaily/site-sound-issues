@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Get Your Windows 11 Bluetooth Devices Up and Running Again
-date: 2025-01-17T21:04:39.531Z
-updated: 2025-01-22T19:50:09.934Z
+date: 2025-01-25T08:20:55.571Z
+updated: 2025-01-29T22:00:08.034Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ If you’re trying to make your Airpods pro mic working on Windows PC, you’ve 
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Before trying fixes
 
@@ -44,10 +48,6 @@ If the issue still exists, move to the below fixes.
 3. [Install Windows updates](https://tools.techidaily.com/drivereasy/download/)
 4. [Use a Bluetooth adapter](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Set as default communications device
 
  To make your AirPods mic work, you have to set it as default communications device.
@@ -56,25 +56,17 @@ If the issue still exists, move to the below fixes.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-41-45.jpg)
 2. In the**Playback** tab, right-click on the AirPods headset and click**Set as Default Communication Device** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-47-39.jpg)
 3. In the**Recording** tab, right-click on the AirPods headset and click**Set as Default Communication Device** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-47-54.jpg)
 4. Select the**AirPods Hands-Free** option as a playback device when using Windows apps.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-50-00.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your Bluetooth Drivers
 
@@ -89,11 +81,19 @@ There’re 2 ways to update drivers, manually and automatically.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/devmgmt-msc-ok.jpg)
 2. Click **Bluetooth** to expand the category. Right-click your Bluetooth adapter and select **Update driver** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-21_15-16-38.jpg)
 3. In the pop-up window, click**Search automatically for drivers** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-21_15-18-45.jpg)
 4. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Restart your PC and check your AirPods mic.
 
@@ -110,15 +110,15 @@ There’re 2 ways to update drivers, manually and automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/bluetooth-de-update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your Bluetooth driver, reboot your PC to check if you can use AirPods microphone on Windows.
 
 If it’s not working, move to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Install Windows updates
 
@@ -131,7 +131,7 @@ So follow the steps below to install the latest Windows updates.
 2. In the Windows Update panel, click **Check for updates** . Windows will check and download the latest available patches automatically.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)  
@@ -168,18 +168,22 @@ If this fix doesn’t work for you, the next one might suit you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2023-update-sony-bdp-s3700-in-depth-analysis/"><u>[New] 2023 Update Sony BDP-S3700 in Depth Analysis</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-orchestrate-your-pixels-with-offline-harmony/"><u>[New] Orchestrate Your Pixels With Offline Harmony</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-innovate-iconoclastic-images-using-giphy/"><u>[Updated] In 2024, Innovate Iconoclastic Images Using Giphy</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-best-ways-to-get-high-quality-version-of-pictures-for-free/"><u>2024 Approved Best Ways To Get High Quality Version Of Pictures For Free</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-saturation-savvy-professionals-secrets-revealed/"><u>2024 Approved Saturation Savvy Professionals' Secrets Revealed</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlimited-free-image-refinement-onlinemobile/"><u>2024 Approved Unlimited Free Image Refinement Online/Mobile</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/handling-common-print-problems-related-to-ad-ds-on-windows-oses/"><u>Handling Common Print Problems Related to AD DS on Windows OSes</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-nokia-c12-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Nokia C12 Phone</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/top-subcontracting-partners-for-expert-abbyy-solutions/"><u>Top Subcontracting Partners for Expert ABBYY Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-when-realtek-hd-audio-manager-opens-a-comprehensive-guide/"><u>Troubleshooting Steps When Realtek HD Audio Manager Opens: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-10-how-to-repair-apple-airpods-microphone-issues/"><u>Troubleshooting Windows 10: How to Repair Apple AirPods Microphone Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-solving-audio-latency-issues/"><u>Ultimate Guide: Solving Audio Latency Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-solving-ps3-no-audio-issues/"><u>Ultimate Guide: Solving PS3 No Audio Issues</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-innovators-designing-online-marvel-experiences/"><u>[New] Innovators Designing Online Marvel Experiences</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-upgrade-webcam-videos-with-simple-editing-techniques/"><u>[Updated] Upgrade WebCam Videos with Simple Editing Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726226681980-avi-webm-movavi/"><u>網路直轉 AVI 成 WEBM: 使用 Movavi 自由版影片編輯器</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-diagnosing-and-repairing-lack-of-sound-on-your-hp-device/"><u>Expert Tips for Diagnosing & Repairing Lack of Sound on Your HP Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-resolving-logitech-webcam-microphone-malfunctions-quickly/"><u>Expert Tips: Resolving Logitech Webcam Microphone Malfunctions Quickly</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-oppo-reno-10-proplus-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Oppo Reno 10 Pro+ 5G Location | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-vivo-s17e-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Vivo S17e Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-virtual-accessory-fb-story-saves/"><u>In 2024, Virtual Accessory - FB Story Saves</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/integrating-automatic-speech-conversion-into-powerpoint-presentations-for-2024/"><u>Integrating Automatic Speech Conversion Into PowerPoint Presentations for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/quick-tips-transferring-camera-roll-from-your-device-to-snapchat-app/"><u>Quick Tips Transferring Camera Roll From Your Device to Snapchat App</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-corsair-void-mic-expert-tips-and-solutions/"><u>Revive Your Corsair Void Mic: Expert Tips and Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-sound-experience-fixing-the-invisible-headphone-detection-error-in-windows-10/"><u>Revive Your Sound Experience: Fixing the Invisible Headphone Detection Error in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017037763-solve-your-pcs-silent-troubles-fixing-the-no-sound-issue-in-minutes/"><u>Solve Your PC's Silent Troubles: Fixing the 'No Sound Issue' In Minutes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-common-issues-with-your-unresponsive-bose-audio-equipment/"><u>Solving Common Issues with Your Unresponsive Bose Audio Equipment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-nwons-audio-troubles-a-comprehensive-guide/"><u>Solving NWONS Audio Troubles: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audacity-effective-remedies-for-errors-when-opening-sound-devices-five-options/"><u>Troubleshooting Audacity: Effective Remedies for Errors When Opening Sound Devices – Five Options</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-creation-journey-from-adobe-premiere-to-youtube/"><u>Video Creation Journey From Adobe Premiere to YouTube</u></a></li>
 </ul></div>
 

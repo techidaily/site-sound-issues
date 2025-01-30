@@ -1,7 +1,7 @@
 ---
 title: Audio Troubles? Restore Computer Sounds Quickly With These Tips
-date: 2024-08-18T07:58:46.318Z
-updated: 2024-08-19T07:58:46.318Z
+date: 2025-01-24T22:20:01.421Z
+updated: 2025-01-29T18:37:40.856Z
 tags:
   - win11
   - win10
@@ -15,16 +15,14 @@ thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b
 
 ## Trouble with Your Razer Man O' War Mic? Here's the Solution
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-98.png)
 
  The mic of your Razer ManO’War headset stops working for no reason? Well, that’s pretty infuriating – especially when you’re immersing in a multiplayer video game and all of a sudden, the mic refuses to transmit your voice or produce sound. Luckily, you’re not the only one here as many other disgruntled users reported the same problem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5 fixes for Razer ManO’War mic not working
 
  So is it possible to resolve this problem? Sure thing, as long as your mic is not broken. Here’re 5 fixes that have proved useful in many situations. You can try any of them selectively, or you can try them one by one; just work your way down the list until you find that one what does the trick.
@@ -41,30 +39,37 @@ thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Check your Sound settings
 
  Usually Windows will identify your plugged-in headset as the default playback/recording device, but that’s not always the case. To see if there’s anything wrong with the settings for your Razer ManO’War, please perform the following procedure:
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  1) Click the speaker icon![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-26_14-41-05.jpg) in the notification area of your task bar. Then click**Sounds** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-101.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Go to the**Recording** tab, right-click an empty area inside the devices’ display list, and then tick**Show Disabled Devices** to ensure that your headset shows up.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-103.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click to highlight**Razer ManO’War** , then click**Set Default > Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-115.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also right-click**Razer ManO’War** and check if it is disabled. If it is, select**Enable** to get your mic working.
 
@@ -78,9 +83,6 @@ thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b
 
  5) Click**OK** to save all the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-117.png)
 
  Now check to see if your Razer ManO’War mic is working properly. If it isn’t, please move on to**Fix 2** , below.
@@ -93,31 +95,21 @@ thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b
 
  1) On your keyboard, press the **Windows logo key** and **I** at the same time to fire up the **Settings** window. Then, select **Privacy** .
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-365.png)
 
  2) On the**Microphone** tab, in the results pane, click **Change** to see if**Microphone access for this device** is toggled on. If it isn’t, make sure you toggle it on.
 
  Right below you’ll see another toggle for **Allow apps to access your microphone** . Also remember to turn it on.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-368.png)
 
  3) Scroll down and head to the part of **Choose which apps can access your microphone** . Make sure you**toggle on** the apps in which you want to use the mic.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If this fix didn’t help, please try out the next fix.
 
@@ -137,9 +129,6 @@ If this fix didn’t help, please try out the next fix.
 
  3) On the next page, scroll down and select**Razer ManO’War** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-110.png)
 
  4) Click**View software, drivers and updates for download >** .
@@ -155,8 +144,9 @@ If this fix didn’t help, please try out the next fix.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your device drivers
 
  Sometimes an out-dated or corrupt device driver (e.g., audio drivers, CPU drivers) may give rise to the mic-not-working issue. The reasons can hardly be elaborated, but chances are your Razer ManO’War mic may be messed up with its drivers or those of other hardware components. If you’re not sure whether all your device drivers are up-to-date, you should check.
@@ -176,6 +166,10 @@ If this fix didn’t help, please try out the next fix.
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your audio driver for now, simply click the **Update**  button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -207,8 +201,6 @@ If this fix didn’t help, please try out the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +208,20 @@ If this fix didn’t help, please try out the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-innovative-techniques-for-flawless-voice-capture-in-facetime-calls/"><u>[Updated] 2024 Approved Innovative Techniques for Flawless Voice Capture in FaceTime Calls</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-build-your-affordable-virtual-reality-headgear-using-google-cards/"><u>[Updated] Build Your Affordable Virtual Reality Headgear Using Google Cards</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-get-your-tweets-right-comply-with-aspect-ratio-standards/"><u>[Updated] Get Your Tweets Right Comply with Aspect Ratio Standards</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-cutting-edge-ergonomic-innovations-transforming-workspaces-today/"><u>2024 Approved Cutting-Edge Ergonomic Innovations Transforming Workspaces Today</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-fix-how-to-get-your-turtle-beach-elite-atlas-microphone-working-again/"><u>DIY Fix: How to Get Your Turtle Beach Elite Atlas Microphone Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-for-a-non-functional-hyperx-cloud-alpha-headset-mic/"><u>Fixes for a Non-Functional HyperX Cloud Alpha Headset Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-for-creative-pebble-audio-device-malfunction-success-stories-inside/"><u>Fixes for Creative Pebble Audio Device Malfunction - Success Stories Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-ambiguous-speaker-setup-problems-in-your-windows-pressing-a-comprehensive-guide/"><u>Fixing Ambiguous Speaker Setup Problems in Your Windows Pressing: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-kyocera-printer-drivers-compatible-with-windows-systems/"><u>Get the Latest KYOCERA Printer Drivers - Compatible With Windows Systems</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/innovating-human-interface-a-guide-to-hand-perception/"><u>Innovating Human Interface A Guide to Hand Perception</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-the-challenge-of-a-non-opening-realtek-audio-device-controller/"><u>Overcoming the Challenge of a Non-Opening Realtek Audio Device Controller</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-stability-issues-with-civ-5pc/"><u>Resolving Stability Issues with Civ 5/PC</u></a></li>
+<li><a href="https://solve-help.techidaily.com/unveiling-the-logitech-k2go-keyboard-miniplus-an-in-depth-comparison-and-assessment/"><u>Unveiling the Logitech K2GO Keyboard Mini+ - An In-Depth Comparison & Assessment</u></a></li>
+</ul></div>
 

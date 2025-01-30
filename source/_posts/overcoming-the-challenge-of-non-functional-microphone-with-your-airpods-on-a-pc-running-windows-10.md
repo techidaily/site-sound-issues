@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Challenge of Non-Functional Microphone with Your AirPods on a PC Running Windows 10
-date: 2024-08-18T07:58:42.037Z
-updated: 2024-08-19T07:58:42.037Z
+date: 2025-01-23T03:06:16.453Z
+updated: 2025-01-29T21:42:51.140Z
 tags:
   - win11
   - win10
@@ -38,9 +38,17 @@ When you’re using a microphone such as MPOW attached to your computer, you may
   
 ![run the audio troubleshooter Windows](https://images.drivereasy.com/wp-content/uploads/2021/03/audion-troubleshooter.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select your device and click **Next**  to start the troubleshooting process. Then wait for it to complete and you may be asked to restart your computer.  
   
 ![run the audio troubleshooter MPOW Microphone not working](https://images.drivereasy.com/wp-content/uploads/2021/04/select-the-device-you-want-to-troubleshoot.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now Windows will help you scan for issues. Simply follow the on-screen instructions to resolve your problems.
 
@@ -60,9 +68,6 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and **detect any problem drivers** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
@@ -70,31 +75,26 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-MPOW-driver-1200x901.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and then try to use the microphone to check if it’s working now. If not, try the next fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## 3\. Set your microphone as the default device
 
  Normally, when your microphone is connected, Windows can automatically detect it and set it as the default input device. But you may have multiple input or recording devices connected. It would occur to you that your computer is using another device instead of the one you’re attempting to. In order to set your MPOW microphone as your input device, follow the instructions below:
 
  1) At the bottom-right corner of your taskbar, right-click your speaker icon and select **Open Sound settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
 
  2) Scroll down to the section of **Related Settings** and click **Sound Control Panel** .  
   
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open Sound Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-control-panel.png)
 
  3) When the Sound window opens, select the**Recording** tab. Click on your microphone and then click**Set Default > OK** .  
@@ -106,8 +106,9 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Make sure apps have access to your microphone
 
  In order to access your microphone, the apps need permissions. To let apps access your microphone, take these steps:
@@ -122,12 +123,12 @@ When you’re using a microphone such as MPOW attached to your computer, you may
   
 ![turn on app permissions on your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/turn-on-app-permissions-for-your-micropho0ne.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Under the **Allow apps to access your microphone**  section, make sure it’s turned **On** .  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
 
  5) Once you’ve allowed microphone access to your apps, you can change the settings for each app. Simply head to the **Choose which Microsoft apps can access your microphone** , and turn on apps you want to use with it. For desktop apps, make sure that **Allow desktop apps to access your microphone**  is turned **On** .
@@ -136,9 +137,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Make sure your microphone is enabled
 
  It may sound odd but there are just possibilities that your microphone has accidentally been disabled. If that’s your case, your microphone definitely wouldn’t be recording any sound. To make sure your mic is enabled, take these steps:
@@ -151,20 +149,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
   
 ![choose the audio input device](https://images.drivereasy.com/wp-content/uploads/2021/04/input-device.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Make sure that your headset is not disabled.  
   
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make sure your device isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/04/enable-it.png)
 
  Once you’ve confirmed that your microphone has been enabled but it’s still not working, try the next fix below.
@@ -172,17 +162,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Download and install Windows updates
 
  Windows updates come with bug fixes and bring new features. When your microphone isn’t working, it could be a compatibility issue. To take advantage of Windows new features and fix the compatibility issue, you should install all Windows updates:
 
  1) In the Search box, type **check for updates** . Click **Check for updates**  from results.  
   
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 
  2) Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it.  
@@ -201,8 +189,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +196,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-a-step-beyond-excavating-the-best-vr-treadmill-experiences/"><u>[New] A Step Beyond Excavating the Best VR Treadmill Experiences</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-micro-movie-plot-draft/"><u>2024 Approved Micro-Movie Plot Draft</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/abbyys-strategic-guidance-natasha-mann-as-a-key-board-member/"><u>ABBYY's Strategic Guidance: Natasha Mann as a Key Board Member</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beat-the-silence-expert-tips-on-making-webex-microphone-work-perfectly-again/"><u>Beat the Silence: Expert Tips on Making WebEx Microphone Work Perfectly Again</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-desktop-app-unavailable-yet-use-this-highly-capable-free-software-instead/"><u>ChatGPT Desktop App Unavailable Yet? Use This Highly Capable, Free Software Instead</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dealing-with-audio-issues-on-discord-a-comprehensive-guide-to-restoring-sound/"><u>Dealing with Audio Issues on Discord - A Comprehensive Guide to Restoring Sound</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-f14-5g-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Samsung Galaxy F14 5G support AVCHD video?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-repairing-a-broken-mic-on-your-oculus-quest-2-device/"><u>Expert Tips for Repairing a Broken Mic on Your Oculus Quest 2 Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-resolving-issues-with-your-desktop-or-laptop-speakers/"><u>Expert Tips on Resolving Issues with Your Desktop or Laptop Speakers</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-samsung-galaxy-a54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-your-steelseries-arctis-pro-mic-a-comprehensive-troubleshooting-guide/"><u>How to Restore Your SteelSeries Arctis Pro Mic: A Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-realme-c55-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/red-dead-redemption-2-how-to-stop-it-from-crashing-on-pcs/"><u>Red Dead Redemption 2 - How To Stop It From Crashing on PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-fortnite-microphone-troubleshooting-and-fixing-guide/"><u>Revive Your Fortnite Microphone: Troubleshooting & Fixing Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-forcing-a-windows-pc-to-boot-into-safe-mode/"><u>Step-by-Step Guide: Forcing a Windows PC to Boot Into Safe Mode</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-audio-hurdles-in-audacity-with-these-effective-5-techniques/"><u>Troubleshoot Audio Hurdles in Audacity with These Effective 5 Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-top-5-solutions-for-the-audacity-sound-device-glitch/"><u>Troubleshooting Audio: Top 5 Solutions for the Audacity Sound Device Glitch</u></a></li>
+</ul></div>
 
