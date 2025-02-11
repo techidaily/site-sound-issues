@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Restoring Functionality of Non-Working Headphones on PCs with Windows nT"
-date: 2024-08-18T07:59:39.407Z
-updated: 2024-08-19T07:59:39.407Z
+date: 2025-02-06T06:11:58.934Z
+updated: 2025-02-11T04:28:02.372Z
 tags:
   - win11
   - win10
@@ -17,33 +17,20 @@ thumbnail: https://thmb.techidaily.com/ff490e74a3be5e6661ab6be94683c185117f3752a
 
 In this article we will address the common issue “no speakers or headphones are plugged in” in Windows 10/8/7, which many users have reported recently.  
   
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![34989i0358cf69f5237a13](https://images.drivereasy.com/wp-content/uploads/2016/09/fix-no-speakers-or-headphones-are-plugged-in-issue-in-windows-1087-6997.jpg)
   
  **Method 1: _Uninstall the audio driver_**
   
 a, Go to Device Manager by pressing **Win+R** together to open the “Run” dialog, enter **devmgmt.msc** .
   
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![lenovo-y470-drivers-download-for-windows-10-6311](https://images.drivereasy.com/wp-content/uploads/2016/10/fix-no-speakers-or-headphones-are-plugged-in-issue-in-windows-1087-6311.png)
   
  b, Look for your audio device from the list,  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Capture](https://images.drivereasy.com/wp-content/uploads/2016/09/fix-no-speakers-or-headphones-are-plugged-in-issue-in-windows-1087-5588.png)
   
  c, Right click on the audio card, select**Properties** and then you will see a pop-up windows as below. Navigate to**Driver** tab, click**_Uninstall._**
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 **_![Capture1](https://images.drivereasy.com/wp-content/uploads/2016/09/fix-no-speakers-or-headphones-are-plugged-in-issue-in-windows-1087-5581.png)_**
   
  d, Restart your PC_a_ _fter_ finishing the process . It will reinstall the driver again and check if it solves the problem.  
@@ -54,9 +41,6 @@ a, Go to Device Manager by pressing **Win+R** together to open the “Run” dia
   
  a, Click on the “Update Driver…” this time, then select “**Browse my computer for driver software** “.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Capture3](https://images.drivereasy.com/wp-content/uploads/2016/09/fix-no-speakers-or-headphones-are-plugged-in-issue-in-windows-1087-5583.png)
   
  b, Select “**Let me pick from a list of device drivers on my computer** “.
@@ -73,9 +57,6 @@ a, Go to Device Manager by pressing **Win+R** together to open the “Run” dia
   
  G oing through all those steps every time for a driver update is sure a headache. Want hassle free, automatic updates for your drivers? Try **[DriverEasy](https://tools.techidaily.com/drivereasy/download/)**  Professional Device Manager, it updates all of your drivers faster with fewer clicks and less complex.  
   
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![descan](https://images.drivereasy.com/wp-content/uploads/2016/09/DEscan-5-600x445.png)
   
 ![deupdateall](https://images.drivereasy.com/wp-content/uploads/2016/09/DEupdateall-5-600x446.png)
@@ -86,8 +67,6 @@ a, Go to Device Manager by pressing **Win+R** together to open the “Run” dia
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -95,4 +74,22 @@ a, Go to Device Manager by pressing **Win+R** together to open the “Run” dia
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-choosing-youtube-premium-what-makes-it-worth-the-price/"><u>[New] In 2024, Choosing YouTube Premium What Makes It Worth the Price?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-tips-for-overcoming-obs-screen-blackout-for-2024/"><u>[Updated] Tips for Overcoming OBS Screen Blackout for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/affordable-wireless-charging-pads-for-modern-phones-for-2024/"><u>Affordable Wireless Charging Pads for Modern Phones for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-sound-fixes-for-windows-10-users-say-goodbye-to-quiet-mode/"><u>Effortless Sound Fixes for Windows 10 Users – Say Goodbye to Quiet Mode</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fast-and-simple-logitech-drivers-downloads-for-windows/"><u>Fast and Simple: Logitech Drivers Downloads for Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-asus-zenbook-pro-14-duo-ux8402-oled-experience-meets-performance-challenges-comprehensive-review/"><u>Inside the Asus Zenbook Pro 14 Duo UX8402: OLED Experience Meets Performance Challenges - Comprehensive Review</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/online-vertical-video-editing-made-easy-top-tools-for-2024/"><u>Online Vertical Video Editing Made Easy Top Tools for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-common-problems-with-lucidsound-ls30-mics-fixes-and-solutions-for-optimal-performance/"><u>Overcoming Common Problems with LucidSound LS30 Mics - Fixes and Solutions for Optimal Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-sound-distortion-and-stuttering-troubles-on-your-windows-117-system-expert-solutions-revealed/"><u>Resolving Sound Distortion & Stuttering Troubles on Your Windows 11/7 System - Expert Solutions Revealed!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fixes-for-no-sound-in-pc-viewed-facebook-videos-latest-strategies-of-2e24/"><u>Ultimate Fixes for No Sound in PC-Viewed Facebook Videos – Latest Strategies of 2E24</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unidentified-print-recognition-error/"><u>Unidentified Print Recognition Error</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

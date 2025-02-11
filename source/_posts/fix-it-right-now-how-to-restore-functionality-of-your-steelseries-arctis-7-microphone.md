@@ -1,7 +1,7 @@
 ---
 title: Fix It Right Now! How to Restore Functionality of Your SteelSeries Arctis 7 Microphone
-date: 2024-12-30T03:16:02.400Z
-updated: 2025-01-04T03:25:27.409Z
+date: 2025-02-05T16:27:12.267Z
+updated: 2025-02-10T23:48:22.539Z
 tags:
   - win11
   - win10
@@ -48,16 +48,16 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-3.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** to do it for free, but it’s partly manual.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-driver-update-de.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your computer for the changes to take full effect. If the driver update doesn’t give you luck, there are more fixes to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Allow access to your microphone
 
@@ -67,16 +67,24 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-2.jpg)
 2. Select**Microphone** . Then on the right pane, click the**Change** button and turn Microphone access for this device to**On** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 3. Scroll down and make sure the button under**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** is set to**On** . This makes it possible for your browser to access the microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you complete the steps, check if Google Meet can pick up your voice. If not, move on to the next method below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Check your PC sound settings
 
@@ -92,21 +100,13 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
 4. You also need to set the microphone volume to a proper level: right-click the microphone and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-6-1.jpg)
 5. Click the**Levels** tab and drag the microphone slider to turn the volume to the max. Then click**OK** to save the changes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Test your microphone again to see if it works without problem. If the issue persists, check out the next solution below.
@@ -124,7 +124,7 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 4. From the drop-down menu under Microphone, select your primary microphone.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-3.jpg)
@@ -156,18 +156,21 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-preparing-for-twitter-know-the-required-aspect-ratio/"><u>[New] 2024 Approved Preparing for Twitter Know the Required Aspect Ratio</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-how-to-submit-your-podcast-to-apple-podcasts/"><u>2024 Approved How To Submit Your Podcast to Apple Podcasts</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-smart-techniques-save-your-insta-story-videos/"><u>2024 Approved Smart Techniques Save Your Insta Story Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/boost-your-content-visibility-facebook-video-tips-and-tricks/"><u>Boost Your Content Visibility Facebook Video Tips and Tricks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-a-broken-corsair-virtuoso-microphone-a-comprehensive-guide/"><u>Diagnosing and Fixing a Broken Corsair Virtuoso Microphone: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-easily-open-your-realtek-hd-audio-controller-solutions-proven-effective/"><u>How to Easily Open Your Realtek HD Audio Controller - Solutions Proven Effective!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-silent-realtek-digital-speaker-audio-solutions/"><u>How to Resolve Silent Realtek DIGITAL SPEAKER - Audio Solutions</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/is-it-possible-to-view-and-enjoy-amazons-digital-books-using-a-kobo-reader-device/"><u>Is It Possible to View and Enjoy Amazon's Digital Books Using a Kobo Reader Device?</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/managing-background-applications-tips-and-tricks-from-yl-computings-expertise/"><u>Managing Background Applications: Tips and Tricks From YL Computing's Expertise</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-sound-a-comprehensive-fix-for-speakers-not-working-in-windows-11/"><u>Restoring Sound: A Comprehensive Fix for Speakers Not Working in Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/score-your-new-2nd-gen-apple-pencil-for-just-95-dollars-exclusive-labor-day-offer-cnet-gadgets-deals/"><u>Score Your New 2Nd Gen Apple Pencil for Just 95 Dollars! Exclusive Labor Day Offer | CNET Gadgets Deals</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/step-by-step-guide-freeing-up-space-by-deleting-unnecessary-ios-system-files/"><u>Step-by-Step Guide: Freeing Up Space by Deleting Unnecessary iOS System Files</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/winning-back-your-soundscape-a-step-by-step-guide-for-fixing-audio-in-windows-11/"><u>Winning Back Your Soundscape: A Step-by-Step Guide for Fixing Audio in Windows 11</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-3-part-blueprint-to-monitor-and-maximize-your-youtube-profits/"><u>[New] In 2024, 3-Part Blueprint to Monitor and Maximize Your YouTube Profits</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-prime-10-list-of-incredible-mac-friendly-monitors-for-2024/"><u>[New] The Prime 10 List of Incredible Mac-Friendly Monitors for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-embracing-diversity-easeus-tech-assessment/"><u>[Updated] Embracing Diversity, EaseUS Tech Assessment</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-budget-pc-screen-capture-apps/"><u>[Updated] In 2024, Budget PC Screen Capture Apps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/elevate-computer-sound-level-on-windows-11-a-step-by-step-guide/"><u>Elevate Computer Sound Level on Windows 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tial-tips-for-incorporating-dynamic-cards-in-youtube-videos/"><u>Essential Tips for Incorporating Dynamic Cards in YouTube Videos</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-motorola-moto-g-stylus-5g-2023-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Motorola Moto G Stylus 5G (2023) Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/resolved-issue-restoring-audio-during-the-process-of-importing-and-exporting-projects-in-premiere-pro/"><u>Resolved Issue: Restoring Audio During the Process of Importing and Exporting Projects in Premiere Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-the-speakers-fix-no-sound-problems-on-your-laptop-easily/"><u>Revive the Speakers: Fix No Sound Problems on Your Laptop Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-a-non-functioning-hyperx-cloud-alpha-microphone/"><u>Troubleshooting Steps for a Non-Functioning HyperX Cloud Alpha Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-solving-voice-communication-issues-in-valorant/"><u>Troubleshooting Steps: Solving Voice Communication Issues in VALORANT</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-usb-headphones-silent-issue-in-windows-7-a-step-by-step-solution/"><u>Troubleshooting USB Headphones Silent Issue in Windows 7: A Step-by-Step Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-the-persistent-windows-update-error-0x80240017/"><u>Ultimate Guide: Resolving the Persistent Windows Update Error 0X80240017</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-solution-for-onikuma-headset-mic-issues-now-resolved/"><u>Ultimate Solution for Onikuma Headset Mic Issues - Now Resolved!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unstick-your-speakers-how-to-eliminate-stuttering-and-distorted-sounds-on-pcs-with-windows-os/"><u>Unstick Your Speakers! How to Eliminate Stuttering and Distorted Sounds on PCs with Windows OS</u></a></li>
+<li><a href="https://driver-download.techidaily.com/updating-and-downloading-essential-drivers-for-your-lenovo-ideapad-ebook-100-on-a-windows-10-pc-a-comprehensive-tutorial/"><u>Updating and Downloading Essential Drivers for Your Lenovo IdeaPad eBook 100 on a Windows 10 PC: A Comprehensive Tutorial</u></a></li>
 </ul></div>
 

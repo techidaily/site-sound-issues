@@ -1,7 +1,7 @@
 ---
 title: Complete Fixes for Non-Responsive Squad Mics
-date: 2025-01-24T05:39:37.181Z
-updated: 2025-01-29T16:58:23.425Z
+date: 2025-02-05T08:27:25.804Z
+updated: 2025-02-11T02:47:42.739Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -46,6 +50,10 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow access to your headset microphone (for Windows 10 users)
 
  You should allow your Windows 10 system and your application to access your headset microphone before you can use it. To check this:
@@ -57,14 +65,14 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/win-11-settings-privacy-microphone.jpg)
 3. Click the Change button, then make sure the**Microphone for this device** is turned**on** . Also, make sure to put**Let apps access your microphone** at On.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/win-11-settings-privacy-microphone-access-1.jpg)
 4. Hopefully this fixes your microphone issue. But if not, there are still three fixes you can try.
 
  The screenshots above are captured from a Windows 11 operating system. If you are using Windows 10 or older versions, be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Set your microphone device as default
 
@@ -74,34 +82,34 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 2. In Control Panel, select**Large icons** from the**View by** drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Select **Sound** .![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
 4. Select the Recording tab, then right-click on any empty place inside the device list and tick Show Disabled Devices.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 5. Right click the Headset Microphone and click Enable.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Right-click it again and select Set as Default Device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
 7. Right-click Headset Microphone and click Properties.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click the Levels tab, then drag the volume slider toward the_largest value_ .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 9. Click**OK** , then click**OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
@@ -119,10 +127,6 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan.jpg)
 3. Click the**Activate & Update** button next to your sound device or your headset to update the latest and correct driver for it. You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (You’ll be prompted to upgrade when you click Update All. If you are not sure whether Driver Easy is right for you, our free trial version lets you try out the_full features_ of the Pro version for 7 days. You won’t be charged before your trial ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/Intel-display-audio-1.jpg)
 
@@ -134,10 +138,6 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 ### Fix 4: Close other apps that have access to your headset microphone
 
  Sometimes, some communication apps like Discord, Skype, Zoom, etc. can play with your headset microphone when they’re not in use and make your headset mic not working properly. Shutting down all other programs that utilize the headset microphone is the easiest way to do it. Then check whether the problem is solved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Troubleshoot hardware issues
 
@@ -171,22 +171,22 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-instantaneous-windows-image-player/"><u>[New] 2024 Approved Instantaneous Windows Image Player</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-master-mac-gifs-top-10-recording-tools/"><u>[New] In 2024, Master Mac GIFs Top 10 Recording Tools</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-art-of-storytelling-integrating-captions-into-your-instagram-videos/"><u>[New] In 2024, The Art of Storytelling Integrating Captions Into Your Instagram Videos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-creating-captivating-insta-vids-3-description-strategies/"><u>[Updated] In 2024, Creating Captivating Insta Vids 3 Description Strategies</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-innovative-10-ideas-thatll-boost-your-brand-on-igtv-for-2024/"><u>[Updated] Innovative 10 Ideas That'll Boost Your Brand on IGTV for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/windows-media-player/"><u>効果的な動画編集 - Windows Media Playerでのビデオカットテクニック</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/cs-go-microphone-malfunction-solutions-get-back-to-gaming-now/"><u>CS GO Microphone Malfunction Solutions - Get Back to Gaming Now</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-anomalies-exclusive-earbuds-play-through-main-system-instead-of-personal-audio-apparatus/"><u>Fixing Anomalies: Exclusive Earbuds Play Through Main System Instead of Personal Audio Apparatus</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-lost-sounds-in-bluetooth-pairings-an-ultimate-guide-for-clear-audio/"><u>Fixing Lost Sounds in Bluetooth Pairings: An Ultimate Guide for Clear Audio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-reactivating-audio-on-anthem-following-a-windows-10-patch/"><u>Guide: Reactivating Audio on Anthem Following a Windows 10 Patch</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-oneplus-nord-ce-3-lite-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a OnePlus Nord CE 3 Lite 5G Easily?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/shrink-it-down-youtubes-video-trimming-process-for-2024/"><u>Shrink It Down YouTube's Video Trimming Process for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-resolution-of-poor-sound-quality-on-a-windows-10-machine/"><u>Step-by-Step Resolution of Poor Sound Quality on a Windows 10 Machine</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/steps-to-rectify-mic-issues-on-the-steelseries-arctis-prime-sound-headset-solutions-found/"><u>Steps to Rectify Mic Issues on the SteelSeries Arctis Prime Sound Headset – Solutions Found!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-bluetooth-headphones-that-wont-produce-sound/"><u>Troubleshooting Bluetooth Headphones That Won't Produce Sound</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/upgrading-to-the-ipad-air-5-from-the-ipad-air-problem/"><u>Upgrading to the iPad Air 5 From the iPad Air # Problem</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015310757-world-of-warcraft-fixes-now-playing-with-surround-sound/"><u>World of Warcraft Fixes – Now Playing with Surround Sound</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-download-and-alter-sacred-audio-sounds/"><u>[New] How to Download and Alter Sacred Audio Sounds</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-hidden-guide-watching-highly-engaged-comments-with-ease-on-youtube-for-2024/"><u>[New] The Hidden Guide Watching Highly Engaged Comments with Ease on YouTube for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-retro-to-future-radeon-rebooted/"><u>[Updated] Retro to Future Radeon Rebooted</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-top-8-ios-pencil-programs-perfected-for-ipados/"><u>2024 Approved Top 8 iOS Pencil Programs Perfected for iPadOS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehnive-audio-fixes-for-loudspeaker-glitches-under-windows-117-environments/"><u>Comprehnive Audio Fixes for Loudspeaker Glitches Under Windows 11/7 Environments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-windows-11-connectivity-issues-with-apple-wireless-earbuds-microphone/"><u>Diagnosing and Repairing Windows 11 Connectivity Issues with Apple Wireless Earbuds Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-unresponsive-zoom-mics-on-windows-10-and-11-devices/"><u>Effective Fixes for Unresponsive Zoom Mics on Windows 10 and 11 Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-offer-save-big-with-anycubics-130-3d-printer-during-amazon-prime-day-insights-from-zdnet/"><u>Exclusive Offer: Save Big with Anycubic's $130 3D Printer During Amazon Prime Day - Insights From ZDNET</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-best-digital-voice-change-options-for-vtubers/"><u>Exploring Best Digital Voice Change Options for VTubers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-snap-to-stunning-photo-editing-secrets-for-2024/"><u>From Snap to Stunning Photo Editing Secrets for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-restoring-functionality-of-unresponsive-realtek-mic-audio-inputs/"><u>Guide to Restoring Functionality of Unresponsive Realtek Mic Audio Inputs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/repair-techniques-for-defective-primary-audio-connector-a-comprehensive-guide/"><u>Repair Techniques for Defective Primary Audio Connector: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-issues-encountered-in-pc-boot-process-the-post-stage/"><u>Resolving Issues Encountered in PC Boot Process: The Post Stage</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-battlefield-solving-the-no-sound-issue-in-battlefield-4/"><u>Silent Battlefield: Solving the 'No Sound' Issue in Battlefield 4</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-motorola-razr-40-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Motorola Razr 40</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-common-issues-fixing-voice-chat-in-pubg/"><u>Troubleshooting Common Issues: Fixing Voice Chat in PUBG</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unstuck-in-silence-the-complete-solution-for-battlefield-4-audio-glitches/"><u>Unstuck in Silence: The Complete Solution for Battlefield 4 Audio Glitches</u></a></li>
 </ul></div>
 

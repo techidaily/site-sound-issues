@@ -1,7 +1,7 @@
 ---
 title: Modern Solutions to Overcome Audio Latency
-date: 2025-01-27T22:05:00.855Z
-updated: 2025-01-30T03:03:54.184Z
+date: 2025-02-05T01:45:02.590Z
+updated: 2025-02-10T18:31:20.700Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ It’s annoying that your Discord is picking up game audio all of a sudden. But 
 * [2. Change sound settings](https://tools.techidaily.com/drivereasy/download/)
 * [3. Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Update audio drivers
 
  A properly working audio driver can make sure your device is working normally. If your Discord picks up the game audio, it might be caused by a malfunctioning audio driver. To make sure your audio works fine, you should update your audio driver:
@@ -64,7 +68,7 @@ There’re mainly two ways for you to update an audio driver:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Change sound settings
@@ -75,19 +79,11 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Go to the**Recording** tab.
 
  3) Right-click**Stereo Mix** and select **Disable** , and make sure you have set your headphone as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Open Discord application, and go to**User Settings** .
 
@@ -95,10 +91,14 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Reinstall Discord
@@ -112,7 +112,7 @@ There’re mainly two ways for you to update an audio driver:
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right-click Discord, and select**Uninstall** .
@@ -142,20 +142,24 @@ There’re mainly two ways for you to update an audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/fixed-skype-microphone-not-working-in-windows-10/"><u>[Fixed] Skype Microphone Not Working in Windows 10</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-effortless-background-watching-of-youtube-on-mobile-for-2024/"><u>[New] Effortless Background Watching of YouTube on Mobile for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-save-money-and-time-creating-engaging-youtube-intros-without-paying/"><u>[Updated] 2024 Approved Save Money & Time Creating Engaging YouTube Intros Without Paying</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-windows-11-unveiled-the-new-era-begins-for-2024/"><u>[Updated] Windows 11 Unveiled The New Era Begins for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-logitech-webcam-mic/"><u>How to Fix a Non-Functioning Logitech Webcam Mic</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/master-the-art-of-iphone-jailbreaking-effective-methods-for-ios-7-through-ios-cual-es-el-proceso-para-desbloquear-su-ipad-o-telefono-inteligente/"><u>Master the Art of iPhone Jailbreaking: Effective Methods for iOS 7 Through iOS Cuál Es El Proceso Para Desbloquear Su iPad O Teléfono Inteligente?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastered-method-broadcasting-video-game-tunes-through-discord/"><u>Mastered Method: Broadcasting Video Game Tunes Through Discord</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/optimize-your-system-comprehensive-instructions-to-refresh-graphics-drivers-on-windows-11/"><u>Optimize Your System: Comprehensive Instructions to Refresh Graphics Drivers on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-frozen-lock-screen-timing-windows/"><u>Overcoming Frozen Lock Screen Timing Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reactivate-laptop-soundscape-expert-advice-for-solving-audio-problems/"><u>Reactivate Laptop Soundscape: Expert Advice for Solving Audio Problems</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/solutions-for-your-hot-iphone-understanding-causes-and-remedies/"><u>Solutions for Your Hot iPhone: Understanding Causes and Remedies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-your-microphone-woes-effective-solutions-when-you-cant-be-heard-on-discord/"><u>Solving Your Microphone Woes: Effective Solutions When You Can't Be Heard on Discord</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/troubleshooting-guide-overcoming-2017-macbook-pro-upgrade-challenges-expert-fixes-and-tips/"><u>Troubleshooting Guide: Overcoming 2017 MacBook Pro Upgrade Challenges - Expert Fixes & Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-non-functional-voice-chat-on-modern-warfare/"><u>Troubleshooting Guide: Resolving Non-Functional Voice Chat on Modern Warfare</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-crafting-the-perfect-youtube-channel-url-a-quick-guide/"><u>[New] In 2024, Crafting the Perfect YouTube Channel Url A Quick Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unlock-the-mysteries-of-nighttime-photography-mastery/"><u>[New] Unlock the Mysteries of Nighttime Photography Mastery</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-premiere-10-battle-royale-titles/"><u>[Updated] 2024 Approved Premiere 10 Battle Royale Titles</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-ultimate-roadmap-to-unearthing-elusive-discord-servers/"><u>[Updated] The Ultimate Roadmap to Unearthing Elusive Discord Servers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-smart-selections-essential-mac-programs-for-videograbbing/"><u>2024 Approved Smart Selections Essential Mac Programs for Videograbbing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/black-ops-cold-war-repair-your-voice-chat-feature-expert-fixes-and-advice/"><u>Black Ops Cold War: Repair Your Voice Chat Feature - Expert Fixes & Advice</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-fix-msi-afterburner-doesnt-detect-graphics-card-on-windows-now-it-will/"><u>Expert Fix: MSI Afterburner Doesn't Detect Graphics Card on Windows - Now It Will</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-overwatch-playtime-interruption-restoring-push-to-talk-functionality/"><u>Fix Your Overwatch Playtime Interruption: Restoring Push-to-Talk Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-non-functional-hyperx-cloud-microphone-in-a-flash-step-by-step-solutions/"><u>How to Resolve Non-Functional HyperX Cloud Microphone in a Flash - Step by Step Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-to-your-corsair-void-gaming-mic/"><u>How to Restore Functionality to Your Corsair Void Gaming Mic</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-11-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 11 Pro without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-clarity-cutting-edge-expert-recommendations-for-8k/"><u>In 2024, Clarity Cutting-Edge Expert Recommendations for 8K</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-the-ultimate-guide-to-live-streaming-on-facebook/"><u>In 2024, The Ultimate Guide to Live Streaming on Facebook</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g633-not-working-expert-advice-and-fixes-inside/"><u>Logitech G633 Not Working? Expert Advice and Fixes Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-windows-7-audio-a-step-by-step-solution-to-sound-troubles/"><u>Reviving Windows 7 Audio: A Step-by-Step Solution to Sound Troubles</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-overcoming-audio-problems-in-csgo-for-a-seamless-gaming-experience/"><u>Solved! Overcoming Audio Problems in CS:GO for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-mystery-of-silent-mac-computers-techniques-for-bringing-back-audio/"><u>Solving the Mystery of Silent Mac Computers – Techniques for Bringing Back Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-noisy-meetings-restore-sound-in-zoom-on-your-desktop-computer/"><u>Trouble with Noisy Meetings? Restore Sound in Zoom on Your Desktop Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-house-flipper-2-crashes-on-windows/"><u>Troubleshooting Guide: Resolving 'House Flipper 2' Crashes on Windows</u></a></li>
 </ul></div>
 

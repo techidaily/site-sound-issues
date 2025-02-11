@@ -1,7 +1,7 @@
 ---
 title: Astro A50 Silent Problem? Here's How to Get Sound Working Again!
-date: 2024-12-18T20:16:47.321Z
-updated: 2024-12-25T17:43:48.457Z
+date: 2025-02-08T01:54:40.850Z
+updated: 2025-02-10T20:29:56.906Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ If you run into the**Lenovo laptop no sound** issue, don’t panic. It’s often
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Troubleshoot hardware issues
 
  You can start troubleshooting the laptop no sound issue by ruling out the hardware errors.
@@ -56,10 +60,6 @@ To make sure the volume is audible:
  1) Click **the sound icon** on the lower-right of your screen, then move **the volume slider** all the way to at least halfway up.If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7da01ab6db.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
 
@@ -91,10 +91,6 @@ To make sure the volume is audible:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Set default audio devices
 
  Ideally when a new audio device is inserted, Windows will automatically set it as the default audio playback device. But that’s not always the case and sometimes we’ll have to set default devices manually.
@@ -105,13 +101,13 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7f6955a2d7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the **Playback** tab, click on **the audio device you wish to play** , then click **Set Default** . Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7f797e4504.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If **the audio device you’re to play** doesn’t show up in the device list, and right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the device** once it appears and click **Enable** before you do step **2)** .
 
@@ -120,7 +116,7 @@ To do so:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable audio enhancements
@@ -138,12 +134,16 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd80da9483df.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Enhancements** tab, then tick **the bo** x for **Disable all enhancements** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd80d9349581.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Test your audio device and see if the no sound issue is resolved.
 
@@ -172,17 +172,18 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-bypassing-buffer-blocks-in-photo-booth-videos/"><u>[New] 2024 Approved Bypassing Buffer Blocks in Photo Booth Videos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-premier-automatic-text-creators-from-videos/"><u>[New] 2024 Approved Premier Automatic Text Creators From Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-becoming-a-visionary-in-depth-guide-to-hdr-photography/"><u>[New] Becoming a Visionary In-Depth Guide to HDR Photography</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-sdr-upgrade-manual-unveiling-the-secrets-of-hdr-transformation/"><u>[New] SDR Upgrade Manual Unveiling the Secrets of HDR Transformation</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-mastering-video-broadcasts-wirecast-and-its-allies-for-2024/"><u>[Updated] Mastering Video Broadcasts Wirecast and Its Allies for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-not-enough-privileges-error-during-installation-on-windows/"><u>Eliminating Not Enough Privileges Error During Installation on Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-speaker-distortion-issue-on-windows-11-and-7-a-step-by-step-guide/"><u>Fixing the Speaker Distortion Issue on Windows 11 and 7: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-hdmi-audio-output-for-your-windows/"><u>How to Restore HDMI Audio Output for Your Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/realtek-audio-malfunction-heres-how-to-get-the-sound-back/"><u>Realtek Audio Malfunction? Here's How to Get the Sound Back!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-audio-in-wow-heres-how-you-successfully-silenced-the-sound-problem/"><u>Reviving Audio in WoW? Here's How You Successfully Silenced The Sound Problem</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solutions-to-fix-tozo-t6-device-malfunction-on-windows-11/"><u>Solutions to Fix Tozo T6 Device Malfunction on Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-future-unveiled-expected-details-on-samsungs-galaxy-s25-price-speculations-launch-date-and-hardware-insights/"><u>The Future Unveiled: Expected Details on Samsung's Galaxy S25 - Price Speculations, Launch Date & Hardware Insights</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/udget-friendly-vlogging-cameras-unveiled-our-picks-for-2024/"><u>[New] Budget-Friendly Vlogging Cameras Unveiled Our Picks for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-a-compreayers-manual-turning-pre-recorded-footage-online-live/"><u>[Updated] In 2024, A Compreayer's Manual Turning Pre-Recorded Footage Online Live</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-aurora-hdr-vs-standard-imagery-quality-analysis/"><u>2024 Approved Aurora HDR vs Standard Imagery Quality Analysis</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-champion-captures-educations-audio-leaders/"><u>2024 Approved Champion Captures Education's Audio Leaders</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-essential-guide-for-the-finest-travel-movie-tools/"><u>2024 Approved Essential Guide for the Finest Travel Movie Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/achieving-better-acoustics-tips-for-raising-the-volume-in-windows-(span-stylecolor4b8e4f)10(span)/"><u>Achieving Better Acoustics: Tips for Raising the Volume in Windows <Span Style=color:#4b8e4f;>10</Span></u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bring-back-the-boss-blasts-troubleshooting-anthems-muted-sounds-in-windows-11/"><u>Bring Back the Boss Blasts: Troubleshooting Anthem’s Muted Sounds in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-audio-problems-on-laptops-a-step-by-nstep-guide/"><u>Diagnosing and Repairing Audio Problems on Laptops: A Step-by-nStep Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-geforce-experience-error-code-0x0001-in-windows-11-and-11/"><u>How to Fix the GeForce Experience Error Code 0X0001 in Windows 11 & 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-non-functional-astro-a40-mic-how-to/"><u>Solution Steps for Non-Functional Astro A40 Mic – How To</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-connectivity-problems-with-your-blue-yeti-microphone-top-tips-and-fixes/"><u>Solving Connectivity Problems with Your Blue Yeti Microphone - Top Tips & Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015652554-troubleshooting-audio-issues-on-microsoft-operating-systems-windows-7-to-windows-11-solved/"><u>Troubleshooting Audio Issues on Microsoft Operating Systems – Windows 7 to Windows 11 Solved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/warzone-audio-troubleshooting-guide-for-players-experiencing-microphone-or-voice-chat-failures-pc-and-console/"><u>Warzone Audio Troubleshooting Guide for Players Experiencing Microphone or Voice Chat Failures (PC & Console)</u></a></li>
 </ul></div>
 

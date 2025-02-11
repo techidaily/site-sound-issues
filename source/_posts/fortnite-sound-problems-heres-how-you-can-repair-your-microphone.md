@@ -1,7 +1,7 @@
 ---
 title: Fortnite Sound Problems? Here's How You Can Repair Your Microphone
-date: 2025-01-28T04:29:50.411Z
-updated: 2025-01-30T06:05:51.500Z
+date: 2025-02-07T20:56:06.382Z
+updated: 2025-02-11T01:58:48.457Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ Is your **Corsair Void Mic Not Working** ? Don’t worry, it’s often quite eas
 3. **[Adjust your audio settings](https://tools.techidaily.com/drivereasy/download/)**
 4. [**Check for hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Allow access to microphone
 
  If your **Corsair Void microphone is not working** , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -45,16 +41,24 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d7eb4645.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphon** e section, make sure the toggle is **On** so that you can allow apps access to your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Check your **Corsair Void headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, please try **Fix 2** , below.
@@ -62,7 +66,7 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
@@ -79,10 +83,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
@@ -94,10 +94,6 @@ Here’s how to do it:
 5) Check to see if the mic works properly. If yes, then great! If the issue persists, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -118,6 +114,10 @@ Here is how to do it:
  3) Click on **Headset** **Microphone Corsair VOID Wireless Gaming Dongle** and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-250.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click the **Levels** tab, then drag **the Microphone slider** all the way to _its top_ and click **OK** .
 
@@ -158,22 +158,24 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-advanced-audio-alliance-for-podcasters/"><u>[New] 2024 Approved Advanced Audio Alliance for Podcasters</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-how-to-get-watermark-free-stock-photos/"><u>[New] 2024 Approved How to Get Watermark-Free Stock Photos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-how-to-leverage-ez-grabber-for-peak-performance/"><u>[New] How to Leverage EZ Grabber for Peak Performance</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-best-emulators-pc-edition-ps1-games/"><u>[New] In 2024, Best Emulators PC Edition - PS1 Games</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-formulating-gripping-narratives-for-your-vlogs-for-2024/"><u>[Updated] Formulating Gripping Narratives for Your Vlogs for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-the-realm-of-favorites-top-10-reddit-discussions-revisited-for-2024/"><u>[Updated] In the Realm of Favorites Top 10 Reddit Discussions Revisited for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-mastering-luts-unlocking-color-grading-in-ar-and-vfx/"><u>[Updated] Mastering LUTs Unlocking Color Grading in AR & VFX</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/affordable-z-edge-z3plus-dashcam-comprehensive-review-and-user-experience/"><u>Affordable Z-Edge Z3+ Dashcam - Comprehensive Review & User Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-fixes-for-a-defective-headset-mic-what-you-need-to-know/"><u>DIY Fixes for a Defective Headset Mic - What You Need to Know</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-oculus-rift-s-microphone-issues-in-minutes-top-solutions-of-2024/"><u>Fix Your Oculus Rift S Microphone Issues in Minutes: Top Solutions of 2024!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-non-functioning-voice-chat-feature-in-destiny-2/"><u>How To Resolve Non-Functioning Voice Chat Feature In Destiny 2?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-the-problem-of-hearing-through-speakers-despite-using-headphones/"><u>How to Resolve the Problem of Hearing Through Speakers Despite Using Headphones</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/locating-and-unveiling-your-personalized-melodic-repository-on-youtube-for-2024/"><u>Locating and Unveiling Your Personalized Melodic Repository on Youtube for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/master-the-art-of-diagnosing-and-resolving-astro-a10-audio-problems/"><u>Master the Art of Diagnosing and Resolving Astro A10 Audio Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-stable-voice-chats-advanced-solutions-for-fixing-discords-audio-dropouts-updated-guide/"><u>Mastering Stable Voice Chats: Advanced Solutions for Fixing Discord's Audio Dropouts - Updated Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-split-and-trim-mkv-files-best-free-tools/"><u>New 2024 Approved Split and Trim MKV Files Best Free Tools</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silence-is-not-golden-fixing-lost-audio-during-fortnite-play/"><u>Silence Is Not Golden: Fixing Lost Audio During Fortnite Play</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unveiling-the-secrets-of-monetizing-instagram-successfully/"><u>[New] 2024 Approved Unveiling the Secrets of Monetizing Instagram Successfully</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-does-immediate-subscribing-affect-content-recommendations-in-2024/"><u>[New] Does Immediate Subscribing Affect Content Recommendations, In 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-elevate-your-instagram-game-scouting-the-8-top-post-schedulers/"><u>[Updated] 2024 Approved Elevate Your Instagram Game Scouting the 8 Top Post Schedulers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-nikon-d500-at-a-glance-the-frontiers-of-4k-hd/"><u>2024 Approved Nikon D500 at a Glance The Frontiers of 4K HD</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-realme-gt-5-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Realme GT 5 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/banish-the-quiet-curse-in-hearthstone-with-these-sound-fix-tips/"><u>Banish the Quiet Curse in Hearthstone with These Sound Fix Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/crack-the-quiet-code-effective-fixes-for-pc-players-valheim-audio-issues/"><u>Crack the Quiet Code: Effective Fixes for PC Players' Valheim Audio Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deconstructing-ais-complexity-upsides-and-downfalls/"><u>Deconstructing AI's Complexity: Upsides and Downfalls</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-solving-input-device-errors-within-csgo-battles/"><u>Diagnosing And Solving Input Device Errors Within CS:GO Battles</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-motorola-edge-40-neo-device-sim-by-drfone-android/"><u>Easily Unlock Your Motorola Edge 40 Neo Device SIM</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/game-on-with-more-space-topping-10-hddssds-for-2024/"><u>Game On with More Space Topping 10 HDD/SSDs for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-activating-the-dolby-driver-effectively-in-your-windows-10-system/"><u>Guide: Activating the Dolby Driver Effectively in Your Windows 10 System</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-samsung-galaxy-s23-ultra-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Samsung Galaxy S23 Ultra Phones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-iphone-photography-expert-advice-on-fixing-lens-focus-difficulties/"><u>Mastering iPhone Photography: Expert Advice on Fixing Lens Focus Difficulties</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-battlefield-communication-a-guide-for-fixing-csgo-mic-failures/"><u>Mastering the Battlefield Communication: A Guide for Fixing CS:GO Mic Failures</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-hp-laptops-soundscape-expert-fixes-for-windows-10-sound-failures/"><u>Revive Your HP Laptop's Soundscape: Expert Fixes for Windows 10 Sound Failures</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/say-goodbye-to-echoes-a-2024-guide-for-clearing-up-discord-audio-glitches-on-your-pc/"><u>Say Goodbye to Echoes: A 2024 Guide for Clearing Up Discord Audio Glitches on Your PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-why-wont-my-bluetooth-speaker-play-addressing-connection-issues-with-no-sound-output/"><u>Solved! Why Won't My Bluetooth Speaker Play? Addressing Connection Issues with No Sound Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-problem-get-your-razer-man-o-war-microphone-up-and-running-again/"><u>Solving the Problem: Get Your Razer Man O' War Microphone Up and Running Again</u></a></li>
 </ul></div>
 

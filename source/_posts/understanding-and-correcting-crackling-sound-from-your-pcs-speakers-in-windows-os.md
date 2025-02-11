@@ -1,7 +1,7 @@
 ---
 title: Understanding and Correcting Crackling Sound From Your PC's Speakers in Windows OS
-date: 2024-08-18T08:02:54.993Z
-updated: 2024-08-19T08:02:54.993Z
+date: 2025-02-09T23:11:17.332Z
+updated: 2025-02-11T02:07:31.730Z
 tags:
   - win11
   - win10
@@ -17,26 +17,16 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 
 In this article we will address the common issue “no speakers or headphones are plugged in” in Windows 10/8/7, which many users have reported recently.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![34989i0358cf69f5237a13](https://images.drivereasy.com/wp-content/uploads/2016/09/fix-no-speakers-or-headphones-are-plugged-in-issue-in-windows-1087-6997.jpg)
   
  **Method 1: _Uninstall the audio driver_**
   
 a, Go to Device Manager by pressing **Win+R** together to open the “Run” dialog, enter **devmgmt.msc** .
   
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![lenovo-y470-drivers-download-for-windows-10-6311](https://images.drivereasy.com/wp-content/uploads/2016/10/fix-no-speakers-or-headphones-are-plugged-in-issue-in-windows-1087-6311.png)
   
  b, Look for your audio device from the list,  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Capture](https://images.drivereasy.com/wp-content/uploads/2016/09/fix-no-speakers-or-headphones-are-plugged-in-issue-in-windows-1087-5588.png)
   
  c, Right click on the audio card, select**Properties** and then you will see a pop-up windows as below. Navigate to**Driver** tab, click**_Uninstall._**
@@ -59,9 +49,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
   
  c, Proceed and follow steps below  
   
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Capture5](https://images.drivereasy.com/wp-content/uploads/2016/09/fix-no-speakers-or-headphones-are-plugged-in-issue-in-windows-1087-5586.png)
   
  d, Wait for a few minutes, it should successfully update your driver software.  
@@ -70,14 +57,8 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
   
  G oing through all those steps every time for a driver update is sure a headache. Want hassle free, automatic updates for your drivers? Try **[DriverEasy](https://tools.techidaily.com/drivereasy/download/)**  Professional Device Manager, it updates all of your drivers faster with fewer clicks and less complex.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![descan](https://images.drivereasy.com/wp-content/uploads/2016/09/DEscan-5-600x445.png)
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![deupdateall](https://images.drivereasy.com/wp-content/uploads/2016/09/DEupdateall-5-600x446.png)
 
 <ins class="adsbygoogle"
@@ -86,8 +67,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -95,4 +74,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-ultimate-selection-of-free-slide-show-designs/"><u>2024 Approved Explore the Ultimate Selection of Free Slide Show Designs</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-tecno-camon-20-pro-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Tecno Camon 20 Pro 5G PC | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/asus-mg28uq-monitor-unpacking-the-ultra-high-resolution-experience/"><u>ASUS MG28UQ Monitor Unpacking the Ultra High-Resolution Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehve-steps-to-restore-sound-on-a-silent-pc-or-mac-speaker-system/"><u>Comprehve Steps to Restore Sound on a Silent PC or Mac Speaker System</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-now-newly-released-all-in-one-hp-deskjet-3755-drivers-fully-supports-windows-1087-systems/"><u>Download Now: Newly Released All-In-One HP DeskJet 3755 Drivers – Fully Supports Windows 10/8/7 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-logitech-g933-mic-issues-for-optimal-audio-performance/"><u>Fixing Logitech G933 Mic Issues for Optimal Audio Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-steelseries-arctis-mic-back-to-life-effective-fixes-for-the-99x-models/"><u>Getting Your SteelSeries Arctis Mic Back to Life: Effective Fixes for the 9/9X Models</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-unveiling-the-premier-5-windows-snipping-apps/"><u>In 2024, Unveiling the Premier 5 Windows Snipping Apps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-the-melodies-of-google-chrome-a-solution-to-no-sound-issues/"><u>Reviving the Melodies of Google Chrome: A Solution to No-Sound Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/victory-achieved-overcoming-blizzards-game-starter-problem-for-wow/"><u>Victory Achieved! Overcoming Blizzard's Game Starter Problem for WOW</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
