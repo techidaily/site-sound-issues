@@ -1,7 +1,7 @@
 ---
 title: "Get Your Sound Back: Fix Voice Chat and Microphone Malfunctions on PC & Consoles for Call of Duty's Battle Royale Game."
-date: 2025-02-04T16:47:59.016Z
-updated: 2025-02-10T18:23:22.091Z
+date: 2025-02-24T07:02:09.800Z
+updated: 2025-03-02T02:26:28.829Z
 tags:
   - win11
   - win10
@@ -41,10 +41,6 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 
  Once you have double-checked these items, test the voice chat feature in LoL to see if it works. If yes, then great! If the problem persists, please move on to**Fix 2** below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Join voice channel automatically
 
  You may experience the sound not working in LoL if you disable the in-game sounds during some game session without you noticing it. So make sure to enable Join voice channel automatically to turn on the in-game sound.  
@@ -55,16 +51,8 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.png)
 3. Under the**Voice** tab, make sure the Join voice channel automatically option is checked.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-1.png)
 4. Check to see if you can use the voice chat feature properly in game. If yes, then great! If it’s no joy, please move on to**Fix 3** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Configure the audio settings
 
@@ -75,10 +63,6 @@ You can follow the steps below to check:
 1. On your keyboard, press the **Windows logo key** and **R**  at the same time to bring up the Run box. Then type or paste **mmsys.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/r.png)
 2. In**Playback** tab, make sure that your preferred headphone or speaker is set as**Default Device** . Then right-click on the default device ane click**Test** to make sure you can hear sound coming through the headset.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-2.png)
 3. Click the**Recording** tab. Then make sure that your preferred mic is set as**Default Device** and click**Properties** .  
@@ -104,10 +88,6 @@ You can follow the steps below to check:
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -135,20 +115,22 @@ You can follow the steps below to check:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-enhancing-gameplay-with-switch-pro-a-compreran-guide-for-steam-gamers/"><u>[New] In 2024, Enhancing Gameplay with Switch Pro A Compreran Guide for Steam Gamers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tips-for-quickerslower-video-in-instagram-stories/"><u>[New] Tips for Quicker/Slower Video in Instagram Stories</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-top-15-uncomplicated-vlog-ideas-to-ignite-creativity/"><u>[Updated] In 2024, Top 15 Uncomplicated Vlog Ideas to Ignite Creativity</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-social-media-spotlight-top-tiktok-tweets/"><u>[Updated] Social Media Spotlight Top TikTok Tweets</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-sticker-removal-strategies-for-tiktok-content/"><u>2024 Approved Sticker Removal Strategies for TikTok Content</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-to-restarting-unresponsive-audio-systems/"><u>Comprehensive Guide to Restarting Unresponsive Audio Systems</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-htc-u23-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from HTC U23.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-on-repairing-a-broken-hyperx-cloud-alpha-headset-microphone/"><u>Expert Advice on Repairing a Broken HyperX Cloud Alpha Headset Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-onikuma-microphone-issues-a-step-by-step-solution/"><u>Fixing Onikuma Microphone Issues: A Step-by-Step Solution</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-ios-slide-show-tools-tailored-for-high-end-models/"><u>In 2024, IOS Slide Show Tools Tailored for High-End Models</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/instantly-restore-sound-on-your-laptop-simple-solutions-inside/"><u>Instantly Restore Sound on Your Laptop: Simple Solutions Inside</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-the-art-of-repairing-game-sounds-a-guide-to-fixing-outriders-audio-problems/"><u>Mastering the Art of Repairing Game Sounds - A Guide to Fixing Outriders Audio Problems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/operational-hiccup-bcm20702a0-driver-missing/"><u>Operational Hiccup: BCM20702A0 Driver Missing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-voice-communication-problems-in-overwatch-push-to-talk-guide/"><u>Overcoming Voice Communication Problems in Overwatch: Push-To-Talk Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-pcs-sound-effective-fixes-for-common-audio-malfunctions/"><u>Revive Your PC's Sound: Effective Fixes for Common Audio Malfunctions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-giggle-factor-comparing-humor-in-tiktok-and-snapchat-videos-for-2024/"><u>[New] The Giggle Factor Comparing Humor in TikTok and Snapchat Videos for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-buy-anti-prime-day-alert-secure-your-discounted-hp-victus-515-gaming-laptop-deal-unveiled-by-zdnet/"><u>Best Buy Anti-Prime Day Alert! Secure Your Discounted HP Victus 지킷랄로피 ($515) - Gaming Laptop Deal Unveiled by ZDNet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/exploring-top-20-anime-opener-hits-for-2024/"><u>Exploring Top 20 Anime Opener Hits for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-12-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 12 With 7 Methods</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-infinix-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Infinix using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/learn-about-renewable-energy-with-this-discounted-online-engineering-bootcamp-at-just-40-available-now/"><u>Learn About Renewable Energy with This Discounted Online Engineering Bootcamp at Just $40 - Available Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975005953-seamless-and-swift-update-of-your-samsung-m2070s-printing-drivers-today/"><u>Seamless & Swift Update of Your Samsung M2070's Printing Drivers Today!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-sound-quality-issues-and-disruptions-for-windows-operating-systems-version-11-and-7/"><u>Solving Sound Quality Issues and Disruptions for Windows Operating Systems, Version 11 & 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-no-sound-problem-when-devices-are-connected-in-windows-os/"><u>Solving the No Sound Problem when Devices Are Connected in Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-tips-for-a-malfunctioning-sound-blaster-microphone/"><u>Step-by-Step Repair Tips for a Malfunctioning Sound Blaster Microphone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/techniques-de-reduction-du-format-video-convertisseur-par-movavi/"><u>Techniques De Réduction Du Format Vidéo - Convertisseur Par Movavi</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-hidden-costs-in-buying-a-dvr-reflect-first-on-your-needs/"><u>The Hidden Costs in Buying a DVR? Reflect First on Your Needs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-tips-for-diagnosing-and-upgrading-computer-speakers-under-windows-11/"><u>The Ultimate Tips for Diagnosing & Upgrading Computer Speakers Under Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-solve-runmus-headset-microphone-problems-successfully/"><u>Troubleshoot and Solve RUNMUS Headset Microphone Problems Successfully</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-your-noisy-headphones-with-our-easy-fixes/"><u>Troubleshoot Your Noisy Headphones with Our Easy Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-pc-audio-issues-fixing-low-sound-output-in-windows-11/"><u>Troubleshooting PC Audio Issues: Fixing Low Sound Output in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-persistent-crackling-in-bluetooth-sound-on-windows-11/"><u>Troubleshooting Persistent Crackling in Bluetooth Sound on Windows 11</u></a></li>
 </ul></div>
 

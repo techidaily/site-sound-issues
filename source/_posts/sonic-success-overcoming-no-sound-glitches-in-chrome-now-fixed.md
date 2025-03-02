@@ -1,7 +1,7 @@
 ---
 title: "Sonic Success: Overcoming No-Sound Glitches in Chrome, Now Fixed!"
-date: 2024-08-23T12:09:31.728Z
-updated: 2024-08-24T12:09:31.728Z
+date: 2025-02-26T09:35:32.611Z
+updated: 2025-03-02T00:35:18.097Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/c2e36ccbc985ffa8060cba8099c01adb9e0bc2274
 
 It’s annoying that your Discord is picking up game audio all of a sudden. But you’re not alone here. Many gamers have been reporting the same issue. The good news is that you can fix it easily.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-game-edited.jpg)
 
 **Why is Discord picking up the game audio?**
@@ -61,9 +58,6 @@ There’re mainly two ways for you to update an audio driver:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Change sound settings
 
  This issue happens when Stereo Mix (instead of your headset microphone) is set to the default device. To fix it, you should disable Stereo Mix, and set your microphone as the default device:
@@ -76,25 +70,16 @@ There’re mainly two ways for you to update an audio driver:
 
  3) Right-click**Stereo Mix** and select **Disable** , and make sure you have set your headphone as the default device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.jpg)
 
  4) Open Discord application, and go to**User Settings** .
 
  5) Under**Voice Settings** , choose the correct**Input Device** and**Output Device** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
 
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### 3\. Reinstall Discord
 
  If nothing worked, you can try reinstalling Discord in case it’s an app-related issue. Here’s how:
@@ -107,9 +92,6 @@ There’re mainly two ways for you to update an audio driver:
 
  3) Right-click Discord, and select**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
 
  Once complete, you can download[**the latest Discord client**](https://discord.com/brand-new) and check if the issues persist in the new version.
@@ -126,8 +108,6 @@ There’re mainly two ways for you to update an audio driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +115,19 @@ There’re mainly two ways for you to update an audio driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-8-pioneering-online-photo-combination-suite-for-2024/"><u>[New] 8 Pioneering Online Photo Combination Suite for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-experts-choice-top-6-software-solutions-for-signature-erasure/"><u>[New] In 2024, Expert's Choice Top 6 Software Solutions for Signature Erasure</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-mastering-gif-transformation-to-stickers-on-whatsapp-discord-and-telegram-for-2024/"><u>[New] Mastering GIF Transformation To Stickers on WhatsApp, Discord & Telegram for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mastering-youtube-live-the-comprehensive-playbook-for-2024/"><u>[Updated] Mastering YouTube Live The Comprehensive Playbook for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-revisiting-video-broadcast-choices-post-wirecast/"><u>2024 Approved Revisiting Video Broadcast Choices Post-Wirecast</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-void-microphone-problems-a-step-by-step-guide-to-repair/"><u>Corsair Void Microphone Problems - A Step-by-Step Guide to Repair</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/efficient-conversion-of-mxf-files-to-mov-format-across-windows-macos-and-cloud-services/"><u>Efficient Conversion of MXF Files to MOV Format Across Windows, macOS, & Cloud Services</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-discord-sound-settings-overcoming-the-silence-barrier/"><u>Mastering Discord Sound Settings: Overcoming the Silence Barrier</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-no-sound-issues-with-your-nvidia-hd-audio-a-comprehensive-how-to/"><u>Overcoming No Sound Issues with Your NVIDIA HD Audio: A Comprehensive How-To</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-troubleshooting-solutions-for-nonfunctional-microphone-on-windows-with-sony-wh-1000xm-headphones/"><u>Solved: Troubleshooting Solutions for Nonfunctional Microphone on Windows with Sony WH-1000XM Headphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-reactivating-phasmophobias-voice-communication-feature/"><u>Troubleshooting Guide: Reactivating Phasmophobia's Voice Communication Feature</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-13-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 13 Without Passcode Easily | Dr.fone</u></a></li>
+</ul></div>
 

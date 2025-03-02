@@ -1,7 +1,7 @@
 ---
 title: "Reviving Muted Connections: Steps to Repair HDMI No-Sound Issue Between Laptop, Monitor, and Television."
-date: 2024-12-07T20:36:22.639Z
-updated: 2024-12-10T19:05:46.876Z
+date: 2025-02-23T12:23:19.081Z
+updated: 2025-03-02T07:59:40.649Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ When you’re ready to fight side by side with your mates in Warzone, the last t
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -58,25 +54,13 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/bottom-right-corner-sound-settings.jpg)
 2. Under the **Input**  section, make sure your input device is set to your desired one. Then click **Device properties and test microphone** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/input-device-testing.jpg)
 3. Uncheck the box next to**Disable** , and set the slider under **Volume**  to 100.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
 4. Click **Start test** and tap or speak to your microphone. Then click **Stop test** . If you’re prompted **The highest value we saw was xx (xx > 0) percent** , it means your microphone is working correctly.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/sound-test-percent.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next you need to enable your mic in the**Battle.net** client.
 
@@ -88,10 +72,6 @@ Here’s how:
 3. On the menu to your left, select **Voice Chat** . Set **OUTPUT DEVICE** and **INPUT DEVICE** to **System Default Device** . Then click **Done** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-voice-chat.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now you can launch Warzone and test the game chat.
 
@@ -123,19 +103,11 @@ Now you can launch Warzone and test the game chat.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-realtek-audio-driver.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your audio driver, restart your PC and see if the voice chat is working in Warzone.
 
  If updating the audio driver doesn’t work for you, simply continue to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -189,22 +161,24 @@ Now restart Warzone and check if you can chat with your friends now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-the-key-to-youtube-success-25-effective-promotion-methods/"><u>[New] 2024 Approved The Key to YouTube Success 25 Effective Promotion Methods</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-learn-to-record-save-and-share-youtube-content-a-cost-free-approach/"><u>[New] Learn to Record, Save, & Share YouTube Content A Cost-Free Approach</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-streamlining-access-to-subscriber-information/"><u>[Updated] Streamlining Access to Subscriber Information</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-hidden-weapons-for-social-media-dominance-on-instagram/"><u>[Updated] The Hidden Weapons for Social Media Dominance on Instagram</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/2024s-leading-wi-fi-extenders-maximizing-your-home-network-coverage/"><u>2024'S Leading Wi-Fi Extenders: Maximizing Your Home Network Coverage</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/chucklechisel-designing-memes-in-adobe-for-2024/"><u>ChuckleChisel Designing Memes in Adobe for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/complete-narrative-what-is-google-podcast/"><u>Complete Narrative What Is Google Podcast?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-maximizing-iphone-to-mac-file-transfer-for-large-videos/"><u>In 2024, Maximizing iPhone-to-Mac File Transfer for Large Videos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/league-of-legends-voice-chat-problems-solutions-to-get-you-talking-again/"><u>League of Legends Voice Chat Problems? Solutions to Get You Talking Again!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/master-guide-to-fix-idt-hd-audio-codec-driver-quirks-for-a-smooth-experience-with-windows-10/"><u>Master Guide to Fix IDT HD Audio Codec Driver Quirks for a Smooth Experience with Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mpow-microphone-malfunction-solutions-for-windows-operating-system-users/"><u>MPOW Microphone Malfunction: Solutions for Windows Operating System Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-and-easy-ways-to-repair-your-fortnite-voice-chat-connection/"><u>Quick and Easy Ways to Repair Your Fortnite Voice Chat Connection</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solutions-for-non-functioning-voice-chat-in-fortnite-games/"><u>Quick Solutions for Non-Functioning Voice Chat in Fortnite Games</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-issue-audio-outputs-to-headphones-not-speakers/"><u>Resolved Issue: Audio Outputs to Headphones, Not Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-rust-mic-problems-a-step-by-step-solution-manual/"><u>Resolving Rust Mic Problems: A Step-by-Step Solution Manual</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-audio-in-windows-media-player-effective-solutions-and-tips/"><u>Restoring Audio in Windows Media Player - Effective Solutions and Tips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-tutorial-for-immersive-iphone-vr-viewing/"><u>The Ultimate Tutorial for Immersive iPhone VR Viewing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-color-mastery-simple-steps-in-photoshop/"><u>[Updated] 2024 Approved Color Mastery Simple Steps in Photoshop</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-boosting-youtube-traffic-outsmarting-automated-viewers/"><u>[Updated] In 2024, Boosting YouTube Traffic Outsmarting Automated Viewers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-photo-fusion-at-home-and-online-synergy-guide/"><u>2024 Approved Photo Fusion at Home & Online Synergy Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/essential-tips-capturing-clear-voice-overs-on-camera-for-2024/"><u>Essential Tips Capturing Clear Voice Overs on Camera for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-use-the-netstat-command-in-windows-11-to-monitor-network-activity/"><u>How to Use the Netstat Command in Windows 11 to Monitor Network Activity</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-nubia-red-magic-8s-proplus-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Nubia Red Magic 8S Pro+ Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-must-collect-blog-for-business-8-trending-videos-on-facebook/"><u>In 2024, Must-Collect Blog for Business! 8 Trending Videos on Facebook</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-windows-photo-reader-pro/"><u>In 2024, Prime Windows Photo Reader Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-noise-problems-effective-ways-to-hear-on-discord-again/"><u>Overcoming Noise Problems: Effective Ways to Hear on Discord Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-overwatchs-push-to-talk-malfunction-solutions-and-fixes/"><u>Overcoming Overwatch's Push-to-Talk Malfunction: Solutions & Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-stop-your-speakers-from-humming-or-buzzing/"><u>Quick Solutions: Stop Your Speakers From Humming or Buzzing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-hd-audio-driver-fixed-now-fully-functional/"><u>Realtek HD Audio Driver Fixed: Now Fully Functional</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-hd-audio-manager-problem-here-are-proven-ways-to-get-it-running/"><u>Realtek HD Audio Manager Problem? Here Are Proven Ways to Get It Running!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-no-audio-on-your-hp-device-windows-10-solutions/"><u>Resolving No Audio on Your HP Device - Windows 10 Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-skype-audio-problems-with-simple-fixes/"><u>Resolving Skype Audio Problems with Simple Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-functionality-in-windows-11-expert-solutions-to-common-problems/"><u>Restoring Audio Functionality in Windows 11: Expert Solutions to Common Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-to-your-hearthstone-adventures-no-more-silent-battles/"><u>Restoring Audio to Your Hearthstone Adventures: No More Silent Battles!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005266523-troubleshooting-tips-solve-your-gta-v-crashing-issues-now/"><u>Troubleshooting Tips - Solve Your GTA V Crashing Issues Now!</u></a></li>
 </ul></div>
 

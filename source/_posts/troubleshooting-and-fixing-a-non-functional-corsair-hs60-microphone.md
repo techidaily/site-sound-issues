@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixing a Non-Functional Corsair HS60 Microphone
-date: 2025-02-04T16:23:44.167Z
-updated: 2025-02-10T23:16:57.762Z
+date: 2025-02-26T20:57:50.702Z
+updated: 2025-03-01T16:06:13.370Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
  When the above check is done, and you find the problem on your computer, please move on.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 2, make sure the connection between your speakers and computer is good
 
  If the speakers work properly on a second device, make sure that the connection between your speakers and your computer is intact.
@@ -53,19 +49,11 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a379fb55982a.png)
 3. In Control Panel, view by Category, click **Hardware and Sound** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a37a0193f08b.jpg)
 4. Under **Sound** , click **Adjust system volume** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-24.png)
 5. If the sound is unmuted, move to the next step.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Try to move the slider up to increase the volume.  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/volume-mixer.jpg)
@@ -82,25 +70,13 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/set-as-default.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you don’t see the speakers in the device list, it may be disabled. In this case, right-click on the blank area and select**Show disabled devices** on the context menu.
 
 ![show disabled device](https://images.drivereasy.com/wp-content/uploads/2016/08/show-disabled-device.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After it is listed, right-click on the speakers and click**Enable** .
 
 ![enable speakers](https://images.drivereasy.com/wp-content/uploads/2016/08/enable-speakers.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The problem also can be caused by outdated or missing audio drivers. So try to fix audio drivers.
 
@@ -130,10 +106,6 @@ Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
@@ -156,17 +128,22 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-ultimate-list-of-superior-car-surveillance-cams/"><u>[New] 2024 Approved Ultimate List of Superior Car Surveillance Cams</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-gameplay-revolution-elevating-ram-usage-for-minecraft/"><u>[New] Gameplay Revolution Elevating Ram Usage for Minecraft</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-zippy-zoomers-prime-fastest-titles-for-touch-screens-and-tabs-for-2024/"><u>[New] Zippy Zoomers Prime Fastest Titles for Touch Screens & Tabs for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-12-selection-of-smart-flip-screen-vlog-cameras/"><u>[Updated] The Ultimate 12 Selection of Smart Flip-Screen Vlog Cameras</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-pinnacle-performance-the-best-8k-camera-technology/"><u>2024 Approved Pinnacle Performance The Best 8K Camera Technology</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/alternative-game-capture-software-no-more-fbx-dependence-for-2024/"><u>Alternative Game Capture Software No More FBX Dependence for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/astro-a10-audio-problems-heres-how-you-can-get-your-mic-working-again/"><u>Astro A10 Audio Problems? Here's How You Can Get Your Mic Working Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/essential-techniques-to-correct-sound-troubles-in-your-windows-11-experience/"><u>Essential Techniques to Correct Sound Troubles in Your Windows 11 Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-astro-a50-microphone-issues-troubleshooting-guide/"><u>Fixing Astro A50 Microphone Issues: Troubleshooting Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-oppo-reno-10-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Oppo Reno 10 5G to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-fixes-for-nonfunctional-windows-spotlight-on-windows-11/"><u>Troubleshooting Fixes for Nonfunctional Windows Spotlight on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/why-isnt-my-discord-voice-working-expert-advice-for-immediate-resolution/"><u>Why Isn't My Discord Voice Working? Expert Advice for Immediate Resolution</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-progressive-visual-prelude/"><u>[New] 2024 Approved Progressive Visual Prelude</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-essential-steps-for-adding-videos-to-your-instagram-story/"><u>[Updated] 2024 Approved Essential Steps for Adding Videos to Your Instagram Story</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-64gb-ideal-for-light-video-content/"><u>[Updated] In 2024, 64Gb Ideal for Light Video Content?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-understanding-watermarks-and-protecting-fb-pics/"><u>[Updated] In 2024, Understanding Watermarks & Protecting FB Pics</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-essential-guide-to-the-top-5-apple-compatible-podcast-tools/"><u>2024 Approved Essential Guide to The Top 5 Apple-Compatible Podcast Tools</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-pioneers-in-virtual-marvel-storytelling/"><u>2024 Approved Pioneers in Virtual Marvel Storytelling</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetooth-woes-no-more-smoothing-out-audio-hiccups-on-pcs-with-windows-operating-systems/"><u>Bluetooth Woes No More: Smoothing Out Audio Hiccups on PCs with Windows Operating Systems</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/digital-domain-decisions-short-form-content-for-2024/"><u>Digital Domain Decisions Short-Form Content for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-fix-for-outriders-audio-dysfunction-quick-tips-inside/"><u>Easy Fix for Outriders Audio Dysfunction – Quick Tips Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-mic-tests-achieving-crystal-clear-sound-in-minutes/"><u>Effortless Mic Tests: Achieving Crystal Clear Sound in Minutes!</u></a></li>
+<li><a href="https://win-unique.techidaily.com/ensuring-your-scanner-is-correctly-set-up-and-active-insights-from-yl-computings-expertise/"><u>Ensuring Your Scanner Is Correctly Set Up & Active: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-troubleshooting-and-fixing-issues-with-idt-hd-audio-driver-in-windows-10/"><u>Expert Advice: Troubleshooting and Fixing Issues with IDT HD Audio Driver in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-sony-wireless-earbuds-mic-issue-tips-to-restore-mic-functionality-on-pc-systems/"><u>Fix Your Sony Wireless Earbuds' Mic Issue: Tips to Restore Mic Functionality on PC Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-iphone-sound-malfunction-a-comprehve-solution-guide/"><u>Fixing iPhone Sound Malfunction - A Comprehve Solution Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-problem-of-non-opening-realtek-hd-audio-manager-a-step-by-step-guide/"><u>Fixing the Problem of Non-Opening Realtek HD Audio Manager - A Step by Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-problem-when-your-audio-system-fails-to-start/"><u>Fixing the Problem: When Your Audio System Fails to Start</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/spruce-up-your-stories-with-effortless-animated-text-techniques-for-2024/"><u>Spruce Up Your Stories With Effortless Animated Text Techniques for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Why Your SteelSeries Arctis 1 Microphone Won't Work"
-date: 2025-02-08T07:36:49.024Z
-updated: 2025-02-11T08:56:41.000Z
+date: 2025-02-27T21:50:58.707Z
+updated: 2025-03-01T19:20:54.636Z
 tags:
   - win11
   - win10
@@ -50,10 +50,6 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 
  Also, the microphone is highly directional, so it must be placed properly to achieve the best sound quality.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Allow access to your microphone
 
  The first thing you need to make sure of is that your device allows apps to access your microphone. This is especially true if you can’t be heard in any apps.
@@ -72,10 +68,6 @@ Here’s how to do it:
 
  Now you can test recording and see if your SteelSeries Arctis Pro mic is working right now. But if not, please move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Set your headset as the default device
 
  In most cases, when you plug your headset into the computer, it will be set as the default device on the computer. But sometimes it can bump into issues. If your SteelSeries Actis Pro mic is not working, your headset may be disabled or not set as the default device.
@@ -86,10 +78,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
@@ -99,10 +87,6 @@ Here’s how to do it:
  4) Make sure your Actis Pro is**Enabled** (shows a green checkmark) and set it as the**Default Device** . If not, you can right-click it and select**Set as Default Device** and**Set as Default Communication Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In your VoIP application, select Actis Pro Chat Audio as the default audio device.
 
@@ -118,10 +102,6 @@ Here’s how to do it:
 
  Now your SteelSeries Actis Pro should be working, and if you still have problems with the microphone, you can try the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Update the headset driver
 
  The microphone on your SteelSeries Arctis Pro won’t work if you’re using an incorrect or outdated driver. So if the fixes above didn’t work, you should try updating the driver to see if it does the trick.
@@ -135,10 +115,6 @@ Here’s how to do it:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will scan your computer and detect any problem drivers.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the**Activate & Update** button next to the headset to download the latest and correct driver for it.
 
@@ -194,22 +170,24 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-mastering-minecraft-the-best-practices-to-record-gameplay/"><u>[New] 2024 Approved Mastering Minecraft The Best Practices to Record Gameplay</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/outube-music-blend-fundamentals/"><u>[New] YouTube Music Blend Fundamentals</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-discord-voice-chat-not-working/"><u>[SOLVED] Discord Voice Chat Not Working</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/deciding-between-streaming-giants-roku-vs-fire-tv-stick-features-faceoff-to-help-you-decide/"><u>Deciding Between Streaming Giants: Roku vs Fire TV Stick, Features Faceoff to Help You Decide</u></a></li>
-<li><a href="https://fox-place.techidaily.com/elevate-your-web-development-with-nodejs-check-out-3plus-high-quality-premium-themes-and-frameworks-by-creative-tim/"><u>Elevate Your Web Development with Nodejs: Check Out 3+ High-Quality Premium Themes and Frameworks by Creative Tim</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-corsair-hs35-headset-microphone-issues-on-windows-a-step-by-step-guide/"><u>Fixing Corsair HS35 Headset Microphone Issues on Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-apple-iphone-7-plus-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On Apple iPhone 7 Plus without Password?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-decoding-youtubes-operations-following-uploads/"><u>In 2024, Decoding YouTube’s Operations Following Uploads</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-xiaomi-civi-3-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Xiaomi Civi 3 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-huawei-p10-review-unpacking-its-impressive-specs-and-features/"><u>In 2024, Huawei P10 Review Unpacking Its Impressive Specs and Features</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/master-the-art-of-restoring-rec-room-voice-communication-on-pc-expert-advice-for-202n/"><u>Master the Art of Restoring Rec Room Voice Communication on PC – Expert Advice for 202N</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/noise-free-gaming-fixing-sound-malfunctions-on-laptops-efficiently/"><u>Noise-Free Gaming: Fixing Sound Malfunctions on Laptops Efficiently</u></a></li>
-<li><a href="https://win-updates.techidaily.com/ps5-guide-retrieving-your-deleted-save-files-with-simple-tricks/"><u>PS5 Guide: Retrieving Your Deleted Save Files with Simple Tricks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-boosting-your-laptops-sound-quality-on-microsofts-latest-os/"><u>Step-by-Step Guide: Boosting Your Laptop's Sound Quality on Microsoft's Latest OS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-now-top-5-speedy-fixes-to-reactivate-your-oculus-rift-s-mic-2-techniques/"><u>Troubleshoot Now: Top 5 Speedy Fixes to Reactivate Your Oculus Rift S Mic - 2# Techniques</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-runmvy-gaming-headset-mic-issues/"><u>Troubleshooting Guide: RUNMVY Gaming Headset Mic Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/winning-the-battle-against-unstable-speakers-on-your-windows-10-device/"><u>Winning the Battle Against Unstable Speakers on Your Windows 10 Device</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-elevating-success-channel-ideas-to-spark-momentum/"><u>[New] 2024 Approved Elevating Success Channel Ideas to Spark Momentum</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-tips-for-integrating-supplemental-film-content/"><u>[Updated] 2024 Approved Tips for Integrating Supplemental Film Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/10-compatible/"><u>10 Compatible)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/2024-solutions-reviving-a-nonfunctional-mic-in-your-rec-room-game-on-pc/"><u>2024 Solutions: Reviving A Nonfunctional Mic In Your Rec Room Game On PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beating-the-bugs-a-step-by-step-solution-for-resident-evil-villages-noise-troubles/"><u>Beating the Bugs: A Step-by-Step Solution for Resident Evil: Village’s Noise Troubles</u></a></li>
+<li><a href="https://win-popular.techidaily.com/catch-up-on-all-the-hype-easy-anime-video-downloads-via-animeseason/"><u>Catch Up on All the Hype: Easy Anime Video Downloads via AnimeSeason</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016620374-chrome-speaker-problem-solved-now-with-sound/"><u>Chrome Speaker Problem Solved – Now with Sound</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/defeating-the-challenge-of-fixing-current-gen-sound-difficulties/"><u>Defeating the Challenge of Fixing Current Gen Sound Difficulties</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnose-and-repair-a-broken-mic-on-an-oculus-quest-2-setup/"><u>Diagnose and Repair a Broken Mic on an Oculus Quest 2 Setup</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-mending-a-broken-front-audio-port-for-optimal-sound-performance/"><u>Diagnosing and Mending a Broken Front Audio Port for Optimal Sound Performance</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/discovering-acquaintances-cross-device-friend-requests/"><u>Discovering Acquaintances Cross-Device Friend Requests</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-solutions-for-connecting-sony-wh-1000xm-headphones-mics-with-windows-pcs/"><u>Easy Solutions for Connecting Sony WH-1000XM Headphones' Mics with Windows PCs</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-oneplus-11r-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change OnePlus 11R Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-moto-g73-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Moto G73 5GFRP Lock</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016181869-quick-fixes-for-non-functioning-dell-speakers-resolve-now/"><u>Quick Fixes for Non-Functioning Dell Speakers - Resolve Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016985591-revive-your-zoom-audio-on-windows-and-mac-no-more-muted-participant-woes/"><u>Revive Your Zoom Audio on Windows and Mac – No More Muted Participant Woes</u></a></li>
 </ul></div>
 

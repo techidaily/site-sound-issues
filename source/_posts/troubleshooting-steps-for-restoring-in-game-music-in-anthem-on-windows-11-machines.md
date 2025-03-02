@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Restoring In-Game Music in Anthem on Windows 11 Machines
-date: 2025-02-07T19:02:52.769Z
-updated: 2025-02-11T04:24:16.587Z
+date: 2025-02-28T03:04:56.996Z
+updated: 2025-03-01T21:09:34.942Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -57,10 +53,6 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72220f11f9.jpg)
 4. Restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Check if there’s any sound in your computer.
 
  If the problem still persists, don’t worry. We have other solutions.
@@ -75,10 +67,6 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 2. In the**Sound** pane, click the**Playback** tab.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7201dbcc98.jpg)
 3. Select your speaker audio device, and click**Set Default** to set it as your default device.  
 
@@ -87,10 +75,6 @@ To do so:
 4. Restart your computer, and plug a headphone to see if there’s any sound.
 
 Still no luck? Okay, there’s one more thing to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Roll back your audio driver
 
@@ -106,10 +90,6 @@ Still no luck? Okay, there’s one more thing to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7218e14fa5.jpg)
 5. Click the**Driver** tab, and click**Roll Back Driver** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721ba8a50e.jpg)
 6. Follow the on-screen instructions to finish the process.
@@ -140,22 +120,15 @@ Feel free to leave a comment below if you have any questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-novice-writers-best-enhancements-for-gopro/"><u>[New] Novice’ Writers Best Enhancements for GoPro</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-ultimate-campaigns-selecting-the-best-7-total-war-victories/"><u>[Updated] In 2024, Ultimate Campaigns Selecting the Best 7 Total War Victories</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-introducing-sw320s-visionary-approach-to-4k-monitoring/"><u>2024 Approved Introducing Sw320’s Visionary Approach to 4K Monitoring</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-maximize-space-not-time-discover-the-coolest-34-phone-apps-for-slashing-size/"><u>2024 Approved Maximize Space, Not Time Discover the Coolest 34 Phone Apps for Slashing Size</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-optimum-affordable-asmr-microphones-with-incredible-performance/"><u>2024 Approved Optimum Affordable ASMR Microphones with Incredible Performance</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decode-the-mystery-effective-solutions-for-halinitializationfailed-stop-0x0000005c/"><u>Decode the Mystery: Effective Solutions for HAL_INITIALIZATION_FAILED (STOP 0X0000005C)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-connectivity-problems-in-your-logitech-g733-mic/"><u>Diagnosing and Fixing Connectivity Problems in Your Logitech G733 Mic</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-windows-media-player-sound-settings-avoid-silence-with-these-proven-fixes/"><u>Mastering Windows Media Player Sound Settings - Avoid Silence with These Proven Fixes</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-top-trio-of-virtual-mp3-intensity-maximizers-for-2024/"><u>New The Top Trio of Virtual MP3 Intensity Maximizers for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-when-your-wow-voice-channels-go-silent/"><u>Quick Fixes for When Your WoW Voice Channels Go Silent</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-the-soundscape-expert-guides-for-restoring-sound-on-toshiba-laptops/"><u>Revive the Soundscape: Expert Guides for Restoring Sound on Toshiba Laptops</u></a></li>
-<li><a href="https://win-info.techidaily.com/revolutionizing-the-cloud-space-with-microsoft-azures-radius-an-innovative-cross-cloud-platform-for-developers-using-open-source-technologies-cio-review/"><u>Revolutionizing the Cloud Space with Microsoft Azure's Radius: An Innovative, Cross-Cloud Platform for Developers Using Open Source Technologies | CIO Review</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-silent-hp-laptops-sounds-back-on/"><u>Step-by-Step Fix for Silent HP Laptops - Sounds Back On?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-restoring-functionality-to-your-steelseries-arctis-7s-microphone/"><u>Step-by-Step Tutorial: Restoring Functionality to Your SteelSeries Arctis 7'S Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-not-functional-world-of-warcraft-voice-communication/"><u>Troubleshooting Guide: Fixing 'Not Functional' World of Warcraft Voice Communication</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-turtle-beach-headset-mic-solutions-for-common-problems/"><u>Troubleshooting Your Turtle Beach Headset Mic: Solutions for Common Problems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-3-strategies-converting-pinner-visuals-to-audio/"><u>[New] Top 3 Strategies Converting Pinner Visuals to Audio</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-stream-into-the-now-enjoying-real-time-broadcasts-with-roku-and-facebook/"><u>[Updated] In 2024, Stream Into The Now Enjoying Real-Time Broadcasts with Roku & Facebook</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/clear-up-audio-trouble-with-this-simple-guide-for-resolving-discord-muting-issues/"><u>Clear Up Audio Trouble with This Simple Guide for Resolving Discord Muting Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/correct-audio-malfunctions-in-windows-1087-even-if-theres-nothing-plugged-in-a-comprehensive-fix-guide/"><u>Correct Audio Malfunctions in Windows 10/8/7 Even If There's Nothing Plugged In: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-reestablishing-voice-chat-connectivity-in-back-4-blood/"><u>Effective Solutions: Reestablishing Voice Chat Connectivity in 'Back 4 Blood'</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-ways-to-repair-windows-11s-bluetooth-not-working-dilemma/"><u>Effective Ways to Repair Windows 11'S Bluetooth Not Working Dilemma</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-asus-rog-phone-8-pro-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Asus ROG Phone 8 Pro Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-mkv-player-for-windows-and-mobile/"><u>In 2024, Ultimate MKV Player for Windows & Mobile</u></a></li>
+<li><a href="https://win-hot.techidaily.com/migrating-from-an-old-hard-drive-to-a-new-one/"><u>Migrating From an Old Hard Drive to a New One</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-role-and-abilities-of-openais-shapely-evaluator-shape-in-ai-explainability/"><u>The Role and Abilities of OpenAI's Shapely Evaluator (ShapE) in AI Explainability</u></a></li>
 </ul></div>
 

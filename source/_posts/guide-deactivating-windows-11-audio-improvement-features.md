@@ -1,7 +1,7 @@
 ---
 title: "Guide: Deactivating Windows 11 Audio Improvement Features"
-date: 2025-02-05T05:49:18.726Z
-updated: 2025-02-10T17:10:02.851Z
+date: 2025-02-28T08:53:10.545Z
+updated: 2025-03-02T06:01:19.216Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/13a1f9ec7eefb2f2d2c19f961783b576aae349686
 5. [**Disable audio enhancements**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Restart audio services**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Check cable and volumes
 
  If you don’t hear sound from your external audio devices, like speakers and headphones, you can check if their cable is broken. You can plug them to in another computer and see if they work in another computer. If they work in another computer, the problem is probably caused by the cable.
@@ -51,15 +47,7 @@ thumbnail: https://thmb.techidaily.com/13a1f9ec7eefb2f2d2c19f961783b576aae349686
 ![](https://images.drivereasy.com/wp-content/uploads/2016/04/img_570b4f3700616.png)
 2. In the**Playback** tab, ensure there’s a green tick on**Speakers** . This indicates that your speakers are the default playback device.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Default speaker ticked Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Default-speaker-ticked-Windows10.png)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If your Speakers are NOT already set as the default, this is doubtless your problem. To fix, just click them, click**Set Default** , then click **OK** and test whether you have sound.  
 ![Set default speakers Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Set-default-speakers-Windows-10.png)  
@@ -81,16 +69,8 @@ thumbnail: https://thmb.techidaily.com/13a1f9ec7eefb2f2d2c19f961783b576aae349686
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-9.jpg)
 3. In Device Manager, expand**Sound, video and game controllers** , right-click on your sound card, and click **Uninstall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
 4. If you’re asked to confirm the uninstall, check the**Delete the driver software for this device** box and click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
 5. Restart your computer and check to see if the problem is resolved. If it’s not, move on to[Method 3](https://tools.techidaily.com/drivereasy/download/) below.
@@ -110,16 +90,8 @@ thumbnail: https://thmb.techidaily.com/13a1f9ec7eefb2f2d2c19f961783b576aae349686
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d2f95d64f.png)
 3. Click the **Update** button next to a flagged audio driver to automatically download and install the correct version of this driver (you can do this with the FREE version of Driver Easy).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d31484e2f.jpg)  
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer and check to see if you now have sound.
 
@@ -159,10 +131,6 @@ Follow these steps to restart audio services.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-278.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click on**Windows Audio** service and select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-279.png)
@@ -189,19 +157,21 @@ Follow these steps to restart audio services.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-15-leading-gopro-cutting-software-for-2024/"><u>[Updated] 15 Leading GoPro Cutting Software for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-revolutionizing-channel-management-through-tubebuddy/"><u>[Updated] 2024 Approved Revolutionizing Channel Management Through TubeBuddy</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-budget-conscious-skydrive-keepers-mass-file-basket-savings/"><u>[Updated] Budget-Conscious Skydrive Keepers Mass File Basket Savings</u></a></li>
-<li><a href="https://article-helps.techidaily.com/chortlecraft-funny-visuals-for-social-engagement-for-2024/"><u>ChortleCraft Funny Visuals for Social Engagement for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-issues-how-to-repair-a-nonfunctional-mpow-microphone-in-windows/"><u>Fixing Issues: How to Repair a Nonfunctional MPOW Microphone in Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-sound-glitches-and-audio-issues-in-windows-10-and-7-a-comprehensive-guide/"><u>Fixing Sound Glitches and Audio Issues in Windows 10 & 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hands-on-approach-how-to-fix-the-test-tone-not-working-problem-fast/"><u>Hands-On Approach: How to Fix the Test Tone Not Working Problem Fast</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-is-it-possible-to-use-miracast-with-apple-iphone-8-drfone-by-drfone-ios/"><u>In 2024, Is it Possible to Use Miracast with Apple iPhone 8? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/pro-level-iphone-photo-tips-and-tricks/"><u>Pro-Level iPhone Photo Tips and Tricks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolved-missing-default-printer-and-scanner-drivers-on-windows-11-operating-system/"><u>Resolved: Missing Default Printer & Scanner Drivers on Windows 11 Operating System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restore-your-skype-sound-resolving-microphone-failures-in-windows-11/"><u>Restore Your Skype Sound: Resolving Microphone Failures in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-common-problems-making-your-corsair-void-microphone-work-again/"><u>Solve Common Problems: Making Your Corsair Void Microphone Work Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016164311-troubleshooting-guide-for-nonfunctional-steelseries-arctis-pro-mic-resolved/"><u>Troubleshooting Guide for Nonfunctional SteelSeries Arctis Pro Mic - Resolved!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-building-a-billion-view-empire-your-step-by-step-youtube-strategy/"><u>[New] 2024 Approved Building a Billion-View Empire Your Step-by-Step Youtube Strategy</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-expertise-for-changing-meet-usernames-laptopmobile-for-2024/"><u>[Updated] Expertise for Changing Meet Usernames (Laptop/Mobile) for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-essential-tools-in-transforming-digital-performers-vocal-identity/"><u>2024 Approved Essential Tools in Transforming Digital Performers' Vocal Identity</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-master-audio-on-chrome-selecting-the-best-web-based-speech-modifiers/"><u>2024 Approved Master Audio on Chrome Selecting the Best Web-Based Speech Modifiers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-install-of-bcm20702a0-wi-fi-drivers-on-windows-pcs-step-by-step-download/"><u>Effortless Install of BCM20702A0 Wi-Fi Drivers on Windows PCs | Step by Step Download</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-diagnosing-and-repairing-the-persistent-dark-mode-glitch-in-rainbow-six-siege-for-windows/"><u>Expert Advice: Diagnosing and Repairing the Persistent Dark Mode Glitch in Rainbow Six Siege for Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/if-you-or-someone-else-is-experiencing-auditory-hallucinations-it-can-be-helpful-to-seek-medical-advice-from-a-primary-care-provider-or-psychiatrist-who-can654/"><u>If You or Someone Else Is Experiencing Auditory Hallucinations, It Can Be Helpful to Seek Medical Advice From a Primary Care Provider or Psychiatrist Who Can Offer Appropriate Assessments and Guidance Based on the Individual Case.</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-navigating-gif-storage-and-use-in-the-digital-age-iphone/"><u>In 2024, Navigating GIF Storage and Use in the Digital Age (iPhone)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-pinnacle-video-devices-for-windows-11-enthusiasts/"><u>In 2024, Pinnacle Video Devices for Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mic-diagnostics-made-easy-the-fastest-way-to-ensure-crystal-clear-audio/"><u>Mic Diagnostics Made Easy: The Fastest Way to Ensure Crystal Clear Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/modern-warfares-voice-chat-problem-solved-steps-for-players/"><u>Modern Warfare's Voice Chat Problem Solved – Steps for Players</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-silent-ops-resolving-apex-legends-voice-chat-problems-today/"><u>No More Silent Ops: Resolving Apex Legends' Voice Chat Problems Today</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-silence-fix-your-firefox-sound-settings-effectively/"><u>Overcome Silence: Fix Your Firefox Sound Settings Effectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-audio-challenges-resolving-resident-evil-village-sounds-issues-efficiently/"><u>Overcoming Audio Challenges: Resolving Resident Evil Village Sounds Issues Efficiently</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-mute-mode-expert-advice-for-fixing-lenovos-audio-glitch/"><u>Overcoming Mute Mode: Expert Advice for Fixing Lenovo's Audio Glitch</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211619581-winning-against-windows-update-challenge-solving-error-0x802n02e-successfully/"><u>Winning Against Windows Update Challenge: Solving Error 0X802n02e Successfully</u></a></li>
 </ul></div>
 

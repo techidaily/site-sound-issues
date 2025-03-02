@@ -1,7 +1,7 @@
 ---
 title: Efficient Techniques to Fix and Update Dell Sound Drivers Under Windows 7
-date: 2024-08-23T12:11:37.117Z
-updated: 2024-08-24T12:11:37.117Z
+date: 2025-02-27T12:22:20.594Z
+updated: 2025-03-01T23:18:35.446Z
 tags:
   - win11
   - win10
@@ -35,9 +35,6 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b5314e30c21.png)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 3, check the volume settings
 
  If your speakers are muted or their volume is set to too slow, the speakers would produce no sound. You can follow the steps below to check and ensure the volume is set correctly.
@@ -46,44 +43,26 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 2. Type control panel and click**OK** . This is to open Control Panel window.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a379fb55982a.png)
 3. In Control Panel, view by Category, click **Hardware and Sound** .  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a37a0193f08b.jpg)
 4. Under **Sound** , click **Adjust system volume** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-24.png)
 5. If the sound is unmuted, move to the next step.
 6. Try to move the slider up to increase the volume.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/volume-mixer.jpg)
 
  If the problem still cannot be resolved, try solutions below. Sound setting issues or driver issues may also cause this problem.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## Set Speakers as Default
 
  Your speakers won’t work if it’s not set as the default output. To resolve the problem, you can set the speaker as default. To do so:
 
 1. Right-click the speaker icon at the bottom right corner of the desktop and click on**Playback devices** .  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b11f3def8f1.png)
 2. Highlight**Speakers** or**Speakers /Headphones** and click**Set Default** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/set-as-default.jpg)
 
  If you don’t see the speakers in the device list, it may be disabled. In this case, right-click on the blank area and select**Show disabled devices** on the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![show disabled device](https://images.drivereasy.com/wp-content/uploads/2016/08/show-disabled-device.jpg)
 
  After it is listed, right-click on the speakers and click**Enable** .
@@ -92,9 +71,6 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
  The problem also can be caused by outdated or missing audio drivers. So try to fix audio drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## 1\. Uninstall the Audio Driver
 
 Follow these steps:
@@ -103,9 +79,6 @@ Follow these steps:
 2. Type **devmgmt.msc** in the run box and click**OK** button. This is to open Device Manager Window.  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57354ce2ad87d.png)
 3. In Device Manager, double-click**Sound, video and game controllers** and right-click your sound card. A context menu will pop up. Then select**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
 4. Tick the box for**Delete the driver software for this device** and click**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
@@ -119,9 +92,6 @@ Follow these steps:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and**install** Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -138,8 +108,6 @@ Follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +115,23 @@ Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-pro-video-and-photography-harnessing-the-power-of-hero5-black/"><u>[New] 2024 Approved Pro Video & Photography Harnessing the Power of Hero5 Black</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-streaming-wars-the-digital-platform-showdown/"><u>[Updated] Streaming Wars The Digital Platform Showdown</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-thors-bold-path-asgard-reborn/"><u>[Updated] Thor’s Bold Path Asgard Reborn</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-compose-your-story-best-mobile-annotation-tools/"><u>2024 Approved Compose Your Story Best Mobile Annotation Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnose-and-solve-your-windows-7-sound-problem-with-these-helpful-tips/"><u>Diagnose and Solve Your Window's 7 Sound Problem with These Helpful Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-guide-restoring-mic-functionality-during-sea-of-thieves-gameplay-pc/"><u>Expert Guide: Restoring Mic Functionality During Sea of Thieves Gameplay (PC)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-windows-media-player-silent-issues-step-by-step-troubleshooting-guide/"><u>Fix Windows Media Player Silent Issues: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-androids-playbook-for-rotating-and-joining-videography/"><u>In 2024, Android's Playbook for Rotating and Joining Videography</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-demystifying-the-process-of-high-dynamic-range-in-photoshop/"><u>In 2024, Demystifying the Process of High Dynamic Range in Photoshop</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209859222-9789198464825-on-angels-wings-3rd-ed/"><u>On Angels' Wings (3rd ed.) | Free Book</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/partition-performance-topping-recorder-showdown-for-2024/"><u>Partition Performance Topping Recorder Showdown for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-turtle-beach-mic-problem-a-step-by-step-guide-for-clear-audio-output/"><u>Solve Your Turtle Beach Mic Problem - A Step-by-Step Guide for Clear Audio Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-no-sound-problems-with-nvidia-hd-audio-in-windows-computers/"><u>Solving 'No Sound' Problems with NVIDIA HD Audio in Windows Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-troubles-a-users-manual-for-windows-7-microphone-issues/"><u>Solving Audio Troubles: A User's Manual for Windows 7 Microphone Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-apple-watch-straps-in-depth-analysis-by-tech-gurus-featuring-reviews-from-zdnet/"><u>Top-Rated Apple Watch Straps : In-Depth Analysis by Tech Gurus - Featuring Reviews From ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-g2000-mic-on-your-kotion-system-a-step-by-step-guide/"><u>Troubleshooting the G2000 Mic on Your Kotion System: A Step-by-Step Guide</u></a></li>
+</ul></div>
 

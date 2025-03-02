@@ -1,7 +1,7 @@
 ---
 title: Top 5 Simple Solutions for Reducing Speaker Vibrations & Humming Noises
-date: 2024-12-21T19:18:57.295Z
-updated: 2024-12-25T20:05:27.560Z
+date: 2025-02-23T19:45:12.667Z
+updated: 2025-03-02T09:01:51.047Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/d44947af2d23263a61b2bb19233d3717a7fd17839
 5. [**Disable audio enhancements**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Restart audio services**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Check cable and volumes
 
  If you don’t hear sound from your external audio devices, like speakers and headphones, you can check if their cable is broken. You can plug them to in another computer and see if they work in another computer. If they work in another computer, the problem is probably caused by the cable.
@@ -53,25 +49,13 @@ thumbnail: https://thmb.techidaily.com/d44947af2d23263a61b2bb19233d3717a7fd17839
 
 ![Default speaker ticked Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Default-speaker-ticked-Windows10.png)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If your Speakers are NOT already set as the default, this is doubtless your problem. To fix, just click them, click**Set Default** , then click **OK** and test whether you have sound.  
 ![Set default speakers Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Set-default-speakers-Windows-10.png)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If your Speakers are set as the default playback device, and you’re still not hearing any sound, you should experiment with different sound formats. To do this, click**Speakers** then **Properties** .  
 ![Change speaker sound format Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Change-speaker-sound-format-Windows-10.png)
 3. Go to the **Advanced** tab, and in the**Default Format** section, select a different sample rate and bit depth, then click**Test** . Repeat this process until you find a format that works, then click**OK** . If you don’t find a format that works, proceed to[Method 2](https://tools.techidaily.com/drivereasy/download/) below.  
 ![Test speaker sound format Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Test-speaker-sound-format-Windows-10.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Uninstall your audio driver
 
@@ -87,16 +71,8 @@ thumbnail: https://thmb.techidaily.com/d44947af2d23263a61b2bb19233d3717a7fd17839
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
 4. If you’re asked to confirm the uninstall, check the**Delete the driver software for this device** box and click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
 5. Restart your computer and check to see if the problem is resolved. If it’s not, move on to[Method 3](https://tools.techidaily.com/drivereasy/download/) below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4: Update your audio driver
 
@@ -130,10 +106,6 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-272.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Select one**Default Device** and select**Properties** .
 
 In the example below, the default device is Speakers / Headphones.
@@ -157,10 +129,6 @@ Follow these steps to restart audio services.
  2) Type**services.msc** in the run box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-278.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Right-click on**Windows Audio** service and select**Restart** .
 
@@ -188,20 +156,22 @@ Follow these steps to restart audio services.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-quick-guide-capturing-moments-with-snap-in-real-time-conferencing/"><u>2024 Approved Quick Guide Capturing Moments with Snap in Real-Time Conferencing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/4-fixes-for-webex-microphone-not-working-2024/"><u>4 Fixes for Webex Microphone Not Working – 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-vivo-y100-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Vivo Y100 Devices</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-discover-the-best-glitch-video-editors-for-desktop-and-online-use/"><u>In 2024, Discover the Best Glitch Video Editors for Desktop and Online Use</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-shake-it-off-best-phones-for-unshakable-visual-experience/"><u>In 2024, Shake It Off! Best Phones for Unshakable Visual Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016518326-logitech-g230-microphone-malfunction-discover-proven-repair-methods/"><u>Logitech G230 Microphone Malfunction? Discover Proven Repair Methods</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/maximizing-your-workflow-with-the-high-performing-owc-mercury-pro-hard-drive-review/"><u>Maximizing Your Workflow with the High-Performing OWC Mercury Pro Hard Drive Review</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-your-teamwork-in-valorant-repairing-the-voice-chat-functionality/"><u>Restoring Your Teamwork in Valorant: Repairing the Voice Chat Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-mission-heres-how-you-can-bring-back-audio-in-call-of-duty-black-ops-cold-war-on-pc-repair-methods/"><u>Silent Mission? Here's How You Can Bring Back Audio in Call of Duty: Black Ops Cold War on PC [REPAIR METHODS]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solutions-for-when-your-logitech-g733-headset-microphone-stops-functioning/"><u>Solutions for When Your Logitech G733 Headset Microphone Stops Functioning</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/sony-wh-1000xm34-headphones-diagnosing-and-repairing-computer-microphone-issues/"><u>Sony WH-1000XM3/4 Headphones: Diagnosing and Repairing Computer Microphone Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-resolve-missing-cygwin1dll-error-messages/"><u>Step-by-Step Guide: Resolve Missing cygwin1.dll Error Messages</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-solution-manual-overcoming-common-problems-with-remote-mics-not-working/"><u>Ultimate Solution Manual: Overcoming Common Problems with Remote Mics Not Working</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlocking-new-potentials-with-macos-11-big-sur/"><u>Unlocking New Potentials with macOS 11 Big Sur</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-the-power-of-chatgpt-transform-your-linkedin-applications-in-just-10-steps/"><u>Unlocking the Power of ChatGPT: Transform Your LinkedIn Applications in Just 10 Steps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-bring-your-message-alive-how-to-send-gifs-via-snapchat-for-2024/"><u>[New] Bring Your Message Alive How to Send Gifs via Snapchat for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-beginners-journey-to-enhanced-gopro-adventures/"><u>[Updated] A Beginner's Journey to Enhanced GoPro Adventures</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-top-10-editing-upgrades-for-final-cut-pro-professionals/"><u>[Updated] In 2024, Top 10 Editing Upgrades for Final Cut Pro Professionals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-ultimate-guide-achieving-an-immaculate-desktop-computer-setup/"><u>1. Ultimate Guide: Achieving an Immaculate Desktop Computer Setup</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-y17s-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo Y17s</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/defend-your-works-of-art-from-ai-theft-with-nightshade-techniques/"><u>Defend Your Works of Art From AI Theft with Nightshade Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/essential-tips-for-resolving-sound-distortions-and-issues-in-outriders/"><u>Essential Tips for Resolving Sound Distortions and Issues in Outriders</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-laptops-silent-mode-a-step-by-step-guide-to-restoring-audio/"><u>Fix Laptop's Silent Mode: A Step-by-Step Guide to Restoring Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-lack-of-audio-with-plugged-in-speakersheadphones-on-windows-systems/"><u>Fixing Lack of Audio with Plugged-In Speakers/Headphones on Windows Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-laptop-sound-problem-a-step-by-step-solution-guide/"><u>Fixing Your Laptop Sound Problem: A Step-by-Step Solution Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-correct-audio-misalignment-top-techniques/"><u>How to Correct Audio Misalignment - Top Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-deactivate-acoustic-tweaks-for-windows-11-systems/"><u>How to Deactivate Acoustic Tweaks for Windows 11 Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-export-your-chatgpt-data/"><u>How to Export Your ChatGPT Data</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-pop-ups-on-your-windows-device-solutions-and-tips/"><u>How to Fix Audio Pop-Ups on Your Windows Device - Solutions & Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-noisy-headphones-and-mic-issues-discover-the-5-essential-steps-for-windows-10/"><u>How to Fix Noisy Headphones and Mic Issues? Discover the 5 Essential Steps for Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-bad-pool-header-issue-in-windows-7-solution-guide/"><u>How to Fix the 'Bad Pool Header' Issue in Windows 7 - Solution Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010005868-master-the-steel-city-adventure-no-more-pc-crashes-with-these-detroit-become-human-tweaks/"><u>Master the Steel City Adventure - No More PC Crashes with These Detroit: Become Human Tweaks</u></a></li>
 </ul></div>
 

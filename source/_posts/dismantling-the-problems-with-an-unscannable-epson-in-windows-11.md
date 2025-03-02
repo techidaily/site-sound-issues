@@ -1,7 +1,7 @@
 ---
 title: Dismantling the Problems with an Unscannable Epson in Windows 11
-date: 2025-02-05T04:36:03.726Z
-updated: 2025-02-11T05:49:37.416Z
+date: 2025-02-25T07:16:05.987Z
+updated: 2025-03-02T11:02:58.252Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
  The causes for these problems are various and sometimes hard to identify. As you can imagine, the connection problem can prevent your scanner from connecting to the computer, and the software and services problems in your computer are the possible reasons for this issue.
 
  But don’t worry. We’ll help you fix the scanner not working on HP.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix the HP scanner not working
 
@@ -69,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1678201865.jpg)
 3. Scroll down and double click**Windows Image Acquisition (WIA)** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd167eed749a.jpg)
 4. In the popup pane, ensure the**Startup type** is set**Automatic** , and the**Service status** is**Running** .  
 
@@ -81,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
 5. Click**Apply** and**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1688e0055e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then restart your computer. Try to use your HP scanner again and see if it works now.
 
@@ -101,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
    * **Shell Hardware Detection**  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd169897b1a1.jpg)  
    **INFORMATION:**  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
     The**Windows Image Acquisition (WIA)** service is dependent upon the**Shell Hardware Detection Service** , while the**Shell Hardware Detection Service** is dependent upon these services: Remote Procedure Call RPC, DCOM Server Process Launcher, and RPC Endpoint Mapper.
 4. Save the changes and try your scanner again to see if it works.
@@ -135,10 +119,6 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/update-dell-touchpad-driver.jpg.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -155,10 +135,6 @@ Then try scanning with your scanner to see if it works.
 1. Type**cmd** in the Windows Search bar and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/cmd-run-as-admin.jpg)
 2. Copy & paste the following command line into the Command Prompt window and press**Enter** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `**msdt.exe -id DeviceDiagnostic**`
 3. Click**Next** in the popped-up window and the troubleshooter will start detecting hardware problems automatically.  
@@ -178,10 +154,6 @@ Then try scanning with your scanner to see if it works.
 1. Type**cmd** in the search box, right-click Command Prompt, and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0319454560.jpg)
 2. In Command Prompt, type the following command, then press**Enter** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd031d993e59.jpg)
@@ -226,16 +198,22 @@ To fix your issues, follow the steps below to run a full scan of your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-the-screens-sole-contender-software-or-hardware-triumph-for-2024/"><u>[New] The Screen's Sole Contender Software or Hardware Triumph for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-top-10-firefox-video-and-image-export-add-ons-for-2024/"><u>[New] Top 10 Firefox Video & Image Export Add-Ons for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-understanding-your-place-in-youtube-earnings/"><u>[Updated] In 2024, Understanding Your Place in YouTube Earnings</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-narrowing-down-dji-action-gopro-max-and-insta360-series/"><u>[Updated] Narrowing Down DJi Action, GoPro Max, and Insta360 Series</u></a></li>
-<li><a href="https://fox-search.techidaily.com/comment-retrouver-votre-informations-sur-un-toshiba-canvio-portable-perdu/"><u>Comment Retrouver Votre Informations Sur Un Toshiba Canvio Portable Perdu</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-dota-2-microphone-issues-comprehensive-solutions/"><u>Fixing Dota 2 Microphone Issues: Comprehensive Solutions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gerez-et-ameliorez-vos-videos-avec-la-technologie-ai-montage-stabilisation-and-conversion-par-winxvideo/"><u>Gérez Et Améliorez Vos Vidéos Avec La Technologie AI - Montage, Stabilisation & Conversion Par WinxVideo</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-skype-microphone-on-windows-10-devices/"><u>How to Fix a Non-Functioning Skype Microphone on Windows 10 Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/recommended-fixes-for-non-responsive-windows-scanner/"><u>Recommended Fixes for Non-Responsive Windows Scanner</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-improve-your-oculus-rift-s-mic-quick-resolutions-for-gaming-aces/"><u>Troubleshoot and Improve Your Oculus Rift S Mic - Quick Resolutions for Gaming Aces</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-repair-non-functional-turtle-beach-stealth-600-nc2-mic/"><u>Troubleshooting Guide: How to Repair Non-Functional Turtle Beach Stealth 600 NC2 Mic</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-gadget-showdown-unlocking-iphone-vs-galaxy-with-facial-scans/"><u>[New] 2024 Approved Gadget Showdown Unlocking iPhone Vs. Galaxy with Facial Scans</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-extended-review-uncomplicated-hdr-approach/"><u>[Updated] Extended Review Uncomplicated HDR Approach</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-simplify-your-tech-life-capture-and-store-youtube-streaming-effortlessly/"><u>[Updated] In 2024, Simplify Your Tech Life Capture and Store YouTube Streaming Effortlessly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-claudes-superiority-four-aspects-where-it-exceeds-chatgpt/"><u>Exploring Claude's Superiority: Four Aspects Where It Exceeds ChatGPT</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-14-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 14 Pro Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-speed-maximization-mastery-selecting-winning-converters-for-os-xwin-srt/"><u>In 2024, Speed Maximization Mastery Selecting Winning Converters for OS X/Win SRT</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-amazon-fire-hd-10-kids-edition-exceptional-kid-safe-features-and-reviews/"><u>In-Depth Analysis of Amazon Fire HD 10 Kids Edition: Exceptional Kid-Safe Features and Reviews</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sony-s6700-latest-features-reviewed-for-2024/"><u>Sony S6700 Latest Features Reviewed for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/stereo-mix-malfunction-heres-the-ultimate-guide-to-repairing-two-channel-audio-outputs/"><u>Stereo Mix Malfunction? Here's the Ultimate Guide to Repairing Two-Channel Audio Outputs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-evolution-of-drones-present-impact-and-future-prospects/"><u>The Evolution of Drones Present Impact and Future Prospects</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-quick-fix-checklist-getting-your-oculus-rift-s-microphone-up-and-running-again-latest-tips/"><u>The Ultimate Quick-Fix Checklist: Getting Your Oculus Rift S Microphone Up and Running Again (Latest Tips )</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-strategies-for-troubleshooting-facebook-video-playback-sound-issues-on-pc-latest-insights/"><u>Top Strategies for Troubleshooting Facebook Video Playback Sound Issues on PC - Latest Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-lack-of-sound-after-installing-the-latest-windows-11-update/"><u>Troubleshoot and Fix Lack of Sound After Installing the Latest Windows 11 Update</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-resolve-microphone-glitches-on-your-windows-(span)7-device(span)/"><u>Troubleshoot and Resolve Microphone Glitches on Your Windows <Span>7 Device</Span></u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-issues-post-update-in-windows-11-fast-solutions/"><u>Troubleshooting Audio Issues Post-Update in Windows 11 – Fast Solutions!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-logitech-g935-microphone-issues-on-pc/"><u>Troubleshooting Guide: Fixing Logitech G935 Microphone Issues on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-silent-usb-headphones-in-windows-7/"><u>Troubleshooting Guide: Fixing Silent USB Headphones in Windows 7</u></a></li>
 </ul></div>
 

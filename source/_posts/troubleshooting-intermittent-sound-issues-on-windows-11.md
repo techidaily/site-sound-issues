@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Intermittent Sound Issues on Windows 11
-date: 2025-02-10T08:01:27.766Z
-updated: 2025-02-10T22:47:09.857Z
+date: 2025-02-25T21:39:16.165Z
+updated: 2025-03-02T09:18:54.621Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ But first, ensure that your device has been connected and set correctly.
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -60,14 +56,6 @@ But first, ensure that your device has been connected and set correctly.
 1. Press the **Windows logo key**  \+ **R** to open the Run box. Type “ms-settings: troubleshoot” and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/troubleshoot.jpg)
 2. Click **Playing Audio** . Then click **Run the troubleshooter** . Wait for the investigation complete. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/10-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Follow the on-screen instructions to finish the process.
 
 4. Restart your computer and check whether Anthem has sound or not.
@@ -81,20 +69,8 @@ But first, ensure that your device has been connected and set correctly.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the **Playback** tab, choose the device you’re using and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click the **Advanced** tab, select the lowest setting on the Default Format drop-down menu. Then click **OK** . Back to the Sound window, click **Apply** \> **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/12.jpg)
 5. Reboot your computer and check whether Anthem has sound or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Uncheck “Disable all sound effects”
 
@@ -104,10 +80,6 @@ But first, ensure that your device has been connected and set correctly.
 2. Click **Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the **Playback** tab, choose the device you’re using and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. In the **Enhancements** tab, uncheck “**Disable all sound effects** “. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
 5. Click **Apply > OK** .
@@ -160,22 +132,22 @@ But first, ensure that your device has been connected and set correctly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-pixel-perfection-in-image-integration/"><u>[New] In 2024, Pixel Perfection in Image Integration</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-educational-history-series-the-most-engaging-ones/"><u>[Updated] 2024 Approved Educational History Series - The Most Engaging Ones</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-vivo-y36i-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Vivo Y36i Activity | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-cut-the-cord-clutter-simultaneous-playthrough-of-videos/"><u>2024 Approved Cut the Cord Clutter Simultaneous Playthrough of Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/diy-solution-success-restoring-power-to-my-malfunctioning-macbook-pro-without-cost/"><u>DIY Solution Success: Restoring Power to My Malfunctioning MacBook Pro Without Cost</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-sound-issues-overcoming-stutter-and-distortion-in-windows-operating-systems/"><u>Fix Your Sound Issues: Overcoming Stutter and Distortion in Windows Operating Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-laptop-built-in-speakers-a-comprehensive-guide-to-restoring-audio/"><u>Fixing Laptop Built-In Speakers: A Comprehensive Guide to Restoring Audio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-your-call-of-duty-modern-warfare-voice-chat-back-on-track-a-guide-to-resolving-common-issues/"><u>Getting Your Call of Duty Modern Warfare Voice Chat Back On Track: A Guide to Resolving Common Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-and-restore-a-nonfunctional-logitech-g733-microphone/"><u>How to Repair and Restore a Nonfunctional Logitech G733 Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-microphone-functionality-on-your-turtle-beach-elite-atlas-headset/"><u>How To Restore Microphone Functionality On Your Turtle Beach Elite Atlas Headset</u></a></li>
-<li><a href="https://win-forum.techidaily.com/in-depth-tutorial-on-modifying-and-crafting-new-registry-settings/"><u>In-Depth Tutorial on Modifying and Crafting New Registry Settings</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-sound-sync-issues-comprehensive-tips/"><u>Mastering Sound Sync Issues: Comprehensive Tips</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/premium-fugetek-ft-568-stick-reviewed-unmatched-strength-for-professional-selfies/"><u>Premium Fugetek FT-568 Stick Reviewed: Unmatched Strength for Professional Selfies</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-k11x-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo K11x Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-bluetooth-audio-delay-in-no-time-with-these-simple-fixes/"><u>Resolve Bluetooth Audio Delay in No Time with These Simple Fixes!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-audio-in-microsoft-teams-for-windows-11-and-10-users-common-fixes-exposed/"><u>Reviving Audio in Microsoft Teams for Windows 11 & 10 Users - Common Fixes Exposed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-optimal-live-streaming-scenery-ideas/"><u>[New] In 2024, Optimal Live Streaming Scenery Ideas</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-testing-the-strength-of-apples-m1-in-professional-video-editing/"><u>[New] In 2024, Testing the Strength of Apple's M1 in Professional Video Editing</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-chromatic-ingenuity-from-concept-to-creation/"><u>[Updated] In 2024, Chromatic Ingenuity From Concept to Creation</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/behebung-von-problemen-microsd-karten-hangezeiten-dauerhaft-vermeiden/"><u>Behebung Von Problemen: MicroSD-Karten-Hängezeiten Dauerhaft Vermeiden</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/brighten-up-your-pc-with-a-new-taskbar-color-on-windows-11/"><u>Brighten Up Your PC with a New Taskbar Color on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968037522-easy-to-download-epson-wf-2630-printer-driver-for-microsoft-windows-update-now/"><u>Easy to Download Epson WF-2630 Printer Driver for Microsoft Windows - Update Now</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/how-to-seamless-automated-syncing-from-windows-10-to-your-external-storage/"><u>How-To: Seamless Automated Syncing From Windows 10 to Your External Storage</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-google-pixel-fold-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Google Pixel Fold via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-art-of-setting-up-unfamiliar-speakers-on-a-windows-10-system/"><u>Mastering the Art of Setting Up Unfamiliar Speakers on a Windows 10 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/maximizing-speaker-loudness-advanced-settings-for-windows-10-audio-control/"><u>Maximizing Speaker Loudness: Advanced Settings for Windows 10 Audio Control</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-the-challenges-a-comprehensive-guide-to-repairing-a-non-working-corsair-hs70-microphone/"><u>Overcoming the Challenges: A Comprehensive Guide to Repairing a Non-Working Corsair HS70 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-to-restore-sound-in-your-fortnite-gaming-experience/"><u>Quick Fixes to Restore Sound in Your Fortnite Gaming Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-guide-to-resolving-computer-mute-problems-and-reconnecting-speakers/"><u>Quick-Fix Guide to Resolving Computer Mute Problems and Reconnecting Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quickly-resolve-your-razer-microphone-issues-with-these-5-simple-fixes/"><u>Quickly Resolve Your Razer Microphone Issues with These 5 Simple Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-audio-device-error-unplugged-or-nonfunctional-speakers-and-headphones-on-windows-11-8-and-7/"><u>Resolving Audio Device Error: Unplugged or Nonfunctional Speakers and Headphones on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-game-audio-fixing-the-turtle-beach-stealth-70-headset-mic-issue/"><u>Revive Your Game Audio: Fixing the Turtle Beach Stealth 70 Headset Mic Issue</u></a></li>
 </ul></div>
 

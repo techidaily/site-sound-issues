@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Repairing Your Razer BlackShark V2's Nonfunctional Mic
-date: 2025-02-05T19:28:52.091Z
-updated: 2025-02-10T19:04:06.291Z
+date: 2025-02-25T07:43:48.709Z
+updated: 2025-03-02T00:03:49.181Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
 4. [Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Troubleshoot hardware issues](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Turn on app permissions for your microphone
 
  To use your microphone with apps on Windows, you’ll need to turn on some permissions in Microphone settings. Here’s how:
@@ -56,19 +52,11 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
   
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Once you’ve allowed microphone access to your apps, you can change the settings for each app. Simply head to the**Choose which Microsoft apps can access your microphone** , and turn on apps you want to use with it. For desktop apps, make sure that**Allow desktop apps to access your microphone** is turned**On** .
 
  After you’ve done all of these, try to use your headset microphone and check if it’s working properly. If the issue persists, try the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Make sure your mic isn’t disabled
 
@@ -102,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
   
 ![Open Sound Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-control-panel.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Select the**Recording** tab. Select your microphone and then click**Set Default > OK** .  
   
 ![set your device as default](https://images.drivereasy.com/wp-content/uploads/2021/02/set-it-as-default.png)
@@ -128,10 +112,6 @@ Here’s how to update drivers with Driver Easy:
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -142,10 +122,6 @@ Here’s how to update drivers with Driver Easy:
  After updating your drivers, restart your computer and do a mic test to check if it’s back to a normal state. If the microphone is still not working properly, try the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Troubleshoot hardware issues
 
@@ -174,21 +150,18 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-mastering-youtube-sounds-4-top-budget-friendly-apps/"><u>[Updated] 2024 Approved Mastering YouTube Sounds - 4 Top Budget-Friendly Apps</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-effortless-audio-transfer-on-iphone-pick-top-6-tools-to-convert-youtube-for-2024/"><u>[Updated] Effortless Audio Transfer on iPhone Pick Top 6 Tools to Convert YouTube for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-from-novice-to-vlogger-the-top-10-editing-techniques/"><u>[Updated] In 2024, From Novice to Vlogger The Top 10 Editing Techniques</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-innovative-approach-to-revamping-your-videos-cover-images-on-fb/"><u>[Updated] Innovative Approach to Revamping Your Videos' Cover Images on FB</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-smile-smarter-crafting-text-memes-like-a-pro/"><u>[Updated] Smile Smarter Crafting Text Memes Like a Pro</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easily-repair-audio-errors-dealing-with-the-no-response-from-audio-driver-complication/"><u>Easily Repair Audio Errors: Dealing with the 'No Response From Audio Driver' Complication</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/essential-tips-for-resolving-corsair-hs7ve-mics-not-working-issue/"><u>Essential Tips for Resolving Corsair HS7ve Mics Not Working Issue</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-guide-to-diagnosing-and-fixing-pc-issues-with-the-rec-room-microphone-get-ready-to-communicate/"><u>Expert Guide to Diagnosing and Fixing PC Issues with the Rec Room Microphone – Get Ready to Communicate</u></a></li>
-<li><a href="https://fox-access.techidaily.com/integrate-sound-and-sight-web-studio-for-2024/"><u>Integrate Sound & Sight Web Studio for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/logitech-g633-microphone-problem-solved-a-step-by-step-fix/"><u>Logitech G633 Microphone Problem Solved: A Step-by-Step Fix</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-for-when-your-laptops-headphone-jack-wont-work/"><u>Solution Steps for When Your Laptop's Headphone Jack Won't Work</u></a></li>
-<li><a href="https://win-tips.techidaily.com/story-1-the-misunderstanding-of-data-security-in-virtualization/"><u>Story 1: The Misunderstanding of Data Security in Virtualization</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-lack-of-sound-in-apex-legends-tips-and-tricks/"><u>Troubleshooting Complete Lack of Sound in Apex Legends – Tips & Tricks</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-take-your-editing-to-the-next-level-top-40-fcpx-keyboard-shortcuts-and-tricks/"><u>Updated Take Your Editing to the Next Level Top 40 FCPX Keyboard Shortcuts and Tricks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/warzone-audio-restoration-blueprint-for-gamers-troubleshooting-tips/"><u>Warzone Audio Restoration Blueprint for Gamers: Troubleshooting Tips</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-realme-gt-neo-5-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-analyzing-the-financial-gains-of-podcasting/"><u>[New] In 2024, Analyzing the Financial Gains of Podcasting</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-guide-to-add-motion-blur-to-photos-in-adobe-illustrator/"><u>2024 Approved Guide to Add Motion Blur to Photos in Adobe Illustrator</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-revolutionizing-smartphone-photography-iphone-xs-features-explored/"><u>2024 Approved Revolutionizing Smartphone Photography IPhone X's Features Explored</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/audience-engagement-on-demand-top-5-mac-streaming-tools/"><u>Audience Engagement On Demand Top 5 Mac Streaming Tools</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/ersatzlosungen-zur-wiederherstellung-von-samsung-systemen-mit-windows-10-kostenlose-alternativen/"><u>Ersatzlösungen Zur Wiederherstellung Von Samsung-Systemen Mit Windows 10 - Kostenlose Alternativen</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-online-conversion-of-wma-files-to-aac-format-easy-and-fast-with-movavi/"><u>Free Online Conversion of WMA Files to AAC Format - Easy and Fast with Movavi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-when-your-sound-blaster-mic-wont-work/"><u>Step-by-Step Solutions When Your Sound Blaster Mic Won't Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tips-and-tricks-to-stop-that-annoying-buzz-when-youre-trying-to-enjoy-music-a-headphone-guide/"><u>Tips & Tricks to Stop that Annoying Buzz When You're Trying to Enjoy Music: A Headphone Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-logitech-g933-mic-heres-how-you-can-get-it-working-again/"><u>Trouble with Logitech G933 Mic? Here's How You Can Get It Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-audio-glitches-on-windows-11-with-these-5-essential-tips/"><u>Troubleshoot Audio Glitches on Windows 11 with These 5 Essential Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-a-silent-mic-tips-and-techniques-to-restore-audio-input/"><u>Troubleshooting a Silent Mic - Tips and Techniques to Restore Audio Input</u></a></li>
 </ul></div>
 

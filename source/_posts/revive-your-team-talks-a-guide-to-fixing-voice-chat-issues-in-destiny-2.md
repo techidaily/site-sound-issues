@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Team Talks: A Guide to Fixing Voice Chat Issues in Destiny 2"
-date: 2024-12-19T17:01:51.850Z
-updated: 2024-12-25T20:34:15.811Z
+date: 2025-02-24T14:15:46.944Z
+updated: 2025-03-01T17:52:20.480Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/892778263385515e7b518ee32371993d4538db30f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -59,19 +55,11 @@ thumbnail: https://thmb.techidaily.com/892778263385515e7b518ee32371993d4538db30f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Driver-Easy-Scan-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Click **Update** next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Update-all-drivers.jpg)
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Fortnite patch
 
@@ -95,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/892778263385515e7b518ee32371993d4538db30f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap898.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run Fortnite again to check whether your chat problem has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 4, below.
 
 ### Fix 4: Make sure your microphone is on for Fortnite
@@ -115,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/892778263385515e7b518ee32371993d4538db30f
 
 3\. Run Fortnite to see if chat works now. If not, try Fix 5, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Check your audio settings
 
  Windows and Fortnite both have audio settings, and sometimes things just get a little mixed up. So it can help to reset everything, manually, to clear out the cobwebs. (Kinda like how restarting your PC can sometimes mysteriously resolve problems.) Here is how to do it:
@@ -128,10 +108,6 @@ thumbnail: https://thmb.techidaily.com/892778263385515e7b518ee32371993d4538db30f
  i. In Fortnite, click**the menu button** in the upper-right corner, then click**the gear icon** to open the game settings.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap925.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  ii. Click**the speaker icon** to view the audio settings. Then**turn off Voice Chat** and click**Apply** .  
 
@@ -151,17 +127,9 @@ iii. Exit Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5\. While still in the**Recording** tab, try**speaking into your microphone** to test if it works properly. If it is, you should see some green in the bar on the right:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6\. Click **OK** .
 
@@ -210,19 +178,19 @@ iii. Exit Fortnite.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-orchestrated-journey-through-youtubes-undisclosed-content/"><u>[New] In 2024, Orchestrated Journey Through YouTube's Undisclosed Content</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-confronting-giants-picking-your-powerhouse-t5-or-sjcam-s6/"><u>[Updated] Confronting Giants Picking Your Powerhouse - T5 or SJCAM S6</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-excellent-online-screen-recorders-ranked-1plus/"><u>[Updated] Excellent Online Screen Recorders Ranked #1+</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-simplified-steps-for-snapchat-lens-design/"><u>[Updated] In 2024, Simplified Steps for Snapchat Lens Design</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-unveiling-the-excellent-tech-for-high-definition-recording/"><u>[Updated] In 2024, Unveiling the Excellent Tech for High-Definition Recording</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fainter-frequencies-for-pc-and-mac-harmony/"><u>2024 Approved Fainter Frequencies for PC & Mac Harmony</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/airpods-not-recognizing-mic-in-windows-11-heres-what-to-do/"><u>AirPods Not Recognizing Mic in Windows 11? Here’s What to Do!</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-driven-solutions-streamlining-your-websites-analytics-and-personalization/"><u>Cookiebot-Driven Solutions: Streamlining Your Website's Analytics and Personalization</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-audio-repair-techniques-for-gamers-experiencing-problems-in-new-world/"><u>DIY Audio Repair Techniques for Gamers Experiencing Problems in New World</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-resolving-issues-with-realtek-hd-audio-player-not-starting-up/"><u>Expert Tips for Resolving Issues with RealTek HD Audio Player Not Starting Up</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-more-silence-in-battle-fixing-the-voice-chat-glitch-in-modern-warfare/"><u>No More Silence in Battle: Fixing the Voice Chat Glitch in Modern Warfare</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-fixing-no-audio-issue-when-a-speaker-is-connected-on-pc/"><u>Resolved: Fixing No Audio Issue When a Speaker Is Connected on PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-game-audio-fixes-for-anthems-sound-problems-on-windows-11-systems/"><u>Restoring Game Audio: Fixes for Anthem's Sound Problems on Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-solving-code-31-issues-in-windows-computers/"><u>Understanding and Solving Code 31 Issues in Windows Computers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-insiders-guide-to-crafting-insta-tones/"><u>[New] In 2024, The Insider's Guide to Crafting Insta Tones</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-perfectly-crafted-windows-simulators-for-ps3-games/"><u>[New] Perfectly Crafted Windows Simulators for PS3 Games</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-engaging-audiences-on-instagram-the-power-of-creative-puzzles/"><u>[Updated] 2024 Approved Engaging Audiences on Instagram The Power of Creative Puzzles</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-essential-rotators-playbook-for-youtube-video-spinning/"><u>2024 Approved The Essential Rotator's Playbook for YouTube Video Spinning</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/enhancing-your-computers-efficiency-effective-strategies-by-yl-software/"><u>Enhancing Your Computer's Efficiency: Effective Strategies by YL Software</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-nokia-g42-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Nokia G42 5G</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-tutorial-seamlessly-replacing-your-hdd-with-an-ssd-while-keeping-windows-11-10-8-or-(b)7-installed/"><u>Step-by-Step Tutorial: Seamlessly Replacing Your HDD with an SSD While Keeping Windows 11, 10, 8 or <B>7 Installed</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-intermittent-sound-issues-in-windows-11-solutions-unveiled/"><u>Troubleshooting Intermittent Sound Issues in Windows 11: Solutions Unveiled</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-solving-valorants-voice-communication-issues/"><u>Troubleshooting Tips: Solving Valorant's Voice Communication Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-mic-why-its-silent-and-how-to-fix-it/"><u>Troubleshooting Your Mic - Why It's Silent and How to Fix It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unstuck-from-silence-resolving-headphone-issues-in-windows-10-systems/"><u>Unstuck From Silence: Resolving Headphone Issues In Windows 10 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11s-epson-scanner-not-working-heres-how-to-fix-it/"><u>Windows 11'S Epson Scanner Not Working? Here's How To Fix It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015726148-zoom-microphone-failures-in-windows-1011-heres-how-to-resolve-them/"><u>Zoom Microphone Failures in Windows 10/11? Here's How to Resolve Them!</u></a></li>
 </ul></div>
 

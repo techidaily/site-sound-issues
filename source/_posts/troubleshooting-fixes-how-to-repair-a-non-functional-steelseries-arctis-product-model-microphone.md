@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Fixes: How To Repair a Non-Functional SteelSeries Arctis ([Product Model]) Microphone"
-date: 2024-08-23T12:10:32.249Z
-updated: 2024-08-24T12:10:32.249Z
+date: 2025-02-23T10:06:27.927Z
+updated: 2025-03-01T19:27:33.486Z
 tags:
   - win11
   - win10
@@ -27,9 +27,6 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 * The sound card driver is outdated/corrupted
 * Your microphone cannot access your device
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to fix your mic issues
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -56,9 +53,6 @@ Here’s how to do it:
 
  1) In the Windows Search box, type**microphone,** and select**Microphone privacy settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/privacy.png)
 
  2) Please be sure to turn on “**Allow access to the microphone on this device** ” and “**Allow apps to access your microphone** “.
@@ -69,9 +63,6 @@ Here’s how to do it:
 
  Now you can test recording and see if your SteelSeries Arctis Pro mic is working right now. But if not, please move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Set your headset as the default device
 
  In most cases, when you plug your headset into the computer, it will be set as the default device on the computer. But sometimes it can bump into issues. If your SteelSeries Actis Pro mic is not working, your headset may be disabled or not set as the default device.
@@ -80,29 +71,16 @@ Here’s how to do it:
 
  1) On your keyboard, press the **Windows logo** key and the **R** key at the same time to open the Run box.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
 
  3) In the Sound windows, select the **Recording**  tab.
 
  4) Make sure your Actis Pro is**Enabled** (shows a green checkmark) and set it as the**Default Device** . If not, you can right-click it and select**Set as Default Device** and**Set as Default Communication Device** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-5.png)
 
  In your VoIP application, select Actis Pro Chat Audio as the default audio device.
@@ -131,9 +109,6 @@ No advertising on the website.
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
  3) Click the**Activate & Update** button next to the headset to download the latest and correct driver for it.
@@ -155,18 +130,6 @@ No advertising on the website.
 
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
 
  3) In the Sound windows, select the **Recording**  tab.
@@ -193,8 +156,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,4 +163,21 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-elevating-visuals-with-hdr-excellence-in-photoshop-for-2024/"><u>[New] Elevating Visuals with HDR Excellence in Photoshop for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-easy-broadcast-obs-plus-streamlabs-tutorial-for-mac-users/"><u>[New] In 2024, Easy Broadcast OBS + Streamlabs Tutorial for Mac Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-a-comprehensive-list-of-alternatives-to-popular-gopro-cams/"><u>[Updated] A Comprehensive List of Alternatives to Popular GoPro Cams</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-essential-steps-for-youtube-videos-to-mpeg-format/"><u>[Updated] Essential Steps for YouTube Videos to MPEG Format</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-turn-your-shorts-into-cash-effective-monetization-techniques/"><u>2024 Approved Turn Your Shorts Into Cash Effective Monetization Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016256705-easy-fix-eliminate-noise-problems-in-five-steps-on-windows-10/"><u>Easy Fix: Eliminate Noise Problems in Five Steps on Windows 10!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-troubleshooting-and-repairing-mic-issues-in-the-oculus-quest-2-vr-system/"><u>Expert Tips on Troubleshooting and Repairing Mic Issues in the Oculus Quest 2 VR System</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016336803-lucidsound-ls3t-mic-malfunction-heres-your-step-by-step-guide-to-fixing-it/"><u>LucidSound LS3t Mic Malfunction? Here's Your Step-by-Step Guide to Fixing It!</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/problemlosung-wie-man-fehlende-dateien-auf-einem-usb-datentrager-wiederherstellt/"><u>Problemlösung: Wie Man Fehlende Dateien Auf Einem USB-Datenträger Wiederherstellt</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-common-problems-and-solutions-with-the-razer-kraken-headset-microphone/"><u>Resolved! Common Problems and Solutions with the Razer Kraken Headset Microphone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revive-your-photos-top-tools-for-recovering-broken-jpeg-file-formats-effortlessly/"><u>Revive Your Photos: Top Tools for Recovering Broken JPEG File Formats Effortlessly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-solve-astro-a20-mic-failure-in-minutes/"><u>Troubleshoot & Solve: Astro A20 Mic Failure in Minutes</u></a></li>
+</ul></div>
 

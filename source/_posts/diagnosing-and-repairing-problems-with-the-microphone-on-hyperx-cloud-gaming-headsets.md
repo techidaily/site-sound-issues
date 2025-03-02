@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Problems with the Microphone on HyperX Cloud Gaming Headsets
-date: 2024-12-19T18:38:02.630Z
-updated: 2024-12-25T16:47:09.111Z
+date: 2025-03-01T06:22:33.709Z
+updated: 2025-03-02T00:26:57.101Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -58,18 +54,10 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/win11-microphone-privacy.jpg)
 3. Ensure microphpne access for this device is**on** . If it is off, then check the**Change** button below to turn it on. You should also**turn on the toggle** under**Allow apps to access your microphone** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Allow access to the microphone on this device and allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-access-to-the-microphone-on-this-device-and-allow-apps-to-access-your-microphone.jpg)
 4. Scroll down to check if the**Allow desktop apps access to your microphone** part is set to **On** .  
 
 ![Allow desktop apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-desktop-apps-to-access-your-microphone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then check if your Logitech G733 mic works on your computer. If not, don’t worry. Just try the next fix, below.
 
@@ -84,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 ![Show disabled Recording Devices ](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dc36f136c6.jpg)
 3. **Right-click** the**Headset Microphone** and click **Enable** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Enable headset microphone recording](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4daac96f5e7.jpg)
 4. Then**right-click** it again and select **Set as Default Device** .  
 
@@ -100,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 7. Click**OK** to save the changes.
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Update your audio drivers
 
@@ -121,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — if you don’t already have it, you’ll be prompted to upgrade when you click **Update All** .)  
 ![audio-driver-update](https://images.drivereasy.com/wp-content/uploads/2021/03/audio-driver-update.jpg)
 4. Reboot your PC for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -152,20 +128,17 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-step-by-step-strategies-for-posting-and-uploading-gifs-on-instagram/"><u>[New] 2024 Approved Step-by-Step Strategies for Posting & Uploading GIFs on Instagram</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-adobes-guide-to-memetic-artistry-for-2024/"><u>[New] Adobe's Guide to Memetic Artistry for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-enhance-video-to-fit-instagrams-visual-taste/"><u>[New] Enhance Video to Fit Instagram's Visual Taste</u></a></li>
-<li><a href="https://win-bits.techidaily.com/comment-installer-repliquer-windows-11-sur-un-nouvel-appareil-a-laide-dune-cle-usb/"><u>Comment Installer Répliquer Windows 11 Sur Un Nouvel Appareil À L'aide D'une Clé USB</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-on-resolving-kotion-g2000-microphone-malfunctions/"><u>Expert Advice on Resolving Kotion G2000 Microphone Malfunctions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/finding-your-audio-foothold-podcasts-or-youtube-to-lean-on/"><u>Finding Your Audio Foothold Podcasts or YouTube to Lean On?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-the-quiet-battlefield-4-problem-step-by-step-troubleshooting/"><u>Fix the Quiet Battlefield 4 Problem - Step-by-Step Troubleshooting</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-bluetooth-sound-latency-tips-for-a-smoother-experience/"><u>Fixing Bluetooth Sound Latency: Tips for a Smoother Experience</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/how-to-fix-your-scanner-when-it-wont-connect-to-pc-a-step-by-step-guide-from-yl-computing/"><u>How to Fix Your Scanner When It Won't Connect to PC - A Step-by-Step Guide From YL Computing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-turn-up-the-volume-solve-noise-problems-in-anthem-windows-11/"><u>How to Turn Up the Volume: Solve Noise Problems in Anthem (Windows 11)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-unlocking-macscreens-how-to-record-and-save-immediately/"><u>In 2024, Unlocking MacScreens How to Record and Save Immediately</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-weather-icons-styling-windows-11s-system-tray/"><u>Mastering Weather Icons: Styling Windows 11'S System Tray</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-mac-no-more-expert-tips-for-boosting-your-computers-speakers-back-to-life/"><u>Silent Mac No More – Expert Tips for Boosting Your Computer's Speakers Back to Life</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-definitive-guide-to-fixing-echoes-in-discord-on-your-pc-updated/"><u>The Definitive Guide to Fixing Echoes in Discord on Your PC - Updated</u></a></li>
-<li><a href="https://windows11.techidaily.com/unfreeze-shift-button-on-your-pc/"><u>Unfreeze Shift Button on Your PC.</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-compre-written-analysis-hero4-black-operations/"><u>[New] 2024 Approved Compre Written Analysis Hero4 Black Operations</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-masterful-makeovers-picarts-backdrop-banishment-guide-for-2024/"><u>[New] Masterful Makeovers PicArt’s Backdrop Banishment Guide for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-windows-fingerprint-reader-not-working/"><u>[SOLVED] Windows Fingerprint Reader Not Working</u></a></li>
+<li><a href="https://win-blog.techidaily.com/garrys-mod-stability-issues-top-fixes-and-hacks/"><u>Garry's Mod Stability Issues? Top Fixes & Hacks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-google-pixel-8-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Google Pixel 8 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-from-lol-to-omg-the-best-meme-generator-apps-for-mobile-for-2024/"><u>New From LOL to OMG The Best Meme Generator Apps for Mobile for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/reducing-camera-movement-in-post-processing-necessary-in-2024/"><u>Reducing Camera Movement in Post-Processing Necessary, In 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-the-volume-effective-solutions-for-laptop-sound-failure/"><u>Reviving the Volume: Effective Solutions for Laptop Sound Failure</u></a></li>
+<li><a href="https://win-info.techidaily.com/solutions-fur-problem-mit-windows-11-medienerstellungstool-und-nicht-erkannter-usb-festplatte/"><u>Solutions Für Problem Mit Windows 11 Medienerstellungstool Und Nicht Erkannter USB-Festplatte</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-common-problems-and-solutions-for-the-logitech-g230-headset-mic/"><u>Solved! Common Problems and Solutions for the Logitech G230 Headset Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-stereo-sound-issues-fixes-when-your-mix-isnt-functioning/"><u>Solving Stereo Sound Issues: Fixes When Your Mix Isn't Functioning</u></a></li>
+<li><a href="https://win-web.techidaily.com/updating-your-windows-defender-threat-database-essential-tips-and-tricks-from-yl-software-solutions/"><u>Updating Your Windows Defender Threat Database: Essential Tips and Tricks From YL Software Solutions</u></a></li>
 </ul></div>
 

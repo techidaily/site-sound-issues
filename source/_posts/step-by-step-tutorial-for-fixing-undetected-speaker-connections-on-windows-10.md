@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial for Fixing Undetected Speaker Connections on Windows 10
-date: 2024-08-18T08:05:25.264Z
-updated: 2024-08-19T08:05:25.264Z
+date: 2025-02-23T03:04:59.636Z
+updated: 2025-03-01T22:57:16.701Z
 tags:
   - win11
   - win10
@@ -31,17 +31,11 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 1: Disable Exclusive Mode and change the sound format**
 
  Having**Exclusive Mode** on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the**crackles in speakers** problem. To disable**Exclusive Mode** :
 
 1. On your keyboard, press   **the Windows logo key**  and type**audio** , then click**Manage audio devices** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
@@ -49,9 +43,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
@@ -69,9 +60,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
@@ -83,21 +71,12 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
  Adjusting**the minimum processor state** , as reported by many users, is another effective way to fix the annoying sound problem in our speaker. To do so:
 
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
@@ -115,8 +94,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +101,22 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-leading-music-service-streaming-channels/"><u>[New] In 2024, Leading Music Service Streaming Channels</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-shifting-screenshots-from-tif-to-common-formats-mac/"><u>[Updated] Shifting Screenshots From .tif to Common Formats (Mac)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-jokesterjuxtaposer/"><u>2024 Approved JokesterJuxtaposer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnose-and-repair-razer-blackshark-v2-mic-failure-solutions/"><u>Diagnose & Repair: Razer BlackShark V2 Mic Failure Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-glitches-a-how-to-for-microsoft-surface-users-with-a-malfunctioning-mic/"><u>Fixing Audio Glitches: A How-To for Microsoft Surface Users with a Malfunctioning Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016429293-how-to-get-the-voice-chat-function-back-on-in-discord-solutions-here/"><u>How To Get The Voice Chat Function Back On In Discord - Solutions Here!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-of-your-lucidsound-ls30-audio-device/"><u>How to Restore Functionality of Your LucidSound LS30 Audio Device</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782187-9781594779022-science-and-the-near-death-experience/"><u>Science and the Near-Death Experience | Free Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016709446-solving-sound-difficulties-on-a-windows-10-system-try-these-5-simple-steps/"><u>Solving Sound Difficulties on a Windows 10 System? Try These 5 Simple Steps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/stop-youtubes-auto-pause-feature-a-simple-guide-on-disabling-the-autoplay-function/"><u>Stop YouTube's Auto-Pause Feature: A Simple Guide on Disabling the Autoplay Function</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/management-using-timestamps-to-amplify-views-on-youtube/"><u>Time Management Using Timestamps to Amplify Views on YouTube</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-gaming-mouse-mats-featuring-the-latest-reviews-by-zdnet/"><u>Top-Rated Gaming Mouse Mats - Featuring the Latest Reviews by ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-issues-setting-up-undefined-speakers-on-windows-10/"><u>Troubleshooting Audio Issues: Setting Up Undefined Speakers on Windows 10</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-logitech-c615-a-review-focused-on-performance-and-budget-friendly-pricing/"><u>Unveiling the Logitech C615: A Review Focused on Performance and Budget-Friendly Pricing</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-your-tech-resolving-failed-to-initialize-renderer-with-latest-2021-fixes/"><u>Update Your Tech: Resolving 'Failed to Initialize Renderer' With Latest 2021 Fixes</u></a></li>
+</ul></div>
 

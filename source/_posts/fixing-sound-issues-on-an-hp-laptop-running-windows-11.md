@@ -1,7 +1,7 @@
 ---
 title: Fixing Sound Issues on an HP Laptop Running Windows 11
-date: 2025-02-05T08:20:16.553Z
-updated: 2025-02-11T07:24:54.358Z
+date: 2025-02-22T18:35:36.163Z
+updated: 2025-03-02T13:39:53.260Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ Read on and follow the easy-doing images below!
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Option 1: Try the generic audio driver
 
  Sound keeps cutting out on Windows 10 could relate to problematic audio driver. To see if this is the case, you can try the generic sound driver provided by Windows and see if it works. To do so:
@@ -48,19 +44,11 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28445c675.png)
 4. Then choose**Let me pick from a list of available drivers on my computer** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a286f3d5de.png)
 5. Make sure the box for**Show compatible hardware** is**TICKED** . Then choose**High Definition Audio Device** from the list, and hit**Next** to continue.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28cccfd3f.png)
 6. You will see the warning asking you whether you want to go on with the installation, click**Yes** to continue.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a294398588.png)
 7. Restart your computer when the installation finishes.
@@ -78,10 +66,6 @@ Read on and follow the easy-doing images below!
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -113,23 +97,11 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
@@ -159,18 +131,18 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-video-movie-maker-for-windows-8-easily-make-video-movie-for-2024/"><u>[New] Video Movie Maker for Windows 8 Easily Make Video Movie for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-creative-fusion-of-images-for-joyful-existence/"><u>[Updated] In 2024, Creative Fusion of Images for Joyful Existence</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-optimize-your-phones-soundplay-with-top-10/"><u>[Updated] Optimize Your Phone's Soundplay With Top 10</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-6-ways-to-screen-record-netflix-on-mac/"><u>2024 Approved 6 Ways to Screen Record Netflix on Mac</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-for-resolving-corsair-hs35-microphone-problems-in-windows-environments/"><u>Expert Advice for Resolving Corsair HS35 Microphone Problems in Windows Environments</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-frame-rate-and-freezing-solutions-to-red-dead-redemption-2-performance-problems/"><u>Fixing Frame Rate & Freezing: Solutions to Red Dead Redemption 2 Performance Problems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Asus ROG Phone 7? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-the-audio-glitches-of-resident-evil-village-easily/"><u>How to Fix the Audio Glitches of Resident Evil Village Easily</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-tecno-spark-10c-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Tecno Spark 10C to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-11-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 11? Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-resolve-squad-microphone-malfunctions-effectively/"><u>Troubleshoot and Resolve Squad Microphone Malfunctions Effectively</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-ai-understanding-prompt-injections-and-their-mechanism/"><u>Unveiling AI: Understanding Prompt Injections & Their Mechanism</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/winning-the-battle-against-silent-mode-fixing-windows-11s-sound-issues/"><u>Winning the Battle Against Silent Mode: Fixing Windows 11'S Sound Issues</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitters-crown-jewels-the-most-liked-and-binge-watched-content/"><u>[New] Twitter's Crown Jewels The Most Liked & Binge-Watched Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-xvideostudio-review-a-comprehensive-guide/"><u>[Updated] 2024 Approved XVideoStudio Review A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-non-functional-shortcut-win-shift-and-s-on-microsoft-windows-versions/"><u>Effective Fixes for Non-Functional Shortcut: Win, Shift, and S on Microsoft Windows Versions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fix-your-blue-screen-woes-tackling-kmodeexplorerpluskmdextension-bsod-in-modern-windows/"><u>Fix Your Blue Screen Woes: Tackling KMode_Explorer+KMDExtension BSOD in Modern Windows</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-joyful-views-essential-15-comical-youtubers-to-relax-with/"><u>In 2024, Joyful Views Essential 15 Comical YouTubers to Relax With</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-fixing-realtek-audio-driver-issue-no-sound-now-working/"><u>Solved: Fixing Realtek Audio Driver Issue - No Sound Now Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-problems-enable-speakers-for-usb-headphones-in-windows-hemen/"><u>Solving Audio Problems: Enable Speakers for USB Headphones in Windows Hemen</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-silence-restore-sound-after-a-recent-windows-update/"><u>Solving the Silence: Restore Sound After a Recent Windows ^Update</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-silence-expert-tips-for-resolving-voice-issues-in-discord/"><u>Solving Your Silence: Expert Tips for Resolving Voice Issues in Discord</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-to-revive-an-unresponsive-astro-a20-microphone/"><u>Step-by-Step Fixes to Revive an Unresponsive Astro A20 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-remedies-to-get-your-onikuma-mic-working-again/"><u>Step-by-Step Remedies to Get Your Onikuma Mic Working Again</u></a></li>
+<li><a href="https://fox-access.techidaily.com/top-strategies-for-boosting-handp-healthcare-fb-campaigns/"><u>Top Strategies for Boosting H&P Healthcare FB Campaigns</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/ultimate-guide-from-iphone-6s-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide from iPhone 6s iCloud Activation Lock Bypass</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Getting Your Destiny 2 Voice Chat Back On Track – Easy Fixes & Tips
-date: 2025-02-07T22:16:32.597Z
-updated: 2025-02-11T04:07:33.744Z
+date: 2025-02-25T04:43:34.221Z
+updated: 2025-03-02T11:53:14.088Z
 tags:
   - win11
   - win10
@@ -59,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Update-all-drivers.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ### Fix 3: Install the latest Fortnite patch
@@ -76,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
  2\. On the left panel, click **Library** . On the right, click **the gear button** on the lower-right corner of **Fortnite** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap911.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3.**Turn on** the toggle next to **Auto update** .
 
@@ -101,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap427.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2\. Click **Microphone**  on the left pane, and make sure**Microphone access for this device** is**on** , and the status is **On** for **Fortnite** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap428.jpg)
@@ -121,27 +109,15 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap925.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ii. Click**the speaker icon** to view the audio settings. Then**turn off Voice Chat** and click**Apply** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap431-1024x576.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 iii. Exit Fortnite.
 
  2\. On your desktop,**right-click** **the speaker icon** at the bottom-right corner, and then select**Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap432.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3\. Click the **Playback** tab, select the speakers/headphones you’re using and click **Set Default** .
 
@@ -150,10 +126,6 @@ iii. Exit Fortnite.
  4\. Click the **Recording** tab, select the microphone you’re using and click **Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5\. While still in the**Recording** tab, try**speaking into your microphone** to test if it works properly. If it is, you should see some green in the bar on the right:
 
@@ -176,10 +148,6 @@ iii. Exit Fortnite.
  2\. Click**Uninstall** to uninstall Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap950.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. Restart your PC.
 
@@ -210,18 +178,24 @@ iii. Exit Fortnite.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-art-of-effortless-video-size-transformation-on-macos/"><u>[New] 2024 Approved The Art of Effortless Video Size Transformation on MacOS</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-minuscule-cinematic-design/"><u>[New] Minuscule Cinematic Design</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-the-template-trick-for-eye-catching-tiktok-creation-mastery/"><u>[Updated] In 2024, The Template Trick for Eye-Catching TikTok Creation Mastery</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-nokia-105-classic-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Nokia 105 Classic to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-honor-play-40c-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Honor Play 40C Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723017029051-quick-and-simple-guide-to-effective-mic-checks/"><u>Quick and Simple Guide to Effective Mic Checks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016628724-runmus-gaming-mic-not-working-follow-this-step-by-step-troubleshooting-guide-to-restore-functionality/"><u>RUNMUS Gaming Mic Not Working? Follow This Step-by-Step Troubleshooting Guide to Restore Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-audio-problems-a-comprehensive-2024-manual-for-fixing-discords-echo-effect-on-windows-and-mac/"><u>Solve Audio Problems: A Comprehensive 2024 Manual for Fixing Discord's Echo Effect on Windows and Mac</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-on-screen-sounds-glitches-a-step-by-step-guide/"><u>Solving On-Screen Sounds Glitches: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-setting-up-microsoft-office-suite-on-your-computer/"><u>Step-by-Step Guide: Setting Up Microsoft Office Suite on Your Computer</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-future-of-portable-reading-is-here-with-the-updated-amazon-kindle-paperwhite-7th-generation/"><u>The Future of Portable Reading Is Here with the Updated Amazon Kindle Paperwhite, 7Th Generation</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-logitech-g430-microphone-solutions-to-common-connectivity-issues/"><u>Troubleshooting Your Logitech G430 Microphone: Solutions to Common Connectivity Issues</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/uninterrupted-video-with-proper-obs-settings/"><u>Uninterrupted Video with Proper OBS Settings</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-decelerating-action-the-ultimate-guide-to-ig-reels-slow-motion/"><u>[New] Decelerating Action The Ultimate Guide to IG Reels’ Slow Motion</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-revenue-revolution-how-carminatis-youtube-income-model-works/"><u>2024 Approved Revenue Revolution How Carminati's YouTube Income Model Works</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/achieve-better-analytics-through-advanced-cookiebot-solutions/"><u>Achieve Better Analytics Through Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-identifying-and-fixing-common-problems-in-pebble-bluetooth-speakers/"><u>Expert Advice: Identifying & Fixing Common Problems in Pebble Bluetooth Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-repairing-your-sound-blaster-mic-when-it-fails-to-work/"><u>Expert Tips for Repairing Your Sound Blaster Mic When It Fails to Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-restoring-sound-on-your-pcs-speakers-after-ensuring-they-are-properly-connected/"><u>Expert Tips for Restoring Sound on Your PC's Speakers After Ensuring They Are Properly Connected</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-nubia-red-magic-9-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-astro-a10-microphone-issues-troubleshooting-guide/"><u>Fix Astro A10 Microphone Issues - Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-my-broken-headphones-on-windows-11-solutions-and-tips-for-successful-setup/"><u>Fix My Broken Headphones on Windows 11: Solutions & Tips for Successful Setup</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-black-ops-cold-war-troubleshooting-non-functional-voice-chats/"><u>Fixing Black Ops: Cold War - Troubleshooting Non-Functional Voice Chats</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-lack-of-sound-in-samsung-galaxy-buds-plus-g435/"><u>Fixing Lack of Sound in Samsung Galaxy Buds Plus (G435)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-google-meet-audio-how-to-restore-microphone-function-in-windows-1011/"><u>Fixing Your Google Meet Audio: How to Restore Microphone Function in Windows 10/11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-jabra-headset-comprehensive-troubleshooting-steps/"><u>Fixing Your Jabra Headset: Comprehensive Troubleshooting Steps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-make-a-digital-signature-for-jpg-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>How to make a digital signature for JPG</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-realme-c51-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Realme C51 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/navigating-the-clouds-of-video-editing-best-drones-tools-ranked/"><u>Navigating the Clouds of Video Editing Best Drones Tools Ranked</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/optimized-with-advanced-cookie-tracking-cookiebots-integration/"><u>Optimized with Advanced Cookie-Tracking: Cookiebot's Integration</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-color-correction-for-youtube-beauty-for-2024/"><u>Video Color Correction for YouTube Beauty for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windows-update-stuck-or-frozen-check-the-fix-out/"><u>Windows Update Stuck or Frozen? Check the Fix Out!</u></a></li>
 </ul></div>
 

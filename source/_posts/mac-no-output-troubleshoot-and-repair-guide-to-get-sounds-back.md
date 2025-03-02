@@ -1,7 +1,7 @@
 ---
 title: Mac No Output - Troubleshoot & Repair Guide to Get Sounds Back
-date: 2024-08-18T08:06:46.122Z
-updated: 2024-08-19T08:06:46.122Z
+date: 2025-02-24T17:33:40.888Z
+updated: 2025-03-02T09:11:50.559Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/ef0391400737caff934206593a807d314ef3298f3
 
  Your**Astro A50 headset microphone** is not working properly? You’re not the only one! Many users are having the same issue. This is incredibly frustrating; you can’t talk to people on your headset. But don’t worry. It can be fixed…
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Fixes to try
 
  Here are three fixes for you to try. You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -36,9 +32,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Your Astro A50 mic may not be working because it’s disabled or not set as the default device on your computer, or the microphone volume is set to a very low value so it can’t record your sound clearly. To check these settings:
 
 1. **Hold down the Windows logo** **key**  and**press the R** **key** on your keyboard at the same time to bring up the Run dialog, then type “_**control**_ ” and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 2. In Control Panel, select**Large icons** from the**View by** drop down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
@@ -47,29 +40,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 4. Select the **Recording** tab, then right click on any empty place inside the device list and tick **Show Disabled Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 5. Right click the**Headset Microphone** and click **Enable** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
 6. Right click it again and select **Set as Default Device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
 7. Right click**Headset Microphone** and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
 8. Click the**Levels** tab, then drag the volume slider towards the_largest value_ .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 9. Click**OK** , then click**OK** .
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Update your audio drivers
 
  The mic on your Astro A50 headset won’t work if you’re using an incorrect or outdated audio or headset driver. So you should update the driver to see if that fixes the issue.
@@ -80,9 +61,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install**Driver Easy** .
 2. Run**Driver Easy** and click the **Scan Now** button.**Driver Easy** will scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
 3. Click the**Update** button next to your sound device or your headset to download the latest and correct driver for it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
@@ -110,8 +88,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +95,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-shoes-for-virtual-ground-leading-treadmill-insights-for-2024/"><u>[New] Shoes for Virtual Ground Leading Treadmill Insights for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-seamless-swivel-rotating-your-media-masterpieces-on-social-sites/"><u>[Updated] 2024 Approved The Seamless Swivel Rotating Your Media Masterpieces on Social Sites</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-mastering-the-art-of-adding-linktree-to-your-tiktok-info/"><u>[Updated] In 2024, Mastering the Art of Adding Linktree to Your TikTok Info</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-ascend-in-the-youtube-arena-through-creative-studio-mastery/"><u>2024 Approved Ascend in the YouTube Arena Through Creative Studio Mastery</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apples-latest-phone-rumored-to-be-announced-soon-price-forecasts-release-calendar-and-feature-breakdown/"><u>Apple's Latest Phone Rumored to Be Announced Soon: Price Forecasts, Release Calendar & Feature Breakdown</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-fixes-how-to-restore-your-non-functioning-beyond-the-wire-mic/"><u>Comprehensive Fixes: How To Restore Your Non-Functioning Beyond The Wire Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-resolving-windows-11-microphone-malfunctions/"><u>Comprehensive Guide: Resolving Windows 11 Microphone Malfunctions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-lenovo-thinkpad-x12-detachable-the-ideal-blend-of-touchscreen-flexibility-and-impressive-keyboard-quality/"><u>Exploring the Lenovo ThinkPad X12 Detachable – The Ideal Blend of Touchscreen Flexibility and Impressive Keyboard Quality</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-on-your-iphone-11-pro-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID On Your iPhone 11 Pro</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nubia-red-magic-8s-proplus-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nubia Red Magic 8S Pro+ Phone FRP Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/power-your-bat-scripts-in-windows-with-exes/"><u>Power Your .bat Scripts in Windows with EXEs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-iphone-sound-issues-tips-and-tricks-for-clearer-audio-output/"><u>Solving iPhone Sound Issues: Tips & Tricks for Clearer Audio Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-silent-issue-simple-guide-to-restoring-audio-on-your-logitech-g933/"><u>Solving the Silent Issue: Simple Guide to Restoring Audio on Your Logitech G933</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-configuring-undetected-speakers-on-your-pc-running-windows-nta/"><u>Step-by-Step Guide: Configuring Undetected Speakers on Your PC Running Windows nTa</u></a></li>
+<li><a href="https://win-help.techidaily.com/strategie-efficace-per-la-gestione-dei-computer-client-su-piu-subdomains-tutorial-inclusivo/"><u>Strategie Efficace per La Gestione Dei Computer Client Su Più Subdomains: Tutorial Inclusivo</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-get-your-google-hangouts-mic-back-online-fast/"><u>Troubleshooting Guide: Get Your Google Hangouts Mic Back Online Fast</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-is-my-game-quiet-expert-tips-to-resolve-sound-problems-in-apex-legends/"><u>Why Is My Game Quiet? Expert Tips to Resolve Sound Problems in Apex Legends</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10/"><u>Windows 10의 소음 중단 문제를 해결하기 위한 효과적인 솔루션</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016593177-windows-n7-playback-problems-heres-how-you-can-get-sounds-working-again/"><u>Windows N'7 Playback Problems? Here's How You Can Get Sounds Working Again!</u></a></li>
+</ul></div>
 

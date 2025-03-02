@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Defective RunmuS Microphone on Your Game Console or PC
-date: 2024-08-18T08:05:04.495Z
-updated: 2024-08-19T08:05:04.495Z
+date: 2025-02-24T11:37:37.040Z
+updated: 2025-03-02T01:48:39.609Z
 tags:
   - win11
   - win10
@@ -19,11 +19,6 @@ thumbnail: https://thmb.techidaily.com/3a086eb5f8446de2870210890acaafe476fc2c59a
 
  Many **Turtle Beach** users are reporting that their **headset** microphone is not working properly — it’s not recording any sound! If you’re experiencing this problem, don’t worry. You should be able to fix the problem quite easily using one of the solutions we’ve listed below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## Fixes to try
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -56,9 +51,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 **5)**  Right click the**Headset Microphone** and click **Enable** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
 
 **6)** Right click it again and select **Set as Default Device** .
@@ -67,10 +59,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 **7)** Right click**Headset Microphone** and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
 
 **8)** Click the**Levels** tab, then drag the volume slider towards the_largest value_ .
@@ -83,9 +71,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 2: Update your audio drivers
 
  The mic on your Turtle Beach headset won’t work if you’re using an incorrect or outdated audio or headset driver. So you should update the driver to see if that fixes the issue.
@@ -98,16 +83,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 **2)**  Run**Driver Easy** and click the **Scan Now** button.**Driver Easy** will scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
 
 **3)** Click the**Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
 
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) — if you don’t already have it, you’ll be prompted to upgrade when you click**Update All** .)  
@@ -116,9 +95,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Troubleshoot hardware issues
 
  If your headset microphone is still not working, it’s likely there are hardware issues with your computer or your headset. In this case, there are a few things you need to do.
@@ -138,8 +114,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +121,26 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-cutting-edge-8-innovative-open-source-video-meeting-systems/"><u>[New] 2024 Approved The Cutting Edge 8 Innovative Open Source Video Meeting Systems</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-enhancing-zoom-picture-resolution-simple-upgrades-for-2024/"><u>[Updated] Enhancing Zoom Picture Resolution Simple Upgrades for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-keeping-viewers-hooked-the-ultimate-guide-for-enhanced-audience-loyalty-on-youtube/"><u>[Updated] Keeping Viewers Hooked The Ultimate Guide for Enhanced Audience Loyalty on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-yt-thumbnail-mastery-guide-to-your-videos-best-images/"><u>[Updated] YT Thumbnail Mastery Guide to Your Video's Best Images</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-edit-like-a-pro-10-must-know-tips-for-newbies/"><u>2024 Approved Edit Like a Pro 10 Must-Know Tips for Newbies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bring-back-the-boom-a-step-by-step-guide-to-fix-silent-battles-in-field-4/"><u>Bring Back the Boom: A Step-by-Step Guide to Fix Silent Battles in Field 4</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014939186-corsair-hs35-headset-unresponsive-in-windows-heres-how-to-restore-mic-functionality/"><u>Corsair HS35 Headset Unresponsive in Windows? Here's How to Restore Mic Functionality!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-techniques-for-swift-microphone-performance-checks/"><u>Effortless Techniques for Swift Microphone Performance Checks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-ways-to-restore-audio-on-your-pc-with-nvidias-high-definition-technology/"><u>Effortless Ways to Restore Audio on Your PC with Nvidia's High-Definition Technology</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015993319-hearthstone-audio-trouble-heres-how-to-get-the-sound-back/"><u>Hearthstone Audio Trouble? Here's How to Get the Sound Back!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-broken-microphone-in-fortnite-troubleshooting-guide/"><u>How to Fix a Broken Microphone in Fortnite: Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-no-audio-problems-on-hp-laptops-operating-on-windows-11-platform/"><u>How to Resolve No Audio Problems on HP Laptops Operating on Windows 11 Platform</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-realme-narzo-60x-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Realme Narzo 60x 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-effective-ways-to-design-fb-ad-videos/"><u>In 2024, Effective Ways to Design FB Ad Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-advice-where-to-download-high-quality-background-music/"><u>In 2024, Expert Advice Where to Download High-Quality Background Music</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/megasecond-analysis-understanding-20mb-video-time/"><u>MegaSecond Analysis Understanding 20Mb Video Time</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-resolving-no-sound-problems-following-windows-10-installation/"><u>Step-by-Step Guide: Resolving No Sound Problems Following Windows 10 Installation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-windows-compatible-film-editing-tools-discover-alternatives-to-windows-live-movie-maker/"><u>Top Windows-Compatible Film Editing Tools - Discover Alternatives to Windows Live Movie Maker</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/turtle-beach-headset-dilemma-heres-how-to-make-your-mic-work-again/"><u>Turtle Beach Headset Dilemma? Here's How to Make Your Mic Work Again</u></a></li>
+</ul></div>
 

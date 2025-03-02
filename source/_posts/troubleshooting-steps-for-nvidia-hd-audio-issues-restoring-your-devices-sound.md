@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps for NVIDIA HD Audio Issues: Restoring Your Device's Sound"
-date: 2024-08-23T12:09:42.372Z
-updated: 2024-08-24T12:09:42.372Z
+date: 2025-02-26T07:02:43.149Z
+updated: 2025-03-02T08:05:57.929Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116
 
 **Windows Media Player no sound** ? You’re not the only one. But don’t worry, it’s often quite easy to fix…
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fixes For**Windows Media Player No Sound**
 
  Here’re 3 fixes that have helped other users resolve the problem. Just work your way down the list until you find the one that works for you.
@@ -30,9 +27,6 @@ thumbnail: https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116
 2. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update or reinstall Windows Media Player](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Make sure you have not muted the sound
 
  Sometimes you hear no sound coming through Windows Media Player because you’ve muted the sound unknowingly.
@@ -41,9 +35,6 @@ To make sure the volume is not muted but audible:
 
  1) In**Windows Media Player** , move the slider of the volume control bar to at least half way up.  
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-151.png)
 
  2) On the lower-right of your computer screen, click **the sound icon** and move **the volume slider** all the way to at least halfway up.
@@ -55,9 +46,6 @@ To make sure the volume is not muted but audible:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your audio driver
 
  This problem may occur if you have the wrong or outdated audio driver. So you should update your audio driver to see if it fixes the issue. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -74,11 +62,6 @@ To make sure the volume is not muted but audible:
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-154.png)
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -89,9 +72,6 @@ The powerful video editing program for your Windows PC</a>
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ### Fix 3: Update or reinstall Windows Media Player
 
  If you still experience no sound coming from Windows Media Player issue, then it’s possible that the app itself in your system is faulty. You can check Windows Store to see if there’s any updates available, or reinstall the app.
@@ -109,8 +89,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +96,19 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-best-gopro-accessories-for-beginners/"><u>[New] Best GoPro Accessories for Beginners</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-screenplay-sensation-roundup/"><u>[New] Screenplay Sensation Roundup</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-insider-secrets-of-incorporating-captions-and-titles-into-video-clips/"><u>[New] The Insider Secrets of Incorporating Captions & Titles Into Video Clips</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-laughing-lane-the-funniest-youtubers-for-a-good-time/"><u>2024 Approved Laughing Lane The Funniest YouTubers for a Good Time</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhance-your-windows-scanning-an-instructional-article/"><u>Enhance Your Windows Scanning: An Instructional Article</u></a></li>
+<li><a href="https://win-able.techidaily.com/forza-horizon-5-optimization-overcoming-latency-issues-once-and-for-all/"><u>Forza Horizon 5 Optimization: Overcoming Latency Issues Once and For All</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/lead-the-way-in-the-metaverse-your-tech-checklist-for-2024/"><u>Lead the Way in the Metaverse Your Tech Checklist for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revitalize-your-vr-experience-immediate-fixes-for-the-oculus-rift-s-mic-updated-guide-2024/"><u>Revitalize Your VR Experience: Immediate Fixes for the Oculus Rift S Mic - Updated Guide 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/say-goodbye-to-macbook-air-meet-its-stellar-windows-rival-with-impressive-portability-and-performance-spotlighted-by-zdnet/"><u>Say Goodbye to MacBook Air? Meet Its Stellar Windows Rival with Impressive Portability and Performance - Spotlighted by ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-windows-10-heres-how-to-restore-sound-quickly-and-effectively/"><u>Silent Windows 10? Here's How to Restore Sound Quickly & Effectively!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-overcoming-realtek-hd-audio-manager-access-problems/"><u>Troubleshooting Guide: Overcoming Realtek HD Audio Manager Access Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unraveling-the-mystery-behind-audio-redirection-speaker-output-when-only-headphones-are-connected/"><u>Unraveling the Mystery Behind Audio Redirection - Speaker Output When Only Headphones Are Connected</u></a></li>
+</ul></div>
 

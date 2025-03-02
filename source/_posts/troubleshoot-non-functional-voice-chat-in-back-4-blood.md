@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Non-Functional Voice Chat in 'Back 4 Blood'
-date: 2025-02-05T05:48:56.268Z
-updated: 2025-02-11T03:16:44.487Z
+date: 2025-02-23T10:29:32.778Z
+updated: 2025-03-01T23:36:19.923Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/c02c898eea6d72b9e37093c851ecd855aff6005dd
 
 [5: Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Make sure your microphone connection is solid
 
  HyperX Cloud Alpha S continues the design of the detachable microphone from the regular Cloud Alpha. If your microphone is not connected firmly, you may still hear sounds from your headset but can’t use the microphone.
@@ -50,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/c02c898eea6d72b9e37093c851ecd855aff6005dd
 
  If you’ve attached the microphone to your headset correctly but your mic still won’t catch your voice, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Enable your headset mic for recording
 
  When your microphone doesn’t have access to your PC to record your audio, it won’t work. Here’s how to enable your headset mic:
@@ -61,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/c02c898eea6d72b9e37093c851ecd855aff6005dd
 1. Right-click the speaker icon on your taskbar, and click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_16-48-56.jpg)
 2. Go to the**Recording** tab and you should see your headset. If you can’t find it, it could be hidden or disabled. You can right-click an empty area then select Show**Disabled Devices** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_16-57-37.jpg)
 3. Right-click your headset, then click**Enable** .  
@@ -75,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/c02c898eea6d72b9e37093c851ecd855aff6005dd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-06-58.jpg)
 
  If your headset is enabled for recording but the microphone is still not working, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Set your headset as the audio input device
 
@@ -101,17 +85,9 @@ thumbnail: https://thmb.techidaily.com/c02c898eea6d72b9e37093c851ecd855aff6005dd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-08-05.jpg)
 2. Click**Change** , then**turn on the microphone access** **for this device** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-10-26.jpg)
 
 If this doesn’t fix your mic problem, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Update your audio driver
 
@@ -154,21 +130,18 @@ If this doesn’t fix your mic problem, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-instagram-aesthetics-tips-for-video-reversal-for-2024/"><u>[New] Instagram Aesthetics Tips for Video Reversal for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-action-spectacle-evaluating-hero5b-vs-hero5-session-performance/"><u>2024 Approved Action Spectacle Evaluating Hero5B vs Hero5 Session Performance</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-golden-nuggets-revealing-the-hottest-reddit-topics-10/"><u>2024 Approved Golden Nuggets Revealing the Hottest Reddit Topics (10)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/artemis-astronauts-sporting-fedoras-red-hat-technology-powers-nasas-lunar-aspirations-zdnet/"><u>Artemis Astronauts Sporting Fedoras: Red Hat Technology Powers NASA's Lunar Aspirations | ZDNET</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-nulaxy-km18-the-reliable-classic-fm-transmitter-for-your-car/"><u>Comprehensive Review of Nulaxy KM18: The Reliable Classic FM Transmitter for Your Car</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/from-noise-to-clear-audio-restoring-sound-on-laptops-with-malfunctioning-speakers/"><u>From Noise to Clear Audio: Restoring Sound on Laptops with Malfunctioning Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-to-resolving-non-responsive-bluetooth-in-windows-11-systems/"><u>Guide to Resolving Non-Responsive Bluetooth in Windows 11 Systems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Fake GPS Without Root On Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-logitech-g-pro-x-sound-issues-a-comprehensive-guide-for-gamers/"><u>Solving the Logitech G Pro X Sound Issues: A Comprehensive Guide for Gamers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-rise-of-alternative-ideologies-such-as-islamist-theocracy-and-nationalism-suggest-that-liberal-democracy-is-not-universally-accepted-or-desirable/"><u>The Rise of Alternative Ideologies Such as Islamist Theocracy and Nationalism Suggest that Liberal Democracy Is Not Universally Accepted or Desirable</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-solution-to-fix-conexant-smartaudios-audio-failure-on-your-windows-tenth-device/"><u>The Ultimate Solution to Fix Conexant SmartAudio's Audio Failure on Your Windows Tenth Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-opening-the-realtek-hd-audio-controller-successfully/"><u>Troubleshooting Guide: Opening the RealTek HD Audio Controller Successfully</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-obs-studios-microphone-issues/"><u>Troubleshooting Guide: Solving OBS Studio's Microphone Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-speaker-distortion-on-windows-11-and-7-resolved/"><u>Troubleshooting Speaker Distortion on Windows 11 & 7 - Resolved</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-dynamic-and-simple-building-a-subscriber-button-for-youtube-using-filmora/"><u>[New] 2024 Approved Dynamic and Simple Building a Subscriber Button for YouTube Using Filmora</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-top-gains-on-social-media-secure-and-scalable-tactics/"><u>[New] 2024 Approved The Top Gains on Social Media - Secure & Scalable Tactics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015516052-astro-a50-headset-audio-fixes-mend-that-silent-mic-now/"><u>Astro A50 Headset Audio Fixes - Mend That Silent Mic Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016037209-bluetroid-sound-interruption-solve-it-easily-and-fast/"><u>Bluetroid Sound Interruption? Solve It Easily and Fast</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/el-identity-constructing-memorable-templates-for-gamers-for-2024/"><u>Channel Identity Constructing Memorable Templates for Gamers for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016028700-how-to-get-your-idt-hd-audio-driver-working-in-windows-11-solved/"><u>How to Get Your IDT HD Audio Driver Working in Windows 11 - Solved!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-vivo-s17-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Vivo S17 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-vida-a-comprehensive-look-at-our-editing-tool/"><u>In 2024, Vida A Comprehensive Look at Our Editing Tool</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overcoming-challenges-ensuring-stable-startup-for-atomic-heart-gaming-experience/"><u>Overcoming Challenges: Ensuring Stable Startup for Atomic Heart Gaming Experience</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/resolving-hidden-usb-partitions-on-your-pc-a-comprehensive-guide/"><u>Resolving Hidden USB Partitions on Your PC - A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015444812-troubleshooting-tips-resolving-issues-with-your-razer-blackshark-v2-microphone/"><u>Troubleshooting Tips: Resolving Issues with Your Razer BlackShark V2 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unstuck-from-silence-restore-your-voice-chat-in-destiny-2-now/"><u>Unstuck From Silence: Restore Your Voice Chat in Destiny 2 Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-sound-enhancements-off-a-step-by-step-tutorial/"><u>Windows 10 Sound Enhancements Off: A Step-by-Step Tutorial</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Fixing a Nonfunctional Logitech G230 Mic - A Step-by-Step Guide
-date: 2025-02-08T07:01:41.641Z
-updated: 2025-02-10T19:28:14.195Z
+date: 2025-02-23T09:48:10.934Z
+updated: 2025-03-01T18:23:11.062Z
 tags:
   - win11
   - win10
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Make sure the volume is audible
 
  Sometimes the mic on your**LusidSound LS30** won’t work simply because the volume is mute or set too low.
@@ -79,10 +75,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-140.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If **no microphone devices shows up in the device list** , then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device** once it appears and click **Enable** before you do step **2)** .  
 
  3) Click on **your microphone device** and click **Properties** .  
@@ -93,19 +85,11 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-137.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Click **OK** to apply the changes in the windows.
 
  6) Now with microphone set as default device and the volume turned up, try playing some audio on your LS30 headset and see if it works. If it does, then the **LucidSound LS30 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -120,10 +104,6 @@ To do so:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-142.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 
@@ -160,24 +140,20 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-crafting-impeccable-crossfades-with-premiere-pro/"><u>[Updated] Crafting Impeccable Crossfades with Premiere Pro</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-achieve-social-stardom-the-ultimate-list-for-fb-fan-increase/"><u>[Updated] In 2024, Achieve Social Stardom The Ultimate List for FB Fan Increase</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-vanguards-choice-top-7-fps-wonders/"><u>[Updated] In 2024, Vanguard's Choice Top 7 FPS Wonders</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-spotify-promotion-potential/"><u>2024 Approved Unlocking Spotify Promotion Potential</u></a></li>
-<li><a href="https://techtrends.techidaily.com/abbyy-at-the-2018-strategy-days-in-finance-are-digital-transformations-turning-financial-experts-into-data-managers/"><u>ABBYY at the 2018 Strategy Days in Finance: Are Digital Transformations Turning Financial Experts Into Data Managers?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/banishing-popping-noise-from-your-pcs-logitech-g-pro-x-microphone-expert-advice/"><u>Banishing Popping Noise From Your PC's Logitech G Pro X Microphone - Expert Advice</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-to-repair-your-malfunctioning-corsair-headset-quickly/"><u>Expert Tips to Repair Your Malfunctioning Corsair Headset Quickly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fortnite-mic-not-functional-discover-simple-solutions-and-restore-voice-in-the-battle-royale/"><u>Fortnite Mic Not Functional? Discover Simple Solutions and Restore Voice in the Battle Royale</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-broadcom-bluetooth-drivers-for-windows-11-8-and-7-free-download/"><u>Get Broadcom Bluetooth Drivers for Windows 11, 8 and 7 - Free Download</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android/"><u>How to Bypass FRP on Samsung Galaxy XCover 6 Pro Tactical Edition?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-14-plus-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock iPhone 14 Plus Online? Here are 6 Easy Ways</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/in-depth-repair-techniques-restoring-functionality-to-your-beyond-the-wire-mic/"><u>In-Depth Repair Techniques: Restoring Functionality to Your 'Beyond the Wire' Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-speaker-noise-interruptions-on-windows-platforms-windows-107-fixes/"><u>Overcoming Speaker Noise Interruptions on Windows Platforms (Windows 10/7 Fixes)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-your-dell-sound-card-errors-in-windows-7-with-easy-fixes/"><u>Resolve Your Dell Sound Card Errors in Windows 7 with Easy Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-dilemma-troubleshooting-a-non-functional-corsair-hs70-microphone/"><u>Solving the Dilemma: Troubleshooting a Non-Functional Corsair HS70 Microphone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/switching-iphones-discover-these-4-complimentary-techniques-for-transferring-your-contact-info/"><u>Switching iPhones? Discover These 4 Complimentary Techniques for Transferring Your Contact Info!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-charming-blend-of-analog-aesthetics-and-digital-features-in-the-withings-move-reviewed/"><u>The Charming Blend of Analog Aesthetics and Digital Features in the Withings Move Reviewed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-windows-10-sound-issues-with-these-simple-steps/"><u>Troubleshoot Windows 10 Sound Issues with These Simple Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unlocking-clear-conversations-solving-common-issues-with-discords-voice-feature/"><u>Unlocking Clear Conversations: Solving Common Issues with Discord's Voice Feature</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/building-blocks-of-boosted-bots-elevating-bot-based-promotion-for-2024/"><u>Building Blocks of Boosted Bots Elevating Bot-Based Promotion for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/darmowy-mechanizm-przerwania-pracowania-lokalna-4-przyklady-przekierowania-szybkiego-zapasowa-pc-w-windows-11/"><u>Darmowy Mechanizm Przerwania Pracowania LOKALNA - 4 Przykłady Przekierowania Szybkiego Zapasowa PC W Windows 11</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ss-freedom-with-top-rated-android-editing-apps-for-2024/"><u>Harness Freedom with Top-Rated Android Editing Apps for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-hyperx-cloud-alpha-mic-not-working/"><u>How to Fix HyperX Cloud Alpha Mic Not Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-persistent-sound-skipping-and-buffering-in-bluetooth-devices-on-windows-11/"><u>How to Fix Persistent Sound Skipping & Buffering in Bluetooth Devices on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-headphones-working-again-on-microsofts-latest-operating-system-windows-11/"><u>How to Get Your Headphones Working Again on Microsoft's Latest Operating System, Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-squad-mic-working-perfectly-gamers-2nd-nvutu/"><u>How to Get Your Squad Mic Working Perfectly - Gamer's 2nD Nvutu</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-functionality-to-a-defective-laptop-headphone-jack/"><u>How to Restore Audio Functionality to a Defective Laptop Headphone Jack</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-speakers-and-headphones-functionality-in-windows-7/"><u>How to Restore Speakers & Headphones Functionality in Windows 7</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-tecno-spark-go-2023-frp-bypass-by-drfone-android/"><u>In 2024, About Tecno Spark Go (2023) FRP Bypass</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-12plus-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme 12+ 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-squad-mic-repair-techniques-advanced-guide-for-perfect-audio/"><u>Mastering Squad Mic Repair Techniques - Advanced Guide for Perfect Audio</u></a></li>
+<li><a href="https://facebook.techidaily.com/stealth-mode-for-social-media-users-like-privacy/"><u>Stealth Mode for Social Media Users: Like Privacy</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-wolcen-mayhem-crashes-on-windows-pcs-successfully-solved/"><u>Troubleshooting Wolcen Mayhem Crashes on Windows PCs Successfully Solved</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-unmatched-workplace-performance-by-adopting-a-developer-approach-expert-tips-on-enhanced-productivity-zdnet/"><u>Unlock Unmatched Workplace Performance by Adopting a Developer Approach: Expert Tips on Enhanced Productivity | ZDNET</u></a></li>
 </ul></div>
 

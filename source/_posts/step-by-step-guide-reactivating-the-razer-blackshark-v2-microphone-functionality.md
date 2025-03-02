@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Reactivating the Razer BlackShark V2 Microphone Functionality"
-date: 2025-02-06T03:31:04.633Z
-updated: 2025-02-10T16:57:42.281Z
+date: 2025-02-24T16:50:36.116Z
+updated: 2025-03-01T22:32:19.174Z
 tags:
   - win11
   - win10
@@ -47,10 +47,6 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
 3. Right-click your**Corsair Virtuoso** and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
 4. Go to the**Levels** tab and drag the slider to a proper volume.  
 
@@ -58,10 +54,6 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 5. Click**OK** .
 
  Now you can test your microphone by recording your own voice using some voice apps such as Voice Recorder. If the Virtuoso mic works now, you can just join a league and enjoy talking with your teammates. But if the Corsaire mic is still not working, you can try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Re-installing drivers
 
@@ -77,10 +69,6 @@ There are mainly two ways for you to do this:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now.jpg)
 3. Click the**Update** button next to the flagged**Corsaire Virtuoso** driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)  
 
@@ -98,23 +86,11 @@ There are mainly two ways for you to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings.jpg)
 2. In the**Input** section, click**Device properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/device.jpg)
 3. Click**Additional device properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/additional.jpg)
 4. Go to the**Advanced** tab, and select**DVD Quality** in the**Default Format** section. ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-format.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click**OK** .
 
@@ -151,14 +127,22 @@ There are mainly two ways for you to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-blocking-the-buzz-no-more-fb-video-ads/"><u>[New] 2024 Approved Blocking the Buzz No More FB Video Ads</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-stretching-out-youtube-video-quality/"><u>[New] Stretching Out YouTube Video Quality</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/he-ultimate-guide-to-youtube-short-video-insights-for-2024/"><u>[New] The Ultimate Guide to YouTube Short Video Insights for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-fortnite-voice-chat-issues-instantly-simple-solutions/"><u>Fix Your Fortnite Voice Chat Issues Instantly: Simple Solutions!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015473941-lost-your-astro-a50s-audio-heres-how-to-restore-it-fast-and-easy/"><u>Lost Your Astro A50's Audio? Here's How to Restore It Fast and Easy!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-the-fix-overcoming-bluetooth-connectivity-challenges-in-windows-11/"><u>Mastering the Fix: Overcoming Bluetooth Connectivity Challenges in Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-simple-guide-installing-wacom-tablet-drivers/"><u>Quick & Simple Guide: Installing Wacom Tablet Drivers</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-tecno-pova-6-pro-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Tecno Pova 6 Pro 5G</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-repairing-your-non-functional-headset-mic/"><u>Step-by-Step Solution: Repairing Your Non-Functional Headset Mic</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-evaluating-seconds-in-a-20mb-video-file/"><u>[New] Evaluating Seconds in a 20Mb Video File</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-troubleshoot-offline-mode-for-cod-cold-war/"><u>[SOLVED]: Troubleshoot Offline Mode for CoD Cold War</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-expert-video-upload-techniques-for-youtube-via-premiere/"><u>[Updated] Expert Video Upload Techniques for YouTube via Premiere</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-a-deep-dive-into-the-world-of-youtubes-minis/"><u>[Updated] In 2024, A Deep Dive Into the World of Youtube's Minis</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-learn-the-best-monitors-for-xbox-series-x-here/"><u>[Updated] Learn The Best Monitors for Xbox Series X Here</u></a></li>
+<li><a href="https://some-skills.techidaily.com/august-5th-edition-insightful-answers-and-tips-from-todays-new-york-times-connection-quiz/"><u>August 5Th Edition: Insightful Answers & Tips From Today's New York Times Connection Quiz</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/celebrate-memorial-day-with-savings-apple-watch-se-now-at-60-off-my-top-purchase-this-year/"><u>Celebrate Memorial Day with Savings! Apple Watch SE Now at $60 Off, My Top Purchase This Year</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-realme-note-50-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Realme Note 50</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-voice-communication-in-fortnite-a-step-by-step-fix-for-non-working-microphones/"><u>Mastering Voice Communication in Fortnite: A Step-by-Step Fix for Non-Working Microphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-audio-detected-from-your-microphone-heres-what-to-do/"><u>No Audio Detected From Your Microphone - Here’s What To Do</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-pc-troubles-how-to-fix-no-sound-or-audio-problems/"><u>Resolving PC Troubles: How to Fix 'No Sound' Or Audio Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-high-volume-sounds-a-guide-for-windows-11-users-with-low-audio-output/"><u>Restoring High-Volume Sounds: A Guide for Windows 11 Users with Low Audio Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-astro-headset-mic-repair-techniques-covered/"><u>Revive Your Astro Headset: Mic Repair Techniques Covered</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-the-team-talk-expert-fixes-for-when-league-of-legends-voice-chat-wont-turn-on/"><u>Reviving the Team Talk: Expert Fixes for When League of Legends Voice Chat Won't Turn On</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silencing-stutters-and-distortions-in-audio-playback-expert-solutions-for-windows-11-and-7-users/"><u>Silencing Stutters & Distortions in Audio Playback: Expert Solutions for Windows 11 and 7 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-skirmishes-in-battlefield-movie-title-troubleshooting-and-solutions-for-missing-audio/"><u>Silent Skirmishes in Battlefield ([Movie Title]): Troubleshooting and Solutions for Missing Audio</u></a></li>
+<li><a href="https://driver-install.techidaily.com/speedy-system-boost-streamlined-installation-of-new-acer-drivers-in-win10/"><u>Speedy System Boost: Streamlined Installation of New Acer Drivers in Win10</u></a></li>
 </ul></div>
 

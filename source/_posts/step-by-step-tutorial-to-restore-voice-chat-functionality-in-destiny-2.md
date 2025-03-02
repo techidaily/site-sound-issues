@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial to Restore Voice Chat Functionality in Destiny 2
-date: 2024-08-23T12:12:16.499Z
-updated: 2024-08-24T12:12:16.499Z
+date: 2025-02-27T16:39:14.479Z
+updated: 2025-03-02T00:20:56.742Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
 
  Is your**Logitech G430 microphone not working** ? You’re not alone. Many people have reported similar issues. But don’t worry, you can**fix the Logitech G430 mic not working** issues.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **How to fix Logitech G430 mic not working**
 
  If you didn’t mute the mic, if you’ve troubleshot the hardware and tried plugging your headset into different USB ports but your mic is still not working, try the solutions below:
@@ -45,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
 
  3) Click**Microphone** on the left pane, and make sure**Microphone access for this device** **is on** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ad8d38e.jpg)
 
  (If this issue happens in the voice chat when you play games, you can also check if the microphone status for that game is**ON** .)
@@ -72,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd5faedb2b.jpg)
 
  3) Click the**Update** button next to the flagged sound card to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer.
@@ -92,18 +83,12 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
 
  If your issue still persists, don’t worry. We have other solutions for you to try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### **Fix 3: Check your sound settings**
 
  Your Logitech G430 mic may not work because it’s disabled or not set as the default device for your Windows computer. Follow the steps below to check your sound settings:
 
  1) Right click the volume icon at the bottom right corner on your desktop, and select**Sounds** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ffadbaf.jpg)
 
  2) Click the**Playback** tab, and make sure to set your microphone to**Default** **Device** .
@@ -112,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
 
  3) Click the**Recording** tab, then right click on any empty area inside the device list and select**Show** **Disabled** **Devices** .
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6274ee58efa.jpg)
 
  4) Right click your microphone and click**Enable** (if it’s enabled, you’ll see**Disable** ).
@@ -123,9 +105,6 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
 
  5) Right click on your microphone again and select**Set as Default Device** .
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6275be6bfc9.jpg)
 
  6) Right click your microphone, and click**Properties.**
@@ -142,9 +121,6 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
 
  Still no luck? Okay, there’s one more thing to try.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 4: Reinstall Logitech Game Software**
 
  This is tricky but it works for many people who have similar issues. So you can give it a try.
@@ -164,8 +140,6 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +147,22 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-one-click-wonder-livestream-your-podcast-for-2024/"><u>[New] One Click Wonder Livestream Your Podcast for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ultimate-backdrop-choices-for-streamers/"><u>[New] Ultimate Backdrop Choices for Streamers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-audiophiles-guide-download-and-review-sound-files/"><u>[Updated] Audiophile's Guide Download & Review Sound Files</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-social-media-marketing-elevating-public-health-dialogue/"><u>[Updated] Social Media Marketing Elevating Public Health Dialogue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dismantling-the-problems-with-an-unscannable-epson-in-windows-11/"><u>Dismantling the Problems with an Unscannable Epson in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repair-guide-when-your-corsair-virtuoso-wont-work/"><u>DIY Repair Guide: When Your Corsair Virtuoso Won't Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-the-audio-malfunction-in-resident-evil-village-gameplay/"><u>Effective Fixes for the Audio Malfunction in Resident Evil: Village Gameplay</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-when-your-lucidsound-ls30-microphone-stops-responding/"><u>Effective Solutions for When Your LucidSound LS30 Microphone Stops Responding</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/gain-a-new-edge-elevate-your-cars-visibility/"><u>Gain a New Edge: Elevate Your Car's Visibility</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015061984-jabra-audio-issues-heres-your-2024-go-to-troubleshooting-handbook/"><u>Jabra Audio Issues? Here's Your 2024 Go-To Troubleshooting Handbook!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-unexpected-shutdowns-in-cod-modern-warfare-3-game-application/"><u>Overcoming Unexpected Shutdowns in COD Modern Warfare 3 Game Application</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-future-is-now-exploring-the-capabilities-of-the-samsung-galaxy-note20-ultra-with-5g-technology/"><u>The Future Is Now: Exploring the Capabilities of the Samsung Galaxy Note20 Ultra with 5G Technology</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-ultimate-nba-experience-top-15-ways-to-watch-games-online/"><u>The Ultimate NBA Experience - Top 15 Ways to Watch Games Online</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-mac-computers-expert-guidance/"><u>Troubleshooting Silent Mac Computers – Expert Guidance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-bluetooth-issues-on-your-windows-11-pc/"><u>Troubleshooting: Fixing Bluetooth Issues on Your Windows 11 PC</u></a></li>
+</ul></div>
 

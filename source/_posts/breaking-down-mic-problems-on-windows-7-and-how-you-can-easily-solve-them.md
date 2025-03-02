@@ -1,7 +1,7 @@
 ---
 title: Breaking Down Mic Problems on Windows 7 & How You Can Easily Solve Them
-date: 2024-08-23T12:11:32.725Z
-updated: 2024-08-24T12:11:32.725Z
+date: 2025-02-26T05:16:51.646Z
+updated: 2025-03-02T12:45:50.264Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/ce2c767b4ea66790422350863194f4cca1e1e1f1b
 
 If your external speakers are not working on Windows 10, don’t worry, you’re not alone. The speakers not working problem could relate to many factors, for instance, the speakers, the hardware themselves, could be damaged, your system sound could be muted, your audio driver could be faulty, and so forth. If you encounter this problem, follow the troubleshooting tips here and find the solution that works for you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Step 1, make sure your speakers are not the problem
 
  Try to test your speakers on another device (a computer or a mobile phone would both do) to see if they are working properly. This will help determine if the issue is with the speakers themselves or with your computer.
@@ -44,9 +41,6 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
 1. On your keyboard, press the**Windows** logo key and**R** key at the same time to invoke the run box.
 2. Type control panel and click**OK** . This is to open Control Panel window.  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a379fb55982a.png)
 3. In Control Panel, view by Category, click **Hardware and Sound** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a37a0193f08b.jpg)
@@ -54,24 +48,15 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-24.png)
 5. If the sound is unmuted, move to the next step.
 6. Try to move the slider up to increase the volume.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/volume-mixer.jpg)
 
  If the problem still cannot be resolved, try solutions below. Sound setting issues or driver issues may also cause this problem.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Set Speakers as Default
 
  Your speakers won’t work if it’s not set as the default output. To resolve the problem, you can set the speaker as default. To do so:
 
 1. Right-click the speaker icon at the bottom right corner of the desktop and click on**Playback devices** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b11f3def8f1.png)
 2. Highlight**Speakers** or**Speakers /Headphones** and click**Set Default** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/set-as-default.jpg)
@@ -82,25 +67,16 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
  After it is listed, right-click on the speakers and click**Enable** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enable speakers](https://images.drivereasy.com/wp-content/uploads/2016/08/enable-speakers.jpg)
 
  The problem also can be caused by outdated or missing audio drivers. So try to fix audio drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Uninstall the Audio Driver
 
 Follow these steps:
 
 1. Press the**Windows logo** key and**R** key at the same time. A Run dialog box will appear.
 2. Type **devmgmt.msc** in the run box and click**OK** button. This is to open Device Manager Window.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57354ce2ad87d.png)
 3. In Device Manager, double-click**Sound, video and game controllers** and right-click your sound card. A context menu will pop up. Then select**Uninstall** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
@@ -108,9 +84,6 @@ Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
 5. Reboot your PC and check to see if the problem is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Update the Audio Driver
 
  The steps above may resolve it, but if they don’t, try to update the audio driver. If you’re not confident playing around with drivers manually,  you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -124,10 +97,6 @@ Follow these steps:
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
 4. Restart your computer for the changes to take effect.
 
@@ -139,8 +108,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +115,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-apex-play-exclusively-how-to-disable-cross-play-feature-for-2024/"><u>[New] Mastering Apex Play Exclusively How to Disable Cross-Play Feature for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-pioneers-charting-extended-realms-course-for-2024/"><u>[New] Pioneers Charting Extended Realms' Course for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-ultimate-action-cam-editing-solutions/"><u>[Updated] In 2024, Ultimate Action Cam Editing Solutions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-saves-free-and-without-end/"><u>[Updated] Instagram Saves Free and Without End</u></a></li>
+<li><a href="https://program-issues.techidaily.com/alan-wake-2-crash-free-gaming-expert-advice-and-solutions/"><u>Alan Wake 2 Crash-Free Gaming : Expert Advice and Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016288442-discord-not-working-heres-how-to-get-your-voice-back-in-conversations/"><u>Discord Not Working? Here's How to Get Your Voice Back in Conversations</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/experts-advice-a-five-step-strategy-for-fixing-audio-troubles-in-windows-11/"><u>Experts' Advice: A Five-Step Strategy for Fixing Audio Troubles in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-skype-microphone-working-again-on-windows-11-step-by-step-fixes/"><u>Get Your Skype Microphone Working Again on Windows 11: Step-by-Step Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-back-on-track-a-guide-to-fixing-sound-issues-with-lenovo-laptops/"><u>Getting Back on Track: A Guide to Fixing Sound Issues with Lenovo Laptops</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-maximizing-stability-the-art-of-tripod-placement-in-vlogs/"><u>In 2024, Maximizing Stability The Art of Tripod Placement in Vlogs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g935-mic-issue-heres-your-guide-to-repairing-sound-on-pc/"><u>Logitech G935 Mic Issue? Here's Your Guide to Repairing Sound on PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/meta-quest-3-leaps-ahead-with-built-in-ai-features-outpacing-apples-vision-pro-your-enablement-tutorial-on-zdnet/"><u>Meta Quest 3 Leaps Ahead with Built-In AI Features, Outpacing Apple's Vision Pro - Your Enablement Tutorial on ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steelseries-arctis-prime-stereo-headset-microphone-fixes-and-tweaks/"><u>SteelSeries Arctis Prime Stereo Headset Microphone Fixes and Tweaks</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/transform-your-content-into-conversations-explore-photographic-storytelling-and-brand-growth-using-massmail/"><u>Transform Your Content Into Conversations: Explore Photographic Storytelling & Brand Growth Using Massmail</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-mic-issues-how-to-get-audio-recording-again/"><u>Troubleshooting Silent Mic Issues - How to Get Audio Recording Again!</u></a></li>
+</ul></div>
 

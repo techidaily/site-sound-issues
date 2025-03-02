@@ -1,7 +1,7 @@
 ---
 title: Solve Your OBS Desktop Microphone Problem - A Step-by-Step Guide
-date: 2024-12-18T16:19:01.058Z
-updated: 2024-12-25T18:23:33.336Z
+date: 2025-02-24T22:54:04.846Z
+updated: 2025-03-02T07:29:58.528Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ Many **Logitech G933** users are reporting that their headset**microphone**is no
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -61,10 +57,6 @@ You should allow your Windows 10 system and your application to access your head
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62e9a89f2b6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Hopefully this fixes your microphone issue. But if not, there are still three fixes you can try.
 
 ---
@@ -87,25 +79,13 @@ Your Logitech G933 mic may be disabled or not set as the default device on your 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Right click the**Headset Microphone**and click **Enable**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)**Right click it again and select **Set as Default Device**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **7)** Right click**Headset Microphone**and click**Properties**.
 
@@ -125,17 +105,9 @@ The mic on your Logitech G933 headset won’t work if you’re using an incorrec
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the**Update**button next to your sound device or your headset to download the latest and correct driver for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You can also click the **Update All**button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) — if you don’t already have it, you’ll be prompted to upgrade when you click**Update All**.) Once you’ve updated the driver for your Logitech G933 headset, restart your computer. Then log in again and see if the microphone is working.
 
@@ -163,18 +135,21 @@ If your headset microphone is still not working, it’s likely there are hardwar
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-micro-movie-plot-draft/"><u>[Updated] Micro-Movie Plot Draft</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-screen-recording-face-off-obs-studio-vs-fraps-comparison/"><u>[Updated] Screen Recording Face-Off OBS Studio Vs Fraps Comparison</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-warzones-troublesome-memory-error-code-0-1766-on-xbox-and-pc/"><u>Fixing Warzone's Troublesome Memory Error Code 0-1766 on Xbox and PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-taking-quick-screenshots-using-windows-11-features/"><u>Guide: Taking Quick Screenshots Using Windows 11 Features</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-ensure-your-yahoo-email-is-irreversibly-eliminated/"><u>How To Ensure Your Yahoo Email Is Irreversibly Eliminated</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-no-audio-from-usb-headphones-in-windows-7-a-comprehensive-solution/"><u>How to Resolve No Audio From USB Headphones in Windows 7: A Comprehensive Solution</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-itel-a05s-frp-bypass-by-drfone-android/"><u>In 2024, About Itel A05s FRP Bypass</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-sound-problems-heres-how-to-get-anthem-playing-audibly-on-your-pc-with-windows-11/"><u>No Sound Problems? Here's How to Get Anthem Playing Audibly on Your PC With Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/schritte-zur-reparatur-von-inaktiven-mikrofonen-g2000-serie-bei-der-webseite-ktion/"><u>Schritte Zur Reparatur Von Inaktiven Mikrofonen G2000-Serie Bei Der Webseite Ktion</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-resolve-non-functioning-voice-chat-feature-in-rainbow-six-siege-update-2e4/"><u>Step-by-Step Tutorial: Resolve Non-Functioning Voice Chat Feature in Rainbow Six Siege [Update 2E4]</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ins-and-outs-of-roaming-on-a-single-carrier-how-it-works-at-t-mobile/"><u>The Ins and Outs of Roaming on a Single Carrier: How It Works at T-Mobile</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-vivo-v29-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Vivo V29 to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-2019-kindle-oasis-an-innovative-journey-towards-a-seamless-papyrus-texture-read/"><u>Unveiling the 2019 Kindle Oasis: An Innovative Journey Towards a Seamless, Papyrus Texture Read</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-razer-kraken-mic-not-working/"><u>[SOLVED] Razer Kraken Mic Not Working</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-composing-channel-overview-teaser-clips/"><u>[Updated] 2024 Approved Composing Channel Overview Teaser Clips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-instatrends-update-staying-ahead-with-fresh-reel-ideas/"><u>[Updated] InstaTrends Update Staying Ahead with Fresh Reel Ideas</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-alternative-recreation-in-the-firstrow-rankings/"><u>2024 Approved Alternative Recreation in the Firstrow Rankings</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-unlock-faster-youtube-submission-via-smart-rendering-and-uploading/"><u>2024 Approved Unlock Faster YouTube Submission via Smart Rendering & Uploading</u></a></li>
+<li><a href="https://win-superb.techidaily.com/effektivste-methode-zum-ubertragen-von-windows-systemdateien-auf-eine-solid-state-drive-versionen-11-10-8-und-aber-auch-7/"><u>Effektivste Methode Zum Übertragen Von Windows-Systemdateien Auf Eine Solid State Drive: Versionen 11, 10, 8 Und Aber Auch 7</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/identifying-graphics-card-issues-expert-tips-from-yl-computing-and-yl-software/"><u>Identifying Graphics Card Issues: Expert Tips From YL Computing and YL Software</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-gopro-studio-secrets-building-professional-time-lapses/"><u>In 2024, GoPro Studio Secrets Building Professional Time Lapses</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-troubleshooting-guide-fixing-the-failed-audio-check-sound-problem/"><u>Quick Troubleshooting Guide: Fixing the Failed Audio Check Sound Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-voicemod-issues-and-get-back-online/"><u>Resolve Voicemod Issues & Get Back Online</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-pcs-audio-essential-fixes-for-sound-issues-on-hp-devices-with-windows-11/"><u>Revive Your PC's Audio: Essential Fixes for Sound Issues on HP Devices with Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-overcoming-voice-chat-problems-in-call-of-duty-vanguard/"><u>Solution Guide: Overcoming Voice Chat Problems in Call of Duty Vanguard</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-silent-issue-top-tips-for-restoring-audio-to-your-facebook-videos/"><u>Solving the Silent Issue: Top Tips for Restoring Audio to Your Facebook Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/soundless-battles-restore-audio-glory-in-world-of-warcraft-asap/"><u>Soundless Battles? Restore Audio Glory in World of Warcraft ASAP</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/things-you-must-know-for-screen-mirroring-apple-iphone-7-drfone-by-drfone-ios/"><u>Things You Must Know for Screen Mirroring Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/ultimate-highlight-hits-ios-and-android-instagram-covers-apps/"><u>Ultimate Highlight Hits IOS & Android Instagram Covers Apps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Master the Fix: Five Crucial Actions to Restore Sound on Windows 11 Computers"
-date: 2025-02-04T05:47:09.171Z
-updated: 2025-02-11T04:16:50.570Z
+date: 2025-02-28T22:41:09.646Z
+updated: 2025-03-02T06:48:05.252Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
 4. [**Reinstall your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 1: Troubleshoot the hardware issue**
 
  The hardware problem can cause the sound not working issue, so you can follow the instructions below to troubleshoot and identify your sound problem.
@@ -66,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb12196f37.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 2\. Make sure your audio device is set as default
 
  1) Right click the**volume icon** at the bottom right corner, and click**Playback devices** .
@@ -83,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
  3) If your audio device is not the default device, click**Set Default** . Then click**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a446177e761d.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Test the sound on your laptop so see whether there is any sound.
 
@@ -106,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962d0ec718d.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) You will need to repeat this until you find a proper audio format. Once you find the proper audio format to work, click**OK** to save the settings.
 
 #### 4\. Make sure the sound device is enabled in Device Manager
@@ -126,19 +110,11 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb4e9bbee3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If a**down arrow** displays on the volume icon, the sound device is disabled. Right click the device name, and select**Enable** **device** to enable your sound device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb53fb8555.png)
 
 4) Try the sound to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 3: Update your sound driver**
 
@@ -166,10 +142,6 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
 
 4) Restart your computer and check whether your problem is solved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 4: Reinstall your audio driver**
 
  HP laptop sound not working issue can be caused by the driver corruption, so you can uninstall the existed sound driver in your laptop and reinstall a new driver for your sound device.
@@ -189,10 +161,6 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ef431c66.png)
 
  5) Restart your computer and Windows will automatically download and install the sound driver for your device. After that, check the sound to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Check for corrupted system files
 
@@ -240,16 +208,24 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-exclusive-selections-best-virtual-reality-titles-for-cardboard/"><u>[Updated] 2024 Approved Exclusive Selections Best Virtual Reality Titles for Cardboard</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-subtitle-extraction-top-10-free-apps-rated/"><u>[Updated] 2024 Approved Subtitle Extraction Top 10 Free Apps Rated</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-green-screen-journey-begins-on-yt-ideas-take-flight-for-2024/"><u>[Updated] Green Screen Journey Begins on YT, Ideas Take Flight for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-asmr-enhances-your-daily-life-learn-here/"><u>[Updated] How ASMR Enhances Your Daily Life – Learn Here</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-blissful-bites-best-stress-busting-gaming/"><u>2024 Approved Blissful Bites Best Stress-Busting Gaming</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-to-google-nest-wi-fi-fast-and-reliable-mesh-system/"><u>Comprehensive Guide to Google Nest Wi-Fi: Fast and Reliable Mesh System</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-nokia-c12-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Nokia C12? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-flip-it-quick-and-simple-video-rotation-techniques/"><u>New 2024 Approved Flip It! Quick and Simple Video Rotation Techniques</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-sound-devices-a-step-by-step-guide-to-fixing-no-output-issue-for-windows-1087-users/"><u>Reviving Sound Devices: A Step-by-Step Guide to Fixing No Output Issue for Windows 10/8/7 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solving-astro-a50-microphone-problems/"><u>Troubleshooting and Solving Astro A50 Microphone Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-repair-a-non-functioning-microphone-in-your-airpods-when-using-windows-10/"><u>Troubleshooting Guide: How to Repair a Non-Functioning Microphone in Your AirPods When Using Windows 10</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rightening-up-your-online-videos-for-2024/"><u>[New] Brightening Up Your Online Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-method-to-record-your-youtube-watching-experience/"><u>[Updated] 2024 Approved Free Method to Record Your YouTube Watching Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-latest-fingerprint-authentication-suite-on-windows-pcs/"><u>Download and Install the Latest Fingerprint Authentication Suite on Windows PCs</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-iphone-8-plus-by-drfone-ios/"><u>How To Create an Apple Developer Account From iPhone 8 Plus</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-best-in-show-a-compreeved-list-of-top-18-4k-recording-devices/"><u>In 2024, Best in Show A Compreeved List of Top 18 4K Recording Devices</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-say-goodbye-to-grain-top-rated-video-resolution-enhancers/"><u>New 2024 Approved Say Goodbye to Grain Top-Rated Video Resolution Enhancers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-level-innovation-openai-brings-game-changing-ai-capabilities-to-market-with-gpt-4/"><u>Next-Level Innovation: OpenAI Brings Game-Changing AI Capabilities to Market With GPT-4</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sculpting-soundscapes-gradual-volume-reduction/"><u>Sculpting Soundscapes Gradual Volume Reduction</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-smooth-playback-for-bluetooth-devices-on-windows-1110/"><u>Step-by-Step Guide: Smooth Playback for Bluetooth Devices on Windows 11/10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-for-realtek-hdmi-audio-software-that-wont-open/"><u>Step-by-Step Repair for Realtek HDMI Audio Software That Won't Open</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steps-for-repairing-a-malfunctioning-mic-on-your-steelseries-arctis-headset/"><u>Steps for Repairing a Malfunctioning Mic on Your SteelSeries Arctis Headset</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Oppo A56s 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-quiet-problem-solved-boosting-facebook-video-sounds-on-desktop-top-tricks-of-2024/"><u>The Quiet Problem Solved: Boosting Facebook Video Sounds on Desktop - Top Tricks of 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-a-nonfunctional-corsair-headset/"><u>Troubleshooting Guide: Fixing a Nonfunctional Corsair Headset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-restore-functionality-of-lucidsound-ls30/"><u>Troubleshooting Guide: How to Restore Functionality of LucidSound LS30</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-why-your-steelseries-headsets-mic-isnt-working-and-how-to-fix-it/"><u>Troubleshooting Guide: Why Your SteelSeries Headset's Mic Isn't Working and How to Fix It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-a-non-functioning-voice-chat-in-valorant/"><u>Troubleshooting Steps for a Non-Functioning Voice Chat in VALORANT</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-voice-communication-in-call-of-duty-vanguard/"><u>Troubleshooting Voice Communication in Call of Duty: Vanguard</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-benefits-exclusive-new-functions-for-specific-models-of-apples-airpods-in-the-autumn-a-closer-look/"><u>Upcoming Benefits: Exclusive New Functions for Specific Models of Apple's AirPods in the Autumn - A Closer Look</u></a></li>
 </ul></div>
 

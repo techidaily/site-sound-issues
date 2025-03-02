@@ -1,7 +1,7 @@
 ---
 title: How to Fix Windows 11 Microphone Not Working
-date: 2025-02-09T18:23:02.590Z
-updated: 2025-02-10T22:45:22.189Z
+date: 2025-02-28T02:35:00.158Z
+updated: 2025-03-02T11:16:18.143Z
 tags:
   - win11
   - win10
@@ -54,15 +54,7 @@ thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 4. Scroll down and toggle on the button below**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you’ve allowed the microphone access to your apps, check if the problem is resolved. If not, try the next method.
 
@@ -90,18 +82,10 @@ There are mainly two ways you can update the audio driver:
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Now check if your microphone works in the Webex meeting. If not, there’s one more fix to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Check the Webex settings
 
@@ -111,10 +95,6 @@ There are mainly two ways you can update the audio driver:
 2. Click your profile at the top left corner and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings.jpg)
 3. Select**Audio** from the left pane. Under the Microphone section, select your preferred audio device from the drop-down menu.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-3.jpg)
 4. You can also adjust the volume by dragging the slider. Then click Save to apply the changes.  
@@ -144,20 +124,20 @@ There are mainly two ways you can update the audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/bandicam-or-camtasia-the-ultimate-showdown-for-2024/"><u>Bandicam or Camtasia The Ultimate Showdown for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722969801794-boost-your-gaming-experience-download-free-asrock-ab350-pro4-drivers-for-window-pcs-now/"><u>Boost Your Gaming Experience – Download Free ASRock AB350 Pro4 Drivers for Window PCs Now!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/borderlands-3-pc-players-beware-overcoming-the-mute-challenge-a-guide-to-restoring-sound/"><u>Borderlands 3 PC Players Beware! Overcoming the Mute Challenge - A Guide to Restoring Sound</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/1728479465064-excel/"><u>Excelデータ損失回避 - システムに侵入したバグからの修復手法</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-freedomforsounders-review-extraction-excellence/"><u>In 2024, FreedomForSounders Review Extraction Excellence</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-strategies-for-apple-listed-podcast-success/"><u>In 2024, Strategies for Apple-Listed Podcast Success</u></a></li>
-<li><a href="https://facebook.techidaily.com/peering-behind-facebooks-core-design-principles/"><u>Peering Behind Facebook's Core Design Principles</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-for-cod-black-ops-cold-war-voice-chat-malfunction/"><u>Solution Guide for COD Black Ops Cold War Voice Chat Malfunction</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-your-fortnite-audio-issues-a-comprehensive-troubleshooting-guide/"><u>Solving Your Fortnite Audio Issues: A Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/trasforma-i-file-wmv-in-mp4-o-3gp-online-senza-costi-convertwmvasyougo/"><u>Trasforma I File WMV in MP4 O 3GP Online Senza Costi - ConvertWMVAsYouGo!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-astro-a50-microphone-repair-and-solutions/"><u>Troubleshooting Guide: Astro A50 Microphone Repair and Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-microphone-issues-with-apple-airpods-on-windows-11/"><u>Troubleshooting Microphone Issues with Apple AirPods on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-unresponsive-microphone-feature-in-oculus-quest-2-vr/"><u>Troubleshooting the Unresponsive Microphone Feature in Oculus Quest 2 VR</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-10-sound-troubleshooting-for-mystery-speaker-configurations/"><u>Windows 10 Sound Troubleshooting for Mystery Speaker Configurations</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/windows-11-usbhddos/"><u>Windows 11初心者マスターキット - USB外部HDDにシームレスなOSバックアップ手順</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-financial-outcomes-dailymotion-versus-youtube-earning-potential/"><u>[New] 2024 Approved Financial Outcomes Dailymotion versus YouTube Earning Potential</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nstant-influence-youtubes-hourly-video-tops-for-2024/"><u>[New] Instant Influence Youtube's Hourly Video Tops for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-airpods-connected-but-no-sound-on-windows-1110/"><u>[SOLVED] AirPods Connected But No Sound on Windows 11/10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-my-headphone-not-working-on-windows-11/"><u>[SOLVED] My Headphone Not Working on Windows 11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-compilation-worlds-leading-youtube-mp3-downloaders/"><u>[Updated] Compilation World's Leading YouTube Mp3 Downloaders</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-official-winx-downloader-and-dvd-ripper-professional-hd-video-conversion-tools/"><u>Free Official WinX Downloader & DVD Ripper: Professional HD Video Conversion Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo A18? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-audio-malfunction-for-it-takes-two-a-guide-to-restoring-sound-on-pc/"><u>Solving the Audio Malfunction for 'It Takes Two': A Guide to Restoring Sound on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-dilemma-how-to-restore-audio-functionality-on-your-laptop/"><u>Solving the Dilemma: How to Restore Audio Functionality on Your Laptop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-windows-audio-issues-when-new-speakers-are-installed-but-not-producing-sound/"><u>Solving Windows Audio Issues When New Speakers Are Installed but Not Producing Sound</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/leshoot-and-clear-your-youtube-pixel-voids/"><u>Troubleshoot and Clear Your YouTube Pixel Voids</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-issues-fixing-loudspeaker-problems-in-windows-10/"><u>Troubleshooting Audio Issues: Fixing Loudspeaker Problems in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fix-microsoft-teams-microphone-issues-on-windows-11-and-10/"><u>Troubleshooting Guide: Fix Microsoft Teams Microphone Issues on Windows 11 & 10</u></a></li>
+<li><a href="https://win-data.techidaily.com/unreachable-webpage-error-indicates-a-non-existent-online-resource/"><u>Unreachable Webpage Error Indicates a Non-Existent Online Resource</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-motorola-razr-40-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Motorola Razr 40 Ultra Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

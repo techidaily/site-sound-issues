@@ -1,7 +1,7 @@
 ---
 title: Fix Phasmophobia's Voice Chat Gone Silent? Here’s What Works
-date: 2024-08-18T08:06:30.641Z
-updated: 2024-08-19T08:06:30.641Z
+date: 2025-02-26T08:22:27.685Z
+updated: 2025-03-02T05:30:52.431Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 
 ![fix Phasmophobia voice chat not working](https://img.gamerjournalist.com/spai/w_1535+q_lossy+ret_img+to_webp/https://cdn.gamerjournalist.com/primary/2020/10/Test-Voice-Phasmophobia.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## Fix 1: Check sound settings
 
  Sometimes your Microphone may not be detected or selected correctly. So when you’re in-game, the voice chat would not be working as you wish. To fix it, you should check your sound settings.
@@ -42,16 +39,10 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 
  2) Make sure that your input device is set to whatever microphone you’re currently using or prefer to use. Then click**Device properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![check input device ](https://images.drivereasy.com/wp-content/uploads/2020/10/check-your-input-device-1200x903.jpg)
 
 3) Set the volume to at least 50.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![set the volume](https://images.drivereasy.com/wp-content/uploads/2020/10/set-the-volume-to-as-least-50-1200x571.jpg)
 
  After applying the changes, play your game to check if the problem persists.
@@ -74,9 +65,6 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 
  3) You’ll be asked to speak into your connected piece of hardware to ensure Voice Recognition is properly set up. If it shows**We heard you!** , your voice chat should be working now.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![check in-game audio settings Phasmophobia voice chat not working](https://images.drivereasy.com/wp-content/uploads/2020/10/we-heard-you-1200x725.jpg)
 
 ---
@@ -87,16 +75,10 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 
  There are mainly two ways you can update your audio driver: [manually](https://tools.techidaily.com/drivereasy/download/) and [**automatically**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 1: Manually update your audio driver
 
  To update drivers manually, you can go to the PC manufacturer’s website or the audio card’s website to check for the latest audio driver. If you are using a branded computer, it is recommended to go to the PC manufacturer’s website first, as they may customize the driver. Before you get started, ensure that you know the PC model or the device model and the specific operating system that you are using.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 2: Automatically update your audio driver (recommended)
 
  If you don’t have the time, patience, or computer skills to update drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -113,9 +95,6 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
   
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![update audio driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/click-update-all.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -124,9 +103,6 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Reset your network
 
  If your voice chat is not working, it might be related to your network. To fix it, simply do a**network reset** . Here’s how you can do this.
@@ -137,18 +113,12 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 
  2) Click**Reset now** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![reset network to fix Phasmophobia voice chat not working issue](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-reset-now.jpg)
 
 Once it’s finished, play your game to check if it works.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Verify the integrity of game files
 
  Verifying the integrity of game files is a recommended troubleshooting step you should take when you’re faced with some bugs. It can help you verify if the integrity of your game files is intact. If it is not, it’ll then restore any missing or corrupted files. Here’s how you can do this:
@@ -175,8 +145,6 @@ Once it’s finished, play your game to check if it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +152,17 @@ Once it’s finished, play your game to check if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-quickstream-simple-steps-for-live-podcast-broadcasting/"><u>[New] 2024 Approved Quickstream Simple Steps for Live Podcast Broadcasting</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfect-pairing-of-tiktok-bio-and-linktree-connection/"><u>[Updated] Perfect Pairing of TikTok Bio & Linktree Connection</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-5-upgrades-to-shine-your-digital-clips/"><u>2024 Approved 5 Upgrades to Shine Your Digital Clips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/banish-the-pops-and-cracks-expert-tips-for-clearer-headphone-sound/"><u>Banish the Pops & Cracks: Expert Tips for Clearer Headphone Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-a-non-functional-mic-in-dota-2-on-your-windows-pc-solutions-inside/"><u>Fixing a Non-Functional Mic in Dota 2 on Your Windows PC - Solutions Inside!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-xiaomi-13-ultra-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Xiaomi 13 Ultra Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-audience-wow-factor-how-to-create-spectacular-live-streams/"><u>In 2024, Audience Wow Factor How to Create Spectacular Live Streams</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-the-unmarked-manual-for-instagrams-livestream-privacy/"><u>In 2024, The Unmarked Manual for Instagram's Livestream Privacy</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-windows-7-sound-issues-a-comprehensive-guide/"><u>Resolving Windows 7 Sound Issues - A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-when-your-sennheiser-gaming-mic-fails-to-function/"><u>Step-by-Step Solutions: When Your Sennheiser Gaming Mic Fails to Function</u></a></li>
+</ul></div>
 

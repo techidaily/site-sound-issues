@@ -1,7 +1,7 @@
 ---
 title: Fast Troubleshooting Tips to Restore Sound on Your Astro A50 Wireless Earbuds
-date: 2024-08-23T12:09:02.859Z
-updated: 2024-08-24T12:09:02.859Z
+date: 2025-02-26T12:13:16.069Z
+updated: 2025-03-02T01:21:23.155Z
 tags:
   - win11
   - win10
@@ -48,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
  2\. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Driver-Easy-Scan-screen.jpg)
 
  3\. Click **Update** next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee).
@@ -69,32 +66,20 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
  2\. On the left panel, click **Library** . On the right, click **the gear button** on the lower-right corner of **Fortnite** .
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap911.png)
 
  3.**Turn on** the toggle next to **Auto update** .
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap912.png)
 
 4\. Restart the Epic Games Launcher.
 
  5\. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap898.png)
 
  Run Fortnite again to check whether your chat problem has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 4, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Make sure your microphone is on for Fortnite
 
  If you downloaded Fortnite from**the Microsoft Store** , check if it has permission to use your microphone. Here’s how to do it:
@@ -105,18 +90,10 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
  2\. Click **Microphone**  on the left pane, and make sure**Microphone access for this device** is**on** , and the status is **On** for **Fortnite** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap428.jpg)
 
 3\. Run Fortnite to see if chat works now. If not, try Fix 5, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### Fix 5: Check your audio settings
 
  Windows and Fortnite both have audio settings, and sometimes things just get a little mixed up. So it can help to reset everything, manually, to clear out the cobwebs. (Kinda like how restarting your PC can sometimes mysteriously resolve problems.) Here is how to do it:
@@ -129,23 +106,12 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  ii. Click**the speaker icon** to view the audio settings. Then**turn off Voice Chat** and click**Apply** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap431-1024x576.jpg)
 
 iii. Exit Fortnite.
 
  2\. On your desktop,**right-click** **the speaker icon** at the bottom-right corner, and then select**Sounds** .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap432.jpg)
 
  3\. Click the **Playback** tab, select the speakers/headphones you’re using and click **Set Default** .
@@ -154,9 +120,6 @@ iii. Exit Fortnite.
 
  4\. Click the **Recording** tab, select the microphone you’re using and click **Set Default** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 
  5\. While still in the**Recording** tab, try**speaking into your microphone** to test if it works properly. If it is, you should see some green in the bar on the right:
@@ -201,8 +164,6 @@ iii. Exit Fortnite.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +171,26 @@ iii. Exit Fortnite.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-crafting-a-narrative-template-for-online-educational-videos/"><u>[New] In 2024, Crafting a Narrative Template for Online Educational Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-the-path-to-excellent-gopro-filming-mastery/"><u>[New] In 2024, The Path to Excellent Gopro Filming Mastery</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-twice-the-joy-twice-the-fun-televised-repetition-made-easy/"><u>[Updated] Twice the Joy, Twice the Fun Televised Repetition Made Easy</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-chromebook-zoom-capabilities/"><u>2024 Approved Unlocking Chromebook Zoom Capabilities</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/a-world-of-textual-wonder-traverse-these-top-10-sites-featuring-modern-font-designs-for-2024/"><u>A World of Textual Wonder Traverse These Top 10 Sites Featuring Modern Font Designs for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/clear-out-that-unused-windows-rebuild-zone-a-how-to/"><u>Clear Out That Unused Windows Rebuild Zone – A How-To</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-fixes-for-non-responsive-mic-on-apple-earpods-with-windows-11-setup/"><u>Comprehensive Fixes for Non-Responsive Mic on Apple EarPods with Windows 11 Setup</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-rectifying-tozo-t6-connectivity-issues-on-windows-11/"><u>Diagnosing and Rectifying Tozo T6 Connectivity Issues on Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/driven-by-advanced-analytics-how-cookiebot-enhances-user-experience/"><u>Driven by Advanced Analytics: How Cookiebot Enhances User Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-bootstrapping-dolby-digital-drivers-in-a-windows-10-environment/"><u>Effective Solutions for Bootstrapping Dolby Digital Drivers in a Windows 10 Environment</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-when-call-of-duty-warzone-textures-wont-load/"><u>Fixes for When Call of Duty: Warzone Textures Won't Load</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-pcs-rec-room-mic-issues-expert-tips/"><u>How to Repair Your PC's Rec Room Mic Issues: Expert Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-7-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Infinix Smart 7 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-on-your-computer-a-step-by-step-guide-to-fixing-non-working-speakers/"><u>Restoring Audio on Your Computer: A Step-by-Step Guide to Fixing Non-Working Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-why-is-my-corsair-hs35-not-recognized-by-windows/"><u>Solution Guide: Why Is My Corsair HS35 Not Recognized by Windows?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016274825-solve-silent-computers-fast-the-easy-fix-you-need-now/"><u>Solve Silent Computers Fast – The Easy Fix You Need Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016799081-solving-the-persistent-speaker-noise-in-windows-117-expert-tips-revealed/"><u>Solving the Persistent Speaker Noise in Windows 11/7 - Expert Tips Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-repairing-the-razer-blackshark-v2-microphone-malfunction/"><u>Step-by-Step Guide: Repairing the Razer BlackShark V2 Microphone Malfunction</u></a></li>
+<li><a href="https://fox-links.techidaily.com/tricks-for-non-engagement-with-edgenuity-video-content-for-2024/"><u>Tricks for Non-Engagement with Edgenuity Video Content for 2024</u></a></li>
+</ul></div>
 

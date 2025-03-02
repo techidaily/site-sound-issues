@@ -1,7 +1,7 @@
 ---
 title: Fortnite Voice Chat Troubles? Here's How to Get Your Mic Working Again
-date: 2025-02-08T02:23:52.892Z
-updated: 2025-02-11T02:54:35.640Z
+date: 2025-02-23T10:03:41.795Z
+updated: 2025-03-01T19:43:09.065Z
 tags:
   - win11
   - win10
@@ -61,32 +61,16 @@ Hey, buddy, can you hear me?
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf47aa5ad97.jpg)  
 **Note:** You can try**speaking into your microphone** to test if it’s working properly. If it is, you should see a green bar rising next to it while you talk.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf47cf4729b.jpg)
 6. **Right click** on and**disable** every other input device except the one you want to use. (If you have any other output devices, repeat for the**Playback** tab).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf47f49119e.jpg)
 7. Click**OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Open Fortnite again, go to the settings menu and**turn Voice Chat on** .
 9. Join a squad or duo to test if your mic works now. If not, try Method 2 below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Update your audio driver
 
@@ -106,10 +90,6 @@ Hey, buddy, can you hear me?
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb0550e404c0.jpg)
 4. Restart your computer and check if your mic now works properly in Fortnite. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Method 3 below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 ### Method 3: Restart the Windows Audio service
@@ -120,10 +100,6 @@ Hey, buddy, can you hear me?
 2. Type**services.msc** and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf51cc29fe5.png)
 3. Find and right-click on **Windows Audio** , then click **Restart** on the upper left.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf52397a39c.jpg)
 4. **Close** the Services window.
@@ -142,10 +118,6 @@ Hey, buddy, can you hear me?
 2. Click**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf490b0f096.jpg)
 3. In the left pane, click **Microphone** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88ebcdd1f01.jpg)
 4. In the right pane, click the**Change** button, and you’ll see your mic is turned on. Also make sure**All apps to access your microphone** is enabled:  
@@ -169,15 +141,7 @@ Hey, buddy, can you hear me?
 ![windows 11 - Make sure apps have access to your microphone](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Let-desktop-apps-access-your-microphone-make-sure-its-On.jpg)
 4. Now test your voice chat in-game.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 5: Check for Windows updates
 
@@ -213,17 +177,19 @@ Enjoy your game!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-unlocking-bandicams-potential-for-efficient-video-capture/"><u>[New] In 2024, Unlocking Bandicam's Potential for Efficient Video Capture</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-parrot-ar-drone-enhanced-a-compreayer-report/"><u>[New] Parrot AR Drone Enhanced - A Compreayer Report</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-elevate-videos-with-gif-a-simple-guide-for-vimeo-creators/"><u>[Updated] In 2024, Elevate Videos with GIF A Simple Guide for Vimeo Creators</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-inclusivity-in-tech-the-expert-take-on-easeus/"><u>[Updated] Inclusivity in Tech The Expert Take on EaseUS</u></a></li>
-<li><a href="https://blog-min.techidaily.com/219/"><u>「ムービーフォーマットを完璧にする：21対9の変更方法を詳しく解説」</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-for-troubleshooting-no-sound-issues-in-hp-laptops-fixed/"><u>Expert Advice for Troubleshooting No-Sound Issues in HP Laptops - Fixed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-woes-solutions-for-world-of-warcrafts-audio-problem/"><u>Fixing Silent Woes: Solutions for World of Warcraft's Audio Problem</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-stunning-visuals-how-to-master-use-of-luts-in-photoshop-suite/"><u>In 2024, Crafting Stunning Visuals How to Master Use of LUTs in Photoshop Suite</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-voice-chat-issues-on-rainbow-six-siege-for-optimal-teamwork-fix-guide-for-202n4/"><u>Resolving Voice Chat Issues on Rainbow Six Siege for Optimal Teamwork - Fix Guide for 202N4</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-a-non-responsive-shift-key/"><u>Troubleshooting Guide: Fixing a Non-Responsive Shift Key</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-silent-keys-on-your-logitech-g933-mechanical-keyboard/"><u>Troubleshooting Guide: Resolving Silent Keys on Your Logitech G933 Mechanical Keyboard</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-poco-x6-pro-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Poco X6 Pro Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-basic-procedure-swapping-video-playback-in-vlc-media-player/"><u>[Updated] In 2024, Basic Procedure Swapping Video Playback in VLC Media Player</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-galaxy-a14-4g-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Galaxy A14 4G support MOV videos ?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/explore-the-top-online-tech-training-courses-available/"><u>Explore the Top Online Tech Training Courses Available</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015720658-hp-laptop-audio-dilemma-in-windows-10-heres-how-to-restore-your-sound-output/"><u>HP Laptop Audio Dilemma in Windows 10? Here's How to Restore Your Sound Output!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-unleashing-fun-crafting-amazing-youtube-reaction-videos-in-3-ways/"><u>In 2024, Unleashing Fun Crafting Amazing YouTube Reaction Videos in 3 Ways</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-security-implementing-custom-pattern-locks-in-windows/"><u>Tailored Security: Implementing Custom Pattern Locks in Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tomorrows-evaluation-creative-pathways/"><u>Tomorrow’s Evaluation Creative Pathways</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-your-stereo-audio-problems-quickly/"><u>Troubleshooting and Repairing Your Stereo Audio Problems Quickly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-malfunctions-in-the-game-resident-evil-village/"><u>Troubleshooting Audio Malfunctions in the Game Resident Evil Village</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-restoring-volume-in-mozilla-firefox/"><u>Troubleshooting Complete: Restoring Volume in Mozilla Firefox</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-solving-logitech-g533-headset-mic-issues-all-cases-covered/"><u>Troubleshooting Tips for Solving Logitech G533 Headset Mic Issues - All Cases Covered</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-solving-issues-with-your-corsair-void-microphone/"><u>Troubleshooting Tips: Solving Issues with Your Corsair Void Microphone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-techniques-for-silencing-audio-tracks-in-matroska-files-mkv/"><u>Ultimate Techniques for Silencing Audio Tracks in Matroska Files (MKV)</u></a></li>
 </ul></div>
 

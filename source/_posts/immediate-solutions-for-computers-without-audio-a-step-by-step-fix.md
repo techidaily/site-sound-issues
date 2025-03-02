@@ -1,7 +1,7 @@
 ---
 title: "Immediate Solutions for Computers Without Audio: A Step-by-Step Fix"
-date: 2025-02-07T19:00:26.508Z
-updated: 2025-02-10T20:10:32.345Z
+date: 2025-02-24T19:20:48.003Z
+updated: 2025-03-01T20:37:34.675Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ There is**no sound on your Dell laptop** when you’re listening to music or wat
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix no sound on Dell laptop
 
@@ -62,10 +58,6 @@ There is**no sound on your Dell laptop** when you’re listening to music or wat
 
  Try disconnecting and reconnecting and see if there is any sound. Or you can try another mic or headphone and see if where the problem lies in.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Check the audio settings
 
 [**FIX IT NOW >>**](https://tools.techidaily.com/drivereasy/download/)
@@ -82,10 +74,6 @@ There is**no sound on your Dell laptop** when you’re listening to music or wat
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9b7cf0591ed.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9b7d1c24965.jpg)
 
  If you’re on Windows 11, you should press the**Windows log + I keys** simultaneously to open Settings, then go to**System > Sound > More sound settings** .
@@ -94,17 +82,9 @@ There is**no sound on your Dell laptop** when you’re listening to music or wat
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9b7dce76071.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click on your speaker device, and select **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9b7e2abca86.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Then select your speaker device, and click **Set Default** to set your device as the default audio device.
 
@@ -128,19 +108,11 @@ There is**no sound on your Dell laptop** when you’re listening to music or wat
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9b7cf0591ed.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9b7d1c24965.jpg)
 
  2) Under the **Playback** tab, select your audio device, and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9b7f53b8c19.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the **Advanced** tab. In the **Default Format** section, select different **audio format** , then click the **Test** button. See if you hear any sound.
 
@@ -174,10 +146,6 @@ There is**no sound on your Dell laptop** when you’re listening to music or wat
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/driver-easy-scan.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to the flagged audio device to automatically download the correct version of their driver (you can do this with the **FREE** version), then install it in your computer.
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **_Update All_** ).
@@ -205,10 +173,6 @@ There is**no sound on your Dell laptop** when you’re listening to music or wat
  4) If you see a popup to confirm, check the box next to **Delete the driver software for this device** , and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9b8341c9dc1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) After uninstalling, double click **Audio inputs and outputs** to expand the category.
 
@@ -244,17 +208,18 @@ There is**no sound on your Dell laptop** when you’re listening to music or wat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-mastering-snapchat-boomerangs-ultimate-instructions/"><u>[New] Mastering Snapchat Boomerangs Ultimate Instructions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pairing-video-cameras-with-desktop-captures/"><u>[Updated] Pairing Video Cameras with Desktop Captures</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-times-own-tutorial-swiftly-reverse-iphone-videos-for-2024/"><u>[Updated] Time's Own Tutorial Swiftly Reverse iPhone Videos for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-secrets-to-successful-twitpicingvideo-edition/"><u>2024 Approved Secrets to Successful Twitpicing—Video Edition</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-newest-nvidia-gpu-drivers-optimized-performance-for-windows-10-users/"><u>Get the Newest Nvidia GPU Drivers: Optimized Performance for Windows 10 Users!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ghost-recon-breakpoint-enhancements-easy-fixes-for-seamless-gaming-sessions/"><u>Ghost Recon Breakpoint Enhancements: Easy Fixes for Seamless Gaming Sessions!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-your-headphones-mic-malfunction-on-a-windows-11-pc/"><u>How to Fix Your Headphones' Mic Malfunction on a Windows 11 PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcome-the-challenge-restoring-sound-to-your-game-with-cyberpunk-2077-on-windows-10/"><u>Overcome the Challenge: Restoring Sound to Your Game with Cyberpunk 2077 on Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-hyperx-cloud-alpha-s-microphone-issues-a-step-by-step-guide/"><u>Solving HyperX Cloud Alpha S Microphone Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-idt-advanced-audio-codec-setup-on-microsofts-latest-os/"><u>Step-by-Step Solution for IDT Advanced Audio Codec Setup on Microsoft's Latest OS</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/taming-data-management-how-chatgpt-can-revolutionize-your-excel-workflows/"><u>Taming Data Management: How ChatGPT Can Revolutionize Your Excel Workflows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/win-7-troubleshooting-guide-restoring-audio-on-external-headphones/"><u>Win 7 Troubleshooting Guide: Restoring Audio on External Headphones</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-best-practices-for-high-quality-streaming-of-sporting-games/"><u>[Updated] Best Practices for High-Quality Streaming of Sporting Games</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-lightning-leap-fame-mastering-instagram-with-these-15-essential-easy-tips-for-overnight-success-for-2024/"><u>[Updated] Lightning Leap Fame Mastering Instagram with These 15 Essential, Easy Tips for Overnight Success for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfect-your-soundtracks-essential-edits-for-crafting-podcasts-in-garageband/"><u>2024 Approved Perfect Your Soundtracks Essential Edits for Crafting Podcasts in GarageBand</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-exclusive-offers-the-best-deals-on-verizon-upgrades-this-month/"><u>Discover Exclusive Offers: The Best Deals on Verizon Upgrades This Month</u></a></li>
+<li><a href="https://win11.techidaily.com/harnessing-unused-disk-space-in-windows-efficiently/"><u>Harnessing Unused Disk Space in Windows Efficiently</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-silence-speaker-feedback-and-humming-noises-asap/"><u>How to Silence Speaker Feedback and Humming Noises ASAP</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-facetune-a-thorough-app-guide/"><u>In 2024, Mastering Facetune A Thorough App Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-infinix-note-30i-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Infinix Note 30i FRP</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-battlefield-expert-guide-to-fixing-no-sound-glitch-in-call-of-dutys-fortnite-2024-insights/"><u>Mastering the Battlefield: Expert Guide to Fixing No-Sound Glitch in Call of Duty's Fortnite - 2024 Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-audio-in-battlefield-4-troubleshooting-guide-and-solutions/"><u>No Audio in Battlefield 4? Troubleshooting Guide and Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/repair-guide-how-to-restore-your-devices-primary-audio-connection/"><u>Repair Guide: How to Restore Your Device's Primary Audio Connection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-avcodecdll-file-not-found-a-step-by-step-guide/"><u>Resolving the avcodec.dll File Not Found - A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-a-non-functional-razer-kraken-mic-effective-solutions-proven-successful/"><u>Reviving a Non-Functional Razer Kraken Mic: Effective Solutions Proven Successful</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Your HyperX Cloud Alpha Headset: A Complete Guide to Repairing the Microphone"
-date: 2024-12-03T17:58:28.942Z
-updated: 2024-12-10T21:09:50.439Z
+date: 2025-02-26T04:06:07.038Z
+updated: 2025-03-01T18:46:30.210Z
 tags:
   - win11
   - win10
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hx-product-headset-alpha-s-black-2-lg-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’ve attached the microphone to your headset correctly but your mic still won’t catch your voice, try the next fix.
 
 ## Fix 2: Enable your headset mic for recording
@@ -65,15 +61,7 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-06-58.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If your headset is enabled for recording but the microphone is still not working, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Set your headset as the audio input device
 
@@ -86,15 +74,7 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/set-input-device.jpg)
 3. Test your microphone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If your headset is set as the input device but the mic still won’t work, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Turn on the mic access on your PC
 
@@ -105,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 2. Click**Change** , then**turn on the microphone access** **for this device** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-10-26.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If this doesn’t fix your mic problem, try the next fix.
 
@@ -153,24 +129,24 @@ If this doesn’t fix your mic problem, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-elite-video-capture-our-picks-of-the-best-18-camcorders/"><u>[New] 2024 Approved Elite Video Capture Our Picks of the Best 18 Camcorders</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-essential-tools-for-android-and-ios-users-seeking-playlist-extractors/"><u>[New] Essential Tools for Android & iOS Users Seeking Playlist Extractors</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-precision-in-prose-enhancing-narrative-scripts-for-2024/"><u>[New] Precision in Prose Enhancing Narrative Scripts for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-pun-picture-studio-chucklecrafts/"><u>[Updated] 2024 Approved Pun Picture Studio ChuckleCrafts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-virtual-universe-showdown-meta-and-omni-explored/"><u>[Updated] 2024 Approved Virtual Universe Showdown Meta & Omni Explored</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/best-quality-steadicam-equipment-for-drone-filmmaking/"><u>Best-Quality Steadicam Equipment for Drone Filmmaking</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/common-astro-a10-mic-issues-and-proven-fixes-overcoming-audio-troubles/"><u>Common Astro A10 Mic Issues and Proven Fixes: Overcoming Audio Troubles</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-solutions-overcoming-silent-speakers-fixes-for-conexant-smartaudio-hd-on-windows-11/"><u>Comprehensive Solutions: Overcoming Silent Speakers – Fixes for Conexant SmartAudio HD on Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-tutorial-installing-hyper-v-features-on-windows-10-computers/"><u>Comprehensive Tutorial: Installing Hyper-V Features on Windows 10 Computers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/corsair-virtuoso-mic-woes-heres-how-to-get-it-working-again/"><u>Corsair Virtuoso Mic Woes? Here's How to Get It Working Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/epson-scanner-non-operative-issues-in-windows-11-fixes/"><u>Epson Scanner Non-Operative Issues in Windows 11: Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-repairing-your-google-meet-audio-setup-in-windows-1110-environments/"><u>Expert Tips: Repairing Your Google Meet Audio Setup in Windows 11/10 Environments</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-windows-scanner-issues-permanently/"><u>Fixing Windows Scanner Issues Permanently</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-discord-push-to-talk-back-online-a-fix-for-when-it-stops-responding/"><u>Getting Discord Push-to-Talk Back Online: A Fix For When It Stops Responding</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functional-razer-man-o-war-microphone-a-step-by-step-guide/"><u>How to Fix a Non-Functional Razer Man O' War Microphone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-keeps-cutting-out-windows-11/"><u>How to Fix Audio Keeps Cutting Out Windows 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-oneplus-11-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change OnePlus 11 5G Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/reestablishing-game-pass-connectivity-post-error/"><u>Reestablishing Game Pass Connectivity Post-Error</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/what-sets-auto-gpt-apart-a-contrast-with-the-popular-chatgpt/"><u>What Sets Auto-GPT Apart? A Contrast with the Popular ChatGPT</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-plain-screeners-toolkit-for-win10-users/"><u>[New] Plain Screener's Toolkit for Win10 Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-cutting-edge-conversion-tips-avi-to-gif-using-filmora-for-windowsmac-users-for-2024/"><u>[Updated] Cutting-Edge Conversion Tips AVI to GIF Using Filmora for Windows/Mac Users for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/channel-cross-promotion-the-art-of-collaborative-co-stars/"><u>Channel Cross-Promotion The Art of Collaborative Co-Stars</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/enhancing-video-presence-editing-and-changing-facebook-covers-for-2024/"><u>Enhancing Video Presence Editing and Changing Facebook Covers for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>How to Change Location on TikTok to See More Content On your Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-yuva-2-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Lava Yuva 2 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-on-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share on Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-in-the-ring-of-creatives-evaluating-own-and-adversary-arts/"><u>In 2024, In the Ring of Creatives Evaluating Own and Adversary Arts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/progressive-visual-prelude/"><u>Progressive Visual Prelude</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009729174-smooth-sailing-for-fallout-4-tackle-stutter-problems-today/"><u>Smooth Sailing for Fallout 4: Tackle Stutter Problems Today</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-mystery-a-step-by-step-guide-to-eliminating-that-annoying-buzz-from-your-headphones/"><u>Solving the Mystery: A Step-by-Step Guide to Eliminating That Annoying Buzz From Your Headphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/stable-audio-conversations-in-discord-the-ultimate-2024-solution-guide/"><u>Stable Audio Conversations in Discord: The Ultimate 2024 Solution Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-deactivating-the-built-in-sound-effects-for-better-audio-on-windows-e/"><u>Step-by-Step Guide: Deactivating the Built-In Sound Effects for Better Audio on Windows E</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-fixing-a-non-responsive-corsair-virtuoso-microphone/"><u>Step-by-Step Guide: Fixing a Non-Responsive Corsair Virtuoso Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/successful-installation-guide-idt-high-definition-codec-driver-on-windows-10/"><u>Successful Installation Guide: IDT High Definition Codec Driver on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-non-functional-laptop-speakers/"><u>Troubleshooting Guide: Fixing Non-Functional Laptop Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-repair-a-non-functioning-astro-a20-mic/"><u>Troubleshooting Guide: How to Repair a Non-Functioning Astro A20 Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-tozo-t6-on-windows-11/"><u>Troubleshooting Guide: Resolving Issues with Tozo T6 on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-systems-how-to-restore-your-laptops-sound/"><u>Troubleshooting Silent Systems: How to Restore Your Laptop's Sound</u></a></li>
 </ul></div>
 

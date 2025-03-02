@@ -1,7 +1,7 @@
 ---
 title: "Easy Fixes for Noisy Earbuds: Stop the Crackles Now"
-date: 2025-02-04T22:57:39.055Z
-updated: 2025-02-11T06:07:05.086Z
+date: 2025-02-24T23:18:22.573Z
+updated: 2025-03-01T19:37:51.231Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Check for hardware issues
 
 1. Try the headphone on other devices and see if it works.
@@ -52,10 +48,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 2: Disable Exclusive Mode and change the sound format**
 
  Having **Exclusive Mode**   on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the **crackling or popping sound** in headphone  problem. To disable **Exclusive Mode** :
@@ -63,17 +55,9 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
  1) On the bottom right of your screen, right-click on**the sound icon** , then click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/12sound.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the**Playback** tab, right-click on**speakers** and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the**Advanced** tab, un-check **the box** before **Allow applications to take exclusive control of this device** . Then click **Apply** \> **OK** .
 
@@ -84,10 +68,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
  5) Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Hopefully the popping/crackling sound in your headphone problem has gone by now. If not, you might also want to change it to other audio formats to see if it works.
 
@@ -156,21 +136,19 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-no-more-ads-convert-fb-videos-to-1080p720p-mp4-online-for-free/"><u>[New] 2024 Approved No More Ads? Convert FB Videos to 1080P/720p MP4 Online for Free</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/recovered-functional-epson-scanner-in-windows-11-again/"><u>[RECOVERED] Functional Epson Scanner in Windows 11 Again</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-harness-googles-skill-for-accurate-speech-to-text-conversion/"><u>[Updated] 2024 Approved Harness Google's Skill for Accurate Speech to Text Conversion</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-examining-screen-capture-efficacy-obs-studio-vs-fraps/"><u>[Updated] Examining Screen Capture Efficacy OBS Studio vs Fraps</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/bluetooth-tethering-made-easy-a-comprehensive-guide-for-linking-your-android-device-to-a-laptop/"><u>Bluetooth Tethering Made Easy: A Comprehensive Guide for Linking Your Android Device to a Laptop</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-non-functional-onikuma-mic-success-stories/"><u>Diagnosing and Repairing Non-Functional Onikuma Mic: Success Stories</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-to-fix-headphone-connectivity-problems-on-your-pc-running-windows-nformation/"><u>Expert Tips to Fix Headphone Connectivity Problems on Your PC Running Windows Nformation</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-address-your-laptops-no-sound-dilemma-with-simple-fixes/"><u>How to Address Your Laptop's No-Sound Dilemma with Simple Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-your-windows-1011s-bluetooth-sound-cut-out-problems-easily/"><u>How to Resolve Your Windows 10/11'S Bluetooth Sound Cut-Out Problems Easily</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-realme-c55-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-step-by-step-ppt-and-vo-integration-tutorial/"><u>In 2024, Step-by-Step PPT & VO Integration Tutorial</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-job-application-stature-chatgpt-resume-tactics/"><u>Transform Your Job Application Stature (ChatGPT Resume Tactics)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-dell-sound-card-malfunctions-on-windows-7-system/"><u>Troubleshooting Dell Sound Card Malfunctions on Windows 7 System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-silent-hp-notebooks-solutions-inside/"><u>Troubleshooting Guide: Fixing Silent HP Notebooks - Solutions Inside</u></a></li>
-<li><a href="https://win-guides.techidaily.com/wiederherstellung-verlorener-daten-nach-versehentiger-loschung-mit-diskpart/"><u>Wiederherstellung Verlorener Daten Nach Versehentiger Löschung Mit Diskpart</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-unveiling-the-top-10-mobile-battle-strategies/"><u>[Updated] 2024 Approved Unveiling the Top 10 Mobile Battle Strategies</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-advanced-screen-recording-methods-on-dell-laptops-for-2024/"><u>[Updated] Advanced Screen Recording Methods on Dell Laptops for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-effortlessly-preserve-your-linkedin-content-with-the-best-6-apps/"><u>[Updated] Effortlessly Preserve Your LinkedIn Content with The Best 6 Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pinnacle-creations-summary-studio-25-detailed-assessment-2023/"><u>2024 Approved Pinnacle Creations Summary Studio 25 Detailed Assessment, 2023</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1725290611003-dvddigiarty/"><u>安全なDVDコピー手法：Digiarty公式ブログに掲載される情報源</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-vivo-v30-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Vivo V30</u></a></li>
+<li><a href="https://extra-information.techidaily.com/gimbal-innovation-markets-elite-selections/"><u>Gimbal Innovation Market's Elite Selections</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-nokia-g42-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Nokia G42 5G Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-max-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro Max To Other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/skype-not-playing-sound-heres-how-you-can-fix-it-instantly/"><u>Skype Not Playing Sound? Here's How You Can Fix It Instantly!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/skype-volume-troubles-heres-how-you-can-fix-it/"><u>Skype Volume Troubles? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-sound-on-your-hp-notebook/"><u>Solved! How to Restore Sound on Your HP Notebook</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-persistent-issue-of-intermittent-sound-on-windows-11/"><u>Solving the Persistent Issue of Intermittent Sound on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-windows-10-and-11s-bluetooth-sound-stuttering-a-step-by-step-guide/"><u>Solving Windows 10 and 11'S Bluetooth Sound Stuttering: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

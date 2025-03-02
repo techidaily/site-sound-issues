@@ -1,7 +1,7 @@
 ---
 title: How to Regain Sound Functionality Following the Most Recent Update for Windows 11 Systems
-date: 2025-02-10T00:13:38.306Z
-updated: 2025-02-11T06:29:23.992Z
+date: 2025-02-23T04:57:50.673Z
+updated: 2025-03-02T11:29:59.522Z
 tags:
   - win11
   - win10
@@ -36,10 +36,6 @@ When you’re trying to trick your friends by changing your voice in Discord, Zo
 6. **[Overwrite current version with fresh install](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Scan and repair your system](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your PC
 
  In some way,**a restart of your computer** could address software conflicts and fix some faulty settings. Also, some changes might need a reboot to take effect. Restart your PC should always be your first step when troubleshooting voice issues — You’d be surprised how often the “turn it off and turn it back on again” trick works.
@@ -56,10 +52,6 @@ You can follow these steps to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/windows-settings-system-sound-1.jpg)
 2. From the left menu, click**Sound** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/windows-settings-click-sound.jpg)
 3. First you need to test your microphone. Under the**Input** section, set your input device to the**physical one (e.g. Headset)** instead of the virtual Microphone of Voicemod. Then click**Device properties and test microphone** .  
 
@@ -68,10 +60,6 @@ You can follow these steps to check:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
 5. Click **Start test** and tap or speak to your microphone. Then click **Stop test** . If you’re prompted **The highest value we saw was xx (xx>0) percent** , it means your microphone is working correctly.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/test-mic-new.jpg)
 6. At the bottom right corner of your screen, right-click the sound icon and select**Sounds** .  
@@ -84,10 +72,6 @@ You can follow these steps to check:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/internal-microphone-advanced-default-format-sample-rate-new.jpg)
 9. In the window of step 7, select**Microphone Voicemod Virtual Audio Device** and click**Set Default** . Then click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/voicemod-sound-set-default.jpg)
 
@@ -106,15 +90,7 @@ Here’s an example of Discord:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/discord-voicemod-settings.jpg)
 3. Now you can check if Voicemod is working correctly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If this doesn’t work for you, simply move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall Voicemod drivers
 
@@ -126,19 +102,11 @@ First you need to uninstall the Voicemod driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/device-manager-run-box-ok.jpg)
 2. Click to expand**Audio inputs and outputs** . Right-click**Microphone (Voicemod Virtual Audio Device (WDM))** and select**Uninstall device** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/voicemod-reinstall-1.jpg)
 3. In the pop-up window, click**Uninstall** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/voicemod-reinstall-2.jpg)
 4. Restart your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next you’ll need to install the Voicemod driver. You can do that manually or automatically.
 
@@ -180,10 +148,6 @@ Here’s a quick guide for that:
 
 If this fix doesn’t work for you, simply try the next one below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Overwrite current version with fresh install
 
  Some users reported that reinstalling could fix the Voicemod issue. You can try the same and see if this works. Note that this time we’re taking a different approach—instead of uninstalling, we just**overwrite the current version with the latest** .
@@ -224,21 +188,18 @@ If this fix doesn’t work for you, simply try the next one below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-easily-download-specific-youtube-sections/"><u>[Updated] Easily Download Specific YouTube Sections</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-echoes-of-calls-past-iphones-audio-archive/"><u>[Updated] Echoes of Calls Past - iPhone's Audio Archive</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-shine-up-advanced-setups-to-make-your-clips-pop/"><u>[Updated] In 2024, Shine Up Advanced Setups to Make Your Clips Pop</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-steps-to-resolve-unusual-self-viewer-mistakes-in-chats/"><u>[Updated] In 2024, Steps to Resolve Unusual Self-Viewer Mistakes in Chats</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-nes-switch-brawlers-the-ultimate-10-game-guide/"><u>[Updated] NES Switch Brawlers The Ultimate 10-Game Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-real-time-visualizer/"><u>2024 Approved Real-Time Visualizer</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/choosing-your-champion-a-detailed-comparison-of-iphone-15-pro-and-pro-max/"><u>Choosing Your Champion: A Detailed Comparison of iPhone 15 Pro and Pro Max</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-strategies-for-resolving-stalled-audio-system-problems-fixed/"><u>Effective Strategies for Resolving Stalled Audio System Problems [Fixed]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016241495-no-sounds-in-apex-legends-heres-how-you-can-resolve-it/"><u>No Sounds in Apex Legends? Here's How You Can Resolve It</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/noise-free-ai-transcription-technology/"><u>Noise-Free AI Transcription Technology</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-local-sam-service-issues/"><u>Overcoming Local SAM Service Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reactivate-audio-while-using-zoom-effective-solutions-for-desktop-users/"><u>Reactivate Audio While Using Zoom: Effective Solutions for Desktop Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-sound-problems-on-pc-fast-and-effective-solutions-inside/"><u>Solve Sound Problems on PC - Fast and Effective Solutions Inside!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-obs-desktop-sound-recording-problems/"><u>Step-by-Step Solutions for OBS Desktop Sound Recording Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-dell-speakers-malfunctioning-with-these-simple-steps/"><u>Troubleshoot Dell Speakers Malfunctioning with These Simple Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-solving-your-microphone-lag-issues/"><u>Ultimate Guide: Solving Your Microphone Lag Issues</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-comprehensive-m1-max-clip-insight-for-2024/"><u>[New] The Comprehensive M1 Max Clip Insight for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-instagram-engage-obs-live-streaming/"><u>[Updated] 2024 Approved Instagram Engage OBS Live Streaming</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ultimate-backdrop-change-kit-pixelpioneers-reveal-for-2024/"><u>[Updated] Ultimate Backdrop Change Kit PixelPioneer's Reveal for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/2024-ultimate-fix-guide-overcoming-jabra-wireless-headset-challenges/"><u>2024 Ultimate Fix Guide: Overcoming Jabra Wireless Headset Challenges</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/achieve-loud-and-clear-sounds-tips-for-enhancing-volume-in-windows-11/"><u>Achieve Loud and Clear Sounds: Tips for Enhancing Volume in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bringing-back-the-buzz-troubleshooting-no-sound-problems-on-windows-11/"><u>Bringing Back the Buzz: Troubleshooting No Sound Problems on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-lack-of-sound-output-on-windows-media-player/"><u>Diagnosing and Repairing Lack of Sound Output on Windows Media Player</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/disconnect-other-usb-devices-from-the-pc-and-try-connecting-tozo-t6-again-since-a-device-may-not-function-correctly-due-to-limited-usb-ports/"><u>Disconnect Other USB Devices From the PC and Try Connecting Tozo T6 Again, Since a Device May Not Function Correctly Due to Limited USB Ports.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/essential-tips-for-resolving-outriders-audio-troubles-efficiently/"><u>Essential Tips for Resolving Outriders' Audio Troubles Efficiently</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-iphone-13-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and iPhone 13 Pro Max iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ing-up-mr-beasts-billions/"><u>Tallying Up Mr. Beast's Billions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-ten-mobile-sticker-adornment-apps-for-photos/"><u>Top Ten Mobile Sticker Adornment Apps for Photos</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-discover-the-best-free-green-screen-apps-for-mobile-video-editing/"><u>Updated 2024 Approved Discover the Best Free Green Screen Apps for Mobile Video Editing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Call of Duty Mobile Silence Solved: Top Tips and Tricks to Bring Back Warzone Sound for PC Users"
-date: 2025-02-09T23:54:27.727Z
-updated: 2025-02-10T22:54:04.446Z
+date: 2025-02-26T07:50:45.045Z
+updated: 2025-03-02T14:23:17.045Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/8f68fe379c1fc55633560bfb567af056a8ac88cb0
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -51,10 +47,6 @@ If the connection is fine, check out the next fix below.
 
  If you’re not using any peripherals, simply move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Change your default recording device
 
  Normally, Windows will automatically set your audio device as the system default once they’re plugged in. But that’s not always the case. Sometimes you’ll need to**set your device as the default one manually** . You can follow the instructions below to make sure your settings are correct.
@@ -73,15 +65,7 @@ First you need to check the default audio device on your system:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
 4. Click **Start test** and tap or speak to your microphone. Then click **Stop test** . If you’re prompted **The highest value we saw was xx (xx > 0) percent** , it means your microphone has been set up correctly.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/sound-test-percent.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Set up your mic correctly in the Battle.net client
 
@@ -92,15 +76,7 @@ Next, you need to check the voice chat settings in the Battle.net client:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/battle-net-settings-1.jpg)
 3. On the menu to your left, select **Voice Chat** . Set **OUTPUT DEVICE** and **INPUT DEVICE** to **System Default Device** . Then click **Done** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-voice-chat.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now launch Black Ops Cold War and see if you can talk to others.
 
@@ -160,10 +136,6 @@ Here’s a quick guide for that:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will download and install the available updates. Wait for the process to complete.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -189,22 +161,21 @@ Here’s a quick guide for that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-unleashing-your-cameras-potential-with-top-rated-drones-gimbals-for-2024/"><u>[New] Unleashing Your Camera's Potential with Top-Rated Drones Gimbals for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-eye-popping-360-cameras-deciding-the-best/"><u>[Updated] Eye-Popping 360 Cameras Deciding the Best</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-premier-listing-sierras-best-video-maker-apps/"><u>[Updated] Premier Listing Sierra's Best Video Maker Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-understanding-the-impact-of-macos-11-big-sur-on-users/"><u>[Updated] Understanding the Impact of macOS 11 Big Sur on Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/complete-repair-solutions-for-unresponsive-beyond-the-wire-microphone-issues/"><u>Complete Repair Solutions for Unresponsive 'Beyond The Wire' Microphone Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-non-functional-headphones-in-the-windows-10-environment/"><u>Diagnosing and Fixing Non-Functional Headphones in the Windows 10 Environment</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-no-audio-issues-on-your-hp-device-running-windows-11/"><u>Fixing No Audio Issues on Your HP Device Running Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-your-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>How to identify malfunctioning your drivers with Windows Device Manager on Windows 7</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-optimal-aerial-vehicles-your-next-purchase/"><u>In 2024, Optimal Aerial Vehicles Your Next Purchase</u></a></li>
-<li><a href="https://fox-search.techidaily.com/ipad-dj-dex-trial-opportunity-help-us-perfect-the-ultimate-music-mixing-app/"><u>IPad DJ DEX Trial Opportunity - Help Us Perfect the Ultimate Music Mixing App!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-signing-up-for-chatgpt-plus-justifiable-discover-five-convincing-reasons-why/"><u>Is Signing up for ChatGPT Plus Justifiable? Discover Five Convincing Reasons Why!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-pubg-call-audio-troubles-quick-tips-and-solutions-for-gamers/"><u>Solving PUBG Call Audio Troubles: Quick Tips & Solutions for Gamers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/swift-fixes-overcoming-audio-troubles-the-test-tone-failure-explained/"><u>Swift Fixes: Overcoming Audio Troubles - The Test Tone Failure Explained</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-full-spectrum-slomo-recording-app-evaluation/"><u>The Full Spectrum SloMo Recording App Evaluation</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-dota-2-microphone-issues-a-step-by-step-fix-guide/"><u>Troubleshooting Dota 2 Microphone Issues: A Step-by-Step Fix Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-mic-issues-in-sea-of-thieves-solutions-for-windows-players/"><u>Troubleshooting Mic Issues in Sea of Thieves: Solutions for Windows Players</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/user-friendly-techniques-successfully-dealing-with-failed-sound-experiments/"><u>User-Friendly Techniques: Successfully Dealing with Failed Sound Experiments</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-discovering-the-best-screen-recording-programs-for-win11/"><u>[New] Discovering the Best Screen Recording Programs for Win11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-a-guide-to-gauging-igtv-video-impressions/"><u>2024 Approved A Guide to Gauging IGTV Video Impressions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-deciphers-for-digital-content-creators-youtubes-keyword-techniques/"><u>2024 Approved Deciphers for Digital Content Creators YouTube's Keyword Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-your-gaming-score-with-complete-badge-collection/"><u>Boost Your Gaming Score with Complete Badge Collection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-prescription-for-peacefulness/"><u>ChatGPT’s Prescription for Peacefulness</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-hardware-needs-for-optimal-fortnite-gaming-performance/"><u>Decoding the Hardware Needs for Optimal Fortnite Gaming Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-hyperx-cloud-microphone-issues-troubleshooting-tips/"><u>Fixing HyperX Cloud Microphone Issues: Troubleshooting Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-audio-dilemma-sony-wh-1000-headphones-mic-malfunction-on-pcs-explained/"><u>Fixing the Audio Dilemma: Sony WH-1000 Headphones Mic Malfunction on PCs Explained</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-non-functional-voice-chat-feature-on-rainbow-six-siege-a-guide-for-gamers/"><u>Fixing the Non-Functional Voice Chat Feature on Rainbow Six Siege - A Guide for Gamers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-call-a-user-friendly-approach-to-skype-audio-glitches/"><u>Fixing the Silent Call: A User-Friendly Approach to Skype Audio Glitches</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-back-in-action-with-these-simple-solutions-for-apex-legends-voice-chat/"><u>Get Back in Action with These Simple Solutions for Apex Legends Voice Chat</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-creative-pebble-audio-players-up-and-running-with-these-proven-repair-techniques/"><u>Get Your Creative Pebble Audio Players Up and Running with These Proven Repair Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-restoring-audio-resolving-no-speakers-found-or-headphones-unplugged-error-on-windows/"><u>Guide to Restoring Audio: Resolving 'No Speakers Found' Or Headphones Unplugged Error on Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210401429-9781956803198-the-diary-of-a-soul/"><u>The Diary of a Soul | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ins-and-outs-of-cellular-communication-companies-explained/"><u>The Ins and Outs of Cellular Communication Companies Explained</u></a></li>
 </ul></div>
 

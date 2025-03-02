@@ -1,7 +1,7 @@
 ---
 title: DIY Fixes for a Non-Functional Logitech G230 Mic – Resolved
-date: 2025-02-05T16:15:26.472Z
-updated: 2025-02-11T01:25:14.185Z
+date: 2025-02-28T06:09:18.742Z
+updated: 2025-03-01T19:17:10.104Z
 tags:
   - win11
   - win10
@@ -42,19 +42,7 @@ This issue may occur if your Logitech G230 is not set as the default device, or 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**control** and press**Enter** to open**Control Panel** . ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000092.png)
 2. **View Control Panel by Category** . Then click**Hardware and Sound** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000093.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click**Sound** to continue.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000094.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Click the **Recording**  tab, then**right-click** on any empty place inside the device list and tick **Show Disabled Devices** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap892.png)
 5. Right-click the**Headset Microphone** and click **Enable** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap893-1.png)
@@ -75,10 +63,6 @@ If you don’t allow Windows 10 and applications to access your microphone, you 
 
 Check if your Logitech G230 mic works. If not, try the next fix below to update your audio driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 3: Update your audio driver**
 
 An outdated or corrupted audio driver can also be the root of this issue. To fix it, you just need to update your audio driver to the latest version.There are two ways to update your sound card driver: **manually**  and **automatically** . **Update your sound card driver manually**  – You can update your sound card driver manually by going to the manufacturer’s website, and searching for the latest driver for your sound card.
@@ -95,16 +79,8 @@ An outdated or corrupted audio driver can also be the root of this issue. To fix
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000027-4.png)
 3. Click **Update**  next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee ).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap0029-1.png)  
  You can do it for free if you like, but it’s partly manual.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -135,18 +111,22 @@ Hopefully one of the fixes above resolved this issue for you. If you have any qu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-exploring-abyss-underwater-video-tips-using-a-gopro-camera/"><u>[New] 2024 Approved Exploring Abyss Underwater Video Tips Using a GoPro Camera</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-exploring-hexacopter-wonders-10-list/"><u>[Updated] Exploring Hexacopter Wonders - #10 List</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-from-light-to-shadow-premiere-pro-transitions-for-2024/"><u>[Updated] From Light to Shadow Premiere Pro Transitions for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-navigating-the-world-of-cost-free-text-animation-techniques/"><u>[Updated] Navigating the World of Cost-Free Text Animation Techniques</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/5-solutions-for-google-pixel-8-unlock-without-password-by-drfone-android/"><u>5 Solutions For Google Pixel 8 Unlock Without Password</u></a></li>
-<li><a href="https://win-web3.techidaily.com/1728473053265-aomei-backupper/"><u>AOMEI Backupper: 詳盡教你如何配置自動儲存計畫（週期性备份流程）</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/cutting-through-the-noise-clear-crisp-audio-solutions-for-problematic-playbacks-on-windows-117-platforms/"><u>Cutting Through the Noise: Clear, Crisp Audio Solutions for Problematic Playbacks on Windows 11/7 Platforms.</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-pc-fall-guys-from-crashing-during-gameplay/"><u>How to Stop [PC] Fall Guys From Crashing During Gameplay</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximal-learning-made-easy-how-students-can-leverage-chatgpts-power/"><u>Maximal Learning Made Easy: How Students Can Leverage ChatGPT's Power</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/rectifying-audio-connection-problems-with-speakers-and-headphones-in-windows-1087/"><u>Rectifying Audio Connection Problems with Speakers and Headphones in Windows 10/8/7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reinstating-windows-scan-tool-efficiency/"><u>Reinstating Windows Scan Tool Efficiency</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-audio-features-the-ultimate-troubleshooting-tips-for-sound-problems-in-hp-notebooks-with-win10-solved/"><u>Reviving Audio Features: The Ultimate Troubleshooting Tips for Sound Problems in HP Notebooks with Win10 [SOLVED]</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-future-pioneers-8-rapidly-expanding-video-ventures/"><u>[Updated] Future Pioneers 8 Rapidly Expanding Video Ventures</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-explore-and-evaluate-top-7-free-android-adblockers-unveiled/"><u>[Updated] In 2024, Explore & Evaluate Top 7 Free Android AdBlockers Unveiled</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-utilizing-continuous-lights-for-comfortable-filming/"><u>2024 Approved Utilizing Continuous Lights for Comfortable Filming</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhancing-engagement-a-beginners-guide-to-captioning-your-instagram-story-highlights/"><u>Enhancing Engagement: A Beginner's Guide to Captioning Your Instagram Story Highlights</u></a></li>
+<li><a href="https://article-posts.techidaily.com/how-to-curve-images-in-photoshop/"><u>How to Curve Images in Photoshop</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-use-the-background-eraser-tool-in-photoshop-detailed-guide/"><u>How To Use The Background Eraser Tool In Photoshop Detailed Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-weaving-individual-snaps-into-a-cohesive-tapestry/"><u>In 2024, Weaving Individual Snaps Into a Cohesive Tapestry</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/latest-exclusive-discounts-on-verizon-phone-plans/"><u>Latest Exclusive Discounts on Verizon Phone Plans</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-how-to-record-audio-with-audacity-for-free/"><u>New In 2024, How to Record Audio with Audacity for Free?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-to-reactive-your-mic-in-counter-strike-2-common-fixes-covered/"><u>Step-by-Step Solution to Reactive Your Mic in Counter Strike 2 - Common Fixes Covered</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-addressing-the-common-issue-of-non-working-laptop-speakers/"><u>Troubleshoot & Repair: Addressing the Common Issue of Non-Working Laptop Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-effortlessly-astro-a20-audio-problems-and-fixes/"><u>Troubleshoot Effortlessly: Astro A20 Audio Problems and Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-how-to-solve-bluetooth-issues-in-windows-11/"><u>Troubleshooting & Fixing: How to Solve Bluetooth Issues in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-playback-problems-a-guide-to-solving-sound-issues-on-pc/"><u>Troubleshooting and Fixing Playback Problems: A Guide to Solving Sound Issues on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fix-windows-11-audio-issues/"><u>Troubleshooting Guide: Fix Windows 11 Audio Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-a-non-functional-front-panel-audio-jack/"><u>Troubleshooting Guide: Fixing a Non-Functional Front Panel Audio Jack</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-your-corsair-virtuoso-mic/"><u>Troubleshooting Guide: Resolving Issues with Your Corsair Virtuoso Mic</u></a></li>
 </ul></div>
 

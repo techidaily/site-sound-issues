@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Your PC's Sound Difficulties in Windows 11 - A Step-by-Step Approach
-date: 2024-12-09T20:42:11.032Z
-updated: 2024-12-10T18:23:49.359Z
+date: 2025-02-23T02:17:31.021Z
+updated: 2025-03-01T22:47:33.664Z
 tags:
   - win11
   - win10
@@ -50,10 +50,6 @@ You’re joining an online meeting on Zoom but find the microphone isn’t worki
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** **Toggle on** to allow apps to access your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-4.jpg)
@@ -78,33 +74,17 @@ You’re joining an online meeting on Zoom but find the microphone isn’t worki
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the**Recording** tab. Then, right-click on any empty area and tick**Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Make sure your microphone is enabled. If not, right-click it and click**Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Check if your microphone is set as the default device. If not, click it and click**Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** Right-click your microphone and click**Properties** .
 
@@ -121,10 +101,6 @@ You’re joining an online meeting on Zoom but find the microphone isn’t worki
  After settings are applied as above, your microphone should be working fine. You can simply take a mic test on Zoom to check. If the issue persists, please move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Update your audio driver
 
@@ -157,10 +133,6 @@ There are two ways you can update your audio driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4 – Modify Zoom’s audio settings
 
  If your microphone works well on other programs and only runs into problems on Zoom, the reason may be the app’s settings. You can adjust the settings as follows and see whether this brings back your audio input.
@@ -181,10 +153,6 @@ There are two ways you can update your audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Configure the settings as below:
 
 * **Suppress Persistent Background Noise** :_Moderate_ or_Disable_
@@ -202,10 +170,6 @@ There are two ways you can update your audio driver:
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Then, type**appwiz.cpl** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/6-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Right-click**Zoom** and click**Uninstall** .
 
@@ -236,20 +200,20 @@ There are two ways you can update your audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-expert-reviews-find-the-best-8-5k-computer-displays-for-2024/"><u>[New] Expert Reviews - Find the Best 8 5K Computer Displays for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-seamless-tiktok-to-high-quality-mp4-format-for-2024/"><u>[New] Seamless TikTok to High-Quality MP4 Format for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-beginning-participating-in-and-organizing-group-video-calls-zoom-for-android-devices/"><u>2024 Approved Beginning, Participating in, and Organizing Group Video Calls (Zoom) for Android Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/descompunere-gratuita-si-simpla-in-time-de-webm-video-in-format-mp4/"><u>Descompunere Gratuita Și Simplă In-Time De Webm Video În Format Mp4</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/harness-the-power-of-insights-a-curated-list-of-instagram-performance-trackers/"><u>Harness the Power of Insights A Curated List of Instagram Performance Trackers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-stop-unexpected-noise-interferences-in-windows-easily/"><u>How to Stop Unexpected Noise Interferences in Windows Easily</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-successfully-restore-and-improve-your-voicemod-experience/"><u>How to Successfully Restore and Improve Your Voicemod Experience</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-harmonize-visuals-and-vibrations-3-affordable-ipad-methods-to-music-in-video/"><u>In 2024, Harmonize Visuals and Vibrations 3 Affordable iPad Methods to Music in Video</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/modern-troubleshooting-correcting-sound-delays-on-your-devices-latest-guide/"><u>Modern Troubleshooting: Correcting Sound Delays on Your Devices (Latest Guide)</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-video-editing-on-chromebook-here-are-the-top-android-apps-for-2024/"><u>New Video Editing on Chromebook? Here Are the Top Android Apps for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-common-problems-getting-your-razer-blackshark-v2-mic-up-and-running/"><u>Overcoming Common Problems: Getting Your Razer Blackshark V2 Mic Up and Running</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-silent-displays-a-guide-for-restoring-sounds-from-laptoptv-connection-through-hdmi-cable/"><u>Overcoming Silent Displays: A Guide for Restoring Sounds From Laptop/TV Connection Through HDMI Cable</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-common-microphonevoice-chat-problems-in-call-of-dutys-battle-royale-warzone/"><u>Quick Fixes for Common Microphone/Voice Chat Problems in Call of Duty's Battle Royale - Warzone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-multimedia-sensation-apps-iphoneandroid-showdown/"><u>Top 5 Multimedia Sensation Apps IPhone/Android Showdown</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/tranformer-un-fichier-oma-au-format-wav-gratuitement-en-ligne-convertissez-facilement-avec-movavi/"><u>Tranformer Un Fichier OMA Au Format WAV Gratuitement en Ligne - Convertissez Facilement Avec Movavi</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-playlist-power-instagrams-musical-edge/"><u>[New] 2024 Approved Playlist Power Instagram's Musical Edge</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-finding-the-z-axis-in-your-text-art-for-2024/"><u>[New] Finding the Z-Axis in Your Text Art for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-unleash-music-without-spending-a-penny/"><u>[New] Unleash Music, Without Spending a Penny</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-amplify-igtv-audiences-5-effective-ways-for-a-larger-following/"><u>[Updated] 2024 Approved Amplify IGTV Audiences 5 Effective Ways for a Larger Following</u></a></li>
+<li><a href="https://extra-information.techidaily.com/decoding-auroras-advanced-photographic-capabilities/"><u>Decoding Aurora's Advanced Photographic Capabilities</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/elevate-home-networking-with-the-robust-and-reliable-netgeer-nighthawk-x6s/"><u>Elevate Home Networking with the Robust and Reliable Netgeer Nighthawk X6S</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-for-fixing-the-steelseries-arctis-7-headsets-mic-problems/"><u>Expert Advice for Fixing the SteelSeries Arctis 7 Headset's Mic Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-quiet-realtek-sound-output-on-your-pc-or-device-step-by-step-guide/"><u>Fixing Quiet Realtek Sound Output on Your PC or Device [Step-by-Step Guide]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-problem-of-unresponsive-speakers-even-though-theyre-connected-to-your-computer/"><u>Fixing the Problem of Unresponsive Speakers Even Though They're Connected to Your Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-csgo-microphone-issues-a-comprehensive-guide/"><u>Fixing Your CS:GO Microphone Issues – A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-glitches-and-warping-sounds-in-windows-10-and-7-solutions-unveiled/"><u>How to Fix Audio Glitches and Warping Sounds in Windows 10 & 7 - Solutions Unveiled</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-realtek-hd-audio-manager-wont-launch-step-by-step-solution/"><u>How to Fix Realtek HD Audio Manager Won't Launch - Step-by-Step Solution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-immediate-folder-upload-tackling-onedrive-errors/"><u>Mastering Immediate Folder Upload: Tackling OneDrive Errors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-from-zero-to-hero-master-lip-syncing-with-these-5-amazing-apps/"><u>New 2024 Approved From Zero to Hero Master Lip Syncing with These 5 Amazing Apps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transform-your-videos-with-our-free-mp4-to-mov-quicktime-online-tool/"><u>Transform Your Videos with Our Free MP4-to-MOV QuickTime Online Tool!</u></a></li>
 </ul></div>
 

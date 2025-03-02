@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Ensuring Smooth Functionality of IDT Codec Drivers on Windows 11"
-date: 2024-08-23T12:09:51.237Z
-updated: 2024-08-24T12:09:51.237Z
+date: 2025-02-24T04:39:41.925Z
+updated: 2025-03-01T21:04:51.043Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ When you connect any pair of Bluetooth headphones or Bluetooth devices to your c
 
  If you’re using**2.4 GHz band WiFi** , your Bluetooth devices and Wi-Fi may interfere with each other and cause the stuttering issue. Shut down your Wi-Fi and check whether the problem disappeares. If the problem remains, read on to try the below fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  There are**7** fixes that have helped many users solve the**Bluetooth audio stuttering** issue. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -42,18 +39,8 @@ If you’re using the Windows 11 system, follow the steps below:
 
 1. Press the **Windows logo key + I** keys to open **Settings** .
 2. Click**System > Troubleshoot > Other troubleshooters** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/win11-other-troubleshooter.jpg)
 3. Click the**Run** button next to the Bluetooth, and follow the instructions.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/win11-bluetooth.jpg)
 
 Here’s how to do it on Windows 10:
@@ -64,9 +51,6 @@ Here’s how to do it on Windows 10:
 3. On the left pane, click **Troubleshoot** .
 4. Under **Find and Fix other problems** , click on **Bluetooth** .
 5. Click on **Run the troubleshooter** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/bluetooth.jpg)
 6. Follow the on-screen instructions to finish the process.
 7. Reboot your computer and check whether the problem is fixed or not.
@@ -81,44 +65,22 @@ If this fix was unable to solve the issue, please move to the next fix.
 2. Type **mmsys.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/mmsyssound.jpg)
 3. Right-click your default playback device (the one with a green tick) and click **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/sound.jpg)
 4. Click **Enhancement** . Make sure the box for **Disable all enhancements** is empty. Click **Apply** and **OK** to save the change.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/sound-1.jpg)
 
  If you don’t have an Enhancement tab here, the culprit is not enhancement then. Move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Change audio formats
 
  If your audio driver or software doesn’t support the current audio format you have, sound issues such as static or stuttering would happen. To fix it, you can try different audio formats:
 
 1. On your keyboard, press the **Windows logo key** \+ **R** on the keyboard at the same time.
 2. Type “mmsys.cpl” and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/mmsyssound.jpg)
 3. Right-click your default playback device (the one with a green tick) and click **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/sound.jpg)
 4. Click the **Advanced** tab. Select **16 bit, 48000 Hz (DVD Quality)** . Click **Apply** and **OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/speaker.jpg)
 5. Test to see if your sound is still stuttering. If yes, go back to step 4 and try some other formats until you find the one that works for you.
 
@@ -158,9 +120,6 @@ No advertising on the website.
 3. Scroll down and select**More devices and printer settings** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-36.png)
 4. Right-click your headset and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-38.png)
 5. Go to**Services** , and untick the box for**Hands-free Telephony** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-39.png)
@@ -175,14 +134,8 @@ No advertising on the website.
  For some, stopping the Bluetooth support service helps to stop the audio stuttering problem for them. To see if this does the wonders for you too:
 
 1. On your keyboard, press the**Windows** key and the**R** key at the same time. Copy and paste**services.msc** and hit**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-40.png)
 2. Right-click**Bluetooth support service** and select**Stop** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-41.png)
 3. Reconnect your Bluetooth device and see if the audio stuttering problem persists. If so, please move on to the next fix.
 
@@ -200,9 +153,6 @@ No advertising on the website.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -220,8 +170,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -229,4 +177,24 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-showmore-screen-recorder-review-2023/"><u>[New] In 2024, ShowMore Screen Recorder Review 2023</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-traps-in-the-web-avoiding-the-snare-of-buying-non-existent-supporters-for-2024/"><u>[Updated] Traps in the Web Avoiding the Snare of Buying Non-Existent Supporters for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-cream-of-the-crop-top-8-sites-for-rich-3d-and-text/"><u>2024 Approved The Cream of the Crop Top 8 Sites for Rich 3D & Text</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnose-and-repair-why-realtek-hd-audio-manager-fails-to-open-and-how-you-can-resolve-it/"><u>Diagnose & Repair: Why Realtek HD Audio Manager Fails to Open & How You Can Resolve It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminating-audio-distortions-and-stuttering-in-windows-10-effective-fixes-unveiled/"><u>Eliminating Audio Distortions & Stuttering in Windows 10: Effective Fixes Unveiled</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/from-silence-to-sound-success-tackling-microphone-issues-in-windows-with-ease/"><u>From Silence to Sound Success: Tackling Microphone Issues in Windows with Ease</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-nokia-g42-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Nokia G42 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/inactive-touch-point-on-desktop/"><u>Inactive Touch Point on Desktop</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-wmp-for-effortless-audio-conversion-for-2024/"><u>Navigating WMP for Effortless Audio Conversion for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-sound-in-windows-11-expert-fixes-for-hp-laptop-audio-malfunctions/"><u>No Sound in Windows 11? Expert Fixes for HP Laptop Audio Malfunctions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/professional-4k-at-your-fingertips-benq-bl2711u-uncovered-for-2024/"><u>Professional 4K at Your Fingertips BenQ BL2711U Uncovered for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-surprising-website-appearances-from-iphones-screen-time-feature/"><u>Resolve Surprising Website Appearances From iPhone's Screen Time Feature</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solutions-for-sony-wireless-earbuds-mic-problems-on-windows-pc-wh-1000-series/"><u>Solutions for Sony Wireless Earbuds Mic Problems on Windows PC - WH-1000 Series</u></a></li>
+<li><a href="https://solve-news.techidaily.com/step-by-step-guide-integrating-the-black-tears-plug-in-into-kodi-using-matrix-and-leadex/"><u>Step-by-Step Guide: Integrating the Black Tears Plug-In Into Kodi Using Matrix & Leadex</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-fix-for-your-idt-hd-audio-codec-issues-on-a-windows-11-system/"><u>The Ultimate Fix for Your IDT HD Audio Codec Issues on a Windows 11 System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unleash-the-full-potential-of-your-iphone-with-secret-voice-control-tricks-learn/"><u>Unleash the Full Potential of Your iPhone with Secret Voice Control Tricks - Learn</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unreadable-fingerprint-in-windows/"><u>Unreadable Fingerprint in Windows</u></a></li>
+</ul></div>
 

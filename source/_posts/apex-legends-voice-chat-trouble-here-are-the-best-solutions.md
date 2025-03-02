@@ -1,7 +1,7 @@
 ---
 title: Apex Legends Voice Chat Trouble? Here Are the Best Solutions!
-date: 2025-02-07T23:51:14.564Z
-updated: 2025-02-10T16:20:58.897Z
+date: 2025-02-26T02:54:42.942Z
+updated: 2025-03-02T00:07:29.438Z
 tags:
   - win11
   - win10
@@ -50,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/a052456309a6b8597a2b650cfe52a2444e64bbcfc
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/win-11-right-click-on-sound.jpg)
 2. Scroll down and click on**More sound settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/win-11-sound-settings.jpg)
 3. Select the**Recording** tab. Right-click on the device that you’re currently using and then select**Set as Default Device** from its context menu.  
 
@@ -65,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/a052456309a6b8597a2b650cfe52a2444e64bbcfc
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-393.png)
 6. You may do a voice test by speaking into your mic. If the recording device is working properly, you should witness a rise in the green bar as you talk.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/img_5baf47cf4729b.jpg)
 7. Right-click on other recording devices and select**Disable** to turn them off temporarily. If you’d like to turn them on after playing CS:GO, simply repeat this step and select**Enable** .  
 
@@ -76,17 +68,9 @@ thumbnail: https://thmb.techidaily.com/a052456309a6b8597a2b650cfe52a2444e64bbcfc
 8. After everything’s done, click**OK** to save the changes.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-335.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now it’s time to launch CS:GO and see whether your mic is working properly. If not, please proceed to the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Disable exclusive control for your microphone
 
@@ -99,16 +83,8 @@ thumbnail: https://thmb.techidaily.com/a052456309a6b8597a2b650cfe52a2444e64bbcfc
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/win-11-sound-settings.jpg)
 3. Select the**Recording** tab. Right-click on the device that you’re currently using and then select**Set as Default Device** from its context menu.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-334.png)
 4. Click to highlight your default microphone and then click**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-346.png)
 5. Go to**Advanced** , and untick the box for**Allow applications to take exclusive control of this device** . After that, click**OK** to save the changes.  
@@ -127,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/a052456309a6b8597a2b650cfe52a2444e64bbcfc
 1. Launch CS:GO and click the gear icon in the left pane.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/image-338.png)
 2. Go to the**Audio Settings** tab and select**Audio** below. Then, pay attention to the related audio settings and make certain they are**turned on** or set to the correct state.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-339.png)
 3. Select**Game Settings** **\> Communication** . Make sure you haven’t muted your friends or others in the game. (This is not necessarily related to your mic, so you may skip this step if you want.)  
@@ -228,10 +200,6 @@ If this fix didn’t help, you might try out the next one.
 3. Type **voice\_enable 1** and click **Submit** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-417.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Test your mic in the game and see if it works properly now.
 
 ## Fix 9: Repair corrupted system files
@@ -268,20 +236,12 @@ Here’s how to use Fortect to repair system files on your PC:
 1. On your keyboard, press the **Windows Logo key** ![](https://images.drivereasy.com/wp-content/uploads/2023/10/windows-logo.png) , type in**command prompt** , and select **Run as administrator.** (If Windows prompts for permission, click **OK** to continue.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-admin-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Type in **SFC /Scannow** , and then press **Enter** .  
 ![win 11 command prompt to run sfc 1](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-1.jpg)
 3. It’ll take some time for the SFC to repair the corrupted system files if it detects any.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-3.png)
 4. When the process is completed, reboot your computer and test if the issue still exists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files, so please be patient.
 
@@ -307,19 +267,16 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/anthem-game-on-windows-10-solving-the-silent-problem-fixing-sound-issues/"><u>Anthem Game on Windows 10: Solving the Silent Problem - Fixing Sound Issues</u></a></li>
-<li><a href="https://win-blog.techidaily.com/common-fixes-for-counter-strike-2-failure-to-start-correctly/"><u>Common Fixes for Counter-Strike 2 Failure to Start Correctly</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-easily-install-updated-drivers-for-your-tp-link-usb-400-bluetooth-transmitter/"><u>How To Easily Install Updated Drivers For Your TP-Link USB 400 Bluetooth Transmitter</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-repair-non-functioning-speakers-on-a-dell-device/"><u>How to Troubleshoot and Repair Non-Functioning Speakers on a Dell Device</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-next-level-creativity-celebrating-top-6-nft-innovators/"><u>In 2024, Next-Level Creativity Celebrating Top 6 NFT Innovators</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-screen-brilliance-adjustments-in-windows-11/"><u>Mastering Screen Brilliance Adjustments in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/paired-up-but-muted-fixing-no-sound-issues-with-bluetooth-devices-easily/"><u>Paired Up but Muted: Fixing No-Sound Issues with Bluetooth Devices Easily</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-error-0x80073cf3-in-windows-microsoft-shop/"><u>Resolving Error 0X80073CF3 in Windows' Microsoft Shop</u></a></li>
-<li><a href="https://some-tips.techidaily.com/secure-your-own-apple-vision-pro-today-with-choices-of-512gb-or-1tb-exclusive-pre-order-available-on-zdnet/"><u>Secure Your Own Apple Vision Pro Today with Choices of 512GB or 1TB - Exclusive Pre-Order Available on ZDNet!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/smirk-sessions-humorous-content-for-all-events/"><u>Smirk Sessions Humorous Content for All Events</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-audio-misdirection-headphones-connected-yet-noise-emanates-from-speakers/"><u>Solved! Audio Misdirection - Headphones Connected, Yet Noise Emanates From Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-not-working-sound-problems-in-wow-for-players/"><u>Solving 'Not Working' Sound Problems in WoW for Players</u></a></li>
-<li><a href="https://driver-install.techidaily.com/step-by-step-guide-to-fast-nvidia-drivers-update/"><u>Step-by-Step Guide to Fast Nvidia Drivers Update</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/user-friendly-guide-to-mending-a-broken-google-hangouts-mic/"><u>User-Friendly Guide to Mending a Broken Google Hangouts Mic</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nlocking-youtube-profitability-recent-guidelines/"><u>[New] Unlocking YouTube Profitability Recent Guidelines</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/beginners-guide-to-pro-youtube-tech-for-2024/"><u>Beginner's Guide to Pro YouTube Tech for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-the-ideal-point-of-sale-solution-expert-reviews-and-comparisons/"><u>Choosing the Ideal Point-of-Sale Solution : Expert Reviews and Comparisons</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-fixing-a-malfunctioning-fortnite-microphone-instantly/"><u>Expert Advice on Fixing a Malfunctioning Fortnite Microphone Instantly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-resolve-xbox-one-audio-problems-for-a-seamless-gaming-experience/"><u>Expert Advice: Resolve Xbox One Audio Problems for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-restoring-functionality-of-a-malfunctioning-redragon-pc-connected-microphone/"><u>Expert Advice: Restoring Functionality of a Malfunctioning Redragon PC-Connected Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-lenovo-laptops-audio-problem-easy-troubleshooting-steps/"><u>Fix Your Lenovo Laptop's Audio Problem - Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/harmonious-guidelines-instagram-and-intellectual-property-for-2024/"><u>Harmonious Guidelines Instagram & Intellectual Property for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/maximizing-video-quality-with-gopro-max-or-hero-11/"><u>Maximizing Video Quality with GoPro Max or Hero 11?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-android-cloud-saving-tools/"><u>Top Android Cloud Saving Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-upgrades-a-comprehensive-review-of-the-third-generation-apple-airpods/"><u>Unveiling the Upgrades: A Comprehensive Review of the Third Generation Apple AirPods</u></a></li>
 </ul></div>
 

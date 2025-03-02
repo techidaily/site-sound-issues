@@ -1,7 +1,7 @@
 ---
 title: Steps to Rectify No-Sound Troubleshooting After Connecting Computer with Monitor/TV via HDMI
-date: 2025-02-03T20:31:41.934Z
-updated: 2025-02-11T02:42:46.074Z
+date: 2025-02-23T12:46:25.581Z
+updated: 2025-03-01T16:48:39.277Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/f5d152a23ebe0537eddcc39792614d56215becc53
 5. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
  If your microphone isn’t working on Zoom, please check out this[troubleshooting guide](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1 – Troubleshoot the connection
 
@@ -86,23 +82,11 @@ Below is how to configure a a correct setup:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/set-as-default.jpg)
 4. Click the device and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-audio-enhancements-3.jpg)
 5. On the**Enhnacements** tab, check**Disable all enhancements** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-audio-enhancements.jpg)
 6. Back to your desktop, right-click the**speaker icon** on the taskbar and click**Open Volume mixer** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-2.jpg)
 7. **Hold and drag the slider for Zoom** to turn up the volume.  
@@ -110,10 +94,6 @@ Below is how to configure a a correct setup:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/volume-mixer-2.jpg)
 
  Now see if the Zoom audio works as expected. If not, check out the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Check the Zoom settings
 
@@ -125,10 +105,6 @@ Below is how to configure a a correct setup:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/zoom-settings-1.jpg)
 3. Tick**Show in-meeting option to Turn on Original Sound** and disable**Echo cancellation** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/zoom-settings-2.jpg)
 
@@ -143,10 +119,6 @@ Below is how to configure a a correct setup:
 2. Click the **Check for updates**  button. The available updates will be automatically downloaded and installed.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/check-for-windows-updates-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once done, restart your computer for the changes to take full effect, and you should be hearing the sound on Zoom normally.
 
@@ -171,24 +143,24 @@ Below is how to configure a a correct setup:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-screen-readers-digest-recorder-evaluation/"><u>[Updated] 2024 Approved The Screen Reader's Digest Recorder Evaluation</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-boosting-social-impact-with-the-combined-force-of-youtube-and-instagram-stories-for-2024/"><u>[Updated] Boosting Social Impact with the Combined Force of YouTube and Instagram Stories for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016025357-easy-audio-fix-techniques-for-a-silent-pc-get-sound-back-now/"><u>Easy Audio Fix Techniques for a Silent PC - Get Sound Back Now</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-resolve-non-functional-phasmophobia-vc/"><u>Fixing the Issue: How to Resolve Non-Functional Phasmophobia VC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723017000771-get-your-call-of-duty-modern-warfare-voice-chat-up-and-running-again/"><u>Get Your Call of Duty Modern Warfare Voice Chat Up and Running Again!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-logitech-g533-microphone-a-comprehensive-guide/"><u>How to Fix a Non-Functioning Logitech G533 Microphone: A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-se-2022-video-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone SE (2022) Video to Computer? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/immediate-fixes-for-a-broken-razer-headset-microphone-5-essential-steps/"><u>Immediate Fixes for a Broken Razer Headset Microphone – 5 Essential Steps</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-realme-12-proplus-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Realme 12 Pro+ 5G?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-symbolizing-success-affordable-and-flexible-logo-crafting-from-templates/"><u>In 2024, Symbolizing Success Affordable & Flexible Logo Crafting From Templates</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-realme-gt-5-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Realme GT 5 FRP Bypass</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/mastering-the-art-of-professional-gopro-cinematography-for-2024/"><u>Mastering the Art of Professional Gopro Cinematography for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-razer-mic-a-5-step-guide-to-restoring-microphone-functionality/"><u>Revive Your Razer Mic: A 5-Step Guide to Restoring Microphone Functionality</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ethical-boundaries-chatgpt-and-harmful-programming/"><u>The Ethical Boundaries: ChatGPT and Harmful Programming</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-your-logitech-g933-mic/"><u>Troubleshooting and Repairing Your Logitech G933 Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014724497-troubleshooting-recurrent-audio-drops-on-your-windows-11-pc-solutions/"><u>Troubleshooting Recurrent Audio Drops on Your Windows 11 PC - Solutions!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixes-and-solutions-for-non-functional-corsair-headsets/"><u>Troubleshooting: Fixes & Solutions for Non-Functional Corsair Headsets</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-telegram-an-in-depth-guide/"><u>Unveiling Telegram: An In-Depth Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-top-10-guides-for-crafting-stellar-music-reactions-on-youtube/"><u>[New] In 2024, Top 10 Guides for Crafting Stellar Music Reactions on YouTube</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-prime-video-performance-tracer-in-youtube-landscape/"><u>[Updated] 2024 Approved Prime Video Performance Tracer in YouTube Landscape</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>All You Need To Know About Mega Greninja For Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015464592-facebook-video-sound-issues-heres-how-to-fix-them-on-your-computer/"><u>Facebook Video Sound Issues? Here's How to Fix Them on Your Computer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Pokemon Go Joystick on Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-reclaiming-your-omegle-presence-steps-to-overcome-an-online-ban/"><u>New In 2024, Reclaiming Your Omegle Presence Steps to Overcome an Online Ban</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015491818-pubg-chat-woes-discover-effective-solutions-for-audio-issues-now/"><u>PUBG Chat Woes? Discover Effective Solutions for Audio Issues Now!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1715701089441-seeking-the-best-ps2-games-try-these-5-android-emulators/"><u>Seeking the Best PS2 Games? Try These 5 Android Emulators!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-tips-for-nonfunctional-speakers-in-windows-7-pcs/"><u>Step-by-Step Repair Tips for Nonfunctional Speakers in Windows 7 PCs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-best-live-streaming-apps-list-for-youtube-content-creators-iosandroid-for-2024/"><u>The Best Live Streaming Apps List for YouTube Content Creators (iOS/Android) for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-how-to-for-resolving-discords-persistent-sound-interruptions-updated/"><u>The Definitive How-To for Resolving Discord's Persistent Sound Interruptions, Updated</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-poco-m6-pro-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Poco M6 Pro 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-razer-barracuda-x-mic-problems-in-windows-operating-systems/"><u>Troubleshooting Guide: Resolving Razer Barracuda X Mic Problems in Windows Operating Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solutions-when-your-headset-mic-wont-work/"><u>Troubleshooting Guide: Solutions When Your Headset Mic Won't Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-mute-mysteries-getting-sound-back-into-valheim-on-pc/"><u>Troubleshooting Mute Mysteries: Getting Sound Back Into Valheim on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-no-audio-on-your-hp-laptop-running-windows-10/"><u>Troubleshooting: Fixing No Audio on Your HP Laptop Running Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/valheim-quiet-crisis-how-to-reignite-sound-on-pc/"><u>Valheim Quiet Crisis? How to Reignite Sound on PC</u></a></li>
 </ul></div>
 

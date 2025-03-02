@@ -1,7 +1,7 @@
 ---
 title: Cyberpunk Groans with Crackling Noise? Here's How to Fix It
-date: 2025-02-06T07:47:51.773Z
-updated: 2025-02-11T08:56:59.405Z
+date: 2025-02-25T18:37:36.251Z
+updated: 2025-03-02T13:16:59.731Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ If you’re encountering Cyberpunk 2077 sound crackling or buzzing background no
 
  Cyberpunk 2077 audio not working properly might be caused by a faulty headphone port. To rule out this possibility, simply**replug your audio equipment to another USB port** which should be located at both the front and back of your PC, and play the game again. If sound crackling persists, take a look at the solutions below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3 – Adjust the sound settings
 
  Improper sound settings on your PC will also lead to audio crackling throughout the Cyberpunk 2077 game. Make some tweaks as follow and see if that solves your issue.
@@ -57,27 +53,15 @@ If you’re encountering Cyberpunk 2077 sound crackling or buzzing background no
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-6.jpg)
 4. Go to the**Spatial sound** tab, and set it to**Off** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4.jpg)
 5. Navigate to the**Advanced** tab. Then, select**2 channel, 16 bit, 96000Hz (Studio Quality)** from the drop-down menu under Default Format.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5.jpg)
 6. Click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/7-1.jpg)
 
  If the 96000 Hz sample rate doesn’t give any luck, you can try the other options until you find the one that stops the sound from crackling. If none of them works, continue to the next method below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Update your audio driver
 
@@ -93,10 +77,6 @@ There are two ways for you to do this:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-1.jpg)
 3. Click the**Update** button next to the flagged sound driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2-2.jpg)
@@ -127,22 +107,19 @@ There are two ways for you to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-creating-humor-making-funny-parody-videos/"><u>[New] 2024 Approved Creating Humor Making Funny Parody Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-unhindered-video-capture-app/"><u>[New] 2024 Approved Unhindered Video Capture App</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-secret-to-striking-visuals-optimal-video-aspect-ratios/"><u>[Updated] In 2024, The Secret to Striking Visuals Optimal Video Aspect Ratios</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-dynamics-ai-versus-machine-translators/"><u>Decoding Dynamics: AI Versus Machine Translators</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easy-remedies-for-the-no-sound-dilemma-in-windows-10/"><u>Easy Remedies for the No-Sound Dilemma in Windows 10</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/cial-flourishing-with-glamour-vlogs-for-2024/"><u>Financial Flourishing with Glamour Vlogs for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-call-of-duty-modern-warfare-voice-chat-up-and-running-again/"><u>Get Your Call of Duty Modern Warfare Voice Chat Up and Running Again</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-methods-of-blending-audio-tracks-in-digital-performer/"><u>In 2024, Methods of Blending Audio Tracks in Digital Performer</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/master-tip-overcoming-persistent-stalling-and-crashing-in-pc-game-psychonauts-2/"><u>Master Tip: Overcoming Persistent Stalling & Crashing in PC Game Psychonauts 2</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/onikuma-microphone-malfunction-troubleshooting-and-fixes/"><u>Onikuma Microphone Malfunction: Troubleshooting and Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/rainbow-six-siege-voice-connection-problems-heres-the-ultimate-fix-for-2n24-gamer-setup/"><u>Rainbow Six Siege Voice Connection Problems? Here’s the Ultimate Fix for 2N24 Gamer Setup</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-airpods-microphone-issues-on-windows-10-with-these-simple-tips/"><u>Solve Your AirPods Microphone Issues on Windows 10 with These Simple Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-common-issues-making-your-astro-a10-microphone-functional-once-more/"><u>Solving Common Issues: Making Your Astro A10 Microphone Functional Once More</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-monitoring-your-internet-bandwidth-consumption/"><u>Step-by-Step Guide: Monitoring Your Internet Bandwidth Consumption</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-2024-tutorial-resolving-your-xr30-headset-microphone-issues/"><u>The Ultimate 2024 Tutorial: Resolving Your XR30 Headset Microphone Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-trick-to-fast-track-your-microphones-quality-check/"><u>The Ultimate Trick to Fast-Track Your Microphone's Quality Check</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-create-stunning-collages-best-web-based-photo-and-video-editors/"><u>Updated 2024 Approved Create Stunning Collages Best Web-Based Photo and Video Editors</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-android-recording-at-your-fingertips-explore-our-top-8-free-choices/"><u>[New] 2024 Approved Android Recording at Your Fingertips – Explore Our Top 8 Free Choices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-scripts-to-screen-making-youtube-splits-for-2024/"><u>[New] From Scripts to Screen Making YouTube Splits for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-behind-the-scenes-of-youtube-income-generation/"><u>[Updated] Behind the Scenes of YouTube Income Generation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-crafting-cinema-youtubes-compreranche-guide-for-filmmakers-for-2024/"><u>[Updated] Crafting Cinema YouTube's Compreranche Guide for Filmmakers for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-ip-landscape-of-instagram-music/"><u>[Updated] In 2024, The IP Landscape of Instagram Music</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/beat-boulevard-optimal-dj-video-downloads-for-2024/"><u>Beat Boulevard Optimal DJ Video Downloads for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-13c-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Xiaomi Redmi 13C 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tackling-sound-stuttering-and-distortion-on-your-pc-running-windows-11-or-7-effective-fixes-inside/"><u>Tackling Sound Stuttering & Distortion on Your PC Running Windows 11 or 7 - Effective Fixes Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/test-your-mic-in-a-flash-a-step-by-step-guide-for-fast-audio-verification/"><u>Test Your Mic in a Flash - A Step-by-Step Guide for Fast Audio Verification</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-2024-manual-eradicating-the-echo-effect-from-your-discord-app-on-pc/"><u>The Ultimate 2024 Manual: Eradicating the Echo Effect From Your Discord App on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-windows-11-compatibility-with-idt-high-definition-audio-coders/"><u>Troubleshooting and Fixing Windows 11 Compatibility with IDT High Definition Audio Coders</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-conexant-smartaudio-hd-issues-restoring-sounds-on-a-windows-11-system/"><u>Troubleshooting Conexant SmartAudio HD Issues: Restoring Sounds on a Windows 11 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-a-non-functional-headset-microphone/"><u>Troubleshooting Guide: Fixing a Non-Functional Headset Microphone</u></a></li>
 </ul></div>
 

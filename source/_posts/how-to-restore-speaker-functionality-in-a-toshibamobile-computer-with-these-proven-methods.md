@@ -1,7 +1,7 @@
 ---
 title: How to Restore Speaker Functionality in a Toshibamobile Computer with These Proven Methods
-date: 2024-12-09T22:08:15.147Z
-updated: 2024-12-10T21:55:44.718Z
+date: 2025-02-23T21:45:31.033Z
+updated: 2025-03-02T09:33:52.985Z
 tags:
   - win11
   - win10
@@ -51,33 +51,17 @@ Follow the steps below in order until you fix your issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/noise-suppression-inside-a-channel-voice-chat.jpg)
 3. And you’ll need to do the same inside**USER SETTINGS** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click on the gear icon at the bottom-left corner next to your username.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/Discord-settings.jpg)
 4. Select**Voice & Video** . Then make sure you’ve chosen the correct input and output device.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/Discord-choose-your-proper-input-and-output-device.jpg)
 5. Scroll down and toggle**on Echo Cancellation** . Then tick**Krisp** for Noise Suppression.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/Discord-Echo-Cancellation-on.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Save your settings and restart Discord. If it’s still echoing, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Change Windows settings
 
@@ -87,10 +71,6 @@ Follow the steps below in order until you fix your issue.
 
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
 2. Make sure you select the correct output and input device from the drop-down.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/choose-the-correct-input-and-output-device.jpg)
 3. If your problem persists after verifying the correct input and output device, click**Sound Control Panel** in the top right.  
@@ -114,17 +94,9 @@ Follow the steps below in order until you fix your issue.
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab and wait for it to download and install the available updates. And you should be asked to restart your PC.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
 If this doesn’t do the trick, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Update your audio driver
 
@@ -165,14 +137,16 @@ If this doesn’t do the trick, proceed to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-multi-screen-browsing-effortlessly-in-google-chrome/"><u>[Updated] Navigating Multi-Screen Browsing Effortlessly in Google Chrome</u></a></li>
-<li><a href="https://discover-able.techidaily.com/1728505363582-windows-11/"><u>如何在 Windows 11 上自由地制作啟動備份 - 免费策略二选一解析</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-realme-11-proplus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Realme 11 Pro+ Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/master-your-ipad-with-expert-advice-10-key-tips-and-setups-every-apple-user-must-know/"><u>Master Your iPad with Expert Advice: 10 Key Tips and Setups Every Apple User Must Know</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-for-resolving-disruptive-echo-on-discord-updated/"><u>Step-by-Step Tutorial for Resolving Disruptive Echo on Discord - Updated</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-2024-definitive-guide-to-fixing-your-videos-audio-delay-problems/"><u>The 2024 Definitive Guide to Fixing Your Video's Audio Delay Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-issues-with-your-non-functional-bose-speakers/"><u>Troubleshooting Steps: Resolving Issues with Your Non-Functional Bose Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/webex-microphone-troubleshooting-fixes-you-need-to-know-for-202n4/"><u>Webex Microphone Troubleshooting: Fixes You Need to Know for 202N4!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-does-my-iphoneipad-get-hot-discover-causes-prevention-and-fixes/"><u>Why Does My iPhone/iPad Get Hot? Discover Causes, Prevention & Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bypassing-the-no-match-blues-strategies-for-finding-love-on-bumble/"><u>Bypassing the No-Match Blues: Strategies for Finding Love on Bumble</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/decoding-digital-dollars-an-effective-way-to-understand-youtube-revenue-dynamics-for-2024/"><u>Decoding Digital Dollars An Effective Way to Understand YouTube Revenue Dynamics for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/digitalize-your-driving-documents-adding-a-drivers-license-to-iphone-wallet-by-location/"><u>Digitalize Your Driving Documents: Adding a Driver's License to iPhone Wallet by Location</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Realme 11 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-game-recording-made-easy-3-options-for-every-gamer-for-2024/"><u>New Game Recording Made Easy 3 Options for Every Gamer for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-hp-laptops-silent-problem-a-comprehensive-fix-for-lack-of-sound/"><u>Solve Your HP Laptop's Silent Problem: A Comprehensive Fix for Lack of Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-silent-pc-resolving-windows-11-update-sound-issues/"><u>Solve Your Silent PC - Resolving Windows 11 Update Sound Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-setup-of-idt-advanced-audio-codec-driver-in-windows-11-environments/"><u>Step-by-Step Setup of IDT Advanced Audio CODEC Driver in Windows 11 Environments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/synchronize-perfectly-advanced-techniques-for-overcoming-audio-delay-challenges/"><u>Synchronize Perfectly: Advanced Techniques for Overcoming Audio Delay Challenges</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/telechargement-gratuit-de-ripper-dvd-avec-version-illimitee/"><u>Téléchargement Gratuit De Ripper DVD Avec Version Illimitée</u></a></li>
 </ul></div>
 

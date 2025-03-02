@@ -1,7 +1,7 @@
 ---
 title: Resolve Your Discord Audio Issues - Complete Solutions for When No One Can Hear You
-date: 2024-12-05T20:11:34.973Z
-updated: 2024-12-10T19:35:36.024Z
+date: 2025-02-28T04:40:51.098Z
+updated: 2025-03-02T09:43:11.935Z
 tags:
   - win11
   - win10
@@ -49,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/452ad4dc833c22f824c1e0bb341979346435ef6ab
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff2a8dbdca.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In addition, sometimes your sound is not working if your volume is set minimum. With that being said, drag your volume slider to maximum and play any sound to see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff2e94ca54.jpg)
@@ -87,10 +83,6 @@ Your hardware issues can cause your sound not working on PC.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Run Hardware and Sound troubleshooter
 
  The Hardware and Sound troubleshooter scans your PC and provides solutions for detected issues. So you can run the troubleshooter and see if it helps with your sound problem.
@@ -101,10 +93,6 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdfee79972a5.jpg)
 2. Ensure to view by large icons or small icons. Click**Troubleshooting** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdfeea70b4c6.jpg)
 3. Click**Hardware** **and Sound** .  
 
@@ -113,10 +101,6 @@ Here’s what you can do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdfef0aa581c.jpg)
 5. Ensure to check the box next to**Apply repairs automatically** . Then click**Next** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdfef327fb38.jpg)
 6. Select your**audio device** that you want to troubleshoot, then click**Next** .  
@@ -127,10 +111,6 @@ Here’s what you can do:
 Then try playing any sound in your PC and see if it works.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your sound card driver
 
@@ -171,16 +151,8 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdfeff9ac647.png)
 2. In the**Playback** tab, right click on any**empty area** and check the box next to**Show Disabled Devices** and**Show Disconnected Devices** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff0531a8bf.jpg)
 3. Select your**audio device** and click**Set Default** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff073c7190.jpg)  
 Ensure there’s a green check next to your audio device.
@@ -205,10 +177,6 @@ Still no luck? Okay, there’s one more thing to try.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Make sure Windows Audio service is running
 
  The Windows Audio service manages audio for Windows-based programs. If this service is stopped or disabled, audio services and effects won’t function normally. So make sure the Windows Audio service is enabled and running. Here’s how to check:
@@ -223,10 +191,6 @@ Still no luck? Okay, there’s one more thing to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff1a46292f.jpg)
 5. Click**Apply** and**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Restart your PC and check your sound works or not.
 
@@ -252,20 +216,20 @@ Restart your PC and check your sound works or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-unveiling-the-foundations-of-virtual-storytelling-for-2024/"><u>[Updated] Unveiling the Foundations of Virtual Storytelling for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movavi3gppavi/"><u>使用Movavi，簡化在線3GPP到AVI的影片轉換：免付費解決方案</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/configure-mystery-speaker-model-for-perfect-sound-quality-on-windows-11/"><u>Configure Mystery Speaker Model for Perfect Sound Quality on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-the-unresponsive-microphone-in-windows-11-systems/"><u>Diagnosing and Repairing the Unresponsive Microphone in Windows 11 Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-tips-to-perfectly-edit-your-animal-companions-gaze-in-photographs/"><u>DIY Tips to Perfectly Edit Your Animal Companions' Gaze in Photographs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easy-solutions-for-non-functioning-headphones-on-a-windows-7-pc/"><u>Easy Solutions for Non-Functioning Headphones on a Windows 7 PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-remedies-when-your-pcs-audio-equipment-stops-working/"><u>Effective Remedies When Your PC's Audio Equipment Stops Working</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortlessly-solved-fixing-your-skypes-audio-problems/"><u>Effortlessly Solved: Fixing Your Skype's Audio Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-fixes-overcoming-bluetooth-not-working-challenges-on-windows-11/"><u>Expert Fixes: Overcoming 'Bluetooth Not Working' Challenges on Windows 11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-on-your-iphone-12-pro-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock on your iPhone 12 Pro and iPad?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-itel-a05s-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Itel A05s Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-samsung-galaxy-f04-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Samsung Galaxy F04 to Gmail | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/reconsidering-the-price-of-next-gen-graphics-cards/"><u>Reconsidering the Price of Next-Gen Graphics Cards</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-walkthrough-for-fixing-the-tdr-blue-screen-error-due-to-nvlddmkmsys-windows/"><u>Step-by-Step Walkthrough for Fixing the TDR Blue Screen Error Due to nvlddmkm.sys (Windows)</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-checklist-for-joining-notable-discords/"><u>The Ultimate Checklist for Joining Notable Discords</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-5-frosty-yet-inviting-backdrops-for-your-vids-for-2024/"><u>[New] 5 Frosty Yet Inviting Backdrops for Your Vids for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-crafting-your-perfect-youtube-playlists-a-step-by-step-guide/"><u>[Updated] 2024 Approved Crafting Your Perfect YouTube Playlists A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-mastering-pip-mode-with-youtube-on-your-iphone-device/"><u>[Updated] Mastering PIP Mode with YouTube on Your iPhone Device</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-optimize-collaborative-sessions-zooming-in-on-google-meet-participants/"><u>[Updated] Optimize Collaborative Sessions Zooming in on Google Meet Participants</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-steelseries-arctis-pro-microphone-issue-a-comprehensive-guide/"><u>Fixing the SteelSeries Arctis Pro Microphone Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/60489371-from-buffer-to-broadcast-learn-how-to-convert-your-youtube-viewing-into-a-screenshot-for-free/"><u>From Buffer to Broadcast Learn How to Convert Your YouTube Viewing Into a Screenshot for Free.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-laptops-sound-back-on-track-a-comprehensive-guide/"><u>Getting Your Laptop's Sound Back On Track: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-the-rec-room-microphone-issue-on-pc-the-ultimate-2024-guide-for-gamers-and-podcasters/"><u>How to Fix the Rec Room Microphone Issue on PC: The Ultimate 2024 Guide for Gamers and Podcasters</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-on-your-laptop-when-faced-with-no-volume-issues/"><u>How To Restore Sound On Your Laptop When Faced With No Volume Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-solve-windows-11-compatibility-problems-with-apple-airpods-microphone/"><u>How to Solve Windows 11 Compatibility Problems with Apple AirPod's Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-an-unplugged-nvidia-device-effective-solutions/"><u>How to Troubleshoot an Unplugged Nvidia Device: Effective Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/laptop-volume-mystery-unraveling-the-no-sound-conundrum-for-a-crystal-clear-experience/"><u>Laptop Volume Mystery: Unraveling the No-Sound Conundrum for a Crystal Clear Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-hearthstone-pc-performance-end-the-crashing-experience/"><u>Mastering Hearthstone PC Performance: End the Crashing Experience</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-nubia-red-magic-9-proplus-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Nubia Red Magic 9 Pro+ – What Can I Do? | Dr.fone</u></a></li>
 </ul></div>
 

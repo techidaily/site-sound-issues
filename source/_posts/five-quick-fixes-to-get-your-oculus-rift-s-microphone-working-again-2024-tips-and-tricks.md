@@ -1,7 +1,7 @@
 ---
 title: Five Quick Fixes to Get Your Oculus Rift S Microphone Working Again - 2024 Tips & Tricks
-date: 2025-02-05T22:04:16.479Z
-updated: 2025-02-11T03:17:39.713Z
+date: 2025-02-26T01:31:54.017Z
+updated: 2025-03-02T13:59:47.878Z
 tags:
   - win11
   - win10
@@ -49,33 +49,17 @@ You should allow your Windows 10 system and your application to access your head
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62e8bd4fd27.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Click the**Change**button, then make sure **Microphone for this device** is turned**on**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62e9221f920.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Make sure**Allow apps to access your microphone**is turned**on**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62e9a89f2b6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Hopefully this fixes your microphone issue. But if not, there are still three fixes you can try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Check your microphone device settings
 
@@ -99,10 +83,6 @@ Your Logitech G933 mic may be disabled or not set as the default device on your 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)**Right click it again and select **Set as Default Device**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
@@ -111,10 +91,6 @@ Your Logitech G933 mic may be disabled or not set as the default device on your 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **8)** Click the**Levels**tab, then drag the volume slider towards the_largest value_.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
@@ -122,10 +98,6 @@ Your Logitech G933 mic may be disabled or not set as the default device on your 
 **9)** Click**OK**, then click**OK**. Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 3: Update your audio drivers
 
@@ -163,19 +135,16 @@ If your headset microphone is still not working, it’s likely there are hardwar
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-top-6-networks-transforming-how-firms-connect-and-engage/"><u>[New] 2024 Approved Top 6 Networks Transforming How Firms Connect and Engage</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-a-beginners-guide-to-editing-digits-in-tiktoks/"><u>[Updated] 2024 Approved A Beginner’s Guide to Editing Digits in TikToks</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-essential-guide-to-aiseesofts-screencasting-features/"><u>[Updated] 2024 Approved Essential Guide to Aiseesoft's Screencasting Features</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-solutions-when-your-sound-blaster-mic-wont-work/"><u>DIY Solutions: When Your Sound Blaster Mic Won't Work</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-your-pc-with-realtek-asio-windows-10-drivers-now/"><u>Download and Update Your PC with RealTek Asio Windows 10 Drivers Now!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easy-solutions-for-when-audio-stops-working-on-dell-computers-or-laptops/"><u>Easy Solutions for When Audio Stops Working on Dell Computers or Laptops</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/how-to-create-or-schedule-a-google-meet-in-2024/"><u>How to Create or Schedule A Google Meet, In 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-seamless-video-and-photo-upload-from-pc-to-iphone/"><u>In 2024, Seamless Video & Photo Upload From PC to iPhone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722964280657-latest-update-for-tp-links-80211ac-adapter-software-on-windows-pcs/"><u>Latest Update for TP-Link's 802.11Ac Adapter Software on Windows PCs</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-online-video-blurring-the-top-free-tools-and-techniques/"><u>New Online Video Blurring The Top Free Tools and Techniques</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-silent-seas-a-guide-to-enabling-micspeakers-in-sea-of-thieves-pc-version/"><u>Solving the Silent Seas: A Guide to Enabling Mic/Speakers in Sea of Thieves PC Version</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-for-malfunctioning-turtle-audios-xeno-ut-recon-70-mic/"><u>Troubleshooting Guide for Malfunctioning Turtle Audio's Xeno UT Recon 70 Mic</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/troubleshooting-the-chatgpt-body-stream-error-top-7-fixes-you-need-to-know-about/"><u>Troubleshooting the ChatGPT Body Stream Error: Top 7 Fixes You Need to Know About</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-resolving-issues-with-your-corsair-hs70-mic-not-working-correctly/"><u>Troubleshooting Tips for Resolving Issues with Your Corsair HS70 Mic Not Working Correctly</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-curating-soundscapes-a-detailed-look-at-youtube-playlists/"><u>2024 Approved Curating Soundscapes A Detailed Look at YouTube Playlists</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cracking-gpts-code-exposing-ai-realities/"><u>Cracking GPT's Code: Exposing AI Realities</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-windows-1n-sound-issues-complete-solution/"><u>How to Repair Windows 1N Sound Issues - Complete Solution</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-xiaomi-redmi-12-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Xiaomi Redmi 12 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-crystal-carousel-at-the-olympics/"><u>In 2024, Crystal Carousel at the Olympics</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-lava-yuva-2-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Lava Yuva 2 for Free? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-vivo-y02t-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Vivo Y02T FRP</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mac-no-sound-solved/"><u>Mac No Sound [SOLVED]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-fluctuating-sounds-resolving-bluetooth-audio-problems-in-windows/"><u>No More Fluctuating Sounds: Resolving Bluetooth Audio Problems in Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-connectivity-problems-with-the-blue-yeti-microphone-a-step-by-step-guide/"><u>Overcoming Connectivity Problems With The Blue Yeti Microphone - A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/skyrocketing-ps3-storage-with-a-new-hdd/"><u>Skyrocketing PS3 Storage with a New HDD</u></a></li>
 </ul></div>
 

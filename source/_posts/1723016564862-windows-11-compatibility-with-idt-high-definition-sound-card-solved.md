@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Compatibility with IDT High Definition Sound Card - Solved
-date: 2025-02-09T07:04:08.891Z
-updated: 2025-02-11T00:19:39.857Z
+date: 2025-02-25T11:34:40.378Z
+updated: 2025-03-02T03:38:32.463Z
 tags:
   - win11
   - win10
@@ -24,39 +24,19 @@ If you’re on Windows 10 and your sound suddenly stops working, or that you can
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Method 1: Re-install Driver**
 
 Faulty audio driver can be the lead cause of this problem. You can reinstall its driver to fix the problem: 1) On your keyboard, press the**Windows logo key**and**R**at the same time, type**devmgmt.msc**and press**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8de5b73cd9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Expand**Sound, video and game controllers** and locate**IDT High Definition Audio CODEC**.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5784665dcbc35.png)3) Right-click **IDT High Definition Audio CODEC** and select**Uninstall**.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5784923683fba.png)Select**OK**when the confirmation window pops up. 4) Restart your computer after this change to make sure that Windows Update help you with the update of the driver for your audio device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 2: Update driver automatically (Recommended)**
 
 If reinstalling driver doesn’t help you with it, you should try update your audio driver instead. You can do so via Device Manager or Windows Update. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with**Driver Easy**.**Driver Easy**will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the**FREE**or the**Pro**version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1)[**Download**](https://tools.techidaily.com/drivereasy/download/)and install Driver Easy. 2) Run Driver Easy and click**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b091e04542e1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Click the**Update**button next to the flagged sound card driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click**_Update All_**).
 
@@ -81,18 +61,24 @@ If you have any ideas or questions, please feel free to leave your comments belo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-from-sideways-to-symmetry-the-instagram-chronicles-of-flipping-photos/"><u>[Updated] 2024 Approved From Sideways to Symmetry The Instagram Chronicles of Flipping Photos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/battling-hdmi-connectivity-fixing-conflicts-with-multiple-applications-on-one-device/"><u>Battling HDMI Connectivity: Fixing Conflicts with Multiple Applications on One Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-pairing-of-samsung-in-ear-buds-and-computer-systems/"><u>Effortless Pairing of Samsung In-Ear Buds and Computer Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-restoring-functionality-to-your-modern-warfare-voice-chat-feature/"><u>Expert Advice: Restoring Functionality to Your Modern Warfare Voice Chat Feature</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-samsung-galaxy-m14-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy M14 5G Safely | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-tozo-t6-device-errors-in-windows-11-systems/"><u>How to Resolve Tozo T6 Device Errors in Windows 11 Systems</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-ace-your-project-advanced-srt-tweaks-on-a-mac/"><u>In 2024, Ace Your Project Advanced SRT Tweaks on a Mac</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-how-to-record-iphoneipads-screen/"><u>In 2024, How to Record iPhone/iPad’s Screen</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-challenges-with-starting-a-hosted-network-on-windows-10-solved/"><u>Overcoming Challenges with Starting a Hosted Network on Windows 10 (Solved)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-windows-7-hdmi-speaker-problems-step-by-step-tutorial/"><u>Resolving Windows # 7 HDMI Speaker Problems – Step-by-Step Tutorial</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-pcs-silent-treatment-audio-repair-in-a-flash/"><u>Solve Your PC's Silent Treatment - Audio Repair in a Flash</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-versatility-of-nvidia-ai-foundations-the-ultimate-guide-to-custom-gan-models/"><u>Understanding the Versatility of NVIDIA AI Foundations: The Ultimate Guide to Custom GAN Models</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016967248-zoom-microphone-problems-get-them-fixed-now-on-windows-11-and-windows-10-platforms/"><u>Zoom Microphone Problems? Get Them Fixed Now on Windows 11 and Windows 10 Platforms!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-efficient-gaming-footage-with-camcapture/"><u>[New] 2024 Approved Efficient Gaming Footage with CamCapture</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harness-freedom-with-top-rated-android-editing-apps/"><u>[Updated] In 2024, Harness Freedom with Top-Rated Android Editing Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prime-mobile-tools-to-enhance-dji-drone-imagery/"><u>[Updated] Prime Mobile Tools to Enhance DJi Drone Imagery</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-5-goggles-for-optimal-drone-pilot-viewing/"><u>2024 Approved Leading 5 Goggles for Optimal Drone Pilot Viewing</u></a></li>
+<li><a href="https://win-premium.techidaily.com/como-restaurar-archivos-desaparecidos-irreversiblemente-en-windows-tecnicas-esenciales/"><u>Cómo Restaurar Archivos Desaparecidos Irreversiblemente en Windows: Técnicas Esenciales</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fingerprint-reader-unavailable-in-windows-os/"><u>Fingerprint Reader: Unavailable in Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-how-to-restore-voice-chat-in-call-of-duty-modern-warfare/"><u>Fixing Issues: How to Restore Voice Chat in Call of Duty Modern Warfare</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-determine-if-chatgpt-is-active-top-5-methods/"><u>How to Determine if ChatGPT Is Active - Top 5 Methods</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-silent-speakers-after-plugging-into-your-pc-with-windows-os/"><u>How to Fix Silent Speakers After Plugging Into Your PC with Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-through-hdmi-on-a-windows-7-system-solved/"><u>How to Restore Sound Through HDMI on a Windows 7 System [Solved]</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/mastering-zepto-usage-a-comprehensive-guide-for-desktop-enthusiasts/"><u>Mastering Zepto Usage: A Comprehensive Guide for Desktop Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-console-play-with-ryujinx-a-controller-guide-for-ps4switch-games/"><u>Optimal Console Play with Ryujinx: A Controller Guide for PS4/Switch Games</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-silence-effective-strategies-to-resolve-wows-audio-problems/"><u>Overcoming Silence: Effective Strategies to Resolve WoW's Audio Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-non-functional-microphones-in-microsoft-windows-11/"><u>Quick Fixes for Non-Functional Microphones in Microsoft Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-guide-troubleshooting-the-silent-astro-a50-headset-issue/"><u>Quick Guide: Troubleshooting the Silent Astro A50 Headset Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-dolby-advanced-audio-driver-woes-a-step-by-step-guide-for-windows-11-users/"><u>Resolve Your Dolby Advanced Audio Driver Woes - A Step-By-Step Guide for Windows 11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-resolving-nonfunctional-microphone-in-microsoft-teams-across-windows-1011-systems/"><u>Step-by-Step Tutorial: Resolving Nonfunctional Microphone in Microsoft Teams Across Windows 10/11 Systems</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-top-10-browser-compatible-daw-platforms-free-edition/"><u>Updated 2024 Approved Top 10 Browser-Compatible DAW Platforms (Free Edition)</u></a></li>
+<li><a href="https://media-tips.techidaily.com/why-owning-music-in-mp3-format-beats-the-convenience-of-streaming-services/"><u>Why Owning Music in MP3 Format Beats the Convenience of Streaming Services</u></a></li>
 </ul></div>
 

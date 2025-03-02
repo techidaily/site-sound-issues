@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Audio Optimization - How to Deactivate It Effectively
-date: 2024-08-23T12:08:48.514Z
-updated: 2024-08-24T12:08:48.514Z
+date: 2025-02-24T10:24:03.403Z
+updated: 2025-03-02T02:34:50.260Z
 tags:
   - win11
   - win10
@@ -15,13 +15,6 @@ thumbnail: https://thmb.techidaily.com/f34f1e15652c4e288fb8fde812b08aadacd96fb09
 
 ## Effective Solutions for Laptops with Sound Malfunctions - Now Fixed
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be5410d2d28a-300x227.jpg)
 
  If you suddenly can’t play audio on your laptop, you can try the fixes below to solve your problem, quickly and easily!
@@ -39,17 +32,10 @@ No advertising on the website.
 
  If you Windows service is stopped or having a problem, the audio devices and effects on your laptop won’t function properly. You can restart your Windows Audio service and see if this can fix your problem.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. On your keyboard, press the**Windows logo** ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ecde832800.png) key and**R** at the same time to invoke the Run box.
 2. Type **services.msc** and press**Enter** to open the Services window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be41858d02eb.png)
 3. Scroll down to and select**Windows Audio** , then click**Restart** on the upper left.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4188411dba.jpg)
 4. Test if the sound works now on your laptop. If not, try the next fix, below.
 
@@ -59,21 +45,12 @@ No advertising on the website.
 
  If your audio driver is corrupted, you may not be able to play audio on your laptop. You can try uninstalling the existing audio driver on your laptop, then restart your computer to install a new driver for your audio device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 1. Press the**Windows logo** ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ecde832800.png) key and**R** at the same time to open the Run box.
 2. Type **devmgmt.msc** and press**Enter** to access Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be418b9425d4.png)
 3. Expand**Sound, video and game controllers** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be418e3d5421.jpg)
 4. Right-click on your audio device, and select**Uninstall device** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4190d3f301.jpg)
 5. Click**Uninstall** as confirmation.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4192dc4abe.png)
@@ -96,14 +73,8 @@ Or
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be41665b9a39.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4166ea8070.jpg)
 4. Restart your computer and check if the sound on your laptop now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 4 below.
 
@@ -118,14 +89,8 @@ Or
 2. Click the**Playback** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be419a50139f.jpg)
 3. Select your audio device, then click the**Properties** button on the lower right.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be419cc8d388.jpg)
 4. Click the**Advanced** tab.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be419ed81e96.jpg)
 5. Choose a different format from the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be41a030600b.jpg)
@@ -147,8 +112,6 @@ Does the sound work properly on your laptop now?
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +119,24 @@ Does the sound work properly on your laptop now?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-fastest-on-ice-olympic-highlights-in-short-track-events/"><u>[Updated] Fastest on Ice Olympic Highlights in Short Track Events</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-maximize-engagement-with-proper-youtube-video-dimensions-for-2024/"><u>[Updated] Maximize Engagement with Proper YouTube Video Dimensions for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-microsoft-unveils-hololens-the-augmented-reality-evolution/"><u>[Updated] Microsoft Unveils HoloLens The Augmented Reality Evolution</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/360-degree-panoramic-stands-for-2024/"><u>360-Degree Panoramic Stands for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/bringing-business-efficiency-installing-ms-works-on-windows/"><u>Bringing Business Efficiency: Installing MS Works on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-troubleshoot-non-functional-speakers-on-your-laptop/"><u>Fixing the Issue: How to Troubleshoot Non-Functional Speakers on Your Laptop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-realtek-high-definition-audio-manager-wont-launch-issue/"><u>How to Fix Realtek High Definition Audio Manager Won't Launch Issue?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/improve-your-pcs-audio-by-disabling-the-enhancements-on-windows-11/"><u>Improve Your PC's Audio by Disabling the Enhancements on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/innovative-document-automation-exploring-the-power-of-abbyy-and-pegasystems/"><u>Innovative Document Automation: Exploring the Power of ABBYY & Pegasystems</u></a></li>
+<li><a href="https://media-tips.techidaily.com/it-must-stipulate-a-unique-identifier-system-for-patients-samples-to-ensure-anonymity/"><u>It Must Stipulate a Unique Identifier System for Patients' Samples to Ensure Anonymity.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016451345-overcome-voicemod-errors-and-enjoy-seamless-usage-expert-tips/"><u>Overcome Voicemod Errors and Enjoy Seamless Usage : Expert Tips!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-how-to-solve-sound-problems-in-cs-2s-in-game-communication/"><u>Resolved: How to Solve Sound Problems in CS 2'S In-Game Communication</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-obs-microphone-essential-tips-on-restoring-audio-and-recording-capabilities/"><u>Reviving Your OBS Microphone: Essential Tips on Restoring Audio and Recording Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/snooze-techniques-for-efficient-computers/"><u>Snooze Techniques for Efficient Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-common-issues-a-step-by-step-guide-to-repairing-your-sennheiser-gaming-microphone/"><u>Solving Common Issues: A Step-by-Step Guide to Repairing Your Sennheiser Gaming Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-resolve-mac-noise-issues-successfully/"><u>The Ultimate Guide to Resolve Mac Noise Issues Successfully</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-the-15-best-free-online-image-enhancement-tools/"><u>Unveiling the 15 Best Free Online Image Enhancement Tools</u></a></li>
+</ul></div>
 

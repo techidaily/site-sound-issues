@@ -1,7 +1,7 @@
 ---
 title: "Fast Fixes: Dealing with the Playback Test Tone Error Smoothly and Easily"
-date: 2025-02-08T17:31:39.142Z
-updated: 2025-02-11T05:16:35.234Z
+date: 2025-02-23T09:28:22.809Z
+updated: 2025-03-02T07:06:56.660Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not have to try them all. Simply work down the list until you find the one that does the trick.
@@ -39,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 5. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Change your default playback device**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Change your audio channel](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1:**Check if it’s a video problem**
 
@@ -62,18 +54,10 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/open-volume-mixer.jpg)
 2. In the Volume Mixer window,**hold and drag** the slider for your browser (mine is Chrome) to turn up the volume.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/volume-mixer-hold-and-drag.jpg)
 3. Play your video and see if you hear any sound.
 
  If this method doesn’t fix your problem, please take a look at the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: **Change to another browser**
 
@@ -82,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
  For a better testing result, you should stop using Internet Explorer and shift to other modern counterparts, such as[Firefox](https://www.mozilla.org/en-US/firefox/new/) ,[Chrome](https://www.google.com/chrome/) and[Opera](https://www.opera.com/) .
 
  If the problem persists after changing your browser, please move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4:**Restart your computer**
 
@@ -136,10 +116,6 @@ This method also applies to Windows 10, 8 or 7
 
  If changing your default output device doesn’t solve your problem, don’t worry. There’s still one last fix you can try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7:**Change your audio channel**
 
  Some users reported that changing the audio channel saves the day, so it might also be a potential solution for your case.
@@ -162,10 +138,6 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap110.jpg)
 6. Play some Facebook videos and see if your problem has disappeared.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
  So these are the fixes for your Facebook no sound issue. Hopefully, you’ve solved the problem and can now enjoy all kinds of Facebook videos. And of course, if you have any questions or suggestions, just drop a comment and we’ll get back to you.
@@ -187,20 +159,22 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-introducing-top-tier-facebook-update-insights/"><u>[New] Introducing Top-Tier Facebook Update Insights</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/5-essential-email-strategies-to-engage-subscribers-using-massmail-software-2011-edition/"><u>5 Essential Email Strategies to Engage Subscribers Using Massmail Software - 2011 Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/customizing-graphics-output-for-enhanced-clarity/"><u>Customizing Graphics Output for Enhanced Clarity</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-your-outriders-games-audio-malfunctions-successfully/"><u>Diagnosing & Repairing Your Outriders Game's Audio Malfunctions Successfully</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-windows-11-dolby-audio-failure-quick-guide-to-reactivating-your-sound-drivers/"><u>Resolve Windows 11 Dolby Audio Failure: Quick Guide to Reactivating Your Sound Drivers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-arena-resolved-expert-advice-for-restoring-sound-in-apex-legends/"><u>Silent Arena Resolved: Expert Advice for Restoring Sound in Apex Legends</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-airpods-microphone-problems-in-windows-11/"><u>Solve Your AirPods Microphone Problems in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-why-isnt-my-microphone-capturing-sound-common-fixes-inside/"><u>Solved! Why Isn't My Microphone Capturing Sound? Common Fixes Inside</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-silence-a-guide-to-troubleshooting-your-nvidia-hd-audio-issues/"><u>Solving the Silence: A Guide to Troubleshooting Your Nvidia HD Audio Issues</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/stitching-an-innovative-tiktok-closing-credits/"><u>Stitching An Innovative TikTok Closing Credits</u></a></li>
-<li><a href="https://facebook.techidaily.com/superior-selection-of-budget-friendly-social-tools/"><u>Superior Selection of Budget-Friendly Social Tools</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-realme-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Realme Phone Pattern Lock</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-your-hyperx-cloud-alpha-microphone-malfunction/"><u>Troubleshooting Guide: Resolving Issues with Your HyperX Cloud Alpha Microphone Malfunction</u></a></li>
-<li><a href="https://fox-links.techidaily.com/unmatched-melodies-selector-android-companion/"><u>Unmatched Melodies Selector, Android Companion</u></a></li>
-<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-12-pro-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From iPhone 12 Pro?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-impact-of-luts-on-professional-photography/"><u>[New] The Impact of LUTs on Professional Photography</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-moonlit-mastery-tips-for-perfecting-nighttime-photos-for-2024/"><u>[Updated] Moonlit Mastery Tips for Perfecting Nighttime Photos for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-guide-to-instagram-analytics-tools-for-accurate-tracking-for-2024/"><u>[Updated] The Ultimate Guide to Instagram Analytics Tools for Accurate Tracking for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-crafting-fast-fortnite-icons-in-minutes/"><u>2024 Approved Crafting Fast Fortnite Icons in Minutes</u></a></li>
+<li><a href="https://win-top.techidaily.com/activer-la-protection-systeme-requise-pour-ce-lecteur-guide-rapide-et-complet/"><u>Activer La Protection Système Requise Pour Ce Lecteur - Guide Rapide Et Complet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015429486-apex-legends-quiet-zone-heres-how-to-get-game-sounds-back/"><u>Apex Legends Quiet Zone? Here's How to Get Game Sounds Back</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016459028-audio-problems-get-your-game-on-restore-sounds-for-anthem-in-windows-11-now/"><u>Audio Problems? Get Your Game On - Restore Sounds for Anthem in Windows 11 Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-guide-to-leveraging-anthropics-newly-released-claude-3-platform/"><u>Essential Guide to Leveraging Anthropic's Newly-Released Claude 3 Platform</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016636835-expert-guide-to-fixing-voice-chat-glitches-in-fortnite-instantly/"><u>Expert Guide to Fixing Voice Chat Glitches in Fortnite Instantly!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-lut-applications-in-ae-for-2024/"><u>Mastering LUT Applications in AE for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016079418-pubg-mobile-chat-troubles-discover-easy-fixes-for-smooth-communication/"><u>PUBG Mobile Chat Troubles? Discover Easy Fixes for Smooth Communication</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015886595-quick-fix-for-when-your-discord-voice-chat-stays-silent-ptt-problems-solved/"><u>Quick Fix for When Your Discord Voice Chat Stays Silent: PTT Problems Solved!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016553301-revive-your-hp-laptops-speakers-tackle-the-silent-issue-today/"><u>Revive Your HP Laptop's Speakers - Tackle the Silent Issue Today!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016867432-top-strategies-for-overcoming-hyperx-cloud-mic-issues-no-more-silence-in-your-setup/"><u>Top Strategies for Overcoming HyperX Cloud Mic Issues: No More Silence in Your Setup</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transferring-with-confidence-mastering-the-art-of-moving-files-with-windows-backup-onto-a-fresh-machine/"><u>Transferring with Confidence: Mastering the Art of Moving Files with Windows Backup Onto a Fresh Machine</u></a></li>
+<li><a href="https://extra-support.techidaily.com/why-does-my-photo-booth-videos-keep-freezing-for-2024/"><u>Why Does My Photo Booth Videos Keep Freezing for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016853517-windows-10-speaker-malfunctions-diagnosis-and-solutions-available-here/"><u>Windows 10 Speaker Malfunctions: Diagnosis and Solutions Available Here</u></a></li>
 </ul></div>
 

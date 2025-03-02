@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the SteelSeries Arctis Pro Mic – Top Fixes to Try
-date: 2024-12-24T18:00:11.308Z
-updated: 2024-12-25T19:11:09.338Z
+date: 2025-02-27T18:50:03.805Z
+updated: 2025-03-02T02:17:32.104Z
 tags:
   - win11
   - win10
@@ -60,17 +60,9 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/privacy.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Please be sure to turn on “**Allow access to the microphone on this device** ” and “**Allow apps to access your microphone** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Scroll down to allow microphone access for the Microsoft apps and desktop apps.
 
@@ -89,10 +81,6 @@ Here’s how to do it:
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) In the Sound windows, select the **Recording**  tab.
 
@@ -139,27 +127,15 @@ Here’s how to do it:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Make sure to use the correct Default Format
 
  1) On your keyboard, press the **Windows logo** key and the **R** key at the same time to open the Run box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) In the Sound windows, select the **Recording**  tab.
 
@@ -194,16 +170,18 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-free-screen-capture-solutions-top-5-recommendations-for-windows/"><u>[New] 2024 Approved Free Screen Capture Solutions – Top 5 Recommendations for Windows</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-gamers-graphically-glorious-reviews-for-2024/"><u>[Updated] GAMER'S GRAPHICALLY GLORIOUS REVIEWS for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-first-steps-in-virtual-conferencing-with-zoom/"><u>[Updated] In 2024, First Steps in Virtual Conferencing with Zoom</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-amnesia-in-computers-tackle-the-problem-of-inactive-headphones-on-your-pc-or-laptop-here/"><u>Audio Amnesia in Computers? Tackle the Problem of Inactive Headphones on Your PC or Laptop Here!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-to-troubleshooting-and-repairing-audio-problems-in-toshiba-laptops/"><u>Comprehensive Guide to Troubleshooting and Repairing Audio Problems in Toshiba Laptops</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-speaker-malfunctions-on-a-windows-10-machine/"><u>Diagnosing and Repairing Speaker Malfunctions on a Windows 10 Machine</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/y-download-your-favorites-handpicked-tools-reviewed-for-2024/"><u>Easily Download Your Favorites Handpicked Tools Reviewed for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-guide-to-downloading-the-right-epson-wf-263n-driver-for-various-windows-operating-systems/"><u>Easy Guide to Downloading the Right Epson WF 263N Driver for Various Windows Operating Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-restore-functionality-of-your-steelseries-arctis-prime-microphone/"><u>Fixing the Issue: How to Restore Functionality of Your SteelSeries Arctis Prime Microphone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mp49/"><u>MP4音声抽出が簡単に!?驚きの方法講座・最高のアプリ9選</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/what-to-do-when-your-nvidia-output-isnt-working-practical-steps-for-diagnosis-and-solution/"><u>What to Do When Your Nvidia Output Isn't Working: Practical Steps for Diagnosis and Solution</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-professional-grade-grid-tools-for-striking-instagram-posts/"><u>[New] Professional-Grade Grid Tools for Striking Instagram Posts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-counter-strike-2-mic-not-working/"><u>[SOLVED] Counter-Strike 2 Mic Not Working</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-youtube-integration-a-beginners-guide-to-google-meet-for-2024/"><u>[Updated] YouTube Integration A Beginner's Guide to Google Meet for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-brother-hl-2240-driver-now-perfect-for-windows-users/"><u>Download Updated Brother HL-2ˈ240 Driver Now: Perfect for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-insufficient-usb-availability-problem/"><u>Fixing Insufficient USB Availability Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-blackshark-v2-mic-problems-heres-how-to-get-it-working-again/"><u>Razer BlackShark V2 Mic Problems? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-logitech-g430-microphone-effective-fixes-to-restore-audio-functionality/"><u>Revive Your Logitech G430 Microphone - Effective Fixes to Restore Audio Functionality</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionize-your-listening-experience-apple-podcasts-introduces-auto-generated-subtitles/"><u>Revolutionize Your Listening Experience: Apple Podcasts Introduces Auto-Generated Subtitles</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/robert-youngjohns-passage-de-hp-et-microsoft-a-la-presidence-du-conseil-dadministration-dabbyy/"><u>Robert Youngjohns: Passage De HP Et Microsoft À La Présidence Du Conseil D'administration D'ABBYY</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-steps-to-restore-microphone-functionality-in-google-hangouts/"><u>Simple Steps to Restore Microphone Functionality in Google Hangouts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sound-keeps-cutting-out-on-windows-11-solved/"><u>Sound Keeps Cutting Out on Windows 11 [Solved]</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/vr-adventures-with-lgs-360-headset-insights-for-2024/"><u>VR Adventures with LG's 360 Headset Insights for 2024</u></a></li>
 </ul></div>
 

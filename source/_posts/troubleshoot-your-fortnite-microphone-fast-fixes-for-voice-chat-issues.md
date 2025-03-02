@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot Your Fortnite Microphone: Fast Fixes for Voice Chat Issues"
-date: 2025-02-05T16:16:22.834Z
-updated: 2025-02-11T02:50:53.223Z
+date: 2025-02-25T21:15:07.950Z
+updated: 2025-03-02T01:54:15.129Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70c
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Sign out Fortnite, then sign back in
 
  This is the quickest and easiest fix to try when chat’s not working in Fortnite. Just sign out of the game, then sign back in.
@@ -59,19 +55,11 @@ thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Driver-Easy-Scan-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Click **Update** next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Update-all-drivers.jpg)
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Fortnite patch
 
@@ -95,15 +83,7 @@ thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap898.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run Fortnite again to check whether your chat problem has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 4, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Make sure your microphone is on for Fortnite
 
@@ -143,17 +123,9 @@ iii. Exit Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4\. Click the **Recording** tab, select the microphone you’re using and click **Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5\. While still in the**Recording** tab, try**speaking into your microphone** to test if it works properly. If it is, you should see some green in the bar on the right:
 
@@ -164,10 +136,6 @@ iii. Exit Fortnite.
  7\. Run Fortnite again to**turn Voice Chat on.**
 
  Join a squad to check ifchat is now working . If not, try the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Fortnite
 
@@ -210,21 +178,22 @@ iii. Exit Fortnite.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-dive-into-a-stream-of-9-full-length-festive-flicks-no-charge/"><u>[Updated] Dive Into a Stream of 9 Full-Length Festive Flicks - No Charge!</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-best-practices-for-controlling-music-speed-on-spotify/"><u>[Updated] In 2024, Best Practices for Controlling Music Speed on Spotify</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-video-creators-guide-to-copyright-compliance-on-youtube/"><u>[Updated] The Video Creator's Guide to Copyright Compliance on YouTube</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/acethinker-screen-recorder-review-for-2024/"><u>AceThinker Screen Recorder Review for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/addressing-audio-disturbances-in-the-latest-version-of-new-world-a-comprehensive-guide/"><u>Addressing Audio Disturbances in the Latest Version of New World: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-restore-audio-on-your-windows-7-pc/"><u>Fixing the Issue: How to Restore Audio on Your Windows 7 PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-overcome-malfunctions-when-using-your-clownfish-vocal-transformer/"><u>How to Overcome Malfunctions When Using Your Clownfish Vocal Transformer</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-a-roadmap-to-reigning-in-the-realm-of-social-media-management-smm/"><u>In 2024, A Roadmap to Reigning in the Realm of Social Media Management (SMM)</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nokia-c110-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nokia C110</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-youtubes-video-editor-integrating-tracks-into-your-videos/"><u>In 2024, Mastering YouTube's Video Editor Integrating Tracks Into Your Videos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/master-the-art-of-mic-testing-in-minutes-with-our-simple-tricks/"><u>Master the Art of Mic Testing in Minutes with Our Simple Tricks</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/navigating-word-and-excel-a-comprehensive-guide-to-turn-off-autosave/"><u>Navigating Word & Excel: A Comprehensive Guide to Turn Off AutoSave</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-issue-experiencing-sound-through-speakers-despite-headphone-connection/"><u>Resolved Issue: Experiencing Sound Through Speakers Despite Headphone Connection</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-functionality-to-your-hyperx-cloud-alpha-microphone-a-detailed-guide/"><u>Restoring Functionality to Your HyperX Cloud Alpha Microphone - A Detailed Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-sound-experience-overcoming-no-audio-problem-in-firefox/"><u>Revive Your Sound Experience: Overcoming No Audio Problem in Firefox</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-missing-sound-output-when-connected-devices-are-not-detected-in-windows-windows-1eb-8-7/"><u>Solving Missing Sound Output When Connected Devices Are Not Detected in Windows (Windows 1Eb, 8, 7)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-choreographing-ideal-canon-time-lapse-shots/"><u>[New] Choreographing Ideal Canon Time-Lapse Shots</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-frame-by-frame-helpdesk/"><u>[New] In 2024, Frame by Frame Helpdesk</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-social-network-synergy-broadcasting-twitch-on-social-media-platforms/"><u>[New] Social Network Synergy Broadcasting Twitch on Social Media Platforms</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/airpods-not-working-heres-how-to-get-your-windows-10-mic-up-and-running-again/"><u>AirPods Not Working? Here's How to Get Your Windows 10 Mic Up & Running Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cracking-out-the-crackles-top-strategies-for-silencing-your-logitech-g-pro-x-on-pc-this-year/"><u>Cracking Out the Crackles: Top Strategies for Silencing Your Logitech G Pro X on PC This Year</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solutions-for-corsair-hs70-headphones-when-the-microphone-fails/"><u>DIY Solutions for Corsair HS70 Headphones When the Microphone Fails</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expanding-your-visual-workspace-with-ease-adding-a-second-thunderbolt-monitor-to-the-apple-m1-mac-mini-expert-tips/"><u>Expanding Your Visual Workspace with Ease: Adding a Second Thunderbolt Monitor to the Apple M1 Mac Mini – Expert Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-guide-restoring-your-mics-functionality-in-microsoft-teams-for-winodws-11-users/"><u>Expert Guide: Restoring Your Mic's Functionality in Microsoft Teams for Winodws 11 Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/five-keys-to-a-child-oriented-ps5-security/"><u>Five Keys to a Child-Oriented PS5 Security</u></a></li>
+<li><a href="https://win-webster.techidaily.com/guide-sharing-itunes-purchased-tracks-with-your-windowsmac-desktop/"><u>Guide: Sharing iTunes-Purchased Tracks with Your Windows/Mac Desktop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016194624-how-to-get-your-onikuma-headset-mic-up-and-running-again/"><u>How To Get Your Onikuma Headset Mic Up And Running Again!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-the-modern-shoppers-guide-to-360-degree-imaging-tech/"><u>In 2024, The Modern Shopper's Guide to 360-Degree Imaging Tech</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-guide-booting-into-windows-11s-safe-mode/"><u>Masterful Guide: Booting Into Windows 11'S Safe Mode</u></a></li>
+<li><a href="https://extra-information.techidaily.com/revolutionizing-patient-engagement-with-creative-fb-strategies/"><u>Revolutionizing Patient Engagement with Creative FB Strategies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-solution-for-eliminating-audio-delays-2024s-top-strategies/"><u>The Definitive Solution for Eliminating Audio Delays: 2024'S Top Strategies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-unconnected-nvidia-ports-with-proven-techniques/"><u>Troubleshoot Unconnected Nvidia Ports with Proven Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-a-non-functional-front-panel-audio-jack/"><u>Troubleshooting and Fixing a Non-Functional Front Panel Audio Jack</u></a></li>
 </ul></div>
 

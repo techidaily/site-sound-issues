@@ -1,7 +1,7 @@
 ---
 title: Expert Guide to Restoring Audio Functionality in Toshiba Laptops
-date: 2024-08-23T12:11:39.334Z
-updated: 2024-08-24T12:11:39.334Z
+date: 2025-02-27T09:53:59.674Z
+updated: 2025-03-01T17:24:25.056Z
 tags:
   - win11
   - win10
@@ -31,23 +31,14 @@ thumbnail: https://thmb.techidaily.com/6ea42b82e55f6c668ff7a393a7539803912a1c23e
 
  2) **View by large icons** and click **Sound** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd4d734d2c.jpg)
 
 3) See the Speakers is disabled:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd4dfc1fa7.jpg)
 
  If it is disabled, right click on it and select **Enable** .
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd4eb667e9.jpg)
 
  If you don’t see **Speakers** option listed, it could be disabled and hidden. Right click on the blank space and select **Show Disabled Devices** . Then Enable it.
@@ -64,25 +55,16 @@ thumbnail: https://thmb.techidaily.com/6ea42b82e55f6c668ff7a393a7539803912a1c23e
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Method 1: Disable the audio device in Device Manager and restart your PC**
 
 Follow these steps:
 
  1) On your keyboard, press the**Win+R** (the Windows logo key and the R key) at the same time to invoke the run box. Type**devmgmt.msc** in the run box then click the**OK** button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9642d9827b4.png)
 
  2) Expand the category “**Sound, video and game controllers** “. Under this category, right-click on the audio device name. A context menu will pop up, then select **Disable** .
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd515db2c0.jpg)
 
  3) Restart your PC. Then a Window will pop up to ask you to solve the sound problem. Just follow the on-screen instructions. Then the sound issue should resolve.
@@ -119,8 +101,6 @@ Follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +108,26 @@ Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-logging-live-video-conversations/"><u>[New] Logging Live Video Conversations</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-cutting-edge-editing-tiktok-edition-unveiled/"><u>[Updated] 2024 Approved Cutting-Edge Editing TikTok Edition Unveiled</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unlock-youtubes-potential-with-smart-use-of-gaming-hashtags/"><u>[Updated] 2024 Approved Unlock YouTube's Potential with Smart Use of Gaming Hashtags</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-a-step-into-anti-time-original-techniques-to-rewind-yt-videos/"><u>[Updated] A Step Into Anti-Time Original Techniques to Rewind YT Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-cartoonify-photos-wirelessly-on-pcs-macs-and-more/"><u>[Updated] Cartoonify Photos Wirelessly on PCs, Macs, and More</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-cold-climates-hot-wins-beijing-highlights/"><u>[Updated] Cold Climates, Hot Wins Beijing Highlights</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/achieve-excellence-in-zoom-videos-using-key-conversion-techniques-for-2024/"><u>Achieve Excellence in Zoom Videos Using Key Conversion Techniques for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-your-logitech-g-pro-x-microphone-expert-advice/"><u>Diagnosing and Repairing Your Logitech G Pro X Microphone: Expert Advice</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/fiendish-film-pause-techniques-for-2024/"><u>Fiendish Film Pause Techniques for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-hdmi-audio-issues-on-windows-7-step-by-step-guide/"><u>Fixing HDMI Audio Issues on Windows 7 - Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/gear-435-bluetooth-earbuds-not-working-properly-sound-fix-tips-and-tricks/"><u>Gear 435 Bluetooth Earbuds Not Working Properly - Sound Fix Tips & Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-windows-11-microphone-not-working/"><u>How to Fix Windows 11 Microphone Not Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-unresponsive-mpow-microphone-for-optimal-audio-performance-on-pc/"><u>How to Repair Unresponsive MPOW Microphone for Optimal Audio Performance on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-rust-mic-functionality-a-step-by-step-guide/"><u>How to Restore Rust Mic Functionality: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-fix-five-crucial-actions-to-restore-sound-on-windows-11-computers/"><u>Master the Fix: Five Crucial Actions to Restore Sound on Windows 11 Computers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solving-the-chatgpt-sign-in-issue-a-step-by-step-guide/"><u>Solving the ChatGPT Sign-In Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-rated-no-cost-dvd-software-for-macos-high-sierra-get-your-free-installer/"><u>Top Rated No-Cost DVD Software for macOS High Sierra - Get Your Free Installer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-the-ultimate-guide-to-making-voicemod-work-again/"><u>Troubleshoot & Repair: The Ultimate Guide to Making Voicemod Work Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-to-recover-anthem-sound-capabilities-in-windows-11/"><u>Troubleshooting Steps to Recover Anthem Sound Capabilities in Windows 11</u></a></li>
+</ul></div>
 

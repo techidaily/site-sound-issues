@@ -1,7 +1,7 @@
 ---
 title: Quick and Simple Guide to Mic Checks - Mastering Microphone Test
-date: 2024-08-23T12:10:17.677Z
-updated: 2024-08-24T12:10:17.677Z
+date: 2025-02-26T08:53:19.398Z
+updated: 2025-03-02T13:01:55.894Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 
 ## Fast-Track Mic Diagnostics: A Step-by-Step Guide to Easy Microphone Testing
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![mic testing](https://images.drivereasy.com/wp-content/uploads/2019/05/mic1.png)
 
  **Don’t know how to test your microphone on your Windows computer?** Don’t worry! You’ve come to the right place. It’s pretty easy. After reading this post, you should be able to test your mic quickly and easily!
@@ -30,9 +27,6 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Mic testing in Windows audio settings
 
  In Windows audio settings, you can easily perform a mic testing. Here’s how to do it:
@@ -46,18 +40,12 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**control /name Microsoft.Sound** and press**Enter** to open**Windows sound settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-36-29-1.png)
 2. In the Windows audio settings window, navigate to**the Recording tab** , select the microphone you want to test and click**Configure** .  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-37-58.png)
 3. Click**Set up microphone** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-38-40.png)
 4. Select the correct type of your microphone and click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-39-30.png)
 5. Follow the**Microphone Setup Wizard** to configure your microphone. Close the wizard when it completes.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-40-26.png)
 
 #### Step 2: Test your microphone
@@ -73,27 +61,15 @@ Follow the steps below to test your microphone in Windows audio settings:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ### Method 2: Mic testing with the built-in Voice Recorder app
 
  You can also test your microphone using the built-in**Voice Recorder app** in Windows 10\. Here is how to do it:
 
 1. On your keyboard, press**the Windows logo key** and type**recorder** . In the list of search results, click**Voice Recorder** to open it.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-44-48.png)
 2. Click**the record icon** to start recording. Try speaking into your microphone.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-45-47.png)
 3. Click**the stop button** to stop recording.  
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-46-27.png)
 4. Click the recording file to replay it. If your microphone is fine, you should be able to hear your voice clearly.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-47-16.png)
@@ -114,9 +90,6 @@ Follow the steps below to test your microphone in Windows audio settings:
 
 1. Download and install[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-48-18.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -136,8 +109,6 @@ Follow the steps below to test your microphone in Windows audio settings:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +116,24 @@ Follow the steps below to test your microphone in Windows audio settings:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-eliminate-fuzziness-clearer-facebook-video-tips/"><u>[New] Eliminate Fuzziness Clearer Facebook Video Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-dynamic-visual-snapshot-providers/"><u>[New] In 2024, Dynamic Visual Snapshot Providers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-blitz-through-edits-with-windows-11-pro-tips/"><u>[Updated] Blitz Through Edits with Windows 11 Pro Tips</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-capture-and-store-videos-effortlessly-with-our-top-list/"><u>[Updated] Capture & Store Videos Effortlessly with Our Top List</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-screening-the-modern-internet-best-capture-apps-reviewed/"><u>[Updated] Screening the Modern Internet Best Capture Apps Reviewed</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-curating-the-best-video-game-openers-on-yt-no-money-max-impact/"><u>2024 Approved Curating the Best Video Game Openers on YT No Money, Max Impact?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/discord-push-to-talk-malfunction-heres-how-you-can-repair-it/"><u>Discord Push-To-Talk Malfunction? Here’s How You Can Repair It</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-how-to-keep-your-minecraft-drivers-current-and-fix-error-messages/"><u>Expert Advice: How to Keep Your Minecraft Drivers Current and Fix Error Messages</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722971875163-get-your-hands-on-essential-corsair-mouse-software-here/"><u>Get Your Hands on Essential Corsair Mouse Software Here</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-world-of-warcraft-microphone-issues-troubleshooting-guide/"><u>How to Fix 'World of Warcraft' Microphone Issues - Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-output-on-a-hp-laptop-in-windows-10-easily/"><u>How to Restore Sound Output on a HP Laptop in Windows 10 Easily</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-poco-x6-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Poco X6 Phones with/without a PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-audio-functionality-on-your-pc-running-windows-11-simple-solutions-inside/"><u>Restore Audio Functionality on Your PC Running Windows 11 – Simple Solutions Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-soundscape-in-world-of-warcraft-tips-and-solutions-for-muted-sound/"><u>Restoring Soundscape in World of Warcraft: Tips & Solutions for Muted Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-voice-communication-feature-in-teamwork-game-back-4-blood/"><u>Restoring Voice Communication Feature in Teamwork Game 'Back 4 Blood'</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016726859-solve-windows-11-microphone-problems-with-these-easy-fixes/"><u>Solve Windows 11 Microphone Problems with These Easy Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-restore-oculus-rift-s-microphone-functionality-fast-pro-tips/"><u>Troubleshoot and Restore Oculus Rift S Microphone Functionality Fast - Pro Tips</u></a></li>
+</ul></div>
 

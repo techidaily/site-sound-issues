@@ -1,7 +1,7 @@
 ---
 title: Critical Solutions for Lost Audio After Updating Your PC to Win 11
-date: 2024-08-23T12:11:33.727Z
-updated: 2024-08-24T12:11:33.727Z
+date: 2025-02-27T16:42:06.475Z
+updated: 2025-03-02T05:33:03.941Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/5e307eed611f17e095f5d88028b2351fba3d967d5
 
 If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound coming out from your speaker and/or your headphones, you’re not alone. We’ve received reports from many Windows users reporting it. But no worries, you can get it fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## **How do I fix it?**
 
  Here are 3 solutions you can try to get this problem fixed. You may not need to try them all. Just work from the top down until you find the one that works for you.
@@ -45,11 +41,6 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
  3) Select **Change plan settings** of whichever plan you’re with now.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52ae2775a7.jpg)
 
  4) Click **Change advanced power settings** .
@@ -68,23 +59,14 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  1) On your keyboard, press the **Windows logo key** and **X** at the same time, then choose **Device Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52d1713a49.png)
 
  2) Click to expand **Sound, video and game controllers** category. Right-click ATI HDMI Audio device driver if you can see it here and select **Disable device** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52db77fe74.png)
 
 If you don’t see this option here, move on to the next steps.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **3\. DPC Latency**
 
  In some cases, high latency could be the cause of your static audio among many other audio problems. Luckily, there’s a handy tool called **DPC Latency Checker** . It helps monitor your PC performance and tells you what’s causing the latency.
@@ -97,9 +79,6 @@ If you don’t see this option here, move on to the next steps.
 
  3) If this screenshot is different from what you’re seeing, you’ll also see which device is causing the latency like this:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a533a0c245d.png)
 
  Try disabling your device drivers from Device Manager as shown in **[Step 2](https://tools.techidaily.com/drivereasy/download/)**  one by one.
@@ -118,9 +97,6 @@ If you don’t see this option here, move on to the next steps.
 
  3) Click the **Update** button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/de-update-audio-driver.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -134,8 +110,6 @@ If you don’t see this option here, move on to the next steps.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +117,18 @@ If you don’t see this option here, move on to the next steps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-innovating-content-creation-vimeo-edition/"><u>[New] Innovating Content Creation Vimeo Edition</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-refined-connections-zoom-insight-for-professional-google-meets/"><u>[New] Refined Connections Zoom Insight for Professional Google Meets</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-countdown-in-forward-the-counterintuitive-playlist-method/"><u>[Updated] In 2024, Countdown in Forward The Counterintuitive Playlist Method</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-deciphering-the-meaning-of-facebooks-blue-video-icon/"><u>[Updated] In 2024, Deciphering the Meaning of Facebook's Blue Video Icon</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-blueprint-for-smooth-obs-to-fb-live-transitions/"><u>[Updated] In 2024, The Blueprint for Smooth OBS-to-FB Live Transitions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-and-techniques-for-repairing-non-working-computer-sound-equipment/"><u>Expert Tips and Techniques for Repairing Non-Working Computer Sound Equipment</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/macwindows/"><u>MacとWindowsの両方向けにファイル圧縮:最大限圧縮比達成ガイド</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-stereo-sound-proven-methods-for-rectifying-mono-output-problems/"><u>Reviving Your Stereo Sound: Proven Methods for Rectifying Mono Output Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/squad-mic-woes-master-the-art-of-repairing-for-seamless-chats-in-202n4/"><u>Squad Mic Woes? Master the Art of Repairing for Seamless Chats in 202N4!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-9-chatgpt-hacks-for-simplifying-daily-tasks/"><u>Top 9 ChatGPT Hacks for Simplifying Daily Tasks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-the-silent-mac-dilemma-solutions-unveiled/"><u>Troubleshoot and Fix the Silent Mac Dilemma - Solutions Unveiled</u></a></li>
+</ul></div>
 

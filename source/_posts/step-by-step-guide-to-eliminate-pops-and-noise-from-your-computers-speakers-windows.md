@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Eliminate Pops and Noise From Your Computer's Speakers (Windows)
-date: 2025-02-08T18:55:34.987Z
-updated: 2025-02-10T23:31:12.133Z
+date: 2025-03-01T01:15:21.586Z
+updated: 2025-03-02T11:51:28.595Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
 4. [**Reinstall your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 1: Troubleshoot the hardware issue**
 
  The hardware problem can cause the sound not working issue, so you can follow the instructions below to troubleshoot and identify your sound problem.
@@ -54,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
 
  If the sound is still not working, here’s the next thing to try…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 2: Check the audio settings in your Windows**
 
  If the hardware is working properly, the sound issue can be caused by the**incorrect settings** in your laptop. Follow the steps below to check the settings for your sound.
@@ -69,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
  Plus, you can drag the**volume** to the**medium** or**maximum** to see if there’s any sound.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb12196f37.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 2\. Make sure your audio device is set as default
 
@@ -98,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Select your audio device in the**Playback** tab, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962c8cd39cb.png)
@@ -109,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
  3) Click**Advanced** . In Default Format, choose another different audio rate, then click the**Test** button. Then play a music or audio to test.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962d0ec718d.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) You will need to repeat this until you find a proper audio format. Once you find the proper audio format to work, click**OK** to save the settings.
 
@@ -130,19 +110,11 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb4e9bbee3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If a**down arrow** displays on the volume icon, the sound device is disabled. Right click the device name, and select**Enable** **device** to enable your sound device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb53fb8555.png)
 
 4) Try the sound to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 3: Update your sound driver**
 
@@ -190,10 +162,6 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
 
  5) Restart your computer and Windows will automatically download and install the sound driver for your device. After that, check the sound to see if it works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Check for corrupted system files
 
  Over time, your Windows system files can become corrupted or damaged from various issues like software conflicts, malware infections, buggy updates, improper shutdowns, and more. With corrupted system files, you may encounter audio glitches, sound distortion, or no audio at all from HP devices.
@@ -240,20 +208,21 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-capture-create-curate-mobiles-in-action-for-youtube-thumbnails/"><u>[New] 2024 Approved Capture, Create, Curate Mobiles in Action for YouTube Thumbnails</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-toggle-your-youtube-video-with-picture-in-picture-on-ios/"><u>[Updated] Toggle Your YouTube Video with Picture-in-Picture on iOS</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-delight-in-facebooks-forgotten-meme-kingdoms/"><u>2024 Approved Delight in Facebook's Forgotten Meme Kingdoms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/connecting-fitness-platforms-integrate-oura-ring-data-into-strava-seamlessly-tutorial-digital-lifestyle-hub/"><u>Connecting Fitness Platforms: Integrate Oura Ring Data Into Strava Seamlessly - Tutorial | Digital Lifestyle Hub</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-common-problems-with-the-logitech-g-professional-microphone/"><u>How to Resolve Common Problems with the Logitech G Professional Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-on-your-discord-calls-expert-tips-and-steps/"><u>How To Restore Sound On Your Discord Calls: Expert Tips & Steps</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-methods-for-rolling-macos-sierra-back-to-el-capitan/"><u>In 2024, Methods for Rolling MacOS Sierra Back to El Capitan</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/razer-man-o-war-headset-malfunction-here-are-solutions-for-your-mic-troubles/"><u>Razer Man O' War Headset Malfunction? Here Are Solutions for Your Mic Troubles!</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ts-of-filmo-for-2024/"><u>Secrets of Filmo for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/steelseries-arctis-e-step-by-step-guide-to-fix-a-malfunctioning-inbuilt-microphone/"><u>SteelSeries Arctis E: Step-by-Step Guide to Fix a Malfunctioning Inbuilt Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/thorough-diagnosis-and-repair-tips-for-a-malfunctioning-beyond-the-wire-microphone/"><u>Thorough Diagnosis & Repair Tips For A Malfunctioning Beyond The Wire Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-fixing-your-non-functional-discord-voice-call/"><u>Troubleshooting Tips: Fixing Your Non-Functional Discord Voice Call</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-devices-connection-when-bluetooth-is-connected-but-silent/"><u>Troubleshooting Your Device's Connection: When Bluetooth Is Connected but Silent</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-potential-of-the-samsung-galaxy-tab-s4-a-review-for-savvy-android-enthusiasts/"><u>Unveiling the Potential of the Samsung Galaxy Tab S4 - A Review for Savvy Android Enthusiasts</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/everse-engineering-a-youtube-ban-for-2024/"><u>[New] Reverse Engineering a YouTube Ban for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/5-essential-steps-to-setting-up-a-reliable-dell-emc-backup-solution/"><u>5 Essential Steps to Setting Up a Reliable Dell EMC Backup Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/amplify-sound-quality-on-your-pc-with-easy-tweaks-for-windows-users/"><u>Amplify Sound Quality on Your PC with Easy Tweaks for Windows Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015875415-apex-legends-and-voice-chat-woes-discover-simple-solutions-to-sound-off-in-the-game/"><u>Apex Legends and Voice Chat Woes? Discover Simple Solutions to Sound Off in the Game!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-laptops-with-sound-malfunctions-now-fixed/"><u>Effective Solutions for Laptops with Sound Malfunctions - Now Fixed!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-asus-rog-phone-8-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Asus ROG Phone 8 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-iphone-6s-plus-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove iPhone 6s Plus Face ID?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-spiritual-stretching-youtubes-best-yoga-content-crews/"><u>In 2024, Spiritual Stretching – YouTube’s Best Yoga Content Crews</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-blueprint-for-impressive-photographic-mosaics/"><u>In 2024, Step-by-Step Blueprint for Impressive Photographic Mosaics</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/precision-guide-to-mastering-mobizens-screen-capture-functionality/"><u>Precision Guide to Mastering Mobizen's Screen Capture Functionality</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/transfer-data-from-hdd-to-samsung-ssd-850-evo-using-dual-techniques-for-seamless-migration/"><u>Transfer Data From HDD to Samsung SSD 850 EVO Using Dual Techniques for Seamless Migration</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-fortnite-audio-issues/"><u>Troubleshooting Guide: Solving Fortnite Audio Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-screens-in-apex-legends-how-to-get-the-volume-back/"><u>Troubleshooting Silent Screens in Apex Legends: How to Get the Volume Back</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-unknown-speakers-a-step-by-step-guide-for-windows-10/"><u>Troubleshooting Unknown Speakers: A Step-by-Step Guide for Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977315752-troubleshooting-your-windows-11-devices-bluetooth-connection-fixed/"><u>Troubleshooting Your Windows 11 Device's Bluetooth Connection - Fixed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016704207-turtle-beach-headset-dilemma-heres-how-to-make-your-mic-work-again/"><u>Turtle Beach Headset Dilemma? Here's How to Make Your Mic Work Again!</u></a></li>
 </ul></div>
 

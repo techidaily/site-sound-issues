@@ -1,7 +1,7 @@
 ---
 title: Mastering Audio Repair on Windows 11 with These Easy 5 Steps
-date: 2024-12-04T22:05:19.235Z
-updated: 2024-12-10T22:07:58.354Z
+date: 2025-02-25T03:59:44.760Z
+updated: 2025-03-02T10:01:26.602Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1: Check cable connection and volume
 
  Before we do any changes to the software, we need to rule out some possible human error. So please check to see if:
@@ -46,10 +42,6 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 
  4) headphones are plugged in: your speakers might not work if you have the headphones in.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2: Turn off Audio Enhancements
 
  Audio enhancement feature is supposed to make your sound card work at its peak, but unfortunately, not all sound card hardware work well when it’s on. You can turn it off by:
@@ -60,17 +52,9 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881b98693b49.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In the **Playback** tab, right-click **Default Device**  you have and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881badde83bd.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Go to **the Enhancement** tab, tick the box for**Disable all sound effects** .
 
@@ -96,19 +80,11 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596440101ae68.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the audio device to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5964407a532ed.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4: Uninstall driver from Device Manager
 
@@ -125,10 +101,6 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
  3) Right-click your sound card driver, then click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c04799622.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click**OK** at the prompted notification to continue.
 
@@ -161,10 +133,6 @@ Windows will then help you reinstall the driver.
  5) Click **Let me pick from a list of device drivers on my computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c2564577d.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Click**High Definition Audio Device** , and**Next.**  
 
@@ -199,17 +167,22 @@ Check if your sound is back.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/fixed-operational-woes-epson-printer-scanning-again-in-windows-11/"><u>[FIXED] Operational Woes: Epson Printer Scanning Again in Windows 11</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-quick-guide-to-purging-watched-youtube-videos/"><u>[New] 2024 Approved A Quick Guide to Purging Watched YouTube Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-no-1-choice-of-dvd-and-media-editors-sierra-edition/"><u>[New] 2024 Approved No. 1 Choice of DVD and Media Editors, Sierra Edition</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-the-ultimate-global-earning-creator/"><u>[New] In 2024, The Ultimate Global Earning Creator</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/accurate-mac-photography-mastery-of-five-proven-snapshot-ways/"><u>Accurate Mac Photography Mastery of Five Proven Snapshot Ways</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-common-problems-with-sound-blaster-microphones-expert-advice/"><u>Fixing Common Problems with Sound Blaster Microphones - Expert Advice</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-connectivity-problems-using-tozo-t6-with-windows-lete-the-device-is-up-to-date-and-make-sure-your-computers-drivers-are-also-current-as-outdated-driv653/"><u>Fixing Connectivity Problems: Using Tozo T6 with Windows Lete the Device Is up to Date, and Make Sure Your Computer's Drivers Are Also Current as Outdated Drivers Can Cause Compatibility Issues.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-corsair-hs35-headset-microphone-issues-in-windows-environments/"><u>Fixing Corsair HS35 Headset Microphone Issues in Windows Environments</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-persistent-sound-cutouts-in-discord-comprehensive-2-steps-to-stability/"><u>Fixing Persistent Sound Cutouts in Discord - Comprehensive 2# Steps to Stability</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-depth-analysis-of-gradual-audio-lowering-with-lumafusion/"><u>In-Depth Analysis of Gradual Audio Lowering with Lumafusion</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/integration-failure-crtdll-unavailable/"><u>Integration Failure - crt.dll Unavailable</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-pcs-with-e1659fwu-windows-drivers/"><u>Streamline PCs with E1659FWU Windows Drivers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-demystifying-the-process-of-writing-youtube-video-content/"><u>[New] In 2024, Demystifying the Process of Writing YouTube Video Content</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-smart-office-design-a-key-to-unlocking-employee-efficiency/"><u>[New] Smart Office Design A Key to Unlocking Employee Efficiency</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-expert-tips-for-ps4-screen-recordings-with-obs/"><u>[Updated] 2024 Approved Expert Tips for PS4 Screen Recordings with OBS</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-finest-tiktok-creation-software-for-windows-desktop-for-2024/"><u>[Updated] Finest TikTok Creation Software for Windows Desktop for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-maximize-communication-video-conferencing-tips-for-android/"><u>[Updated] Maximize Communication Video Conferencing Tips for Android</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/5-expert-fixes-to-get-your-oculus-rift-s-mic-working-in-no-time/"><u>5 Expert Fixes to Get Your Oculus Rift S Mic Working in No Time</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetooth-stuttering-no-more-fixing-sound-issues-in-windows-1011/"><u>Bluetooth Stuttering No More: Fixing Sound Issues in Windows 10/11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/clear-guide-why-phasmophobias-voice-chat-might-be-down-and-how-to-fix-it/"><u>Clear Guide: Why Phasmophobia's Voice Chat Might Be Down and How to Fix It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dealing-with-cutting-out-audio-issues-in-windows-11-expert-tips-and-tricks/"><u>Dealing with Cutting Out Audio Issues in Windows 11: Expert Tips & Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-problems-with-the-logitech-g633-mic/"><u>Diagnosing and Repairing Problems with the Logitech G633 Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/discord-trick-decoded-successfully-sharing-in-game-music/"><u>Discord Trick Decoded: Successfully Sharing In-Game Music</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-methods-for-integrating-several-jpeg-images-into-one-cohesive-pdf-file/"><u>Easy Methods for Integrating Several JPEG Images Into One Cohesive PDF File</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-infinix-hot-40-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Infinix Hot 40 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015851170-overcoming-problems-with-overwatchs-push-to-talk-feature-solutions-inside/"><u>Overcoming Problems with Overwatch's Push-to-Talk Feature – Solutions Inside!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revolutionizing-photo-quality-with-auto-and-smart-hdr-features-for-2024/"><u>Revolutionizing Photo Quality with Auto and Smart HDR Features for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-audio-issues-learn-how-to-identify-and-resolve-unrecognized-speaker-setups/"><u>Windows 11 Audio Issues? Learn How to Identify and Resolve Unrecognized Speaker Setups</u></a></li>
 </ul></div>
 

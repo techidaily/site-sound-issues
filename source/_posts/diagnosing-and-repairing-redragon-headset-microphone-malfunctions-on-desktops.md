@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Redragon Headset Microphone Malfunctions on Desktops
-date: 2025-02-05T17:10:05.399Z
-updated: 2025-02-10T16:08:01.075Z
+date: 2025-03-01T00:55:36.230Z
+updated: 2025-03-01T17:41:56.954Z
 tags:
   - win11
   - win10
@@ -48,20 +48,12 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-3.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** to do it for free, but it’s partly manual.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-driver-update-de.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your computer for the changes to take full effect. If the driver update doesn’t give you luck, there are more fixes to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Allow access to your microphone
 
@@ -78,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
 
  When you complete the steps, check if Google Meet can pick up your voice. If not, move on to the next method below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3 – Check your PC sound settings
 
  If you have several peripherals connected to the computer, there’s a good chance that your preferred device is not set as default and thus the microphone doesn’t work properly in Google Meet. To see if that’s the case, check the sound settings as follows.
@@ -96,18 +84,10 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
 4. You also need to set the microphone volume to a proper level: right-click the microphone and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-6-1.jpg)
 5. Click the**Levels** tab and drag the microphone slider to turn the volume to the max. Then click**OK** to save the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-2-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Test your microphone again to see if it works without problem. If the issue persists, check out the next solution below.
 
@@ -122,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
 3. Click the**vertical ellipsis icon** at the top left and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-2.jpg)
 4. From the drop-down menu under Microphone, select your primary microphone.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-3.jpg)
 
@@ -156,22 +132,22 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/nlocking-the-potential-of-your-mobile-content-for-youtube-wealth/"><u>[New] Unlocking the Potential of Your Mobile Content for YouTube Wealth</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-a-comprehensive-list-of-the-top-spongebob-voice-generators/"><u>2024 Approved A Comprehensive List of The Top SpongeBob Voice Generators</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-mobile-artistry-top-android-collage-apps/"><u>2024 Approved Mastering Mobile Artistry - Top Android Collage Apps</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-unraveling-why-imovie-alters-video-borders/"><u>2024 Approved Unraveling Why iMovie Alters Video Borders</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/8-best-free-3d-video-player-for-window-and-mac/"><u>8 Best Free 3D Video Player for Window and Mac</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bluetooth-pairing-success-but-silent-uncover-the-fixes/"><u>Bluetooth Pairing Success, but Silent: Uncover the Fixes</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/freestyle2-blue-software-tested-and-approved-by-mac-lovers-in-depth-insights-for-optimal-compatibility/"><u>Freestyle2 Blue Software Tested and Approved by Mac Lovers: In-Depth Insights for Optimal Compatibility</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-mic-not-working-errors-in-microsoft-teams-on-pcs-with-windows-os/"><u>How to Resolve Mic Not Working Errors in Microsoft Teams on PCs with Windows OS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-nvidia-graphics-card-left-unplugged-issues-essential-tips-and-tricks/"><u>How To Resolve NVIDIA Graphics Card Left Unplugged Issues: Essential Tips & Tricks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-repair-silent-realtek-hdmidp-ports/"><u>How to Troubleshoot and Repair Silent Realtek HDMI/DP Ports</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-sony-xperia-5-v-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-quickest-photo-scanner-in-windows-land/"><u>In 2024, Quickest Photo Scanner in Windows Land</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016701268-internal-laptop-speakers-not-working-heres-how-you-can-make-them-sound-again/"><u>Internal Laptop Speakers Not Working? Here's How You Can Make Them Sound Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-your-audio-latency-troubles-expert-tips-and-techniques-2024-edition/"><u>Resolve Your Audio Latency Troubles - Expert Tips and Techniques, 2024 Edition</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/the-ultimate-solution-for-video-damage-grau-gmbhs-expert-system-repairs/"><u>The Ultimate Solution for Video Damage: Grau GmbH’s Expert System Repairs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-solving-the-issue-of-silent-videos-on-your-pc-from-facebook/"><u>Troubleshooting Steps: Solving the Issue of Silent Videos on Your PC From Facebook</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unlocking-wifi-excellence-with-linksys-wrt3200acm-a-comprehensive-review-for-open-source-enthusiasts/"><u>Unlocking WiFi Excellence with Linksys WRT3200ACM - A Comprehensive Review for Open Source Enthusiasts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/op-5-winter-frameworks-for-comfortable-cinematography-for-2024/"><u>[New] Top 5 Winter Frameworks for Comfortable Cinematography for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-create-impact-with-intro-excellence-best-free-services-reviewed/"><u>[Updated] 2024 Approved Create Impact with Intro Excellence Best Free Services Reviewed</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-low-memory-warning-in-vmware-hosted-windows-environments/"><u>Fixing Low Memory Warning in VmWare-Hosted Windows Environments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015741662-how-to-repair-a-broken-microphone-on-skype-with-windows-10/"><u>How to Repair a Broken Microphone on Skype with Windows 10!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-se-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone SE iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/identifying-and-fixing-defective-ram-a-step-by-step-guide-from-yl-computing/"><u>Identifying and Fixing Defective RAM: A Step-by-Step Guide From YL Computing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016465880-idt-hd-audio-codec-trouble-fix-your-windows-10-sound-drivers-here/"><u>IDT HD Audio Codec Trouble? Fix Your Windows 10 Sound Drivers Here</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-refine-your-youtube-identity-with-efficient-descriptions/"><u>In 2024, Refine Your YouTube Identity with Efficient Descriptions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/er-filmmaking-for-channel-expansion-and-engagement/"><u>Partner Filmmaking for Channel Expansion & Engagement</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014299411-restore-sound-to-enhance-your-experience-with-black-ops-cold-war-on-windows-solved/"><u>Restore Sound to Enhance Your Experience with Black Ops Cold War on Windows - Solved!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-epson-scanner-functionality-in-windows-11/"><u>Restoring Epson Scanner Functionality in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016599873-step-by-step-solutions-to-unplugged-nvidia-card-issues-get-back-to-gaming/"><u>Step-by-Step Solutions to Unplugged Nvidia Card Issues - Get Back To Gaming!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-no-sound-issue-on-hp-laptops-expert-advice-and-tips/"><u>Troubleshoot and Fix No Sound Issue on HP Laptops - Expert Advice & Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-getting-destiny-voic-chat-back-on-track/"><u>Troubleshooting Guide: Getting Destiny ˈvoic Chat Back on Track</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-calls-that-wont-connect-in-call-of-duty-vanguard/"><u>Troubleshooting Tips for Calls That Won't Connect in Call of Duty: Vanguard</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y100-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y100 5G Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-sets-exe-installers-apart-from-standard-msis/"><u>What Sets Exe Installers Apart From Standard MSIs?</u></a></li>
 </ul></div>
 

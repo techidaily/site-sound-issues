@@ -1,7 +1,7 @@
 ---
 title: Best Troubleshooting Steps When Toshiba Laptop Fails to Produce Sound
-date: 2025-02-06T03:53:52.249Z
-updated: 2025-02-11T01:57:01.174Z
+date: 2025-02-25T09:34:28.900Z
+updated: 2025-03-02T02:52:59.804Z
 tags:
   - win11
   - win10
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 1: Run Windows audio playback troubleshooter**
 
  This might be one of the easiest fixes to try. The built-in Windows audio playback troubleshooter is a useful tool that can help you resolve audio playback issues. Here is how to do it:
@@ -50,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000232.png)
 3. Follow the on-screen instructions to troubleshoot the audio playback issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When it is completed, play a song on your HP laptop to see if you resolved the no sound issue. If not, try the next fix, below.
 
@@ -80,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap14.png)
 3. Click **Update**  next to your Bluetooth device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee  ).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap908-2.png)  
  You can do it for free if you like, but it’s partly manual.  
 
@@ -100,16 +88,8 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000237-2.png)
 3. If your laptop speaker is disabled,**right-click** your laptop speaker and select**Enable** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000236.png)
 4. Select the speaker / headphone you’re using and  click **Set Default** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
 5. Click**OK** to save the changes.
@@ -127,10 +107,6 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000240.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Play a song on your HP laptop to see if the no sound issue is resolved. If not, try the next fix to restart Windows audio service.
 
 ### **Fix 4: Restart Windows audio service**
@@ -140,17 +116,9 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time to open the Run dialog. Type **services.msc**   and press **Enter** . You’ll be prompted for permission. Click **Yes**   to open **Services** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap190-5.png)
 2. Scroll down to locate **Windows Audio** . **Right-click**   it and select **Properties** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap193-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Under the **General**   tab, if the service is disabled, click **Star**   to enable it. For **Startup type** , select **Automatic** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap194-5.png)
 4. Navigate to the **Recovery**   tab. For **First failure** , select **Restart the Service** . Then click **OK**   to save the changes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap195-5.png)
 5. Locate the service **Windows Audio Endpoint Builder** . Follow step 3 and step 4 above to do the same thing for Windows Audio Endpoint Builder.
@@ -189,18 +157,21 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-how-to-use-luts-in-after-effect/"><u>[New] How to Use LUTs in After Effect</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/aviwmv-movavi/"><u>網路上無成本的AVI至WMV格式自動轉換 - 利用Movavi轉換工具</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-dilemma-resolved-reactivating-sound-on-windows-during-zoom-sessions/"><u>Audio Dilemma Resolved: Reactivating Sound on Windows During Zoom Sessions</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/comprehensive-overview-merging-srt-with-mp4-files-and-videos-for-2024/"><u>Comprehensive Overview Merging SRT with MP4 Files and Videos for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-errors-related-to-absent-propsysdll-files-on-your-computer/"><u>Fixing Errors Related to Absent PropSys.dll Files on Your Computer</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-a-nonfunctional-microphone-in-your-logitech-webcam/"><u>How To Resolve A Nonfunctional Microphone In Your Logitech Webcam?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-directly-viewing-facebook-videos-on-your-apple-tv-setup/"><u>In 2024, Directly Viewing Facebook Videos on Your Apple TV Setup</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-overcoming-forbidden-errors/"><u>Mastering the Art of Overcoming Forbidden Errors</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/pc-troubleshooting-quick-guide-to-fix-audio-failure-in-zoom-meetings/"><u>PC Troubleshooting: Quick Guide to Fix Audio Failure in Zoom Meetings</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/redefining-autonomy-in-development-with-non-chatgpt-software/"><u>Redefining Autonomy in Development with Non-ChatGPT Software</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-sound-problems-in-outriders-a-step-by-step-guide/"><u>Troubleshooting Sound Problems in Outriders: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-resident-evil-village-games-sounds-for-crystal-clear-playback/"><u>Troubleshooting Your Resident Evil Village Game's Sounds for Crystal Clear Playback</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-noise-free-videography-utilizing-free-tools-or-purchasing-for-2024/"><u>[New] Noise-Free Videography Utilizing Free Tools or Purchasing for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-top-5-high-quality-low-speed-video-gear/"><u>[New] Top 5 High-Quality Low-Speed Video Gear</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-ultimate-download-manager-best-youtube-downloader-apps-for-2024/"><u>[New] Ultimate Download Manager Best YouTube Downloader Apps for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-tongue-to-type-tools-a-guide-to-the-best-speech-to-text-software-for-2024/"><u>[Updated] Tongue-to-Type Tools A Guide to the Best Speech-to-Text Software for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ultimate-visionary-insights-the-top-8k-cameras-guide/"><u>[Updated] Ultimate Visionary Insights The Top 8K Cameras Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/best-mac-screen-grabbers-compiled-here-for-2024/"><u>Best Mac Screen Grabbers Compiled Here for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/clearing-audio-interference-in-cyberpunk-2077-effective-solutions-unveiled/"><u>Clearing Audio Interference in Cyberpunk 2077: Effective Solutions Unveiled</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-faults-with-turtle-beach-mics-fixes-and-maintenance-advice/"><u>Common Faults with Turtle Beach Mics: Fixes & Maintenance Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-sound-problems-heres-how-to-restore-headset-functionality/"><u>Corsair Sound Problems? Here's How to Restore Headset Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-sound-troubleshooting-guide-solutions-for-windows-11-players/"><u>Cyberpunk 2077 Sound Troubleshooting Guide - Solutions for Windows 11 Players</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/developing-variants/"><u>Developing Variants</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/end-headphone-interference-fast-fixes-for-noise-free-listening-experience/"><u>End Headphone Interference: Fast Fixes for Noise-Free Listening Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-restoring-functionality-to-the-steelseries-arctis-headset-microphone/"><u>Expert Advice: Restoring Functionality to the SteelSeries Arctis Headset Microphone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-your-gpu-not-playing-as-smoothly-we-found-a-solution/"><u>Fix Your GPU Not Playing as Smoothly - We Found a Solution</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/full-review-insights-acevideo-editor-2023-edition/"><u>Full Review Insights AceVideo Editor, 2023 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-advanced-protection-into-windows-11s-edge-browser/"><u>Integrating Advanced Protection Into Windows 11'S Edge Browser</u></a></li>
 </ul></div>
 

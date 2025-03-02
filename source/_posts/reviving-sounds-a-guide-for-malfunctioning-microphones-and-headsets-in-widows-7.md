@@ -1,7 +1,7 @@
 ---
 title: "Reviving Sounds: A Guide for Malfunctioning Microphones and Headsets in Widows 7"
-date: 2025-02-04T03:30:19.121Z
-updated: 2025-02-11T07:17:25.521Z
+date: 2025-02-27T04:18:04.036Z
+updated: 2025-03-02T05:16:08.466Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run the audio troubleshooter
 
  When you run into audio or sound issues, using the troubleshooting tool can help you identify what’s going on. To run the audio troubleshooter, take these steps:
@@ -46,10 +42,6 @@ When you’re using a microphone such as MPOW attached to your computer, you may
  1) In the search box on the taskbar, type **audio troubleshooter** . Then click **Find and fix problems with playing sound**  from the results.  
   
 ![run the audio troubleshooter Windows](https://images.drivereasy.com/wp-content/uploads/2021/03/audion-troubleshooter.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Select your device and click **Next**  to start the troubleshooting process. Then wait for it to complete and you may be asked to restart your computer.  
   
@@ -60,10 +52,6 @@ When you’re using a microphone such as MPOW attached to your computer, you may
  If running the audio troubleshooter didn’t get your microphone back to a working state, try the fixes above.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Update your audio driver
 
@@ -128,10 +116,6 @@ When you’re using a microphone such as MPOW attached to your computer, you may
   
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Once you’ve allowed microphone access to your apps, you can change the settings for each app. Simply head to the **Choose which Microsoft apps can access your microphone** , and turn on apps you want to use with it. For desktop apps, make sure that **Allow desktop apps to access your microphone**  is turned **On** .
 
  After you’ve confirmed the changes, try to make a recording or call to check if it’s picking up your voice.
@@ -146,25 +130,13 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under the **Input**  section, make sure that your headset is selected as the input device. Then click **Device Properties** .  
   
 ![choose the audio input device](https://images.drivereasy.com/wp-content/uploads/2021/04/input-device.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Make sure that your headset is not disabled.  
   
 ![make sure your device isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/04/enable-it.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you’ve confirmed that your microphone has been enabled but it’s still not working, try the next fix below.
 
@@ -203,14 +175,20 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-eliminating-logitech-g923-hs-microphone-clicks-a-step-by-step-guide/"><u>Effective Solutions for Eliminating Logitech G923 HS Microphone Clicks : A Step-by-Step Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-itel-p55-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Itel P55</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-decoding-facebooks-video-mutes-your-2023-remedy-guide/"><u>In 2024, Decoding Facebook's Video Mutes – Your 2023 Remedy Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-t2-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo T2 5G</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/noise-free-computing-fast-and-effective-troubleshooting-steps/"><u>Noise-Free Computing: Fast & Effective Troubleshooting Steps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/quickplay-quotient-top-10-lightning-gaming-apps-for-2024/"><u>Quickplay Quotient Top 10 Lightning Gaming Apps for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-correcting-no-audio-devices-message-for-windows-1087-users-with-headphones-or-speakers/"><u>Solution Steps: Correcting 'No Audio Devices' Message for Windows 10/8/7 Users with Headphones or Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-unknown-speaker-configuration-in-windows-10-a-step-by-step-guide/"><u>Troubleshooting Unknown Speaker Configuration in Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ultimate-guide-how-to-minimize-the-size-of-your-mov-videos-efficiently/"><u>Ultimate Guide: How to Minimize the Size of Your MOV Videos Efficiently</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-snap-motion-blur-photos-effortlessly-with-iphone-techniques-for-2024/"><u>[New] Snap Motion-Blur Photos Effortlessly with iPhone Techniques for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sound-sculpting-crafting-harmony-in-audiovox-studio/"><u>2024 Approved Sound Sculpting Crafting Harmony in Audiovox Studio</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-pioneering-path-of-vr-technology/"><u>2024 Approved The Pioneering Path of VR Technology</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ing-new-territory-strategies-for-youtube-keyword-research/"><u>Charting New Territory Strategies for YouTube Keyword Research</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/enhancing-youtube-videos-proper-lighting-methods-for-2024/"><u>Enhancing YouTube Videos Proper Lighting Methods for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ensure-your-voice-is-heard-preventative-measures-against-webex-mic-problems/"><u>Ensure Your Voice Is Heard: Preventative Measures Against Webex Mic Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-resolving-destiny-2-voice-chat-malfunction/"><u>Expert Tips for Resolving Destiny 2 Voice Chat Malfunction</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-disconnected-speakers-or-noise-absence-problems-on-windows-computers/"><u>Fix Disconnected Speakers or Noise Absence Problems on Windows Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-mac-computer-audio-issues-a-comprehensive-guide/"><u>Fix Mac Computer Audio Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-for-stuttering-sound-problems-with-bluetooth-devices-on-windows-11/"><u>Fixes for Stuttering Sound Problems with Bluetooth Devices on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-multiple-unresponsive-audio-services-solutions-inside/"><u>Fixing Multiple Unresponsive Audio Services - Solutions Inside</u></a></li>
+<li><a href="https://win-updates.techidaily.com/guide-to-navigate-and-adjust-laptop-power-options-with-expertise-from-yl-system-software/"><u>Guide to Navigate & Adjust Laptop Power Options with Expertise From YL System Software</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-infinix-smart-8-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Infinix Smart 8 Device</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-adobe-premiere-pro-2023-import-organize-and-export-your-video-projects-like-a-pro/"><u>New In 2024, Adobe Premiere Pro 2023 Import, Organize, and Export Your Video Projects Like a Pro</u></a></li>
 </ul></div>
 

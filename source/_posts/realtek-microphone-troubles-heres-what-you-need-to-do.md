@@ -1,7 +1,7 @@
 ---
 title: Realtek Microphone Troubles? Here's What You Need to Do!
-date: 2024-08-18T08:05:11.606Z
-updated: 2024-08-19T08:05:11.606Z
+date: 2025-02-25T00:44:44.444Z
+updated: 2025-03-01T20:33:45.552Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 
 As a direct follow-up to Cloud II, HyperX Cloud Alpha adds a whole bunch of new and exciting things, and it sounds neutral, dynamic, and clean. If you’re having problems with the HyperX Cloud Alpha microphone, don’t worry. Many users are reporting the same issue, and it can be fixed quickly and easily.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
 * [1. Check the connections](https://tools.techidaily.com/drivereasy/download/)
@@ -28,9 +25,6 @@ As a direct follow-up to Cloud II, HyperX Cloud Alpha adds a whole bunch of new 
 * [4. Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 * [5. Change your microphone settings](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## 1\. Check the connections
 
  Since HyperX Cloud Alpha comes with a detachable microphone, so it’s important to firmly insert the detachable cable plug to ensure full connectivity (you really need to push it into the headset). Also, make sure not to mute the Mic, and increase the volume to the max level. This is the final fix for many users.
@@ -39,14 +33,8 @@ As a direct follow-up to Cloud II, HyperX Cloud Alpha adds a whole bunch of new 
 
  If you’re using HyperX Cloud Alpha on Xbox One, you’ll need an adapter. Make sure the Mute button is not active, and use the buttons on the adapter to adjust the sound and microphone volume. Then go to**Settings** , and go to**Audio** to make sure the microphone is on. (The Cloud Alpha S is only compatible with PC and PS4.)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/XBox.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Troubleshoot the HyperX headset microphone
 
  If you run into hardware issues, you can always use Windows inbuilt troubleshooter. This will help you fix minor problems.
@@ -54,25 +42,15 @@ As a direct follow-up to Cloud II, HyperX Cloud Alpha adds a whole bunch of new 
 1. Right-click the Speaker button on the bottom right side, and choose**Open Sound Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Open-sound-settings.jpg)
 2. Under**Input** , choose the right input device (HyperX Cloud Alpha) and click**Troubleshoot** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/input.jpg)
 3. Follow the on-screen instructions and wait till this gets finished.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## 3\. Allow access to the microphone
 
  Your HyperX Cloud Alpha mic not working might be caused by microphone settings on your PC. To fix this issue, you can check your microphone privacy settings and make sure the app you’re using can access your microphone.
 
 1. On your keyboard, press the **Windows** logo key to invoke the Search box and type **microphone** .
 2. Select **Microphone Privacy Settings** from the results list.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/microphone-setup.jpg)
 3. Under the **Allow Apps To Access Your Microphone** tab, ensure that the toggle is in the **On**  position so that other apps can use your microphone.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/on.jpg)
@@ -96,9 +74,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 3. Click the **Update** button next to the flagged sound card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/audio-drivers.jpg)
 4. Restart your computer for the changes to take full effect.
 
@@ -116,23 +91,8 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 3. Also, make sure it displays your headphone name correctly and shows strong signals. If your headphone is shown as something else, there’s something wrong with your mic settings, so you should re-connect your headset.  
 ![mic not working wrong settings](https://images.drivereasy.com/wp-content/uploads/2020/12/no-connection.png)
 4. If the display name and signal is normal, right-click **Headset Microphone** and click **Properties** .  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/image.jpg)
 5. Click the **Levels** tab, then drag the volume slider towards the largest value (100).  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/levels.jpg)
 6. Click **OK** to apply the changes, and then click **OK** on the last window.
 
@@ -153,8 +113,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +120,21 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-comprehensible-selection-the-10-affordable-video-conferencing-tools/"><u>[Updated] 2024 Approved Comprehensible Selection The 10 Affordable Video Conferencing Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-elevate-small-screen-experience-with-these-leading-and-affordable-tools-to-download-youtubes-tiny-videos/"><u>[Updated] Elevate Small Screen Experience with These Leading & Affordable Tools to Download YouTubes' Tiny Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audacitys-common-error-when-opening-sound-devices-discover-5-effective-solutions/"><u>Audacity's Common Error When Opening Sound Devices? Discover 5 Effective Solutions!</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-honor-play-7t-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Honor Play 7T Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-sound-distortions-resolving-arctis-7-noise-issues-in-windows-environments/"><u>Fixing Sound Distortions: Resolving Arctis 7 Noise Issues in Windows Environments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-void-solutions-for-windows-11-audio-issues/"><u>Fixing the Silent Void: Solutions for Windows 11 Audio Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fortnite-voice-communication-troubleshooting-fixes-and-tips/"><u>Fortnite Voice Communication Troubleshooting: Fixes and Tips</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-from-apple-iphone-14-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock from Apple iPhone 14</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Tecno Phantom V Fold? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-audio-issues-on-mozilla-firefox-now-functioning/"><u>Resolved: Audio Issues on Mozilla Firefox Now Functioning</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revisit-vanished-chats-the-ultimate-technique-for-retrieving-deleted-message-threads/"><u>Revisit Vanished Chats: The Ultimate Technique for Retrieving Deleted Message Threads</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-hdmi-audio-issues-a-guide-on-restoring-sound-when-linking-pc-monitor-and-tv/"><u>Solving Your HDMI Audio Issues: A Guide on Restoring Sound When Linking PC, Monitor & TV</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/superior-5-cameras-for-extended-time-lapses-for-2024/"><u>Superior 5 Cameras for Extended Time-Lapses for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-solution-for-windows-11-bluetooth-driver-glitches-uncovered/"><u>Ultimate Solution for Windows 11 Bluetooth Driver Glitches Uncovered</u></a></li>
+</ul></div>
 

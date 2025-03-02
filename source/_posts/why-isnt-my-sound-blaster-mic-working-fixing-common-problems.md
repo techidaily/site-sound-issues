@@ -1,7 +1,7 @@
 ---
 title: Why Isn't My Sound Blaster Mic Working? Fixing Common Problems
-date: 2024-08-18T08:05:30.688Z
-updated: 2024-08-19T08:05:30.688Z
+date: 2025-02-23T13:43:32.717Z
+updated: 2025-03-02T09:18:53.820Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/86eaf732ac0282547acec52c64c3976ebfde5c25b
 
  No sound comes through your Mac? Don’t panic –  it’s usually not a hard problem to solve at all. In this article, we’ll provide 8 tried and tested fixes to help you**get your Mac sound back** in no time.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Try these fixes**
 
  You may not have to try all these fixes; just work your way down the list until the problem goes away.
@@ -37,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/86eaf732ac0282547acec52c64c3976ebfde5c25b
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Check sound on different apps
 
  Make sure you play sound on different apps (say Youtube, iTunes, Spotify etc.). Check if it’s only on one app that you have this **no sound problem** :
@@ -55,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/86eaf732ac0282547acec52c64c3976ebfde5c25b
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Check the audio settings
 
  If the volume on your computer is set mute or too low, you won’t be able to hear the sound. To make sure you have turned up the volume:
@@ -88,9 +79,6 @@ thumbnail: https://thmb.techidaily.com/86eaf732ac0282547acec52c64c3976ebfde5c25b
 
 * If**no** (i.e. **Bluetooth: Off** ): click the**Close** button. Proceed to Fix 5.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03a1e86842f.jpg)
 
  2) Check if the**no sound problem** has been solved.
@@ -103,18 +91,12 @@ thumbnail: https://thmb.techidaily.com/86eaf732ac0282547acec52c64c3976ebfde5c25b
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Reset **NVRAM**
 
  By resetting NVRAM, we bring back the default settings (including speaker volume, time zone, and display solution etc.). This may well help solve sound-related problems.
 
 1) Shut down your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) Turn on your computer by pressing the power button, and IMMEDIATELY hold down**the** **Command key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b029439e60ea.png) **, the options/alt key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b02946710198.png) ,**P** and**R** at the same time.
 
 3) Don’t release the keys before you hear the start-up sound. (This reboot will take up to 20 seconds.)
@@ -125,9 +107,6 @@ thumbnail: https://thmb.techidaily.com/86eaf732ac0282547acec52c64c3976ebfde5c25b
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix **7: Create a testing account on safe mode**
 
  In this method, we create a new Apple account and test if sound works properly in this new account. Here’s a quick walk-through:
@@ -144,9 +123,6 @@ thumbnail: https://thmb.techidaily.com/86eaf732ac0282547acec52c64c3976ebfde5c25b
 
  5) Click the**Lock** icon > the **Add** icon. Then enter the user password if asked.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0388cd4df0e.jpg)
 
  6) In**New Account** , choose**Administrator** . In**Full Name** , enter a name for your testing account (TEST, in my case). Then click**Create User** .
@@ -166,9 +142,6 @@ thumbnail: https://thmb.techidaily.com/86eaf732ac0282547acec52c64c3976ebfde5c25b
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix **8: Update your Mac OS**
 
  If all the fixes above don’t solve your problem, then you might have to update your OS. Sometimes the older system can have some sound problems and Apple will roll out new versions to fix them.
@@ -200,8 +173,6 @@ thumbnail: https://thmb.techidaily.com/86eaf732ac0282547acec52c64c3976ebfde5c25b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -209,4 +180,26 @@ thumbnail: https://thmb.techidaily.com/86eaf732ac0282547acec52c64c3976ebfde5c25b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-advanced-3d-shaping-crafting-perfect-mc-circles-and-spheres/"><u>[New] Advanced 3D Shaping Crafting Perfect MC Circles & Spheres</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-dive-into-a-stream-of-9-full-length-festive-flicks-no-charge/"><u>[New] Dive Into a Stream of 9 Full-Length Festive Flicks - No Charge</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-unleashing-your-funny-bone-a-stepwise-guide-to-making-memes-on-9gag/"><u>[New] In 2024, Unleashing Your Funny Bone A Stepwise Guide to Making Memes on 9GAG</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-watch-unseen-selective-tools-for-insta-enthusiasts/"><u>[Updated] 2024 Approved Watch Unseen Selective Tools for Insta Enthusiasts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-online-tutorial-adding-youtube-playlists-to-your-site-for-2024/"><u>[Updated] Online Tutorial Adding YouTube Playlists to Your Site for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-immerse-in-world-heritage-through-vr/"><u>2024 Approved Immerse in World Heritage Through VR</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beat-the-noise-expert-fixes-to-restore-sound-in-your-2024-call-of-duty-warzone-gameplay/"><u>Beat the Noise: Expert Fixes to Restore Sound in Your 2024 Call of Duty Warzone Gameplay</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/defeat-echo-annoyances-on-your-pcs-discord-channels-with-this-expert-2024-guide/"><u>Defeat Echo Annoyances on Your PC's Discord Channels with This Expert 2024 Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-drivers-get-the-latest-gigabyte-geforce-windforce-edition-wb867d/"><u>Download Drivers: Get the Latest Gigabyte GeForce WindForce Edition WB867D</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-fixes-for-audio-errors-overcome-playback-failure-with-ease/"><u>Effortless Fixes for Audio Errors - Overcome ‘Playback Failure’ with Ease</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015831022-game-volume-issue-fixed-enjoy-seamless-audio-in-discord-chats/"><u>Game Volume Issue Fixed - Enjoy Seamless Audio in Discord Chats!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-sony-xperia-10-v-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Sony Xperia 10 V Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-tecno-camon-20-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Tecno Camon 20 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-issues-with-a-faulty-corsair-void-usb-microphone/"><u>Overcoming Issues with a Faulty Corsair Void USB Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/persistent-speaker-problems-on-windows-10-discover-how-to-restore-continuous-sound/"><u>Persistent Speaker Problems on Windows 10? Discover How to Restore Continuous Sound!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-noise-trouble-on-your-desktop-swift-solutions-inside/"><u>Solve Noise Trouble on Your Desktop | Swift Solutions Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-the-problem-of-a-non-functioning-logitech-g4-groove-mic-with-easy-fixes/"><u>Solve the Problem of a Non-Functioning Logitech G4 Groove Mic with Easy Fixes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solved-access-high-performance-wireless-drivers-for-free/"><u>Solved! Access High-Performance Wireless Drivers for FREE!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/successful-strategies-to-get-your-astro-a10-mic-working-perfectly-again/"><u>Successful Strategies to Get Your Astro A10 Mic Working Perfectly Again</u></a></li>
+</ul></div>
 

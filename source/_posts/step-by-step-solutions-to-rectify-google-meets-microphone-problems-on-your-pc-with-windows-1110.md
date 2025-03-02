@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions to Rectify Google Meet's Microphone Problems on Your PC with Windows 11/10
-date: 2025-02-04T20:43:46.057Z
-updated: 2025-02-10T23:46:04.777Z
+date: 2025-02-24T12:29:36.385Z
+updated: 2025-03-01T18:06:38.557Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/d3b76096f4c9dcaff472cd20aa342807816191e8d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are 4 fixes that helped other users solve**Google Meet mic not working on a Windows PC** . You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -38,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/d3b76096f4c9dcaff472cd20aa342807816191e8d
 4. **[Check Google Meet’s settings](https://tools.techidaily.com/drivereasy/download/)**
 
  Before you proceed to the more complicated fixes, try**restarting your browser and computer** . A simple restart can sometimes perfectly resolve the microphone glitch.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1 – Update your audio driver
 
@@ -76,15 +68,7 @@ thumbnail: https://thmb.techidaily.com/d3b76096f4c9dcaff472cd20aa342807816191e8d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you complete the steps, check if Google Meet can pick up your voice. If not, move on to the next method below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Check your PC sound settings
 
@@ -93,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/d3b76096f4c9dcaff472cd20aa342807816191e8d
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Then type**mmsys.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-1.jpg)
 2. Navigate to the**Recording** tab. First make sure your microphone is enabled (showing a green checkmark). If it’s not and displays a grey down-arrow icon, right-click it and click**Enable** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-3.jpg)
 3. Click the**Microphone** you would like to use and click**Set Default** .  
@@ -125,10 +105,6 @@ thumbnail: https://thmb.techidaily.com/d3b76096f4c9dcaff472cd20aa342807816191e8d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you still can’t use the microphone in Google Meet, the last resort is to**double-check the physical connection** .
 
  For example, if you’re using a wired headset, make sure it’s securely plugged in and check if your USB ports are functioning well. If you use a Bluetooth headset, try repairing it to your computer and see how things go.
@@ -156,19 +132,15 @@ thumbnail: https://thmb.techidaily.com/d3b76096f4c9dcaff472cd20aa342807816191e8d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-comprehensive-analysis-of-android-based-lightroom-software/"><u>[New] Comprehensive Analysis of Android-Based Lightroom Software</u></a></li>
-<li><a href="https://facebook.techidaily.com/complete-record-compilation-how-to-archive-your-facebook-life/"><u>Complete Record Compilation: How to Archive Your Facebook Life</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-lenovo-tab-p11-pro-assessment-stunning-features-with-minor-flaws/"><u>Comprehensive Lenovo Tab P11 Pro Assessment - Stunning Features with Minor Flaws</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719170974624-discover-the-joy-of-gaming-youtubes-new-minigames-invite-you-to-play/"><u>Discover the Joy of Gaming: YouTube’s New Minigames Invite You to Play</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/experiencing-no-audio-from-your-connected-bluetooth-device-find-out-how-to-resolve-it/"><u>Experiencing No Audio From Your Connected Bluetooth Device - Find Out How to Resolve It</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-solutions-how-to-repair-broken-sound-on-your-windows-10-system/"><u>Expert Solutions: How to Repair Broken Sound on Your Windows 10 System</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-limits-commands-and-queries-that-puzzle-chatgpt/"><u>Exploring the Limits: Commands and Queries That Puzzle ChatGPT</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-distorted-audio-while-playing-cyberpunk-2077-effective-solutions-unveiled/"><u>Fixing Distorted Audio While Playing Cyberpunk 2077 - Effective Solutions Unveiled</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-logitech-g533-headset-when-the-mic-wont-work-anymore/"><u>How to Repair Your Logitech G533 Headset When the Mic Won't Work Anymore</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-poco-m6-pro-4g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Poco M6 Pro 4G</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-lava-blaze-2-5g-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Lava Blaze 2 5G.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-those-irritating-cracks-in-your-headphones/"><u>Quick Fixes for Those Irritating Cracks in Your Headphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-lack-of-audio-during-zoom-calls-on-your-computer/"><u>Troubleshooting Steps: Resolving Lack of Audio During Zoom Calls on Your Computer</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-thermaltake-massive-tm-premium-pc-cooler-with-a-hefty-cost/"><u>Ultimate Guide to the Thermaltake Massive TM: Premium PC Cooler with a Hefty Cost</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-choosing-your-gopro-an-exhaustive-comparison/"><u>[New] In 2024, Choosing Your GoPro An Exhaustive Comparison</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-beginning-creators-guide-top-8-free-youtube-tutorials/"><u>[Updated] Beginning Creator's Guide Top 8 Free YouTube Tutorials</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-rankings-top-11-streaming-audio-gear-for-2024/"><u>[Updated] Ultimate Rankings Top 11 Streaming Audio Gear for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-best-scripting-solutions-for-ae/"><u>2024 Approved Best Scripting Solutions for AE</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-lead-the-pack-identifying-the-best-facebook-timetabling-software/"><u>2024 Approved Lead the Pack Identifying the Best Facebook Timetabling Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015795477-fast-fixes-for-bluetooth-audio-delay-simple-solutions/"><u>Fast Fixes for Bluetooth Audio Delay - Simple Solutions!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-playlists-that-rule-spotifys-top-10/"><u>In 2024, Playlists that Rule Spotify's Top 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-a-non-functional-lucidsound-ls30-audio-device/"><u>Troubleshooting Tips for a Non-Functional LucidSound LS30 Audio Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-unresponsive-audio-output-devices-on-windows-operating-systems-win1187/"><u>Troubleshooting: Unresponsive Audio Output Devices on Windows Operating Systems (Win11/8/7)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unstick-stuck-audio-in-skype-with-these-effortless-tweaks/"><u>Unstick Stuck Audio in Skype with These Effortless Tweaks</u></a></li>
 </ul></div>
 

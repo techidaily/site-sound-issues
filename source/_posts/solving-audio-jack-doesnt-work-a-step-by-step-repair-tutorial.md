@@ -1,7 +1,7 @@
 ---
 title: "Solving 'Audio Jack Doesn't Work': A Step-by-Step Repair Tutorial"
-date: 2025-02-06T08:47:26.049Z
-updated: 2025-02-11T03:02:50.755Z
+date: 2025-02-26T18:37:21.196Z
+updated: 2025-03-02T04:45:30.768Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/a3825c53acb734eda563e5e8193fa7e586da129de
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -62,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/a3825c53acb734eda563e5e8193fa7e586da129de
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Make sure your mic isn’t disabled
 
  Sometimes you may not notice that your microphone has accidentally been disabled, which can sometimes happen on Windows. To check if that’s your case, take these steps:
@@ -73,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/a3825c53acb734eda563e5e8193fa7e586da129de
  1) Right-click on the Speaker icon on the bottom-right corner of your screen. Then select**Open Sound settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Under the**Input** section, make sure that your headset is showing. Then click**Device Properties** .  
   
@@ -97,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/a3825c53acb734eda563e5e8193fa7e586da129de
  1) Right-click on the Speaker icon on the bottom-right corner of your screen. Then select**Open Sound settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Scroll down to the section of **Related Settings** and click **Sound Control Panel** .  
   
@@ -133,19 +117,11 @@ Here’s how to update drivers with Driver Easy:
 
 ![update audio driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/12/update-audio-driver-automatically-with-Driver-Easy.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and do a mic test to check if it’s back to a normal state. If the microphone is still not working properly, try the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Troubleshoot hardware issues
 
@@ -174,20 +150,24 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-immersive-windows-display-snapshots/"><u>[New] Immersive Windows Display Snapshots</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-file-flow-fixtures-easy-moves-for-your-machine/"><u>2024 Approved File Flow Fixtures Easy Moves for Your Machine</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/acceder-aux-films-de-votre-dvd-sans-avoir-besoin-dun-decodeur-astuces-rapides-pour-une-lecture-optimale-gratuite/"><u>Accéder Aux Films De Votre DVD Sans Avoir Besoin D'un Décodeur: Astuces Rapides Pour Une Lecture Optimale Gratuite!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-infinix-hot-30i-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Infinix Hot 30i online without jailbreak</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-fixing-curved-video-gopros-fisheye-issue/"><u>In 2024, Fixing Curved Video GoPro's Fisheye Issue</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-maximizing-health-outreach-via-fb-advertising/"><u>In 2024, Maximizing Health Outreach via FB Advertising</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-frequent-sound-cuts-effective-fixes-for-windows-11-users/"><u>Overcoming Frequent Sound Cuts: Effective Fixes for Windows 11 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-system-effortless-fixes-to-reawaken-audio-on-windows-10-machines/"><u>Silent System? Effortless Fixes to Reawaken Audio on Windows 10 Machines</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/simple-steps-for-fixing-failed-to-play-test-sound-mishaps/"><u>Simple Steps for Fixing 'Failed to Play Test Sound' Mishaps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-deactivating-windows-10s-audio-boosting-options/"><u>Step-by-Step Guide: Deactivating Windows 10'S Audio Boosting Options</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/streamlined-video-conferencing-utilizing-the-power-of-zoom-in-win10/"><u>Streamlined Video Conferencing Utilizing the Power of Zoom in Win10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-repairing-your-webex-microphone-4-key-strategies/"><u>The Ultimate Guide to Repairing Your Webex Microphone : 4 Key Strategies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-to-configuring-mystery-speakers-in-windows-10-os/"><u>Ultimate Guide to Configuring Mystery Speakers in Windows 10 OS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unlock-better-listening-the-ultimate-tutorial-to-deactivate-windows-10-sound-enhancements/"><u>Unlock Better Listening: The Ultimate Tutorial to Deactivate Windows 10 Sound Enhancements</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/visionmaster-vs-screencapturer/"><u>VisionMaster vs ScreenCapturer</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-optimal-earnings-scaling-your-youtube-channels-revenue-on-mobile-devices/"><u>[New] In 2024, Optimal Earnings Scaling Your YouTube Channel's Revenue on Mobile Devices</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-fundamental-narrative-structure/"><u>[Updated] In 2024, Fundamental Narrative Structure</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-affordable-yet-high-quality-cameras-list/"><u>2024 Approved Affordable Yet High-Quality Cameras List</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209971338-9780648530503-alchemy-of-awareness/"><u>Alchemy of Awareness | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquer-winos-stop-programs-from-autominimizing/"><u>Conquer WinOS: Stop Programs From AutoMinimizing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/extensive-breakdown-gecata-tracking-device-assessment/"><u>Extensive Breakdown Gecata Tracking Device Assessment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-deactivate-windows-10s-audio-boost-functionality/"><u>How to Deactivate Windows 10'S Audio Boost Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-non-functional-speakers-on-your-windows-11-pc-solved/"><u>How to Fix Non-Functional Speakers on Your Windows 11 PC - Solved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-speaker-setup-unknown-on-windows-11/"><u>How to Fix Speaker Setup (Unknown) on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-increase-system-speaker-volume-efficiently-on-a-windows-11-pc/"><u>How to Increase System Speaker Volume Efficiently on a Windows 11 PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-hdmi-sound-functionality-in-windows-7-solutions-revealed/"><u>How to Restore HDMI Sound Functionality in Windows 7 - Solutions Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/instant-remedies-for-common-playback-issues-a-guide-to-silencing-errors/"><u>Instant Remedies for Common Playback Issues – A Guide to Silencing Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-sound-quality-fixing-common-auditory-faults-in-resident-evil-village/"><u>Mastering the Sound Quality: Fixing Common Auditory Faults in Resident Evil Village</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-quiet-battles-wows-sound-problem-solved/"><u>No More Quiet Battles: WoW's Sound Problem Solved</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-imessage-delivery-problems-on-your-iphone-easy-fixes-you-should-try/"><u>Overcoming iMessage Delivery Problems on Your iPhone - Easy Fixes You Should Try</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-issues-with-one-or-more-nonfunctional-audio-streams/"><u>Overcoming Issues with One or More Nonfunctional Audio Streams</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-v29e-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-why-your-rocket-league-game-keeps-failing-at-launch/"><u>Troubleshooting: Why Your Rocket League Game Keeps Failing at Launch</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-your-first-steps-in-podcast-editing-a-comprehensive-beginners-guide/"><u>Updated Your First Steps in Podcast Editing A Comprehensive Beginners Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Turning Up The Volume: A Step-by-Step Guide to Fix No Sound in Google Chrome"
-date: 2024-08-23T12:12:20.358Z
-updated: 2024-08-24T12:12:20.358Z
+date: 2025-02-28T16:15:47.108Z
+updated: 2025-03-02T02:40:39.531Z
 tags:
   - win11
   - win10
@@ -38,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/e7a938c8213dc5d370405bab4afa736e010a188d2
 
  2) Click**Privacy** in**Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2665c0c8.jpg)
 
  3) Click**Microphone** on the left pane, and make sure**Microphone access for this device** **is on** .
@@ -51,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/e7a938c8213dc5d370405bab4afa736e010a188d2
 
  Re-plug your microphone again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### **Fix 2: Update your audio driver**
 
  A missing or outdated audio driver in your computer can cause your Logitech G430 mic not working, so you should verify and keep your audio driver up to date.
@@ -78,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/e7a938c8213dc5d370405bab4afa736e010a188d2
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **_Update All_** ).
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd61613c73.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -92,9 +83,6 @@ thumbnail: https://thmb.techidaily.com/e7a938c8213dc5d370405bab4afa736e010a188d2
 
  If your issue still persists, don’t worry. We have other solutions for you to try.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### **Fix 3: Check your sound settings**
 
  Your Logitech G430 mic may not work because it’s disabled or not set as the default device for your Windows computer. Follow the steps below to check your sound settings:
@@ -109,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/e7a938c8213dc5d370405bab4afa736e010a188d2
 
  3) Click the**Recording** tab, then right click on any empty area inside the device list and select**Show** **Disabled** **Devices** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6274ee58efa.jpg)
 
  4) Right click your microphone and click**Enable** (if it’s enabled, you’ll see**Disable** ).
@@ -121,23 +105,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  5) Right click on your microphone again and select**Set as Default Device** .
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6275be6bfc9.jpg)
 
  6) Right click your microphone, and click**Properties.**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62766a93d1c.jpg)
 
  7) Click the**Levels** tab, and drag the volume slider to**maximum** .
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6278bfe07b0.png)
 
  8) Save your changes and restart your computer.
@@ -165,8 +140,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +147,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/best-photo-text-editor-to-add-text-on-picture/"><u>Best Photo Text Editor to Add Text on Picture</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cracking-the-code-on-missing-permissions-in-steam-gaming-software/"><u>Cracking the Code on Missing Permissions in Steam Gaming Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dealing-with-dts-audio-device-malfunction-tips-and-solutions/"><u>Dealing with DTS Audio Device Malfunction - Tips and Solutions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-the-tp-link-archer-c80-saving-you-time-and-money-on-high-speed-internet/"><u>Expert Analysis of the TP-Link Archer C80 - Saving You Time and Money on High-Speed Internet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-distortions-and-crackles-on-your-pc-a-complete-guide/"><u>How to Fix Audio Distortions & Crackles on Your PC: A Complete Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-voice-chat-in-call-of-duty-black-ops-cold-war-a-step-by-step-guide/"><u>How To Restore Voice Chat in Call of Duty: Black Ops Cold War - A Step-by-Step Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-huawei-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Huawei Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essential-manual-for-personalizing-android-ringtones-and-sounds/"><u>In 2024, The Essential Manual for Personalizing Android Ringtones and Sounds</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-depth-slomo-video-software-review-year-2024/"><u>In-Depth SloMo Video Software Review - Year 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-email-signatures-a-comprehensive-walkthrough-for-godaddy-webmail-users/"><u>Mastering the Art of Email Signatures: A Comprehensive Walkthrough for Godaddy Webmail Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-mic-in-lol-tips-and-tricks-when-league-of-legends-voice-chat-stops-working/"><u>Mastering the Mic in LOL: Tips and Tricks When League of Legends Voice Chat Stops Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pubg-players-guide-fix-your-voice-chat-issues-without-hiccups/"><u>PUBG Players Guide: Fix Your Voice Chat Issues Without Hiccups</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-your-astro-a50s-microphone-issues-quick-guide/"><u>Troubleshoot Your Astro A50's Microphone Issues - Quick Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-bluetooth-problems-in-windows-11/"><u>Troubleshooting Guide: Fixing Bluetooth Problems in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-the-microphone-issue-on-your-turtle-beach-elite-atlas-headset/"><u>Troubleshooting Guide: How to Fix the Microphone Issue on Your Turtle Beach Elite Atlas Headset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-how-to-fix-runmud-x30-gaming-microphone-issues/"><u>Troubleshooting: How to Fix Runmud X30 Gaming Microphone Issues</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/virtual-vice-versa-top-10-alternative-crime-games-for-2024/"><u>Virtual Vice Versa Top 10 Alternative Crime Games for 2024</u></a></li>
+</ul></div>
 

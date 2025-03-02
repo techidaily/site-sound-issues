@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Resolving Issues with Valorant's In-Game Voice Communication"
-date: 2025-02-06T23:08:02.505Z
-updated: 2025-02-10T22:35:42.339Z
+date: 2025-02-28T02:44:50.674Z
+updated: 2025-03-02T06:49:21.976Z
 tags:
   - win11
   - win10
@@ -35,19 +35,11 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Sign out Fortnite, then sign back in
 
  This is the quickest and easiest fix to try when chat’s not working in Fortnite. Just sign out of the game, then sign back in.
 
  Now run the game again and test to see whether chat is working. If it’s not, move on to Fix 2, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your sound card driver
 
@@ -107,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 
 3\. Run Fortnite to see if chat works now. If not, try Fix 5, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Check your audio settings
 
  Windows and Fortnite both have audio settings, and sometimes things just get a little mixed up. So it can help to reset everything, manually, to clear out the cobwebs. (Kinda like how restarting your PC can sometimes mysteriously resolve problems.) Here is how to do it:
@@ -125,35 +113,19 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap431-1024x576.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 iii. Exit Fortnite.
 
  2\. On your desktop,**right-click** **the speaker icon** at the bottom-right corner, and then select**Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap432.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Click the **Playback** tab, select the speakers/headphones you’re using and click **Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4\. Click the **Recording** tab, select the microphone you’re using and click **Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5\. While still in the**Recording** tab, try**speaking into your microphone** to test if it works properly. If it is, you should see some green in the bar on the right:
 
@@ -172,10 +144,6 @@ iii. Exit Fortnite.
  1\. Open the **Epic Games Launcher** . On the left panel, click**Library** . On the right, click**the gear button** on the lower-right corner of Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap940.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2\. Click**Uninstall** to uninstall Fortnite.
 
@@ -210,22 +178,18 @@ iii. Exit Fortnite.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-from-ordinary-to-outstanding-crafting-unique-shorts-thumbnails/"><u>[Updated] In 2024, From Ordinary to Outstanding Crafting Unique Shorts Thumbnails</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-leading-edge-top-10-webcams-in-the-latest-os/"><u>[Updated] In 2024, Leading Edge Top 10 Webcams in the Latest OS</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-perfectly-prepared-videos-a-guide-to-instagram-fitness/"><u>[Updated] In 2024, Perfectly Prepared Videos A Guide to Instagram Fitness</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/1728506885463-windows-11108/"><u>恢復Windows 11/10/8內置存儲中被錯誤格式化的磁碟區劃地：一本指南</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/cant-use-my-blue-yeti-mic-here-are-the-ultimate-solutions/"><u>Can't Use My Blue Yeti Mic? Here Are the Ultimate Solutions!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cutting-edge-methods-for-admin-access-in-the-winworld/"><u>Cutting-Edge Methods for Admin Access in the WinWorld</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-remedies-for-audio-jack-malfunctions-with-windows-7-operating-system/"><u>Effective Remedies for Audio Jack Malfunctions with Windows 7 Operating System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-correcting-malfunctions-in-your-outriders-audio-experience/"><u>Expert Advice: Correcting Malfunctions in Your Outriders Audio Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-silence-reviving-pc-sounds-on-battlefield-v-warzone-patch-24/"><u>Fix Your Silence: Reviving PC Sounds on Battlefield V - Warzone Patch '24</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-fortnite-game-back-to-full-volume-fixing-the-sound-glitch/"><u>Get Your Fortnite Game Back to Full Volume: Fixing the Sound Glitch</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-sound-back-solutions-for-when-laptop-speakers-wont-work/"><u>Get Your Sound Back: Solutions for When Laptop Speakers Won't Work</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-11-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 11 to Android | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/master-the-right-way-to-grip-your-iphone-and-airpods-expert-tips-from-zdnet/"><u>Master the Right Way to Grip Your iPhone & AirPods – Expert Tips From ZDNet</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/most-advanced-iphone-videography-apps-for-2024/"><u>Most Advanced iPhone Videography Apps for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-audio-repair-techniques-for-problematic-computers/"><u>Quick Audio Repair Techniques for Problematic Computers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-it-takes-two-silent-computer-troubleshooting-guide/"><u>Resolving 'It Takes Two' Silent Computer: Troubleshooting Guide</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/top-9-insights-on-english-grammar-by-a-pro-esl-speaker/"><u>Top 9 Insights on English Grammar by a Pro ESL Speaker</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-ideal-platforms-for-procuring-youtube-ringtone-files-for-2024/"><u>[Updated] Ideal Platforms for Procuring YouTube Ringtone Files for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-on-demand-content-examination-summary/"><u>2024 Approved On-Demand Content Examination Summary</u></a></li>
+<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-to-follow-guide-for-quick-download-of-linksys-ae1200-drivers-and-setup-assistance/"><u>Easy-to-Follow Guide for Quick Download of Linksys AE1200 Drivers & Setup Assistance</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-realme-10t-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Realme 10T 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-windows-7-mic-expert-solutions-for-audio-trouble-spots/"><u>Reviving Your Windows 7 Mic: Expert Solutions for Audio Trouble Spots</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-found-fixing-logitech-g935-microphone-issues-in-windows/"><u>Solution Found: Fixing Logitech G935 Microphone Issues in Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-glitches-resolve-your-pubg-voice-chat-woes-today/"><u>Solving Audio Glitches - Resolve Your PubG Voice Chat Woes Today!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steelseries-arctis-headphones-9-or-ex-solving-the-mic-not-functioning-problem/"><u>SteelSeries Arctis Headphones (9 or eX) - Solving the Mic Not Functioning Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-restoring-audio-functionality-in-dell-systems/"><u>Step-by-Step Guide to Restoring Audio Functionality in Dell Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-laptop-audio-issues-a-comprehensive-guide/"><u>Troubleshoot and Fix Laptop Audio Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unleash-your-potential-with-instagram-tv-upload/"><u>Unleash Your Potential with Instagram TV Upload</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-edit-like-a-pro-setting-up-your-computer-for-premiere-pro/"><u>Updated Edit Like a Pro Setting Up Your Computer for Premiere Pro</u></a></li>
 </ul></div>
 

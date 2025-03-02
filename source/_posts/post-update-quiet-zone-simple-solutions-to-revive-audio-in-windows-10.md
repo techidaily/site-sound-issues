@@ -1,7 +1,7 @@
 ---
 title: Post-Update Quiet Zone? Simple Solutions to Revive Audio in Windows 10
-date: 2024-08-18T08:05:10.681Z
-updated: 2024-08-19T08:05:10.681Z
+date: 2025-02-23T01:31:41.436Z
+updated: 2025-03-02T09:54:23.805Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/15ae4ec50f813ccf114a4b81e7df4971867857563
 
  Enjoy this game but find no sound at all in Battlefield 4? If everything works fine and this happens only to BF4 (or other games from the EA Origin client), you’re in the right place. In this post, you will learn every possible fix to the ‘Battlefield 4 no sound’ issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6 Fixes for Battlefield 4 No Sound Issues
 
  We know how frustrating it can be when you can’t hear anything in a game. Below you will find fixes to get your audio work again in Battlefield 4\. Before you head to the following fixes, make sure you check the connections of your headset/speakers.
@@ -33,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/15ae4ec50f813ccf114a4b81e7df4971867857563
 5. **[Verify the game integrity](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Rule out other interference](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## Fix 1\. Update your audio drivers
 
  A faulty/outdated audio driver can cause game audio issues. An audio driver is a translator for your system and device, and if it goes wrong, you will be having sound problems. There are onboard sound card drivers and headset drivers (for some older ones).
@@ -46,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/15ae4ec50f813ccf114a4b81e7df4971867857563
 
  2) Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![scan now](https://images.drivereasy.com/wp-content/uploads/2021/09/scannow.jpg)
 
  3) Click the**Update** button next to a flagged audio driver to automatically download and install the correct audio driver (You can do this with the FREE version).
@@ -72,16 +63,10 @@ thumbnail: https://thmb.techidaily.com/15ae4ec50f813ccf114a4b81e7df4971867857563
 
  2) Set the right device as the default playback device. There will be a green tick and a signal icon on this device if it’s set as default.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set the right default device](https://images.drivereasy.com/wp-content/uploads/2021/09/speaker.jpg)
 
  3) If this device is not the one you desired, you can right-click another device and select**Set as Default Device** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![set another device as default](https://images.drivereasy.com/wp-content/uploads/2021/09/set-as-default.jpg)
 
  4) Right-click your default device and select**Properties** . Go to the Advanced tab, and select a format**no more than 24 bit, 96000 Hz** .
@@ -106,16 +91,10 @@ thumbnail: https://thmb.techidaily.com/15ae4ec50f813ccf114a4b81e7df4971867857563
 
  3) Now you’ll need to go to the**Advanced Sound settings** . Press the**Windows logo** key +**I** at the same time, and select**System** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![open system](https://images.drivereasy.com/wp-content/uploads/2021/09/system-1.jpg)
 
  4) Select**Sound** from the left pane, and click**App volume and device preferences** under**Advanced sound options** .
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open advanced sound settings](https://images.drivereasy.com/wp-content/uploads/2021/09/soundsettings.jpg)
 
  5) Make sure you set the Output of Battlefield 4 to the system default device instead of “Game”.
@@ -132,16 +111,10 @@ thumbnail: https://thmb.techidaily.com/15ae4ec50f813ccf114a4b81e7df4971867857563
 
 2) Click the active network.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![click domain network](https://images.drivereasy.com/wp-content/uploads/2021/09/domain.jpg)
 
  2) Under**Microsoft Defender Firewall** , swap it to**Off** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![toggle firewall to off](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall-off.jpg)
 
 Launch your Battlefield 4 and check if the sound is working now.
@@ -154,16 +127,10 @@ Launch your Battlefield 4 and check if the sound is working now.
 
 2) Click on**My Game Library** and right-click on the desired game and choose **Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![Battlefield 4 repair](https://images.drivereasy.com/wp-content/uploads/2021/09/battlefield-1200x686.jpg)
 
 3) Once complete, close Origin. Then run Origin as administrator.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![run origin as admin](https://images.drivereasy.com/wp-content/uploads/2019/08/run-origin-as-sdministrator.png)
 
  Play Battlefield 4 and test the sound issue. If the Battlefield 4 sound not working issue persists, it’s very likely caused by interference by your devices or other apps.
@@ -176,9 +143,6 @@ Launch your Battlefield 4 and check if the sound is working now.
 
 2) Click the Origin menu and select **Application Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![origin application settings](https://images.drivereasy.com/wp-content/uploads/2021/09/app.jpg)
 
  3) Click the **Origin In-Game** tab. Toggle the **Off** switch to turn Origin In-Game off.
@@ -201,8 +165,6 @@ Launch your Battlefield 4 and check if the sound is working now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +172,22 @@ Launch your Battlefield 4 and check if the sound is working now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-optimizing-kinemaster-usage-expert-advice-and-superior-digital-alternatives/"><u>[New] 2024 Approved Optimizing KineMaster Usage Expert Advice and Superior Digital Alternatives</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-todays-hot-tickets-top-youtube-tracks-for-the-day/"><u>[New] 2024 Approved Today’s Hot Tickets Top Youtube Tracks for the Day</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-tiktok-number-modification-easy-to-follow-steps/"><u>[New] TikTok Number Modification Easy to Follow Steps</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-bare-bones-budget-friendly-best-5-windows-10-recording-apps-for-2024/"><u>[Updated] Bare-Bones, Budget-Friendly Best 5 Windows 10 Recording Apps for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevating-your-images-essential-hdr-tips-for-photoshop/"><u>Elevating Your Images Essential HDR Tips for Photoshop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-solving-voicemod-access-issues-2024-edition/"><u>Expert Advice on Solving Voicemod Access Issues - 2024 Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-restoring-functionality-to-your-onikuma-headset-mic/"><u>Expert Tips on Restoring Functionality to Your Onikuma Headset Mic</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-honor-magic-6-lite-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Honor Magic 6 Lite?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hp-laptop-mute-mystery-solved-how-to-get-speakers-working-again-on-windows-n-11-systems/"><u>HP Laptop Mute Mystery Solved: How to Get Speakers Working Again on Windows N 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/insider-tips-and-tricks-eliminate-discord-voice-cuts-a-complete-how-to-guide/"><u>Insider Tips and Tricks: Eliminate Discord Voice Cuts – A Complete How-To Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/instant-drive-shedding-guide-for-graphics-removal/"><u>Instant Drive Shedding - Guide for Graphics Removal</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-troubleshooting-of-windows-11-bluetooth-connectivity-issues/"><u>Mastering the Troubleshooting of Windows 11 Bluetooth Connectivity Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-audio-interruptions-and-outages-on-your-pc-with-windows-10-resolved/"><u>Overcoming Audio Interruptions and Outages on Your PC with Windows 10 [Resolved]</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/personalized-smart-assistance-which-fits-you-best-alexa-or-google-assistant/"><u>Personalized Smart Assistance: Which Fits You Best, Alexa or Google Assistant?</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/ultimate-guide-how-to-securely-preserve-your-files-before-performing-a-clean-windows-11-reinstall/"><u>Ultimate Guide: How to Securely Preserve Your Files Before Performing a Clean Windows 11 Reinstall</u></a></li>
+</ul></div>
 

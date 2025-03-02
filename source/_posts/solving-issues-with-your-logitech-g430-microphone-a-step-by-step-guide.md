@@ -1,7 +1,7 @@
 ---
 title: "Solving Issues with Your Logitech G430 Microphone: A Step-by-Step Guide"
-date: 2025-02-06T03:55:13.204Z
-updated: 2025-02-11T06:46:16.770Z
+date: 2025-02-27T10:47:14.558Z
+updated: 2025-03-01T16:43:51.149Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 4. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Close unnecessary background apps](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Troubleshoot the hardware issue
 
  Before moving on to some more advanced methods, you need to make sure your microphone is not physically broken and the connection works fine. You can take these steps to do a basic check:
@@ -61,17 +57,9 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3-6.jpg)
 4. Also, **toggle on Allow desktop apps’ access to your microphone** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg)
 
  After applying the settings, you can restart Rec Room to test the issue. If it’s not resolved, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Set your headset mic as the default device
 
@@ -83,19 +71,11 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel-0.jpg)
 2. Select**Small icons** from the menu next to View by and click**Sound** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-4.jpg)
 3. Go to the**Recording** tab. Then right-click other recording devices you’re not using and click**Disable** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-2.jpg)
 4. Make sure your preferred headset mic is**enabled** , which should be covered with a green check mark, and**set as default** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
 
@@ -116,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 2. Select the**Audio** tab. Then click**Set Record Device** and set it to your preferred headset mic.
 
  See if your microphone works in Rec Room. If not, continue to the next method below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Update your audio driver
 
@@ -177,20 +153,17 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/fixed-headphones-not-showing-up-in-playback-devices-on-windows-10/"><u>[Fixed] Headphones Not Showing Up in Playback Devices on Windows 10</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-significance-of-reducing-camera-shake-with-software-tools/"><u>[New] The Significance of Reducing Camera Shake with Software Tools</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-virtual-ventures-discovering-the-best-in-action-adventure-classics-top-10/"><u>[New] Virtual Ventures – Discovering the Best in Action-Adventure Classics (Top 10)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725288565699-dvd/"><u>「メディア再生マスタークラス: DVD、動画、音声再生の総合チュートリアル」</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/chatgpt-plus-membership-is-it-right-for-you-discover-these-5-benefits-first/"><u>ChatGPT Plus Membership - Is It Right for You? Discover These 5 Benefits First!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-fix-addressing-the-failure-of-overwatchs-push-to-talk-system/"><u>Comprehensive Fix: Addressing the Failure of Overwatch’s Push-to-Talk System</u></a></li>
-<li><a href="https://win11.techidaily.com/dissecting-runtime-broker-its-role-in-software-dynamics/"><u>Dissecting Runtime Broker: Its Role in Software Dynamics</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-fixing-razer-barracuda-x-mic-malfunctions-in-windows-10-and-11-environments/"><u>Expert Advice: Fixing Razer Barracuda X Mic Malfunctions in Windows 10 and 11 Environments</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-enable-audio-on-your-pc-anthem-game-quieted-by-windows-11-update/"><u>How to Enable Audio on Your PC: Anthem Game Quieted by Windows 11 Update?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016829509-onikuma-headset-mic-problems-heres-how-you-can-fix-them/"><u>Onikuma Headset Mic Problems? Here's How You Can Fix Them!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-silent-speakers-despite-connection-in-windows-os/"><u>Step-by-Step Solution for Silent Speakers Despite Connection in Windows OS</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Realme GT 3? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-infinix-note-30-vip-racing-edition-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Infinix Note 30 VIP Racing Edition Phone Pattern Lock</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/top-solutions-troubleshooting-toshiba-laptop-audio-issues/"><u>Top Solutions: Troubleshooting Toshiba Laptop Audio Issues</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For OnePlus Ace 2? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-elevate-your-video-remove-extraneous-details-effectively/"><u>[New] Elevate Your Video - Remove Extraneous Details Effectively</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/riumph-over-ten-common-vlogging-worries/"><u>[New] Triumph Over Ten Common Vlogging Worries</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-earning-power-through-engagement-ajays-success-on-youtube-monetization/"><u>[Updated] 2024 Approved Earning Power Through Engagement Ajay’s Success on YouTube Monetization</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-conquering-video-production-hurdles-essential-filmora-tips-and-tricks/"><u>[Updated] Conquering Video Production Hurdles Essential Filmora Tips & Tricks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-techniques-for-webcam-integration-in-game-recording/"><u>2024 Approved Top Techniques for WebCam Integration in Game Recording</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beat-the-stutter-overcoming-bluetooth-sound-irregularities-on-new-windows-versions/"><u>Beat the Stutter: Overcoming Bluetooth Sound Irregularities on New Windows Versions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnose-and-fix-when-your-logitech-g430-mic-wont-work-anymore/"><u>Diagnose and Fix: When Your Logitech G430 Mic Won't Work Anymore</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-correcting-audio-driver-issues-in-windows-operating-systems/"><u>Diagnosing and Correcting Audio Driver Issues in WinDows Operating Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-fixes-for-your-astro-a10-microphone-no-more-silence/"><u>DIY Fixes for Your Astro A10 Microphone: No More Silence!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-solutions-to-restore-audio-on-your-dell-computer-right-now/"><u>Easy Solutions to Restore Audio on Your Dell Computer Right Now</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-charisma-of-jittery-text-2-methods-unleashed/"><u>In 2024, The Charisma of Jittery Text 2 Methods Unleashed</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
 </ul></div>
 

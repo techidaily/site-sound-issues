@@ -1,7 +1,7 @@
 ---
 title: "Tutorial: Repairing the Unresponsive Mic Feature in Your Turtle Beach Elite Atlas Headset"
-date: 2025-02-07T00:05:26.644Z
-updated: 2025-02-10T18:08:53.751Z
+date: 2025-02-28T22:04:50.719Z
+updated: 2025-03-02T07:39:36.983Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Find your mic not working in Squad? That’s definitely annoying when you have t
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
  Here are 5 tried-and-true fixes for Squad mic not working. You may not try them all. Simply work your way down the list until you find the one that does the trick.
@@ -35,10 +31,6 @@ Find your mic not working in Squad? That’s definitely annoying when you have t
 3. **[Check the in-game settings](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1 – Double-check your device and connection
 
@@ -84,15 +76,7 @@ Follow the steps here:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/change-sample-rate-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’ve configured the microphone properly in Windows and still encounter the same problem, the next thing is to look at the in-game mic settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Check the in-game settings
 
@@ -108,15 +92,7 @@ Follow the steps here:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/in-game-settings-2-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart Squad to see if your microphone transmits your voice as normal. If not, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Update your audio driver
 
@@ -158,10 +134,6 @@ Follow the steps here:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Select**Local Files** and then click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-2.jpg)
 
  Does your mic-not-working issue gets fixed now? If not, you should consider**uninstalling Squad and restarting from scratch** . If there was something wrong with your previous installation, you need to perform a fresh reinstallation to get your microphone to work again in Squad.
@@ -188,24 +160,22 @@ Follow the steps here:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-save-time-money-on-passport-photos-with-our-free-generator-apps/"><u>[New] Save Time, Money on Passport Photos with Our Free Generator Apps</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-ultimate-video-playback-mkv-edition/"><u>[Updated] 2024 Approved Ultimate Video Playback MKV Edition</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1-top-free-video-editing-software-download-now-for-high-quality-results-with-movavi/"><u>1. Top Free Video Editing Software - Download Now for High-Quality Results with Movavi</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-secrets-of-selecting-the-best-nba-live-feed/"><u>2024 Approved Secrets of Selecting the Best NBA Live Feed</u></a></li>
-<li><a href="https://article-helps.techidaily.com/best-mobile-and-desktop-apps-adjusting-audio-playback-speed-for-2024/"><u>Best Mobile & Desktop Apps Adjusting Audio Playback Speed for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-headset-connection-errors-in-the-windows-10-environment/"><u>Diagnosing and Repairing Headset Connection Errors in the Windows 10 Environment</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-techniques-reviving-your-headset-microphone-when-it-stops-working/"><u>Effective Techniques: Reviving Your Headset Microphone When It Stops Working</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-hdmi-in-use-errors-tips-for-managing-device-accessibility-across-multiple-software/"><u>Fixing 'HDMI in Use' Errors – Tips for Managing Device Accessibility Across Multiple Software</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-your-steam-voice-chat-back-on-track-expert-advice-and-fixes/"><u>Getting Your Steam Voice Chat Back on Track: Expert Advice and Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-your-corsair-hs60-mic-when-it-stops-working-properly/"><u>How to Fix Your Corsair HS60 Mic When It Stops Working Properly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-headphone-problems-on-a-windows-10-pc-solved/"><u>How to Resolve Headphone Problems on a Windows 10 PC - Solved</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-solve-lack-of-hdmi-sound-in-windows-7-systems/"><u>How to Troubleshoot and Solve Lack of HDMI Sound in Windows 7 Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-the-apple-vision-pro-enhancing-your-airline-travel-experience-especially-in-economy-insights-from-zdnet/"><u>Is the Apple Vision Pro Enhancing Your Airline Travel Experience, Especially in Economy? - Insights From ZDNet</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/pinnacle-5-frame-timelapse-recorder/"><u>Pinnacle 5-Frame Timelapse Recorder</u></a></li>
-<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-vivo-x100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96489567-9781578593477-real-monsters-gruesome-critters-and-beasts-from-the-darkside/"><u>Real Monsters, Gruesome Critters, and Beasts from the Darkside | Free Book</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-microsoft-teams-audio-issues-how-to-get-your-mic-working-again/"><u>Solving Microsoft Teams Audio Issues: How to Get Your Mic Working Again</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-nokia-by-drfone-android/"><u>Top 10 Password Cracking Tools For Nokia</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/usb-headphone-no-sound-on-windows-7-solved/"><u>USB Headphone No Sound on Windows 7 [Solved]</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-beyondthebaseline-mycams-successor-in-2024/"><u>[New] BeyondTheBaseline MyCam's Successor, In 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-top-talkers-theme-transformer/"><u>[New] In 2024, Top Talkers' Theme Transformer</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-visionary-8-tools-transforming-gameplay/"><u>[New] Visionary 8 Tools Transforming Gameplay</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/descubra-tudo-sobre-o-software-de-resgate-da-aomei-manuais-ofertas-e-mais-informacoes/"><u>Descubra Tudo Sobre O Software De Resgate Da AOMEI - Manuais, Ofertas E Mais Informações</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v20-document-with-digital-signature-app-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v2.0 document with digital signature app</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-team-fortress-2-from-constantly-crashing-troubleshooting-guide/"><u>How to Stop Team Fortress 2 From Constantly Crashing - Troubleshooting Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722989926377-lost-ark-pc-stability-issues-heres-the-ultimate-guide-to-solve-them/"><u>Lost Ark PC Stability Issues? Here's the Ultimate Guide to Solve Them</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-noise-from-your-speakers-on-apex-legends-these-fixes-can-help/"><u>No Noise From Your Speakers on Apex Legends? These Fixes Can Help!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-when-your-steelseries-arctis-7s-microphone-stops-working/"><u>Quick Fixes for When Your SteelSeries Arctis 7'S Microphone Stops Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-audio-problems-heres-how-to-restore-your-sound/"><u>Realtek Audio Problems? Here's How to Restore Your SOUND!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-the-noise-of-night-city-fixing-audio-on-cyberpunk-2077-running-on-windows-nixlinux-systems/"><u>Revive the Noise of Night City: Fixing Audio on Cyberpunk 2077 Running on Windows Nix/Linux Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-fixing-connectivity-problems-with-your-ipads-wi-fi/"><u>Step-by-Step Guide: Fixing Connectivity Problems with Your iPad's Wi-Fi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-audio-solve-your-headphone-problems-on-a-windows-11-pc/"><u>Trouble with Audio? Solve Your Headphone Problems on a Windows 11 PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-your-pc-a-5-step-guide-to-resolving-windows-10-audio-problems/"><u>Troubleshoot Your PC: A 5-Step Guide to Resolving Windows 10 Audio Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-common-issues-with-the-corsair-virtuoso-mic/"><u>Troubleshooting Guide: Solving Common Issues with the Corsair Virtuoso Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-how-to-repair-your-zoom-microphone-on-windows-10-or-11/"><u>Troubleshooting: How to Repair Your Zoom Microphone on Windows 10 or 11</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-s18-pro-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo S18 Pro? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

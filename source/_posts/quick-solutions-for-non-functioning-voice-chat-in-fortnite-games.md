@@ -1,7 +1,7 @@
 ---
 title: Quick Solutions for Non-Functioning Voice Chat in Fortnite Games
-date: 2024-08-18T08:06:02.275Z
-updated: 2024-08-19T08:06:02.275Z
+date: 2025-02-27T13:46:39.718Z
+updated: 2025-03-02T08:12:26.499Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
 
 **Voice chat not working in Fortnite?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other Fortnite players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -33,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ### Fix 1: Sign out Fortnite, then sign back in
 
  This is the quickest and easiest fix to try when chat’s not working in Fortnite. Just sign out of the game, then sign back in.
@@ -62,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Fix 3: Install the latest Fortnite patch
 
  The developers of Fortnite release regular game patches to fix bugs. It’s possible that a recent patch has stopped your chat from working, and that a new patch is required to fix it.
@@ -85,33 +76,20 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
 
  5\. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap898.png)
 
  Run Fortnite again to check whether your chat problem has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 4, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 4: Make sure your microphone is on for Fortnite
 
  If you downloaded Fortnite from**the Microsoft Store** , check if it has permission to use your microphone. Here’s how to do it:
 
  1\. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Privacy** .
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap427.jpg)
 
  2\. Click **Microphone**  on the left pane, and make sure**Microphone access for this device** is**on** , and the status is **On** for **Fortnite** .
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap428.jpg)
 
 3\. Run Fortnite to see if chat works now. If not, try Fix 5, below.
@@ -146,9 +124,6 @@ iii. Exit Fortnite.
 
  5\. While still in the**Recording** tab, try**speaking into your microphone** to test if it works properly. If it is, you should see some green in the bar on the right:
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
 
  6\. Click **OK** .
@@ -157,9 +132,6 @@ iii. Exit Fortnite.
 
  Join a squad to check ifchat is now working . If not, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Reinstall Fortnite
 
  If none of the above fixes resolves your chat problem, try reinstalling Fortnite. Here is how to do it:
@@ -170,9 +142,6 @@ iii. Exit Fortnite.
 
  2\. Click**Uninstall** to uninstall Fortnite.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap950.png)
 
 3\. Restart your PC.
@@ -195,8 +164,6 @@ iii. Exit Fortnite.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,4 +171,22 @@ iii. Exit Fortnite.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-simplest-scan-capture-app-on-windows-10/"><u>[New] 2024 Approved Simplest Scan-Capture App on Windows 10</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-pinnacle-bots-of-online-communities-for-2024/"><u>[New] Pinnacle Bots of Online Communities for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nlocking-the-past-best-educational-historical-content-on-yt/"><u>[New] Unlocking the Past Best Educational Historical Content on YT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-free-and-premium-screen-capture-software-for-windows-11-top-10-picks/"><u>Best Free & Premium Screen Capture Software for Windows 11: Top 10 Picks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cant-get-your-blue-yeti-microphone-to-connect-check-out-these-helpful-tips/"><u>Can't Get Your Blue Yeti Microphone to Connect? Check Out These Helpful Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-fix-restoring-audio-capabilities-for-hp-computers-using-windows-11/"><u>Comprehensive Fix: Restoring Audio Capabilities for HP Computers Using Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-fixes-for-beyond-the-wire-tackling-non-functional-mic-problems/"><u>Expert Fixes for 'Beyond The Wire': Tackling Non-Functional Mic Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-common-issues-when-your-mic-fails-to-record-sound-effectively/"><u>Fixing Common Issues When Your Mic Fails to Record Sound Effectively</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-honor-v-purse-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Honor V Purse Face Lock?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/hochleistungs-dvd-zu-mpeg4-konvertierung-auf-mac-mit-handbrake-macos-high-sierra-download/"><u>Hochleistungs-DVD Zu MPEG4 Konvertierung Auf Mac Mit Handbrake (macOS High Sierra) Download</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-experience-gaming-excellence-with-kinemaster-on-android/"><u>In 2024, Experience Gaming Excellence with KineMaster on Android</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-issues-with-runmus-gaming-headset-microphone-step-by-step-guide/"><u>Resolving Issues with RUNMUS Gaming Headset Microphone - Step by Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-addressing-sound-driver-errors-for-dell-pcs-windows-7/"><u>Step-by-Step Guide: Addressing Sound Driver Errors for Dell PCs (Windows 7)</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-conversation-a-guide-to-engaging-dialogues-in-chatgpt-roleplaying/"><u>The Art of Conversation: A Guide to Engaging Dialogues in ChatGPT Roleplaying</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-tecno-spark-20-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Tecno Spark 20 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+</ul></div>
 

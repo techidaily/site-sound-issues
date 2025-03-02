@@ -1,7 +1,7 @@
 ---
 title: Guide to Restoring Audio Functionality on Your Toshiba Notebook
-date: 2025-02-04T23:41:14.347Z
-updated: 2025-02-10T22:54:38.347Z
+date: 2025-02-25T10:35:34.340Z
+updated: 2025-03-02T08:11:38.174Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -52,17 +48,9 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
   
 ![turn on app permissions on your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/turn-on-app-permissions-for-your-micropho0ne.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Under the**Allow apps to access your microphone** section, make sure it’s turned**On** .  
   
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Once you’ve allowed microphone access to your apps, you can change the settings for each app. Simply head to the**Choose which Microsoft apps can access your microphone** , and turn on apps you want to use with it. For desktop apps, make sure that**Allow desktop apps to access your microphone** is turned**On** .
 
@@ -81,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
  2) Under the**Input** section, make sure that your headset is showing. Then click**Device Properties** .  
   
 ![sound settings input section](https://images.drivereasy.com/wp-content/uploads/2021/02/Input-section-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Make sure that your headset is not disabled.  
   
@@ -110,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
   
 ![set your device as default](https://images.drivereasy.com/wp-content/uploads/2021/02/set-it-as-default.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When it’s all done, use your microphone to check if it’s working now. If you’re still having the same problem, try the next fix below.
 
 ---
@@ -136,10 +116,6 @@ Here’s how to update drivers with Driver Easy:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![update audio driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/12/update-audio-driver-automatically-with-Driver-Easy.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -174,20 +150,24 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/fixed-epson-printer-on-windows-11-not-working-anymore/"><u>[FIXED] Epson Printer on Windows 11: Not Working Anymore</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-how-to-live-stream-xbox-to-facebook-live/"><u>[New] 2024 Approved How to Live Stream Xbox to Facebook Live</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-exclusive-directory-free-visual-content-oasis-online/"><u>[New] In 2024, Exclusive Directory Free Visual Content Oasis Online</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-freely-enhance-your-photos-iosandroids-best-overlay-apps-for-2024/"><u>[Updated] Freely Enhance Your Photos IOS/Android's Best Overlay Apps for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-earn-more-maximizing-income-through-youtube-mobile-advertising/"><u>[Updated] In 2024, Earn More Maximizing Income Through YouTube Mobile Advertising</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-navigating-google-meet-discussions-tips-and-tricks-for-2024/"><u>[Updated] Navigating Google Meet Discussions Tips & Tricks for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-aesthetic-alchemy-grading-with-colors/"><u>2024 Approved Aesthetic Alchemy Grading with Colors</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/apple-postpones-launch-of-ai-capabilities-in-devices-to-october-insights-from-zdnet/"><u>Apple Postpones Launch of AI Capabilities in Devices to October: Insights From ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-in-game-micvoice-chat-disruptions-for-console-and-desktop-users-on-warzone/"><u>Diagnosing and Repairing In-Game Mic/Voice Chat Disruptions for Console and Desktop Users on Warzone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-headphone-popping-sounds-instantly-simple-solutions/"><u>Fix Headphone Popping Sounds Instantly: Simple Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hdmi-problem-solutions-what-to-do-if-another-program-is-using-the-device/"><u>HDMI Problem Solutions: What To Do If Another Program Is Using the Device</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-top-tier-tactics-for-crafting-fbs-most-watched-videos/"><u>In 2024, Top-Tier Tactics for Crafting #FB's Most Watched Videos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/tips-for-restoring-sound-capabilities-in-faulty-razer-seiren-headsets/"><u>Tips for Restoring Sound Capabilities in Faulty Razer Seiren Headsets</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-full-guide-to-funcall-voice-changer-and-its-alternatives-for-2024/"><u>Updated Full Guide to Funcall Voice Changer and Its Alternatives for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-7-and-audio-malfunctions-fixing-headphone-connectivity-problems/"><u>Windows 7 and Audio Malfunctions: Fixing Headphone Connectivity Problems</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-harnessing-the-power-of-photography-and-videography-a-pixiz-approach/"><u>[New] 2024 Approved Harnessing the Power of Photography & Videography A Pixiz Approach</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-essential-toolkit-3d-video-entrances-ranked/"><u>[New] The Essential Toolkit 3D Video Entrances Ranked</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leading-10-digital-subtitling-platforms/"><u>[Updated] Leading 10 Digital Subtitling Platforms</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expertly-alter-imagesvideo-with-mobile-3dluts/"><u>Expertly Alter Images/Video with Mobile 3DLUTs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-record-setting-stories-a-list-of-the-most-popular-reddit-threads/"><u>In 2024, Record-Setting Stories A List of the Most Popular Reddit Threads</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-video-editor-how-to-edit-instagram-video/"><u>Instagram Video Editor How to Edit Instagram Video</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-live-shopping-in-china-major-changes-in-the-industry-for-2024/"><u>New Live Shopping in China Major Changes in the Industry for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silence-the-static-effective-solutions-to-crackling-sounds-in-windows-10-11-and-7-computers/"><u>Silence the Static: Effective Solutions to Crackling Sounds in Windows 10, 11 & 7 Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-common-logitech-g230-microphone-compatibility-issues-with-ease/"><u>Solve Common Logitech G230 Microphone Compatibility Issues with Ease</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/squad-mic-troubleshooting-ultimate-fixes-and-tips/"><u>Squad Mic Troubleshooting: Ultimate Fixes and Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steelseries-arctis-pro-mic-not-working-solved/"><u>SteelSeries Arctis Pro Mic Not Working [SOLVED]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-fixing-a-broken-bose-audio-unit/"><u>Step-by-Step Solutions for Fixing a Broken Bose Audio Unit</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-resolving-misconfigured-speakers-on-windows-11/"><u>Troubleshooting & Resolving Misconfigured Speakers on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-common-issues-with-laptop-audio-hardware/"><u>Troubleshooting and Repairing Common Issues With Laptop Audio Hardware</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-steelseries-arctis-pro-headset-microphone-issues/"><u>Troubleshooting Guide: Fixing SteelSeries Arctis Pro Headset Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-non-functional-onikuma-headset-mics-solutions-inside/"><u>Troubleshooting Non-Functional Onikuma Headset Mics - Solutions Inside</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/unusual-sounds-from-your-printer-discover-the-causes-and-fixes-expert-advice-by-yl-computing/"><u>Unusual Sounds From Your Printer: Discover the Causes & Fixes - Expert Advice by YL Computing</u></a></li>
 </ul></div>
 

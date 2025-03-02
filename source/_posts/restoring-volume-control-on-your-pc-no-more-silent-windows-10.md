@@ -1,7 +1,7 @@
 ---
 title: "Restoring Volume Control on Your PC: No More Silent Windows 10"
-date: 2025-02-05T21:58:41.337Z
-updated: 2025-02-11T04:50:51.719Z
+date: 2025-02-26T17:02:06.787Z
+updated: 2025-03-01T17:34:04.870Z
 tags:
   - win11
   - win10
@@ -53,10 +53,6 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72220f11f9.jpg)
 4. Restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Check if there’s any sound in your computer.
 
  If the problem still persists, don’t worry. We have other solutions.
@@ -74,17 +70,9 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7201dbcc98.jpg)
 3. Select your speaker audio device, and click**Set Default** to set it as your default device.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If your device has been the default device, you’ll see a green check mark next to your device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72066a032c.jpg)
 4. Restart your computer, and plug a headphone to see if there’s any sound.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Still no luck? Okay, there’s one more thing to try.
 
@@ -97,16 +85,8 @@ Still no luck? Okay, there’s one more thing to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721431cb33.jpg)
 3. Double click**Sound, video and game controllers** to expand it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72165a0e6f.jpg)
 4. Double click on your**audio device** to open the properties pane.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7218e14fa5.jpg)
 5. Click the**Driver** tab, and click**Roll Back Driver** .  
@@ -140,19 +120,15 @@ Feel free to leave a comment below if you have any questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-mastering-facebook-bio-writing-essential-tactics-for-success/"><u>[Updated] 2024 Approved Mastering Facebook Bio Writing Essential Tactics for Success</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-future-is-now-insights-from-jaunt-vr-review/"><u>[Updated] In 2024, The Future Is Now Insights From Jaunt VR Review</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-top-tier-free-video-editing-software-guide-for-iphoneipad-users/"><u>[Updated] In 2024, Top-Tier Free Video Editing Software Guide for iPhone/iPad Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015326252-diy-solution-to-get-your-astro-a50-headphones-mic-working-again/"><u>DIY Solution to Get Your Astro A50 Headphones' Mic Working Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-for-your-malfunctioning-steelseries-arctis-1-microphone/"><u>How to Restore Functionality for Your Malfunctioning SteelSeries Arctis 1 Microphone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-asus-rog-phone-8-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Asus ROG Phone 8 Pro to iPad | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamline-conferencing-top-tactics-using-zoom-coder/"><u>In 2024, Streamline Conferencing Top Tactics Using Zoom Coder</u></a></li>
-<li><a href="https://win11.techidaily.com/keep-top-spot-for-note-taking-on-win-1011-oses/"><u>Keep Top Spot for Note Taking on Win 10/11 OSes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-issues-with-non-responsive-logitech-microphone-in-webcams/"><u>Resolving Issues with Non-Responsive Logitech Microphone in Webcams</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-troubleshooting-non-working-headphones-in-windows-10-environment/"><u>Solution Guide: Troubleshooting Non-Working Headphones In Windows 10 Environment</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-audio-problems-on-your-astro-a50-headset-quick-solutions-inside/"><u>Solving Audio Problems on Your Astro A50 Headset - Quick Solutions Inside</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/top-picks-essential-tools-to-play-ps1-games-on-your-computer-for-2024/"><u>Top Picks - Essential Tools to Play PS1 Games on Your Computer for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-dell-audio-issues-on-windows-7-a-step-by-step-guide/"><u>Troubleshooting Dell Audio Issues on Windows 7: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-data.techidaily.com/upgrade-decision-comparing-windows-7-10-and-11-is-it-time-for-an-update/"><u>Upgrade Decision - Comparing Windows 7, 10 & 11: Is It Time for an Update?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oneplus-nord-ce-3-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor OnePlus Nord CE 3 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-all-about-facetune-in-depth-user-guide-and-analysis/"><u>2024 Approved All About Facetune In-Depth User Guide & Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722877548671-all-you-need-to-know-about-the-upcoming-samsung-galaxy-z-flip-6-cost-and-exclusive-specs/"><u>All You Need to Know About the Upcoming Samsung Galaxy Z Flip 6: Cost and Exclusive Specs</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-lava-blaze-2-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/overhaul-overflow-cutting-edge-techniques-for-massive-tiktok-drafts-for-2024/"><u>Overhaul Overflow Cutting-Edge Techniques for Massive TikTok Drafts for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210888050-reactivate-your-windows-11-bluetooth-connection-quick-fixes-inside/"><u>Reactivate Your Windows 11 Bluetooth Connection - Quick Fixes Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-headphone-and-speaker-connectivity-problems-on-microsoft-windows-platforms/"><u>Resolving Headphone and Speaker Connectivity Problems on Microsoft Windows Platforms</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-issues-and-upgrading-to-idt-hd-audio-codec-for-optimal-performance-on-your-windows-10-system/"><u>Resolving Issues & Upgrading to IDT HD Audio Codec for Optimal Performance on Your Windows 10 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-a-non-functioning-sound-blaster-audio-input-device/"><u>Reviving a Non-Functioning Sound Blaster Audio Input Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-hp-laptop-speakers-a-guide-to-restoring-sound-on-windows-11-systems/"><u>Reviving HP Laptop Speakers: A Guide to Restoring Sound on Windows 11 Systems</u></a></li>
 </ul></div>
 

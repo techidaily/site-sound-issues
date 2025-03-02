@@ -1,7 +1,7 @@
 ---
 title: "Fixing Connectivity Problems: Using Tozo T6 with Windows Lete the Device Is up to Date, and Make Sure Your Computer's Drivers Are Also Current as Outdated Drivers Can Cause Compatibility Issues."
-date: 2024-08-18T08:05:45.893Z
-updated: 2024-08-19T08:05:45.893Z
+date: 2025-02-23T07:27:21.490Z
+updated: 2025-03-02T09:34:00.281Z
 tags:
   - win11
   - win10
@@ -31,9 +31,6 @@ If your Corsair HS70 Mic Stopped Working on Windows, don’t worry. You can use 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Allow access to your microphone
 
  If your microphone is not allowed to access on your computer, you can’t use it properly. So first, check if it’s allowed to access on your computer. If it’s not allowed to access, configure the setting to make it work.
@@ -42,17 +39,10 @@ To do this, you can follow these steps:
 
  1) Click the**Start** at the bottom left corner of your screen, then click the**Settings** icon.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-147.png)
 
  2) Click**Privacy** .
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-146.png)
 
  3) Click**Microphone** .
@@ -67,9 +57,6 @@ To do this, you can follow these steps:
 
  If you see ‘Microphone access for this device’ is**Off** , click on the button to**turn it on** .
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-159.png)
 
  5) Make sure**Allow apps to access your microphone** is turned on.
@@ -88,9 +75,6 @@ To do this, you can follow these steps:
 
  2) Type “control panel” in the box and click**OK** to open Control Panel.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-161.png)
 
  3) In Control Panel, View by**Large icons** .
@@ -107,18 +91,12 @@ To do this, you can follow these steps:
 
  If you see microphone is disabled,**right click the device** and select**Enable** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-165.png)
 
  If you don’t see microphone in the device list, you need to show it first, then enable it manually.
 
  a. Right click on the blank place and select**Show Disabled Devices** . Then you’ll see the microphone device on the list.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-166.png)
 
  b. Right click the microphone and select**Enable** .
@@ -155,18 +133,12 @@ To do this, you can follow these steps:
 
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-142.png)
 
  3) Click the**Update** button next to a flagged audio driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-143.png)
 
  You can do it for free if you like, but it’s partly manual.
@@ -175,9 +147,6 @@ To do this, you can follow these steps:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Troubleshoot hardware issues
 
  If the above fixes don’t resolve the problem, your Corsair HS70 mic not working might be caused by hardware issues. The mic or the port on the computer might have physical issues. To troubleshoot hardware issues, you can do these things:
@@ -200,8 +169,6 @@ To do this, you can follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -209,4 +176,22 @@ To do this, you can follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-direct-engagement-sharing-your-twitch-content-on-facebook/"><u>[New] 2024 Approved Direct Engagement Sharing Your Twitch Content on Facebook</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-pathway-to-delicate-audible-reduction-within-lumafusion/"><u>[Updated] In 2024, The Pathway to Delicate Audible Reduction Within Lumafusion</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-straightforward-approach-to-editing-age-on-tiktok/"><u>[Updated] In 2024, The Straightforward Approach to Editing Age on TikTok</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-initiate-your-journey-into-asmr-filming-essential-insights-revealed-for-2024/"><u>[Updated] Initiate Your Journey Into ASMR Filming – Essential Insights Revealed for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beat-obs-frame-skipping-effective-solutions-and-advice/"><u>Beat OBS Frame Skipping: Effective Solutions and Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/boosting-audio-output-on-your-pc-a-step-by-step-guide-for-windows-11-users/"><u>Boosting Audio Output on Your PC: A Step-by-Step Guide for Windows 11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016644109-chromes-sound-troubles-fixed-discover-the-solutions-here/"><u>Chrome's Sound Troubles Fixed? Discover the Solutions Here!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016292592-csgo-mic-not-working-heres-what-you-need-to-do/"><u>CS:GO Mic Not Working? Here's What You Need to Do</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-headset-malfunctions-in-windows-7-operating-system/"><u>Diagnosing & Repairing Headset Malfunctions in Windows 7 Operating System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-how-to-fix-and-enable-idt-hd-audio-codec-on-windows-10-systems/"><u>Guide: How to Fix and Enable IDT HD Audio Codec on Windows 10 Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-maximizing-zoom-video-details-step-by-step-methods/"><u>In 2024, Maximizing Zoom Video Details Step-by-Step Methods</u></a></li>
+<li><a href="https://video-capture.techidaily.com/innovative-approaches-to-documenting-gaming-on-ps4/"><u>Innovative Approaches to Documenting Gaming on PS4</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/mastering-tiktoks-economy-with-these-8-profitable-methods/"><u>Mastering TikTok's Economy with These 8 Profitable Methods</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-troubleshooting-for-fixing-buzzing-issues-in-earbuds-and-headsets/"><u>Step-by-Step Troubleshooting for Fixing Buzzing Issues in Earbuds and Headsets</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/store-the-processed-data-in-a-mongodb-database-including-the-tweets-text-timestamp-sentiment-score-and-associated-cryptocurrency-name/"><u>Store the Processed Data in a MongoDB Database Including the Tweet's Text, Timestamp, Sentiment Score, and Associated Cryptocurrency Name.</u></a></li>
+</ul></div>
 

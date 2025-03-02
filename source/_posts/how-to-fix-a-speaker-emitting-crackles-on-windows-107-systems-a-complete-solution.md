@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Speaker Emitting Crackles on Windows 10/7 Systems - A Complete Solution
-date: 2024-08-18T08:06:34.985Z
-updated: 2024-08-19T08:06:34.985Z
+date: 2025-02-22T19:56:25.509Z
+updated: 2025-03-02T08:40:20.014Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press   **the Windows logo key**  and type**audio** , then click**Manage audio devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
@@ -62,41 +58,23 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### Fix 3: Adjust **the minimum processor state**
 
  Adjusting**the minimum processor state** , as reported by many users, is another effective way to fix the annoying sound problem in our speaker. To do so:
 
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
@@ -116,8 +94,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +101,24 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-beginners-blueprint-to-effective-use-of-aiseesoft-recorder/"><u>[New] Beginner's Blueprint to Effective Use of Aiseesoft Recorder</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-essential-tips-creating-striking-youtube-video-previews/"><u>[New] In 2024, Essential Tips Creating Striking YouTube Video Previews</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-latest-podcast-question-bank-for-engaging-audiences-for-2024/"><u>[New] Latest Podcast Question Bank for Engaging Audiences for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-streamlined-capturing-top-5-mac-tools-for-effective-snipping/"><u>[Updated] Streamlined Capturing Top 5 Mac Tools for Effective Snipping</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-steps-to-restore-voice-chat-in-league-of-legends/"><u>Comprehensive Steps To Restore Voice Chat In League of Legends</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/convertissez-votre-fichier-asf-au-format-flash-swf-librement-sur-internet-via-movavi/"><u>Convertissez Votre Fichier ASF Au Format Flash SWF Librement Sur Internet via Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-improve-speaker-output-and-increase-volume-on-a-windows-desktop-or-laptop/"><u>How to Improve Speaker Output & Increase Volume on a Windows Desktop or Laptop</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-vivo-y27-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Vivo Y27 5G Lock Screen Password</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/1721104222256-joy-overload-all-wacom-devices-connected/"><u>Joy Overload: All Wacom Devices Connected!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reviewing-the-asus-proart-pa3-user-1/"><u>Reviewing the Asus ProArt PA3# User #1</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-for-world-of-warcraft-voip-problems-get-your-microphone-working/"><u>Solution Steps for World of Warcraft VOIP Problems – Get Your Microphone Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-cyberpunk-2er-punk-sound-issues-the-ultimate-fixing-methods/"><u>Solving Cyberpunk 2Er Punk Sound Issues - The Ultimate Fixing Methods</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-setting-up-undetected-audio-devices-on-windows-10/"><u>Step-by-Step Guide: Setting Up Undetected Audio Devices on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/stereo-mix-not-working-heres-how-to-get-it-up-and-running-again/"><u>Stereo Mix Not Working? Here's How to Get It Up & Running Again</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-vivo-s18-pro-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Vivo S18 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015067201-trouble-with-your-razer-man-o-war-mic-heres-the-solution/"><u>Trouble with Your Razer Man O' War Mic? Here's the Solution!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-logitech-g933-a-step-by-step-guide/"><u>Troubleshooting Silent Logitech G933: A Step-by-Step Guide</u></a></li>
+</ul></div>
 

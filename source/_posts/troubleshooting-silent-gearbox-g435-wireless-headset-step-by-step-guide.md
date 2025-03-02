@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Silent Gearbox G435 Wireless Headset - Step-by-Step Guide
-date: 2025-02-09T16:46:46.059Z
-updated: 2025-02-11T01:27:48.451Z
+date: 2025-03-01T09:34:45.310Z
+updated: 2025-03-02T10:49:07.508Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Here are the fixes
 
@@ -51,15 +47,7 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/run-troubleshooter-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for the process to complete and follow the on-screen instructions to repair the detected issues. If your microphone still doesn’t work, proceed to the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Check the privacy settings
 
@@ -78,10 +66,6 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you should be able to use the Onikuma headset mic with whatever applications. But if the problem persists, try the next fix below.
 
 ### Fix 3 – Set your Onikuma mic as the default device
@@ -92,20 +76,12 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-1-3.jpg)
 2. Select**Small icons** next to View by and click**Sound** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-2-1.jpg)
 3. Select the**Recording** tab. Then right-click your Onikuma headset mic and click**Enable** (if it’s not) and click**Set as Default Device** .  
 
  If you don’t see it listed, right-click any blank space and tick**Show Disabled Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-0-1.jpg)
 4. Right-click the microphone again and select**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-3-1.jpg)
 5. On the**Levels** tab, check whether the microphone is muted. If yes, click the**speaker icon** to unmute it and**drag the volume slider to the max** .  
@@ -170,21 +146,22 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-10-premier-ios-games-fully-enjoyable-without-wireless-connection-for-2024/"><u>[New] 10 Premier iOS Games, Fully Enjoyable without Wireless Connection for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/nteractive-elements-crafting-effective-youtube-annotations-for-2024/"><u>[New] Interactive Elements Crafting Effective YouTube Annotations for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-seamless-video-creation-premiere-pro-free-2023/"><u>[New] Seamless Video Creation - Premiere Pro FREE 2023</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-mov-storage-solutions-maximizing-capacity-on-windows/"><u>[Updated] .mov Storage Solutions Maximizing Capacity on Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-comprehensive-breakdown-sony-fdr-x1000-video-gear/"><u>[Updated] Comprehensive Breakdown Sony FDR-X1000 Video Gear</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-scrutinizing-splitcam-a-leader-in-video-tech/"><u>[Updated] Scrutinizing SplitCam - A Leader in Video Tech?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-two-keys-to-intriguing-tiktok-videos/"><u>[Updated] Two Keys to Intriguing TikTok Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/11-users-tips-and-tricks-from-2020/"><u>11 Users - Tips & Tricks From 2020</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-failed-discord-voice-connections-a-comprehnive-guide-to-restoring-audio/"><u>Fixing Failed Discord Voice Connections: A Comprehnive Guide to Restoring Audio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-can-you-repair-a-malfunctioning-voice-chat-in-steam/"><u>How Can You Repair a Malfunctioning Voice Chat in Steam?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-frequent-disruptions-with-your-computers-speakers-on-windows-windows-11/"><u>How to Fix Frequent Disruptions with Your Computer's Speakers on Windows 지원 (Windows 11)</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-vivo-s17e-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Vivo S17e FRP</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-the-noise-free-dilemma-solutions-for-your-lenovos-audio-troubles/"><u>Overcoming the Noise-Free Dilemma: Solutions for Your Lenovo's Audio Troubles</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-non-functional-hyperx-cloud-alpha-headset-microphone/"><u>Quick Fixes for Non-Functional HyperX Cloud Alpha Headset Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-when-fortnite-voice-chat-isnt-working-properly/"><u>Quick Fixes for When Fortnite Voice Chat Isn't Working Properly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silencing-the-silence-effective-solutions-to-address-no-sound-in-windows-11/"><u>Silencing the Silence: Effective Solutions to Address No Sound in Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-review-free-meme-makers-to-use/"><u>[New] A Review Free Meme Makers to Use</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-mastering-the-art-of-profile-age-precision-on-tiktok/"><u>[New] Mastering the Art of Profile Age Precision on TikTok</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-corsair-headset-not-working/"><u>[SOLVED] Corsair Headset Not Working</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-creativity-discover-the-top-11-grading-techniques-for-video-editors/"><u>2024 Approved Unleash Creativity Discover the Top 11 Grading Techniques for Video Editors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/5-key-fixes-for-resolving-windows-11-sound-issues-quickly-and-effectively/"><u>5 Key Fixes for Resolving Windows 11 Sound Issues Quickly and Effectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016498354-cant-use-my-blue-yeti-mic-here-are-the-ultimate-solutions/"><u>Can't Use My Blue Yeti Mic? Here Are the Ultimate Solutions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-installation-of-the-latest-amd-smbus-drivers-get-started-now/"><u>Effortless Installation of the Latest AMD SMBus Drivers - Get Started Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016334648-fixing-your-windows-1110-zoom-mic-issues-expert-solutions/"><u>Fixing Your Windows 11/10 Zoom Mic Issues: Expert Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017007103-hp-notebook-silent-discover-the-easy-steps-to-bring-back-your-laptops-audio/"><u>HP Notebook Silent? Discover the Easy Steps to Bring Back Your Laptop's Audio!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-affordable-digital-screen-recorders-reviewed-and-rated/"><u>In 2024, Affordable Digital Screen Recorders Reviewed & Rated</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-connection-settings-to-enable-smooth-access-to-party-chat-services/"><u>Mastering Connection Settings to Enable Smooth Access to Party Chat Services</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016594663-restoring-audio-for-usb-earbuds-plugged-into-windows-aturality-with-a-sophisticated-natural-feel/"><u>Restoring Audio for USB Earbuds Plugged Into Windows Aturality with a Sophisticated, Natural Feel</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016295345-stereo-mix-not-working-heres-how-to-get-it-up-and-running-again/"><u>Stereo Mix Not Working? Here's How to Get It Up & Running Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016616096-substances-with-low-specific-heats-heat-up-and-cool-down-quickly-while-those-with-high-specific-heats-change-temperature-more-slowly/"><u>Substances with Low Specific Heats Heat up and Cool Down Quickly, While Those with High Specific Heats Change Temperature More Slowly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-ideal-first-coding-positions-to-kickstart-your-tech-career-zdnet/"><u>Top 5 Ideal First Coding Positions to Kickstart Your Tech Career | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-list-proven-ipad-display-shields-protection-insights-from-cnet/"><u>Ultimate List: Proven iPad Display Shields Protection - Insights From CNET</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Motorola Moto G34 5G? | Dr.fone</u></a></li>
 </ul></div>
 

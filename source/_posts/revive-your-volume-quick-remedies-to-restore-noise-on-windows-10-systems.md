@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Volume: Quick Remedies to Restore Noise on Windows 10 Systems"
-date: 2024-08-23T12:12:04.413Z
-updated: 2024-08-24T12:12:04.413Z
+date: 2025-02-28T14:00:22.493Z
+updated: 2025-03-01T17:55:40.436Z
 tags:
   - win11
   - win10
@@ -28,9 +28,6 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 3. [**Update the sound card driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Disable Audio Enhancement**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 1: Troubleshoot the connection
 
  The first thing you need to try is to make sure the headset’s volume wheel is set to a reasonable value.
@@ -46,9 +43,6 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 
  When the connections are fine, but the Astro A50 no sound issue persists, you can try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Set your Astro A50 as the default
 
  Next, you need to**check if your headset is properly configured on Windows** .
@@ -58,10 +52,6 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 1. Right-click the **volume icon** at the bottom right corner, and click **Open Volume mixer** .  
 ![open volume mixer](https://images.drivereasy.com/wp-content/uploads/2021/02/open-volume-mixer.jpg)
 2. Make sure all the entries set at an appropriate level. In my case, I set headphones and my applications to 100.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![volume appropriate](https://images.drivereasy.com/wp-content/uploads/2021/02/volume-mixer.jpg)
 3. Now test and see if there is any sound from your Astro A50.
 
@@ -76,9 +66,6 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 
 If the problem remains, you can move on to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## Fix 3: Update the sound card driver
 
  This problem may occur if you are using the wrong audio driver or it’s out of date. So you should update your sound card driver to see if it fixes your problem.
@@ -97,54 +84,22 @@ If the problem remains, you can move on to the next method.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and**install** Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/de-update-all-Realtek-Audio.jpg)
 4. Restart your computer for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Disable Audio Enhancement
 
  Most of the time, Audio Enhancement makes your system sound perfect, but things can go wrong sometimes. To fix your Astro A50 no sound issue, you can follow these steps:
 
 1. On your keyboard, press the **Windows logo key** and **R** at the same time. Type in **mmsys.cpl** and press **Enter** .  
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![playback settings](https://images.drivereasy.com/wp-content/uploads/2021/02/playback.jpg)
 2. Right-click your default playback device and click **Properties** .  
 ![headphone properties](https://images.drivereasy.com/wp-content/uploads/2021/02/properties-headphone.jpg)
@@ -166,8 +121,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +128,24 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-deep-dive-into-3d-color-grading-tools/"><u>[New] 2024 Approved Deep Dive Into 3D Color Grading Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-exploring-the-finest-wedding-cinematography-youtube-and-vimeos-selection/"><u>[New] 2024 Approved Exploring the Finest Wedding Cinematography - Youtube & Vimeo's Selection</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-unclouded-vision-leading-online-tools-for-crisp-imagery/"><u>[Updated] 2024 Approved Unclouded Vision Leading Online Tools for Crisp Imagery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-obtain-perfect-photos-without-marks/"><u>[Updated] How To Obtain Perfect Photos Without Marks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-streamline-your-content-upload-instagram-videos-from-desktop-for-2024/"><u>[Updated] Streamline Your Content Upload Instagram Videos From Desktop for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2023-how-to-find-videos-on-facebook/"><u>2023 | How to Find Videos on Facebook?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/addressing-realtek-microphone-failures-effective-solutions-and-advice/"><u>Addressing Realtek Microphone Failures: Effective Solutions and Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-the-runmus-gaming-headsets-defective-mic-feature/"><u>Diagnosing & Repairing the RUNMUS Gaming Headset's Defective Mic Feature</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/headphones-wont-appear-in-my-listening-options-fixing-device-recognition-problems-on-a-windows-10-computer/"><u>Headphones Won't Appear in My Listening Options: Fixing Device Recognition Problems on a Windows 10 Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-enable-and-fix-missing-audio-features-on-firefox-web-browser/"><u>How to Enable and Fix Missing Audio Features on Firefox Web Browser</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/image-jokes-laughgenix-hub/"><u>Image Jokes LaughGenix Hub</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ipad-showdown-in-depth-analysis-of-ipad-pro-vs-ipad-air-to-determine-the-best-device-for-you-expert-review/"><u>IPad Showdown: In-Depth Analysis of iPad Pro Vs. IPad Air to Determine the Best Device for You | Expert Review</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-game-audio-fixing-your-fortnite-sound-issue/"><u>Reviving Game Audio - Fixing Your Fortnite Sound Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-eliminate-pops-and-noise-from-your-computers-speakers-windows/"><u>Step-by-Step Guide to Eliminate Pops and Noise From Your Computer's Speakers (Windows)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-talking-in-black-ops-cold-war-heres-how-to-get-your-voice-chat-working-again/"><u>Trouble with Talking in Black Ops: Cold War? Here's How to Get Your Voice Chat Working Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/turtle-beach-mic-not-working-fixed/"><u>Turtle Beach Mic Not Working [FIXED]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-potential-of-chatgpt-in-different-tongues-step-by-step-instructions-inside/"><u>Unlock the Potential of ChatGPT in Different Tongues – Step-by-Step Instructions Inside</u></a></li>
+</ul></div>
 

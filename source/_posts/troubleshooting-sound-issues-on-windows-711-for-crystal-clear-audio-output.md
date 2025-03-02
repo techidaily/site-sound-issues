@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Sound Issues on Windows 7/11 for Crystal Clear Audio Output
-date: 2025-02-06T02:38:04.727Z
-updated: 2025-02-10T21:21:40.708Z
+date: 2025-02-25T09:08:20.170Z
+updated: 2025-03-02T13:18:19.775Z
 tags:
   - win11
   - win10
@@ -36,10 +36,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 1: Disable Exclusive Mode and change the sound format**
 
  Having**Exclusive Mode** on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the**crackles in speakers** problem. To disable**Exclusive Mode** :
@@ -50,10 +46,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
@@ -77,16 +69,8 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
@@ -108,10 +92,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
@@ -137,21 +117,22 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-discover-8-trusted-online-content-marketing-tools/"><u>[New] 2024 Approved Discover 8 Trusted Online Content Marketing Tools</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-uavs-explained-the-basics-of-drone-systems-and-operations/"><u>[Updated] In 2024, UAVs Explained The Basics of Drone Systems and Operations</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/add-a-splash-of-personality-to-your-mac-learn-to-change-folder-colors-today/"><u>Add a Splash of Personality to Your Mac: Learn to Change Folder Colors Today</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/astro-a50-mic-issues-heres-how-you-can-get-it-working-again/"><u>Astro A50 Mic Issues? Here's How You Can Get It Working Again</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bridge-the-gap-quick-fixes-for-slow-windows-app-connections/"><u>Bridge the Gap: Quick Fixes for Slow Windows App Connections</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-13-pro-max-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 13 Pro Max Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-non-functional-jabra-earphones-up-and-running-again/"><u>How To Get Your Non-Functional Jabra Earphones Up & Running Again</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-honor-magic-6-lite-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Honor Magic 6 Lite</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-samsung-galaxy-a25-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Samsung Galaxy A25 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-the-future-of-fresh-air-urban-planning-with-a-green-perspective/"><u>In 2024, The Future of Fresh Air Urban Planning with a Green Perspective</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-more-muted-memes-reviving-sounds-in-facebook-video-clips-on-pc-expert-advice/"><u>No More Muted Memes: Reviving Sounds in Facebook Video Clips on PC - Expert Advice</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-battles-no-more-solving-your-wow-sound-glitches-easily/"><u>Silent Battles No More: Solving Your WoW Sound Glitches Easily!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/simple-solution-resolving-logitech-g933-mouse-volume-issues-step-by-step-guide/"><u>Simple Solution: Resolving Logitech G933 Mouse Volume Issues - Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-windows-11-compatibility-problems-with-airpods-audio-and-mic/"><u>Solving Windows 11 Compatibility Problems with AirPods Audio and Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-audacity-sound-output-issues-with-these-5-simple-techniques/"><u>Troubleshoot Audacity Sound Output Issues with These 5 Simple Techniques</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upcoming-playstation-portable-launch-details-pricing-features-and-purchase-locations/"><u>Upcoming PlayStation Portable Launch Details: Pricing, Features & Purchase Locations</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-diving-into-the-world-of-youtubers-starting-your-channel-earning-cash-for-2024/"><u>[Updated] Diving Into the World of Youtubers Starting Your Channel, Earning Cash for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-mic-and-speaker-problems-in-sea-of-thieves-for-enhanced-pc-gaming-experience/"><u>Fix Mic & Speaker Problems in 'Sea of Thieves' For Enhanced PC Gaming Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-voice-chat-not-working-errors-for-a-smooth-phasmophobia-experience/"><u>Fixing Voice Chat Not Working Errors for a Smooth Phasmophobia Experience</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-fix-common-issues-with-ios-updates-ios-18-17-16-15-14-13-for-your-iphone-and-ipad/"><u>How to Fix Common Issues with iOS Updates (iOS 18, 17, 16, 15, 14, 13) for Your iPhone & iPad</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-unrecognized-headphones-in-media-player-for-windows-11-users/"><u>How to Fix Unrecognized Headphones in Media Player for Windows 11 Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-poco-f5-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Poco F5 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 11 Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-v27e-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo V27e Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-sounds-of-battle-correcting-no-audio-in-black-ops-cold-war-pc-version/"><u>Mastering the Sounds of Battle: Correcting No Audio in Black Ops: Cold War PC Version</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/phrozen-sonic-mega-8k-styrene-reviewed-why-its-a-game-changer-for-print-farming/"><u>Phrozen Sonic Mega 8K Styrene Reviewed - Why It's a Game-Changer for Print Farming</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quiet-your-keys-expert-strategies-for-eliminating-logitech-g-pro-x-noise-on-pcs/"><u>Quiet Your Keys: Expert Strategies for Eliminating Logitech G Pro X Noise on PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-sounds-in-apex-legends-step-by-step-solutions-for-mute-woes/"><u>Restoring Sounds in Apex Legends: Step-by-Step Solutions for Mute Woes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-teams-communication-apex-legends-voice-chat-solution/"><u>Revive Your Team's Communication - Apex Legends Voice Chat Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sea-of-thieves-pc-voice-communication-fix-microphone-trouble-shoot-tips/"><u>Sea of Thieves PC Voice Communication Fix: Microphone Trouble Shoot Tips</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ified-customization-for-your-youtube-channel-url-for-2024/"><u>Simplified Customization for Your YouTube Channel URL for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/the-legacy-of-drugs-in-diplomacy-exploring-how-the-chinese-opium-wars-shaped-history-educational-perspectives-from-yl-systems/"><u>The Legacy of Drugs in Diplomacy: Exploring How the Chinese Opium Wars Shaped History - Educational Perspectives From YL Systems</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/which-screen-recorder-reigns-supreme-obs-or-fraps-for-2024/"><u>Which Screen Recorder Reigns Supreme OBS or Fraps for 2024</u></a></li>
 </ul></div>
 

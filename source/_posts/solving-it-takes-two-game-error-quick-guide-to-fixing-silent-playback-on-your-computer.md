@@ -1,7 +1,7 @@
 ---
 title: "Solving 'It Takes Two' Game Error: Quick Guide to Fixing Silent Playback on Your Computer"
-date: 2024-08-23T12:12:08.759Z
-updated: 2024-08-24T12:12:08.759Z
+date: 2025-02-23T04:12:08.536Z
+updated: 2025-03-01T20:19:17.526Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 
 If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound coming out from your speaker and/or your headphones, you’re not alone. We’ve received reports from many Windows users reporting it. But no worries, you can get it fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## **How do I fix it?**
 
  Here are 3 solutions you can try to get this problem fixed. You may not need to try them all. Just work from the top down until you find the one that works for you.
@@ -30,18 +27,12 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
  Note: The screens shown below are from Windows 10, but all the fixes apply to Windows 11 as well.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## **1\. Set Minimum Processor State to 100%**
 
  Popping sound from your speakers or headphones could relate to your driver’s problem. To fix it:
 
  1) On your keyboard, press the **Windows logo key**  and **S** at the same time and then type in **control** . Select **Control Panel** from the list.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52a57919f5.png)
 
  2) View by **Large icons** and select **Power Options** .
@@ -54,9 +45,6 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
  4) Click **Change advanced power settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52b27c8486.png)
 
  5) Click the **+** button to expand **Processor power management** . Then expand **Minimum processor state** in this way as well. Change the **Setting** (%) to **100** . Then click **Apply** and **OK** to save the change.
@@ -65,9 +53,6 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
 6) Check to see if your audio crackling problem is gone.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **2\. Disable ATI HDMI Audio**
 
  In some cases, ATI HDMI Audio device in your Device Manager could be the culprit of the popping sound on your Windows PC. You can disable it for your audio to go back to normal again. To do it:
@@ -82,9 +67,6 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
 If you don’t see this option here, move on to the next steps.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## **3\. DPC Latency**
 
  In some cases, high latency could be the cause of your static audio among many other audio problems. Luckily, there’s a handy tool called **DPC Latency Checker** . It helps monitor your PC performance and tells you what’s causing the latency.
@@ -97,9 +79,6 @@ If you don’t see this option here, move on to the next steps.
 
  3) If this screenshot is different from what you’re seeing, you’ll also see which device is causing the latency like this:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a533a0c245d.png)
 
  Try disabling your device drivers from Device Manager as shown in **[Step 2](https://tools.techidaily.com/drivereasy/download/)**  one by one.
@@ -131,8 +110,6 @@ If you don’t see this option here, move on to the next steps.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +117,20 @@ If you don’t see this option here, move on to the next steps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-spectacular-gratis-switch-gaming-tools/"><u>[New] 2024 Approved Spectacular Gratis Switch Gaming Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-pixels-to-perfection-design-tips-for-captivating-banners/"><u>[New] Pixels to Perfection Design Tips for Captivating Banners</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/eamless-content-curation-with-youtubes-watch-later-feature-for-2024/"><u>[New] Seamless Content Curation with YouTube’s Watch Later Feature for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-earning-strategies-for-successful-youtube-shorts-must-haves-earnings-prospects-for-2024/"><u>[Updated] Earning Strategies for Successful Youtube Shorts Must-Haves, Earnings Prospects for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unlock-laughter-traps-20-quirky-fb-detention-anecdotes-for-amusement/"><u>[Updated] In 2024, Unlock Laughter Traps 20 Quirky FB Detention Anecdotes for Amusement</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-nokia-c22-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016389182-fix-your-crackling-headphones-instantly-simple-solutions/"><u>Fix Your Crackling Headphones Instantly: Simple Solutions</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>How and Where to Find a Shiny Stone Pokémon For Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/immediate-solutions-to-restore-audio-on-your-windows-10-system/"><u>Immediate Solutions to Restore Audio on Your Windows 10 System</u></a></li>
+<li><a href="https://win-superb.techidaily.com/overcoming-windows-cuick-fix-for-the-white-screen-errors-on-your-windows-10-computer-expert-advice-and-methods/"><u>Overcoming Windows Cuick Fix for the White Screen Errors on Your Windows 10 Computer - Expert Advice & Methods</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-start-guide-top-methods-for-seamless-microphone-performance-checks/"><u>Quick-Start Guide: Top Methods for Seamless Microphone Performance Checks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-issue-how-to-repair-the-unresponsive-mic-on-your-corsair-hs60/"><u>Resolved Issue: How to Repair the Unresponsive Mic on Your Corsair HS60</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-speakers-resolve-your-windows-11-audio-glitches-here/"><u>Trouble with Speakers? Resolve Your Windows 11 Audio Glitches Here</u></a></li>
+</ul></div>
 

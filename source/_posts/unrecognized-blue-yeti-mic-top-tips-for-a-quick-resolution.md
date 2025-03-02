@@ -1,7 +1,7 @@
 ---
 title: Unrecognized Blue Yeti Mic? Top Tips for a Quick Resolution
-date: 2024-08-23T12:10:40.059Z
-updated: 2024-08-24T12:10:40.059Z
+date: 2025-02-23T19:14:11.468Z
+updated: 2025-03-02T10:10:09.806Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/013867366887b6fa0094f393317cb0e64fa230f89
 
  If you cannot be heard on the microphone, you’re not alone. Although it’s quite frustrating, you should be able to fix this issue on your own easily using one of the fixes we’ve listed below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -31,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/013867366887b6fa0094f393317cb0e64fa230f89
 3. **[Check Windows sound settings](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Fix 1: Troubleshoot the hardware issues
 
  Just do some basic troubleshooting steps before trying anything more complicated:
@@ -44,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/013867366887b6fa0094f393317cb0e64fa230f89
 
  If the mic of your Logitech G733 works on other devices, it suggests that the hardware is fine. If it’s the case, read on and try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Allow access to your Logitech G733 microphone
 
  First, ensure that you allow Windows and your application to access your headset microphone. To check this, follow the steps below:
@@ -57,15 +48,8 @@ thumbnail: https://thmb.techidaily.com/013867366887b6fa0094f393317cb0e64fa230f89
 2. Type or paste**ms-settings:privacy-microphone** , then hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/win11-microphone-privacy.jpg)
 3. Ensure microphpne access for this device is**on** . If it is off, then check the**Change** button below to turn it on. You should also**turn on the toggle** under**Allow apps to access your microphone** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![Allow access to the microphone on this device and allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-access-to-the-microphone-on-this-device-and-allow-apps-to-access-your-microphone.jpg)
 4. Scroll down to check if the**Allow desktop apps access to your microphone** part is set to **On** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Allow desktop apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-desktop-apps-to-access-your-microphone.jpg)
 
  Then check if your Logitech G733 mic works on your computer. If not, don’t worry. Just try the next fix, below.
@@ -75,25 +59,16 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  Your Logitech G733 mic may not be working on your computer if it’s disabled or not set as the default recording device. If this is the case, re-enable it and set it as the default device:
 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the**Run** dialog. Type**control mmsys.cpl sounds** and press**Enter** to open**Windows audio settings** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![control mmsys.cpl sounds](https://images.drivereasy.com/wp-content/uploads/2021/04/control-mmsys.cpl-sounds.jpg)
 2. Navigate to the **Recording** tab, then**right-click** on any empty place inside the device list and**check Show Disabled Devices** .  
 ![Show disabled Recording Devices ](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dc36f136c6.jpg)
 3. **Right-click** the**Headset Microphone** and click **Enable** .  
 ![Enable headset microphone recording](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4daac96f5e7.jpg)
 4. Then**right-click** it again and select **Set as Default Device** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Set as default recording device](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
 5. Right-click **Headset Microphone** and click **Properties** .  
 ![Headset microphone properties](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
 6. Click the **Levels** tab, then drag the volume slider towards the _maximum value_ .  
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drag the volume slider towards the maximum value.](https://images.drivereasy.com/wp-content/uploads/2020/12/img_5b4db71801655.jpg)
 7. Click**OK** to save the changes.
 
@@ -133,8 +108,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +115,21 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-issues.techidaily.com/fixed-corsair-hs60-mic-not-working/"><u>[Fixed] Corsair HS60 Mic Not Working</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-dreamlands-choice-ultimate-10-affordable-rpg-games-for-2024/"><u>[New] Dreamland's Choice Ultimate 10 Affordable RPG Games for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-tumblr-image-format-specifications-for-2024/"><u>[Updated] Tumblr Image Format Specifications for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-elevating-your-youtube-presence-through-famebit-inspired-sponsorships/"><u>2024 Approved Elevating Your YouTube Presence Through FameBit-Inspired Sponsorships</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-enhancing-visual-fidelity-in-ar-utilizing-custom-luts/"><u>2024 Approved Enhancing Visual Fidelity in AR Utilizing Custom LUTs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-perfecting-audio-capture-on-skype-with-obs-tools/"><u>2024 Approved Perfecting Audio Capture on Skype With OBS Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/animal-inspired-robotics-insights-from-the-new-breed-a-comprehensive-review-on-non-human-models-in-tech/"><u>Animal-Inspired Robotics: Insights From 'The New Breed' - A Comprehensive Review on Non-Human Models in Tech</u></a></li>
+<li><a href="https://article-tips.techidaily.com/blending-iphone-videos-a-simple-guide/"><u>Blending iPhone Videos A Simple Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/essential-tips-for-repairing-non-functional-microphones-in-windows-7-systems/"><u>Essential Tips for Repairing Non-Functional Microphones in Windows 7 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-guide-to-fixing-voice-chat-glitches-in-fortnite-instantly/"><u>Expert Guide to Fixing Voice Chat Glitches in Fortnite Instantly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-for-playing-call-of-duty-black-ops-cold-war-in-quiet-mode-on-your-pc/"><u>Fixes for Playing Call of Duty: Black Ops Cold War in Quiet Mode on Your PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/inside-the-clearstream-nv-hdtv-antenna-top-performance-meets-unappealing-appearance/"><u>Inside the ClearStream Nv HDTV Antenna - Top Performance Meets Unappealing Appearance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-resolve-your-dell-sound-issues-with-these-simple-steps/"><u>Quick Fixes: Resolve Your Dell Sound Issues with These Simple Steps</u></a></li>
+<li><a href="https://win-data.techidaily.com/safe-strategies-for-crypto-investment-insights-from-yl-computings-expert-analysis/"><u>Safe Strategies for Crypto-Investment: Insights From YL Computing's Expert Analysis</u></a></li>
+</ul></div>
 

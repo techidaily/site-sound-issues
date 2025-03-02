@@ -1,7 +1,7 @@
 ---
 title: League of Legends Voice Chat Malfunction? Discover the Fixes That Worked for Others!
-date: 2024-08-23T12:11:55.507Z
-updated: 2024-08-24T12:11:55.507Z
+date: 2025-03-01T01:09:51.363Z
+updated: 2025-03-01T16:56:15.922Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 
  Occasionally, players find the**voice chat not working** in the game. If you happen to be in the same boat, don’t worry. It’s fixable.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## How to fix League of Legends Voice Chat Not Working
 
  Here are four fixes that have helped other users resolve the voice chat not working problem in LoL. You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
@@ -31,9 +28,6 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 3. **[Configure the audio settings](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Check out the obvious
 
  Whether it is that you cannot hear your friends, or you can’t get heard, the first thing you should check is whether your headset is connected properly.
@@ -49,14 +43,6 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 
 1. Open League of Legends client.
 2. In the upper right corner, click**Settings** (the cog icon).  
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.png)
 3. Under the**Voice** tab, make sure the Join voice channel automatically option is checked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-1.png)
@@ -71,17 +57,11 @@ You can follow the steps below to check:
 1. On your keyboard, press the **Windows logo key** and **R**  at the same time to bring up the Run box. Then type or paste **mmsys.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/r.png)
 2. In**Playback** tab, make sure that your preferred headphone or speaker is set as**Default Device** . Then right-click on the default device ane click**Test** to make sure you can hear sound coming through the headset.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-2.png)
 3. Click the**Recording** tab. Then make sure that your preferred mic is set as**Default Device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio-2.png)
 4. Speak into yout mic to test if the indicator bar on the right moves. If yes, your mic should be working properly. If it doesn’t, check your headphone device to make sure it’s not muted.
 5. Click the**Advanced**  tab. Under the **Default Format** section, choose a different sample rate and bit depth and click**Test** . Repeat this process until you find a format that works for you. After that, make sure the box for**Allow application to take exclusive control of this deviice** is**unticked** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/111-1.png)
 6. Once finished, click**Apply** \>**OK** .
 7. Test in WoW to see if you can communicate with your friends. If it still gives you no luck, you should try**Fix 4** , below.
@@ -98,9 +78,6 @@ You can follow the steps below to check:
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
@@ -117,8 +94,6 @@ You can follow the steps below to check:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +101,26 @@ You can follow the steps below to check:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-how-to-shoot-slow-motion-video-on-iphone/"><u>[New] How to Shoot Slow Motion Video on iPhone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-chucklechief-easy-meme-design-tool/"><u>[Updated] In 2024, ChuckleChief Easy Meme Design Tool</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/discover-new-cams-to-beat-out-samsungs-gear-360/"><u>Discover New Cams to Beat Out Samsung's Gear 360</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-instantly-the-most-reliable-easycap-driver-setup/"><u>Download Instantly: The Most Reliable EasyCAP Driver Setup</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/enhancing-system-performance-do-you-need-specialized-software-tools/"><u>Enhancing System Performance: Do You Need Specialized Software Tools?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-possible-outages-is-microsoft-teams-experiencing-downtime-or-connectivity-issues/"><u>Exploring Possible Outages: Is Microsoft Teams Experiencing Downtime or Connectivity Issues?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-infinix-smart-7-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Infinix Smart 7 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-bluetooth-functionality-in-windows-11-a-step-by-step-guide-for-troubled-users/"><u>Restore Bluetooth Functionality in Windows 11: A Step-by-Step Guide for Troubled Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/setting-up-and-correcting-windows-10s-invisible-audio-equipment/"><u>Setting Up & Correcting Windows 10'S Invisible Audio Equipment</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-sentinel-identifying-9-unexplained-changes-to-your-account/"><u>Social Media Sentinel: Identifying 9 Unexplained Changes to Your Account</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-for-non-functioning-hdmi-audio-on-windows-7-systems/"><u>Solution Steps for Non-Functioning HDMI Audio on Windows 7 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-audio-problem-how-to-fix-your-windows-7-headphones/"><u>Solving the Audio Problem: How to Fix Your Windows 7 Headphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-common-problems-with-the-logitech-g-pro-x-microphone/"><u>Step-by-Step Fixes for Common Problems with the Logitech G Pro X Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-repairing-your-razer-blackshark-v2s-nonfunctional-mic/"><u>Step-by-Step Guide to Repairing Your Razer BlackShark V2's Nonfunctional Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-removing-audio-enhancements-feature-from-windows-10/"><u>Step-by-Step Guide: Removing Audio Enhancements Feature From Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-emerging-mobile-innovations-exploring-on-device-artificial-intelligence-and-the-latest-in-smartphones-insights-from-zdnet/"><u>Top 5 Emerging Mobile Innovations: Exploring On-Device Artificial Intelligence & The Latest in Smartphones - Insights From ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-to-restore-sound-on-a-connected-bluetooth-device/"><u>Troubleshooting Guide to Restore Sound on a Connected Bluetooth Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-pausing-audio-issues-for-bluetooth-headphones-on-windows-11/"><u>Troubleshooting Pausing Audio Issues for Bluetooth Headphones on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-google-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Google on Mac?</u></a></li>
+</ul></div>
 

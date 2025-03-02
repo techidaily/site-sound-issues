@@ -1,7 +1,7 @@
 ---
 title: "Revive Your PC's Sound System: Speedily Correct Audio Glitches"
-date: 2024-08-23T12:09:21.764Z
-updated: 2024-08-24T12:09:21.764Z
+date: 2025-02-23T04:47:17.794Z
+updated: 2025-03-02T01:52:15.363Z
 tags:
   - win11
   - win10
@@ -49,9 +49,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
  1) Right-click on the speaker icon in the system tray, and select**Playback devices** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d55d7e26c.png)
 
  2) If you see the Speakers disabled, right-click on the item, then select**Enable** . If you see the Speakers enabled, skip this step.
@@ -86,16 +83,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
  3) Click**Devices** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6c34f39b.png)
 
  3) Ensure the**Host** field set to**Windows WASAPI** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6a682959.png)
 
  After you set the Host to Windows WASAPI, you’ll see the values of Device field under Playback and the Device under Recording change automatically.
@@ -116,9 +107,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
  2) Click**Edit** in the menu bar and select**Preferences** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6ee48396.jpg)
 
  3) Click**Recording** .
@@ -127,9 +115,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
  4) Under Playthrough, if you see**Software Playthrough of input** is checked, uncheck it. Then click the**OK** button. If not, skip this solution then try other solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d7d97fc21.png)
 
 ##
@@ -154,9 +139,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d8b093ee6.jpg)
 
  4) After updating the driver, check to see if you can record sound successfully.
@@ -173,16 +155,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
  2) Type**services.msc** and press**Enter** to open the Services window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d9350bf7b.png)
 
  3) Click**Windows Audio Endpoint Builder** , then click**Restart** . The follow the on-screen instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d97536340.jpg)
 
  4) Check to see if you can record successfully.  
@@ -198,8 +174,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,4 +181,26 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-innovative-posting-add-youtube-to-your-insta-narratives/"><u>[New] In 2024, Innovative Posting Add YouTube to Your Insta Narratives</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-transforming-visual-feeds-with-harmonious-hits/"><u>[Updated] 2024 Approved Transforming Visual Feeds with Harmonious Hits</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-get-your-data-on-site-quickly-5-best-techniques-for-computer-transfer-for-2024/"><u>[Updated] Get Your Data On-Site Quickly 5 Best Techniques for Computer Transfer for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-hevc-h-265-content-on-galaxy-a54-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Galaxy A54 5G</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-tips-to-repair-and-improve-steams-audio-chatting-experience/"><u>Comprehensive Tips to Repair and Improve Steam's Audio Chatting Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-speaker-distortion-on-windows-11-and-7-a-comprehensive-guide/"><u>Fixing Speaker Distortion on Windows 11 and 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/htc-data-recovery-recover-lost-data-from-htc-u23-pro-by-fonelab-android-recover-data/"><u>HTC Data Recovery – recover lost data from HTC U23 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-xs-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone XS Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-apple-iphone-14-plus-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On Apple iPhone 14 Plus without Password?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-understanding-sudden-pause-in-photobooth-videos/"><u>In 2024, Understanding Sudden Pause in Photobooth Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-zooming-into-success-the-essential-blueprint-for-producing-high-quality-audio-on-video-platforms/"><u>In 2024, Zooming Into Success The Essential Blueprint for Producing High-Quality Audio on Video Platforms</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-how-to-edit-videos-with-quicktime-on-mac-step-by-step-guide/"><u>New 2024 Approved How to Edit Videos with QuickTime on Mac Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/redragon-microphone-malfunction-diagnosing-and-repairing-the-connection-issue-with-pcs/"><u>Redragon Microphone Malfunction: Diagnosing and Repairing the Connection Issue with PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/skipped-fingerprint-scan-on-pc/"><u>Skipped Fingerprint Scan on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-unknown-speaker-configuration-issues-in-windows-11/"><u>Solving Unknown Speaker Configuration Issues in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-crackling-sound-from-speakers-in-windows-operating-systems/"><u>Troubleshooting Crackling Sound From Speakers in Windows Operating Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-a-nonfunctional-front-panel-audio-jack/"><u>Troubleshooting Guide: Fixing a Nonfunctional Front Panel Audio Jack</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-microphone-issues-on-skype-with-windows-11/"><u>Troubleshooting Guide: Fixing Microphone Issues on Skype with Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-non-functional-mic-on-the-steelseries-arctis-prime-headset/"><u>Troubleshooting: Fixing Non-Functional Mic on the SteelSeries Arctis Prime Headset</u></a></li>
+</ul></div>
 

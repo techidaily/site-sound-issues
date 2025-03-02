@@ -1,7 +1,7 @@
 ---
 title: "Trouble with Talking in Black Ops: Cold War? Here's How to Get Your Voice Chat Working Again"
-date: 2025-02-09T04:07:22.827Z
-updated: 2025-02-11T06:17:04.414Z
+date: 2025-02-24T06:04:39.573Z
+updated: 2025-03-01T19:18:59.273Z
 tags:
   - win11
   - win10
@@ -48,16 +48,8 @@ Hey, buddy, can you hear me?
    ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88b3985ef65.jpg)  
    3. **Turn off** Voice Chat, then click**Apply** at the bottom.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
    ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88b6b121fbd.jpg)
 2. Close Fortnite.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. **Right-click** the volume icon in the bottom-right part of your screen, then select **Sounds.** \>>If you are using Windows 11, it will be Settings > System > Sound > More sound settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88bde6a8295.jpg)
@@ -72,25 +64,13 @@ Hey, buddy, can you hear me?
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf47cf4729b.jpg)
 6. **Right click** on and**disable** every other input device except the one you want to use. (If you have any other output devices, repeat for the**Playback** tab).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf47f49119e.jpg)
 7. Click**OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Open Fortnite again, go to the settings menu and**turn Voice Chat on** .
 9. Join a squad or duo to test if your mic works now. If not, try Method 2 below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Update your audio driver
 
@@ -111,10 +91,6 @@ Hey, buddy, can you hear me?
 4. Restart your computer and check if your mic now works properly in Fortnite. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Method 3 below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Restart the Windows Audio service
 
@@ -149,10 +125,6 @@ Hey, buddy, can you hear me?
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf492ca1d0f.jpg)
 5. In the section of**Choose which apps can access your microphone** , verify that**Fortnite is turned on** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Test in Fortnite.
 
 #### Windows 11
@@ -161,10 +133,6 @@ Hey, buddy, can you hear me?
 2. Select **Privacy & security**  from the left panel. Then scroll down to the section **App permissions** , and click on **Microphone** .  
 ![windows 11 - Make sure apps have access to your microphone](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Settings-Privacy-and-security-Microphone.jpg)
 3. Toggle on **Microphone access** and **Let apps access your microphone** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![windows 11 - Make sure apps have access to your microphone](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Microphone-access-and-Let-apps-access-your-microphone-On.jpg)  
 
@@ -189,10 +157,6 @@ Hey, buddy, can you hear me?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b87ea7983aa7-269x300.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Enjoy your game!
 
 * [Fortnite](https://tools.techidaily.com/drivereasy/download/)
@@ -213,24 +177,22 @@ Enjoy your game!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/fixed-realtek-high-definition-audio-not-plugged-in/"><u>[FIXED] Realtek High Definition Audio Not Plugged In</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-from-unknown-to-iconic-the-journey-of-viral-instagram-films-for-2024/"><u>[New] From Unknown to Iconic The Journey of Viral Instagram Films for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-custom-whatsapp-ringtone-guide-on-ios-devices/"><u>[Updated] 2024 Approved Custom WhatsApp Ringtone Guide on iOS Devices</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-balancing-content-creation-and-employment/"><u>2024 Approved Balancing Content Creation and Employment</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-honor-70-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazing-savings-up-to-40-off-on-the-samsung-frame-tv-exclusive-prime-day-offer-from-zdnet/"><u>Amazing Savings: Up to $40 %$ Off on the Samsung Frame TV - Exclusive Prime Day Offer From ZDNet!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/continuous-speaker-cuts-heres-how-to-resolve-audio-problems-in-windows-11/"><u>Continuous Speaker Cuts? Here's How to Resolve Audio Problems in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-cod-vanguards-non-functional-voice-chats/"><u>Effective Fixes for Cod: Vanguard's Non-Functional Voice Chats</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-dealing-with-a-broken-microphone-in-windows-11-systems/"><u>Effective Solutions for Dealing with a Broken Microphone in Windows 11 Systems</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/elevate-your-digital-diaries-with-complimentary-upgrades-for-2024/"><u>Elevate Your Digital Diaries with Complimentary Upgrades for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-troubleshoot-a-non-functional-mpow-mic-in-windows/"><u>Fixing the Issue: How to Troubleshoot a Non-Functional MPOW Mic in Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-the-most-out-of-your-logitech-g533-mic-troubleshooting-tips-and-fixes/"><u>Getting the Most Out of Your Logitech G533 Mic: Troubleshooting Tips and Fixes</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-divx-video-trimming-software-top-picks/"><u>In 2024, Free Divx Video Trimming Software Top Picks</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mp4windows11/"><u>MP4ビデオ再生不能の謎をWindows11で解明! 一連のトラブルシューティングガイド</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-sound-glitches-and-quality-issues-in-windows-11-and-7-a-comprehensive-guide/"><u>Resolving Sound Glitches and Quality Issues in Windows 11 & 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-resolving-hdmi-speaker-malfunctions-on-windows-7/"><u>Step-by-Step Guide: Resolving HDMI Speaker Malfunctions on Windows 7</u></a></li>
-<li><a href="https://win11.techidaily.com/the-experts-guide-to-installing-ms-work-in-w11-os/"><u>The Expert's Guide to Installing MS Work in W11 OS</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/time-management-the-art-of-planning-zoom-meetings-for-2024/"><u>Time Management The Art of Planning Zoom Meetings for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-pc-audio-issues-boosting-your-windows-10-systems-speakers/"><u>Troubleshooting PC Audio Issues: Boosting Your Windows 10 System's Speakers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-mastering-google-voice-call-recording-essential-steps/"><u>[New] Mastering Google Voice Call Recording Essential Steps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-from-live-streams-to-recorded-content-navigating-aiseesofts-features/"><u>[Updated] From Live Streams to Recorded Content Navigating Aiseesoft's Features</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-seamless-transition-for-extracting-facebooks-graphic-gems-anywhere-for-2024/"><u>[Updated] Seamless Transition for Extracting Facebook's Graphic Gems Anywhere for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comment-enregistrer-parfaitement-lecran-sur-un-pc-avec-windows-les-meilleures-outils-de-capture-du-marche/"><u>Comment Enregistrer Parfaitement L’Écran Sur Un PC Avec Windows: Les Meilleures Outils De Capture Du Marché</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/copia-dvd-sicura-su-mac-con-imac-e-macbook/"><u>Copia DVD Sicura Su Mac Con iMac E MacBook</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-dodging-8-common-windows-11-faux-pas/"><u>Guide to Dodging 8 Common Windows 11 Faux Pas</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-arctis-7-crackling-sound-on-windows/"><u>How to Fix Arctis 7 Crackling Sound on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-when-audio-ports-fail-on-pc-laptop-headset-connection-issues-solved/"><u>How to Fix When Audio Ports Fail on PC - Laptop Headset Connection Issues Solved!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-and-repair-the-voice-call-system-in-steam-games/"><u>How to Restore and Repair the Voice Call System in Steam Games</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-solve-missing-audio-in-it-takes-two-steps-for-a-quiet-pc/"><u>How To Solve Missing Audio in 'It Takes Two': Steps For A Quiet PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/if-you-or-someone-else-is-experiencing-auditory-hallucinations-it-can-be-helpful-to-seek-medical-advice-from-a-primary-care-provider-or-psychiatrist-who-can664/"><u>If You or Someone Else Is Experiencing Auditory Hallucinations, It Can Be Helpful to Seek Medical Advice From a Primary Care Provider or Psychiatrist Who Can Offer Appropriate Assessments and Guidance Based on the Individual Case</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-google-ar-decorations-and-their-competing-products/"><u>In 2024, Google AR Decorations & Their Competing Products</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/laptop-volume-malfunction-heres-how-you-can-get-sound-working-again/"><u>Laptop Volume Malfunction? Here's How You Can Get Sound Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-muted-magic-effective-fixes-for-hearthstone-sound-issues/"><u>Resolving Muted Magic: Effective Fixes for Hearthstone Sound Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-the-headphones-not-detected-issue-on-windows-11-pcs/"><u>Resolving the 'Headphones Not Detected' Issue on Windows 11 PCs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-ultimate-checklist-for-compelling-audio-intros-for-2024/"><u>The Ultimate Checklist for Compelling Audio Intros for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-distinct-roles-of-crypto-wallets-vs-trading-platforms-a-bitcoin-focus/"><u>Understanding the Distinct Roles of Crypto Wallets Vs. Trading Platforms: A Bitcoin Focus</u></a></li>
 </ul></div>
 

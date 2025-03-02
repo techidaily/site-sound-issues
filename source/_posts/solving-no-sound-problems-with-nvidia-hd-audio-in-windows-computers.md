@@ -1,7 +1,7 @@
 ---
 title: Solving 'No Sound' Problems with NVIDIA HD Audio in Windows Computers
-date: 2025-02-08T07:29:21.928Z
-updated: 2025-02-11T02:37:09.493Z
+date: 2025-02-23T20:53:01.794Z
+updated: 2025-03-02T11:16:55.857Z
 tags:
   - win11
   - win10
@@ -38,26 +38,14 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a273f85c31.png)
 2. Double-click**Sound, video, and game controllers** . Then right-click the audio device driver that you have and choose**Update driver** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a27949ffeb.png)
 3. Choose**Browse my computer for driver software** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28445c675.png)
 4. Then choose**Let me pick from a list of available drivers on my computer** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a286f3d5de.png)
 5. Make sure the box for**Show compatible hardware** is**TICKED** . Then choose**High Definition Audio Device** from the list, and hit**Next** to continue.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28cccfd3f.png)
 6. You will see the warning asking you whether you want to go on with the installation, click**Yes** to continue.  
@@ -83,10 +71,6 @@ Read on and follow the easy-doing images below!
 
  If your computer sound still keeps cutting out, please move on to the next option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Option 2: Change Sound Enhancement Settings
 
  The audio enhancements feature could interfere with the sound output, and therefore cause problems like sound keeping cutting out. To see if this is your case:
@@ -96,10 +80,6 @@ Read on and follow the easy-doing images below!
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
@@ -116,10 +96,6 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 
@@ -128,10 +104,6 @@ Read on and follow the easy-doing images below!
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
@@ -158,17 +130,22 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-proven-techniques-to-swell-your-social-media-following/"><u>[New] In 2024, Proven Techniques to Swell Your Social Media Following</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-unlocking-the-full-potential-of-fast-fb-videos-with-tools-for-2024/"><u>[Updated] Unlocking the Full Potential of Fast FB Videos with Tools for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/app-privacy-iphone-users-growing-aversion/"><u>App Privacy: IPhone Users' Growing Aversion</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/boosting-sound-ultimate-guide-to-amplifying-volume-in-windows-11/"><u>Boosting Sound: Ultimate Guide to Amplifying Volume in Windows 11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/easyfish-studio-unveiling-lightroom-replacements/"><u>EasyFish Studio Unveiling Lightroom Replacements</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-fixing-voice-chatmic-issues-while-playing-sea-of-thieves-on-pc/"><u>Effective Solutions for Fixing Voice Chat/Mic Issues While Playing Sea of Thieves on PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-to-restore-voice-and-effect-sounds-in-your-pcs-black-ops-cold-war-campaign/"><u>Expert Tips to Restore Voice and Effect Sounds in Your PC's Black Ops: Cold War Campaign</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-strategies-for-sustainable-income-via-product-based-videos/"><u>In 2024, Strategies for Sustainable Income via Product-Based Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-visual-clarity-with-proficient-bg-removal-techniques/"><u>In 2024, Streamline Visual Clarity with Proficient BG Removal Techniques</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solution-guide-resolving-test-tone-could-not-be-played-issues/"><u>Quick Solution Guide: Resolving 'Test Tone Could Not Be Played' Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-razer-man-owar-mic-connection-problems/"><u>Step-by-Step Solution for Razer Man O'War Mic Connection Problems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1726218771915-m4a-flac-movavi/"><u>무료 인터넷 동시에 M4A 파일을 FLAC로 전환하기: Movavi 코덱스 방법</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-unlocking-the-full-potential-of-zooms-visual-features/"><u>[New] In 2024, Unlocking the Full Potential of Zoom's Visual Features</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-creating-a-safe-mc-habitat-plan-6-for-2024/"><u>[Updated] Creating a Safe MC Habitat Plan #6 for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210346679-9782226447333-faire-face-a-la-perversion/"><u>Faire face à la perversion | Free Book</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/fascination-frameworks-igs-most-popular-filters/"><u>Fascination Frameworks IG's Most Popular Filters</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-honor-90-gt-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Honor 90 GT.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/noise-free-computing-a-step-by-step-guide-to-fixing-lapsotp-speaker-problems/"><u>Noise-Free Computing: A Step-by-Step Guide to Fixing Lapsotp Speaker Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-common-problems-with-steams-voice-calling-service/"><u>Overcoming Common Problems with Steam's Voice Calling Service 💬</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-silent-bluetooth-pairings-a-comprehensive-fix-guide/"><u>Resolving Silent Bluetooth Pairings - A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-the-issue-of-no-sound-in-anthem-on-your-new-windows-11-pc/"><u>Resolving the Issue of No Sound in Anthem on Your New Windows 11 PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restored-harmony-expert-tips-for-when-your-laptops-headphone-jack-is-silent-no-more/"><u>Restored Harmony: Expert Tips for When Your Laptop's Headphone Jack Is Silent No More</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-the-audio-expert-solutions-for-silent-hp-notebook-users/"><u>Revive the Audio: Expert Solutions for Silent HP Notebook Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-turtle-beach-recon-eby-fixing-a-non-functional-mic/"><u>Reviving Your Turtle Beach Recon Eby Fixing a Non-Functional Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silenced-airpods-get-them-working-with-sound-again-on-your-windows-computer-version-111n/"><u>Silenced AirPods? Get Them Working with Sound Again on Your Windows Computer (Version 11/1N)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/simplified-guide-to-advanced-xbox-video-recording-methods/"><u>Simplified Guide to Advanced Xbox Video Recording Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-potential-the-essentials-of-msistore-world/"><u>Unleash Potential: The Essentials of MSIStore World</u></a></li>
+<li><a href="https://win-blog.techidaily.com/windows-10-optimization-steps-to-prevent-game-crashes-in-dragon-age-origins/"><u>Windows 10 Optimization Steps to Prevent Game Crashes in Dragon Age: Origins</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/your-essential-guide-to-unblocking-on-instagram/"><u>Your Essential Guide to Unblocking on Instagram</u></a></li>
 </ul></div>
 

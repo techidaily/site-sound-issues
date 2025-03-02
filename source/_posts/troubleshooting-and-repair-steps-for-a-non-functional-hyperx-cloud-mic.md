@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Repair Steps for a Non-Functional HyperX Cloud Mic
-date: 2024-12-20T18:21:39.927Z
-updated: 2024-12-25T17:02:46.861Z
+date: 2025-02-25T04:22:29.135Z
+updated: 2025-03-01T21:57:10.459Z
 tags:
   - win11
   - win10
@@ -41,10 +41,6 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1 – Allow access to your microphone on your PC
 
  If your Corsair HS35 is not activated in the Window settings, your PC will lack the access to your microphone and so the mic just won’t start to work at all. Follow these steps to allow access to your microphone:
@@ -58,17 +54,9 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Try your mic to see if it’s working now. If it isn’t, move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2 – Check the audio settings
 
@@ -77,10 +65,6 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 1. Right-click the**volume icon** on the task bar and then select**Sounds** from the mune that appears.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/volume-icon-sounds.jpg)
 2. Under the**Recording** tab, check to see if your headset microphone is set to disabled. If it is, right-click on it and select**Enable** . (If your mic is not the default device, click**Set Default** to set it as default)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-enable.jpg)
 3. Right-click the headset microphone again and select **Properties.**  
@@ -111,10 +95,6 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DE-audio-card-driver.jpg)
 4. After updating your audio driver, restart your PC for the trick to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The**Pro version** of Driver Easy comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at <support@drivereasy.com> .
 
 ---
@@ -136,10 +116,6 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-5.jpg)
 6. Click**Yes** in the confirmation box.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Restart your PC and replug your Corsair headset into your computer.
 8. Relaunch the iCUE software. You can click **[here](https://r.brandreward.com/?key=3882aba4cadd4473e0195097fdf20855&url=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Ficue&mktsrc=drivereasyen%5F166866)**  to download the latest version of iCUE.
@@ -180,10 +156,6 @@ Top Pick
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 6 – Seek technical support or after-sales service
 
  If you’ve tried all of the above fixes and still can’t get your mic boom to function, the issue could be with your headset rather than your computer.**You can try connecting your headset to another PC** ; if it’s still not working, there may be an issue with your Corsair Mic. In this situation, you should **[contact Corsair for support](https://help.corsair.com/hc/en-us)**  or have your headset serviced.
@@ -207,22 +179,24 @@ Top Pick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/fixed-corsair-hs60-mic-not-working/"><u>[Fixed] Corsair HS60 Mic Not Working</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-complete-mobizen-users-handbook-for-screen-capturing/"><u>[Updated] 2024 Approved The Complete Mobizen User's Handbook for Screen Capturing</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-backupbreeze-professionals-opinion/"><u>[Updated] In 2024, BackupBreeze Professionals Opinion</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-ultimate-mobile-and-web-photo-booster-at-no-cost-for-2024/"><u>[Updated] Ultimate Mobile & Web Photo Booster at No Cost for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-perfecting-color-the-top-15-gopro-luts-for-filmmaking/"><u>2024 Approved Perfecting Color The Top 15 GoPro LUTs for Filmmaking</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/correcting-audiovisual-malfunctions-in-recent-updates/"><u>Correcting Audiovisual Malfunctions in Recent Updates</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/create-impact-with-intro-excellence-best-free-services-reviewed/"><u>Create Impact with Intro Excellence Best Free Services Reviewed</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-epson-perfection-v39-printer-software-for-win7-win8-and-win10/"><u>Download Epson Perfection V39 Printer Software for Win7, Win8 & Win10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/essential-tips-for-repairing-non-functional-microphones-in-windows-7-systems/"><u>Essential Tips for Repairing Non-Functional Microphones in Windows 7 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-guide-to-fixing-voice-chat-glitches-in-fortnite-instantly/"><u>Expert Guide to Fixing Voice Chat Glitches in Fortnite Instantly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixes-for-playing-call-of-duty-black-ops-cold-war-in-quiet-mode-on-your-pc/"><u>Fixes for Playing Call of Duty: Black Ops Cold War in Quiet Mode on Your PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-newbie-to-zoom-whiz-in-no-time-for-2024/"><u>From Newbie to Zoom Whiz in No Time for 2024</u></a></li>
-<li><a href="https://discover-best.techidaily.com/innovative-wallpaper-designs-featuring-money-heist-series-crafted-with-precision-by-yl-software/"><u>Innovative Wallpaper Designs Featuring 'Money Heist' Series - Crafted with Precision by YL Software</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-resolve-your-dell-sound-issues-with-these-simple-steps/"><u>Quick Fixes: Resolve Your Dell Sound Issues with These Simple Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-resolving-unknown-speaker-configuration-issues-in-windows-11/"><u>Troubleshooting and Resolving Unknown Speaker Configuration Issues in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-ebootment-solutions-reviving-sounds-in-windows-7-systems/"><u>Windows Ebootment Solutions - Reviving Sounds in Windows 7 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/your-comprehensive-roadmap-to-enjoying-xbox-game-pass-ultimates-cloud-gaming-features/"><u>Your Comprehensive Roadmap to Enjoying Xbox Game Pass Ultimate's Cloud Gaming Features</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-which-channel-pulls-more-money-dailymotion-versus-youtube-monetization/"><u>[New] In 2024, Which Channel Pulls More Money? Dailymotion Versus YouTube Monetization</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-blueprint-for-thriving-on-instagrams-crowd/"><u>[New] The Blueprint for Thriving on Instagram's Crowd</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-epson-scan-not-working-in-windows-1111/"><u>[SOLVED] Epson Scan Not Working in Windows 11/11</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-why-cant-i-see-videos-on-sony-a6400/"><u>[Updated] 2024 Approved Why Can’t I See Videos on Sony A6400?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-resolution-war-gopro-hero-series-against-polaroid-cube-for-2024/"><u>[Updated] Resolution War GoPro Hero Series Against Polaroid Cube for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-lenovo-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Lenovo FRP Bypass Instantly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/amplify-your-audio-visual-experience-with-these-6-android-apps/"><u>Amplify Your Audio-Visual Experience with These 6 Android Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/immediate-fixes-to-overcome-unexpected-csgo-shutdowns/"><u>Immediate Fixes to Overcome Unexpected CSGO Shutdowns</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-aurora-in-the-market-is-it-a-premium-need/"><u>In 2024, Aurora in the Market Is It a Premium Need?</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-resource-monitoring-ram-cpu-and-gpu-data-in-windows-11/"><u>Mastering Resource Monitoring: RAM, CPU & GPU Data in Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/maximize-performance-in-horizon-zero-dawn-a-guide-to-improving-frame-rates-and-fps-boost/"><u>Maximize Performance in Horizon Zero Dawn – A Guide to Improving Frame Rates & FPS Boost</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-hdmi-speaker-setbacks-in-windows-7-comprehensive-troubleshooting-guide/"><u>Overcoming HDMI Speaker Setbacks in Windows 7: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-audio-problems-in-zoom-meetings-for-windows-users/"><u>Resolve Audio Problems in Zoom Meetings for Windows Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-pc-based-microphone-problems-in-rec-room-your-ultimate-fix-guide-updated/"><u>Solve PC-Based Microphone Problems in Rec Room: Your Ultimate Fix Guide, Updated !</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/speaker-check-fast-and-simple-guide-to-testing-your-mic/"><u>Speaker Check: Fast and Simple Guide to Testing Your Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-razer-barracuda-x-microphone-failure-on-windows-11-and-10/"><u>Step-by-Step Solution for Razer Barracuda X Microphone Failure on Windows 11 & 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-silence-how-to-restore-audio-functionality-on-your-laptop/"><u>Troubleshooting Complete Silence: How to Restore Audio Functionality on Your Laptop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fix-how-to-restore-audio-on-your-hp-laptop-running-windows-10/"><u>Troubleshooting Fix: How to Restore Audio on Your HP Laptop Running Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolved-realtek-high-quality-sound-connection-issue/"><u>Troubleshooting Guide - Resolved: Realtek High-Quality Sound Connection Issue</u></a></li>
 </ul></div>
 

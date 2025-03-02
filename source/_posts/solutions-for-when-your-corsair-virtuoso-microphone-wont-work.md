@@ -1,7 +1,7 @@
 ---
 title: Solutions for When Your Corsair Virtuoso Microphone Won't Work
-date: 2025-02-09T17:58:32.066Z
-updated: 2025-02-11T07:40:27.184Z
+date: 2025-02-25T21:37:58.003Z
+updated: 2025-03-02T03:35:22.185Z
 tags:
   - win11
   - win10
@@ -50,10 +50,6 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-2-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Scroll down and toggle on**Allow apps to access your microphone** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-3-1.jpg)
@@ -61,10 +57,6 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 **5)** Locate**Allow desktop apps to access your microphone** and toggle on the button below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Test how the microphone works in Beyond The Wire. If the mic-not-working issue reoccurs, read on to more solutions below.
 
@@ -75,10 +67,6 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box. Then, type**control** in the field and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Select**Small icons** under**View by** . Then, click**Sound** .
 
@@ -104,10 +92,6 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-49.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now that you’ve set your desired microphone as the default device, disabled other microphones, and also turned up the volume to the max, it should be working fine when you’re playing Beyond The Wire. If not, check out the next fix below.
 
 ### Fix 4 – Update your audio driver
@@ -131,20 +115,12 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-2-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Now check whether you’re able to use the microphone normally in Beyond The Wire or not. If the problem persists, please try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Run Beyond The Wire as an administrator
 
@@ -157,10 +133,6 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 **2)** Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-2-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Launch your game again and the microphone should be transmitting your voice in the right way.
 
@@ -187,22 +159,18 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-precision-in-performance-utilizing-social-blade-for-youtube-data/"><u>[Updated] 2024 Approved Precision in Performance Utilizing Social Blade for YouTube Data</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-countdown-magic-discover-10-must-have-androidios-clocks/"><u>[Updated] Countdown Magic Discover 10 Must-Have Android/iOS Clocks</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-navigating-mac-screen-record-with-handy-keystrokes/"><u>[Updated] In 2024, Navigating Mac Screen Record with Handy Keystrokes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-comparison-between-sharex-and-rivals-for-2024/"><u>[Updated] The Ultimate Comparison Between ShareX & Rivals for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/astro-a50-sound-issues-heres-how-to-resolve-them-instantly/"><u>Astro A50 Sound Issues? Here's How to Resolve Them Instantly!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-laptop-audio-problems-a-step-by-vew-success-stories/"><u>Effective Solutions for Laptop Audio Problems: A Step-by-Vew Success Stories</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-common-issues-windows-7-microphone-troubleshooting-guide/"><u>Fixing Common Issues: Windows 7 Microphone Troubleshooting Guide</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/free-ultimate-mp4-media-player-tool-compatible-with-windows-11-get-your-download-here/"><u>Free Ultimate MP4 Media Player Tool Compatible with Windows 11 - Get Your Download Here</u></a></li>
-<li><a href="https://win-dash.techidaily.com/grab-your-free-logitech-g-pro-driver-compatible-with-latest-and-older-windows-systems-111087/"><u>Grab Your Free Logitech G Pro Driver - Compatible with Latest and Older Windows Systems (11/10/8/7)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-in-game-mic-in-dota-2-for-windows-computers/"><u>How to Fix a Non-Functioning In-Game Mic in Dota 2 for Windows Computers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-windows-10-errors-starting-dolby-digital-drivers/"><u>How to Resolve Windows 10 Errors Starting Dolby Digital Drivers</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-apple-iphone-xr-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On Apple iPhone XR?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-12-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme 12 5G Phones with/without a PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/maximizing-savings-on-auto-insurance-discounts-and-low-cost-programs-for-eligible-drivers/"><u>Maximizing Savings on Auto Insurance: Discounts and Low-Cost Programs for Eligible Drivers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-more-quiet-browsing-chrome-sound-problems-resolved/"><u>No More Quiet Browsing: Chrome Sound Problems Resolved</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/pubg-chat-woes-discover-effective-solutions-for-audio-issues-now/"><u>PUBG Chat Woes? Discover Effective Solutions for Audio Issues Now</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-problems-reactivate-mic-for-microsoft-teams-users-on-windows/"><u>Troubleshooting Audio Problems: Reactivate Mic for Microsoft Teams Users on Windows</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-disguise-techniques-in-picart/"><u>[New] Disguise Techniques in PicArt</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-brand-battlegrounds-mastery-of-marketing-metrics-on-youtube/"><u>[New] In 2024, Brand Battlegrounds Mastery of Marketing Metrics on YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-melodies-insights-into-magixs-newest-sound-suite-2024/"><u>[Updated] Crafting Melodies Insights Into Magix's Newest Sound Suite 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-mac-audio-setup-101-using-audacity-for-sound-recording/"><u>[Updated] In 2024, Mac Audio Setup 101 - Using Audacity for Sound Recording</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/arctis-7-noise-fixes-for-windows-users-a-step-by-step-guide-to-silent-audio/"><u>Arctis 7 Noise Fixes for Windows Users: A Step-by-Step Guide to Silent Audio</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-comparing-connectivity-and-control-between-original-and-new-samsung-galaxy-watch/"><u>Comprehensive Review: Comparing Connectivity and Control Between Original & New Samsung Galaxy Watch</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dealing-with-a-silent-laptop-step-by-step-solution-for-no-audio-problems/"><u>Dealing with a Silent Laptop – Step-by-Step Solution for 'No Audio' Problems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/debunking-photoshake-is-it-essential-or-excessive/"><u>Debunking PhotoShake Is It Essential or Excessive?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/destiny-2-voice-chat-problems-heres-how-you-can-solve-them/"><u>Destiny 2 Voice Chat Problems? Here's How You Can Solve Them!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-correcting-problems-with-steelseries-arctis-prime-microphones/"><u>Diagnosing and Correcting Problems with SteelSeries Arctis Prime Microphones</u></a></li>
+<li><a href="https://driver-error.techidaily.com/inside-toms-digital-world-your-trusted-source-for-hardware-analysis/"><u>Inside Tom's Digital World: Your Trusted Source for Hardware Analysis</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016538966-master-the-art-of-mic-testing-in-minutes/"><u>Master the Art of Mic Testing in Minutes!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-non-functional-microphone-issues-on-the-steelseries-arctis-7/"><u>Troubleshooting Tips: Resolving Non-Functional Microphone Issues on the SteelSeries Arctis 7</u></a></li>
 </ul></div>
 

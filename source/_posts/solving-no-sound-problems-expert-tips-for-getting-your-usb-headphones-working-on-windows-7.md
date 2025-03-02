@@ -1,7 +1,7 @@
 ---
 title: "Solving No Sound Problems: Expert Tips for Getting Your USB Headphones Working on Windows 7"
-date: 2024-08-23T12:10:24.596Z
-updated: 2024-08-24T12:10:24.596Z
+date: 2025-02-27T20:24:19.338Z
+updated: 2025-03-02T13:14:09.942Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 
 The Corsair HS35 mic is a good-value product but it might be frustrating when it suddenly stops working sometimes. If you’re having the same issue, we have a few solutions that might work for you!
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  **Before trying the fixes below, you should have a simple check first:**
@@ -44,36 +41,21 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
  If your Corsair HS35 is not activated in the Window settings, your PC will lack the access to your microphone and so the mic just won’t start to work at all. Follow these steps to allow access to your microphone:
 
 1. Press the**Windows + I** keys to open Windows settings, then select**Privacy** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/setting-Privacy.jpg)
 2. Select**Microphone** on the left panel, then click the**Change** button to see if the toggle is**On** in the pop-up menu. If it isn’t, change the toggle to On.  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-1.jpg)
 3. Check to see if the toggle in the**Allow apps to access your microphone** section is turned**On** . If it isn’t, change the toggle to On.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-2-1.jpg)
 
  Try your mic to see if it’s working now. If it isn’t, move on to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2 – Check the audio settings
 
  Sometimes your computer’s audio settings might be messed up because of frequent or erroneous operations. In this case, you should try the steps below to configure the audio settings.
 
 1. Right-click the**volume icon** on the task bar and then select**Sounds** from the mune that appears.  
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/volume-icon-sounds.jpg)
 2. Under the**Recording** tab, check to see if your headset microphone is set to disabled. If it is, right-click on it and select**Enable** . (If your mic is not the default device, click**Set Default** to set it as default)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-enable.jpg)
@@ -107,9 +89,6 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4 – Reinstall the Corsair headset and iCUE software
 
  When you have problems using your microphone, you can try reinstalling your Corsair headset and the iCUE software. This will enable your computer to reload data from your Corsair headset and resolve the conflict between your PC and the iCUE software. Here’s how it’s done:
@@ -131,9 +110,6 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5 – Use a USB audio card
 
  If your computer’s sound card is defective or if your laptop/desktop system has a faulty 3.5mm audio port, the Corsair HS35 mic may not be able to work properly. If that is the case, you might think about using a USB Audio Card, which is an external sound device that can **bypass problems in your built-in sound card and regain the audio function for you** .
@@ -166,9 +142,6 @@ Top Pick
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Fix 6 – Seek technical support or after-sales service
 
  If you’ve tried all of the above fixes and still can’t get your mic boom to function, the issue could be with your headset rather than your computer.**You can try connecting your headset to another PC** ; if it’s still not working, there may be an issue with your Corsair Mic. In this situation, you should **[contact Corsair for support](https://help.corsair.com/hc/en-us)**  or have your headset serviced.
@@ -183,8 +156,6 @@ Top Pick
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +163,22 @@ Top Pick
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-practical-routines-for-streamlining-gotomeeting-session-logging-for-2024/"><u>[New] Practical Routines for Streamlining GoToMeeting Session Logging for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-field-photography-frenzy-samsung-vs-lg-cameras-collide/"><u>[Updated] 2024 Approved Field Photography Frenzy Samsung VS LG Cameras Collide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-unveiling-high-end-picture-sources-at-zero-cost/"><u>[Updated] 2024 Approved Unveiling High-End Picture Sources at Zero Cost</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-cutting-edge-tools-to-transform-your-youtube-titling-skills-for-2024/"><u>[Updated] Cutting-Edge Tools to Transform Your YouTube Titling Skills for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cod-vanguard-resolving-persistent-issues-with-voice-communication/"><u>COD: Vanguard - Resolving Persistent Issues with Voice Communication</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-functionality-on-your-hp-notebook-in-windows-10/"><u>How to Restore Sound Functionality on Your HP Notebook in Windows 10</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-charge-a-guide-to-finding-electric-vehicle-stations-with-google-maps/"><u>Navigating the Charge: A Guide to Finding Electric Vehicle Stations with Google Maps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-tips-for-resolving-loudspeaker-malfunctions-on-your-portable-computer/"><u>Quick Tips for Resolving Loudspeaker Malfunctions on Your Portable Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-video-experience-enable-sound-for-facebook-movies-on-windowsmac-os-latest-fixes-2024/"><u>Revive Your Video Experience - Enable Sound for Facebook Movies on Windows/Mac OS (Latest Fixes 2024)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/social-broadcast-battleground-fb-live-yt-live-twitvision-for-2024/"><u>Social Broadcast Battleground FB Live, YT Live, TwitVision for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-tackle-immediate-remedies-for-headphone-static-and-crackles/"><u>Troubleshoot & Tackle: Immediate Remedies for Headphone Static and Crackles</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-isnt-your-g435-headset-working-detailed-troubleshooting-steps-for-restoring-audio/"><u>Why Isn't Your G435 Headset Working? Detailed Troubleshooting Steps for Restoring Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/world-of-warcraft-audio-glitch-fixed-enjoy-your-quests-again/"><u>World of Warcraft Audio Glitch Fixed - Enjoy Your Quests Again!</u></a></li>
+</ul></div>
 

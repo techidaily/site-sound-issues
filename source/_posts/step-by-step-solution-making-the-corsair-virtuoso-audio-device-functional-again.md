@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Making the Corsair Virtuoso Audio Device Functional Again"
-date: 2024-08-23T12:08:40.646Z
-updated: 2024-08-24T12:08:40.646Z
+date: 2025-02-25T12:55:54.080Z
+updated: 2025-03-02T11:26:30.333Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/26fc91ea31b084d9024cbf2c3260379dfbc09b55f
 
 If your external speakers are not working on Windows 10, don’t worry, you’re not alone. The speakers not working problem could relate to many factors, for instance, the speakers, the hardware themselves, could be damaged, your system sound could be muted, your audio driver could be faulty, and so forth. If you encounter this problem, follow the troubleshooting tips here and find the solution that works for you.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 1, make sure your speakers are not the problem
 
  Try to test your speakers on another device (a computer or a mobile phone would both do) to see if they are working properly. This will help determine if the issue is with the speakers themselves or with your computer.
@@ -51,16 +48,10 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-24.png)
 5. If the sound is unmuted, move to the next step.
 6. Try to move the slider up to increase the volume.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/volume-mixer.jpg)
 
  If the problem still cannot be resolved, try solutions below. Sound setting issues or driver issues may also cause this problem.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Set Speakers as Default
 
  Your speakers won’t work if it’s not set as the default output. To resolve the problem, you can set the speaker as default. To do so:
@@ -72,9 +63,6 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
  If you don’t see the speakers in the device list, it may be disabled. In this case, right-click on the blank area and select**Show disabled devices** on the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![show disabled device](https://images.drivereasy.com/wp-content/uploads/2016/08/show-disabled-device.jpg)
 
  After it is listed, right-click on the speakers and click**Enable** .
@@ -83,36 +71,19 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
  The problem also can be caused by outdated or missing audio drivers. So try to fix audio drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## 1\. Uninstall the Audio Driver
 
 Follow these steps:
 
 1. Press the**Windows logo** key and**R** key at the same time. A Run dialog box will appear.
 2. Type **devmgmt.msc** in the run box and click**OK** button. This is to open Device Manager Window.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57354ce2ad87d.png)
 3. In Device Manager, double-click**Sound, video and game controllers** and right-click your sound card. A context menu will pop up. Then select**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
 4. Tick the box for**Delete the driver software for this device** and click**OK** .  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
 5. Reboot your PC and check to see if the problem is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Update the Audio Driver
 
  The steps above may resolve it, but if they don’t, try to update the audio driver. If you’re not confident playing around with drivers manually,  you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -126,9 +97,6 @@ The powerful video editing program for your Windows PC</a>
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
 4. Restart your computer for the changes to take effect.
 
@@ -140,8 +108,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +115,23 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagram-spotlight-tactics-a-3-step-guide/"><u>[New] In 2024, Instagram Spotlight Tactics A 3-Step Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mystery-boxes-galore-the-top-10-shoplists-revealed/"><u>[New] Mystery Boxes Galore The Top 10 Shoplists Revealed</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-multi-view-mastery-the-ultimate-ranking-of-11-bridging-cameras/"><u>[Updated] In 2024, Multi-View Mastery The Ultimate Ranking of 11 Bridging Cameras</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-top-obs-software-insights-screen-recorder-capabilities-uncovered/"><u>[Updated] In 2024, Top OBS Software Insights Screen Recorder Capabilities Uncovered</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-troubleshooting-solving-microphone-failures-in-your-turtle-beach-elite-gaming-headset/"><u>Comprehensive Troubleshooting: Solving Microphone Failures in Your Turtle Beach Elite Gaming Headset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-audio-fixes-resolving-issues-with-your-headsets-microphone/"><u>DIY Audio Fixes: Resolving Issues with Your Headset's Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-troubleshooting-tips-for-a-malfunctioning-corsair-void-microphone/"><u>Easy Troubleshooting Tips for a Malfunctioning Corsair Void Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-troubleshooting-repair-your-razer-microphone-with-simple-solutions/"><u>Effortless Troubleshooting: Repair Your Razer Microphone with Simple Solutions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-how-to-get-people-to-subscribe-by-asking-the-right-way/"><u>In 2024, How to Get People to Subscribe by Asking the Right Way</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-cost-web-tool-for-mp3-format-switching-by-movavis-easy-snd-to-mp3-solution/"><u>No-Cost Web Tool for MP3 Format Switching by Movavi's Easy SND to MP3 Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-redragon-microphone-malfunction-a-comprehensive-fix-for-your-pc/"><u>Resolving Redragon Microphone Malfunction: A Comprehensive Fix for Your PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-solutions-repairing-your-astro-a20-microphone-issues/"><u>Simple Solutions: Repairing Your Astro A20 Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-sound-issues-on-your-windows-7-computer/"><u>Troubleshooting Guide: Fixing Sound Issues on Your Windows 7 Computer</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/tutorial-esencial-guardar-copias-de-seguridad-desde-unidades-de-red-hacia-discos-locales-en-windows-versiones-recientes/"><u>Tutorial Esencial: Guardar Copias De Seguridad Desde Unidades De Red Hacia Discos Locales en Windows Versiones Recientes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unboxing-the-magic-a-comprehensive-review-of-spyro-reignited-trilogy/"><u>Unboxing the Magic: A Comprehensive Review of Spyro Reignited Trilogy</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-most-memory-economical-windows-browsing-apps/"><u>Unraveling the Most Memory Economical Windows Browsing Apps</u></a></li>
+</ul></div>
 

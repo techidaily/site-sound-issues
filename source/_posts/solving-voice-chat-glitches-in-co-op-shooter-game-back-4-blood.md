@@ -1,7 +1,7 @@
 ---
 title: Solving Voice Chat Glitches in Co-Op Shooter Game 'Back 4 Blood'
-date: 2024-12-06T19:14:53.143Z
-updated: 2024-12-10T19:43:03.113Z
+date: 2025-02-28T20:50:29.636Z
+updated: 2025-03-01T22:42:49.673Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix voice chat not working in PUBG
 
@@ -90,25 +86,13 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd419e19e4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Make sure to**uncheck** the box next to**Allow application to take exclusive control of this device** . Then click**Apply** and**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd457cd7a1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7) Save your settings.  8) Restart your computer and try PUBG voice again to see if it works.  If this method doesn’t work for you, don’t worry. We have other solutions to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Update sound card driver
 
@@ -142,25 +126,13 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd808d75a7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Voice** or**In-Game Voice** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd839562f7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In the**Recording (audio input) device** section, make sure your**microphone** is selected. If the detected recording device is not your microphone, click**Change** (or**Change Device** ) to change it to your device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd86b39d96.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Make sure the**Microphone volume** and**Receive volume** is dragged to medium or high, so you can hear from your friends and you can be heard.
 
@@ -170,19 +142,11 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Change your network
 
  As many people have reported that they solved the PUBG voice chat not working issue after switching to another network, you can try this method and see if it works for you.  If you’re using VPN, try**disabling your VPN** or**changing to another VPN** , then open PUBG and see if voice chat works this time.  If you’re using WiFi or Ethernet broadband, try**connecting to another WiFi** .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Modify the game file settings
 
@@ -197,10 +161,6 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
  3) Go to**Local** \>**TslGame** \>**Saved** \>**Config** \>**WindowsNoEditor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdac264979.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Open the file named**GameUserSettings.ini** in Notepad or .txt.
 
@@ -239,20 +199,24 @@ VoiceOutputVolume=100
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-master-screen-capture-detailed-tutorial-walkthrough/"><u>[New] 2024 Approved Master Screen Capture Detailed Tutorial Walkthrough</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-maximize-your-iphone-x-10-proven-strategies/"><u>[New] 2024 Approved Maximize Your iPhone X 10 Proven Strategies</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-combining-images-for-an-engaging-picture-panorama-for-2024/"><u>[New] Combining Images for an Engaging Picture Panorama for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-nikons-masterpiece-unveiling-the-4k-capabilities-of-j5/"><u>[Updated] Nikon's Masterpiece Unveiling The 4K Capabilities of J5</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/1000-bucks-more-value-with-these-mirrorless-cameras-for-2024/"><u>1000 Bucks, More Value with These Mirrorless Cameras for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-world-of-warcraft-voice-chat-failures-and-interruptions/"><u>Effective Fixes for World of Warcraft Voice Chat Failures and Interruptions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-dealing-with-hyperx-cloud-alpha-microphone-failures/"><u>Expert Advice: Dealing With HyperX Cloud Alpha Microphone Failures</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-why-isnt-my-razor-kraken-mic-working-and-how-to-solve-it/"><u>Expert Advice: Why Isn't My Razor Kraken Mic Working and How to Solve It!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-to-restore-and-improve-your-discord-voice-call-experience/"><u>Expert Tips to Restore and Improve Your Discord Voice Call Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-a-broken-fortnite-microphone-tips-and-solutions-for-players/"><u>Fixing a Broken Fortnite Microphone: Tips & Solutions for Players</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/handling-non-connected-nvidia-outputs-with-these-proven-remedies/"><u>Handling Non-Connected Nvidia Outputs with These Proven Remedies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-eliminate-stuttering-audio-effects-in-your-computers-output-windows-10-and-7/"><u>How to Eliminate Stuttering Audio Effects in Your Computer's Output - Windows 10 & 7</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-cost-effective-filmmaking-5-top-free-video-tools/"><u>In 2024, Cost-Effective Filmmaking 5 Top Free Video Tools</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-snapshots-gone-wrong-discover-how-to-resolve-7-frequent-camera-issues/"><u>IPhone Snapshots Gone Wrong? Discover How to Resolve 7 Frequent Camera Issues</u></a></li>
-<li><a href="https://video-capture.techidaily.com/optimal-video-saver-best-chromebook-recorder-for-2024/"><u>Optimal Video Saver Best Chromebook Recorder for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-pro-features-of-dji-phantom-3-technology/"><u>[Updated] Exploring the Pro Features of DJI Phantom 3 Technology</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-get-it-right-the-first-time-instagrams-video-sizing-guide-for-2024/"><u>[Updated] Get It Right the First Time Instagram's Video Sizing Guide for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-secrets-of-the-trade-in-sourcing-professional-filmmakers/"><u>[Updated] In 2024, Secrets of the Trade in Sourcing Professional Filmmakers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-lifting-legends-top-10-super-strong-drones/"><u>[Updated] Lifting Legends Top 10 Super-Strong Drones</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-selecting-premium-backgrounds-for-zoomgoogle-calls-for-2024/"><u>[Updated] Selecting Premium Backgrounds for Zoom/Google Calls for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/m4aaac-mp3-movavi/"><u>線上無成本 M4A/AAC到 MP3 自動轉化 - Movavi 音頻編碼工具</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016890506-apex-legends-voice-chatting-errors-here-are-the-solutions-you-need/"><u>Apex Legends Voice Chatting Errors? Here Are The Solutions You Need</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/arctis-9-series-solving-the-dilemma-of-non-functional-mic-units-effectively/"><u>Arctis 9 Series: Solving the Dilemma of Non-Functional Mic Units Effectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016635261-audio-malfunction-with-conexant-hardware-in-windows-11-a-detailed-fix-tutorial-for-users/"><u>Audio Malfunction with Conexant Hardware in Windows 11? A Detailed Fix Tutorial for Users.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/blue-yeti-not-detected-avoid-audio-hassles-with-these-proven-fixes/"><u>Blue Yeti Not Detected? Avoid Audio Hassles with These Proven Fixes</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to View GPX Files Online and Offline Solutions Of Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-samsung-galaxy-m34-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Samsung Galaxy M34 Device</u></a></li>
+<li><a href="https://win-web3.techidaily.com/is-it-possible-to-view-your-bookmarks-as-an-organized-list-on-the-emeditor-toolbar-similar-to-using-an-outlining-add-on/"><u>Is It Possible to View Your Bookmarks as an Organized List on the EmEditor Toolbar Similar to Using an Outlining Add-On?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/synaptic-touchpad-driver-update-made-easy-for-all-users/"><u>Synaptic Touchpad Driver Update Made Easy for All Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-dota-2-mic-solutions-for-pc-users/"><u>Troubleshooting Your Dota 2 Mic: Solutions for PC Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fixes-for-non-functional-mic-setups-on-windows-11-devices/"><u>Ultimate Fixes for Non-Functional Mic Setups on Windows 11 Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-tricks-for-speedy-microphone-sound-checks/"><u>Ultimate Tricks for Speedy Microphone Sound Checks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/win-7-usb-headphone-silence-cracked-proven-solutions-to-restore-audio-functionality/"><u>Win 7 USB Headphone Silence Cracked - Proven Solutions to Restore Audio Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-audio-enhancement-disabling-instructions-do-it-yourself/"><u>Windows 11 Audio Enhancement Disabling Instructions – Do It Yourself</u></a></li>
 </ul></div>
 

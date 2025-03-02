@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Resolution for Nonfunctioning Headphones on Your Windows 11 PC or Laptop
-date: 2025-02-05T06:00:30.491Z
-updated: 2025-02-11T07:25:54.191Z
+date: 2025-02-24T08:18:11.807Z
+updated: 2025-03-01T16:13:01.398Z
 tags:
   - win11
   - win10
@@ -52,23 +52,11 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-1.jpg)
 3. Check to see if the toggle in the**Allow apps to access your microphone** section is turned**On** . If it isn’t, change the toggle to On.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-2-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Try your mic to see if it’s working now. If it isn’t, move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2 – Check the audio settings
 
@@ -83,10 +71,6 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-properties.jpg)
 4. Under the**Levels** tab, move the slider to the highest value and then click**OK** to save your settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this fix doesn’t give you the luck, try the next below to update your audio drives.
 
@@ -123,24 +107,12 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/quick-access-menu-device-manger.jpg)
 2. Click on the**Audio inputs and outputs** to expand the category, right-click your Corsair device and then select**Uninstall device** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DM-Audio-unindtall.jpg)
 3. Click**Uninstall** in the confirmation box that pops up.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Press the**Windows + R** keys to open the Run command. Type**`appwiz.cpl`** in the text box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-4.jpg)
 5. Select**iCUE** and then click**Uninstall** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-5.jpg)
 6. Click**Yes** in the confirmation box.
@@ -207,21 +179,24 @@ Top Pick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-youtube-video-reverser-online/"><u>[New] In 2024, Best YouTube Video Reverser Online</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-art-of-screen-enhancement-in-teams/"><u>[New] Mastering the Art of Screen Enhancement in Teams</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-blueprint-for-buzz-elevating-your-profile-on-fb/"><u>[Updated] In 2024, Blueprint for Buzz Elevating Your Profile on FB</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-enhance-your-content-utilizing-the-green-screen-on-instagram/"><u>[Updated] In 2024, Enhance Your Content Utilizing the Green Screen on Instagram</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-starbucks-secret-project-thats-poised-to-change-your-cafe-routine-forever/"><u>Discover Starbucks' Secret Project That's Poised to Change Your Cafe Routine Forever</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-silent-zoom-calls-on-your-computer/"><u>Effective Fixes for Silent Zoom Calls on Your Computer</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/inexpensive-pc-playback-solutions/"><u>Inexpensive PC Playback Solutions</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210688798-9781667442327-insieme/"><u>Insieme | Free Book</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/ios-and-android-techniques-to-record-live-video-chats-for-2024/"><u>IOS & Android Techniques to Record Live Video Chats for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/navigating-sound-challenges-in-resident-evil-village-a-step-by-step-solution-guide/"><u>Navigating Sound Challenges in Resident Evil Village – A Step-by-Step Solution Guide</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/pasos-simples-para-cambiar-tu-disco-duro-en-windows-11-sin-perder-la-configuracion-existente/"><u>Pasos Simples Para Cambiar Tu Disco Duro en Windows 11 Sin Perder La Configuración Existente</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/pubg-voice-chat-not-functioning-expert-advice-to-restore-it/"><u>PUBG Voice Chat Not Functioning? Expert Advice to Restore It</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-reactivating-the-voice-chat-feature-in-phasmophobia/"><u>Solution Steps: Reactivating the Voice Chat Feature in Phasmophobia</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solutions-for-when-your-blue-yeti-mic-wont-work-expert-tips-and-tricks/"><u>Solutions For When Your Blue Yeti Mic Won’t Work: Expert Tips And Tricks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-airpods-microphone-failure-in-windows-10-with-easy-fixes/"><u>Solve 'AirPods Microphone Failure' In Windows 10 with Easy Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-repair-guide-solving-beyond-the-bluetooth-microphone-malfunction-issues/"><u>Ultimate Repair Guide: Solving 'Beyond the Bluetooth - Microphone Malfunction' Issues</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-unlock-youtubes-potential-key-strategies-from-creator-studio-manual/"><u>[New] In 2024, Unlock YouTube's Potential Key Strategies From Creator Studio Manual</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-art-of-increasing-indoor-ambiance-via-sunlight/"><u>[Updated] 2024 Approved The Art of Increasing Indoor Ambiance via Sunlight</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/a-comprehensive-guide-resolving-silent-mode-on-conexant-smartaudio-hd-with-windows-11/"><u>A Comprehensive Guide: Resolving Silent Mode on Conexant SmartAudio HD with Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/androids-best-practice-for-saving-gameplay-videos-for-2024/"><u>Android's Best Practice for Saving Gameplay Videos for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/apex-legends-audio-dilemma-heres-how-you-can-fix-your-voice-chat-woes/"><u>Apex Legends Audio Dilemma? Here's How You Can Fix Your Voice Chat Woes!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bypassing-the-mute-issue-on-realtek-chipset-after-updates/"><u>Bypassing the Mute Issue on Realtek Chipset After Updates</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016970960-conexant-smartaudio-hd-muting-woes-restore-audio-on-windows-10-heres-how/"><u>Conexant SmartAudio HD Muting Woes? Restore Audio on Windows 10 Here's How</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnose-and-rectify-non-functioning-hyperx-cloud-gaming-headset-microphones-successfully/"><u>Diagnose and Rectify Non-Functioning HyperX Cloud Gaming Headset Microphones Successfully</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/discover-your-ideal-drawing-tool-chromebooks-finest-list-for-2024/"><u>Discover Your Ideal Drawing Tool Chromebook's Finest List for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-overcoming-common-voice-chat-glitches-in-the-game-of-valorant/"><u>Expert Advice: Overcoming Common Voice Chat Glitches in the Game of VALORANT</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-repairing-your-desktop-or-laptops-sound-system/"><u>Expert Tips for Repairing Your Desktop or Laptop's Sound System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-rectifying-sound-recording-faults-in-obs-software/"><u>Expert Tips: Rectifying Sound Recording Faults in OBS Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-complete-lack-of-audio-in-anthem-game-on-windows-10-operating-system/"><u>Fixing Complete Lack of Audio in Anthem Game on Windows 10 Operating System</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Google Pixel 7a? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-record-audio-on-windows-11/"><u>How to Record Audio on Windows 11</u></a></li>
+<li><a href="https://facebook.techidaily.com/revolutionizing-behavioral-therapy-isbms-evidence-backed-cbt-methods/"><u>Revolutionizing Behavioral Therapy: ISBM's Evidence-Backed CBT Methods</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/trasforma-il-tuo-ape-in-flac-senza-costi-utilizzando-il-servizio-di-conversione-online-di-movavi/"><u>Trasforma Il Tuo APE in Flac Senza Costi Utilizzando Il Servizio Di Conversione Online Di Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-approach-to-eliminate-wsl/"><u>Ultimate Approach to Eliminate WSL</u></a></li>
 </ul></div>
 

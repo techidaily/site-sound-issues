@@ -1,7 +1,7 @@
 ---
 title: "Fix Guide: Addressing Non-Functional Steam Voice Call Options"
-date: 2024-08-23T12:09:04.064Z
-updated: 2024-08-24T12:09:04.064Z
+date: 2025-02-24T09:25:21.556Z
+updated: 2025-03-02T02:58:52.683Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ Find your**mic not working in Dota 2** ? Teamwork and interactivity are the bigg
 
  If your mic is not working, or there are audio dropouts when you speak to your microphone, don’t worry. We’ve put together all the possible fixes that have helped many other players solve the Dota 2 mic not working issue.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why do I get microphone issues on Dota 2?
 
  There are several reasons why you are having problems with your microphone when playing Data 2:
@@ -32,9 +29,6 @@ Find your**mic not working in Dota 2** ? Teamwork and interactivity are the bigg
 * The audio drivers are out of date
 * The Windows Audio Enhancements setting is turned on
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  First, make sure your headphone microphone is not muted. If you’re using a splitter, ensure it’s firmly plugged in.
@@ -55,9 +49,6 @@ Find your**mic not working in Dota 2** ? Teamwork and interactivity are the bigg
  Before you try other fixes, it’s recommended to check the microphone is set correctly on your Windows PC.
 
 1. At the bottom right corner of your computer screen – namely the notification area – you’ll find the **volume** icon. Right-click it and select **Sound settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/win-11-right-click-on-sound.jpg)
 2. Under the**Input** section, drag the sliders of the**Microphone** to turn up the volume. Just make sure you haven’t muted them or set them to such low levels that you cannot hear the voice yourself.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/01/win-11-input-microphone-volume.jpg)
@@ -73,18 +64,12 @@ Find your**mic not working in Dota 2** ? Teamwork and interactivity are the bigg
 2. Select the **AUDIO** tab and ensure that the **Sound Device** and **Speaker Configuration** are set to default.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/default-audio.jpg)
 3. Activate **Voice Chat (PARTY)** and set your **Push to Talk** shortcut key for your team.  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/voice-chat.jpg)
 4. Select the appropriate **Open Mic Threshold** using the slider at the bottom of this tab to get your microphone to make sure your voice can be recorded at an appropriate level (we recommend about 30%).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/drag.jpg)
 
  When you’re all set, join a squad to see if you can use the mic properly. If not, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update device drivers
 
  Sometimes **an outdated, corrupt or incompatible driver may trigger the mic not working issue** . To fix it, you should try updating not only the audio driver but also drivers for other motherboard devices like chipsets.
@@ -109,24 +94,14 @@ Find your**mic not working in Dota 2** ? Teamwork and interactivity are the bigg
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Allow access to the microphone
 
  It’s possible that your microphone has been disabled in privacy settings. If that’s the case, your Dota 2 won’t be able to access your mic. To modify the settings, here’s how:
 
 1. On your keyboard, press the **Windows** logo key to invoke the Search box and type **microphone** . Then select **Microphone Privacy Settings** from the results list.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/01/win-11-microphone-privacy.jpg)
 2. Click **Change** to see if the toggle for **Microphone access for this device** has been set to**On** .  
  Under the **Allow Apps To Access Your Microphone** tab, ensure that the toggle is in the **On**  position so that other apps can use your microphone.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/01/win-11-microphone-access-on.jpg)
 
  Check to see if your mic goes back to normal in Dota 2\. If not, you can try the next fix.
@@ -137,9 +112,6 @@ Find your**mic not working in Dota 2** ? Teamwork and interactivity are the bigg
 
 1. Launch Steam, and click**Library** .
 2. Right-click Dota 2, and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-1.jpg)
 3. Go to the **LOCAL FILES** tab. Then click **VERIFY INTEGRITY OF GAME FILES…**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/cache.png)
@@ -147,9 +119,6 @@ Find your**mic not working in Dota 2** ? Teamwork and interactivity are the bigg
 
  Once you verify that all the cache files are in a normal state, please launch Dota 2 and check if your mic is working properly this time. In case the problem persists, you can move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### Fix 6: Restart the Windows Audio service
 
  If the mic not working issue is happening to all your games, the possible cause is the Windows Audio Service is not working normally. To fix it, here’s how:
@@ -179,8 +148,6 @@ Find your**mic not working in Dota 2** ? Teamwork and interactivity are the bigg
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +155,22 @@ Find your**mic not working in Dota 2** ? Teamwork and interactivity are the bigg
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-simplified-guide-to-incorporating-accurate-timestamps-in-youtube-videos/"><u>[New] In 2024, Simplified Guide to Incorporating Accurate Timestamps in YouTube Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-pros-list-top-5-timelapse-software-for-2024/"><u>[New] Pro's List Top 5 Timelapse Software for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unveiling-the-secrets-of-video-editing-on-youtube/"><u>[New] Unveiling the Secrets of Video Editing on YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-outstanding-evaluation-and-alternative-paths/"><u>2024 Approved Outstanding Evaluation & Alternative Paths</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bypass-mic-troubles-optimizing-the-sony-wh-1000xm34-headset-microphone-functionality-on-desktops-and-laptops/"><u>Bypass Mic Troubles: Optimizing the Sony WH-1000XM3/4 Headset Microphone Functionality on Desktops and Laptops</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/creative-pebble-speaker-problems-solved-heres-what-worked-for-others/"><u>Creative Pebble Speaker Problems Solved? Here's What Worked for Others</u></a></li>
+<li><a href="https://games-able.techidaily.com/delving-into-baldurs-gate-3-spec-requirements-and-more/"><u>Delving Into Baldur's Gate 3: Spec Requirements & More</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/enhancing-revenue-the-15-premier-fb-insight-gadgets-for-2024/"><u>Enhancing Revenue The 15 Premier FB Insight Gadgets for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-motorola-edgeplus-2023-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Motorola Edge+ (2023) 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-harmonizing-in-tiktoks-duo-videos/"><u>In 2024, Harmonizing in TikTok's Duo Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-guide-how-to-resolve-zoom-sound-issues-in-pc-users/"><u>Quick Guide: How to Resolve Zoom Sound Issues in PC Users</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209838249-9780692024980-the-kama-sutra-kitchen/"><u>The Kama Sutra Kitchen | Free Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-eliminating-vibrations-in-your-sound-system/"><u>The Ultimate Guide to Eliminating Vibrations in Your Sound System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-issues-solving-dell-sound-drivers-on-windows-7/"><u>Troubleshooting Audio Issues: Solving Dell Sound Drivers on Windows 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-resolving-razer-blackshark-v2-microphone-issues/"><u>Troubleshooting Steps for Resolving Razer Blackshark V2 Microphone Issues</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solution Steps: Why Is My Razer Kraken Mic Not Working? Find Out Here!"
-date: 2024-08-23T12:09:26.211Z
-updated: 2024-08-24T12:09:26.211Z
+date: 2025-02-26T06:54:05.304Z
+updated: 2025-03-02T03:22:23.093Z
 tags:
   - win11
   - win10
@@ -25,9 +25,6 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 4. [**Check in-game settings**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Check for Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Update your audio driver
 
  A missing or outdated audio driver may stop mic from picking up voice. Make sure that the audio driver on your PC is up to date.
@@ -42,15 +39,9 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc5ca944cbd9.jpg)
 3. Click the**Update** button next to your audio device to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc5cb179f761.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
@@ -61,17 +52,11 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 2. Click**Set up microphone** , and follow the Microphone Setup Wizard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6b23de4e69.jpg)
 3. When you reach “Adjust the microphone volume”, please note if the volume bar moves from yellow to red.  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6b3b757a02.jpg)
 4. Is the Setup wizard complete? If your microphone works properly, congratulations! If not, you can follow Method 2 below to check your audio settings.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Set your mic as your default device
 
  You can take the following steps to check if your microphone is the Default Device on your computer (be sure that your audio driver is up-to-date):
@@ -79,14 +64,8 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 1. Right-click the volume icon in the bottom-right part of your screen, then select**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6b7cd6c388.jpg)
 2. Click the **Recording** tab.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6ca5ddbaee.jpg)
 3. Right-click on the device you want to use, and select **Set as Default Device** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6ca767b35a.jpg)  
 **Note:** You can try speaking into your microphone to test if it’s working properly. If it is, you should see a green bar rising next to it while you talk:  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6caa71d6b3.jpg)
@@ -104,14 +83,8 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
  If you mic problem occurs in a specific program, you can go to Windows Settings to check if that program is allowed to access your microphone. Here’s how:
 
 1. Type**settings** in the search box, and click**Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6d1f6bf629.jpg)
 2. Click **Privacy** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6d22eaa914.jpg)
 3. In the left pane, click **Microphone** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6d24e48342.jpg)
@@ -132,9 +105,6 @@ Check to see if your mic can pick up voice now.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 5: Check for Windows updates
 
  If the above methods don’t work for you, your **mic not picking up voice** problem is probably being caused by system issues. You can then check for Windows updates.
@@ -159,8 +129,6 @@ Check to see if your mic can pick up voice now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +136,26 @@ Check to see if your mic can pick up voice now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-streamlining-your-timeline-leading-tools-to-unfollow-tweets-for-2024/"><u>[New] Streamlining Your Timeline Leading Tools to Unfollow Tweets for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-innovation-and-performance-metrics-for-top-screen-recorders-featuring-apeaksoft/"><u>[Updated] Innovation and Performance Metrics for Top Screen Recorders, Featuring Apeaksoft</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-battle-of-digital-universes-metaverse-vs-omniverse/"><u>[Updated] The Ultimate Battle of Digital Universes Metaverse Vs. Omniverse</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722999557601-age-of-empires-iv-overcoming-the-unlaunched-game-hurdle/"><u>Age of Empires IV - Overcoming the Unlaunched Game Hurdle</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/arctis-prime-mic-issue-resolved-how-to-troubleshoot-and-restore-audio-functionality/"><u>Arctis Prime Mic Issue Resolved: How to Troubleshoot and Restore Audio Functionality</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-samsung-galaxy-m54-5g-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-sound-problems-a-users-manual-for-steelseries-arctis-7-mic-malfunctions/"><u>Fixing Sound Problems: A User's Manual for SteelSeries Arctis 7 Mic Malfunctions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-the-most-out-of-hyperx-cloud-alpha-s-resolving-mic-connectivity-issues/"><u>Getting the Most Out of HyperX Cloud Alpha S - Resolving Mic Connectivity Issues</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How to Detect and Remove Spyware on Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-motorola-razr-40-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Motorola Razr 40 Fingerprint Lock</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/playback-problem-why-cant-i-watch-video-on-sony-a6400-for-2024/"><u>Playback Problem Why Can't I Watch Video on Sony A6400 for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-troubleshooting-fortnites-voice-communication-issues/"><u>Quick Fix: Troubleshooting Fortnite's Voice Communication Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reactivating-voice-chat-features-in-destiny-2-a-step-by-step-guide/"><u>Reactivating Voice Chat Features in Destiny 2 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalize-your-excel-workflow-on-windows/"><u>Revitalize Your Excel Workflow on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-the-roar-fixing-silent-moments-in-battlefield-4-gaming-experience/"><u>Revive the Roar: Fixing Silent Moments in Battlefield 4 Gaming Experience</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/simplified-guide-to-movie-recording-on-diverse-systems/"><u>Simplified Guide to Movie Recording on Diverse Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015858380-troubleshooting-windows-11-sound-issues-solved/"><u>Troubleshooting Windows 11 Sound Issues: Solved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-resolving-microphone-issues-with-your-sony-wh-1000xm3-or-wh-1000xm4-headphones-for-windows/"><u>Troubleshooting: Resolving Microphone Issues with Your Sony WH-1000XM3 or WH-1000XM4 Headphones for Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/turtle-beach-microphone-malfunction-heres-how-to-restore-sound/"><u>Turtle Beach Microphone Malfunction? Here's How to Restore Sound</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Audio: Effective Techniques to Fix a Dead Microphone in Astro A50 Earbuds"
-date: 2024-08-18T08:06:54.655Z
-updated: 2024-08-19T08:06:54.655Z
+date: 2025-02-25T02:37:41.945Z
+updated: 2025-03-01T22:03:20.501Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 
  **Don’t know how to test your microphone on your Windows computer?** Don’t worry! You’ve come to the right place. It’s pretty easy. After reading this post, you should be able to test your mic quickly and easily!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## There’re two methods to test your microphone
 
 1. **[Mic testing in Windows audio settings](https://tools.techidaily.com/drivereasy/download/)**
@@ -41,29 +38,14 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 **To configure your microphone:**
 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**control /name Microsoft.Sound** and press**Enter** to open**Windows sound settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-36-29-1.png)
 2. In the Windows audio settings window, navigate to**the Recording tab** , select the microphone you want to test and click**Configure** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-37-58.png)
 3. Click**Set up microphone** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-38-40.png)
 4. Select the correct type of your microphone and click**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-39-30.png)
 5. Follow the**Microphone Setup Wizard** to configure your microphone. Close the wizard when it completes.  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-40-26.png)
 
 #### Step 2: Test your microphone
@@ -73,9 +55,6 @@ Follow the steps below to test your microphone in Windows audio settings:
 1. **Right-click** **the speaker icon** in the bottom-right corner of your screen, then select**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-41-21.png)
 2. Navigate to**the Recording tab** . Select the microphone you’re going to test, then try speaking into your microphone to test if it works properly. If it is, you should see some green in the bar on the right. Click**OK** to close the window after testing.  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-42-45.png)
 
  If the microphone you’re going to test is not the default device for recording, you need to click**the Set Default button** to set it as the default device first.
@@ -91,9 +70,6 @@ Follow the steps below to test your microphone in Windows audio settings:
 2. Click**the record icon** to start recording. Try speaking into your microphone.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-45-47.png)
 3. Click**the stop button** to stop recording.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-46-27.png)
 4. Click the recording file to replay it. If your microphone is fine, you should be able to hear your voice clearly.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-47-16.png)
@@ -114,9 +90,6 @@ Follow the steps below to test your microphone in Windows audio settings:
 
 1. Download and install[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-48-18.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -136,8 +109,6 @@ Follow the steps below to test your microphone in Windows audio settings:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +116,23 @@ Follow the steps below to test your microphone in Windows audio settings:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-discover-the-power-of-10-second-beats-in-youtube-music/"><u>[Updated] Discover the Power of 10-Second Beats in YouTube Music</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-chip-efficiency-exposed-unleashing-top-notch-editing-performance/"><u>2024 Approved Chip Efficiency Exposed Unleashing Top-Notch Editing Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-latest-cellphone-savings-verizon-upgrade-specials-for-month/"><u>Discover the Latest Cellphone Savings: Verizon Upgrade Specials for [Month]</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/essential-techniques-for-successful-data-clearance-learning-from-stellars-best-articles/"><u>Essential Techniques for Successful Data Clearance: Learning From Stellar's Best Articles</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expanding-notebook-memory-a-practical-approach/"><u>Expanding Notebook Memory: A Practical Approach</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-how-to-fix-realtek-hd-audio-issues-and-launch-the-application/"><u>Guide: How to Fix Realtek HD Audio Issues and Launch the Application</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-motorola-moto-g-stylus-5g-2023mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Motorola Moto G Stylus 5G (2023)Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pro-graphic-rigs-mastering-4k-titles/"><u>In 2024, Pro Graphic Rigs Mastering 4K Titles</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-art-of-repairing-your-rust-microphone/"><u>Mastering the Art of Repairing Your Rust Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-connectivity-problems-with-sound-blaster-microphones/"><u>Overcoming Connectivity Problems with Sound Blaster Microphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-resolving-the-unable-to-execute-sound-check-mishap/"><u>Quick Solutions: Resolving the Unable to Execute Sound Check Mishap</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-troubleshooting-guide-restore-audio-on-your-windows-11-machine/"><u>Quick Troubleshooting Guide: Restore Audio on Your Windows 11 Machine</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016825609-restore-speakers-voice-to-your-lenovo-pc-solutions-inside/"><u>Restore Speakers' Voice to Your Lenovo PC - Solutions Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-unplugged-speaker-or-headphone-problems-on-windows-10-8-and-7/"><u>Solve Unplugged Speaker or Headphone Problems on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-vivo-s18e-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Vivo S18e FRP</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-insiders-playbook-efficiently-finding-and-using-pictures-via-facebook-search/"><u>The Insider's Playbook: Efficiently Finding and Using Pictures via Facebook Search</u></a></li>
+</ul></div>
 

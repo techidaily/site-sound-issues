@@ -1,7 +1,7 @@
 ---
 title: Resolving Communication Glitches with Mic/Voice Chat During Your Warzone Battles
-date: 2025-02-08T05:39:47.081Z
-updated: 2025-02-10T22:52:38.509Z
+date: 2025-02-27T08:19:06.494Z
+updated: 2025-03-02T04:07:48.188Z
 tags:
   - win11
   - win10
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/ab4dd483e1f79e38d09cf8e4fff380926562633e9
 
  Now run the game again and test to see whether chat is working. If it’s not, move on to Fix 2, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your sound card driver
 
  A missing or outdated sound card driver may also stop chat from working in Fortnite.
@@ -58,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/ab4dd483e1f79e38d09cf8e4fff380926562633e9
  2\. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Driver-Easy-Scan-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3\. Click **Update** next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee).
 
@@ -85,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/ab4dd483e1f79e38d09cf8e4fff380926562633e9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap912.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4\. Restart the Epic Games Launcher.
 
  5\. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.
@@ -104,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/ab4dd483e1f79e38d09cf8e4fff380926562633e9
  1\. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Privacy** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap427.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2\. Click **Microphone**  on the left pane, and make sure**Microphone access for this device** is**on** , and the status is **On** for **Fortnite** .
 
@@ -125,17 +109,9 @@ thumbnail: https://thmb.techidaily.com/ab4dd483e1f79e38d09cf8e4fff380926562633e9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap925.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ii. Click**the speaker icon** to view the audio settings. Then**turn off Voice Chat** and click**Apply** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap431-1024x576.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 iii. Exit Fortnite.
 
@@ -155,10 +131,6 @@ iii. Exit Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6\. Click **OK** .
 
  7\. Run Fortnite again to**turn Voice Chat on.**
@@ -176,10 +148,6 @@ iii. Exit Fortnite.
  2\. Click**Uninstall** to uninstall Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap950.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. Restart your PC.
 
@@ -210,22 +178,24 @@ iii. Exit Fortnite.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-where-to-buy-a-monetized-youtube-channel-a-complete-guide/"><u>[New] 2024 Approved Where to Buy a Monetized YouTube Channel A Complete Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-essential-knowledge-for-effective-screensaver-use-in-mobile-applications-for-2024/"><u>[New] Essential Knowledge for Effective Screensaver Use in Mobile Applications for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-live-techniques-lowering-volume-gradually/"><u>[New] Live Techniques Lowering Volume Gradually</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-understanding-ios-video-recording/"><u>[Updated] Understanding iOS Video Recording</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/app-reception-a-comprehensive-scrutiny-for-2024/"><u>App Reception A Comprehensive Scrutiny for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-solutions-restoring-functionality-to-a-broken-sound-blaster-mic/"><u>Expert Solutions: Restoring Functionality to a Broken Sound Blaster Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixes-for-when-your-steelseries-arctis-pro-headset-mic-stops-working/"><u>Fixes for When Your SteelSeries Arctis Pro Headset Mic Stops Working</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-expertly-curated-green-screen-gear-list/"><u>In 2024, Expertly Curated Green Screen Gear List</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-proven-methods-for-zooid-creation/"><u>In 2024, Proven Methods for Zooid Creation</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/inspire-creativity-brainstorming-for-channels-names-for-2024/"><u>Inspire Creativity Brainstorming for Channels' Names for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/jaycut-essentials-learn-how-to-edit-videos-online-for-free-for-2024/"><u>Jaycut Essentials Learn How to Edit Videos Online for Free for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restore-gaming-immersion-solving-cyberpunk-nks-silent-world-in-windows-10/"><u>Restore Gaming Immersion: Solving Cyberpunk Nk's Silent World in Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-macs-audio-step-by-step-solutions-to-no-output-problems/"><u>Revive Your Mac’s Audio: Step-by-Step Solutions to No Output Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-the-soundscape-how-to-fix-silence-in-your-wow-adventure/"><u>Reviving the Soundscape: How to Fix Silence in Your WoW Adventure</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-found-troubleshooting-counter-strike-2-microphone-problems/"><u>Solution Found: Troubleshooting Counter-Strike 2 Microphone Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/top-5-solutions-to-resolve-your-windows-10-audio-problems/"><u>Top 5 Solutions to Resolve Your Windows 10 Audio Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unlock-clear-audio-from-your-hyperx-cloud-alpha-headset-a-step-by-step-fix-for-mute-mics/"><u>Unlock Clear Audio From Your HyperX Cloud Alpha Headset - A Step-by-Step Fix for Mute Mics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-perfecting-chromes-sound-best-apps-for-online-text-to-speech-transformation/"><u>[New] 2024 Approved Perfecting Chrome's Sound Best Apps for Online Text-to-Speech Transformation</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unleashing-brand-potential-with-a-comprehensive-guide-to-smm-mastery/"><u>[New] 2024 Approved Unleashing Brand Potential with a Comprehensive Guide to SMM Mastery</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-elevating-your-craft-top-camera-optics-for-professional-videos-for-2024/"><u>[New] Elevating Your Craft Top Camera Optics for Professional Videos for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-exploring-the-top-8-free-and-paid-videomosaic-apps-on-android-platforms/"><u>[New] In 2024, Exploring the Top 8 Free & Paid Videomosaic Apps on Android Platforms</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-entering-the-fullscreen-realm-choosing-a-cms-for-2024/"><u>[Updated] Entering the Fullscreen Realm Choosing a CMS for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-from-amateurs-to-pros-step-by-step-guide-on-mastering-background-erasing-in-adobe-photoshop/"><u>[Updated] From Amateurs to Pros Step-by-Step Guide on Mastering Background Erasing in Adobe Photoshop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-issues-by-disabling-enhancement-options-in-windows-10-system/"><u>Fixing Audio Issues by Disabling Enhancement Options in Windows 10 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-one-or-several-stalled-audio-services-a-complete-walkthrough/"><u>Fixing One or Several Stalled Audio Services – A Complete Walkthrough</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-windows-117-audio-issues-the-speaker-crackling-solution/"><u>Fixing Windows 11/7 Audio Issues: The Speaker Crackling Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-windows-11-audio-back-on-track-solutions-inside/"><u>How To Get Your Windows 11 Audio Back On Track - Solutions Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-and-restore-sound-on-a-malfunctioning-logiteche-g933-microphone/"><u>How to Repair & Restore Sound on a Malfunctioning Logiteche G933 Microphone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-realme-12-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Realme 12 5G?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-images-with-complete-understanding-of-facetune/"><u>In 2024, Transforming Images with Complete Understanding of Facetune</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/instant-repairs-resolve-oculus-rift-s-mic-issues-in-just-five-steps/"><u>Instant Repairs: Resolve Oculus Rift S Mic Issues in Just Five Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-art-of-loudness-advanced-techniques-to-increase-volume-on-windows-10/"><u>Mastering the Art of Loudness: Advanced Techniques to Increase Volume on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210737665-netflix-no-volume-easy-fixes-to-get-your-sounds-back/"><u>Netflix No Volume? Easy Fixes to Get Your Sounds Back!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-resolving-microphone-problems-in-fortnite-a-step-by-lane-guide/"><u>Quick Fixes: Resolving Microphone Problems in Fortnite - A Step-by-Lane Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-guide-eliminating-sound-glitches-in-call-of-duty-black-ops-cold-war-on-pc/"><u>Quick Guide: Eliminating Sound Glitches in Call of Duty: Black Ops Cold War on PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-ultimate-guide-to-choosing-the-perfect-electric-leaf-blower-features-reviews-and-more/"><u>ZDNET's Ultimate Guide to Choosing the Perfect Electric Leaf Blower : Features, Reviews & More</u></a></li>
 </ul></div>
 

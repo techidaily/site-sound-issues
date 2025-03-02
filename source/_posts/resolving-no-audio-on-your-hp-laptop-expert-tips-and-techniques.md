@@ -1,7 +1,7 @@
 ---
 title: Resolving No Audio on Your HP Laptop – Expert Tips and Techniques
-date: 2025-02-10T08:41:00.254Z
-updated: 2025-02-11T01:24:31.128Z
+date: 2025-02-23T11:49:43.866Z
+updated: 2025-03-02T12:07:26.079Z
 tags:
   - win11
   - win10
@@ -52,17 +52,9 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881b98693b49.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In the **Playback** tab, right-click **Default Device**  you have and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881badde83bd.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Go to **the Enhancement** tab, tick the box for**Disable all sound effects** .
 
@@ -94,10 +86,6 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5964407a532ed.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4: Uninstall driver from Device Manager
 
  If you have faulty driver installed, problem like no sound coming out from your speaker is inevitable. To fix it:
@@ -110,10 +98,6 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881bdc6126ad.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click your sound card driver, then click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c04799622.png)
@@ -122,19 +106,11 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c05dde5db.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) When the uninstall completes, restart your computer.
 
 Windows will then help you reinstall the driver.
 
  And if this still don’t work, please try the next step where we try using the generic audio driver that comes with Windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5: Try generic audio driver provided by Windows 10
 
@@ -166,17 +142,9 @@ Windows will then help you reinstall the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c43152df5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Now you should be able to see that the driver you are having now is the generic audio driver provided by Windows 10\. The name of which is**High Definition Audio Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c48369340.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Check if your sound is back.
 
@@ -199,21 +167,19 @@ Check if your sound is back.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-crafty-impostors-exposed-spotting-fabricated-followers/"><u>[New] Crafty Impostors Exposed Spotting Fabricated Followers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-inferno-captures-best-slow-motion-cameras/"><u>[New] Inferno Captures Best Slow-Motion Cameras</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-master-strategies-to-stop-windows-10-photos-crashes/"><u>[Updated] Master Strategies to Stop Windows 10 Photos Crashes</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-audio-ambition-realized-cutting-edge-recording-methods-for-minecraft-players/"><u>2024 Approved Audio Ambition Realized Cutting-Edge Recording Methods for Minecraft Players</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-master-photovideo-optimization-while-travelling/"><u>2024 Approved Master Photo/Video Optimization While Travelling</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-unlock-cross-platform-content-sharing-convert-and-upload-with-these-tools/"><u>2024 Approved Unlock Cross-Platform Content Sharing Convert and Upload with These Tools</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015578397-creative-pebble-speakers-error-a-comprehensive-fixing-guide-for-you/"><u>Creative Pebble Speakers Error? A Comprehensive Fixing Guide for You</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-guide-removing-irritating-buzz-when-using-headsets/"><u>DIY Guide: Removing Irritating Buzz When Using Headsets</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-repair-tips-for-a-non-functional-hyperx-cloud-headset-microphone/"><u>Effective Repair Tips for a Non-Functional HyperX Cloud Headset Microphone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-xiaomi-civi-3-disney-100th-anniversary-edition-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Xiaomi Civi 3 Disney 100th Anniversary Edition phone? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-high-performance-thermaltake-massive-tm-laptop-chiller-stunning-benefits-meet-steep-cost/"><u>In-Depth Analysis of the High-Performance Thermaltake Massive TM Laptop Chiller: Stunning Benefits Meet Steep Cost</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-more-distractions-how-to-resolve-unwanted-noises-from-your-headphones/"><u>No More Distractions: How to Resolve Unwanted Noises From Your Headphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/say-goodbye-to-silence-essential-4-techniques-to-fix-webex-mic-issues/"><u>Say Goodbye to Silence: Essential 4 Techniques to Fix WebEx Mic Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-diagnosing-and-repairing-sound-errors-on-windows-10/"><u>Step-by-Step Guide to Diagnosing & Repairing Sound Errors on Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unsticking-a-jammed-steam-voice-chat-expert-solutions-at-hand/"><u>Unsticking a Jammed Steam Voice Chat: Expert Solutions at Hand</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-approaches-to-silence-echoes-in-professional-audio-recording/"><u>Updated In 2024, Approaches to Silence Echoes in Professional Audio Recording</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-ig-reel-secrets-pausing-time-for-creative-impact/"><u>[New] 2024 Approved IG Reel Secrets Pausing Time for Creative Impact</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-e-identity-enhancement-drawing-your-playful-iconography-for-2024/"><u>[New] E-Identity Enhancement Drawing Your Playful Iconography for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-dual-platform-dance-posting-vids-with-twitter-and-tumblr/"><u>[Updated] 2024 Approved The Dual-Platform Dance Posting Vids with Twitter & Tumblr</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-ideal-uavs-for-capturing-gopro-hd-footage/"><u>[Updated] In 2024, Ideal UAVs for Capturing GoPro HD Footage</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-ways-to-address-razer-kraken-mic-malfunctioning-issues/"><u>Effective Ways to Address Razer Kraken Mic Malfunctioning Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-restore-sound-on-your-mic-while-playing-counter-strike-global-offensive/"><u>Expert Tips to Restore Sound on Your Mic While Playing Counter-Strike Global Offensive</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/facebook-soundless-woes-heres-how-to-get-audio-back-on-your-pc-videos-updated-tips-for-202n4/"><u>Facebook Soundless Woes? Here's How to Get Audio Back on Your PC Videos (Updated Tips for 202N4)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-a-nonfunctional-microphone-on-your-astro-a50-headset-troubleshooting-tips/"><u>Fixing a Nonfunctional Microphone on Your Astro A50 Headset - Troubleshooting Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-macs-audio-problem-how-to-restore-sounds-on-your-device/"><u>Fixing Mac's Audio Problem: How to Restore Sounds on Your Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-csgo-microphone-issues-troubleshooting-guide/"><u>Fixing Your CS:GO Microphone Issues - Troubleshooting Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-accelerated-mp4-conversion-for-fb-media/"><u>In 2024, Accelerated MP4 Conversion for FB Media</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-superfetch-a-complete-guide-to-understanding-its-features/"><u>Mastering SuperFetch: A Complete Guide to Understanding Its Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-productivity-on-your-m3-macbook-pro-using-dual-displays-a-parallel-to-the-m3-macbook-air/"><u>Maximize Productivity on Your M3 MacBook Pro Using Dual Displays - A Parallel to the M3 MacBook Air!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-windows-11-easy-wi-fi-deletion-guide/"><u>Optimize Windows 11: Easy Wi-Fi Deletion Guide</u></a></li>
 </ul></div>
 

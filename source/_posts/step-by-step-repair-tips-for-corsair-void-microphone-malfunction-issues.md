@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Repair Tips for Corsair Void Microphone Malfunction Issues
-date: 2024-12-22T16:02:56.999Z
-updated: 2024-12-25T17:53:49.260Z
+date: 2025-02-24T09:03:36.989Z
+updated: 2025-03-02T01:05:58.203Z
 tags:
   - win11
   - win10
@@ -45,17 +45,9 @@ thumbnail: https://thmb.techidaily.com/60c0536f1fc5d6831a20d36d45e0ac93bc7d119ca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2665c0c8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Microphone** on the left pane, and make sure**Microphone access for this device** **is on** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ad8d38e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (If this issue happens in the voice chat when you play games, you can also check if the microphone status for that game is**ON** .)
 
@@ -116,17 +108,9 @@ thumbnail: https://thmb.techidaily.com/60c0536f1fc5d6831a20d36d45e0ac93bc7d119ca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627553bb550.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Right click on your microphone again and select**Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6275be6bfc9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Right click your microphone, and click**Properties.**
 
@@ -136,19 +120,11 @@ thumbnail: https://thmb.techidaily.com/60c0536f1fc5d6831a20d36d45e0ac93bc7d119ca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6278bfe07b0.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  8) Save your changes and restart your computer.
 
  Try your Logitech G430 mic again and see if it works.
 
  Still no luck? Okay, there’s one more thing to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 4: Reinstall Logitech Game Software**
 
@@ -178,22 +154,16 @@ thumbnail: https://thmb.techidaily.com/60c0536f1fc5d6831a20d36d45e0ac93bc7d119ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-a-streamlined-method-for-your-macos-sierra-enhancement/"><u>[Updated] 2024 Approved A Streamlined Method for Your MacOS Sierra Enhancement</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-unlock-creative-potential-in-photography-top-15-tricks-for-using-pixlr/"><u>[Updated] In 2024, Unlock Creative Potential in Photography Top 15 Tricks for Using Pixlr</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-master-mp4-uploader-and-downloader-fb-edition/"><u>[Updated] Master MP4 Uploader & Downloader FB Edition</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/adjusting-settings-for-audible-obs-broadcasts/"><u>Adjusting Settings for Audible OBS Broadcasts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-guide-what-to-do-when-confronted-with-an-unknown-audio-device-in-windows-10/"><u>DIY Guide: What to Do When Confronted With an 'Unknown' Audio Device in Windows 10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862685731-experience-next-level-gaming-1199-for-a-156-inch-msi-katana-with-cutting-edge-rtx-4070-graphics/"><u>Experience Next-Level Gaming: $1,199 for a 15.6-Inch MSI Katana with Cutting-Edge RTX 4070 Graphics</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-reactivating-sound-on-your-call-of-duty-black-ops-cold-war-game-pc-version-common-solutions/"><u>Expert Tips: Reactivating Sound on Your Call of Duty: Black Ops Cold War Game (PC Version) - Common Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-airpods-working-right-again-repairing-mic-functionality-in-windows-10/"><u>Get Your AirPods Working Right Again: Repairing Mic Functionality in Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015844298-how-to-fix-audio-delay-2024-guide/"><u>How to Fix Audio Delay - 2024 Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015373553-hp-laptop-speaker-malfunction-in-windows-11-here-are-solutions-to-restore-the-sound/"><u>HP Laptop Speaker Malfunction in Windows 11? Here Are Solutions to Restore the Sound!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-redmi-k70-pro-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi Redmi K70 Pro</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-motorola-razr-40-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Motorola Razr 40 Phone? | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/mastering-the-art-of-instagram-video-sharing-for-2024/"><u>Mastering the Art of Instagram Video Sharing for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-bose-speakers-expert-advice-on-dealing-with-non-operational-devices/"><u>Reviving Your Bose Speakers: Expert Advice on Dealing with Non-Operational Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-for-non-functional-razer-barracuda-x-mic-on-windows-1110-systems/"><u>Troubleshooting Guide for Non-Functional Razer Barracuda X Mic on Windows 11/10 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-2024-guide-solving-your-speakers-latency-problem/"><u>Ultimate 2024 Guide: Solving Your Speaker's Latency Problem</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-the-ultimate-list-of-virtual-journeys-by-channel/"><u>2024 Approved The Ultimate List of Virtual Journeys, By Channel</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-voyage-to-viral-fame-crafting-high-quality-content-as-a-travel-vlogger/"><u>2024 Approved Voyage to Viral Fame Crafting High-Quality Content as a Travel Vlogger</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-calls-are-silent-on-cod-vanguard-restore-your-voice-chat/"><u>Fixing the Issue: Calls Are Silent on Cod: Vanguard - Restore Your Voice Chat</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-why-your-discord-voice-call-isnt-connecting/"><u>Fixing the Issue: Why Your Discord Voice Call Isn't Connecting</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-change-the-microsoft-account-administrator-name-in-windows-11/"><u>How to Change the Microsoft Account Administrator Name in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-realtek-hd-audio-controller-wont-launch-complete-solution/"><u>How to Fix Realtek HD Audio Controller Won't Launch – Complete Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-reappear-headphone-options-on-your-device-list-after-upgrading-to-windows-11/"><u>How to Reappear Headphone Options on Your Device List After Upgrading to Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-3-simple-free-methods-to-infuse-music-into-mobile-video-creations-on-iphones/"><u>In 2024, 3 Simple, Free Methods to Infuse Music Into Mobile Video Creations on iPhones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-multiframe-view-microsoft-edges-pip/"><u>Mastering Multiframe View Microsoft Edge's PIP</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-cropping-and-resizing-images-in-final-cut-pro-x-made-easy/"><u>New In 2024, Cropping and Resizing Images in Final Cut Pro X Made Easy</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/schnell-sichern-sie-ihre-alte-oder-neue-dvd-kopien-in-5-minuten-garantiert-ohne-bild-und-tonqualitatseinbussen/"><u>Schnell Sichern Sie Ihre Alte Oder Neue DVD-Kopien in 5 Minuten - Garantiert Ohne Bild- Und Tonqualitätseinbußen</u></a></li>
 </ul></div>
 

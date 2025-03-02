@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Restoring Mic Functionality During Sea of Thieves Gameplay (PC)"
-date: 2025-02-07T08:51:54.913Z
-updated: 2025-02-11T04:10:56.167Z
+date: 2025-02-25T02:29:31.616Z
+updated: 2025-03-01T17:35:36.349Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -52,17 +48,9 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
   
 ![turn on app permissions on your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/turn-on-app-permissions-for-your-micropho0ne.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Under the**Allow apps to access your microphone** section, make sure it’s turned**On** .  
   
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Once you’ve allowed microphone access to your apps, you can change the settings for each app. Simply head to the**Choose which Microsoft apps can access your microphone** , and turn on apps you want to use with it. For desktop apps, make sure that**Allow desktop apps to access your microphone** is turned**On** .
 
@@ -78,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under the**Input** section, make sure that your headset is showing. Then click**Device Properties** .  
   
 ![sound settings input section](https://images.drivereasy.com/wp-content/uploads/2021/02/Input-section-1.png)
@@ -89,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
  3) Make sure that your headset is not disabled.  
   
 ![make sure your headset isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/02/make-sure-your-headset-isnt-disabled.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After you’ve confirmed that your microphone is enabled, do a test to check if it’s now back to normal. If the microphone is still not working properly, try the next fix below.
 
@@ -117,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
  When it’s all done, use your microphone to check if it’s working now. If you’re still having the same problem, try the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Update your audio driver
 
@@ -174,19 +150,22 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-premier-auditory-options-for-iphones/"><u>[New] 2024 Approved Premier Auditory Options for iPhones</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-key-strategies-in-livestreaming-major-sporting-contests/"><u>[New] Key Strategies in Livestreaming Major Sporting Contests</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-embark-into-the-best-youtube-vr-content-ever/"><u>[Updated] 2024 Approved Embark Into the Best YouTube VR Content Ever</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-voice-change-masters-the-hottest-chromebook-extensions-for-you/"><u>[Updated] In 2024, Voice Change Masters The Hottest Chromebook Extensions for You</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-millionaires-motto-attain-1000-followers-every-month/"><u>[Updated] The Millionaire’s Motto Attain 1,000 Followers Every Month</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/clearing-up-distorted-sounds-in-windows-operating-systems-tips-for-windows-10-and-7-users/"><u>Clearing Up Distorted Sounds in Windows Operating Systems: Tips for Windows 10 & 7 Users</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/elevating-roi-by-mastering-the-craft-of-fb-animated-advertising-for-2024/"><u>Elevating ROI by Mastering the Craft of FB Animated Advertising for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-fixing-problems-when-connecting-via-steam-voice-chat/"><u>Expert Tips for Fixing Problems When Connecting Via Steam Voice Chat</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-back-to-chatting-a-guide-to-fixing-your-malfunctioning-corsair-hs60-headset-mic/"><u>Get Back to Chatting: A Guide to Fixing Your Malfunctioning Corsair HS60 Headset Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-speaker-distortion-on-windows-117-a-step-by-step-guide/"><u>How to Fix Speaker Distortion on Windows 11/7: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-of-non-working-corsair-headsets-tips-and-solutions/"><u>How to Restore Functionality of Non-Working Corsair Headsets - Tips & Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-solve-headphones-dont-work-error-in-windows-7-systems/"><u>How to Solve 'Headphones Don't Work' Error in Windows 7 Systems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-fitbit-charge-6-wearable-tracker/"><u>In-Depth Analysis: Fitbit Charge 6 Wearable Tracker</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-celebrating-the-best-top-stop-motion-films-of-all-times/"><u>[Updated] 2024 Approved Celebrating the Best Top Stop-Motion Films of All Times</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-building-a-billion-view-empire-your-step-by-step-youtube-strategy/"><u>[Updated] In 2024, Building a Billion-View Empire Your Step-by-Step Youtube Strategy</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-visionaries-of-synthetic-environment-tech/"><u>2024 Approved Visionaries of Synthetic Environment Tech</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/profi-tipps-zur-erfolgreichen-datenwiederherstellung-auf-dem-computer-losungen-fur-den-fall-von-bootvorgangen/"><u>Profi-Tipps Zur Erfolgreichen Datenwiederherstellung Auf Dem Computer – Lösungen Für Den Fall Von Bootvorgängen</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/rapid-windows-revision-techniques-explored-for-2024/"><u>Rapid Windows Revision Techniques Explored for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-resolving-squad-mic-problems-tips-and-tricks-players/"><u>The Ultimate Guide to Resolving Squad Mic Problems - Tips & Tricks Players</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tips-for-fixing-no-sound-issues-on-toshiba-notebooks-effectively/"><u>Tips for Fixing No Sound Issues on Toshiba Notebooks Effectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-5-solutions-to-resolve-audio-problems-in-windows-11/"><u>Top 5 Solutions to Resolve Audio Problems in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-with-ease-overcoming-the-test-sound-production-obstacle/"><u>Troubleshoot with Ease: Overcoming the ‘Test Sound Production’ Obstacle</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-silent-airpods-despite-being-linked-to-windows-1110-devices/"><u>Troubleshooting Guide: Resolving Silent AirPods Despite Being Linked to Windows 11/10 Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silence-solving-the-heartbleed-card-games-audio-problem/"><u>Troubleshooting Silence: Solving the Heartbleed Card Game's Audio Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-speaker-distortion-issues-on-windows-117-solutions-inside/"><u>Troubleshooting Speaker Distortion Issues on Windows 11/7 - Solutions Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-successfully-starting-realtek-hd-soundmanager/"><u>Troubleshooting Steps for Successfully Starting Realtek HD SoundManager</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-success-how-to-eliminate-exit-code-0-error-in-minecraft/"><u>Troubleshooting Success: How to Eliminate Exit Code 0 Error in Minecraft</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-unlocking-the-secrets-of-professional-digital-photography-with-8-key-strategies/"><u>Ultimate Guide: Unlocking the Secrets of Professional Digital Photography with 8 Key Strategies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-crossfade-audio-transitions-for-2024/"><u>Understanding Crossfade Audio Transitions for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmasking-impostors-the-role-of-attention-notation-in-ai-dialogue/"><u>Unmasking Impostors: The Role of Attention Notation in AI Dialogue</u></a></li>
 </ul></div>
 

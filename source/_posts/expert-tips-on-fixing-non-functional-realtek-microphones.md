@@ -1,7 +1,7 @@
 ---
 title: Expert Tips on Fixing Non-Functional Realtek Microphones
-date: 2025-02-06T04:47:56.799Z
-updated: 2025-02-11T08:30:37.452Z
+date: 2025-02-27T08:54:21.140Z
+updated: 2025-03-01T20:00:12.736Z
 tags:
   - win11
   - win10
@@ -36,10 +36,6 @@ Hey, buddy, can you hear me?
 4. **[Allow apps to access your mic (Windows 10)](https://www.drivereasy.com/knowledge/fortnite-mic-not-working-fixed/#m2)**
 5. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Set your microphone as your default device
 
  Many players got their mic working in Fortnite by**setting their microphone as the default recording device** on PC. You can follow these steps to try fixing your Fortnite mic not working issue:
@@ -55,20 +51,12 @@ Hey, buddy, can you hear me?
    ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88b6b121fbd.jpg)
 2. Close Fortnite.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. **Right-click** the volume icon in the bottom-right part of your screen, then select **Sounds.** \>>If you are using Windows 11, it will be Settings > System > Sound > More sound settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88bde6a8295.jpg)
 4. Click the**Recording** tab.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf478c5ca3c.jpg)
 5. **Right-click** on the device you want to use, and select**Set as Default Device** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf47aa5ad97.jpg)  
 **Note:** You can try**speaking into your microphone** to test if it’s working properly. If it is, you should see a green bar rising next to it while you talk.  
@@ -104,10 +92,6 @@ Hey, buddy, can you hear me?
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3: Restart the Windows Audio service
 
  Another solution to your **Fortnite mic not working** problem would be **restarting the Windows Audio service** :
@@ -119,10 +103,6 @@ Hey, buddy, can you hear me?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf52397a39c.jpg)
 4. **Close** the Services window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. **Relaunch** Fortnite to see if your mic is working now.
 
@@ -139,23 +119,11 @@ Hey, buddy, can you hear me?
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf490b0f096.jpg)
 3. In the left pane, click **Microphone** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88ebcdd1f01.jpg)
 4. In the right pane, click the**Change** button, and you’ll see your mic is turned on. Also make sure**All apps to access your microphone** is enabled:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf492ca1d0f.jpg)
 5. In the section of**Choose which apps can access your microphone** , verify that**Fortnite is turned on** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Test in Fortnite.
 
@@ -167,10 +135,6 @@ Hey, buddy, can you hear me?
 3. Toggle on **Microphone access** and **Let apps access your microphone** .  
 
 ![windows 11 - Make sure apps have access to your microphone](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Microphone-access-and-Let-apps-access-your-microphone-On.jpg)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Also, make sure that you toggle on **Let desktop apps access your microphone** .  
 
@@ -213,19 +177,20 @@ Enjoy your game!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-exclusive-review-top-10-budget-friendly-video-meetup-apps-for-companies-and-schools/"><u>[New] Exclusive Review Top 10 Budget-Friendly Video Meetup Apps for Companies & Schools</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-instagram-images-deciphered-your-source-hunting-companion-for-2024/"><u>[New] Instagram Images Deciphered Your Source Hunting Companion for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-leveraging-the-power-of-movie-maker-in-windows-8-for-professional-results/"><u>[Updated] In 2024, Leveraging the Power of Movie Maker in Windows 8 for Professional Results</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-masterful-zoom-techniques-simple-iphone-solutions/"><u>[Updated] Masterful Zoom Techniques Simple iPhone Solutions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-10-best-practices-for-boosting-srt-on-pc-and-macos/"><u>2024 Approved 10 Best Practices for Boosting SRT on PC & macOS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/astro-a50-audio-problems-solved-repairing-mic-functionality/"><u>Astro A50 Audio Problems Solved: Repairing Mic Functionality</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-the-f1-2021-game-crashes-effective-solutions-for-pc-players/"><u>Fix the F1 2021 Game Crashes: Effective Solutions for PC Players</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-in-game-voice-chat-problems-in-wow-a-comprehensive-guide/"><u>Resolving In-Game Voice Chat Problems in WOW - A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-audio-expert-advice-on-fixing-rust-mic-issues-in-202eby/"><u>Revive Your Audio: Expert Advice on Fixing Rust Mic Issues in 202Eby</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-the-sounds-of-apex-legends-essential-tips-for-overcoming-no-sound-issues/"><u>Reviving the Sounds of Apex Legends - Essential Tips for Overcoming No Sound Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/tech-guide-uninstalling-the-microsoft-store/"><u>Tech Guide: Uninstalling the Microsoft Store</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-experts-guide-to-interactive-instagram-stories-polling/"><u>The Expert's Guide to Interactive Instagram Stories Polling</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/transforming-texts-in-notepadplusplus-replacing-symbols-with-newline-functionality/"><u>Transforming Texts in Notepad++: Replacing Symbols with Newline Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-squads-non-responsive-mic-the-latest-2024-solutions/"><u>Troubleshooting Your Squad's Non-Responsive Mic: The Latest 2024 Solutions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-linux-users-guide-best-8-screenshot-apps/"><u>[New] In 2024, Linux Users Guide Best 8 Screenshot Apps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-never-compromise-on-security-try-our-list-of-top-10-secure-free-video-calling-apps/"><u>[New] In 2024, Never Compromise on Security – Try Our List of Top 10 Secure, Free Video Calling Apps</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-conveniently-connect-with-others-via-your-playlist/"><u>[Updated] 2024 Approved Conveniently Connect with Others via Your Playlist</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-stepwise-steps-to-install-windows-movie-maker-6/"><u>[Updated] In 2024, Stepwise Steps to Install Windows Movie Maker 6</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-15-leading-influencers-in-the-stock-market-realm/"><u>2024 Approved The 15 Leading Influencers in the Stock Market Realm</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-for-hp-photosmart-7520-printer-driver-quick-setup-guide/"><u>Download for HP Photosmart 7520 Printer Driver - Quick Setup Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-to-follow-tips-to-get-your-astro-a20-headset-microphone-working-again/"><u>Easy-to-Follow Tips to Get Your Astro A20 Headset Microphone Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-non-working-logitech-g230-mic-a-step-by-step-guide/"><u>Effective Fixes for Non-Working Logitech G230 Mic: A Step-by-Step Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/enhancing-video-file-integrity-in-mac-and-windows/"><u>Enhancing Video File Integrity in MAC & WINDOWS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-system-boost-your-pcs-speaker-output-in-windows-10/"><u>Fixing Silent System: Boost Your PC's Speaker Output in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-systems-a-guide-to-reinstating-nvidia-high-definition-audio-functionality/"><u>Fixing Silent Systems: A Guide to Reinstating Nvidia High Definition Audio Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-sound-issues-on-new-world-strategies-and-techniques-to-enhance-your-gaming-experience/"><u>Fixing Sound Issues on 'New World': Strategies and Techniques to Enhance Your Gaming Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-persistent-speaker-distortion-on-windows-11-and-7-a-complete-guide/"><u>Fixing the Persistent Speaker Distortion on Windows 11 and 7: A Complete Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-overcome-hdmi-usage-issues-with-multiple-running-applications/"><u>How to Overcome HDMI Usage Issues with Multiple Running Applications</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-civi-3-disney-100th-anniversary-edition-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Civi 3 Disney 100th Anniversary Edition to iPhone XS/11 | Dr.fone</u></a></li>
 </ul></div>
 

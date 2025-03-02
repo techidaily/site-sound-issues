@@ -1,7 +1,7 @@
 ---
 title: How to Restore Functionality of Your Runmus Gaming Headset's Microphone
-date: 2024-08-18T08:06:38.158Z
-updated: 2024-08-19T08:06:38.158Z
+date: 2025-02-27T10:55:36.141Z
+updated: 2025-03-02T10:12:42.144Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/17e5357e78d53548c97f4d85021e25770f5faa06f
 
 Corsair Virtuoso gaming headset is not working properly? If you can’t be heard on the microphone, you can follow the troubleshooting steps in this post.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. [**Make sure you use the right ports**](https://tools.techidaily.com/drivereasy/download/)
@@ -41,14 +38,8 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 1. In the notification area, right-click the volume icon and select**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 2. Go to the**Recording** tab and set your headset as the default device. Your device should be displayed as**Corsair Virtuoso** and shows strong signals when you speak.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
 3. Right-click your**Corsair Virtuoso** and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
 4. Go to the**Levels** tab and drag the slider to a proper volume.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
@@ -56,9 +47,6 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 
  Now you can test your microphone by recording your own voice using some voice apps such as Voice Recorder. If the Virtuoso mic works now, you can just join a league and enjoy talking with your teammates. But if the Corsaire mic is still not working, you can try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Re-installing drivers
 
  If your Virtuoso microphone not working issue persists, the problem might be in the drivers. Many users find re-installing/updating audio drivers makes their Virtuoso work again.
@@ -71,9 +59,6 @@ There are mainly two ways for you to do this:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now.jpg)
 3. Click the**Update** button next to the flagged**Corsaire Virtuoso** driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
@@ -92,26 +77,17 @@ There are mainly two ways for you to do this:
 1. Right-click the Volume icon in the notification area, and select**Open Sound settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings.jpg)
 2. In the**Input** section, click**Device properties** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/device.jpg)
 3. Click**Additional device properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/additional.jpg)
 4. Go to the**Advanced** tab, and select**DVD Quality** in the**Default Format** section. ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-format.jpg)
 5. Click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 5\. Let Windows find the problem for you
 
  The Windows built-in sound troubleshooter may help you out of this Virtuoso microphone not working issue. Although this method has varying success, you can try this simple troubleshooting and see if it does the trick.
 
 1. Right-click the volume button in the notification area, and select**Troubleshoot sound problems** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/troubleshoot.jpg)
 2. Follow the instructions given in the popped-up Help window.
 3. You may need to restart your computer for the changes to take effect.
@@ -130,8 +106,6 @@ There are mainly two ways for you to do this:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +113,21 @@ There are mainly two ways for you to do this:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-discover-the-art-of-curating-music-on-youtube-with-our-steps-for-2024/"><u>[Updated] Discover the Art of Curating Music on YouTube with Our Steps for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-leading-8-digital-image-composition-tool-for-2024/"><u>[Updated] Leading 8 Digital Image Composition Tool for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-step-into-the-limelight-creating-an-authentic-self-replica-on-tiktok-for-2024/"><u>[Updated] Step Into the Limelight Creating an Authentic Self-Replica on TikTok for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-future-of-mobile-entertainment-is-here-discover-the-best-49-free-compression-tools/"><u>2024 Approved The Future of Mobile Entertainment Is Here Discover the Best 49 Free Compression Tools</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210425369-9781838385514-arthur-and-me/"><u>Arthur and me 亚瑟与我 | Free Book</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhanced-user-experience-with-advanced-tracking-technology/"><u>Enhanced User Experience with Advanced Tracking Technology</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-and-restore-mic-functionality-during-google-meet-sessions-on-windows-11-and-10/"><u>Fix and Restore Mic Functionality During Google Meet Sessions on Windows 11 & 10</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016117555-logitech-g533-microphone-problems-heres-a-step-by-step-solution-for-you/"><u>Logitech G533 Microphone Problems? Here’s a Step-by-Step Solution for You!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g633-not-transmitting-audio-heres-how-you-can-repair-it/"><u>Logitech G633 Not Transmitting Audio? Here's How You Can Repair It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/phasmophobia-voice-chat-error-solutions-and-fixes-at-hand/"><u>Phasmophobia Voice Chat Error: Solutions and Fixes at Hand</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-reviews-join-us-at-toms-tech-forum/"><u>Pioneering Hardware Reviews: Join Us at Tom's Tech Forum</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protecting-your-data-with-chatgpt-a-closer-look-at-6-critical-security-risks/"><u>Protecting Your Data with ChatGPT: A Closer Look at 6 Critical Security Risks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-found-resolving-issues-with-your-laptops-sound-system/"><u>Solution Found: Resolving Issues with Your Laptop's Sound System</u></a></li>
+</ul></div>
 

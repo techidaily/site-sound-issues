@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Resolving Issues with Your Inactive Turtle Beach Recon 70 Mic"
-date: 2024-08-18T08:04:55.984Z
-updated: 2024-08-19T08:04:55.984Z
+date: 2025-02-27T04:40:17.437Z
+updated: 2025-03-01T16:38:13.960Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/c0dd113ef640e63463952867f5a2b0cf9994895a1
 
 Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arctis Pro has no sound or the mic is not working, we’ve put together all the troubleshooting methods for you in our post.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Why your headset mic is not working
 
  The reasons why your SteelSeries Arctis Pro has mic problems are listed below:
@@ -31,9 +27,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * The sound card driver is outdated/corrupted
 * Your microphone cannot access your device
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to fix your mic issues
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -60,16 +53,10 @@ Here’s how to do it:
 
  1) In the Windows Search box, type**microphone,** and select**Microphone privacy settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/privacy.png)
 
  2) Please be sure to turn on “**Allow access to the microphone on this device** ” and “**Allow apps to access your microphone** “.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image.png)
 
  3) Scroll down to allow microphone access for the Microsoft apps and desktop apps.
@@ -94,9 +81,6 @@ Here’s how to do it:
 
  4) Make sure your Actis Pro is**Enabled** (shows a green checkmark) and set it as the**Default Device** . If not, you can right-click it and select**Set as Default Device** and**Set as Default Communication Device** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-5.png)
 
  In your VoIP application, select Actis Pro Chat Audio as the default audio device.
@@ -105,9 +89,6 @@ Here’s how to do it:
 
  6) Click the **Levels**  tab, and drag the slider to a proper volume.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-4.png)
 
  7) Also go to the**Enhancements** tab, and check the box Disable all sound effects.
@@ -132,14 +113,6 @@ Here’s how to do it:
 
  3) Click the**Activate & Update** button next to the headset to download the latest and correct driver for it.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/SteelSeries-Apex-Pro.jpg)
 
  You can also click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)
@@ -153,9 +126,6 @@ Here’s how to do it:
 
  1) On your keyboard, press the **Windows logo** key and the **R** key at the same time to open the Run box.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
@@ -186,8 +156,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +163,24 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-simple-path-your-guide-to-convert-youtube-audio-on-mac/"><u>[Updated] Simple Path Your Guide to Convert YouTube Audio on Mac</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-exclusive-insights-elevating-your-mobizen-screencast-game/"><u>2024 Approved Exclusive Insights Elevating Your Mobizen Screencast Game</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-multimedia-text-producer/"><u>2024 Approved Multimedia Text Producer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/crack-the-code-to-crystal-clear-sounds-in-cod-warzone-pc-solutions/"><u>Crack the Code to Crystal Clear Sounds in COD: Warzone - PC Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhance-your-listening-experience-by-turning-off-enhanced-audio-settings-in-windows-10/"><u>Enhance Your Listening Experience by Turning Off Enhanced Audio Settings in Windows 10</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/essential-web-capture-gadgets-for-pcs-for-2024/"><u>Essential Web-Capture Gadgets for PCs for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-and-solutions-how-to-resolve-discord-voice-communication-issues/"><u>Fixes & Solutions: How to Resolve Discord Voice Communication Issues</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722969514387-get-your-free-hp-laserprinter-drivers-for-windows-7-here/"><u>Get Your Free HP LaserPrinter Drivers for Windows 7 Here!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functional-mic-in-your-sony-wh-1000xm34-headphones-when-connected-to-pc/"><u>How to Fix a Non-Functional Mic in Your Sony WH-1000XM3/4 Headphones When Connected to PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-skype-messages-not-sending-solved/"><u>How to Fix Skype Messages Not Sending [Solved]</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-share-apple-iphone-13-screen-with-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Share Apple iPhone 13 Screen with PC | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-dealing-with-zoom-audio-problems-on-pc-windows-1110/"><u>Solution Guide: Dealing with Zoom Audio Problems on PC (Windows 11/10)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/speedy-snapshot-and-voice-guided-session-creator-for-2024/"><u>Speedy Snapshot & Voice-Guided Session Creator for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-tech-picks-showdown-comparing-apple-vs-dell-and-beyond-zdnet-analysis/"><u>Top Tech Picks Showdown: Comparing Apple Vs. Dell and Beyond | ZDNet Analysis</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016989128-troubleshooting-g435-bluetooth-earbuds-with-no-audio-output-solutions-inside/"><u>Troubleshooting G435 Bluetooth Earbuds with No Audio Output - Solutions Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-mute-settings-enabling-audio-in-cyberpunk-2077-on-window-11/"><u>Troubleshooting Mute Settings: Enabling Audio in Cyberpunk 2077 on Window 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017033993-troubleshooting-speaker-distortion-issues-on-windows-117-solutions-inside/"><u>Troubleshooting Speaker Distortion Issues on Windows 11/7 - Solutions Inside!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Easily Fix Unresponsive Sound Output: Managing Speaker and Headphone Detection in Windows Operating Systems (Windows 11/8/7)"
-date: 2024-12-18T19:13:29.966Z
-updated: 2024-12-25T18:07:30.435Z
+date: 2025-02-28T13:08:21.579Z
+updated: 2025-03-02T08:07:37.675Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 1, make sure your speakers are not the problem
 
@@ -56,10 +52,6 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a37a0193f08b.jpg)
 4. Under **Sound** , click **Adjust system volume** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-24.png)
 5. If the sound is unmuted, move to the next step.
 
@@ -76,10 +68,6 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b11f3def8f1.png)
 2. Highlight**Speakers** or**Speakers /Headphones** and click**Set Default** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/set-as-default.jpg)
 
  If you don’t see the speakers in the device list, it may be disabled. In this case, right-click on the blank area and select**Show disabled devices** on the context menu.
@@ -89,10 +77,6 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
  After it is listed, right-click on the speakers and click**Enable** .
 
 ![enable speakers](https://images.drivereasy.com/wp-content/uploads/2016/08/enable-speakers.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The problem also can be caused by outdated or missing audio drivers. So try to fix audio drivers.
 
@@ -106,10 +90,6 @@ Follow these steps:
 3. In Device Manager, double-click**Sound, video and game controllers** and right-click your sound card. A context menu will pop up. Then select**Uninstall** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
 4. Tick the box for**Delete the driver software for this device** and click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
 5. Reboot your PC and check to see if the problem is resolved.
@@ -125,18 +105,10 @@ Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Hope the above helps to solve your speakers’ no sound issue in Windows 10\. If you have any other suggestions, please leave a comment below.
 
@@ -155,18 +127,21 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-discover-your-preferred-music-experience-top-6-android-music-video-apps/"><u>[Updated] In 2024, Discover Your Preferred Music Experience - Top 6 Android Music Video Apps</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-what-you-need-to-know-about-macos-big-sur-for-2024/"><u>[Updated] What You Need to Know About MacOS Big Sur for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-your-captions-the-top-10-precision-subtitle-editors/"><u>2024 Approved Master Your Captions The Top 10 Precision Subtitle Editors</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-audio-issues-in-windows-step-by-step-troubleshooting-for-a-silent-pc/"><u>Fixing Audio Issues in Windows: Step-by-Step Troubleshooting for a Silent PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-sound-problems-on-the-g435-headset-effective-solutions-inside/"><u>Fixing Sound Problems on the G435 Headset – Effective Solutions Inside!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-get-your-razer-man-o-war-microphone-functional-again/"><u>Fixing the Issue: How to Get Your Razer Man O' War Microphone Functional Again</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/video-to-music-selecting-the-cheapest-online-converters/"><u>From Video to Music Selecting the Cheapest Online Converters</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/runmus-gaming-headset-microphone-woes-heres-how-you-can-get-it-working-again/"><u>Runmus Gaming Headset Microphone Woes? Here's How You Can Get It Working Again!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-common-issues-with-the-logitech-g230-microphone-fixed/"><u>Solving Common Issues with the Logitech G230 Microphone [FIXED]</u></a></li>
-<li><a href="https://win-great.techidaily.com/top-5-methoden-zur-behebung-von-iphones-sicherungsfehler-nr-54-eine-einfache-anleitung/"><u>Top 5 Methoden Zur Behebung Von iPhones Sicherungsfehler Nr. 54: Eine Einfache Anleitung</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/transform-your-home-office-how-the-hp-copilotplus-boosts-remote-work-efficiency-insights-from-zdnet/"><u>Transform Your Home Office: How the HP Copilot+ Boosts Remote Work Efficiency | Insights From ZDNET</u></a></li>
-<li><a href="https://win-forum.techidaily.com/troubleshooting-tips-how-to-rollback-windows-11-updates/"><u>Troubleshooting Tips: How To Rollback Windows 11 Updates</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/warzone-voice-communication-trouble-solve-microphoneaudio-problems-for-both-pc-and-consoles/"><u>Warzone Voice Communication Trouble? Solve Microphone/Audio Problems for Both PC and Consoles</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-a-step-by-step-approach-to-rl-streaming/"><u>[New] 2024 Approved A Step-by-Step Approach to RL Streaming</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-editing-excellence-sports-videos-that-stand-out/"><u>[New] 2024 Approved Editing Excellence Sports Videos That Stand Out</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-essential-chromes-leading-fb-video-grabs/"><u>[New] 2024 Approved Essential Chromes Leading FB Video Grabs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-prime-performance-best-windows-player-apps-reviewed/"><u>[New] In 2024, Prime Performance Best Windows Player Apps Reviewed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-best-gamers-streaming-tools-for-2024/"><u>[Updated] Best Gamers' Streaming Tools for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-speedy-audio-on-phone-ultimate-list-of-tools/"><u>2024 Approved Speedy Audio on Phone Ultimate List of Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-voice-communication-in-fortnite-simple-solutions-inside/"><u>How to Restore Voice Communication in Fortnite - Simple Solutions Inside</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-mastering-fbs-look-back-feature-edit-tutorial/"><u>In 2024, Mastering FB's Look Back Feature Edit Tutorial</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/nanograbby-evaluation-of-tiny-screen-captures/"><u>NanoGrabby Evaluation of Tiny Screen Captures</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/nvidia-not-plugged-in-discover-effective-fixes-for-seamless-performance/"><u>Nvidia Not Plugged In? Discover Effective Fixes for Seamless Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-audio-problems-a-guide-to-making-your-logitech-g935-work-with-windows-systems/"><u>Overcome Audio Problems: A Guide to Making Your Logitech G935 Work with Windows Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-for-loud-popping-in-your-earbuds-expert-advice/"><u>Quick Fix for Loud Popping in Your Earbuds: Expert Advice!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-razer-barracuda-xs-microphone-expert-advice-for-quick-wins-on-windows-10-and-11/"><u>Revive Your Razer Barracuda X's Microphone: Expert Advice for Quick Wins on Windows 10 and 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-found-re-enable-voice-chat-in-co-op-game-back-4-blood/"><u>Solution Found: Re-Enable Voice Chat in Co-Op Game 'Back 4 Blood'</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-silent-usb-headphones-on-your-windows-7-pc-proven-fixes-and-tips/"><u>Solving Silent USB Headphones on Your Windows 7 PC - Proven Fixes and Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/whats-new-with-the-samsung-z-fold4-pricing-release-timeline-and-specifications/"><u>What's New with the Samsung Z Fold4? Pricing, Release Timeline & Specifications</u></a></li>
 </ul></div>
 

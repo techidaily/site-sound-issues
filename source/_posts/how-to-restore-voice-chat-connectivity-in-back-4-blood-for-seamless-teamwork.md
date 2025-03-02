@@ -1,7 +1,7 @@
 ---
 title: How to Restore Voice Chat Connectivity in 'Back 4 Blood' For Seamless Teamwork
-date: 2024-08-23T12:10:10.792Z
-updated: 2024-08-24T12:10:10.792Z
+date: 2025-02-25T13:24:29.963Z
+updated: 2025-03-01T21:56:27.715Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/0b17306a3ff43a3354c035a000988ea5867c75fb6
 
 ## Corsair HS60 Mic Issues? Here's How to Restore Your Voice Chat Functionality
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/corsair-hs60-1024x1024.jpg)
 
  Many**Corsair HS60** users are reporting that their headset **microphone** is not working properly. They can’t talk to people on the headset microphone.
@@ -38,69 +35,26 @@ thumbnail: https://thmb.techidaily.com/0b17306a3ff43a3354c035a000988ea5867c75fb6
  You should allow your Windows 10 system and your application to access your headset microphone before you can use it. To check this:
 
 1. Press the **Windows logo key** + **I** together. Then click **Privacy** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-7-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Click **Microphone** in the left panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.1-2.jpg)
 3. Click the **Change** button, then make sure the**Microphone for this device** is turned **on** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.2-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 4. Make sure **Allow apps to access your microphone** is turned **on** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.3.jpg)
 
  Hopefully, this method can fix your microphone issue. But if not, you can try the next method.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Check your microphone device settings
 
  Your Corsair HS60 mic may be disabled or not set as the default device on your computer. Or the microphone volume is set to a very low value so it can’t record your sound clearly. Check these settings:
 
 1. **Hold down the Windows logo** **key**  and**the R** **key**  on your keyboard at the same time to bring up the Run dialog, then type “ _**control** **panel**_  ” and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel1-1.jpg)
 2. In Control Panel, select Large icons from the View by drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-12.jpg)
 3. Select **Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-10.jpg)
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Select the Recording tab, then right-click on any empty place inside the device list and tick **Show Disabled Devices** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dc36f136c6.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 5. Right-click the Headset Microphone and click Enable.![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4daac96f5e7.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 6. Right-click it again and select Set as Default Device.![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Right-click **Headset Microphone** and click **Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
 8. Click the **Levels** tab, then drag the volume slider towards the _largest value_ .![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4db71801655.jpg)
 9. Click **OK** , then click **OK** .
@@ -109,9 +63,6 @@ thumbnail: https://thmb.techidaily.com/0b17306a3ff43a3354c035a000988ea5867c75fb6
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Update your audio drivers
 
  The mic on your Corsair HS60 headset won’t work if you’re using incorrect or outdated audio or headset driver. So you should update the driver to see if that fixes the issue.
@@ -151,8 +102,6 @@ thumbnail: https://thmb.techidaily.com/0b17306a3ff43a3354c035a000988ea5867c75fb6
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +109,26 @@ thumbnail: https://thmb.techidaily.com/0b17306a3ff43a3354c035a000988ea5867c75fb6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-elite-assortment-advanced-webcam-mounts/"><u>[New] In 2024, Elite Assortment Advanced Webcam Mounts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-iphone-lens-magic-the-ultimate-10-composition-techniques/"><u>[New] IPhone Lens Magic The Ultimate 10 Composition Techniques</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/20-common-video-mistakes-and-how-to-correct-them/"><u>20 Common Video Mistakes & How to Correct Them</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016929962-expert-fixes-for-non-functional-mic-and-speakers-in-sea-of-thieves-gaming-optimize-your-experience/"><u>Expert Fixes for Non-Functional Mic and Speakers in Sea of Thieves Gaming – Optimize Your Experience!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-sound-back-a-step-by-step-guide-to-fixing-modern-warfares-voice-chat-issues/"><u>Getting Your Sound Back: A Step-by-Step Guide to Fixing Modern Warfare's Voice Chat Issues</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-infinix-note-30-easily-by-drfone-android/"><u>How To Unlock a Infinix Note 30 Easily?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-samsung-galaxy-s23-fe-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Samsung Galaxy S23 FE Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-motion-clearer-captures/"><u>In 2024, Mastering Motion Clearer Captures</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfected-pixelated-photos-follow-the-10-key-composition-guidelines/"><u>Perfected Pixelated Photos Follow the 10 Key Composition Guidelines</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-sound-interruptions-in-windows-11-a-comprehensive-fix-guide/"><u>Resolving Sound Interruptions in Windows 11: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-audio-quality-enhancing-speakers-on-a-windows-10-device/"><u>Reviving Audio Quality: Enhancing Speakers on a Windows 10 Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/speeding-up-saved-time-optimizing-and-reviving-slow-computers-in-minutes/"><u>Speeding Up Saved Time: Optimizing and Reviving Slow Computers in Minutes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-the-oneplus-11-insights-from-a-yearlong-experience-for-pricing-similarity/"><u>The Ultimate Guide to the OnePlus 11 – Insights From a Yearlong Experience (for Pricing Similarity)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-audio-malfunctions-on-windows-11-effective-tips-for-immediate-results/"><u>Troubleshoot and Fix Audio Malfunctions on Windows 11 - Effective Tips for Immediate Results</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-phasmophobias-malfunctioning-voice-chat-feature/"><u>Troubleshooting Steps for Phasmophobia's Malfunctioning Voice Chat Feature</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-eliminating-unwanted-humming-noises-from-headphone-audio/"><u>Ultimate Guide: Eliminating Unwanted Humming Noises From Headphone Audio</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-oppo-k11x-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Oppo K11x Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/wired-to-win-addressing-sound-problems-in-cyberpunk-2077-for-gamers-using-windows-11/"><u>Wired to Win: Addressing Sound Problems in Cyberpunk 2077 for Gamers Using Windows 지급소11</u></a></li>
+</ul></div>
 

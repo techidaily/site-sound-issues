@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Audio Glitches in Fortnite: Reactive Measures to Mend Mic Malfunctions"
-date: 2024-12-06T17:16:17.253Z
-updated: 2024-12-10T18:50:33.032Z
+date: 2025-02-27T12:54:14.867Z
+updated: 2025-03-01T23:16:02.433Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -77,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap911.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3.**Turn on** the toggle next to **Auto update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap912.png)
@@ -107,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 
 3\. Run Fortnite to see if chat works now. If not, try Fix 5, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Check your audio settings
 
  Windows and Fortnite both have audio settings, and sometimes things just get a little mixed up. So it can help to reset everything, manually, to clear out the cobwebs. (Kinda like how restarting your PC can sometimes mysteriously resolve problems.) Here is how to do it:
@@ -125,35 +113,19 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap431-1024x576.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 iii. Exit Fortnite.
 
  2\. On your desktop,**right-click** **the speaker icon** at the bottom-right corner, and then select**Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap432.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Click the **Playback** tab, select the speakers/headphones you’re using and click **Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4\. Click the **Recording** tab, select the microphone you’re using and click **Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5\. While still in the**Recording** tab, try**speaking into your microphone** to test if it works properly. If it is, you should see some green in the bar on the right:
 
@@ -164,10 +136,6 @@ iii. Exit Fortnite.
  7\. Run Fortnite again to**turn Voice Chat on.**
 
  Join a squad to check ifchat is now working . If not, try the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Fortnite
 
@@ -210,20 +178,24 @@ iii. Exit Fortnite.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-depth-insight-into-final-cut-pro-editing-for-2024/"><u>[New] In-Depth Insight Into Final Cut Pro Editing for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-twitter-video-requirements-how-to-upload-a-video-on-twitter/"><u>[Updated] Twitter Video Requirements | How to Upload a Video on Twitter?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bring-back-the-buzz-to-your-airpods-solutions-for-when-they-wont-play-audio-in-modern-windows-environments/"><u>Bring Back the Buzz to Your AirPods: Solutions for When They Won't Play Audio in Modern Windows Environments</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/essential-tactics-for-dramatizing-success-stories-through-testimonials-for-2024/"><u>Essential Tactics for Dramatizing Success Stories Through Testimonials for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015681830-how-to-restore-audio-functionality-on-your-windows-11-pc-now-fixed/"><u>How to Restore Audio Functionality on Your Windows 11 PC - Now Fixed</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-vivo-v29-pro-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Vivo V29 Pro? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-5-simple-tricks-for-aspiring-photoshop-editors/"><u>In 2024, 5 Simple Tricks for Aspiring Photoshop Editors</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-fb-video-download-top-5-tools-list/"><u>In 2024, FB Video Download Top 5 Tools List</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/in-2024-transform-your-images-into-engaging-videos-with-these-10-tools/"><u>In 2024, Transform Your Images Into Engaging Videos with These 10 Tools</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723017054667-logitech-g633-headset-not-working-heres-how-to-get-it-up-and-running-again/"><u>Logitech G633 Headset Not Working? Here's How to Get It Up and Running Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-conexant-smartaudio-hds-lack-of-audio-in-windows-11/"><u>Troubleshooting Steps for Conexant SmartAudio HD's Lack of Audio in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-repairing-your-hyperx-cloud-alpha-microphone-issues/"><u>Troubleshooting Tips: Repairing Your HyperX Cloud Alpha Microphone Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/why-isnt-my-hyperx-cloud-stinger-mic-working-expert-advice-and-fixes-for-common-issues/"><u>Why Isn't My HyperX Cloud Stinger Mic Working? Expert Advice and Fixes for Common Issues</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-11-skype-microphone-malfunction-heres-how-to-fix-it/"><u>Windows 11 Skype Microphone Malfunction? Here's How to Fix It</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-ace-choices-top-10-streaming-apps-for-live-soccer-and-football-action-for-2024/"><u>[New] Ace Choices Top 10 Streaming Apps for Live Soccer & Football Action for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-snap-and-save-life-on-mi-11-with-unmatched-screen-quality-for-2024/"><u>[New] Snap and Save Life on Mi 11 with Unmatched Screen Quality for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-dark-moments-bright-shots-a-photographers-nighttime-guide/"><u>[Updated] 2024 Approved Dark Moments, Bright Shots A Photographer’s Nighttime Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-photo-and-video-streaming-from-android-to-iphone/"><u>[Updated] 2024 Approved Photo & Video Streaming From Android to iPhone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/a-craftsmanship-unleashed-youtube-green-screens-101/"><u>Cinema Craftsmanship Unleashed Youtube Green Screens 101</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-out-delays-for-administrator-level-terminals/"><u>Cut Out Delays for Administrator-Level Terminals</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-samsung-galaxy-s23-fe-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Samsung Galaxy S23 FE Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Tecno Pop 8? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-guide-repairing-a-non-functional-corsair-void-mic/"><u>Quick Guide: Repairing a Non-Functional Corsair Void Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-error-when-opening-sound-device-in-audacity-top-5-fixes/"><u>Resolve 'Error When Opening Sound Device' In Audacity: Top 5 Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-windows-10-sound-problems-with-this-step-by-step-guide/"><u>Resolve Your Windows 10 Sound Problems with This Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-mpow-microphone-problems-steps-for-windows-users/"><u>Resolving MPOW Microphone Problems: Steps for Windows Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-mute-woes-fixing-silence-issues-in-world-of-warcraft/"><u>Resolving Mute Woes: Fixing Silence Issues in World of Warcraft</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-lost-sounds-a-step-by-step-guide-to-fixing-laptop-audio/"><u>Revive Lost Sounds: A Step-by-Step Guide to Fixing Laptop Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-ensure-your-games-play-through-loudspeakers-on-discord/"><u>Solved: How to Ensure Your Games Play Through Loudspeakers on Discord</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-functionality-for-a-faulty-logitech-g633-mic/"><u>Solved! How To Restore Functionality For A Faulty Logitech G633 Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-intermittent-bluetooth-audio-problems-on-windows-platforms/"><u>Solving Intermittent Bluetooth Audio Problems on Windows Platforms</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-vivo-y28-5g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Vivo Y28 5G</u></a></li>
+<li><a href="https://win-docs.techidaily.com/understanding-googles-suggestion-engine-insights-explanations-and-masterful-seo-techniques/"><u>Understanding Google's Suggestion Engine: Insights, Explanations, and Masterful SEO Techniques</u></a></li>
 </ul></div>
 

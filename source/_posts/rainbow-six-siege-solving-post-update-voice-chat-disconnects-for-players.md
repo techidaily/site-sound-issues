@@ -1,7 +1,7 @@
 ---
 title: "Rainbow Six Siege: Solving Post-Update Voice Chat Disconnects for Players"
-date: 2025-02-06T20:48:19.257Z
-updated: 2025-02-10T19:05:29.278Z
+date: 2025-02-26T09:06:42.713Z
+updated: 2025-03-02T05:22:20.585Z
 tags:
   - win11
   - win10
@@ -35,19 +35,11 @@ thumbnail: https://thmb.techidaily.com/785001e91f8bbdf4e7474535d4ba50bd393e27994
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Sign out Fortnite, then sign back in
 
  This is the quickest and easiest fix to try when chat’s not working in Fortnite. Just sign out of the game, then sign back in.
 
  Now run the game again and test to see whether chat is working. If it’s not, move on to Fix 2, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your sound card driver
 
@@ -81,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/785001e91f8bbdf4e7474535d4ba50bd393e27994
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap911.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3.**Turn on** the toggle next to **Auto update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap912.png)
@@ -105,23 +93,11 @@ thumbnail: https://thmb.techidaily.com/785001e91f8bbdf4e7474535d4ba50bd393e27994
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap427.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2\. Click **Microphone**  on the left pane, and make sure**Microphone access for this device** is**on** , and the status is **On** for **Fortnite** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap428.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. Run Fortnite to see if chat works now. If not, try Fix 5, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Check your audio settings
 
@@ -155,10 +131,6 @@ iii. Exit Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6\. Click **OK** .
 
  7\. Run Fortnite again to**turn Voice Chat on.**
@@ -176,10 +148,6 @@ iii. Exit Fortnite.
  2\. Click**Uninstall** to uninstall Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap950.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. Restart your PC.
 
@@ -210,19 +178,24 @@ iii. Exit Fortnite.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-expert-review-of-ios-screenshot-software-for-2024/"><u>[Updated] Expert Review of iOS Screenshot Software for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016024620-apex-legends-voice-chat-down-heres-the-solution-to-speak-up-again/"><u>Apex Legends Voice Chat Down? Here's the Solution to Speak Up Again</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/detecting-unregistered-friends-list-for-2024/"><u>Detecting Unregistered Friends List for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/enhancing-system-sounds-a-guide-to-fixing-quiet-computers-in-windows-11/"><u>Enhancing System Sounds: A Guide to Fixing Quiet Computers in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-fixing-laptop-speaker-issues-without-professional-help/"><u>Guide: Fixing Laptop Speaker Issues Without Professional Help</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-14-pro-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 14 Pro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-fact-check-health-information-from-chatgpt-and-ai-sources/"><u>How to Fact-Check Health Information From ChatGPT and AI Sources</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Samsung Galaxy A05? | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-masterpiece-episodes-for-airwaves/"><u>In 2024, Masterpiece Episodes for Airwaves</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-secure-and-slim-storage-cloud-cost-insights/"><u>In 2024, Secure & Slim Storage Cloud Cost Insights</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-kids-win-with-back-and-filter-buttons-feature/"><u>Mondly Kids Win with Back and Filter Buttons Feature</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/navigating-the-fixes-for-your-quiet-corsair-hs70-microphone-woes/"><u>Navigating the Fixes for Your Quiet Corsair HS70 Microphone Woes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-fixing-idt-high-fidelity-sound-codec-in-windows-10/"><u>Step-by-Step Guide: Fixing IDT High-Fidelity Sound Codec in Windows 10</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/step-by-step-setting-up-a-channel-for-streaming/"><u>Step-by-Step Setting up a Channel for Streaming</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-unbeatable-youtube-video-titling-assistant-for-2024/"><u>[New] Unbeatable YouTube Video Titling Assistant for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-cutting-edge-strategies-to-capture-dynamic-audio-in-video-projects/"><u>[Updated] Cutting-Edge Strategies to Capture Dynamic Audio in Video Projects</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-premiere-pro-refinements-for-iphone-hd-video-clarity-and-contrast/"><u>[Updated] In 2024, Premiere Pro Refinements for iPhone HD Video Clarity and Contrast</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/beginners-bliss-how-to-set-up-and-manage-a-podcast-live-stream-easily/"><u>Beginner's Bliss How to Set Up and Manage a Podcast Live Stream Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminating-inconsistent-audio-issues-a-detailed-guide-for-fixing-sound-interruptions-in-windows-11/"><u>Eliminating Inconsistent Audio Issues - A Detailed Guide for Fixing Sound Interruptions in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-restoring-function-to-your-corsair-virtuoso-audio-device/"><u>Expert Advice on Restoring Function to Your Corsair Virtuoso Audio Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-resolving-your-league-of-legends-microphone-failures/"><u>Expert Tips On Resolving Your League Of Legends Microphone Failures</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-silent-systems-expert-tips-for-restoring-sounds-on-windows-or-mac-computers/"><u>Fix Silent Systems: Expert Tips for Restoring Sounds on Windows or Mac Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-cod-vanguard-voice-chat-issues-troubleshooting-steps/"><u>Fixing Cod: Vanguard Voice Chat Issues - Troubleshooting Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-headphones-troubleshooting-sound-issues-on-your-pc-running-windows-10/"><u>Fixing Headphones: Troubleshooting Sound Issues on Your PC Running Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-logitech-g-pro-x-mic-issues-a-comprehensive-guide/"><u>Fixing Logitech G Pro X Mic Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-sennheiser-game-one-microphone-malfunctions-a-step-by-step-guide/"><u>Fixing Sennheiser Game One Microphone Malfunctions - A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-steelseries-arctis-99x-microphone-malfunction-resolved/"><u>Fixing the Issue: SteelSeries Arctis 9/9X Microphone Malfunction Resolved</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-and-update-lenovo-y900-graphics-driver-in-windows-10/"><u>How to Install and Update Lenovo Y900 Graphics Driver in Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-vivo-t2-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Vivo T2 5G</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-iphone-14-pro-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on iPhone 14 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-xiaomi-redmi-note-13-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Xiaomi Redmi Note 13 5G Phone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/prime-day-extravaganza-find-your-dream-tv-among-our-top-65-picks-with-live-prices-insights-from-zdnet/"><u>Prime Day Extravaganza: Find Your Dream TV Among Our Top 65 Picks with Live Prices - Insights From ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-permanently-deleted-or-erased-excel-2016-files-for-free-stellar-by-stellar-guide/"><u>Recover Permanently Deleted or Erased Excel 2016 Files for Free | Stellar</u></a></li>
 </ul></div>
 

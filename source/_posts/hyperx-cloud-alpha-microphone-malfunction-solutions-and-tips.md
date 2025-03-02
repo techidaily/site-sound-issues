@@ -1,7 +1,7 @@
 ---
 title: "HyperX Cloud Alpha Microphone Malfunction: Solutions & Tips"
-date: 2025-02-04T08:20:10.353Z
-updated: 2025-02-11T02:05:26.839Z
+date: 2025-03-01T13:15:03.843Z
+updated: 2025-03-02T01:23:44.353Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. [**Make sure you use the right ports**](https://tools.techidaily.com/drivereasy/download/)
@@ -33,10 +29,6 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 3. [**Re-installing drivers**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Change to DVD quality**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Let Windows find the problem for you**](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Make sure you use the right ports
 
@@ -52,10 +44,6 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 2. Go to the**Recording** tab and set your headset as the default device. Your device should be displayed as**Corsair Virtuoso** and shows strong signals when you speak.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
 3. Right-click your**Corsair Virtuoso** and select**Properties** .  
 
@@ -64,10 +52,6 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 5. Click**OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now you can test your microphone by recording your own voice using some voice apps such as Voice Recorder. If the Virtuoso mic works now, you can just join a league and enjoy talking with your teammates. But if the Corsaire mic is still not working, you can try the next fix below.
 
@@ -102,19 +86,11 @@ There are mainly two ways for you to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings.jpg)
 2. In the**Input** section, click**Device properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/device.jpg)
 3. Click**Additional device properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/additional.jpg)
 4. Go to the**Advanced** tab, and select**DVD Quality** in the**Default Format** section. ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-format.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click**OK** .
 
@@ -151,15 +127,20 @@ There are mainly two ways for you to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-beat-zoom-audio-disruptions-strategic-solutions/"><u>[Updated] Beat Zoom Audio Disruptions Strategic Solutions</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/beginner-friendly-approach-embracing-video-chats-on-insta/"><u>Beginner-Friendly Approach Embracing Video Chats on Insta</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnose-and-repair-solving-audio-problems-with-zoom-on-your-computer/"><u>Diagnose and Repair: Solving Audio Problems with Zoom on Your Computer</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/from-fading-to-flourishing-top-strategies-for-overcoming-zero-views-for-2024/"><u>From Fading to Flourishing Top Strategies for Overcoming Zero Views for 2024</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/guida-completa-come-ripristinare-file-e-cartelle-su-pc/"><u>Guida Completa: Come Ripristinare File E Cartelle Su PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-to-fixing-your-hdmi-connection-when-another-application-is-using-the-device/"><u>Guide to Fixing Your HDMI Connection When Another Application Is Using the Device</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-vivo-y02t-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Vivo Y02T.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-issues-with-discords-push-to-talk-button-not-responding/"><u>How to Resolve Issues with Discord’s Push-to-Talk Button Not Responding</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-silent-game-dota-2-mic-issues-resolved-with-easy-fixes/"><u>Solving the Silent Game: Dota 2 Mic Issues Resolved with Easy Fixes!</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/taiwan-icon-liu-jiachang-exposes-kmt-flaws-ahead-of-2024-vote-advocates-for-leadership-by-han-guo-yu-insights-from-yl-computing-and-software-solutions/"><u>Taiwan Icon Liu Jiachang Exposes KMT Flaws Ahead of 2024 Vote; Advocates for Leadership by Han Guo-Yu – Insights From YL Computing & Software Solutions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-adding-depth-with-3d-text-in-photoshop-workflows/"><u>[New] Adding Depth with 3D Text in Photoshop Workflows</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-find-your-perfect-match-the-top-10-online-converters-list-for-2024/"><u>[Updated] Find Your Perfect Match The Top 10 Online Converters List for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-network-necessities-how-to-add-friends-on-devices-for-2024/"><u>[Updated] Network Necessities How to Add Friends on Devices for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-bringing-back-life-to-your-unresponsive-corsair-headset-mic/"><u>Effective Solutions: Bringing Back Life to Your Unresponsive Corsair Headset Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/experience-full-blast-action-rectifying-noise-glitches-in-battlefield-4/"><u>Experience Full Blast Action: Rectifying Noise Glitches in Battlefield 4</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-iphones-sound-issues-clear-up-no-audio-and-improve-sound-quality-now/"><u>Fix Your iPhone's Sound Issues: Clear Up No Audio and Improve Sound Quality Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-common-issues-troubleshooting-your-unresponsive-pebble-speaker/"><u>Fixing Common Issues: Troubleshooting Your Unresponsive Pebble Speaker</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-oculus-quest-2-headsets-microphone-working-again-troubleshooting-techniques/"><u>How to Get Your Oculus Quest 2 Headset's Microphone Working Again: Troubleshooting Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-broken-dell-sound-drivers-in-windows-7-easily/"><u>How to Repair Broken Dell Sound Drivers in Windows 7 Easily</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-realme-12-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-x90s-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo X90S Screen | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-c53frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme C53FRP Lock</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximize-your-androids-endurance-top-10-tweaks-to-extend-smartphone-battery-life-insights-from-zdnet/"><u>Maximize Your Android's Endurance: Top 10 Tweaks to Extend Smartphone Battery Life - Insights From ZDNet</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/os-x-mavericks-mp4-editing-software-convert-trim-and-more/"><u>OS X Mavericks MP4 Editing Software Convert, Trim, and More</u></a></li>
 </ul></div>
 

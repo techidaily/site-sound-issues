@@ -1,7 +1,7 @@
 ---
 title: "Solved: How to Fix a Non-Functional Microphone in Fortnite"
-date: 2025-02-04T16:53:05.678Z
-updated: 2025-02-11T03:05:12.684Z
+date: 2025-02-25T06:05:43.218Z
+updated: 2025-03-02T11:42:37.807Z
 tags:
   - win11
   - win10
@@ -42,26 +42,10 @@ This issue may occur if your Logitech G230 is not set as the default device, or 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**control** and press**Enter** to open**Control Panel** . ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000092.png)
 2. **View Control Panel by Category** . Then click**Hardware and Sound** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000093.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click**Sound** to continue.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000094.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Click the **Recording**  tab, then**right-click** on any empty place inside the device list and tick **Show Disabled Devices** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap892.png)
 5. Right-click the**Headset Microphone** and click **Enable** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap893-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Select the microphone you’re using and click **Set Default** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 
@@ -78,10 +62,6 @@ If you don’t allow Windows 10 and applications to access your microphone, you 
 2. Click**Microphone** on the left panel. On the right,**if** **microphone access for this device is off** , click**Change** **to** **turn it on** . You should also all apps to access your microphone. If it is turned off, turn it on.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000088.png)
 
 Check if your Logitech G230 mic works. If not, try the next fix below to update your audio driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 3: Update your audio driver**
 
@@ -103,10 +83,6 @@ An outdated or corrupted audio driver can also be the root of this issue. To fix
  You can do it for free if you like, but it’s partly manual.  
 
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 4: Troubleshoot hardware issues**
 
@@ -135,16 +111,18 @@ Hopefully one of the fixes above resolved this issue for you. If you have any qu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-crafting-a-personalized-youtube-pathway-to-viewers/"><u>[Updated] 2024 Approved Crafting a Personalized YouTube Pathway to Viewers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-accelerating-your-watch-experience-on-instagram-videos-for-2024/"><u>[Updated] Accelerating Your Watch Experience on Instagram Videos for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-how-to-stream-on-mixer-macos-for-2024/"><u>[Updated] How to Stream on Mixer MacOS for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-online-visionaries-subscriber-play-button-triumphs/"><u>[Updated] In 2024, Online Visionaries Subscriber, Play Button Triumphs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-pro-the-ultimate-guide-to-gaming-with-kinemaster-app/"><u>2024 Approved From Novice to Pro The Ultimate Guide to Gaming with KineMaster App</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/boosting-computer-audio-overcoming-silent-screens-with-windows/"><u>Boosting Computer Audio: Overcoming Silent Screens with Windows 지소클러쉬 상속</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/cod-vanguard-microphone-malfunctions-how-to-restore-and-enable-voice-chats/"><u>COD: Vanguard Microphone Malfunctions – How to Restore and Enable Voice Chats</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-methods-to-restore-functionality-in-non-working-bose-speakers/"><u>Effective Methods to Restore Functionality in Non-Working Bose Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-audio-glitches-in-cyberpunk-2077-a-step-by-step-guide/"><u>Resolving Audio Glitches in Cyberpunk 2077: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/swift-transition-the-ultimate-guide-to-sierra-on-macs-for-2024/"><u>Swift Transition The Ultimate Guide to Sierra on Macs for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-get-your-corsair-void-mic-back-on-track/"><u>Troubleshooting Steps: Get Your Corsair Void Mic Back on Track</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-often-do-youtubers-receive-income/"><u>[New] How Often Do YouTubers Receive Income?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-top-gear-for-youtube-beginners-essential-tech-guide/"><u>[New] In 2024, Top Gear for YouTube Beginners Essential Tech Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-precision-recording-for-instagram-story-enthusiasts/"><u>[Updated] 2024 Approved Precision Recording for Instagram Story Enthusiasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-remote-screen-resizing-facility/"><u>[Updated] Remote Screen Resizing Facility</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/defeating-glitches-effective-solutions-for-a-non-functioning-logitech-g-pro-x-microphone/"><u>Defeating Glitches: Effective Solutions for a Non-Functioning Logitech G Pro X Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/disabling-advanced-acoustic-optimization-tools-in-your-windows-11-system/"><u>Disabling Advanced Acoustic Optimization Tools in Your Windows 11 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-guide-to-restoring-your-logitech-g430-mic-for-crystal-clear-audio-performance/"><u>DIY Guide to Restoring Your Logitech G430 Mic for Crystal Clear Audio Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-the-problem-what-to-do-if-your-logitech-g430-mic-has-stopped-functioning-correctly/"><u>Fix the Problem: What to Do If Your Logitech G430 Mic Has Stopped Functioning Correctly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-non-functioning-dell-speakers-a-step-by-step-guide/"><u>Fix Your Non-Functioning Dell Speakers: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-irritating-speaker-crackle-issue-on-your-windows-107-device-solved/"><u>Fixing the Irritating Speaker Crackle Issue on Your Windows 10/7 Device – Solved</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-resolving-the-dark-hole-in-call-of-duty-warzone-expert-advice-for-2er4-players/"><u>Step-by-Step Solutions: Resolving the Dark Hole in Call of Duty Warzone – Expert Advice for 2Er4 Players</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-essential-ipad-add-ons-reviewed/"><u>The Ultimate Guide to Essential iPad Add-Ons Reviewed</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/time-lapse-magic-a-samsung-photo-guide-for-2024/"><u>Time-Lapse Magic A Samsung Photo Guide for 2024</u></a></li>
 </ul></div>
 

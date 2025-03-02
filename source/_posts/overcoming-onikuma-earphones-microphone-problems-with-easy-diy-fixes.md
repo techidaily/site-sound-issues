@@ -1,7 +1,7 @@
 ---
 title: Overcoming Onikuma Earphones' Microphone Problems with Easy DIY Fixes
-date: 2025-02-03T22:09:06.751Z
-updated: 2025-02-11T00:58:38.954Z
+date: 2025-02-27T22:50:48.676Z
+updated: 2025-03-02T06:53:08.151Z
 tags:
   - win11
   - win10
@@ -44,10 +44,6 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-06-12.png)
 2. In the input section,**set the microphone you’re using as the input device** . You can also turn the volume up to make sure the microphone can catch your voice clearly.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-05-53.png)
 
  If you experience the microphone issue only while using a certain app, for example, Zoom or Discord, you can adjust the settings in-app. Similar to the steps above, you need to find the audio setting, choose the right input device, and adjust the input volume if needed.
@@ -62,21 +58,9 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-08-20.png)
 2. **Turn on the Microphone access and Let apps access your microphone** options. You can scroll down and manage the microphone access to a specific app.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-08-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After allowing apps to use your microphone, you can restart the problem app and test if the issue is solved now. If not, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Enable the microphone for recording
 
@@ -92,10 +76,6 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-14-04.png)
 
 If this fix doesn’t solve your problem, try the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Update the audio drivers
 
@@ -119,10 +99,6 @@ If this fix doesn’t solve your problem, try the next one.
 4. After updating, restart your computer to take effect.
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus tip: Repair corrupted system files
 
@@ -161,17 +137,22 @@ If this fix doesn’t solve your problem, try the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-navigating-the-intricacies-of-networked-livestream-with-vlc/"><u>[New] Navigating the Intricacies of Networked Livestream with VLC</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-advice-addressing-and-repairing-crossbow-error-code-mishaps-in-minecraft/"><u>Expert Advice: Addressing and Repairing Crossbow Error Code Mishaps in Minecraft</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-voice-communication-problems-for-rainbow-six-siege-players-tips-and-tricks/"><u>Fixing Voice Communication Problems for Rainbow Six Siege Players - Tips and Tricks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-broken-stereo-mode-settings-efficiently-and-quickly/"><u>How to Repair Broken Stereo Mode Settings Efficiently & Quickly</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-c12-plus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia C12 Plus to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-boosting-engagement-learning-to-modify-account-numbers/"><u>In 2024, Boosting Engagement Learning to Modify Account Numbers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/jabra-bluetooth-earphones-malfunction-heres-the-ultimate-repair-manual/"><u>Jabra Bluetooth Earphones Malfunction? Here's the Ultimate Repair Manual</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-your-turtle-beach-mic-issues-in-just-a-few-simple-steps/"><u>Resolving Your Turtle Beach Mic Issues in Just a Few Simple Steps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/rethinking-cpu-thermal-improvements-intels-new-lga18n-socket-and-the-end-of-custom-contact-frame-requirements-for-optimal-temps/"><u>Rethinking CPU Thermal Improvements: Intel's New LGA18n Socket and The End of Custom Contact Frame Requirements for Optimal Temps</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ltimate-guide-to-crafting-engaging-asmr-content-for-2024/"><u>The Ultimate Guide to Crafting Engaging ASMR Content for 2024</u></a></li>
-<li><a href="https://win-premium.techidaily.com/troubleshooting-pc-crashes-understanding-the-causes-behind-windows-blue-screen-of-death-yl-computing-experts/"><u>Troubleshooting PC Crashes: Understanding the Causes Behind Windows' 'Blue Screen of Death' - YL Computing Experts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-epic-stories-academy-the-premier-8-list-for-2024/"><u>[New] Epic Stories Academy – The Premier 8 List for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-exceptional-hd-video-capturing-options-compiled-here-for-2024/"><u>[New] Exceptional HD Video Capturing Options Compiled Here for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/affordable-lg-24lh4830-led-television-great-value-without-compromise/"><u>Affordable LG 24LH4830 LED Television - Great Value Without Compromise</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-galaxy-xcover-7-by-fonelab-android-recover-data/"><u>How to recover lost data from Galaxy XCover 7?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-find-n3-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find N3 Bootloader Easily</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/interspecific-competition/"><u>Interspecific Competition.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-sound-on-your-mac-heres-how-you-can-resolve-this-common-issue/"><u>No Sound on Your Mac? Here's How You Can Resolve This Common Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/noise-restored-troubleshooting-complete-loss-of-sound-for-cyberpunk-2077-on-windows-10-devices/"><u>Noise Restored! Troubleshooting Complete Loss of Sound for Cyberpunk 2077 on Windows 10 Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/optimizing-sound-quality-by-removing-enhancements-from-windows-11-systems/"><u>Optimizing Sound Quality by Removing Enhancements From Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-audio-hurdles-in-zoom-calls-essential-fixes-for-sound-problems-on-pc-or-mac/"><u>Overcoming Audio Hurdles in Zoom Calls: Essential Fixes for Sound Problems on PC or Mac</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-issues-with-your-creative-pebble-sound-system-proven-fix-techniques-unveiled/"><u>Overcoming Issues with Your Creative Pebble Sound System: Proven Fix Techniques Unveiled</u></a></li>
+<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-enable-your-gaming-voice-chat-on-discord-with-clear-audio/"><u>Quick Fix: Enable Your Gaming Voice Chat on Discord with Clear Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-hd-audio-troubles-restoring-plugged-in-status/"><u>Realtek HD Audio Troubles: Restoring Plugged In Status</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-astro-a10-microphone-problems-with-these-effective-techniques/"><u>Resolve Astro A10 Microphone Problems with These Effective Techniques</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stability-in-screens-preventing-monitor-flickers/"><u>Stability in Screens: Preventing Monitor Flickers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/when-corporate-image-clashes-with-staff-sentiment-the-backlash-against-united-airlines-sexy-branding/"><u>When Corporate Image Clashes with Staff Sentiment: The Backlash Against United Airlines' Sexy Branding</u></a></li>
 </ul></div>
 

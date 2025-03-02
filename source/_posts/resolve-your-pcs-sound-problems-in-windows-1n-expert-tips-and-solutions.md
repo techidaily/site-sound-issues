@@ -1,7 +1,7 @@
 ---
 title: Resolve Your PC's Sound Problems in Windows 1N - Expert Tips & Solutions
-date: 2025-02-10T05:24:48.666Z
-updated: 2025-02-10T19:15:56.247Z
+date: 2025-02-26T01:54:57.828Z
+updated: 2025-03-01T19:39:14.067Z
 tags:
   - win11
   - win10
@@ -22,19 +22,11 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 1, make sure your speakers are not the problem
 
  Try to test your speakers on another device (a computer or a mobile phone would both do) to see if they are working properly. This will help determine if the issue is with the speakers themselves or with your computer.
 
  When the above check is done, and you find the problem on your computer, please move on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 2, make sure the connection between your speakers and computer is good
 
@@ -57,16 +49,8 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a379fb55982a.png)
 3. In Control Panel, view by Category, click **Hardware and Sound** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a37a0193f08b.jpg)
 4. Under **Sound** , click **Adjust system volume** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-24.png)
 5. If the sound is unmuted, move to the next step.
@@ -75,10 +59,6 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/volume-mixer.jpg)
 
  If the problem still cannot be resolved, try solutions below. Sound setting issues or driver issues may also cause this problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Set Speakers as Default
 
@@ -94,10 +74,6 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
 ![show disabled device](https://images.drivereasy.com/wp-content/uploads/2016/08/show-disabled-device.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After it is listed, right-click on the speakers and click**Enable** .
 
 ![enable speakers](https://images.drivereasy.com/wp-content/uploads/2016/08/enable-speakers.jpg)
@@ -112,10 +88,6 @@ Follow these steps:
 2. Type **devmgmt.msc** in the run box and click**OK** button. This is to open Device Manager Window.  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57354ce2ad87d.png)
 3. In Device Manager, double-click**Sound, video and game controllers** and right-click your sound card. A context menu will pop up. Then select**Uninstall** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
 4. Tick the box for**Delete the driver software for this device** and click**OK** .  
@@ -156,19 +128,20 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-ultimate-tutorial-for-posting-pics-on-ig/"><u>[New] In 2024, The Ultimate Tutorial for Posting Pics on IG</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-enhancing-your-snap-with-soundtracks-without-stickers/"><u>[Updated] 2024 Approved Enhancing Your Snap with Soundtracks (Without Stickers)</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-amazon-prime-hits-twitters-trendiest-watchers-and-lovers/"><u>[Updated] Amazon Prime Hits Twitter's Trendiest Watchers & Lovers</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-unlocking-virtual-presence-enhanced-screen-focus-on-ms-teams-for-2024/"><u>[Updated] Unlocking Virtual Presence Enhanced Screen Focus on MS Teams for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-best-10-websites-for-premium-quality-vector-stock-images/"><u>2024 Approved Best 10 Websites for Premium-Quality Vector Stock Images</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-empty-folder-alerts-for-windows-users/"><u>Fixing Empty Folder Alerts for Windows Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-logitech-g230-microphone-issues-a-comprehensive-troubleshooting-guide/"><u>Fixing Logitech G230 Microphone Issues: A Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/optimizing-sound-settings-for-effective-voice-communication-in-sea-of-thieves-pc/"><u>Optimizing Sound Settings for Effective Voice Communication in Sea of Thieves (PC)</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-nokia-150-2023-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Nokia 150 (2023)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-artisans-guide-to-unique-photographic-assemblages/"><u>The Artisan's Guide to Unique Photographic Assemblages</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016428901-troubleshoot-and-improve-your-oculus-rift-s-mic-quick-resolutions-for-gaming-aces/"><u>Troubleshoot and Improve Your Oculus Rift S Mic - Quick Resolutions for Gaming Aces!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-7-fixing-common-microphone-issues/"><u>Troubleshooting Windows 7: Fixing Common Microphone Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-your-macs-secrets-a-guide-to-finding-passwords-in-macos-keychain/"><u>Unlocking Your Mac's Secrets: A Guide to Finding Passwords in macOS Keychain</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/win-the-war-against-quietness-sound-issues-resolved-in-battlefield/"><u>Win the War Against Quietness: Sound Issues Resolved in Battlefield</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-from-snapchat-to-youtube-uploading-pics/"><u>[New] From Snapchat to YouTube Uploading Pics</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-google-pixel-8-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Google Pixel 8 Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/can-you-use-your-current-graphics-card-on-the-new-windows-update-expert-advice-from-yl-computing/"><u>Can You Use Your Current Graphics Card on the New Windows Update? Expert Advice From YL Computing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-how-to-make-a-youtube-trailer-by-filmora/"><u>In 2024, How to Make a YouTube Trailer by Filmora</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-13-pro-max-5-ways-to-get-into-a-locked-iphone-13-pro-max-drfone-by-drfone-ios/"><u>Locked Out of iPhone 13 Pro Max? 5 Ways to get into a Locked iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/power-up-your-gym-sessions-with-these-top-20-songs/"><u>Power Up Your Gym Sessions with These Top 20 Songs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-issues-with-multiple-audio-services-not-operating/"><u>Resolving Issues with Multiple Audio Services Not Operating</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-skype-sound-capabilities-tackling-microphone-troubles-in-windows-11/"><u>Restoring Skype Sound Capabilities: Tackling Microphone Troubles in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-volume-troubleshooting-noise-issues-in-windows-media-player/"><u>Reviving Volume: Troubleshooting Noise Issues in Windows Media Player</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/shareable-podcast-episodes-on-instagram-platforms/"><u>Shareable Podcast Episodes on Instagram Platforms</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-common-redragon-headset-mic-trouble-with-easy-fixes-for-pc-users/"><u>Solve Common Redragon Headset Mic Trouble with Easy Fixes for PC Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-dota-2-microphone-woes-fix-guide-for-gamers/"><u>Solve Your Dota 2 Microphone Woes: Fix Guide for Gamers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-mute-mysteries-effective-methods-for-troubleshooting-lenovos-lack-of-sound-output/"><u>Solving Mute Mysteries: Effective Methods for Troubleshooting Lenovo's Lack of Sound Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-resolving-issues-with-non-working-bose-audio-systems/"><u>Step-by-Step Guide: Resolving Issues with Non-Working Bose Audio Systems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/visual-upgrades-in-newly-remastered-demons-souls-review-unchanged-excellence/"><u>Visual Upgrades in Newly Remastered Demon's Souls Review: Unchanged Excellence</u></a></li>
 </ul></div>
 

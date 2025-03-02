@@ -1,7 +1,7 @@
 ---
 title: Enabling and Repairing Windows Scanning Functionality
-date: 2025-02-09T19:37:32.685Z
-updated: 2025-02-10T18:55:13.943Z
+date: 2025-02-26T12:25:18.072Z
+updated: 2025-03-02T11:06:54.924Z
 tags:
   - win11
   - win10
@@ -68,19 +68,11 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd167eed749a.jpg)
 4. In the popup pane, ensure the**Startup type** is set**Automatic** , and the**Service status** is**Running** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd168549db26.jpg)  
  If the**Service status** is already**Running** , click**Stop** to stop the service, then click**Start** to re-enable the service.
 
 5. Click**Apply** and**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1688e0055e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then restart your computer. Try to use your HP scanner again and see if it works now.
 
@@ -102,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 4. Save the changes and try your scanner again to see if it works.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your scanner driver (Windows PC)
 
@@ -131,10 +119,6 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/update-dell-touchpad-driver.jpg.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -144,10 +128,6 @@ Then try scanning with your scanner to see if it works.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Troubleshoot hardware problems
 
  It’s possible that there’s something wrong with your scanner, so run a troubleshooter in your computer to fix the issue.
@@ -155,10 +135,6 @@ Then try scanning with your scanner to see if it works.
 1. Type**cmd** in the Windows Search bar and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/cmd-run-as-admin.jpg)
 2. Copy & paste the following command line into the Command Prompt window and press**Enter** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `**msdt.exe -id DeviceDiagnostic**`
 3. Click**Next** in the popped-up window and the troubleshooter will start detecting hardware problems automatically.  
@@ -198,10 +174,6 @@ To fix your issues, follow the steps below to run a full scan of your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.
 
 ---
@@ -226,18 +198,20 @@ To fix your issues, follow the steps below to run a full scan of your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-turning-talk-into-top-tier-podcasts-writing-and-samples-included/"><u>[New] 2024 Approved Turning Talk Into Top-Tier Podcasts Writing & Samples Included</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-find-out-the-best-8-youtube-engagement-tools/"><u>2024 Approved Find Out The Best 8 Youtube Engagement Tools</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-no-audio-on-an-hp-laptop-troubleshooting-steps-for-windows-11/"><u>Fixing No Audio on an HP Laptop: Troubleshooting Steps for Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-to-diagnose-and-correct-distorted-sounds-on-windows-systems-windows-7-and-11-solutions/"><u>Guide to Diagnose and Correct Distorted Sounds on Windows Systems: Windows 7 & 11 Solutions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-lava-yuva-3-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Lava Yuva 3 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-voice-chat-connectivity-post-update-for-rainbow-six-siege/"><u>How to Restore Voice Chat Connectivity Post-Update for Rainbow Six Siege</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Vivo X Flip? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-reaction-video-mastery-the-top-tools-and-software/"><u>New Reaction Video Mastery The Top Tools and Software</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-diagnosing-and-fixing-a-malfunctioning-razer-kraken-gaming-mic/"><u>Solution Steps: Diagnosing and Fixing a Malfunctioning Razer Kraken Gaming Mic</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-8-essential-factors-to-evaluate-before-purchasing-your-next-tablet/"><u>Top 8 Essential Factors To Evaluate Before Purchasing Your Next Tablet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-glitches-in-cyberpunk-2077-expert-solutions/"><u>Troubleshooting Audio Glitches in Cyberpunk 2077: Expert Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-mic-issues-in-sea-of-thieves-tips-and-solutions/"><u>Troubleshooting Mic Issues in Sea of Thieves: Tips & Solutions</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-transform-your-videos-into-cinematic-masterpieces-on-mac/"><u>Updated 2024 Approved Transform Your Videos Into Cinematic Masterpieces on Mac</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-angles-unleashed-dive-into-our-11-best-bridge-cameras-review-for-2024/"><u>[New] Angles Unleashed Dive Into Our 11 Best Bridge Cameras Review for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-photoshop-basics-top-tips-to-transform-images-like-a-pro/"><u>[New] Photoshop Basics Top Tips to Transform Images Like a Pro</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-virtual-reality-vanguard-leading-pc-headsets-to-watch-for-2024/"><u>[New] Virtual Reality Vanguard Leading PC Headsets to Watch for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-scoop-unveiling-googles-podcast-application/"><u>2024 Approved Full Scoop Unveiling Google's Podcast Application</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-incredible-mobile-photography-and-videography-apps-for-iosandroid/"><u>2024 Approved Incredible Mobile Photography & Videography Apps for iOS/Android</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015043419-effortless-fixes-for-headphones-with-intermittent-snap-and-pop-now/"><u>Effortless Fixes for Headphones with Intermittent Snap and Pop - Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016646046-fixing-crackling-sound-in-headphones-fast-solutions/"><u>Fixing Crackling Sound in Headphones: Fast Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-portability-sleek-and-speedier-magsafe-battery-solution-for-your-macbook-unveiled-a-game-changer-by-techsavvy/"><u>Revolutionizing Portability: Sleek & Speedier MagSafe Battery Solution for Your Macbook Unveiled - A Game-Changer by TechSavvy!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transfert-facile-et-gratuit-de-flac-a-avi-en-ligne-suivez-les-etapes-avec-movavi/"><u>Transfert Facile Et Gratuit De FLAC À AVI en Ligne - Suivez Les Étapes Avec Movavi!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015768100-troubled-by-lack-of-volume-resolve-your-hp-laptops-no-sound-issue-today/"><u>Troubled by Lack of Volume? Resolve Your HP Laptop's No-Sound Issue Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-fixing-fallout-3-crashes-on-windows-10/"><u>Troubleshooting Tips: Fixing Fallout 3 Crashes on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fixes-for-when-your-sennheiser-gamer-mic-fails-to-work/"><u>Ultimate Fixes for When Your Sennheiser Gamer Mic Fails to Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/uncover-the-reasons-behind-your-mics-failure-to-record-expert-diagnosis-and-fixes/"><u>Uncover the Reasons Behind Your Mic’s Failure to Record: Expert Diagnosis and Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/voicemod-wont-open-or-function-expert-troubleshooting-tips-for-202e/"><u>Voicemod Won't Open or Function? Expert Troubleshooting Tips for 202E</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/windows-10-capture-miniapp/"><u>Windows 10 Capture MiniApp</u></a></li>
 </ul></div>
 

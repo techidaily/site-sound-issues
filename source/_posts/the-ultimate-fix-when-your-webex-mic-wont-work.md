@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Fix: When Your WebEx Mic Won't Work"
-date: 2025-02-10T00:49:52.437Z
-updated: 2025-02-11T08:18:00.038Z
+date: 2025-03-01T08:04:29.081Z
+updated: 2025-03-02T08:03:03.032Z
 tags:
   - win11
   - win10
@@ -49,10 +49,6 @@ Find your**mic not working in Dota 2** ? Teamwork and interactivity are the bigg
 
  The screenshots in this post are captured from a Windows 11 operating system. If you are using Windows 10 or older versions, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Set your microphone as the default device
 
  Before you try other fixes, it’s recommended to check the microphone is set correctly on your Windows PC.
@@ -61,18 +57,10 @@ Find your**mic not working in Dota 2** ? Teamwork and interactivity are the bigg
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/win-11-right-click-on-sound.jpg)
 2. Under the**Input** section, drag the sliders of the**Microphone** to turn up the volume. Just make sure you haven’t muted them or set them to such low levels that you cannot hear the voice yourself.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2021/01/win-11-input-microphone-volume.jpg)
 3. Make sure the decide is set as default if you have many.
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try launching Dota 2 and see if the mic is working properly. If it does, congrats! But if not, you may want to try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Check in-game settings
 
@@ -114,10 +102,6 @@ Find your**mic not working in Dota 2** ? Teamwork and interactivity are the bigg
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Allow access to the microphone
 
  It’s possible that your microphone has been disabled in privacy settings. If that’s the case, your Dota 2 won’t be able to access your mic. To modify the settings, here’s how:
@@ -131,10 +115,6 @@ Find your**mic not working in Dota 2** ? Teamwork and interactivity are the bigg
 
  Check to see if your mic goes back to normal in Dota 2\. If not, you can try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Verify integrity of game files
 
  If the microphone is still not working on Dota 2, you can try a quick fix — verify the in-game files. Here is how:
@@ -147,10 +127,6 @@ Find your**mic not working in Dota 2** ? Teamwork and interactivity are the bigg
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/cache.png)
 4. Wait for the process to complete.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you verify that all the cache files are in a normal state, please launch Dota 2 and check if your mic is working properly this time. In case the problem persists, you can move on to the next fix.
 
 ### Fix 6: Restart the Windows Audio service
@@ -161,10 +137,6 @@ Find your**mic not working in Dota 2** ? Teamwork and interactivity are the bigg
 2. Type **services.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/services-msc.png)
 3. Scroll through the list of services to locate **Windows Audio** . Right-click it and click **Restart** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/01/win-11-windows-audio-restart.jpg)
 4. Wait for 1-3 seconds for the process to complete.
@@ -196,18 +168,24 @@ Find your**mic not working in Dota 2** ? Teamwork and interactivity are the bigg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-expert-guide-to-vlc-for-networked-webcasting/"><u>[New] 2024 Approved Expert Guide to VLC for Networked Webcasting</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-seamless-file-access-top-windows-and-mac-strategies-for-downloading-igtv/"><u>[New] 2024 Approved Seamless File Access Top Windows & Mac Strategies for Downloading IGTV</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/cod-vanguard-voice-chat-bug-fixes-and-solutions-explored/"><u>Cod: Vanguard Voice Chat Bug Fixes and Solutions Explored</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-fixing-blank-windows-11-logins/"><u>Guide to Fixing Blank Windows 11 Logins</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-turn-off-sound-enhancing-features-on-windows-11/"><u>How to Turn Off Sound Enhancing Features on Windows 11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-13-mini-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 13 mini when Phone is Broken?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/official-hp-laserjet-1018-drivers-easy-download-for-smooth-printing-experience/"><u>Official HP LaserJet 1018 Drivers: Easy Download for Smooth Printing Experience</u></a></li>
-<li><a href="https://win-bits.techidaily.com/playing-flac-audio-tracks-on-your-ipod-a-comprehensive-walkthrough-for-each-model/"><u>Playing FLAC Audio Tracks on Your iPod: A Comprehensive Walkthrough for Each Model</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/reinstallation-steps-to-restore-photo-viewer-in-windows-10/"><u>Reinstallation Steps to Restore Photo Viewer in Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/tips-for-fixing-a-malfunctioning-turtle-beach-elite-atlas-usb-headset-microphone/"><u>Tips for Fixing a Malfunctioning Turtle Beach Elite Atlas USB Headset Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-silent-firefox-browsing-experience/"><u>Troubleshooting and Fixing Silent Firefox Browsing Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-voicemod-opening-app-fixes-and-tips/"><u>Troubleshooting Voicemod: Opening App Fixes and Tips</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-split-merge-and-more-top-free-mpeg-video-processing-tools/"><u>Updated In 2024, Split, Merge, and More Top Free MPEG Video Processing Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixed-how-to-restore-voice-chat-capabilities-in-back-4-blood/"><u>[FIXED] How to Restore Voice Chat Capabilities in 'Back 4 Blood'</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-20-funny-tiktok-jokes-and-riddles-to-make-you-laugh-out-for-2024/"><u>[New] 20 Funny TikTok Jokes and Riddles to Make You Laugh Out for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-battle-of-av1-and-vp9-outcomes-revealed/"><u>[New] The Battle of AV1 and VP9 Outcomes Revealed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideas-for-efficiently-using-gopro-power-supplies/"><u>[Updated] Ideas for Efficiently Using GoPro Power Supplies</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-iphone-mastery-complete-guide-to-capturing-podcasts/"><u>[Updated] IPhone Mastery Complete Guide to Capturing Podcasts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-enhancing-video-creation-tips-for-adobe-connect-users/"><u>2024 Approved Enhancing Video Creation Tips for Adobe Connect Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/anthem-missing-sounds-on-windows-10-heres-how-you-can-restore-your-games-audio/"><u>Anthem Missing Sounds on Windows 10? Here's How You Can Restore Your Game's Audio!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/assessing-the-impact-of-ai-innovations-on-future-search-engine-landscape/"><u>Assessing the Impact of AI Innovations on Future Search Engine Landscape</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/black-ops-cold-war-voip-problems-solved-how-to-fix-voice-communication-errors/"><u>Black Ops Cold War VOIP Problems Solved - How To Fix Voice Communication Errors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/creating-separate-accounts-a-step-by-step-guide-to-setting-up-multi-user-profiles-in-android/"><u>Creating Separate Accounts: A Step-by-Step Guide to Setting up Multi-User Profiles in Android</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/destiny-n-voice-chat-problems-heres-your-ultimate-guide-to-solutions/"><u>Destiny N Voice Chat Problems? Here's Your Ultimate Guide to Solutions!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-strategies-to-recover-speaker-output-in-toshiba-laptop-systems/"><u>Effective Strategies to Recover Speaker Output in Toshiba Laptop Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/essential-fixes-for-overcoming-audio-glitches-in-windows-10/"><u>Essential Fixes for Overcoming Audio Glitches in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/essential-tips-to-reactivate-audio-during-zoom-video-conferences-on-your-desktop/"><u>Essential Tips to Reactivate Audio During Zoom Video Conferences on Your Desktop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-what-to-do-when-your-sennheiser-gaming-mic-wont-work-anymore/"><u>Expert Advice: What to Do When Your Sennheiser Gaming Mic Won't Work Anymore</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fast-fixes-for-flawless-bluetooth-sound-say-goodbye-to-latency/"><u>Fast Fixes for Flawless Bluetooth Sound - Say Goodbye to Latency</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-get-the-best-mp4-recorder-software-guide/"><u>In 2024, Get the Best MP4 Recorder Software Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-pixelpranks-mememakermarket/"><u>In 2024, PixelPranks MemeMakerMarket</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-delicious-tv-top-10-netflix-cooking-show-picks/"><u>The Ultimate Guide to Delicious TV: Top 10 Netflix Cooking Show Picks</u></a></li>
 </ul></div>
 

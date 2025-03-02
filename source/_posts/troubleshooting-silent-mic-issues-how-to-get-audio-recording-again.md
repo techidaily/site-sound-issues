@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Silent Mic Issues - How to Get Audio Recording Again!
-date: 2025-02-08T02:16:06.453Z
-updated: 2025-02-10T19:04:39.344Z
+date: 2025-02-22T18:05:08.436Z
+updated: 2025-03-02T11:13:39.481Z
 tags:
   - win11
   - win10
@@ -38,16 +38,8 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a273f85c31.png)
 2. Double-click**Sound, video, and game controllers** . Then right-click the audio device driver that you have and choose**Update driver** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a27949ffeb.png)
 3. Choose**Browse my computer for driver software** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28445c675.png)
 4. Then choose**Let me pick from a list of available drivers on my computer** .  
@@ -60,10 +52,6 @@ Read on and follow the easy-doing images below!
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a294398588.png)
 7. Restart your computer when the installation finishes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the generic audio driver doesn’t work to fix the sound cutting out issue, it’s possible that you have a corrupted or outdated sound card driver, so you should update the driver to see if it helps. If you’re not confident playing around with drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -91,10 +79,6 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 
@@ -102,10 +86,6 @@ Read on and follow the easy-doing images below!
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
 
@@ -117,16 +97,8 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
@@ -159,14 +131,18 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-harmonizing-sounds-first-lessons-on-fades-with-audition/"><u>[New] 2024 Approved Harmonizing Sounds First Lessons on Fades with Audition</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-social-media-savants-guide-to-stellar-instagram-posts/"><u>[New] 2024 Approved The Social Media Savant's Guide to Stellar Instagram Posts</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-crafting-effective-youtube-thumbnails-and-banners-for-2024/"><u>[Updated] Crafting Effective YouTube Thumbnails & Banners for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-crafting-a-cinematic-look-ken-burns-in-camtasa/"><u>2024 Approved Crafting a Cinematic Look Ken Burns in Camtasa</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-more-silent-battles-resolve-apex-legends-voice-chat-woes-instantly/"><u>No More Silent Battles: Resolve Apex Legends' Voice Chat Woes Instantly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/onikuma-microphone-malfunction-resolved-a-comprehensive-fix-guide/"><u>Onikuma Microphone Malfunction Resolved: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-format-switch-how-to-transform-wmv-content-into-mp4-mov-and-mp3-for-universal-playback/"><u>Quick Format Switch: How to Transform WMV Content Into MP4, MOV, and MP3 for Universal Playback</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-hdmi-connection-errors-when-your-device-is-in-use-by-other-software/"><u>Resolving HDMI Connection Errors When Your Device Is In Use By Other Software</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/why-wont-my-blue-yeti-mic-connect-discover-how-to-resolve-the-problem/"><u>Why Won't My Blue Yeti Mic Connect? Discover How to Resolve the Problem</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/caling-youtube-influence-a-comprerancial-guide-to-creator-studios-potential-for-2024/"><u>[New] Scaling YouTube Influence A Comprerancial Guide to Creator Studio's Potential for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/arctis-7-audio-fixes-effective-ways-to-repair-your-steelseries-headset-mic/"><u>Arctis 7 Audio Fixes: Effective Ways to Repair Your SteelSeries Headset Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/chrome-sound-not-working-heres-how-you-can-get-your-audio-back/"><u>Chrome Sound Not Working? Here's How You Can Get Your Audio Back!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-the-airpods-mic-problem-on-windows-11-systems/"><u>Effective Solutions for the AirPod's Mic Problem on Windows 11 Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-for-newcomers-discover-these-essential-gopro-upgrades/"><u>In 2024, For Newcomers, Discover These Essential GoPro Upgrades</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-formulate-funny-imagery-with-adobe/"><u>In 2024, Formulate Funny Imagery with Adobe</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-optimal-video-tools-deciding-between-bandicam-and-camtasia/"><u>In 2024, Optimal Video Tools Deciding Between Bandicam & Camtasia</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-the-silence-restoring-voice-chat-features-for-an-uninterrupted-cod-vanguard-gaming-experience/"><u>Overcoming the Silence: Restoring Voice Chat Features for an Uninterrupted COD: Vanguard Gaming Experience</u></a></li>
+<li><a href="https://facebook.techidaily.com/pioneering-online-freedom-disconnecting-instagramfacebook/"><u>Pioneering Online Freedom: Disconnecting Instagram/Facebook</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/quick-fixes-restoring-missing-sticky-notes-on-your-windows-11-pc/"><u>Quick Fixes: Restoring Missing Sticky Notes on Your Windows 11 PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-features-that-make-the-legion-go-shine-at-ifa/"><u>Top 5 Features that Make the Legion Go Shine at IFA</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformer-facilement-vos-images-jpeg-en-png-sur-internet-gratuite-mouvavi/"><u>Transformer Facilement Vos Images JPEG en PNG Sur Internet Gratuite - Mouvavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-how-to-fix-naraka-path-of-the-warriors-sudden-shutdown-issues/"><u>Troubleshooting Guide: How to Fix Naraka: Path of the Warrior's Sudden Shutdown Issues</u></a></li>
 </ul></div>
 

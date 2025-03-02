@@ -1,7 +1,7 @@
 ---
 title: Fix Your Rainbow Six Siege Voice Chat Glitches Following the 2024 Game Enhancement
-date: 2024-08-18T08:04:59.181Z
-updated: 2024-08-19T08:04:59.181Z
+date: 2025-02-25T05:49:25.673Z
+updated: 2025-03-02T04:30:54.832Z
 tags:
   - win11
   - win10
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/cb9e2ddf28e5428496f53b353379d173f81be07c3
 5. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Origin and Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ### Fix 1: Allow Origin to access your microphone
 
  The voice chat not working in Apex Legends error may happen if you have not allowed Origin to access your microphone.
@@ -47,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/cb9e2ddf28e5428496f53b353379d173f81be07c3
 
  3) Scroll down to**Allow desktop apps to access your microphone** , turn on**the switch** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-248.png)
 
  By doing so, you have allowed Origin the access to the microphone on your computer.
@@ -70,16 +64,10 @@ thumbnail: https://thmb.techidaily.com/cb9e2ddf28e5428496f53b353379d173f81be07c3
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-35.png)
 
  3) Click **Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the audio driver, simply click the **Update** button next to it.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-36.png)
 
  You can also do it for free if you like, but it’s partly manual.
@@ -102,10 +90,6 @@ Here’s how to do it:
 
  4) In **Sound** settings, scroll down to the**Input** section, and in**Choose your input device** , make sure the microphone you are actively using is selected. Then,**test your microphone** by speaking into your mic to see if it ‘hears’ anything. If yes, it means you have configured the microphone properly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-242.png)
 
 5) Close the window.
@@ -114,9 +98,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Configure in-game settings
 
  It is also important that you configured the audio settings right in order for the microphone to work properly.
@@ -133,9 +114,6 @@ Here is how to configure in-game settings:
 
  3) Open Apex Legends, then go to**Settings > AUDIO** and set the **Voice Chat Record Mode** to **Push to Talk** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-262-1024x576.png)
 
  4) Again, play Apex Legends to see if the voice chat not working issue is resolved.
@@ -152,9 +130,6 @@ Here is how to configure in-game settings:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### Fix 6: Reinstall Origin and Apex Legends
 
  If the above steps don’t solve the issue, then it’s likely that the files in Origin or Apex Legends are corrupt. So you can reinstall the client and the game to see if it solves the problem.
@@ -167,9 +142,6 @@ Here are the steps:
 
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
 
  4) Locate **Apex Legends** and uninstall it too.
@@ -195,8 +167,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,4 +174,23 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-essential-tutorial-navigating-mobizen-recording-features/"><u>[New] Essential Tutorial Navigating Mobizen Recording Features</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-precision-in-digital-imaging-a-professionals-approach-for-2024/"><u>[New] Precision in Digital Imaging A Professional's Approach for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-4-essential-methods-for-file-delivery-to-pc/"><u>[Updated] 4 Essential Methods for File Delivery to PC</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/dive-into-action-4-easy-steps-for-audience-captivating-instagram-loops/"><u>Dive Into Action 4 Easy Steps for Audience-Captivating Instagram Loops</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-for-adjusting-headphones-and-speaker-mix-up-in-sound-system/"><u>Guide for Adjusting Headphones & Speaker Mix-Up in Sound System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-clear-print-queue-easily-solved/"><u>How to Clear Print Queue Easily [Solved]</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-11-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone 11?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-adding-effects-in-tiktok-videos/"><u>In 2024, The Ultimate Guide to Adding Effects in TikTok Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-idt-hd-codec-driver-update-for-optimal-performance-on-your-windows-11-system/"><u>Master the IDT HD Codec Driver Update for Optimal Performance on Your Windows 11 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-audio-troubles-fixing-the-sound-device-not-found-problem-in-audacity/"><u>Resolve Your Audio Troubles: Fixing the 'Sound Device Not Found' Problem in Audacity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-non-functional-hyperx-cloud-alpha-microphones/"><u>Step-by-Step Fixes for Non-Functional HyperX Cloud Alpha Microphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-guide-to-upgrading-speaker-volume-for-windows-10-users/"><u>The Definitive Guide to Upgrading Speaker Volume for Windows 10 Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-quintessential-quintet-leading-large-language-technology/"><u>The Quintessential Quintet: Leading Large Language Technology</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-issues-with-call-of-duty-modern-warfares-voice-communication/"><u>Troubleshooting Guide: Fixing Issues with Call of Duty Modern Warfare's Voice Communication</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016738484-troubleshooting-guide-get-your-fortnite-voice-chat-up-and-running-today/"><u>Troubleshooting Guide: Get Your Fortnite Voice Chat Up & Running Today</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot and Restore Sound on Your Laptop's Built-In Speakers
-date: 2025-02-04T22:38:03.954Z
-updated: 2025-02-11T04:26:16.958Z
+date: 2025-02-25T17:16:52.602Z
+updated: 2025-03-02T10:45:10.201Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes for speakers crackling
 
@@ -60,10 +56,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your audio driver
 
  This speaker crackling problem may occur if you are using the wrong audio  driver or it’s out of date. So you should update your audio  driver to see if it fixes your problem. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -77,20 +69,12 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust **the minimum processor state**
 
@@ -108,10 +92,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
@@ -137,15 +117,20 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-experts-picks-the-best-10-photography-lenses/"><u>[New] Expert's Picks The Best 10 Photography Lenses</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-best-8-concealed-video-downloading-software-of-2023/"><u>[New] In 2024, Best 8 Concealed Video Downloading Software of 2023</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-unlock-the-full-potential-of-windows-photos-app-with-visual-and-audio-tweaks/"><u>2024 Approved Unlock the Full Potential of Windows Photos App with Visual & Audio Tweaks</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/device-unlock-xiaomi-redmi-note-12r-by-drfone-android-unlock-android-unlock/"><u>Device unlock Xiaomi Redmi Note 12R</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-persistent-sound-disruption-issues-in-windows-11-computers/"><u>How to Resolve Persistent Sound Disruption Issues in Windows 11 Computers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-the-realm-of-time-lapses-gopro-hero-10-in-action-for-2024/"><u>Navigating the Realm of Time Lapses GoPro Hero 10 in Action for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-your-discord-voice-communication-issues-a-step-by-step-guide/"><u>Resolve Your Discord Voice Communication Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-playback-problems-starting-the-dolby-sound-driver-on-windows-10-successfully/"><u>Resolving Playback Problems: Starting the Dolby Sound Driver on Windows 10 Successfully</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-10-audio-problems-solved-restoring-headphone-functionality/"><u>Windows 10 Audio Problems Solved: Restoring Headphone Functionality</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-harness-the-power-of-instagram-best-free-video-converter-apps-for-windowsmacos/"><u>[New] Harness the Power of Instagram Best Free Video Converter Apps for Windows/macOS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unleash-a-flood-of-supporters-attain-a-million-ish-on-ig-each-month/"><u>[Updated] 2024 Approved Unleash a Flood of Supporters Attain a Million-Ish on IG Each Month</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-revolutionary-flight-technology-exploring-mavic-pro/"><u>[Updated] In 2024, Revolutionary Flight Technology – Exploring Mavic Pro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphone-photography-101-simple-strategies/"><u>[Updated] IPhone Photography 101 Simple Strategies</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-supercharge-your-content-consumption-these-best-free-online-video-downloaders-for-youtube-shorts-for-2024/"><u>[Updated] Supercharge Your Content Consumption These Best Free, Online Video Downloaders for YouTube Shorts for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/advanced-editing-shortcuts-learn-to-use-photoshops-history-for-effortless-artistry/"><u>Advanced Editing Shortcuts: Learn to Use Photoshop's History for Effortless Artistry</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-enhance-cooling-efficiency-in-your-personal-computer-expert-advice-from-yl-computing/"><u>How to Enhance Cooling Efficiency in Your Personal Computer - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-vivo-s18-pro-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Vivo S18 Pro Phones</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-video-integration-with-apple-music-for-2024/"><u>Mastering Video Integration with Apple Music for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-silence-solutions-for-weak-audio-on-windows-11-computers/"><u>Overcoming Silence: Solutions for Weak Audio on Windows 11 Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/rec-room-microphone-troubleshooting-fixing-pc-issues/"><u>Rec Room Microphone Troubleshooting: Fixing PC Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-a-defective-windows-scan-software/"><u>Restoring a Defective Windows Scan Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-voice-in-csgo-expert-fixes-for-nonfunctioning-microphones/"><u>Revive Your Voice in CS:GO - Expert Fixes for Nonfunctioning Microphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-repairing-your-microphone-on-fortnite-no-more-silent-battles/"><u>The Ultimate Guide to Repairing Your Microphone on Fortnite - No More Silent Battles!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-no-sound-problems-on-your-pc-or-macbook/"><u>Troubleshoot and Repair No-Sound Problems on Your PC or MacBook</u></a></li>
 </ul></div>
 

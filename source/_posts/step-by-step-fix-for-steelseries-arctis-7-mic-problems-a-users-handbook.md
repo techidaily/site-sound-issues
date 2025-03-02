@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for SteelSeries Arctis 7 Mic Problems - A User's Handbook
-date: 2024-08-23T12:11:15.414Z
-updated: 2024-08-24T12:11:15.414Z
+date: 2025-02-26T17:01:22.917Z
+updated: 2025-03-02T06:17:56.905Z
 tags:
   - win11
   - win10
@@ -39,18 +39,12 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ### Fix 1: Set up the microphone correctly
 
  Before you try the following fixes, please make sure the mute button is not activated.
 
  Also, the microphone is highly directional, so it must be placed properly to achieve the best sound quality.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Fix 2: Allow access to your microphone
 
  The first thing you need to make sure of is that your device allows apps to access your microphone. This is especially true if you can’t be heard in any apps.
@@ -59,9 +53,6 @@ Here’s how to do it:
 
  1) In the Windows Search box, type**microphone,** and select**Microphone privacy settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/privacy.png)
 
  2) Please be sure to turn on “**Allow access to the microphone on this device** ” and “**Allow apps to access your microphone** “.
@@ -90,9 +81,6 @@ Here’s how to do it:
 
  4) Make sure your Actis Pro is**Enabled** (shows a green checkmark) and set it as the**Default Device** . If not, you can right-click it and select**Set as Default Device** and**Set as Default Communication Device** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-5.png)
 
  In your VoIP application, select Actis Pro Chat Audio as the default audio device.
@@ -121,9 +109,6 @@ Here’s how to do it:
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
  3) Click the**Activate & Update** button next to the headset to download the latest and correct driver for it.
@@ -137,23 +122,14 @@ Here’s how to do it:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Make sure to use the correct Default Format
 
  1) On your keyboard, press the **Windows logo** key and the **R** key at the same time to open the Run box.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
 
  3) In the Sound windows, select the **Recording**  tab.
@@ -180,8 +156,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +163,22 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-brainless-battles-top-8-zombie-shooter-contenders/"><u>[New] 2024 Approved Brainless Battles Top 8 Zombie Shooter Contenders</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-dancefloor-directives-expert-dj-video-downloads/"><u>[New] 2024 Approved Dancefloor Directives Expert DJ Video Downloads</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/xperts-at-work-swift-professional-thumbnails-for-valorant-highlights-for-2024/"><u>[New] Experts at Work Swift, Professional Thumbnails for Valorant Highlights for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-leading-edge-webcams-and-camcorders-for-windows-11-pcs/"><u>[Updated] In 2024, Leading Edge Webcams & Camcorders for Windows 11 PCs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-mastery-over-your-memories-fetching-facebook-status-videos/"><u>[Updated] In 2024, Mastery Over Your Memories Fetching Facebook Status Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-your-pcs-sound-difficulties-in-windows-11-a-step-by-step-approach/"><u>How to Resolve Your PC's Sound Difficulties in Windows 11 - A Step-by-Step Approach</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-finding-inner-voice-how-to-confidently-share-stories-online/"><u>In 2024, Finding Inner Voice How to Confidently Share Stories Online</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-iconic-highlights-from-the-2022-figure-skate-world/"><u>In 2024, Iconic Highlights From the 2022 Figure Skate World</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-fixing-the-issue-of-unresponsive-headphone-ports-in-laptops-a-step-by-step-guide/"><u>Resolved: Fixing the Issue of Unresponsive Headphone Ports in Laptops - A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-windows-sound-problems-fixed-speaker-wired-but-no-volume/"><u>Resolving Windows Sound Problems: Fixed! Speaker Wired but No Volume</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-fixing-issues-with-onikuma-headset-microphone/"><u>Solved: Fixing Issues with Onikuma Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-microphone-issues-how-to-fix-your-airpods-mic-on-windows-10/"><u>Solving Microphone Issues: How to Fix Your AirPods Mic on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-solutions-for-when-your-desktop-audio-fails-to-function-correctly/"><u>Top Solutions for When Your Desktop Audio Fails to Function Correctly</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unlock-fb-potential-link-your-youtube-video/"><u>Unlock FB Potential Link Your YouTube Video</u></a></li>
+</ul></div>
 

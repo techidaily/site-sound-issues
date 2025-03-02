@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions to Get Your Voice Back in COD Warzone Across PC and Gaming Consoles
-date: 2025-02-05T23:18:13.645Z
-updated: 2025-02-11T03:27:17.057Z
+date: 2025-02-27T05:54:42.795Z
+updated: 2025-03-01T19:48:55.933Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/ba4d76a3836c79aa2d1ffbc408b14921a58fa2b19
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try all of them. Just work your way down until you find a fix that works for you.
@@ -38,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/ba4d76a3836c79aa2d1ffbc408b14921a58fa2b19
 4. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Change the in-game audio settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Check the connection of your audio device
 
@@ -67,10 +59,6 @@ First you need to check the default audio device on your system:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-ms-settings-sound.jpg)
 2. Under the**Input** section, make sure your input device is set to your desired one. Then click**Device properties and test microphone** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/input-device-testing.jpg)
 3. Make sure the box next to**Disable** is unchecked, and the slider under**Volume** is set to 100.  
 
@@ -88,15 +76,7 @@ Next, you need to check the voice chat settings in the Battle.net client:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/battle-net-settings-1.jpg)
 3. On the menu to your left, select **Voice Chat** . Set **OUTPUT DEVICE** and **INPUT DEVICE** to **System Default Device** . Then click **Done** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-voice-chat.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now launch Black Ops Cold War and see if you can talk to others.
 
@@ -142,17 +122,9 @@ Now launch Black Ops Cold War and see if you can talk to others.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-ingame-voice-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you can restart Black Ops Cold War and check if the voice chat is working.
 
  If changing game settings doesn’t help, you can try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Install all Windows updates
 
@@ -189,17 +161,16 @@ Here’s a quick guide for that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-capturing-adventures-a-close-look-at-panasonics-hx-a1/"><u>[New] Capturing Adventures A Close Look at Panasonic's HX-A1</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-perfecting-sound-capture-reviewed-mac-compatible-recorders/"><u>[New] In 2024, Perfecting Sound Capture Reviewed Mac-Compatible Recorders</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-adopting-a-simple-yet-powerful-approach-to-advertising-content/"><u>[Updated] 2024 Approved Adopting a Simple Yet Powerful Approach to Advertising Content</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-malfunctioning-on-pc-effortless-fixes-inside/"><u>Audio Malfunctioning on PC? Effortless Fixes Inside</u></a></li>
-<li><a href="https://win11.techidaily.com/break-down-drives-hdd-vs-ssd-explained/"><u>Break Down Drives: HDD vs SSD Explained</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-on-getting-your-broken-bose-speaker-back-in-action/"><u>Expert Tips on Getting Your Broken Bose Speaker Back in Action</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-revolutionize-your-experience-with-latest-windows-10-apps-and-gaming/"><u>In 2024, Revolutionize Your Experience with Latest Windows 10 Apps & Gaming</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-transform-memories-into-movies-best-dvd-creation-software-for-2024/"><u>New Transform Memories Into Movies Best DVD Creation Software for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcome-voicemod-errors-and-enjoy-seamless-usage-expert-tips/"><u>Overcome Voicemod Errors and Enjoy Seamless Usage : Expert Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-sony-wireless-noise-cancelling-headset-issue-microphone-not-functional-on-pc/"><u>Resolved! Sony Wireless Noise-Cancelling Headset Issue - Microphone Not Functional on PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-hp-laptop-speakers-a-comprehensive-guide-for-restoring-lost-sound-capabilities/"><u>Revive HP Laptop Speakers: A Comprehensive Guide for Restoring Lost Sound Capabilities</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Infinix Smart 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-basic-procedures-for-saving-screen-talks/"><u>[New] Basic Procedures for Saving Screen Talks</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/levating-your-video-brand-tips-for-great-youtube-banners/"><u>[New] Elevating Your Video Brand Tips for Great YouTube Banners</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unveiled-list-leading-top-10-facebook-video-downloaders-for-android/"><u>[New] In 2024, Unveiled List Leading Top 10 Facebook Video Downloaders for Android</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-strategies-and-techniques-in-documentary-scriptwriting/"><u>[New] Strategies and Techniques in Documentary Scriptwriting</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-exploring-8-truly-effective-video-marketing-strategies/"><u>[Updated] In 2024, Exploring 8 Truly Effective Video Marketing Strategies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017055257-black-ops-cold-war-sound-glitch-on-pc-heres-how-to-solve-it/"><u>Black Ops: Cold War Sound Glitch on PC? Here's How to Solve It</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/easy-guide-online-tools-to-save-your-youtube-videos-for-2024/"><u>Easy Guide Online Tools to Save Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-landscape-of-ai-legislation-who-holds-the-power-to-enforce-compliance/"><u>Exploring the Landscape of AI Legislation: Who Holds the Power to Enforce Compliance?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016224435-solve-windows-10-sound-card-troubles-with-these-easy-solutions/"><u>Solve Windows 10 Sound Card Troubles with These Easy Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016821324-solving-audio-glitches-making-your-rainbow-six-siege-chat-work-perfectly-again/"><u>Solving Audio Glitches: Making Your Rainbow Six Siege Chat Work Perfectly Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016791295-troubleshooting-guide-fixing-onikuma-microphone-issues-now-resolved/"><u>Troubleshooting Guide: Fixing Onikuma Microphone Issues - Now Resolved</u></a></li>
 </ul></div>
 

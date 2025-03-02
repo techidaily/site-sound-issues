@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Non-Functional Voice Communication in Overwatch (PTT)
-date: 2025-02-07T08:27:37.480Z
-updated: 2025-02-11T00:52:08.726Z
+date: 2025-02-28T07:25:37.000Z
+updated: 2025-03-02T00:18:01.205Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 6. **[Restart the Windows Audio Endpoint Builder service](https://tools.techidaily.com/drivereasy/download/)**
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solution 1: Ensure the external sound device is plugged in (desktop only)
 
  If you’re using a desktop computer, _**ensure the device you use to listen to the sound such as external speakers, is plugged in**_  .  
@@ -59,10 +55,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  2) If you see the Speakers disabled, right-click on the item, then select**Enable** . If you see the Speakers enabled, skip this step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d47875fcc.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’re using a**laptop computer** , you also need to check if the**microphone** device is disabled.  
   
@@ -89,10 +81,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  2) Click**Edit** in the menu bar and select**Preferences** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6ee48396.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Devices** .
 
@@ -154,10 +142,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d8b093ee6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) After updating the driver, check to see if you can record sound successfully.
 
 ##
@@ -173,10 +157,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  2) Type**services.msc** and press**Enter** to open the Services window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d9350bf7b.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Windows Audio Endpoint Builder** , then click**Restart** . The follow the on-screen instructions.
 
@@ -204,14 +184,22 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-perfect-pairings-of-sound-and-sight-on-social-platforms/"><u>[New] In 2024, Perfect Pairings of Sound and Sight on Social Platforms</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-tutorial-on-winning-spotify-advertising/"><u>[Updated] The Ultimate Tutorial on Winning Spotify Advertising</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-virtuverse-video-vault/"><u>[Updated] VirtuVerse Video Vault</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/amplifying-computer-sound-output-on-windows-10-a-step-by-step-guide/"><u>Amplifying Computer Sound Output on Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/can-you-rely-on-windows-defender-for-adequate-malware-and-threat-protection/"><u>Can You Rely on Windows Defender For Adequate Malware and Threat Protection?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/identifying-and-configuring-hidden-sound-output-in-windows-11-easily/"><u>Identifying and Configuring Hidden Sound Output in Windows 11 Easily</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reactive-measures-for-squadron-communication-fixing-a-dead-microphone/"><u>Reactive Measures for Squadron Communication: Fixing a Dead Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-your-devices-main-audio-connection-heres-how-to-repair-it/"><u>Trouble with Your Device's Main Audio Connection? Here's How to Repair It!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/what-are-the-best-site-to-promote-youtube-videos/"><u>What Are the Best Site to Promote YouTube Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-enhance-click-through-rates-with-good-thumbnails/"><u>[New] In 2024, Enhance Click-Through Rates with Good Thumbnails</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/downloading-from-vimeo-made-simple-software-free-or-not/"><u>Downloading From Vimeo Made Simple Software-Free or Not?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/handheld-happiness-on-a-budget-exploring-features-and-limitations-of-the-nintendo-switch-lite/"><u>Handheld Happiness on a Budget: Exploring Features and Limitations of the Nintendo Switch Lite</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-13-proipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from Apple iPhone 13 Pro/iPad/iPod</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Vivo V29 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-script-writing-for-your-next-youtube-masterpiece-with-chatgpt/"><u>Innovative Script Writing for Your Next YouTube Masterpiece with ChatGPT</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-70-discount-on-the-huffy-oslo-folding-electric-bicycle-limited-time-offer/"><u>Massive 70% Discount on the Huffy Oslo Folding Electric Bicycle - Limited Time Offer!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Spoofing Life360 How to Do it on Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-resolving-windows-perturbed-audio-in-windows-11/"><u>Step-by-Step Guide: Resolving Windows Perturbed Audio in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-troubleshooting-tips-to-restore-sound-functionality-in-windows-11/"><u>The Ultimate Troubleshooting Tips to Restore Sound Functionality in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-audio-issue-headphones-connected-yet-sound-emits-from-speakers/"><u>Troubleshooting Guide: Audio Issue - Headphones Connected Yet Sound Emits From Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-league-of-legends-voice-communication-issues/"><u>Troubleshooting Guide: Fixing League of Legends Voice Communication Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-repairing-your-steelseries-arctis-7-microphone-issues/"><u>Troubleshooting Guide: Repairing Your SteelSeries Arctis 7 Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-microsoft-windows-11-microphone-issues/"><u>Troubleshooting Guide: Resolving Microsoft Windows 11 Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-pc-audio-issues-fixing-low-sound-output-in-windows-10/"><u>Troubleshooting PC Audio Issues: Fixing Low Sound Output in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-realtek-hd-audio-hardware-connection-problems/"><u>Troubleshooting: Realtek HD Audio Hardware Connection Problems</u></a></li>
 </ul></div>
 

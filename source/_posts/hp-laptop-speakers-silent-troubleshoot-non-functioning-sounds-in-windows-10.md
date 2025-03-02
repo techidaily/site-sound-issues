@@ -1,7 +1,7 @@
 ---
 title: HP Laptop Speakers Silent? Troubleshoot Non-Functioning Sounds in Windows 10
-date: 2024-08-18T08:06:42.352Z
-updated: 2024-08-19T08:06:42.352Z
+date: 2025-02-25T01:06:57.455Z
+updated: 2025-03-01T18:26:51.571Z
 tags:
   - win11
   - win10
@@ -28,33 +28,16 @@ When you try to play music or video on your laptop, but just find**no sound on t
 
 `` 2) Click the**sound** icon on your taskbar and choose**Mixer** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-17.jpg)
 
  3) Drag the slider to increase the volume to test if the sound could work.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-22.png)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Set your speakers as default device
 
  1) Right-click on the**s** **ound** icon on your taskbar. Then click**Playback devices** .
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-15.jpg)
 
  2)Highlight your speakers, then click **Set Default** . Click **OK.**
@@ -67,9 +50,6 @@ Go with the easy steps to show it.
 
  1) On the Sound window, right-click on the blank area of the playback device list. Then choose**Show disabled devices** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.jpg)
 
  2) When your speakers shows up, right-click on it to choose**Enable** . Then you can set it as the default device.
@@ -82,16 +62,10 @@ Go with the easy steps to show it.
 
 2) Type **devmgmt.msc** . Then click **OK** to open **Device Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-6.jpg)
 
 2) Expand **Sound, video and game controllers** . Then right click on your sound card’s name and click **Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-10.jpg)
 
 3) Tick on **Delete the driver software for this device.** Then click **OK** to confirm.
@@ -128,8 +102,6 @@ Any problems just feel free to leave your comment below, thanks.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +109,26 @@ Any problems just feel free to leave your comment below, thanks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-channel-naming-excellence-tips-and-strategies/"><u>[Updated] 2024 Approved Channel Naming Excellence Tips & Strategies</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-behind-the-scenes-of-eco-friendly-visual-tricks-in-media/"><u>[Updated] Behind the Scenes of Eco-Friendly Visual Tricks in Media</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/advanced-strategies-to-tackle-your-audio-timing-woes/"><u>Advanced Strategies to Tackle Your Audio Timing Woes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/artists-insight-on-the-functionality-of-gaomon-pd1560-pen-display/"><u>Artist's Insight on the Functionality of Gaomon PD1560 Pen Display</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/collecting-classics-without-copyrights/"><u>Collecting Classics without Copyrights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014559727-cutting-edge-techniques-to-eliminate-discord-echo-glitches-on-pc-in-202-groovy-trending-methods-for-a-crystal-clear-voice-chat/"><u>Cutting-Edge Techniques to Eliminate Discord Echo Glitches on PC in 202 Groovy-Trending Methods for a Crystal Clear Voice Chat!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/easy-fix-guide-for-the-troublesome-blue-screen-with-code-d1-in-windows/"><u>Easy Fix Guide for the Troublesome Blue Screen with Code D1 in Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-ways-to-restore-sound-on-a-dell-computer-or-laptop-quickly/"><u>Effective Ways to Restore Sound on a Dell Computer or Laptop Quickly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-issues-in-windows-11-a-comprehensive-guide/"><u>Fixing Audio Issues in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-muted-or-distorted-sounds-in-your-pc-running-windows-10/"><u>Fixing Muted or Distorted Sounds in Your PC Running Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-logitech-g90-mic-comprehensive-solutions-for-optimal-performance/"><u>Fixing Your Logitech G90 Mic: Comprehensive Solutions for Optimal Performance</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-whatsapp-messages-on-apple-iphone-15-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>How to Track WhatsApp Messages on Apple iPhone 15 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782390-9781591438168-illuminations-of-hildegard-of-bingen-2nd-ed/"><u>Illuminations of Hildegard of Bingen (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ity-check-taking-screencasts-of-youtube-videos-for-2024/"><u>Legality Check Taking Screencasts of YouTube Videos for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-csgo-communication-fix-your-broken-mic-now/"><u>Mastering CS:GO Communication - Fix Your Broken Mic Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/maximizing-speaker-volume-effective-methods-for-loud-sounds-in-windows-10/"><u>Maximizing Speaker Volume: Effective Methods for Loud Sounds in Windows 10</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/most-popular-gratuitous-vfx-websites-for-2024/"><u>Most Popular Gratuitous VFX Websites for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-reviving-sound-during-zoom-calls-on-windows-computers/"><u>Solved! Reviving Sound During Zoom Calls on Windows Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-hardware-your-go-to-hub-for-reliable-pc-advice-and-reviews/"><u>Tom's Hardware: Your Go-To Hub for Reliable PC Advice & Reviews</u></a></li>
+</ul></div>
 

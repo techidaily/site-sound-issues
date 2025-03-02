@@ -1,7 +1,7 @@
 ---
 title: "Guide: Resolving Windows 10'S Underpowered Speaker Problem"
-date: 2025-02-08T20:17:20.403Z
-updated: 2025-02-11T04:12:57.173Z
+date: 2025-02-26T22:29:55.807Z
+updated: 2025-03-01T20:21:11.964Z
 tags:
   - win11
   - win10
@@ -44,29 +44,17 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -88,10 +76,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Adjust **the minimum processor state**
 
  Adjusting**the minimum processor state** , as reported by many users, is another effective way to fix the annoying sound problem in our speaker. To do so:
@@ -99,10 +83,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
@@ -137,21 +117,18 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-dial-up-the-impact-with-50-free-branding-graphics-for-2024/"><u>[Updated] Dial Up the Impact with 50 FREE Branding Graphics for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-direct-match-twitchs-battle-against-youtubes-dominance-for-2024/"><u>[Updated] Direct Match Twitch's Battle Against YouTube's Dominance for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-squaring-the-circle-your-imovie-path-to-perfect-instagram-videos/"><u>[Updated] In 2024, Squaring the Circle Your iMovie Path to Perfect Instagram Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-discontinues-finewoven-collection-in-favor-of-innovative-beats-products-insights-from-zdnet/"><u>Apple Discontinues FineWoven Collection in Favor of Innovative Beats Products - Insights From ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/clear-your-audio-lines-fixing-windows-117-speaker-noise-disruptions-effortlessly/"><u>Clear Your Audio Lines: Fixing Windows 11/7 Speaker Noise Disruptions Effortlessly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-muted-music-in-anthem-a-guide-to-enable-sounds-on-windows-n-11/"><u>Fix Muted Music in Anthem - A Guide to Enable Sounds on Windows N 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guaranteed-ways-to-solve-audio-echo-problems-when-using-discord-on-pc/"><u>Guaranteed Ways to Solve Audio Echo Problems When Using Discord on PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/head-to-head-battle-can-advanced-gemini-outshine-chatgpt-plus/"><u>Head-to-Head Battle: Can Advanced Gemini Outshine ChatGPT Plus?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/prime-authorship-workshop-for-2024/"><u>Prime Authorship Workshop for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-solving-the-problem-when-your-voice-chat-isnt-responding-in-phasmophobia/"><u>Resolved! Solving the Problem When Your Voice Chat Isn't Responding in Phasmophobia</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restarting-audio-communication-repair-tips-for-the-steelseries-arctis-1-mic-problem/"><u>Restarting Audio Communication: Repair Tips for the SteelSeries Arctis 1 Mic Problem</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-hidden-panes-6-tricks-for-windows-11/"><u>Reviving Hidden Panes: 6 Tricks for Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-fixing-hp-display-driver-glitches-for-windows-os-versions-1087/"><u>Troubleshooting and Fixing HP Display Driver Glitches for Windows OS Versions (10/8/7)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-laptops-solving-the-no-audio-problem/"><u>Troubleshooting Silent Laptops: Solving the 'No Audio' Problem</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-restoring-functionality-to-a-broken-logitech-g733-mic/"><u>Troubleshooting Tips: Restoring Functionality to a Broken Logitech G733 Mic</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-enhancing-the-endurance-of-your-gopro-battery/"><u>[New] 2024 Approved Enhancing the Endurance of Your GoPro Battery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-3-free-video-players-face-off-vlc-vs-mpc-showdown/"><u>[New] 2024 Approved Top 3 FREE Video Players Face Off VLC Vs. MPC Showdown</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-celebrating-the-10-best-moba-games-on-android/"><u>[Updated] 2024 Approved Celebrating the #10 Best MOBA Games on Android</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-sound-of-success-audio-tips-to-elevate-your-youtube-experience/"><u>2024 Approved The Sound of Success Audio Tips to Elevate Your YouTube Experience</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/best-solutions-overcoming-issues-with-note-transfer-on-iphone-models-iphone-15-14-13-and-12/"><u>Best Solutions: Overcoming Issues with Note Transfer on iPhone Models (iPhone 15, 14, 13 & 12)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Vivo Y100i Power 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g230-microphone-malfunction-discover-proven-repair-methods/"><u>Logitech G230 Microphone Malfunction? Discover Proven Repair Methods!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-audio-troubleshooting-for-undetected-speakers-in-windows-10-environments/"><u>Mastering Audio Troubleshooting for Undetected Speakers in Windows 10 Environments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-audio-hiccups-with-your-bluetooth-devices-in-windows-11/"><u>Overcome Audio Hiccups with Your Bluetooth Devices in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-intermittent-audio-with-these-tips-for-bluetooth-on-windows-1110/"><u>Overcome Intermittent Audio with These Tips for Bluetooth on Windows 11/10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-sound-problems-with-your-arctis-headset-fix-for-non-functional-mic/"><u>Overcome Sound Problems with Your Arctis Headset: Fix for Non-Functional Mic</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-roadmap-for-earning-a-student-price-cut-at-microsoft-store/"><u>The Ultimate Roadmap for Earning a Student Price Cut at Microsoft Store</u></a></li>
 </ul></div>
 

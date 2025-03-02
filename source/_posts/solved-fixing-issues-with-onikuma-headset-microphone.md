@@ -1,7 +1,7 @@
 ---
 title: "Solved: Fixing Issues with Onikuma Headset Microphone"
-date: 2024-12-07T17:37:36.198Z
-updated: 2024-12-10T17:00:04.761Z
+date: 2025-02-28T01:20:32.506Z
+updated: 2025-03-02T00:02:30.693Z
 tags:
   - win11
   - win10
@@ -58,27 +58,15 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-1-2.jpg)
 3. Navigate to the**Microphone** tab on the left pane. Then, click the**Change** button and**turn on** Microphone access for this device.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-2-1.jpg)
 4. **Toggle on the button** below Allow apps to access your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-3-1.jpg)
 5. Scroll to locate Allow desktop apps to access your microphone, and set the option to**On** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-2.jpg)
 
  Now you should be able to use the Onikuma headset mic with whatever applications. But if the problem persists, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Set your Onikuma mic as the default device
 
@@ -87,10 +75,6 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 1. In the Windows search box, type**control** and select**Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-1-3.jpg)
 2. Select**Small icons** next to View by and click**Sound** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-2-1.jpg)
 3. Select the**Recording** tab. Then right-click your Onikuma headset mic and click**Enable** (if it’s not) and click**Set as Default Device** .  
@@ -107,10 +91,6 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
  In some cases, Onikuma headset mic not working only occurs in specific applications. If so, you should**check the application settings** and manually**set the Onikuma headset as your preferred audio device** .
 
  If this method doesn’t help either, move on to the next fix to check your audio driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Update your audio driver
 
@@ -139,10 +119,6 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -170,17 +146,17 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-alphabetical-arrangement-of-cine-capture-models/"><u>[New] 2024 Approved Alphabetical Arrangement of Cine-Capture Models</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-declutter-photos-with-affinitys-ease-for-2024/"><u>[Updated] Declutter Photos with Affinity's Ease for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-tips-for-constructing-inspirational-day-to-day-visual-narratives/"><u>2024 Approved Tips for Constructing Inspirational Day-to-Day Visual Narratives</u></a></li>
-<li><a href="https://facebook.techidaily.com/biden-leads-with-social-media-in-covid-19-vax-drive/"><u>Biden Leads with Social Media in COVID-19 Vax Drive</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-unresponsive-microphone-in-airpods-when-using-windows-11/"><u>How to Fix Unresponsive Microphone in AirPods When Using Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-malfunctioning-razer-kraken-audio-device/"><u>How to Repair a Malfunctioning Razer Kraken Audio Device</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-xiaomi-redmi-note-12-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Xiaomi Redmi Note 12 5G Phone that is Locked?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-no-audio-output-from-external-speakers-in-windows-environment/"><u>How to Resolve No Audio Output From External Speakers in Windows Environment</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-game-sounds-resolving-world-of-warcrafts-muting-troubles/"><u>How to Restore Game Sounds - Resolving World of Warcraft's Muting Troubles</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-fast-video-trimming-in-windows-11-apps/"><u>In 2024, Unlock Fast Video Trimming in Windows 11 Apps</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/practical-ways-to-archive-online-discussions-for-2024/"><u>Practical Ways to Archive Online Discussions for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-spin-and-share-easy-iphone-filmmaking-techniques-for-2024/"><u>[New] Spin and Share Easy iPhone Filmmaking Techniques for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capturing-motion-with-gopro-time-lapse-techniques/"><u>[Updated] Capturing Motion with GoPro Time-Lapse Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-storage-exploration-how-many-vids-can-64128gb-hold/"><u>[Updated] Storage Exploration How Many Vids Can 64/128GB Hold?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/airpods-on-windows-11-diagnosing-and-fixing-microphone-problems-for-optimal-audio-performance/"><u>AirPods on Windows 11: Diagnosing and Fixing Microphone Problems for Optimal Audio Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/detailed-tutorial-reactivating-the-dolby-audio-driver-when-encountered-with-errors-in-windows-11/"><u>Detailed Tutorial: Reactivating the Dolby Audio Driver When Encountered with Errors in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-oneplus-nord-n30-se-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting OnePlus Nord N30 SE Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-to-get-your-steelseries-arctis-n-microphone-working-again/"><u>Effective Solutions to Get Your SteelSeries Arctis N Microphone Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhancing-computer-sound-clarity-and-volume-on-windows-11-devices/"><u>Enhancing Computer Sound Clarity and Volume on Windows 11 Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/hidden-treasure-of-free-macos-transcription-tools/"><u>Hidden Treasure of Free macOS Transcription Tools</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-huawei-nova-y91-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Huawei Nova Y91 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-art-of-storytelling-that-bots-cant-emulate/"><u>The Art of Storytelling that Bots Can't Emulate</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-xiaomi-redmi-note-12-proplus-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Xiaomi Redmi Note 12 Pro+ 5G FRP Bypass Everything You Need to Know</u></a></li>
 </ul></div>
 

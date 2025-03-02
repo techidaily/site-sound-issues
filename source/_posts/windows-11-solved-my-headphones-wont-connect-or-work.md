@@ -1,7 +1,7 @@
 ---
 title: Windows 11 - Solved! My Headphones Won't Connect or Work
-date: 2025-02-09T16:46:48.026Z
-updated: 2025-02-10T17:22:45.106Z
+date: 2025-02-23T03:12:55.737Z
+updated: 2025-03-01T18:38:27.968Z
 tags:
   - win11
   - win10
@@ -47,24 +47,12 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -84,10 +72,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
@@ -99,10 +83,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
@@ -137,22 +117,24 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-live-video-quest-evaluating-the-strengths-of-obs-and-twitch-studio/"><u>[Updated] 2024 Approved Live Video Quest Evaluating the Strengths of OBS and Twitch Studio</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-direct-download-of-youtube-videos/"><u>[Updated] Direct Download of YouTube Videos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/banish-sound-glitches-in-windows-11-expert-solutions-for-a-seamless-listening-experience/"><u>Banish Sound Glitches in Windows 11: Expert Solutions for a Seamless Listening Experience</u></a></li>
-<li><a href="https://solve-news.techidaily.com/customized-user-experience-with-automated-tracking-powered-by-cookiebot-technology/"><u>Customized User Experience with Automated Tracking: Powered by Cookiebot Technology</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easy-tips-and-tweaks-to-turn-up-the-sound-in-your-windows-11-system/"><u>Easy Tips and Tweaks to Turn Up the Sound in Your Windows 11 System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-guide-on-resolving-razer-blackshark-v2s-non-functional-microphone-problems/"><u>Expert Guide on Resolving Razer BlackShark V2's Non-Functional Microphone Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/failed-to-recognize-users-fingerprint/"><u>Failed To Recognize User's Fingerprint</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-hdmi-audio-issues-on-windows-7-a-step-by-step-guide/"><u>Fixing HDMI Audio Issues on Windows 7: A Step-by-Step Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-leading-movie-teasers-highlighted/"><u>In 2024, Leading Movie Teasers Highlighted</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-sky-high-technology-unleashed-compreeive-review-of-dji-phantom-4/"><u>In 2024, Sky High Technology Unleashed Compreeive Review of DJI Phantom 4</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-non-functioning-dell-speakers-resolve-now/"><u>Quick Fixes for Non-Functioning Dell Speakers - Resolve Now!</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/simple-steps-to-import-youtube-music-into-imovie-for-2024/"><u>Simple Steps to Import YouTube Music Into iMovie for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016728227-solve-your-displays-issues-when-nvidia-output-is-missing/"><u>Solve Your Displays Issues When Nvidia Output Is Missing!</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/solving-audio-issues-steps-when-your-sound-card-fails-expertise-by-yl-software/"><u>Solving Audio Issues: Steps When Your Sound Card Fails - Expertise by YL Software</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-ultimate-guide-to-removing-a-facebook-community/"><u>The Ultimate Guide to Removing a Facebook Community</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-wow-voice-chat-heres-how-you-can-get-it-working-again/"><u>Trouble with WoW Voice Chat? Here's How You Can Get It Working Again</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-perfecting-the-art-of-podcast-title-creation-essential-tips-and-inspirations/"><u>[New] 2024 Approved Perfecting the Art of Podcast Title Creation Essential Tips & Inspirations</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-minimizing-film-length-mac-solutions-for-instagram-posting/"><u>[Updated] Minimizing Film Length Mac Solutions for Instagram Posting</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016470286-2024s-ultimate-hack-to-restore-microphone-functionality-on-oculus-rift-s-quick-and-easy-methods/"><u>2024'S Ultimate Hack to Restore Microphone Functionality on Oculus Rift S – Quick & Easy Methods!</u></a></li>
+<li><a href="https://games-able.techidaily.com/correcting-the-librarian-oversight-eg-games-listing-errors/"><u>Correcting the Librarian Oversight - EG Games Listing Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-headset-malfunctions-expert-tips-for-restoring-functionality/"><u>Corsair Headset Malfunctions: Expert Tips for Restoring Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/crack-the-silence-ultimate-hacks-to-get-your-toshiba-laptop-speakers-working-again/"><u>Crack the Silence: Ultimate Hacks to Get Your Toshiba Laptop Speakers Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-fixing-your-pcs-audio-glitches-on-windows-11-a-five-step-guide/"><u>Expert Tips: Fixing Your PC's Audio Glitches on Windows 11 - A Five-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-making-your-lucidsound-ls30-microphone-work-again/"><u>Expert Tips: Making Your LucidSound LS30 Microphone Work Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fast-fix-tips-reviving-your-astro-a20-microphones-performance/"><u>Fast Fix Tips: Reviving Your Astro A20 Microphone's Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-and-solutions-windows-media-player-restoring-audio-output/"><u>Fixes and Solutions: Windows Media Player - Restoring Audio Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-connectivity-issues-with-your-blue-yeti-headset-easily/"><u>Fixing Connectivity Issues with Your Blue Yeti Headset Easily</u></a></li>
+<li><a href="https://some-tips.techidaily.com/future-of-service-delivery-mastering-the-rise-of-agent-ecosystems-in-artificial-intelligence/"><u>Future of Service Delivery: Mastering the Rise of Agent Ecosystems in Artificial Intelligence</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015869330-google-hangouts-microphone-wont-work-heres-how-to-fix-it-easily/"><u>Google Hangouts Microphone Won't Work? Here’s How to Fix It Easily</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-samsung-galaxy-a54-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Samsung Galaxy A54 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagram-video-loading-boosted-tricks-for-all-devices-for-2024/"><u>Instagram Video Loading Boosted Tricks for All Devices for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/inverting-image-hues-in-photoshop/"><u>Inverting Image Hues in Photoshop</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/visual-comedy-make-and-share-via-kapwing-for-2024/"><u>Visual Comedy Make and Share via Kapwing for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-pick-microsoft-copilot-four-compelling-reasons/"><u>Why Pick Microsoft Copilot? Four Compelling Reasons</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wireless-wifi-solutions-your-guide-to-a-cable-and-phone-free-internet-experience/"><u>Wireless WiFi Solutions - Your Guide to a Cable and Phone-Free Internet Experience</u></a></li>
 </ul></div>
 

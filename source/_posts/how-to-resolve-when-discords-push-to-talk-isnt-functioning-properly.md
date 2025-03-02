@@ -1,7 +1,7 @@
 ---
 title: How To Resolve When Discord's Push-to-Talk Isn't Functioning Properly
-date: 2024-08-18T08:05:52.545Z
-updated: 2024-08-19T08:05:52.545Z
+date: 2025-02-23T04:18:29.552Z
+updated: 2025-03-02T11:55:29.521Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
 
 ## Resolving Audio Glitches: Fixing Windows Press Microphones that Aren't Functioning Properly on Your PC
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db29239db22.png)
   
  Users have reported that they are having problems using their microphone on Windows 7 all of a sudden, which makes it impossible to communicate with others online if they want to use programs such as Skype.
@@ -45,16 +42,10 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db4f8a348e2.png)
 
  2) Navigate to Recording tab, then check if there is a green icon on your Microphone, which indicates that your microphone should be working properly.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db52bbcd86d.jpg)
   
  3) Noted that the Microphone here is set as**Default Device** . If yours doesn’t show as a Default Device, please select it and choose **Set Default.**
   
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db55263a687.jpg)
   
  **Step 3: Update Audio Driver**
@@ -63,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
   
  1) Press**Windows key** and**R** at the same time, then type in**devmgmt.msc** and hit**Enter** .
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db560286c8c.png)
   
  2) Then click to expand category**Sound, video and game controllers** . Right click the audio device driver that you have and choose**Update Driver Software…** .
@@ -78,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
   
  4) If you see the notification telling you that **Windows has determined the driver software for your device is up to date** , but the problem remains, you need to look for the correct in other ways.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db56c3a8acb.png)
   
  5) Download and install[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . Press the**Scan Now** button right in the middle.
@@ -89,9 +74,6 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
   
  6) Then press the**Update** button next to the audio driver that you have to get it updated automatically.
   
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db59148e846.jpg)
 
  As you can see here, more device drivers needs an update so as to make sure that they stay at their peak performance. With the help of[**professional version of Driver Easy**](https://tools.techidaily.com/drivereasy/download/) , you can update all of them by just pressing the**Update All** button. Fast and easily!
@@ -105,8 +87,6 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +94,24 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-deciphering-highlighted-discussion-threads/"><u>[New] 2024 Approved Deciphering Highlighted Discussion Threads</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-live-streaming-simplified-with-top-webcam-recorders/"><u>[Updated] Live Streaming Simplified with Top WebCam Recorders</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-online-overtures-10-influential-youtube-stars/"><u>[Updated] Online Overtures 10 Influential YouTube Stars</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-smoothest-android-3d-video-streaming/"><u>2024 Approved Smoothest Android 3D Video Streaming</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-guide-to-enhance-video-content-via-srt-transcoding/"><u>2024 Approved Step-by-Step Guide to Enhance Video Content via SRT Transcoding</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/end-your-audio-troubles-with-discord-once-and-for-all-the-ultimate-step-by-step-solution/"><u>End Your Audio Troubles with Discord Once and For All – The Ultimate Step-by-Step Solution</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/enhancing-comments-with-emojis-on-youtube/"><u>Enhancing Comments with Emojis on YouTube</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-get-your-runmud-gaming-setup-microphone-working-again/"><u>Expert Tips to Get Your Runmud Gaming Setup Microphone Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-device-connectivity-solutions-for-speaker-and-headphones-not-recognized-in-windows-systems/"><u>Fixing Audio Device Connectivity: Solutions for Speaker and Headphones Not Recognized in Windows Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-windows-1011-bluetooth-sound-interruptions-and-freezing/"><u>Fixing Windows 10/11 Bluetooth Sound Interruptions and Freezing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211425017-9781631523052-hidden-treasure/"><u>Hidden Treasure | Free Book</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-iphone-13-pro-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On iPhone 13 Pro Making It Possible</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-msi-sound-card-drivers-free-downloads-for-windows-users/"><u>Latest MSI Sound Card Drivers: Free Downloads for Windows Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/problem-solved-restoring-volume-control-on-firefox-platform/"><u>Problem Solved: Restoring Volume Control on Firefox Platform</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-non-functioning-obs-computer-mic-and-microphone-problems/"><u>Step-by-Step Solutions for Non-Functioning OBS Computer Mic & Microphone Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-turtle-beach-rivalry-not-working-issue/"><u>Step-by-Step Solutions for Turtle Beach Rivalry Not Working Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fix-for-when-your-laptops-speakers-arent-working/"><u>Ultimate Fix for When Your Laptop's Speakers Aren't Working</u></a></li>
+</ul></div>
 

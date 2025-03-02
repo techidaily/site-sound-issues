@@ -1,7 +1,7 @@
 ---
 title: Overcoming Issues with Your Jabra Headset - Expert Tips & Fixes
-date: 2025-02-07T17:29:51.339Z
-updated: 2025-02-11T04:01:10.461Z
+date: 2025-02-27T10:39:21.041Z
+updated: 2025-03-02T02:13:03.394Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -78,10 +74,6 @@ Now check if voice chat functions properly.
 3. Ensure that “**Who can send you voice chat and party invites** ” is not set to Private.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/stadia-privacy-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Windows 10
 
 1. If Destiny 2 is open, close the game entirely.
@@ -90,20 +82,12 @@ Now check if voice chat functions properly.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-ms-settings-privacy-microphone.jpg)
 4. Under**Allow apps to access your microphone** , make sure the toggle is set to**ON** . If not, you can click the**Change** button above to turn it on.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-apps-to-access-your-microphone.jpg)
 5. Scroll down the list of apps below that toggle to find**Destiny 2** . Make sure it is also toggled to**ON** .
 
 6. **Relaunch** the game and check if the in-game voice chat is working.
 
 If this fix doesn’t do the trick, move on to the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -123,10 +107,6 @@ If this fix doesn’t do the trick, move on to the next one.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-scan.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
@@ -156,10 +136,6 @@ Now you can check if the voice chat feature works properly in Destiny 2.
 
 If this method still gives you no luck, take a look at the next one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Check your sound settings (PC)
 
  If your device is muted or disabled by mistake, you may encounter the issue of Destiny 2 voice chat not working. To see if that’s the case, you need to check the sound settings on your computer. Besides, make sure your microphone is listed as the default device. Here’s how:
@@ -174,25 +150,13 @@ If this method still gives you no luck, take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/sounds.jpg)
 4. Choose the**Playback** tab,**select the headphones** you want to use, and click Set Default.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/headphones-set-default.jpg)
 5. Navigate to the Recording tab, select the microphone you want to use, and click**Set Default** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/microphone-set-default.jpg)
 6. Click**OK** to save changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/ok.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After everything is set up correctly, restart Destiny 2 to see if your audio issue is resolved.
 
@@ -246,17 +210,19 @@ If the issue remains, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-mastering-youtube-the-ultimate-guide-to-video-trimming/"><u>[New] 2024 Approved Mastering YouTube The Ultimate Guide to Video Trimming</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/valuating-the-financial-returns-for-makers-on-youtube-shorts-for-2024/"><u>[New] Evaluating the Financial Returns for Maker's on YouTube Shorts for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-comprehensive-guide-to-metaverse-promotion/"><u>[Updated] 2024 Approved The Comprehensive Guide to Metaverse Promotion</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-guide-to-securely-copying-youtube-music-tracks-safely/"><u>[Updated] In 2024, Guide to Securely Copying YouTube Music Tracks Safely</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-ultimate-check-of-dji-phantom-3/"><u>[Updated] The Ultimate Check of DJI Phantom 3</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/grasp-the-typical-earning-curve-for-podcasters-for-2024/"><u>Grasp the Typical Earning Curve for Podcasters for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/immediate-fix-how-to-restore-sound-on-your-astro-a50-headphones/"><u>Immediate FIX: How to Restore Sound on Your Astro A50 Headphones</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reformatting-win10-high-res-displays/"><u>Reformatting Win10 High-Res Displays</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-audio-to-usb-headphones-a-step-by-step-guide-for-windows-solved-7-users/"><u>Restoring Audio to USB Headphones - A Step-by-Step Guide for Windows ([Solved]) 7 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-lose-audio-after-updating-to-windows-10-heres-the-quick-fix/"><u>Solved: Lose Audio After Updating to Windows 10? Here's the Quick Fix</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-for-repairing-a-broken-logitech-g430-microphone/"><u>Step-by-Step Guide for Repairing a Broken Logitech G430 Microphone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-poco-c50-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-decoding-kinemaster-complexities-best-practices-and-alternative-digital-tools/"><u>[New] Decoding KineMaster Complexities Best Practices & Alternative Digital Tools</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-fast-track-your-mobile-vids-with-these-tools-for-2024/"><u>[New] Fast-Track Your Mobile Vids with These Tools for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-integrating-effective-annotations-for-dynamic-storytelling/"><u>[New] Integrating Effective Annotations for Dynamic Storytelling</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-simplified-obs-settings-for-economical-systems-for-2024/"><u>[New] Simplified OBS Settings for Economical Systems for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-3d-modeling-software-to-use-for-animation/"><u>[Updated] 2024 Approved 3D Modeling Software to Use for Animation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/defeating-discords-persistent-echo-on-your-pc-the-definitive-2024-tutorial/"><u>Defeating Discord's Persistent Echo on Your PC: The Definitive 2024 Tutorial</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/discord-ptt-not-working-effective-strategies-to-get-it-running-smoothly-again/"><u>Discord PTT Not Working: Effective Strategies to Get It Running Smoothly Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solutions-for-when-your-pebble-audio-device-fails/"><u>DIY Solutions for When Your Pebble Audio Device Fails</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-overcome-the-no-sound-problem-in-windows-11-computers/"><u>Expert Tips to Overcome the 'No Sound' Problem in Windows 11 Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-a-malfunctioning-rust-microphone-comprehensive-guide-for-2nnd4/"><u>Fixing a Malfunctioning Rust Microphone - Comprehensive Guide for 2Nnd4</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-recognition-problems-with-your-blue-yeti-usb-microphone/"><u>Fixing Recognition Problems with Your Blue Yeti USB Microphone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Pokemon Go Joystick on Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-intro-maker-software-for-pc-top-10-reviews-and-comparisons/"><u>Updated 2024 Approved Intro Maker Software for PC Top 10 Reviews and Comparisons</u></a></li>
 </ul></div>
 

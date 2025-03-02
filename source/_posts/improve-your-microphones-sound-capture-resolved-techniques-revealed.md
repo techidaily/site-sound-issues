@@ -1,7 +1,7 @@
 ---
 title: Improve Your Microphone's Sound Capture - Resolved Techniques Revealed
-date: 2025-02-04T08:58:20.961Z
-updated: 2025-02-11T01:52:14.367Z
+date: 2025-03-01T12:28:40.571Z
+updated: 2025-03-01T16:08:01.204Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ Hey, buddy, can you hear me?
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix Fortnite mic not working?
 
  Here are 5 methods that have helped many players get their mic working in Fortnite again. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -49,16 +45,8 @@ Hey, buddy, can you hear me?
    ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88b171d3c2d.jpg)  
    2. At the top of the screen, click the**speaker icon** to view the**Audio** settings.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
    ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88b3985ef65.jpg)  
    3. **Turn off** Voice Chat, then click**Apply** at the bottom.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
    ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88b6b121fbd.jpg)
 2. Close Fortnite.
@@ -69,10 +57,6 @@ Hey, buddy, can you hear me?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf478c5ca3c.jpg)
 5. **Right-click** on the device you want to use, and select**Set as Default Device** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf47aa5ad97.jpg)  
 **Note:** You can try**speaking into your microphone** to test if it’s working properly. If it is, you should see a green bar rising next to it while you talk.  
@@ -103,16 +87,8 @@ Hey, buddy, can you hear me?
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf4e77d496c.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically.  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb0550e404c0.jpg)
 4. Restart your computer and check if your mic now works properly in Fortnite. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Method 3 below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -132,10 +108,6 @@ Hey, buddy, can you hear me?
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 4: Allow apps to access your mic
 
  Many computers had a kind of privacy settings reset after a major**Windows 10** update in April 2018, which may have caused Fortnite unable to access your microphone. You can check for it through**Windows Settings** . Here’s how:
@@ -153,10 +125,6 @@ Hey, buddy, can you hear me?
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf492ca1d0f.jpg)
 5. In the section of**Choose which apps can access your microphone** , verify that**Fortnite is turned on** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Test in Fortnite.
 
 #### Windows 11
@@ -172,10 +140,6 @@ Hey, buddy, can you hear me?
 
 ![windows 11 - Make sure apps have access to your microphone](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Let-desktop-apps-access-your-microphone-make-sure-its-On.jpg)
 4. Now test your voice chat in-game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -213,19 +177,22 @@ Enjoy your game!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-your-easy-routine-for-viewing-well-regarded-and-favorited-comments/"><u>[New] Your Easy Routine for Viewing Well-Regarded and Favorited Comments</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-incorporating-markers-a-step-by-step-videography-guide-for-2024/"><u>[Updated] Incorporating Markers A Step-By-Step Videography Guide for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-step-into-simulation-androids-ultimate-guide-to-the-best-15-games/"><u>[Updated] Step Into Simulation Android’s Ultimate Guide to the Best 15 Games</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-expert-strategies-for-finding-no-cost-art/"><u>2024 Approved Expert Strategies for Finding No-Cost Art</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-the-cheapest-cloud-storage-service-for-mass-file/"><u>2024 Approved The Cheapest Cloud Storage Service for Mass File</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortless-guide-troubleshooting-your-devices-failed-sound-verification-alert/"><u>Effortless Guide: Troubleshooting Your Device's Failed Sound Verification Alert</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-tozo-t6-not-working-on-windows-11/"><u>How to Fix Tozo T6 Not Working on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-windows-11-audio-devices-working-again-fixes-included/"><u>How To Get Your Windows 11 Audio Devices Working Again [FIXES INCLUDED]</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Lava Agni 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/integrating-intelligence-four-methods-for-chatgpt-to-read-your-pdfs/"><u>Integrating Intelligence: Four Methods for ChatGPT to Read Your PDFs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-sound-issues-in-windows-7-fixing-headphones-wont-work-error/"><u>Solving Sound Issues in Windows 7 - Fixing Headphones Won't Work Error</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/turn-off-sound-improvement-features-on-your-windows-11-device/"><u>Turn Off Sound Improvement Features on Your Windows 11 Device</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-no-matches-issues-on-bumble/"><u>Ultimate Guide: Resolving 'No Matches' Issues on Bumble</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/virtual-worlds-on-screen-new-era-films/"><u>Virtual Worlds on Screen New Era Films</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-interpreting-the-functionality-behind-blue-icons-in-chat-apps/"><u>[New] 2024 Approved Interpreting the Functionality Behind Blue Icons in Chat Apps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-visual-treatment-adding-effects-on-videos-pcmobile/"><u>Advanced Visual Treatment Adding Effects on Videos (PC/Mobile)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-upgrade-dell-sound-card-software-with-simple-steps/"><u>Download & Upgrade Dell Sound Card Software with Simple Steps</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/download-and-use-open-source-avi-video-player-on-your-windows-11-system-comprehensive-tutorial/"><u>Download and Use Open Source AVI Video Player on Your Windows 11 System - Comprehensive Tutorial</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-lava-yuva-2-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Lava Yuva 2 Phone</u></a></li>
+<li><a href="https://techidaily.com/is-your-infinix-smart-7-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Infinix Smart 7 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/laptop-internal-speakers-no-sound-solved/"><u>Laptop Internal Speakers No Sound [Solved]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-sound-glitches-and-echo-issues-in-windows-10-and-7-a-comprehensive-guide/"><u>Resolving Sound Glitches and Echo Issues in Windows 10 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-keyboard-problems-a-complete-walkthrough-on-resetting-your-devices-input-method/"><u>Solve Keyboard Problems: A Complete Walkthrough on Resetting Your Device's Input Method</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-reactivate-audio-inputs-on-your-pc-with-windows-1187/"><u>Step-by-Step Guide to Reactivate Audio Inputs on Your PC with Windows 11/8/7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-non-functional-speakers-on-your-pc-or-macbook/"><u>Troubleshooting and Repairing Non-Functional Speakers on Your PC or MacBook</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-problems-how-to-resolve-no-sound-error-on-windows-10-8-and-7/"><u>Troubleshooting Audio Problems: How to Resolve 'No Sound' Error on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-issues-with-every-g2000-mic-on-your-kotion-system/"><u>Troubleshooting Steps: Resolving Issues with Every G2000 Mic on Your Kotion System</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-guide-to-fixing-damaged-pictures-in-photo-8-using-stellar-software/"><u>Ultimate Guide to Fixing Damaged Pictures in Photo 8 Using Stellar Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-repair-guide-fixing-beyond-the-wire-microphone-issues/"><u>Ultimate Repair Guide: Fixing 'Beyond The Wire' Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/uninterrupted-audio-experience-on-your-pc-with-these-solutions-for-windows-117-sound-problems/"><u>Uninterrupted Audio Experience on Your PC with These Solutions for Windows 11/7 Sound Problems</u></a></li>
 </ul></div>
 

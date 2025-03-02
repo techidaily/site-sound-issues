@@ -1,7 +1,7 @@
 ---
 title: Addressing Unresponsive Microphone and Headphone Setup Troubles in Microsoft's Latest & Previous OS Versions
-date: 2024-08-18T08:04:42.803Z
-updated: 2024-08-19T08:04:42.803Z
+date: 2025-02-28T20:11:04.333Z
+updated: 2025-03-02T11:53:08.548Z
 tags:
   - win11
   - win10
@@ -39,16 +39,9 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
 
  1) Right click the volume icon and then choose**Playback devices** .
   
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db4f8a348e2.png)
 
  2) Navigate to Recording tab, then check if there is a green icon on your Microphone, which indicates that your microphone should be working properly.
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db52bbcd86d.jpg)
   
  3) Noted that the Microphone here is set as**Default Device** . If yours doesn’t show as a Default Device, please select it and choose **Set Default.**
@@ -61,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
   
  1) Press**Windows key** and**R** at the same time, then type in**devmgmt.msc** and hit**Enter** .
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db560286c8c.png)
   
  2) Then click to expand category**Sound, video and game controllers** . Right click the audio device driver that you have and choose**Update Driver Software…** .
@@ -72,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
   
  3) Then choose**Search automatically for updated driver software** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db567b2d6cf.jpg)
   
  4) If you see the notification telling you that **Windows has determined the driver software for your device is up to date** , but the problem remains, you need to look for the correct in other ways.  
@@ -83,17 +70,10 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
   
  5) Download and install[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . Press the**Scan Now** button right in the middle.
   
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db58bff02a9.png)
   
  6) Then press the**Update** button next to the audio driver that you have to get it updated automatically.
   
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db59148e846.jpg)
 
  As you can see here, more device drivers needs an update so as to make sure that they stay at their peak performance. With the help of[**professional version of Driver Easy**](https://tools.techidaily.com/drivereasy/download/) , you can update all of them by just pressing the**Update All** button. Fast and easily!
@@ -107,8 +87,6 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +94,18 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-potential-a-compreayers-guide-to-batched-video-downloads-from-tiktok/"><u>[New] Unlocking the Potential A Compreayer's Guide to Batched Video Downloads From TikTok</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-building-visual-story-arcs/"><u>[Updated] Building Visual Story Arcs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-acquiring-free-picture-frame-videos/"><u>2024 Approved Guide to Acquiring Free Picture Frame Videos</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/descargas-gratuitas-para-convertir-archivos-flv-a-mjpeg-herramienta-de-conversion-sin-coste/"><u>Descargas Gratuitas Para Convertir Archivos FLV a MJPEG - Herramienta De Conversión Sin Coste</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-to-overcome-code-31-errors-in-microsoft-windows/"><u>Effective Strategies to Overcome Code 31 Errors in Microsoft Windows</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-your-ppc-with-advanced-cookiebot-features/"><u>Elevate Your PPC with Advanced Cookiebot Features</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-broken-corsair-headset-expert-tips-and-tricks/"><u>How to Fix a Broken Corsair Headset – Expert Tips & Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015952228-how-to-fix-realtek-hd-audio-controller-wont-launch-complete-solution/"><u>How to Fix Realtek HD Audio Controller Won't Launch – Complete Solution!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014754791-post-upgrade-audio-issue-on-windows-10-quick-fixes-guaranteed/"><u>Post-Upgrade Audio Issue on Windows 10 – Quick Fixes Guaranteed!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-restoring-sound-on-windows-ve-pcs-using-usb-headphones/"><u>Troubleshooting Steps: Restoring Sound on Windows Ve PCs Using USB Headphones</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-fix-the-fnaf-security-intrusion-game-is-now-fully-operational-on-your-pc-say-goodbye-to-crashes/"><u>Ultimate Fix: The FNAF Security Intrusion Game Is Now Fully Operational on Your PC, Say Goodbye to Crashes!</u></a></li>
+</ul></div>
 

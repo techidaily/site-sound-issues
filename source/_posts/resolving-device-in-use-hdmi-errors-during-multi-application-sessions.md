@@ -1,7 +1,7 @@
 ---
 title: Resolving 'Device In Use' HDMI Errors During Multi-Application Sessions
-date: 2024-08-23T12:10:19.771Z
-updated: 2024-08-24T12:10:19.771Z
+date: 2025-02-23T12:58:48.107Z
+updated: 2025-03-01T18:38:50.444Z
 tags:
   - win11
   - win10
@@ -33,31 +33,19 @@ Many players are reporting that they can hear others clearly but the voice chat 
 
 1. When you’re in the game, access your**Options** Menu.
 2. Go to the**AUDIO** tab and set**Voice Chat** to**Enabled** .  
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![voice chat enabled](https://images.drivereasy.com/wp-content/uploads/2021/01/Voice-chat-enabled.jpg)
 3. If your**Voice Chat Recording Mode** is set to**Open Mic** , set Set **Open Mic Recording Threshold** to the lowest setting/minimum (we recommend 0.00). Setting this level too high may prevent your voice from being heard by other players.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/set-low.png)
 4. But if you set it to**Push to Talk** , please be sure you’re aware of exactly what button you’d need to press to activate your microphone.
 5. Apply the settings. Go back to your game and test the sound issues.
 
 **Note:** If you’re on Xbox, please check to ensure that your Xbox privacy settings are set appropriately for**Crossplay** .
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Perform a Windows Update
 
  COD: Modern Warfare voice chat requires that Windows is fully updated. So if you’re getting this problem on Windows, make sure to run Windows Updates. Here’s how to do it quickly:
 
 1. In the Windows Search bar, start typing**check for updates** , and select**Check for updates** .  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates-windows.jpg)
 2. Install the available updates.
 3. Once complete, launch Modern Warfare again to see if voice chat is working now.
@@ -71,45 +59,24 @@ Many players are reporting that they can hear others clearly but the voice chat 
 2. Select the **Recording** tab. Right-click on the device that you’re currently using (your headphone) and then select **Set as Default Device** and then **Set as Default Communication Device** from its context menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/default.jpg)
 3. Right-click your default microphone and then select **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/audio-properties.jpg)
 4. On the **Levels** tab, drag the sliders of the **Microphone** to turn up the volume. Just make sure you haven’t muted them or set them to such low levels that you cannot hear the voice yourself.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/headphone-levels.jpg)
 5. Click **OK** to save the changes.
 6. Play Modern Warfare and test if others can hear you this time.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Update your audio driver
 
  The Modern Warfare voice chat not working issue might also be triggered by outdated audio drivers. If you haven’t updated your drivers for a long time, then you definitely need to do it now.
 
  There are mainly two ways you can update your audio driver:[manually](https://tools.techidaily.com/drivereasy/download/) and[automatically](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 1: Manually update your audio driver
 
  First, make sure you know the PC model and device model, and then go to the PC manufacturer’s website or the sound card’s website to check for the latest audio driver.
 
 **Note:** You can update your device driver via Device Manager, but Windows won’t deliver the latest driver.[Learn Why…](https://tools.techidaily.com/drivereasy/download/) So to make sure you can update your audio card driver to the latest version, you should get it from the manufacturer.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2: Automatically update your audio driver (recommended)
 
  If you don’t have the time, patience, or computer skills to update the graphics card driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -154,8 +121,6 @@ Here’s how to update your drivers with Driver Easy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +128,19 @@ Here’s how to update your drivers with Driver Easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-easy-to-follow-guide-to-mobile-recording-snapchat-edition/"><u>[Updated] 2024 Approved Easy-to-Follow Guide to Mobile Recording Snapchat Edition</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-stream-your-spotify-hits-on-youtube-with-these-select-tools/"><u>[Updated] Stream Your Spotify Hits on YouTube with These Select Tools</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/90windows-11115/"><u>動画90度回転・保存方法：Windows 11/11で選べば楽しい範囲5つ</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/can-i-peruse-friends-shared-videos-and-pics-via-messenger-for-2024/"><u>Can I Peruse Friends' Shared Videos & Pics via Messenger for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/dbpower-600a-high-performance-18000mah-portable-power-station-revealed-ultimate-battery-backup/"><u>DBPower 600A High-Performance 18,000mAh Portable Power Station Revealed - Ultimate Battery Backup</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dell-speaker-woes-heres-how-to-correct-sound-driver-issues-in-windows-7/"><u>Dell Speaker Woes? Here's How to Correct Sound Driver Issues in Windows 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-fixes-for-unknown-speaker-setup-challenges-on-windows-11-systems/"><u>Easy Fixes for Unknown Speaker Setup Challenges on Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-back-online-a-quick-fix-guide-for-non-responsive-voice-chat-in-modern-warfare/"><u>Getting Back Online: A Quick Fix Guide for Non-Responsive Voice Chat in Modern Warfare</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-motorola-moto-g73-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Motorola Moto G73 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-audio-issues-following-windows-11-upgrade-step-by-step-solution/"><u>Resolve Audio Issues Following Windows 11 Upgrade - Step by Step Solution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-your-problems-with-doom-eternal-fixing-game-crashes-effectively/"><u>Solve Your Problems with DOOM Eternal: Fixing Game Crashes Effectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-to-solving-rec-room-mic-problems-on-your-computer/"><u>Ultimate Guide to Solving Rec Room Mic Problems on Your Computer</u></a></li>
+</ul></div>
 

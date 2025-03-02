@@ -1,7 +1,7 @@
 ---
 title: Microsoft Teams Not Hearing You? Fix Your Mic Issues in Windows 11 or 10 with These Tips
-date: 2025-02-07T21:27:31.729Z
-updated: 2025-02-10T22:31:38.712Z
+date: 2025-02-28T07:20:14.466Z
+updated: 2025-03-02T07:47:54.685Z
 tags:
   - win11
   - win10
@@ -43,10 +43,6 @@ Microsoft Teams offers a variety of convenient features for online conferencing.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-1-3.jpg)
 3. Select**Microphone** in the left pane.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-2-1.jpg)
 4. Click the**Change** button and**turn on** Microphone access for this device.  
 
@@ -56,15 +52,7 @@ Microsoft Teams offers a variety of convenient features for online conferencing.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-4-1.jpg)
 6. Scroll down and set Allow desktop apps to access your microphone to**On** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-5-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Does your microphone return to normal? If not, proceed to more fixes below.
 
@@ -92,21 +80,9 @@ Microsoft Teams offers a variety of convenient features for online conferencing.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-7.jpg)
 8. Click**OK** to apply the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now that everything is set up in the right way, test your microphone in Microsoft Team. If it still fails to work, check out the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Check Microsoft Teams settings
 
@@ -118,10 +94,6 @@ Microsoft Teams offers a variety of convenient features for online conferencing.
 3. Under the microphone section, choose the device you’re using.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/microsoft-teams-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Re-open the app and join a call to test your microphone. If the issue persists, check out the next fix.
 
@@ -164,10 +136,6 @@ Microsoft Teams offers a variety of convenient features for online conferencing.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-2.jpg)
 3. Download the newest version of Microsoft Team from its **[official website](https://r.brandreward.com/?key=3882aba4cadd4473e0195097fdf20855&url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fmicrosoft-teams%2Fgroup-chat-software&id=drivereasy-en-134633)**  .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now your microphone should be working perfectly with Microsoft Teams.
 
 ---
@@ -192,19 +160,21 @@ Now your microphone should be working perfectly with Microsoft Teams.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-elevate-your-influence-with-masterful-facebook-story-techniques/"><u>[New] Elevate Your Influence with Masterful Facebook Story Techniques</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-premier-hexacopters-showcase-in-10-for-2024/"><u>[Updated] Premier Hexacopters Showcase in 10 for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/elevate-your-iphone-game-with-these-top-picks/"><u>Elevate Your iPhone Game with These Top Picks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-fixes-what-to-do-when-your-headset-microphone-wont-work/"><u>Expert Fixes: What to Do When Your Headset Microphone Won't Work</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-non-functional-push-to-talk-on-discord-a-step-by-step-guide/"><u>How to Resolve Non-Functional Push-to-Talk on Discord - A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-mitigating-the-risk-of-youtube-sanctions/"><u>In 2024, Mitigating the Risk of YouTube Sanctions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-true-color-equalizer/"><u>In 2024, True Color Equalizer</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-unleashed-engaging-audiences-on-facebook-twitter-instagram-and-youtube/"><u>Social Media Unleashed: Engaging Audiences on Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/streamlined-installation-guide-fresh-epson-printer-drivers-for-your-pc/"><u>Streamlined Installation Guide: Fresh Epson Printer Drivers for Your PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-getting-your-steelseries-arctis-7-mic-back-on-track/"><u>Troubleshooting Tips: Getting Your SteelSeries Arctis 7 Mic Back on Track</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unblocking-audio-on-logitech-g933-headset-with-effortless-fixes/"><u>Unblocking Audio on Logitech G933 Headset with Effortless Fixes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlocking-fcp-a-guide-to-obtaining-copy-without-cost/"><u>Unlocking FCP A Guide to Obtaining Copy Without Cost</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/windows-11-installation-auf-unsupported-devices-lossless-setup/"><u>Windows 11 Installation Auf Unsupported Devices - Lossless Setup</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/winning-the-battle-with-broken-audio-restoring-headphone-functionality-in-windows-11/"><u>Winning the Battle with Broken Audio: Restoring Headphone Functionality in Windows 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-android-users-the-top-6-video-downloaders-for-easy-access/"><u>[New] 2024 Approved Android Users The Top 6 Video Downloaders for Easy Access</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-audio-enhanced-video-screen-record-for-2024/"><u>[Updated] Audio-Enhanced Video Screen Record for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-can-i-stop-my-videos-from-flipping-on-instagram/"><u>[Updated] How Can I Stop My Videos From Flipping on Instagram?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-integrating-azure-transcription-in-your-apps/"><u>[Updated] Integrating Azure Transcription in Your Apps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-make-any-tiktok-song-a-perfect-fit-for-your-mobile-device/"><u>[Updated] Make Any TikTok Song a Perfect Fit for Your Mobile Device</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/2024s-top-gaming-machines-uncover-your-ultimate-playmate/"><u>2024'S Top Gaming Machines: Uncover Your Ultimate Playmate</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-dynamic-duets-of-sound-and-sight-afx-lyric-templates/"><u>New In 2024, Dynamic Duets of Sound and Sight - AFX Lyric Templates</u></a></li>
+<li><a href="https://extra-support.techidaily.com/preventing-shake-in-cellphone-recorded-movies-for-2024/"><u>Preventing Shake in Cellphone-Recorded Movies for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-methods-to-ensure-uninterrupted-sound-on-discord-the-latest-fixes/"><u>Step-by-Step Methods to Ensure Uninterrupted Sound on Discord: The Latest Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-nonfunctioning-microphone-on-your-arctis-astern/"><u>Step-by-Step Solution for Nonfunctioning Microphone on Your Arctis Astern</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/thrive-on-instavid-a-guide-to-creating-a-solid-video-marketing-framework-for-2024/"><u>Thrive on InstaVid A Guide to Creating a Solid Video Marketing Framework for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-free-techniques-to-address-failed-audio-playback-errors/"><u>Trouble-Free Techniques to Address Failed Audio Playback Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-problems-how-to-resolve-no-speaker-or-headphone-detected-on-windows-11-8-and-7/"><u>Troubleshooting Audio Problems: How to Resolve 'No Speaker or Headphone Detected' On Windows 11, 8 & 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-solving-mute-issues-with-your-pcs-facebook-videos/"><u>Ultimate Guide: Solving Mute Issues with Your PC's Facebook Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unclog-your-tvs-ears-fixing-hdmi-audio-on-a-windows-7-pc/"><u>Unclog Your TV's Ears: Fixing HDMI Audio on a Windows 7 PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unmuzzle-your-media-expert-advice-on-fixing-facebook-video-audio-issues-in-windows-os-updated/"><u>Unmuzzle Your Media: Expert Advice on Fixing Facebook Video Audio Issues in Windows OS (Updated )</u></a></li>
 </ul></div>
 

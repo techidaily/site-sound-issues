@@ -1,7 +1,7 @@
 ---
 title: Audiophile's Guide to Resolving Misrouted Sound From Speaker Instead of Your Earbuds
-date: 2024-12-05T21:04:20.324Z
-updated: 2024-12-10T21:18:49.248Z
+date: 2025-02-25T04:33:34.928Z
+updated: 2025-03-02T02:19:11.588Z
 tags:
   - win11
   - win10
@@ -60,10 +60,6 @@ Reboot your device and play the audio to see if your problem persists.
 
  There are mainly two ways you can update your audio drivers:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 1: Get driver updates from the manufacturer’s websites or via the Device Manager
 
  You can visit the manufacturer’s website for your sound card, find the driver version that corresponds with your system, and follow the on-screen instructions to download and install the latest driver.
@@ -75,10 +71,6 @@ _Have no idea which sound card you have? Take these steps:_
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-dxdiag.jpg)
 3. Select the**Sound** tab and you should see the details of your sound card.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Or you can update your audio drivers through the Device Manager:
 
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box.
@@ -87,10 +79,6 @@ Or you can update your audio drivers through the Device Manager:
 3. In the Device Manager window, find and double-click the**Sound, video and game controllers** category to expand it. Right-click on the audio device for which you want to update the driver. This could be your sound card or integrated audio device.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/update-audio-drivers.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to search for and install the latest drivers.
 
@@ -120,16 +108,8 @@ Below is the simple three-step guide to update drivers with Driver Easy:
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to**Audio** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-System-Other-troubleshooters-Audio-troubleshooter.jpg)
 
@@ -153,10 +133,6 @@ Below is the simple three-step guide to update drivers with Driver Easy:
 
  If disabling audio enhancements doesn’t resolve your issue, see the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Restart audio services
 
  Windows audio services are essential services in the Windows operating system responsible for handling audio-related tasks. Restarting these services can be a troubleshooting step to resolve issues such as audio cutting out.
@@ -166,25 +142,13 @@ Below is the simple three-step guide to update drivers with Driver Easy:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-services.msc_.jpg)
 3. Right-click each of the following services and select**Restart** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Windows Audio**  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-restarted-Windows-audio-services.jpg)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Windows Audio Endpoint Builder**  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-restart-Windows-audio-endpoint-builder.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If restarting these services doesn’t resolve your issue, try the next fix below.
 
@@ -201,10 +165,6 @@ Below is the simple three-step guide to update drivers with Driver Easy:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click **Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)
 
@@ -231,22 +191,16 @@ _\*featured image by GraphiqaStock on Freepik_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-complete-guide-to-mastering-picsart/"><u>[Updated] 2024 Approved Complete Guide to Mastering PicsArt</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-mastering-virtual-backgrounds-with-kinemasters-stepwise-guide-to-green-screen-for-2024/"><u>[Updated] Mastering Virtual Backgrounds with Kinemaster's Stepwise Guide to Green Screen for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-add-subtitles-to-windows-media-player/"><u>2024 Approved How to Add Subtitles to Windows Media Player</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unfollow-patterns-on-instagram-explored/"><u>2024 Approved Unfollow Patterns on Instagram Explored</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/astro-a50-earbuds-silent-mic-dilemma-learn-quick-fixes-to-restore-voice-chat-functionality/"><u>Astro A50 Earbuds Silent Mic Dilemma? Learn Quick Fixes to Restore Voice Chat Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016024070-audacitys-common-error-when-opening-sound-devices-discover-5-effective-solutions/"><u>Audacity's Common Error When Opening Sound Devices? Discover 5 Effective Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-redirection-solution-ensuring-sound-outputs-to-headphones-instead-of-bluetooth-or-wired-speakers/"><u>Audio Redirection Solution: Ensuring Sound Outputs to Headphones Instead of Bluetooth or Wired Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/common-causes-and-remedies-for-non-functional-corsair-void-microphones/"><u>Common Causes and Remedies for Non-Functional Corsair Void Microphones</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/compelling-reasons-for-picking-up-german/"><u>Compelling Reasons for Picking Up German</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/corsair-virtuoso-headset-trouble-heres-how-to-get-it-working-again/"><u>Corsair Virtuoso Headset Trouble? Here's How to Get It Working Again!</u></a></li>
-<li><a href="https://win-best.techidaily.com/customizing-your-computers-mouse-configuration-via-windows-control-panel-expert-advice-by-yl-computing/"><u>Customizing Your Computer's Mouse Configuration via Windows Control Panel, Expert Advice by YL Computing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/essential-fixes-for-when-your-pubg-chat-feature-isnt-working/"><u>Essential Fixes for When Your PUBG Chat Feature Isn't Working</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015784553-get-your-turtle-beach-hpxearpods-microphone-up-and-running-again/"><u>Get Your Turtle Beach HPX/EarPods' Microphone Up and Running Again!</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-smart-compilation-best-6-fb-lite-videos/"><u>In 2024, Smart Compilation Best 6 FB Lite Videos</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/e-look-at-youtubes-digital-media-oasis/"><u>Inside Look at YouTube's Digital Media Oasis</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016227167-sonic-relief-for-chrome-users-sound-problems-now-solved/"><u>Sonic Relief for Chrome Users: Sound Problems Now Solved!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-your-creative-potential-without-spending-for-2024/"><u>Unlocking Your Creative Potential Without Spending for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nveiling-the-art-of-auditory-enhancement-on-youtube-for-2024/"><u>[New] Unveiling the Art of Auditory Enhancement on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-efficient-viewing-the-comprehensive-guide-for-creating-youtube-watch-later-lists/"><u>[Updated] In 2024, Efficient Viewing The Comprehensive Guide for Creating YouTube Watch Later Lists</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-gopros-battle-royale-hero5-b-stacked-against-session/"><u>[Updated] In 2024, GoPro's Battle Royale Hero5 B Stacked Against Session</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/comprehensive-guide-the-various-security-threats-blocked-by-windows-defender-as-explained-by-yl-software/"><u>Comprehensive Guide: The Various Security Threats Blocked by Windows Defender, as Explained by YL Software</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-non-rooting-audio-recording-on-your-android-phone/"><u>In 2024, Non-Rooting Audio Recording on Your Android Phone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-the-ultimate-steps-for-creating-collab-videos-with-youtubers/"><u>In 2024, The Ultimate Steps for Creating Collab Videos with YouTubers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-sound-from-your-microphone-proven-solutions-to-capturing-voices/"><u>No Sound From Your Microphone? Proven Solutions to Capturing Voices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/raising-the-decibels-optimizing-audio-loudness-in-windows-11/"><u>Raising the Decibels: Optimizing Audio Loudness in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/re-establish-audio-connection-fixing-unrecognized-speaker-and-headphone-issues-on-windows-pcs/"><u>Re-Establish Audio Connection: Fixing Unrecognized Speaker and Headphone Issues on Windows PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/rec-room-voice-troubleshooting-fixing-microphone-problems-in-the-2024-edition/"><u>Rec Room Voice Troubleshooting: Fixing Microphone Problems in the 2024 Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-crackling-sound-from-speakers-on-your-pc-running-windows-11-or-7/"><u>Resolve Crackling Sound From Speakers on Your PC Running Windows 11 or 7</u></a></li>
 </ul></div>
 

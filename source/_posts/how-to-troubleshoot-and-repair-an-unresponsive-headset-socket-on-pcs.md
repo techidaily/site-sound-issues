@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot and Repair an Unresponsive Headset Socket on PCs
-date: 2024-08-18T08:06:40.269Z
-updated: 2024-08-19T08:06:40.269Z
+date: 2025-02-27T08:08:32.092Z
+updated: 2025-03-02T07:40:40.132Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Sign out Fortnite, then sign back in
 
  This is the quickest and easiest fix to try when chat’s not working in Fortnite. Just sign out of the game, then sign back in.
@@ -51,16 +48,10 @@ thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f
 
  2\. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Driver-Easy-Scan-screen.jpg)
 
  3\. Click **Update** next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Update-all-drivers.jpg)
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -79,26 +70,16 @@ thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f
 
  3.**Turn on** the toggle next to **Auto update** .
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap912.png)
 
 4\. Restart the Epic Games Launcher.
 
  5\. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap898.png)
 
  Run Fortnite again to check whether your chat problem has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 4, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ### Fix 4: Make sure your microphone is on for Fortnite
 
  If you downloaded Fortnite from**the Microsoft Store** , check if it has permission to use your microphone. Here’s how to do it:
@@ -125,18 +106,12 @@ The ultimate burning program for all your needs!</a>
 
  ii. Click**the speaker icon** to view the audio settings. Then**turn off Voice Chat** and click**Apply** .  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap431-1024x576.jpg)
 
 iii. Exit Fortnite.
 
  2\. On your desktop,**right-click** **the speaker icon** at the bottom-right corner, and then select**Sounds** .
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap432.jpg)
 
  3\. Click the **Playback** tab, select the speakers/headphones you’re using and click **Set Default** .
@@ -157,9 +132,6 @@ iii. Exit Fortnite.
 
  Join a squad to check ifchat is now working . If not, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Reinstall Fortnite
 
  If none of the above fixes resolves your chat problem, try reinstalling Fortnite. Here is how to do it:
@@ -170,9 +142,6 @@ iii. Exit Fortnite.
 
  2\. Click**Uninstall** to uninstall Fortnite.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap950.png)
 
 3\. Restart your PC.
@@ -195,8 +164,6 @@ iii. Exit Fortnite.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,4 +171,23 @@ iii. Exit Fortnite.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-unlock-streamlabs-potential-with-your-mac-and-obs/"><u>[New] In 2024, Unlock Streamlabs' Potential with Your Mac & OBS</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-learn-to-keep-unwanted-suggestions-away-from-ig/"><u>[Updated] In 2024, Learn to Keep Unwanted Suggestions Away From IG</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-guide-to-seamless-inshot-video-segments/"><u>2024 Approved A Guide to Seamless Inshot Video Segments</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/access-ios-181-early-release-with-advanced-apple-intelligence-get-started-today-gadgetpundit/"><u>Access IOS 18.1 Early Release with Advanced Apple Intelligence - Get Started Today! | GadgetPundit</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015694899-apex-legends-players-rejoice-say-goodbye-to-voice-chat-problems-forever/"><u>Apex Legends Players Rejoice: Say Goodbye to Voice Chat Problems Forever</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016872786-fixing-persistent-audio-glitches-on-your-pc-solutions-inside/"><u>Fixing Persistent Audio Glitches on Your PC: Solutions Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-clear-audio-back-in-no-time-fixed-skype-volume-problems-demystified/"><u>Get Clear Audio Back in No Time: Fixed Skype Volume Problems Demystified</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-vivo-y100t-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Vivo Y100t Phones? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hp-laptop-soundless-discover-proven-solutions-to-restore-audio-functionality/"><u>HP Laptop Soundless? Discover Proven Solutions to Restore Audio Functionality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/improve-performance-and-fix-issues-with-amd-radeon-download-v2n10-graphics-card-drivers/"><u>Improve Performance & Fix Issues With AMD Radeon - Download V2n.10 Graphics Card Drivers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-maker-project-the-ultimate-raspberry-pi-1000-with-5-cores-enhanced-performance/"><u>Innovative Maker Project: The Ultimate 'Raspberry Pi 1000' With 5 Cores, Enhanced Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-art-of-reviving-your-rust-microphone-with-our-expert-tips-and-tricks/"><u>Master the Art of Reviving Your Rust Microphone with Our Expert Tips & Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-logitech-g733-ultimate-guide-to-mic-repair/"><u>Revive Your Logitech G733 - Ultimate Guide to Mic Repair</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-speakers-a-guide-to-overcoming-conexant-smartaudio-hds-no-sound-dilemma-in-windows-10/"><u>Revive Your Speakers: A Guide to Overcoming Conexant SmartAudio HD's No Sound Dilemma in Windows 10</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/switch-clash-top-10-intense-battles-to-play/"><u>Switch Clash Top 10 Intense Battles to Play</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-vn-video-editor-apk-pros-cons-and-features-review/"><u>Updated VN Video Editor APK Pros, Cons, and Features Review</u></a></li>
+</ul></div>
 

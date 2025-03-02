@@ -1,7 +1,7 @@
 ---
 title: "Fixing Black Ops Cold War: Resolving Voice Chat Issues"
-date: 2025-02-03T16:18:59.836Z
-updated: 2025-02-10T18:50:34.308Z
+date: 2025-02-26T05:07:07.689Z
+updated: 2025-03-02T09:37:15.778Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 4. **[Configure in-game settings](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Origin and Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Allow Origin to access your microphone
 
@@ -75,17 +71,9 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-35.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the audio driver, simply click the **Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-36.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also do it for free if you like, but it’s partly manual.
 
@@ -129,27 +117,15 @@ Here is how to configure in-game settings:
 
 ![This image has an empty alt attribute; its file name is image-261-1024x700.png](https://images.drivereasy.com/wp-content/uploads/2019/10/image-261-1024x700.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Open Apex Legends, then go to**Settings > AUDIO** and set the **Voice Chat Record Mode** to **Push to Talk** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-262-1024x576.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Again, play Apex Legends to see if the voice chat not working issue is resolved.
 
  Still no joy? Please try**Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Install the latest game patch
 
@@ -168,10 +144,6 @@ Here are the steps:
  1) On your keyboard, press the **Windows logo key** and **R** at the same time, then type **appwiz.cpl** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
@@ -209,24 +181,19 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-a-comprehensive-guide-to-producing-engaging-subtitles-and-captions-for-fb/"><u>[Updated] 2024 Approved A Comprehensive Guide to Producing Engaging Subtitles and Captions for FB</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-capturing-the-action-overwatch-video-recordings/"><u>[Updated] 2024 Approved Capturing the Action Overwatch Video Recordings</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/beginning-the-live-journey-on-instagram/"><u>Beginning the Live Journey on Instagram</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bluetooth-audio-glitches-solved-smoother-sounds-on-windows-11-systems/"><u>Bluetooth Audio Glitches Solved: Smoother Sounds on Windows 11 Systems</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/cant-open-mov-files-on-p60-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't open MOV files on P60</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/discovering-advanced-video-formats-av1-and-vp9/"><u>Discovering Advanced Video Formats AV1 & VP9</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-on-reactivating-voice-chat-functionality-in-bungies-destiny-2/"><u>Expert Tips on Reactivating Voice Chat Functionality in Bungie's Destiny 2</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-logitech-g533-microphone-issues-step-by-step-solutions/"><u>Fixing Logitech G533 Microphone Issues: Step-by-Step Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-troubleshoot-non-functional-laptop-speakers/"><u>Fixing the Issue: How to Troubleshoot Non-Functional Laptop Speakers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/from-basic-to-breathtaking-elevating-your-instagram-edits-for-2024/"><u>From Basic to Breathtaking Elevating Your Instagram Edits for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-speaker-distortion-on-windows-11-and-7-solutions/"><u>How to Fix Speaker Distortion on Windows 11 and 7 - Solutions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-pinnacle-of-voice-recording-a-comprehensive-tome/"><u>In 2024, The Pinnacle of Voice Recording A Comprehensive Tome</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/league-of-legends-troubleshooting-guide-fixing-non-functional-voice-chat/"><u>League of Legends: Troubleshooting Guide - Fixing Non-Functional Voice Chat</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-windows-11-soundscape-common-troubles-and-their-fixes/"><u>Revive Your Windows 11 Soundscape: Common Troubles & Their Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-restore-your-onikuma-mic-functionality/"><u>Step-by-Step Guide to Restore Your Onikuma Mic Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-how-to-tackle-the-conexant-smartaudio-hd-silent-problem-on-windows-11/"><u>Step-by-Step Solution: How to Tackle the Conexant SmartAudio HD Silent Problem on Windows 11</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ddpai-mini3-dashcam-where-entertainment-meets-road-safety/"><u>The DDpai Mini3 Dashcam: Where Entertainment Meets Road Safety</u></a></li>
-<li><a href="https://network-issues.techidaily.com/the-hackers-way-fast-uninstall-of-win-system-drivers/"><u>The Hacker's Way: Fast Uninstall of Win System Drivers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-hardware-fixing-unplugged-or-damaged-speakers-and-headphones-on-windows-systems/"><u>Troubleshooting Audio Hardware: Fixing Unplugged or Damaged Speakers and Headphones on Windows Systems</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-upside-down-up-in-popularity-the-instagram-way-for-2024/"><u>[New] Upside Down, Up in Popularity The Instagram Way for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-comprehensive-compilation-of-world-class-e-learning-sites-minus-udemy/"><u>[Updated] 2024 Approved Comprehensive Compilation of World-Class E-Learning Sites (Minus Udemy)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-accelerated-adventures-fastest-flash-games-on-devices/"><u>[Updated] In 2024, Accelerated Adventures Fastest Flash Games on Devices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-experts-playbook-top-techniques-for-youtube-to-mpeg/"><u>[Updated] In 2024, The Expert's Playbook Top Techniques for YouTube-to-MPEG</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Oppo A1 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-call-of-duty-tips-for-resolving-audio-problems-with-cs-2s-microphone/"><u>Master the Call of Duty: Tips for Resolving Audio Problems with CS 2'S Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-audio-quality-solutions-for-repairing-stereo-output-problems/"><u>Mastering Audio Quality: Solutions for Repairing Stereo Output Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-squad-microphone-fixes-expert-strategies-revealed/"><u>Mastering Squad Microphone Fixes : Expert Strategies Revealed</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-art-of-synchronizing-video-to-music-techniques/"><u>New The Art of Synchronizing Video to Music Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-common-problems-with-laptop-earphone-sockets-tips-for-successful-repairs/"><u>Overcoming Common Problems with Laptop Earphone Sockets - Tips for Successful Repairs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/overwhelmed-by-your-open-chrome-tabs-mastering-the-art-of-tab-management/"><u>Overwhelmed by Your Open Chrome Tabs? Mastering the Art of Tab Management</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-guide-what-to-do-when-your-bose-sound-system-fails-to-work/"><u>Quick Guide: What to Do When Your Bose Sound System Fails to Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-hd-audio-fix-solution-when-unplugged/"><u>Realtek HD Audio Fix: Solution When Unplugged</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-linksys-wrt19ebx-acss-router-a-deep-dive-into-open-source-features/"><u>The Ultimate Guide to the Linksys WRT19ebx ACSS Router - A Deep Dive Into Open Source Features</u></a></li>
 </ul></div>
 

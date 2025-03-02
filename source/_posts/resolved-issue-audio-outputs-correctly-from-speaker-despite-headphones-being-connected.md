@@ -1,7 +1,7 @@
 ---
 title: "Resolved Issue: Audio Outputs Correctly From Speaker Despite Headphones Being Connected"
-date: 2025-02-05T04:45:16.828Z
-updated: 2025-02-11T02:06:45.807Z
+date: 2025-02-25T21:42:26.793Z
+updated: 2025-03-01T18:09:57.612Z
 tags:
   - win11
   - win10
@@ -56,10 +56,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your audio driver
 
  This speaker crackling problem may occur if you are using the wrong audio  driver or it’s out of date. So you should update your audio  driver to see if it fixes your problem. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -72,10 +68,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -92,26 +84,14 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
@@ -137,18 +117,24 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/1723016143075-back-4-blood-players-face-voice-chat-problems-solutions-inside/"><u>'Back 4 Blood' Players Face Voice Chat Problems: Solutions Inside</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-a-filmmakers-companion-the-journey-from-capturing-to-post-production-of-360-videos/"><u>[New] 2024 Approved A Filmmaker's Companion The Journey From Capturing to Post-Production of 360 Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-whimsical-videoland-assessment/"><u>[New] 2024 Approved Whimsical Videoland Assessment</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-srs-mastery-innovative-conversion-techniques/"><u>[New] SRS Mastery Innovative Conversion Techniques</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-where-the-best-youtube-symbols-are-hidden/"><u>2024 Approved Where the Best YouTube Symbols Are Hidden</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-resolving-game-audio-problems-in-resident-evil-village/"><u>Expert Tips for Resolving Game Audio Problems in Resident Evil Village</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-the-malfunctioning-microphone-on-your-turtle-beach-recon-70-audio-setup/"><u>How to Fix the Malfunctioning Microphone on Your Turtle Beach Recon 70 Audio Setup</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-live-video-showdown-which-is-superior-virusmixwirecast/"><u>In 2024, Live Video Showdown Which Is Superior, VirusMix/WireCast?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-sound-from-speakers-in-windows-heres-how-you-can-get-them-working-again/"><u>No Sound From Speakers in Windows? Here's How You Can Get Them Working Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-audio-issues-clearing-up-crackling-sounds-on-windows-11-and-7-systems/"><u>Resolve Audio Issues: Clearing Up Crackling Sounds on Windows 11 and 7 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-for-nonfunctional-steelseries-arctis-pro-mic-resolved/"><u>Troubleshooting Guide for Nonfunctional SteelSeries Arctis Pro Mic - Resolved</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-taking-control-mastering-the-art-of-background-removal/"><u>[New] 2024 Approved Taking Control Mastering the Art of Background Removal</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-compre-written-guide-youtube-video-distribution-on-fb/"><u>[New] Compre Written Guide YouTube Video Distribution on FB</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-camera-buff-writers-choice-the-ultimate-list-of-5-low-frame-rate-cams/"><u>[New] In 2024, Camera Buff' Writers Choice The Ultimate List of 5 Low Frame Rate Cams</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-instantaneous-sharability-tweeting-videos-on-snapchat-network/"><u>[Updated] 2024 Approved Instantaneous Sharability Tweeting Videos on Snapchat Network</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-discovering-the-best-10-online-tools-for-vimeo-videos/"><u>[Updated] Discovering the Best 10 Online Tools for Vimeo Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-ingenious-ways-to-change-song-duration-in-spotify/"><u>[Updated] In 2024, Ingenious Ways to Change Song Duration in Spotify</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoid-these-pitfalls-to-ensure-successful-valheim-launches-common-fixes-and-updates/"><u>Avoid These Pitfalls to Ensure Successful Valheim Launches - Common Fixes and Updates</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/dailymotion-elites-in-snapchat-world-for-2024/"><u>Dailymotion Elites in Snapchat World for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-to-fix-windows-update-stuck-at-0-issue/"><u>Easy to Fix Windows Update Stuck at 0% Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-making-your-headphones-visible-to-playback-devices-on-windows-11/"><u>Guide: Making Your Headphones Visible to Playback Devices on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-mic-on-your-oculus-quest-2-headset/"><u>How to Fix a Non-Functioning Mic on Your Oculus Quest 2 Headset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-sounds-not-working-with-dell-devices-on-windows-7/"><u>How to Fix Sounds Not Working with Dell Devices on Windows 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-unwanted-audio-disturbance-hearing-through-speakers-despite-using-plugged-in-headphones/"><u>How to Fix Unwanted Audio Disturbance: Hearing Through Speakers Despite Using Plugged-In Headphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-an-unresponsive-onikuma-mic-step-by-step-fixes-revealed/"><u>How to Repair an Unresponsive Onikuma Mic – Step by Step Fixes Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-fix-no-sound-on-your-macbook-or-imac/"><u>How To Troubleshoot and Fix 'No Sound' On Your MacBook or iMac</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-voice-chat-disruptions-in-rainbow-six-siege-after-the-latest-update-of-2024-tips-and-tricks/"><u>Overcoming Voice Chat Disruptions in Rainbow Six Siege After the Latest Update of 2024: Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-for-non-responsive-minecraft-games-on-computer-systems/"><u>Quick Fixes for Non-Responsive Minecraft Games on Computer Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-how-to-enable-sounds-on-your-firefox-browser-again/"><u>Resolved: How to Enable Sounds on Your Firefox Browser Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resurrecting-a-dead-jabra-headset-effective-solutions-for-tech-enthusiasts/"><u>Resurrecting a Dead Jabra Headset: Effective Solutions for Tech Enthusiasts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: No Sound From AirPods? Here's How to Fix It When They're Paired with a Windows 11 or 10 Computer
-date: 2025-02-06T04:08:51.820Z
-updated: 2025-02-11T01:15:02.185Z
+date: 2025-02-28T19:02:29.337Z
+updated: 2025-03-01T23:49:33.815Z
 tags:
   - win11
   - win10
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-3.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** to do it for free, but it’s partly manual.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-driver-update-de.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -66,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the Settings menu. Select**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-2.jpg)
 2. Select**Microphone** . Then on the right pane, click the**Change** button and turn Microphone access for this device to**On** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 3. Scroll down and make sure the button under**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** is set to**On** . This makes it possible for your browser to access the microphone.  
@@ -86,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-1.jpg)
 2. Navigate to the**Recording** tab. First make sure your microphone is enabled (showing a green checkmark). If it’s not and displays a grey down-arrow icon, right-click it and click**Enable** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-3.jpg)
 3. Click the**Microphone** you would like to use and click**Set Default** .  
 
@@ -99,15 +87,7 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-6-1.jpg)
 5. Click the**Levels** tab and drag the microphone slider to turn the volume to the max. Then click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-2-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Test your microphone again to see if it works without problem. If the issue persists, check out the next solution below.
 
@@ -124,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 4. From the drop-down menu under Microphone, select your primary microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you still can’t use the microphone in Google Meet, the last resort is to**double-check the physical connection** .
 
@@ -156,19 +132,20 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/chieve-more-engagement-on-youtube-learn-the-best-thumbnail-size/"><u>[New] Achieve More Engagement on YouTube Learn the Best Thumbnail Size</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/iy-tripods-how-to-stabilize-your-camera-without-buying-a-tripod-for-2024/"><u>[New] DIY Tripods| How to Stabilize Your Camera without Buying a Tripod for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-smart-picklist-top-value-free-livestream-software-and-apps-reviewed-this-year/"><u>[New] Smart Picklist Top Value Free Livestream Software & Apps Reviewed This Year</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-leading-6-social-sites-for-enterprise-communication/"><u>[Updated] Leading 6 Social Sites for Enterprise Communication</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-prime-software-for-cutting-action-camera-videos/"><u>2024 Approved Prime Software for Cutting Action Camera Videos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016885707-bluetooth-pairing-success-but-silent-uncover-the-fixes/"><u>Bluetooth Pairing Success, but Silent: Uncover the Fixes!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/decode-and-defeat-the-echo-on-your-pcs-discord-chats-a-step-by-step-tutorial-for-2n4/"><u>Decode and Defeat the Echo on Your PC's Discord Chats: A Step-by-Step Tutorial for 2N4</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/giggles-galore-celebrating-the-funniest-web-content-creators-for-2024/"><u>Giggles Galore Celebrating the Funniest Web Content Creators for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-communication-hurdles-repairing-discords-voice-chat-glitches/"><u>Overcoming Communication Hurdles: Repairing Discord's Voice Chat Glitches</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamlessly-connect-with-our-guide-how-to-install-dells-newest-wifi-driver-for-flawless-internet-access/"><u>Seamlessly Connect with Our Guide: How to Install Dell’s Newest WiFi Driver for Flawless Internet Access</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-poco-c51-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Poco C51 Phone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-logitech-webcam-microphone-malfunctions-effectively/"><u>Troubleshoot and Repair Logitech Webcam Microphone Malfunctions Effectively</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-silent-screen-how-to-restore-speakers-and-microphone-functionality/"><u>Troubleshooting the Silent Screen: How to Restore Speakers and Microphone Functionality</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-navigating-the-world-of-facebook-analytics-for-2024/"><u>[New] Navigating the World of Facebook Analytics for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastery-in-digital-media-srgb-preference/"><u>2024 Approved Mastery in Digital Media Srgb Preference</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/a-bundle-of-nine-premium-holiday-treasures-watch-for-free-on-youtube-for-2024/"><u>A Bundle of Nine Premium Holiday Treasures Watch for Free on YouTube for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-sequential-visual-narratives-with-photos/"><u>Crafting Sequential Visual Narratives with Photos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/interest-to-action-formulating-video-topics-with-google-trends-for-2024/"><u>From Interest to Action Formulating Video Topics with Google Trends for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-samsung-galaxy-s23-fe-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-x90s-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo X90S to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/rectifying-creative-pebble-speakers-tips-to-restore-sound-quality-and-functionality/"><u>Rectifying Creative Pebble Speakers: Tips to Restore Sound Quality and Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-recurring-sound-cutouts-in-windows-10-detailed-solutions/"><u>Resolving Recurring Sound Cutouts in Windows 10 - Detailed Solutions!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-speaker-functionality-on-dell-devices-in-no-time/"><u>Restore Speaker Functionality on Dell Devices in No Time</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-your-game-sounds-in-fortnite-a-comprehensive-guide/"><u>Restore Your Game Sounds in Fortnite - A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-headphone-port-effective-fixes-for-a-nonfunctional-laptop-audio-jack/"><u>Reviving Your Headphone Port: Effective Fixes for a Nonfunctional Laptop Audio Jack</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-the-mute-mystery-reactivating-sound-in-google-chrome/"><u>Solve the Mute Mystery: Reactivating Sound in Google Chrome</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-the-problem-of-inoperative-front-headset-connector-easily-and-effectively/"><u>Solve the Problem of Inoperative Front Headset Connector Easily & Effectively</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Realme V30T | Dr.fone</u></a></li>
 </ul></div>
 

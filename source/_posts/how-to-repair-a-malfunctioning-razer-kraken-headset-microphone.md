@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Malfunctioning Razer Kraken Headset Microphone
-date: 2025-02-09T22:55:58.838Z
-updated: 2025-02-10T20:24:38.163Z
+date: 2025-02-23T21:30:22.239Z
+updated: 2025-03-02T05:30:28.085Z
 tags:
   - win11
   - win10
@@ -36,10 +36,6 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 
  Then, ensure the detachable microphone is firmly plugged in and check if the RGB LED ring indicates the live status (green).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Set Virtuoso as the default recording device
 
  Check if your Virtuoso is disabled or not set as the default recording device. If so, you may need to check the microphone levels in case the volume is so low that it can’t record your sound clearly.
@@ -51,16 +47,8 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
 3. Right-click your**Corsair Virtuoso** and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
 4. Go to the**Levels** tab and drag the slider to a proper volume.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 5. Click**OK** .
@@ -101,20 +89,8 @@ There are mainly two ways for you to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/device.jpg)
 3. Click**Additional device properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/additional.jpg)
 4. Go to the**Advanced** tab, and select**DVD Quality** in the**Default Format** section. ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-format.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click**OK** .
 
@@ -151,18 +127,21 @@ There are mainly two ways for you to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-macs-secret-shortcuts-to-instantaneous-screen-recording/"><u>[New] In 2024, Mac's Secret Shortcuts to Instantaneous Screen Recording</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-sprout-pro-in-depth-review-of-desktop-capturing/"><u>[New] In 2024, Sprout Pro In-Depth Review of Desktop Capturing</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-primepickings-top-twitters-and-top-viewers-favorites-for-2024/"><u>[New] PrimePickings Top Twitters & Top Viewers’ Favorites for 2024</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/1-transforming-images-into-animations-using-artificial-intelligence-effortless-steps/"><u>1. Transforming Images Into Animations Using Artificial Intelligence: Effortless Steps</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-expert-tips-4-ways-to-enhance-fb-live-recording/"><u>2024 Approved Expert Tips 4 Ways to Enhance FB Live Recording</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-visual-ventures-a-guide-to-social-video-growth/"><u>2024 Approved Visual Ventures A Guide to Social Video Growth</u></a></li>
-<li><a href="https://fox-access.techidaily.com/exploring-intensified-illumination-for-advanced-hdr-video/"><u>Exploring Intensified Illumination for Advanced HDR Video</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/july-7th-walter-a-brown-an-american-ice-hockey-player-who-achieved-great-success-as-both-a-player-and-coach-his-legacy-continues-to-inspire-future-generatio641/"><u>July 7Th - Walter A. Brown, an American Ice Hockey Player Who Achieved Great Success as Both a Player and Coach. His Legacy Continues to Inspire Future Generations of Athletes.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/master-the-fix-overcoming-bluetooth-sound-delays-and-disruptions-on-pcs-with-windows-1011/"><u>Master the Fix: Overcoming Bluetooth Sound Delays and Disruptions on PCs with Windows 10/11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcome-your-rainbow-six-siege-microphonespeakers-issues-in-the-latest-update/"><u>Overcome Your Rainbow Six Siege Microphone/Speakers Issues in the Latest Update</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-onikuma-microphone-top-troubleshooting-tips-for-sound-success/"><u>Reviving Your Onikuma Microphone - Top Troubleshooting Tips for Sound Success!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/steps-to-keep-your-thunder-game-stable-and-crash-free-during-high-level-play-on-pc/"><u>Steps to Keep Your Thunder Game Stable and Crash-Free During High-Level Play on PC</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/unmatched-virtual-speedway-showdowns-top-5-list/"><u>Unmatched Virtual Speedway Showdowns Top 5 List</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-cutting-edge-tech-an-in-depth-review-of-apeaksofts-recorder-2023/"><u>[New] Cutting-Edge Tech An In-Depth Review of Apeaksoft's Recorder, 2023</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-frame-by-frame-filmmaking-to-financial-flourishing/"><u>[Updated] 2024 Approved From Frame-by-Frame Filmmaking to Financial Flourishing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/accelerate-your-photo-edits-expert-lunapic-techniques-for-2024/"><u>Accelerate Your Photo Edits Expert LunaPic Techniques for 2024</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/how-to-efficiently-cut-videos-without-compromising-quality-in-windows-10/"><u>How to Efficiently Cut Videos Without Compromising Quality in Windows 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Oppo A2? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/leading-window-call-apps-2-1-sorted/"><u>Leading Window Call Apps, #2-#1 Sorted</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-razer-headset-mic-functionality-in-just-5-steps-easy-fixes-inside/"><u>Restoring Razer Headset Mic Functionality in Just 5 Steps - Easy Fixes Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-for-players-reactivating-voice-chat-feature-on-modern-warfare-game/"><u>Solution for Players: Reactivating Voice Chat Feature on Modern Warfare Game</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-non-functioning-mic-issues-for-razer-barracuda-x-users-a-guide-for-windows-11-and-10/"><u>Solving Non-Functioning Mic Issues for Razer Barracuda X Users: A Guide for Windows 11 & 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-repairing-sound-on-your-toshiba-laptop-computer/"><u>Step-by-Step Guide to Repairing Sound on Your Toshiba Laptop Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-activating-slack-alerts-on-your-apple-wristwear-with-ios/"><u>Step-by-Step Guide: Activating Slack Alerts on Your Apple Wristwear with iOS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-making-your-rainbow-six-siege-voice-chat-functional-again-in-the-latest-patch/"><u>Step-by-Step Repair: Making Your Rainbow Six Siege Voice Chat Functional Again in the Latest Patch</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-complete-2024-guide-to-repairing-non-functional-squad-microphones/"><u>The Complete 2024 Guide to Repairing Non-Functional Squad Microphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-5-rapid-solutions-reviving-your-oculus-rift-s-headset-microphone/"><u>Top 5 Rapid Solutions: Reviving Your Oculus Rift S Headset Microphone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ultimate-guide-enjoying-wmv-videos-without-hiccups-on-chromebooks/"><u>Ultimate Guide: Enjoying WMV Videos Without Hiccups on Chromebooks</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-adobe-premiere-shortcut-guide-20-essentials-for-2024/"><u>Updated The Ultimate Adobe Premiere Shortcut Guide 20 Essentials for 2024</u></a></li>
 </ul></div>
 

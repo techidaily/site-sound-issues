@@ -1,7 +1,7 @@
 ---
 title: "Getting Back on Track: A Guide to Fixing Sound Issues with Lenovo Laptops"
-date: 2025-02-04T04:14:20.547Z
-updated: 2025-02-10T18:42:02.582Z
+date: 2025-02-22T19:48:00.285Z
+updated: 2025-03-01T23:16:06.809Z
 tags:
   - win11
   - win10
@@ -48,20 +48,12 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 2: Disable Exclusive Mode and change the sound format**
 
  Having **Exclusive Mode**   on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the **crackling or popping sound** in headphone  problem. To disable **Exclusive Mode** :
 
  1) On the bottom right of your screen, right-click on**the sound icon** , then click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/12sound.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) In the**Playback** tab, right-click on**speakers** and click **Properties** .
 
@@ -76,10 +68,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
  5) Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Hopefully the popping/crackling sound in your headphone problem has gone by now. If not, you might also want to change it to other audio formats to see if it works.
 
@@ -100,18 +88,10 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/IntelR-Display-Audio.jpg)
 4. Restart your computer, play some audio through your headphone to see if this nasty crackling noise has been resolved. If yes, then great! If it’s still happening, move on to **Fix 4**  , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Adjust **the minimum processor state**
 
@@ -156,22 +136,19 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-superior-group-multimedia-platforms/"><u>[New] 2024 Approved Superior Group Multimedia Platforms</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-selecting-the-perfect-wedding-countdown-clock-for-android-and-ios-devices/"><u>[New] Selecting the Perfect Wedding Countdown Clock for Android & iOS Devices</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-essential-websites-to-amplify-youtube-traffic/"><u>[Updated] 2024 Approved Essential Websites to Amplify YouTube Traffic</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-pushing-boundaries-of-video-production-in-youtube-studio/"><u>2024 Approved Pushing Boundaries of Video Production in YouTube Studio</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ace-the-interview-with-chatgpt-your-secret-weapon-to-land-that-dream-position/"><u>Ace the Interview with ChatGPT: Your Secret Weapon to Land that Dream Position</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-to-diagnosing-and-repairing-windows-11-mic-failures/"><u>Comprehensive Guide to Diagnosing & Repairing Windows 11 Mic Failures</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/elite-picks-for-cutting-edge-vision-tech/"><u>Elite Picks for Cutting-Edge Vision Tech</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/introduction-to-digiarty-software-inc-winxdvd-corporate-information-and-insights/"><u>Introduction to Digiarty Software, Inc. (WinXDVD): Corporate Information and Insights</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/master-image-layering-on-top-of-text-with-movavi-a-comprehensive-guide-to-flawless-designs/"><u>Master Image Layering on Top of Text with Movavi: A Comprehensive Guide to Flawless Designs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/master-the-art-of-eradicating-audio-echo-on-discord-expert-advice-and-fixes-for-pcs/"><u>Master the Art of Eradicating Audio Echo on Discord: Expert Advice & Fixes for PCs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-uninterrupted-voice-chat-on-discord-a-2024-how-to-manual/"><u>Mastering Uninterrupted Voice Chat on Discord - A 2024 How-To Manual</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016109252-no-more-silent-world-restoring-sounds-to-cyberpunk-2077-on-windows-11/"><u>No More Silent World: Restoring Sounds to Cyberpunk 2077 on Windows 11!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-windows-11-sound-problems-a-guide-to-repairing-inactive-speakers/"><u>Solve Your Windows 11 Sound Problems: A Guide to Repairing Inactive Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/top-solutions-for-restoring-audio-on-your-toshiba-laptop/"><u>Top Solutions for Restoring Audio on Your Toshiba Laptop</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-windows-laptop-picks-comprehensive-reviews-and-comparisons-by-industry-experts-techradar/"><u>Top-Rated Windows Laptop Picks - Comprehensive Reviews & Comparisons by Industry Experts | TechRadar</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/toshiba-laptop-audio-troubleshooting-top-solutions-for-restoring-sounds/"><u>Toshiba Laptop Audio Troubleshooting: Top Solutions for Restoring Sounds</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unlock-the-full-potential-of-your-logitech-g-pro-x-microphone-fixes-inside/"><u>Unlock the Full Potential of Your Logitech G Pro X Microphone (Fixes Inside)</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-expert-tips-iphones-secrets-to-perfect-movement-capture/"><u>[New] 2024 Approved Expert Tips IPhone's Secrets to Perfect Movement Capture</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unveiling-excellent-action-camera-options-a-15-item-list/"><u>[New] 2024 Approved Unveiling Excellent Action Camera Options A 15-Item List</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-combining-zoom-and-facebook-live-a-step-by-step-guide/"><u>[New] Combining Zoom & Facebook Live A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-vr-todays-technical-overview/"><u>[Updated] 2024 Approved VR Today's Technical Overview</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-deep-review-scoops-of-chilled-treats-on-your-pc/"><u>[Updated] In 2024, Deep Review Scoops of Chilled Treats on Your PC</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-obs-and-wirecast-bout-which-broadcast-tool-is-king/"><u>2024 Approved OBS and Wirecast Bout Which Broadcast Tool Is King?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/conquer-connectivity-2024s-best-techniques-for-a-working-webex-mic/"><u>Conquer Connectivity: 2024'S Best Techniques for a Working Webex Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-sound-output-issues-in-windows-11-effective-strategies/"><u>Diagnosing and Repairing Sound Output Issues in Windows 11: Effective Strategies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-skype-audio-glitches-mic-not-working-on-windows-10-resolved/"><u>Fix Your Skype Audio Glitches: Mic Not Working on Windows 10 Resolved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-dolby-advanced-audio-issue-starting-the-driver-on-windows-10/"><u>Fixing Dolby Advanced Audio Issue: Starting the Driver on Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-lsassexe-unable-to-locate-component-error-in-windows/"><u>How to Fix the lsass.exe Unable to Locate Component Error in Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/immediate-fixes-for-a-broken-google-hangouts-mic-easy-troubleshooting-techniques/"><u>Immediate Fixes for a Broken Google Hangouts Mic - Easy Troubleshooting Techniques</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-cricket-apple-iphone-8-plus-for-free-by-drfone-ios/"><u>In 2024, How To Unlock Cricket Apple iPhone 8 Plus for Free</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ate-guide-to-the-most-effective-16-youtube-intros-for-2024/"><u>Ultimate Guide to the Most Effective 16 YouTube Intros for 2024</u></a></li>
 </ul></div>
 

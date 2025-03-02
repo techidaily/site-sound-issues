@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting HyperX Cloud Speaker and Mic: Solved!"
-date: 2025-02-05T05:17:14.064Z
-updated: 2025-02-10T17:53:20.272Z
+date: 2025-02-25T11:32:36.245Z
+updated: 2025-03-02T02:03:44.755Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes for speakers crackling
 
  All the screenshots below are from**Windows 10** , but the fixes also work in**Windows 7** .
@@ -48,27 +44,15 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -87,10 +71,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
@@ -137,19 +117,20 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-control-picture-clarity-with-masked-gaussian-blur/"><u>[New] Control Picture Clarity with Masked Gaussian Blur</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-mac-screenshot-format-reconfiguration-guide/"><u>[Updated] 2024 Approved Mac Screenshot Format Reconfiguration Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-fastest-time-lapse-capturing-system-5/"><u>[Updated] In 2024, Fastest Time-Lapse Capturing System #5</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/2024s-top-iphone-data-restoration-software-ranked-for-ios-17-users-uncover-the-leading-options/"><u>2024'S Top iPhone Data Restoration Software Ranked for iOS 17 Users – Uncover the Leading Options!</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/digital-vs-physical-media-showdown-dvd-blu-ray-or-download-which-offers-the-best-value-for-money/"><u>Digital vs Physical Media Showdown: DVD, Blu-Ray or Download – Which Offers the Best Value for Money?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-unresponsive-audio-streams-online/"><u>Effective Solutions for Unresponsive Audio Streams Online</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-woes-solving-world-of-warcraft-audio-issues/"><u>Fixing Silent Woes: Solving World of Warcraft Audio Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/immediate-solutions-for-fixing-dells-sound-system-problems/"><u>Immediate Solutions for Fixing Dell's Sound System Problems</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-samsung-galaxy-a14-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Samsung Galaxy A14 5G FRP Without Computer</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-microphone-troubles-in-counter-strike-2-quick-and-easy-fixes-for-gamers/"><u>Mastering Microphone Troubles in Counter-Strike 2 – Quick & Easy Fixes for Gamers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximize-productivity-with-teamgees-portable-duo-monitors-save-an-extra-120-on-zdnet-exclusive-deal/"><u>Maximize Productivity with TeamGee's Portable Duo Monitors – Save an Extra $120 on ZDNet Exclusive Deal!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solutions-for-non-functioning-windows-scanners/"><u>Solutions for Non-Functioning Windows Scanners</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-resolve-dell-audio-issues-on-windows-7/"><u>Troubleshoot and Resolve Dell Audio Issues on Windows 7</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-excellence-of-the-201n-apple-ipad-air-more-than-just-a-tablet/"><u>Unveiling the Excellence of the 201N Apple iPad Air: More Than Just a Tablet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-radar-alert-devices-get-all-you-need-to-know-about-the-s55-as-per-our-latest-google-search-expertise/"><u>'Top Rated Radar Alert Devices': Get All You Need to Know About The S55 – As Per Our Latest Google Search Expertise</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-crypto-clout-how-much-does-the-youtube-gamer-make/"><u>[New] In 2024, Crypto Clout How Much Does the YouTube Gamer Make?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-ultimate-transformation-mp4-plus-srt-success/"><u>[New] In 2024, The Ultimate Transformation MP4 + SRT Success</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-comprehensive-guide-for-dynamic-snaps-and-boomers/"><u>[New] The Comprehensive Guide for Dynamic Snaps & Boomers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nveiling-hidden-details-in-asmr-recordings/"><u>[New] Unveiling Hidden Details in ASMR Recordings</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-9-premium-wedding-films-online-youtube-and-vimeo/"><u>In 2024, Top 9 Premium Wedding Films Online Youtube & Vimeo</u></a></li>
+<li><a href="https://article-files.techidaily.com/innovative-ways-to-leverage-zoom-for-fb-live/"><u>Innovative Ways to Leverage Zoom for FB Live</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-rec-room-microphone-problems-on-pc-a-comprehensive-guide/"><u>Solve Your Rec Room Microphone Problems on PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-windows-10-sound-dilemma-with-these-tips-for-conexant-smartaudio-hd/"><u>Solve Your Windows 10 Sound Dilemma with These Tips for Conexant SmartAudio HD</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-continuous-audio-disruption-problems-in-windows-10-explained/"><u>Solved! Continuous Audio Disruption Problems in Windows 10 Explained</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/speaker-noise-fixes-overcoming-audio-problems-in-windows-systems/"><u>Speaker Noise Fixes: Overcoming Audio Problems in Windows Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steelseries-arctis-99x-mic-not-working-solved/"><u>SteelSeries Arctis 9/9X Mic Not Working [SOLVED]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-repairing-a-nonfunctional-steelseries-arctis-7-mic/"><u>Step-by-Step Guide: Repairing a Nonfunctional SteelSeries Arctis 7 Mic</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/step-by-step-uploading-videos-to-instagram-on-desktop/"><u>Step-by-Step Uploading Videos to Instagram on Desktop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-silent-pc-resolve-sound-malfunctions-in-windows-11-hp-notebooks/"><u>Trouble with Silent PC? Resolve Sound Malfunctions in Windows 11 HP Notebooks</u></a></li>
 </ul></div>
 

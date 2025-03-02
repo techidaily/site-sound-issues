@@ -1,7 +1,7 @@
 ---
 title: Fixing Epson Scanner Malfunction in Windows 11
-date: 2025-02-08T17:14:02.365Z
-updated: 2025-02-10T20:27:33.410Z
+date: 2025-02-25T00:01:09.686Z
+updated: 2025-03-02T04:43:39.842Z
 tags:
   - win11
   - win10
@@ -65,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1678201865.jpg)
 3. Scroll down and double click**Windows Image Acquisition (WIA)** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd167eed749a.jpg)
 4. In the popup pane, ensure the**Startup type** is set**Automatic** , and the**Service status** is**Running** .  
 
@@ -87,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1678201865.jpg)
 3. Ensure these services are set to**Automatic** and the**Service status** is**Running** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
    * **Remote Procedure Call RPC**  
    * **DCOM Server Process Launcher**  
    * **RPC Endpoint Mapper**  
@@ -98,18 +90,10 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd169897b1a1.jpg)  
    **INFORMATION:**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
     The**Windows Image Acquisition (WIA)** service is dependent upon the**Shell Hardware Detection Service** , while the**Shell Hardware Detection Service** is dependent upon these services: Remote Procedure Call RPC, DCOM Server Process Launcher, and RPC Endpoint Mapper.
 4. Save the changes and try your scanner again to see if it works.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your scanner driver (Windows PC)
 
@@ -144,10 +128,6 @@ Then try scanning with your scanner to see if it works.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Troubleshoot hardware problems
 
  It’s possible that there’s something wrong with your scanner, so run a troubleshooter in your computer to fix the issue.
@@ -160,10 +140,6 @@ Then try scanning with your scanner to see if it works.
 3. Click**Next** in the popped-up window and the troubleshooter will start detecting hardware problems automatically.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/next-step.jpg)
 4. Follow the on-screen instructions to finish the troubleshooting and fix the detected issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After that, try your scanner again and see if it’s working properly.
 
@@ -182,10 +158,6 @@ Then try scanning with your scanner to see if it works.
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd031d993e59.jpg)
 3. Then wait for**Verification 100% complete** . This can take a while.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Once complete, Type**exit** in Command Prompt and press**Enter** to close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd036dad46be.jpg)
@@ -226,20 +198,19 @@ To fix your issues, follow the steps below to run a full scan of your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-pivoting-careers-from-novice-to-industry-veteran-for-2024/"><u>[Updated] Pivoting Careers From Novice to Industry Veteran for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-samsung-galaxy-m34-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Samsung Galaxy M34 FRP</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/after-one-month-comparing-the-health-and-fitness-capabilities-of-fitbit-sense-2-and-versa-4-caution-on-gps-functionality/"><u>After One Month: Comparing the Health & Fitness Capabilities of Fitbit Sense 2 & Versa 4 - Caution on GPS Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/anthem-sound-problem-in-windows-10-heres-how-to-bring-your-music-back/"><u>Anthem Sound Problem in Windows 10? Here’s How to Bring Your Music Back</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-to-restoring-stable-audio-in-windows-11-systems/"><u>Comprehensive Guide to Restoring Stable Audio in Windows 11 Systems</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-the-ideal-retiree-cellphone-deals-our-top-picks/"><u>Discover the Ideal Retiree Cellphone Deals – Our Top Picks</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/downloading-standardized-youtube-images-with-ease-and-precision/"><u>Downloading Standardized Youtube Images with Ease & Precision</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/eliminate-sound-dysfunctions-in-windows-os-solving-stutters-and-distortions-for-good/"><u>Eliminate Sound Dysfunctions in Windows OS - Solving Stutters & Distortions for Good</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-restoring-functionality-to-your-broken-or-silent-headset-microphone/"><u>Expert Tips: Restoring Functionality to Your Broken or Silent Headset Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-mic-failures-tips-and-tricks-for-windows-11-users/"><u>Fixing Mic Failures: Tips and Tricks for Windows 11 Users</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-asus-rog-phone-8-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Asus ROG Phone 8 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-of-microsofts-ergonomic-surface-keyboard-top-tier-craftsmanship-unveiled/"><u>In-Depth Review of Microsoft's Ergonomic Surface Keyboard: Top-Tier Craftsmanship Unveiled</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-streamline-your-workflow-how-to-optimize-your-macs-storage-for-fcpx/"><u>New 2024 Approved Streamline Your Workflow How to Optimize Your Macs Storage for FCPX</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/raising-the-bar-expert-advice-for-higher-audio-output-on-windows-10-systems/"><u>Raising the Bar: Expert Advice for Higher Audio Output on Windows 10 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015541183-trouble-with-your-logitech-g430-mic-heres-how-you-can-get-it-up-and-running-again/"><u>Trouble with Your Logitech G430 Mic? Here's How You Can Get It up and Running Again!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-definitive-guide-to-classic-anime-themes-for-2024/"><u>[New] The Definitive Guide to Classic Anime Themes for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-carryminati-unmasked-the-monetary-milestones-for-2024/"><u>[Updated] CarryMinati Unmasked The Monetary Milestones for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-5-best-360-degree-action-cameras-you-should-use/"><u>[Updated] In 2024, 5 Best 360-Degree Action Cameras You Should Use</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-unleashing-creativity-making-photo-based-videos-using-pixiz-for-2024/"><u>[Updated] Unleashing Creativity Making Photo-Based Videos Using Pixiz for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-latest-upgrade-wave-for-airpods-line-up-revealed-discover-the-four-key-advances-as-spotted-on-zdnet/"><u>Apple's Latest Upgrade Wave for AirPods Line-Up Revealed: Discover the Four Key Advances as Spotted on ZDNet</u></a></li>
+<li><a href="https://fox-info.techidaily.com/breaking-barriers-masterful-techniques-for-photosvideos-in-win11-for-2024/"><u>Breaking Barriers Masterful Techniques for Photos/Videos in Win11 for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-pure-image-no-clutter-webcam-recording-edit/"><u>In 2024, Pure Image, No Clutter - Webcam Recording Edit</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-6-recommended-websites-offering-complimentary-childrens-films/"><u>Top 6 Recommended Websites Offering Complimentary Children's Films</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-idt-hd-audio-codec-issues-for-windows-11-users/"><u>Troubleshooting and Fixing IDT HD Audio Codec Issues for Windows 11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-your-logitech-g633-microphone-issues/"><u>Troubleshooting and Fixing Your Logitech G633 Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audacity-quick-fixes-for-sound-device-failure/"><u>Troubleshooting Audacity: Quick Fixes for Sound Device Failure</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-non-functional-voice-chat-in-call-of-duty-modern-warfare/"><u>Troubleshooting Guide: Fixing Non-Functional Voice Chat in Call of Duty Modern Warfare</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-when-modern-warfares-voice-communication-stops-responding/"><u>Troubleshooting Guide: When Modern Warfare's Voice Communication Stops Responding</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-the-issue-of-speaker-not-working-despite-connection-on-pc/"><u>Troubleshooting: Fixing the Issue of 'Speaker Not Working' Despite Connection on PC</u></a></li>
 </ul></div>
 

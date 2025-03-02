@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Fixes: Resolving Non-Functional Speakers on an HP Laptop with Windows 10"
-date: 2024-12-04T17:34:35.665Z
-updated: 2024-12-10T20:06:55.619Z
+date: 2025-02-28T11:55:00.477Z
+updated: 2025-03-02T08:10:40.537Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 1, make sure your speakers are not the problem
 
@@ -59,18 +55,10 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-24.png)
 5. If the sound is unmuted, move to the next step.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Try to move the slider up to increase the volume.  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/volume-mixer.jpg)
 
  If the problem still cannot be resolved, try solutions below. Sound setting issues or driver issues may also cause this problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Set Speakers as Default
 
@@ -86,23 +74,11 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
 ![show disabled device](https://images.drivereasy.com/wp-content/uploads/2016/08/show-disabled-device.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After it is listed, right-click on the speakers and click**Enable** .
 
 ![enable speakers](https://images.drivereasy.com/wp-content/uploads/2016/08/enable-speakers.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The problem also can be caused by outdated or missing audio drivers. So try to fix audio drivers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Uninstall the Audio Driver
 
@@ -118,10 +94,6 @@ Follow these steps:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
 5. Reboot your PC and check to see if the problem is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Update the Audio Driver
 
@@ -156,24 +128,18 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-the-ultimate-hash-playbook-for-video-gamers-on-youtube/"><u>[New] 2024 Approved The Ultimate Hash Playbook for Video Gamers on YouTube</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-youtube-mastery-made-simple-the-top-20-must-know-strategies/"><u>[New] 2024 Approved YouTube Mastery Made Simple The Top 20 Must-Know Strategies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultra-clarity-the-new-era-of-hd-monitors-envy-27/"><u>[Updated] Ultra Clarity The New Era of HD Monitors - Envy 27</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functional-corsair-void-microphone-quickly-and-effectively/"><u>How to Fix a Non-Functional Corsair Void Microphone Quickly & Effectively</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-headphones-to-appear-in-windows-10-media-player-step-by-step-guide/"><u>How to Get Your Headphones to Appear in Windows 10 Media Player: Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-infinix-note-30-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Infinix Note 30 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-reactivate-and-repair-push-to-talk-on-your-overwatch-account/"><u>How to Reactivate and Repair 'Push-To-Talk' On Your Overwatch Account</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-hyperx-cloud-stinger-when-the-mic-fails-to-work/"><u>How to Repair Your HyperX Cloud Stinger When the Mic Fails to Work</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-non-functional-logitech-g9n-gaming-mic-on-windows-pcs/"><u>How to Resolve Non-Functional Logitech G9n Gaming Mic on Windows PCs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-in-corsair-void-headset-microphone/"><u>How to Restore Functionality in Corsair Void Headset Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-solve-computer-low-sound-volume-on-windows-10/"><u>How to Solve Computer Low Sound Volume on Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-turn-off-sound-improvements-on-your-windows-10-pc/"><u>How to Turn Off Sound Improvements on Your Windows 10 PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/identifying-and-fixing-persistent-beepingbuzzing-disturbances-in-headphone-experience/"><u>Identifying & Fixing Persistent Beeping/Buzzing Disturbances in Headphone Experience</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/premier-platforms-for-personalized-present-packaging/"><u>Premier Platforms for Personalized Present Packaging</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/streamline-shipment-5-methods-of-transporting-files/"><u>Streamline Shipment 5 Methods of Transporting Files</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-technique-how-to-execute-a-clean-boot-on-windows-11/"><u>The Ultimate Technique: How to Execute a Clean Boot on Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722989606702-troubleshooting-persistent-sony-vegas-crashes-get-your-project-up-and-running/"><u>Troubleshooting Persistent Sony Vegas Crashes - Get Your Project Up and Running</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-exploring-vlogging-selecting-the-best-cameras-and-lenses/"><u>[Updated] Exploring Vlogging Selecting the Best Cameras & Lenses</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2023s-premier-alternatives-to-samsungs-gear-360-cam/"><u>2023'S Premier Alternatives to Samsung's Gear 360 Cam</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetooth-delay-issues-solve-them-fast-with-these-simple-fixes/"><u>Bluetooth Delay Issues? Solve Them Fast with These Simple Fixes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/choosing-between-dji-gopro-and-insta360-a-comprehensive-gadget-showdown-for-2024/"><u>Choosing Between DJI, GoPro, and Insta360 A Comprehensive Gadget Showdown for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/conquering-soundless-skirmishes-in-call-of-duty-warzone-expert-tips-players/"><u>Conquering Soundless Skirmishes in Call of Duty: Warzone - Expert Tips Players</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-on-windows-11-resolving-no-audio-problems/"><u>Cyberpunk 2077 on Windows 11 - Resolving No Audio Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-fix-for-windows-1187-audio-issues-ensuring-proper-plug-ins/"><u>Easy Fix for Windows 11/8/7 Audio Issues: Ensuring Proper Plug-Ins</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-to-restore-sound-from-your-conexant-smartaudio-hd-device-on-windows-11/"><u>Effective Solutions to Restore Sound From Your Conexant SmartAudio HD Device on Windows 11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/embrace-wellness-on-the-go-discover-how-the-fitbit-versa-3s-integrated-gps-and-array-of-health-apps-can-provide-continuous-motivation-for-your-active-lifest113/"><u>Embrace Wellness On-the-Go: Discover How the Fitbit Versa 3'S Integrated GPS and Array of Health Apps Can Provide Continuous Motivation for Your Active Lifestyle</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-framing-the-frame-top-camera-techniques-for-visuals/"><u>In 2024, Framing the Frame Top Camera Techniques for Visuals</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/new-era-of-virtual-conferencing-zoom-integration-with-vision-pro-headsets-may-change-how-you-attend-meetings-tech-insights/"><u>New Era of Virtual Conferencing: Zoom Integration with Vision Pro Headsets May Change How You Attend Meetings | Tech Insights</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-redmi-note-12-proplus-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Redmi Note 12 Pro+ 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/troubleshooting-memory-problems-in-your-computer-expert-tips-from-yl-software/"><u>Troubleshooting Memory Problems in Your Computer - Expert Tips From YL Software</u></a></li>
 </ul></div>
 

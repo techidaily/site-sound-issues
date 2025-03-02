@@ -1,7 +1,7 @@
 ---
 title: "Reviving Volume: Effective Fixes for Lenovo Laptop Sound Issues"
-date: 2025-02-09T19:17:53.988Z
-updated: 2025-02-11T01:31:51.543Z
+date: 2025-02-28T06:25:05.571Z
+updated: 2025-03-02T06:52:14.623Z
 tags:
   - win11
   - win10
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 1. On your keyboard, press**the Windows logo key** and type**troubleshoot** . In the list of search results, select **Troubleshoot settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000231-1.png)
 2. In the pop-up window, select**Playing Audio** , then click**Run the troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000232.png)
 3. Follow the on-screen instructions to troubleshoot the audio playback issue.
@@ -92,19 +88,11 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000237-2.png)
 3. If your laptop speaker is disabled,**right-click** your laptop speaker and select**Enable** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000236.png)
 4. Select the speaker / headphone you’re using and  click **Set Default** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
 5. Click**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. On your desktop,   **right-click**  **the speaker icon**  on the lower-right corner, and then select**Open Volume Mixer**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000233.png)
@@ -119,15 +107,7 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000240.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Play a song on your HP laptop to see if the no sound issue is resolved. If not, try the next fix to restart Windows audio service.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 4: Restart Windows audio service**
 
@@ -136,25 +116,13 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time to open the Run dialog. Type **services.msc**   and press **Enter** . You’ll be prompted for permission. Click **Yes**   to open **Services** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap190-5.png)
 2. Scroll down to locate **Windows Audio** . **Right-click**   it and select **Properties** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap193-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Under the **General**   tab, if the service is disabled, click **Star**   to enable it. For **Startup type** , select **Automatic** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap194-5.png)
 4. Navigate to the **Recovery**   tab. For **First failure** , select **Restart the Service** . Then click **OK**   to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap195-5.png)
 5. Locate the service **Windows Audio Endpoint Builder** . Follow step 3 and step 4 above to do the same thing for Windows Audio Endpoint Builder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Restart your PC.
 
@@ -190,24 +158,22 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-leading-audio-editing-software-in-shaping-your-vtuber-image/"><u>[New] Leading Audio Editing Software in Shaping Your VTuber Image</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-elevate-your-brand-discovering-the-essential-5-youtube-strategies/"><u>[Updated] 2024 Approved Elevate Your Brand Discovering the Essential 5 YouTube Strategies</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-exhaustive-review-of-razers-kiyo-cam-for-2024/"><u>[Updated] Exhaustive Review of Razer's Kiyo Cam for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-iconic-scripts-that-reshaped-cinemas-landscape/"><u>2024 Approved Iconic Scripts That Reshaped Cinema's Landscape</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-mpow-microphone-problems-in-the-windows-environment/"><u>Diagnosing and Repairing MPOW Microphone Problems in the Windows Environment</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-fixes-for-crackling-sound-issues-on-speakers-with-windows-operating-systems-windows-10-and-7-edition/"><u>DIY Fixes for Crackling Sound Issues on Speakers with Windows Operating Systems: Windows 10 and 7 Edition</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-classic-apple-ii-machines-using-an-hdmi-output-adapter-for-modern-connectivity/"><u>Enhance Classic Apple II Machines Using an HDMI Output Adapter for Modern Connectivity</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-silence-solving-voice-chat-problems-in-lol-games/"><u>Fixing the Silence: Solving Voice Chat Problems in LoL Games</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-to-switching-off-the-improved-audio-settings-on-your-windows-11-device/"><u>Guide to Switching Off the Improved Audio Settings on Your Windows 11 Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-non-working-jabra-wireless-earbuds-up-and-running-again-latest-fixes/"><u>How To Get Your Non-Working Jabra Wireless Earbuds Up and Running Again - Latest Fixes !</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-m14-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy M14 5G</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-streamline-your-roblox-recording-mac-guide/"><u>In 2024, Streamline Your Roblox Recording Mac Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/kinetic-gameplay-reimagined-a-comprehensive-analysis-of-kinemaster-on-android-for-2024/"><u>Kinetic Gameplay Reimagined A Comprehensive Analysis of KineMaster on Android for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-mic-quality-a-quick-easy-audio-test-method/"><u>Mastering Mic Quality: A Quick, Easy Audio Test Method</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/securely-buy-official-winx-dvd-ripper-and-burner-on-the-web/"><u>Securely Buy Official WinX DVD Ripper & Burner on the Web</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-creative-pebble-speaker-issues-expert-solutions-for-audio-woes/"><u>Troubleshoot Creative Pebble Speaker Issues: Expert Solutions for Audio Woes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-your-logitech-g230-microphone-issues/"><u>Troubleshooting and Fixing Your Logitech G230 Microphone Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-hdmi-connectivity-when-your-hardware-is-accessed-by-other-software/"><u>Troubleshooting HDMI Connectivity When Your Hardware Is Accessed by Other Software</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-boost-your-channels-subscribers-on-a-shoestring-budget/"><u>[Updated] Boost Your Channel's Subscribers on a Shoestring Budget</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-animated-text-tips-free-inclusion-techniques/"><u>2024 Approved Animated Text Tips Free Inclusion Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-solutions-to-fix-the-silent-microphone-on-your-steelseries-arctis-pro/"><u>Comprehensive Solutions to Fix the Silent Microphone on Your SteelSeries Arctis Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-audio-fixes-addressing-no-sound-issues-on-windows-10-machines/"><u>Cyberpunk 2077 Audio Fixes: Addressing No-Sound Issues on Windows 10 Machines</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-sound-restoration-techniques-for-windows-11-users/"><u>Cyberpunk 2077 Sound Restoration Techniques for Windows 11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repair-resolving-issues-with-runmus-gaming-headset-microphone/"><u>DIY Repair: Resolving Issues with Runmus Gaming Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminating-sound-crackling-errors-in-cyberpunk-2077-easy-solutions-revealed/"><u>Eliminating Sound Crackling Errors in Cyberpunk 2077 – Easy Solutions Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-guide-restoring-functionality-of-the-mic-on-razer-blackshark-v2/"><u>Expert Guide: Restoring Functionality of the Mic on Razer BlackShark V2</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-razer-barracuda-x-microphone-step-by-step-guide-on-win10-and-win11/"><u>Fix Your Razer Barracuda X Microphone - Step-by-Step Guide on Win10 & Win11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-connectivity-glitches-when-windows-11-doesnt-recognize-your-headphones/"><u>Fixing Audio Connectivity Glitches: When Windows 11 Doesn't Recognize Your Headphones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-excel-and-dominate-in-the-apple-tv-market/"><u>How to Excel and Dominate in the Apple TV Market</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-recover-from-a-crash-in-your-radeon-wattman-configurations-successfully/"><u>How To Recover From a Crash in Your Radeon Wattman Configurations Successfully</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-boost-professional-look-adding-borders-to-instagram-content/"><u>In 2024, Boost Professional Look Adding Borders to Instagram Content</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-creating-a-personalized-google-cardboard-vr-setup/"><u>In 2024, Creating a Personalized Google Cardboard VR Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-windows-tasks-admin-cmd-mode/"><u>Transform Windows Tasks: Admin CMD Mode</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/understanding-anti-malware-operations-a-deep-dive-into-windows-defenders-strategy-with-yl-software-expertise/"><u>Understanding Anti-Malware Operations: A Deep Dive Into Windows Defender’s Strategy with YL Software Expertise</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211124438-9781684865130-win-at-work/"><u>WIN AT WORK | Free Book</u></a></li>
 </ul></div>
 

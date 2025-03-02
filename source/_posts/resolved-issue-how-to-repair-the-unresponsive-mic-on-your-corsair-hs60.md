@@ -1,7 +1,7 @@
 ---
 title: "Resolved Issue: How to Repair the Unresponsive Mic on Your Corsair HS60"
-date: 2025-02-08T16:09:10.003Z
-updated: 2025-02-10T22:52:31.907Z
+date: 2025-02-27T13:23:05.206Z
+updated: 2025-03-01T21:58:46.467Z
 tags:
   - win11
   - win10
@@ -47,10 +47,6 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d212718ff2.jpg)
 3. Play some music and see if this**Bluetooth Connected But No Sound** problem gets resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 ### Fix 2: Make sure the audio level is high enough
@@ -61,19 +57,11 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1c8bbf643.jpg)
 2. In the**Playback** tab, click on**your** **Bluetooth device** \>**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d223cd2694.jpg)
 3. Click the Levels tab. Then make sure**the volume bar is dragged to an audible level** and the sound icon**isn’t muted** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d22c378f3f.png)
 4. Click**Apply** \>**OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Hopefully the **Bluetooth Connected But No Sound problem** has been resolvedthis time. If the problem still persists, move on to **Fix 3** .
 
@@ -89,10 +77,6 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1e0590947.jpg)
 3. Select**Automatic** in the**Startup type** drop-down menu and then click**Start** to jumpstart the service. Then click**Apply** \>**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1ea8ed445.jpg)
 4. Play some music and test if your**Bluetooth Connected But No Sound** has been fixed. If it’s still no joy, please move on to F**ix 4,** below.
@@ -113,17 +97,9 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627e9c324d0.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -165,18 +141,21 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-professional-strategies-for-effective-google-meet-customization-for-2024/"><u>[New] Professional Strategies for Effective Google Meet Customization for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-quickcapture-vs-recordify-comparative-recorder-analysis-2023/"><u>2024 Approved 'QuickCapture' Vs 'Recordify' Comparative Recorder Analysis 2023</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/download-nbas-greatest-free-hd-clips-of-stephen-currys-top-basketball-moments/"><u>Download NBA's Greatest: Free HD Clips of Stephen Curry's Top Basketball Moments</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silence-troubleshooting-the-lack-of-audio-in-wow/"><u>Fixing Silence: Troubleshooting the Lack of Audio in WoW</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-decipher-youtubes-mysteries-with-advanced-insights-from-social-blade/"><u>In 2024, Decipher YouTube's Mysteries with Advanced Insights From Social Blade</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-installing-tiktok-made-easy-for-mac-users/"><u>In 2024, Installing TikTok Made Easy for Mac Users</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-and-insights-on-the-large-screen-nook-ereader-by-barnes-and-noble/"><u>In-Depth Analysis and Insights on the Large-Screen Nook eReader by Barnes & Noble</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-windows-1n-compatibility-hurdles-with-dolby-sound-driver-startup-solutions/"><u>Overcoming Windows 1N Compatibility Hurdles with Dolby Sound: Driver Startup Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/pc-troubles-heres-how-you-can-fix-lost-microphone-audio-in-zoom-calls/"><u>PC Troubles? Here's How You Can Fix Lost Microphone Audio in Zoom Calls</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-fixing-the-iphones-audio-issues-noise-free-crisp-sounds/"><u>Resolved: Fixing the iPhone's Audio Issues - Noise-Free, Crisp Sounds</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/scrutinizing-if-opinions-on-items-are-paid-for/"><u>Scrutinizing if Opinions on Items Are Paid For</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-for-fixing-pc-mic-troubles-in-rec-room-games-update-your-setup/"><u>Step-by-Step Guide for Fixing PC Mic Troubles in Rec Room Games: Update Your Setup</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/step-by-step-guide-restoring-your-hard-drive-with-windows-7-system-image/"><u>Step-by-Step Guide: Restoring Your Hard Drive with Windows 7 System Image</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-estimated-video-monetization-totals/"><u>[New] In 2024, Estimated Video Monetization Totals</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-creative-pebble-speakers-not-working/"><u>[SOLVED] Creative Pebble Speakers Not Working</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-developing-dynamic-instagram-feed-slides/"><u>[Updated] Developing Dynamic Instagram Feed Slides</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-shutter-speed-mastery-for-chromebook-users-method-4/"><u>[Updated] In 2024, Shutter Speed Mastery for Chromebook Users (Method #4)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-unveiling-youtubes-hidden-feature-stop-snippet-viewing-for-2024/"><u>[Updated] Unveiling YouTube's Hidden Feature Stop Snippet Viewing for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/banish-buzz-five-straightforward-fixes-for-clear-sound-output/"><u>Banish Buzz: Five Straightforward Fixes for Clear Sound Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/boosting-audio-clarity-resolving-low-playback-levels-in-windows-10-machines/"><u>Boosting Audio Clarity: Resolving Low Playback Levels in Windows 10 Machines</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/eminent-exchanges-a-curated-list-of-top-reddit-posts-for-2024/"><u>Eminent Exchanges A Curated List of Top Reddit Posts for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Motorola Moto G84 5G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-xs-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone XS without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-the-beginners-guide-to-youtube-image-sharing/"><u>In 2024, The Beginner's Guide to YouTube Image Sharing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-skype-speakers-simple-solutions-for-silent-calls/"><u>Reviving Skype Speakers - Simple Solutions for Silent Calls</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-fix-guide-to-restore-your-nvidia-hd-audios-missing-sounds/"><u>The Ultimate Fix Guide to Restore Your Nvidia HD Audio's Missing Sounds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-hyperx-cloud-mic-expert-tips-for-getting-it-back-to-life/"><u>Troubleshooting Your HyperX Cloud Mic: Expert Tips for Getting It Back to Life</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-microphones-audio-capture-a-complete-guide/"><u>Troubleshooting Your Microphone's Audio Capture: A Complete Guide</u></a></li>
 </ul></div>
 

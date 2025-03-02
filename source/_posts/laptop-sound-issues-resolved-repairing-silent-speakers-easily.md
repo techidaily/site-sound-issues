@@ -1,7 +1,7 @@
 ---
 title: Laptop Sound Issues Resolved - Repairing Silent Speakers Easily
-date: 2025-02-07T04:36:00.556Z
-updated: 2025-02-11T08:16:40.183Z
+date: 2025-02-27T12:26:45.229Z
+updated: 2025-03-02T08:08:41.150Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ If you’re playing _World of Warcraft(WoW)_ and the audio cuts out abruptly, or
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -58,10 +54,6 @@ If your cables and volume are okay, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-664.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Type**mmsys.cpl** , then press the Enter key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-668.png)
@@ -70,17 +62,9 @@ If your cables and volume are okay, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-678.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Click**Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-677.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the sound is still not working on_WoW_ , or your audio device is already set as Default Device, check the fix below.
 
@@ -113,10 +97,6 @@ To disable the Audio Enhancements, follow the instructions below:
 **5)** Click**APPLY > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-684.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If turning off Audio Enhancements didn’t fix your issue, read on and try the fix below.
 
@@ -173,10 +153,6 @@ OR
 **2)** Click the **Game Settings tab** , then click **Reset to Defaults** under_World of Warcraft_ .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-646.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click **Reset** .
 
@@ -245,10 +221,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-650.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Open the**World of Warcraft folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-652.png)
@@ -261,17 +233,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-657.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **7)** Relaunch_WoW_ to test your issue.
 
  If the_WoW_ sound issue persists, don’t fret. There is still one more fix to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall the Blizzard Battle.net app
 
@@ -284,10 +248,6 @@ OR
 **2)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-443-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click **Uninstall a program** .
 
@@ -326,20 +286,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-top-microphones-for-idevices-and-their-benefits-explained/"><u>[New] 2024 Approved Top Microphones for iDevices & Their Benefits Explained</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-frameflick-recorder-reflection/"><u>[New] FrameFlick Recorder Reflection</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-depth-the-full-spectrum-of-toolwiz-apps-capabilities-2023-for-2024/"><u>[New] In Depth The Full Spectrum of Toolwiz App's Capabilities, 2023 for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/a-compreenasian-guide-to-obs-installation-on-apple-systems/"><u>A Compreenasian Guide to OBS Installation on Apple Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016869686-audio-disruption-diagnosis-and-fix-for-windows-710-users-say-goodbye-to-sound-issues/"><u>Audio Disruption Diagnosis & Fix for Windows 7/10 Users - Say Goodbye to Sound Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-resolving-problems-with-your-logitech-g933-mic/"><u>Diagnosing and Resolving Problems with Your Logitech G933 Mic</u></a></li>
-<li><a href="https://solve-help.techidaily.com/download-our-top-rated-tools-and-complimentary-ebooks-your-ultimate-free-resources-hub/"><u>Download Our Top-Rated Tools & Complimentary Ebooks - Your Ultimate Free Resources Hub</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-pc-audio-issues-instantly-simple-solutions/"><u>Fix PC Audio Issues Instantly: Simple Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-rid-of-buzzing-noise-effortlessly-with-these-5-fixes-for-speakers/"><u>Get Rid of Buzzing Noise Effortlessly with These 5 Fixes for Speakers</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-x-fold-2-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo X Fold 2 Phone When You Forget the Password</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Vivo S17 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-windows-crashes-due-to-video-drivers/"><u>Remedying Windows Crashes Due to Video Drivers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restarting-success-fixing-a-non-responsive-sound-blaster-microphone/"><u>Restarting Success: Fixing a Non-Responsive Sound Blaster Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-realtek-hd-audio-issue-why-your-program-isnt-starting-up/"><u>Solving the Realtek HD Audio Issue: Why Your Program Isn't Starting Up</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/thing-the-hidden-an-orderly-guide-to-covert-youtube-videos/"><u>Unearthing the Hidden An Orderly Guide to Covert YouTube Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ow-much-money-does-mr-beast-make/"><u>[New] How Much Money Does Mr. Beast Make</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-optimizing-video-playback-sizes-on-youtube-for-2024/"><u>[New] Optimizing Video Playback Sizes on YouTube for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-expert-tips-for-recording-fan-favorite-sports-games/"><u>[Updated] 2024 Approved Expert Tips for Recording Fan-Favorite Sports Games</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-enrich-your-screen-time-integrating-facebook-live-into-roku/"><u>[Updated] In 2024, Enrich Your Screen Time Integrating Facebook LIVE Into Roku</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/choosing-the-core-versus-modified-chatgpt-engagement-platforms/"><u>Choosing the Core versus Modified ChatGPT Engagement Platforms</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-12-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 12 Pro Max Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/integrating-diverse-iphone-media-formats-together/"><u>Integrating Diverse iPhone Media Formats Together</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-unwanted-sound-movement-turn-off-head-tracking-feature-for-airpods/"><u>Solve Unwanted Sound Movement: Turn Off Head-Tracking Feature for AirPods</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-pc-audio-issues-restoring-sound-during-a-zoom-call/"><u>Solving PC Audio Issues: Restoring Sound During a Zoom Call</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-mute-mystery-how-to-get-sound-back-on-a-lenovo-notebook/"><u>Solving the Mute Mystery: How to Get Sound Back on a Lenovo Notebook</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-mystery-of-muted-sounds-in-hearthstone/"><u>Solving the Mystery of Muted Sounds in Hearthstone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-problem-with-your-turtle-beach-mic-step-by-step-solutions/"><u>Solving the Problem with Your Turtle Beach Mic – Step-by-Step Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/southwest-introduces-innovative-customer-concept-but-fumbles-execution-a-deep-dive-into-the-story/"><u>Southwest Introduces Innovative Customer Concept, but Fumbles Execution: A Deep Dive Into the Story</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-cod-vanguard-fixing-voice-chat-issues/"><u>Troubleshooting Cod: Vanguard - Fixing Voice Chat Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-solve-voice-chat-issues-in-rainbow-six-siege-202-4-update/"><u>Troubleshooting Guide: How to Solve Voice Chat Issues in Rainbow Six Siege (202 4 Update)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-plugged-in-issues-with-realtek-ads/"><u>Troubleshooting Guide: Solving 'Plugged In' Issues with Realtek ADS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-shared-hdmi-use-between-apps-for-smooth-device-functionality/"><u>Troubleshooting Shared HDMI Use Between Apps for Smooth Device Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-sony-headphones-fixing-nonfunctional-mic-issues-with-wh-1000xm3-or-wh-1000xm4/"><u>Troubleshooting Sony Headphones: Fixing Nonfunctional Mic Issues with WH-1000XM3 or WH-1000XM4</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-fixed-bsod-irql-not-equal/"><u>Win11 Fixed: BSOD - Irql Not Equal</u></a></li>
 </ul></div>
 

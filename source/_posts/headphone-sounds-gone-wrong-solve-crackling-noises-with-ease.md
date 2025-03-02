@@ -1,7 +1,7 @@
 ---
 title: Headphone Sounds Gone Wrong? Solve Crackling Noises with Ease!
-date: 2024-08-23T12:10:57.207Z
-updated: 2024-08-24T12:10:57.207Z
+date: 2025-02-25T01:02:04.672Z
+updated: 2025-03-02T06:07:08.130Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Check for hardware issues
 
 1. Try the headphone on other devices and see if it works.
@@ -46,18 +43,11 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ### **Fix 2: Disable Exclusive Mode and change the sound format**
 
  Having **Exclusive Mode**   on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the **crackling or popping sound** in headphone  problem. To disable **Exclusive Mode** :
 
  1) On the bottom right of your screen, right-click on**the sound icon** , then click**Sounds** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/12sound.png)
 
  2) In the**Playback** tab, right-click on**speakers** and click **Properties** .
@@ -66,9 +56,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
  3) Click the**Advanced** tab, un-check **the box** before **Allow applications to take exclusive control of this device** . Then click **Apply** \> **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 
  4) Play some music and check if the sound coming through is noise-free now. If not, continue with **5)** to **change the audio format** .
@@ -100,9 +87,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Adjust **the minimum processor state**
 
  Adjusting **the minimum processor state** , as reported by many users, is another effective way to fix the**crackling**   **in headphones** issue . To do so:
@@ -110,16 +94,8 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)
@@ -142,8 +118,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +125,26 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-easy-and-inexpensive-techniques-for-youtube-cards-for-2024/"><u>[Updated] Easy and Inexpensive Techniques for YouTube Cards for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-dynamic-windows-top-9-essential-gif-recorder-programs/"><u>[Updated] In 2024, Dynamic Windows Top 9 Essential GIF Recorder Programs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/como-eliminar-correctamente-las-bandas-oscuras-de-tu-contenido-audiovisual-con-cinco-metodos-simples-y-efectivos/"><u>Cómo Eliminar Correctamente Las Bandas Oscuras De Tu Contenido Audiovisual Con Cinco Métodos Simples Y Efectivos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-guide-what-to-do-when-confronted-with-an-unknown-audio-device-in-windows-10/"><u>DIY Guide: What to Do When Confronted With an 'Unknown' Audio Device in Windows 10</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/enhance-creativity-with-these-top-6-instagram-reel-tools/"><u>Enhance Creativity with These Top 6 Instagram Reel Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-reactivating-sound-on-your-call-of-duty-black-ops-cold-war-game-pc-version-common-solutions/"><u>Expert Tips: Reactivating Sound on Your Call of Duty: Black Ops Cold War Game (PC Version) - Common Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-issues-in-windows-step-by-step-troubleshooting-for-a-silent-pc/"><u>Fixing Audio Issues in Windows: Step-by-Step Troubleshooting for a Silent PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-sound-problems-on-the-g435-headset-effective-solutions-inside/"><u>Fixing Sound Problems on the G435 Headset – Effective Solutions Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-airpods-working-right-again-repairing-mic-functionality-in-windows-10/"><u>Get Your AirPods Working Right Again: Repairing Mic Functionality in Windows 10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p40plus-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Itel P40+ Phone without Any Data Loss</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-lava-yuva-3-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Lava Yuva 3 to iPod | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013041298-overcoming-performance-hiccups-in-overwatch-fixes-revealed/"><u>Overcoming Performance Hiccups in Overwatch - Fixes Revealed!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/perfecting-voice-broadcasts-on-apple-devices-the-pros-guide/"><u>Perfecting Voice Broadcasts on Apple Devices - The Pro's Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-bose-speakers-expert-advice-on-dealing-with-non-operational-devices/"><u>Reviving Your Bose Speakers: Expert Advice on Dealing with Non-Operational Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/runmus-gaming-headset-microphone-woes-heres-how-you-can-get-it-working-again/"><u>Runmus Gaming Headset Microphone Woes? Here's How You Can Get It Working Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-for-non-functional-razer-barracuda-x-mic-on-windows-1110-systems/"><u>Troubleshooting Guide for Non-Functional Razer Barracuda X Mic on Windows 11/10 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-2024-guide-solving-your-speakers-latency-problem/"><u>Ultimate 2024 Guide: Solving Your Speaker's Latency Problem</u></a></li>
+</ul></div>
 

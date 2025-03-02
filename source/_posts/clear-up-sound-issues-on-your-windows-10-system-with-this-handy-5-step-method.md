@@ -1,7 +1,7 @@
 ---
 title: Clear up Sound Issues on Your Windows 10 System with This Handy 5-Step Method
-date: 2024-08-23T12:10:48.328Z
-updated: 2024-08-24T12:10:48.328Z
+date: 2025-02-23T02:52:17.914Z
+updated: 2025-03-02T10:22:47.371Z
 tags:
   - win11
   - win10
@@ -47,48 +47,24 @@ Microsoft Teams offers a variety of convenient features for online conferencing.
 
  Does your microphone return to normal? If not, proceed to more fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2 – Configure the microphone settings
 
  To make your microphone work, it’s also important to configure the microphone settings correctly on your PC. You need to ensure the microphone is not muted and set as the default device.
 
 1. Type**control panel** in the search box and click**Control Panel** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/microsoft-team-control-panel.jpg)
 2. Select**Small icons** from the drop-down menu next to View by. Then, click**Sound** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-4.jpg)
 3. Navigate to the**Recording** tab, and right-click any empty space below. Then, tick Show**Disabled Devices** .  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3-4.jpg)
 4. Right-click the idle microphone and click**Disable** one by one.
 5. Select the correct input device and click**Set Default** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-5.jpg)
 6. Click the microphone you’re using and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-6.jpg)
 7. Go to the**Levels** tab. Then make sure**it’s not muted** and**drag the volume slider to the max** .  
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-7.jpg)
 8. Click**OK** to apply the changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-8.jpg)
 
  Now that everything is set up in the right way, test your microphone in Microsoft Team. If it still fails to work, check out the next fix.
@@ -105,9 +81,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Re-open the app and join a call to test your microphone. If the issue persists, check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ### Fix 4 – Update your audio driver
 
  The Microsoft Teams mic not working issue may indicate problems with your audio driver. To ensure the microphone work smoothly when you’re on an online class or meeting, you should always keep the audio driver up–to-date. Here are two ways for you to update the audio driver: **[manually](https://tools.techidaily.com/drivereasy/download/)**  or **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -128,9 +101,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-3.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click**Update** to do it for free, but it’s partly manual.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2-5.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -138,9 +108,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Regular driver updates can make your audio device run in the tip-top condition, but if this doesn’t fix Microsoft Teams microphone not working, there is the last method to try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### Fix 5 – Reinstall Microsoft Teams
 
  If none of the solutions above get your microphone back to working, the cause might be on the software’s end. Download and reinstall the latest Microsoft Teams to resolve the errors during the previous installation.
@@ -148,9 +115,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run command. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1-2.jpg)
 2. Right-click**Microsoft Teams** and click**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-2.jpg)
 3. Download the newest version of Microsoft Team from its **[official website](https://r.brandreward.com/?key=3882aba4cadd4473e0195097fdf20855&url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fmicrosoft-teams%2Fgroup-chat-software&id=drivereasy-en-134633)**  .
 
@@ -169,8 +133,6 @@ Now your microphone should be working perfectly with Microsoft Teams.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +140,24 @@ Now your microphone should be working perfectly with Microsoft Teams.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-haunting-hilarity-hub/"><u>2024 Approved Haunting Hilarity Hub</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-infinix-note-30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Infinix Note 30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/arctis-7-microphone-woes-heres-how-you-can-get-it-up-and-running-again/"><u>Arctis #7 Microphone Woes? Here's How You Can Get It Up and Running Again</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/best-video-language-changers-to-make-your-videos-accessible/"><u>Best Video Language Changers to Make Your Videos Accessible</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-black-ops-cold-war-solutions-to-voice-chat-issues/"><u>Fixing Black Ops Cold War: Solutions to Voice Chat Issues</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-download-and-update-for-amd-ryzen-graphics-drivers-expert-tips-included/"><u>Hassle-Free Download & Update for AMD Ryzen Graphics Drivers - Expert Tips Included</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hasten-recovery-from-test-tone-malfunction-issues/"><u>Hasten Recovery From 'Test Tone Malfunction' Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-techniques-for-setting-up-your-wd-ses-external-drive-with-updated-usb-drivers/"><u>Latest Techniques for Setting Up Your WD SES External Drive with Updated USB Drivers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/maximizing-engagement-integrating-youtube-music-into-videos/"><u>Maximizing Engagement Integrating YouTube Music Into Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-solve-razer-microphone-issues-in-just-five-simple-stages/"><u>Troubleshoot and Solve Razer Microphone Issues in Just Five Simple Stages</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solutions-for-nonfunctional-internal-laptop-sound/"><u>Troubleshooting & Solutions for Nonfunctional Internal Laptop Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-non-responsive-voice-communication-in-lol/"><u>Troubleshooting Guide: Fixing Non-Responsive Voice Communication in LoL</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/ultimate-fidelity-in-mac-screen-and-audio-recording-for-2024/"><u>Ultimate Fidelity in Mac Screen & Audio Recording for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-xiaomi-redmi-note-13-proplus-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Xiaomi Redmi Note 13 Pro+ 5G FRP Bypass</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unstuck-mic-on-astro-a50-quick-solutions-for-crystal-clear-sound/"><u>Unstuck Mic on Astro A50: Quick Solutions for Crystal Clear Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/voice-verification-the-ultimate-rapid-mic-test-technique/"><u>Voice Verification: The Ultimate Rapid Mic Test Technique</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+</ul></div>
 

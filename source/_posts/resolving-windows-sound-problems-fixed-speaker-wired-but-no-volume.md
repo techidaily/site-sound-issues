@@ -1,7 +1,7 @@
 ---
 title: "Resolving Windows Sound Problems: Fixed! Speaker Wired but No Volume"
-date: 2024-12-06T18:15:06.166Z
-updated: 2024-12-10T20:26:29.841Z
+date: 2025-02-24T22:35:47.771Z
+updated: 2025-03-01T23:47:47.045Z
 tags:
   - win11
   - win10
@@ -36,10 +36,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 1: Disable Exclusive Mode and change the sound format**
 
  Having**Exclusive Mode** on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the**crackles in speakers** problem. To disable**Exclusive Mode** :
@@ -56,10 +52,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -79,10 +71,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
@@ -98,16 +86,8 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
@@ -136,16 +116,18 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-art-of-digital-retrieval-saving-and-storing-chats-on-fb/"><u>[New] In 2024, The Art of Digital Retrieval Saving and Storing Chats on FB</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-vida-journey-from-raw-footage-to-cinematic-scene/"><u>2024 Approved The Vida Journey From Raw Footage to Cinematic Scene</u></a></li>
-<li><a href="https://extra-information.techidaily.com/exploring-the-depths-of-adobe-cloud-storages-plus-top-non-adobe-choices/"><u>Exploring the Depths of Adobe Cloud Storages, Plus Top Non-Adobe Choices</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-unveiling-secrets-to-craft-impeccable-timelapse-shots-with-gopro/"><u>In 2024, Unveiling Secrets to Craft Impeccable Timelapse Shots with GoPro</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/reviving-your-lost-files-top-5-methods-for-restoring-deleted-items-on-windows-11/"><u>Reviving Your Lost Files: Top 5 Methods for Restoring Deleted Items on Windows 11</u></a></li>
-<li><a href="https://os-tips.techidaily.com/silent-video-creation-on-ios-a-step-by-step-process-for-cutting-out-audio-before-posting/"><u>Silent Video Creation on iOS: A Step-by-Step Process for Cutting Out Audio Before Posting</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-troubleshooting-and-repairing-a-non-functional-headphone-jack-on-your-computer/"><u>Solved: Troubleshooting and Repairing a Non-Functional Headphone Jack on Your Computer</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-no-sound-problems-expert-guide-to-troubleshoot-silent-pc/"><u>Solving 'No Sound' Problems: Expert Guide to Troubleshoot Silent PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-problems-with-the-logitech-g733-microphone-expert-tips-and-tricks/"><u>Solving Problems with the Logitech G733 Microphone - Expert Tips and Tricks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-silent-issue-effortless-solutions-for-logitech-g9easy-steps-to-get-sound-back-3-easy-fixes-for-noise-problems-in-logitech-g933-mice-follow-these670/"><u>Solving the Silent Issue: Effortless Solutions for Logitech G9easy Steps to Get Sound Back) 3. Easy Fixes for Noise Problems in Logitech G933 Mice - Follow These Simple Steps</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209876794-9781999067625-the-way-to-peace/"><u>the Way to Peace | Free Book</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-desktop-capture-the-windows-user-guide/"><u>[New] 2024 Approved Desktop Capture The Windows User Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-enhancing-video-production-quality-top-5-strategies-for-obs-users/"><u>[New] In 2024, Enhancing Video Production Quality Top 5 Strategies for OBS Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-become-a-pro-at-utilizing-zoom-for-windows-11-users/"><u>[Updated] 2024 Approved Become a Pro at Utilizing Zoom for Windows 11 Users</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-disabling-facebook-video-ad-pop-ups-quickly-for-2024/"><u>[Updated] Disabling Facebook Video Ad Pop-Ups Quickly for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-explore-top-10-no-cost-digital-photography-tools-for-2024/"><u>[Updated] Explore Top 10 No-Cost Digital Photography Tools for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-social-media-synergy-connecting-twitch-streams-with-fb-for-2024/"><u>[Updated] Social Media Synergy Connecting Twitch Streams with FB for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-top-10plus-instagram-content-downloaders-reviewed/"><u>2024 Approved Top 10+ Instagram Content Downloaders Reviewed</u></a></li>
+<li><a href="https://driver-install.techidaily.com/expedite-bios-flash-for-dell-latitude/"><u>Expedite BIOS Flash for Dell Latitude</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-lenovo-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Lenovo FRP?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/rapid-resolution-techniques-for-non-functional-mic-on-your-oculus-rift-s-2024-edition/"><u>Rapid Resolution Techniques for Non-Functional Mic on Your Oculus Rift S - 2024 Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-issue-how-to-restore-functionality-of-your-steelseries-arctis-1-microphone/"><u>Resolved Issue: How To Restore Functionality of Your SteelSeries Arctis 1 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-audio-interference-effective-techniques-to-eliminate-speaker-buzz/"><u>Resolving Audio Interference: Effective Techniques to Eliminate Speaker Buzz</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-mute-mysteries-how-to-restore-sound-in-your-valheim-gameplay-on-pc/"><u>Resolving Mute Mysteries: How to Restore Sound in Your Valheim Gameplay on PC</u></a></li>
 </ul></div>
 

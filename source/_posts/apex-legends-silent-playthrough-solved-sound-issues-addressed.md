@@ -1,7 +1,7 @@
 ---
 title: "Apex Legends Silent Playthrough Solved: Sound Issues Addressed"
-date: 2025-02-09T07:56:41.744Z
-updated: 2025-02-10T17:10:22.055Z
+date: 2025-02-24T16:07:31.549Z
+updated: 2025-03-02T02:32:26.396Z
 tags:
   - win11
   - win10
@@ -25,10 +25,6 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -38,10 +34,6 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 3. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Restart Windows Audio Services](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Restart your computer
 
@@ -57,10 +49,6 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 **1)** On your keyboard, press the**Windows logo** key and type**troubleshoot settings** . Then, click**Troubleshoot settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-322.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Click**Playing Audio** , then click**Run the troubleshooter** .
 
@@ -124,17 +112,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-326.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Relaunch your game to test your issue.
 
  This should allow you to hear Apex Legends and everything else. If your issue still exists, don’t fret. There is still one more fix to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Apex Legends
 
@@ -174,18 +154,14 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-channel-trailers-that-convert-viewers-into-customers/"><u>[Updated] 2024 Approved Channel Trailers that Convert Viewers Into Customers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bring-back-sound-to-your-airpods-when-paired-with-a-windows-desktop-or-laptop/"><u>Bring Back Sound to Your AirPods When Paired With a Windows Desktop or Laptop</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-resolving-headphone-buzzing-problems-a-users-handbook/"><u>Diagnosing and Resolving Headphone Buzzing Problems: A User's Handbook</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ce-9-festive-feasts-watch-holiday-epics-at-zero-cost-online-in-2024/"><u>Embrace 9 Festive Feasts Watch Holiday Epics at Zero Cost Online, In 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015714673-experiencing-trouble-with-discord-voice-chat-heres-what-to-do/"><u>Experiencing Trouble With Discord Voice Chat? Here's What to Do</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/exploring-every-corner-of-youtube-a-detailed-comment-guide/"><u>Exploring Every Corner of YouTube A Detailed Comment Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/high-fidelity-play-choosing-the-best-144hz-uwds/"><u>High-Fidelity Play: Choosing the Best 144Hz UWDs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/in-depth-analysis-the-third-gen-apple-tv-4k-with-3-camera-setup-unveiled/"><u>In-Depth Analysis: The Third Gen Apple TV 4K with 3-Camera Setup Unveiled</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016859112-league-of-legends-voice-chat-malfunction-discover-the-fixes-that-worked-for-others/"><u>League of Legends Voice Chat Malfunction? Discover the Fixes That Worked for Others</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/local-security-guardrails-reactivated-safeguarding-your-system-effectively-against-unauthorized-access/"><u>Local Security Guardrails Reactivated - Safeguarding Your System Effectively Against Unauthorized Access</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-iphones-audio-issues-fixing-no-sound-and-clearing-up-distortions/"><u>Solving the iPhone's Audio Issues: Fixing No Sound & Clearing Up Distortions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-why-isnt-my-logitech-g6-grove-33-mic-working/"><u>Step-by-Step Repair: Why Isn't My Logitech G6 Grove 33 Mic Working?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210655573-9781454939108-zodiac-signs-scorpio/"><u>Zodiac Signs: Scorpio | Free Book</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-sci-fi-extraordinaire-journey-to-novel-universes-in-10-films/"><u>[New] In 2024, Sci-Fi Extraordinaire Journey to Novel Universes in 10 Films</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-zero-price-limitless-possibilities-apowersoft-screenshot-tool-review/"><u>[New] In 2024, Zero Price, Limitless Possibilities - Apowersoft Screenshot Tool Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/immersive-beginnings-secrets-to-successful-podcast-intros/"><u>Immersive Beginnings Secrets to Successful Podcast Intros</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-the-art-of-fashioning-slow-motions-has-remained-popular-ever-since-read-this-article-to-learn-how-to-do-slow-mo-in-capcut-and-other-powerf/"><u>New 2024 Approved The Art of Fashioning Slow Motions Has Remained Popular Ever Since. Read This Article to Learn How to Do Slow-Mo in CapCut and Other Powerful Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/scarlett-solo-top-tier-windows-audio-interface-download-ready-now/"><u>Scarlett Solo - Top-Tier Windows Audio Interface Download Ready Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-mystery-troubleshooting-non-functional-sounds-in-fortnite/"><u>Solving the Mystery: Troubleshooting Non-Functional Sounds in Fortnite</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-starting-dolby-advanced-audio-driver-issues-on-windows-11/"><u>Step-by-Step Solutions for Starting Dolby Advanced Audio Driver Issues on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-resolving-lack-of-sound-in-nvidias-high-definition-audio/"><u>Troubleshooting and Resolving Lack of Sound in NVIDIA's High Definition Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-resolving-no-sound-from-hdmi-on-your-pc-running-windows/"><u>Troubleshooting and Resolving No Sound From HDMI on Your PC Running Windows</u></a></li>
 </ul></div>
 

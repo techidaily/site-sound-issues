@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Reviving Your Squad's Silent Mic as of 2024
-date: 2024-08-23T12:12:14.276Z
-updated: 2024-08-24T12:12:14.276Z
+date: 2025-02-23T12:40:47.084Z
+updated: 2025-03-02T09:20:55.046Z
 tags:
   - win11
   - win10
@@ -15,16 +15,10 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
 
 ## LucidSound LS3t Mic Malfunction? Here's Your Step-by-Step Guide to Fixing It
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-124-1024x974.png)
 
  If you run into the **LucidSound LS30 mic not working** problem, don’t panic – many users have reported the same. Luckily, it’s quite easy to fix…
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 4 Fixes For **LucidSound LS30 Mic Not Working** In Windows
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -54,9 +48,6 @@ To make sure the volume is audible:
 
  1) On the lower-right of your computer screen, click**the sound icon** and move **the volume slider** all the way to at least halfway up.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-138.png)
 
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.  
@@ -77,9 +68,6 @@ To do so:
 
  2) Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-140.png)
 
  If **no microphone devices shows up in the device list** , then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device** once it appears and click **Enable** before you do step **2)** .  
@@ -110,16 +98,10 @@ To do so:
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-142.png)
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-144.png)
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.
@@ -144,8 +126,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +133,22 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-celebrating-beauty-innovators-youtubes-elite-list/"><u>[New] 2024 Approved Celebrating Beauty Innovators YouTube's Elite List</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-prime-7-media-gatherers-on-fb/"><u>[New] In 2024, Prime 7 Media Gatherers on FB</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-advanced-steps-for-documenting-online-meetings/"><u>[Updated] 2024 Approved Advanced Steps for Documenting Online Meetings</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-abcs-of-aspect-ratio-a-guide-to-twitter-videos/"><u>[Updated] 2024 Approved The ABCs of Aspect Ratio A Guide to Twitter Videos</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-15-pro-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-the-fix-for-non-functioning-skype-mics-in-windows-10/"><u>Get the Fix for Non-Functioning Skype Mics in Windows 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722973853239-get-your-samsung-845-evo-drive-up-and-running-with-our-latest-driver-software/"><u>Get Your Samsung 845 EVO Drive Up & Running with Our Latest Driver Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-onikuma-headset-mic-up-and-running-again/"><u>How To Get Your Onikuma Headset Mic Up And Running Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-restore-sound-on-your-laptops-built-in-speakers/"><u>How to Troubleshoot and Restore Sound on Your Laptop's Built-In Speakers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premium-4k-tvs-the-ultimate-list/"><u>In 2024, Premium 4K TVs – The Ultimate List</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-network-nuances-the-essentials-of-facebook-group-management-tools/"><u>Navigating Network Nuances: The Essentials of Facebook Group Management Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-your-macs-audio-issues-no-sound-problem-solved/"><u>Resolving Your Mac's Audio Issues: No Sound Problem Solved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016564862-windows-11-compatibility-with-idt-high-definition-sound-card-solved/"><u>Windows 11 Compatibility with IDT High Definition Sound Card - Solved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-sensors-fail-to-identify-touch/"><u>Windows Sensors Fail to Identify Touch</u></a></li>
+</ul></div>
 

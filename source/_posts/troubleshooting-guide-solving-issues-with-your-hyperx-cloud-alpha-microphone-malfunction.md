@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Solving Issues with Your HyperX Cloud Alpha Microphone Malfunction"
-date: 2025-02-04T07:54:51.028Z
-updated: 2025-02-10T22:49:10.850Z
+date: 2025-02-22T22:59:44.102Z
+updated: 2025-03-01T16:14:45.378Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Here are the fixes
 
  You don’t need to try them all. Simply work your way down the list until you find the one that does the trick.
@@ -41,10 +37,6 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 * **Use the microphone on another computer** to confirm it’s not physically damaged.
 * **Check the mute switches** on your microphone and make sure it’s disabled.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Run the audio troubleshooter
 
  Windows offers a set of troubleshooters to help you with the device glitches. So if something goes wrong with your Onikuma headset mic, you can start with this easy tool to detect the potential causes.
@@ -56,10 +48,6 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/run-troubleshooter-2-1.jpg)
 
  Wait for the process to complete and follow the on-screen instructions to repair the detected issues. If your microphone still doesn’t work, proceed to the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Check the privacy settings
 
@@ -98,19 +86,11 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-3-1.jpg)
 5. On the**Levels** tab, check whether the microphone is muted. If yes, click the**speaker icon** to unmute it and**drag the volume slider to the max** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-8-1.jpg)
 
  In some cases, Onikuma headset mic not working only occurs in specific applications. If so, you should**check the application settings** and manually**set the Onikuma headset as your preferred audio device** .
 
  If this method doesn’t help either, move on to the next fix to check your audio driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Update your audio driver
 
@@ -139,10 +119,6 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -170,22 +146,21 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-best-android-videography-6-must-try-music-videos-apps/"><u>[New] 2024 Approved Best Android Videography 6 Must-Try Music Videos Apps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-6-best-linkedin-video-downloaders-to-save-videos-from-linkedin/"><u>[New] 6 Best Linkedin Video Downloaders to Save Videos From LinkedIn</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-valheim-no-sound-on-pc/"><u>[SOLVED] Valheim No Sound on PC</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/1726029834731-iso/"><u>「無料プログラムを使って、ISOファイルが映るテレビスクリーンへの手順解説」</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/accelerate-your-iphones-performance-a-step-by-step-guide-to-clearing-unnecessary-data/"><u>Accelerate Your iPhone's Performance: A Step-by-Step Guide to Clearing Unnecessary Data</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/conversion-libre-de-videos-mpeg-vers-asf-en-ligne-guide-pas-a-pas-avec-movavi/"><u>Conversion Libre De Vidéos MPEG Vers ASF en Ligne : Guide Pas À Pas Avec Movavi</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-non-working-headphones-compatibility-with-windows-nix/"><u>Diagnosing and Fixing Non-Working Headphones Compatibility with Windows Nix</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oppo-reno-10-proplus-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Reno 10 Pro+ 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/in-depth-look-at-newly-launched-3rd-generation-apple-airpods-expert-review-and-key-upgrades-featured/"><u>In-Depth Look at Newly Launched 3Rd Generation Apple AirPods: Expert Review and Key Upgrades Featured</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/pc-audio-troubles-learn-how-to-fix-sound-glitches-while-using-zoom/"><u>PC Audio Troubles? Learn How to Fix Sound Glitches While Using Zoom</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-functionality-a-step-by-step-fix-for-lucidsound-ls30-microphones/"><u>Restoring Functionality: A Step-by-Step Fix for LucidSound LS30 Microphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-creative-pebble-speaker-malfunction-problems-troubleshooting-tips/"><u>Solving Creative Pebble Speaker Malfunction Problems - Troubleshooting Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-restoring-audio-over-hdmi-for-your-windows-7-laptopdesktop/"><u>Step-by-Step Guide: Restoring Audio Over HDMI for Your Windows 7 Laptop/Desktop</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-latent-heat-of-fusion-for-ice-is-334-kjkg/"><u>The Latent Heat of Fusion for Ice Is 334 kJ/Kg</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-oppo-reno-11-pro-5g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Oppo Reno 11 Pro 5G</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-resolve-logitech-g230-headset-microphone-problems-easily/"><u>Troubleshoot & Resolve Logitech G230 Headset Microphone Problems Easily</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/why-skepticism-persists-questioning-gemini-ais-ability-to-handle-duties/"><u>Why Skepticism Persists: Questioning Gemini AI's Ability to Handle Duties</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-hands-free-tips-saving-instagram-stories-as-videos/"><u>[New] 2024 Approved Hands-Free Tips Saving Instagram Stories as Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-cutting-edge-strategies-to-capture-dynamic-audio-in-video-projects/"><u>[New] Cutting-Edge Strategies to Capture Dynamic Audio in Video Projects</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-expert-picks-5-superior-video-call-recording-tools-for-2024/"><u>[Updated] Expert Picks 5 Superior Video Call Recording Tools for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-make-amazing-slow-motion-video-on-android-easily/"><u>2024 Approved How to Make Amazing Slow Motion Video on Android Easily</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/avchd-mts-converter-for-xiaomi-redmi-12-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD MTS Converter for Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/getting-your-updated-windows-applications-running-smoothly-again-tips-from-yl-software-experts/"><u>Getting Your Updated Windows Applications Running Smoothly AGAIN! Tips From YL Software Experts</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-apple-iphone-13-pro-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 13 Pro Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-mic-troubleshooting-for-windows-7-effective-strategies-and-quick-resolutions/"><u>Mastering Mic Troubleshooting for Windows 7: Effective Strategies and Quick Resolutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-art-of-configuring-invisible-audio-hardware-in-windows-11-expert-tips-and-tricks/"><u>Mastering the Art of Configuring Invisible Audio Hardware in Windows 11: Expert Tips & Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-dolby-driver-challenges-a-guide-to-activating-dolby-audio-with-windows-11/"><u>Overcome Dolby Driver Challenges: A Guide to Activating Dolby Audio with Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-low-sound-challenges-on-your-windows-10-device-a-comprehensive-guide/"><u>Overcoming Low Sound Challenges on Your Windows 10 Device - A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pc-gaming-silence-broken-fix-the-soundless-mystery-in-borderlands-3/"><u>PC Gaming Silence Broken: Fix the Soundless Mystery in Borderlands 3</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pc-users-guide-solutions-to-restore-sound-in-zoom-meetings/"><u>PC Users Guide: Solutions to Restore Sound in Zoom Meetings</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quickly-restore-functionality-5-steps-to-fix-a-non-working-razer-mic/"><u>Quickly Restore Functionality: 5 Steps to Fix a Non-Working Razer Mic</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-cmd-command-potential-learn-these-essentials/"><u>Unlock CMD Command Potential: Learn These Essentials</u></a></li>
 </ul></div>
 

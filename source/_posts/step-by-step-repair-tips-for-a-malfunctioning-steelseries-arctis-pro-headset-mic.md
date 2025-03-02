@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Repair Tips for a Malfunctioning SteelSeries Arctis Pro Headset Mic
-date: 2025-02-09T08:09:40.715Z
-updated: 2025-02-10T22:24:24.760Z
+date: 2025-02-25T08:54:27.790Z
+updated: 2025-03-02T05:56:12.291Z
 tags:
   - win11
   - win10
@@ -42,29 +42,13 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
 1. Press the **Windows logo key** + **I** together. Then click **Privacy** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-7-1.jpg)
 2. Click **Microphone** in the left panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.1-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click the **Change** button, then make sure the**Microphone for this device** is turned **on** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.2-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Make sure **Allow apps to access your microphone** is turned **on** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.3.jpg)
 
  Hopefully, this method can fix your microphone issue. But if not, you can try the next method.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Check your microphone device settings
 
@@ -74,23 +58,11 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel1-1.jpg)
 2. In Control Panel, select Large icons from the View by drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Select **Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-10.jpg)
 4. Select the Recording tab, then right-click on any empty place inside the device list and tick **Show Disabled Devices** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dc36f136c6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Right-click the Headset Microphone and click Enable.![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4daac96f5e7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Right-click it again and select Set as Default Device.![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
 7. Right-click **Headset Microphone** and click **Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
@@ -151,18 +123,19 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-is-image-stabilization-a-feature-worth-your-time-in-2024/"><u>[New] Is Image Stabilization a Feature Worth Your Time, In 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-securing-spotlight-uploading-imovie-to-vimeo-successfully/"><u>[New] Securing Spotlight Uploading iMovie to Vimeo Successfully</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-convincing-viewers-discovering-effective-video-styles/"><u>[Updated] Convincing Viewers Discovering Effective Video Styles</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-lightening-your-day-with-humor-comical-facebook-detention-memes/"><u>2024 Approved Lightening Your Day with Humor Comical Facebook Detention Memes</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-youtube-organizing-music-into-a-playlist/"><u>2024 Approved Mastering YouTube Organizing Music Into a Playlist</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-voicemod-problems-with-these-expert-tips/"><u>Fix Your Voicemod Problems with These Expert Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-to-fixing-undetected-headphones-during-playback-in-windows-11-environments/"><u>Guide to Fixing Undetected Headphones During Playback in Windows 11 Environments</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-jack-functionality-in-damaged-laptop-units-expert-fixes-uncovered/"><u>How to Restore Audio Jack Functionality in Damaged Laptop Units – Expert Fixes Uncovered</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-iphone-se-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your iPhone SE? How to Fix</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016658684-mastering-discord-audio-no-more-silent-games/"><u>Mastering Discord Audio - No More Silent Games!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/speaker-crackling-in-windows-107-solved/"><u>Speaker Crackling in Windows 10/7 [SOLVED]</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-adobe-after-effects-fixing-crashes-on-windows-11-and-10/"><u>Troubleshooting Adobe After Effects: Fixing Crashes on Windows 11 and 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-logitech-g230-microphone-a-complete-guide/"><u>Troubleshooting Your Logitech G230 Microphone: A Complete Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-premium-virtual-playstation-simulators-for-modern-computers/"><u>[New] Premium Virtual PlayStation Simulators for Modern Computers</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y77t-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-capturing-the-unseen-9-must-have-camgear-for-aspiring-vloggers/"><u>2024 Approved Capturing the Unseen 9 Must-Have CamGear for Aspiring Vloggers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/budget-recording-tools-the-ultimate-guide-for-windows-for-2024/"><u>Budget Recording Tools The Ultimate Guide for Windows for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-infinix-note-30i-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Infinix Note 30i Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-professional-gopro-filming-made-simple-a-comprehensive-guide/"><u>In 2024, Professional GoPro Filming Made Simple A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-reach-and-recognition-viewership-metrics-for-insta-photos/"><u>In 2024, Reach and Recognition Viewership Metrics for Insta Photos</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/leading-leeds-seo-firms-enhance-your-digital-visibility-with-expert-strategies-powerseo-pro/"><u>Leading Leeds SEO Firms: Enhance Your Digital Visibility with Expert Strategies | PowerSEO Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-setting-up-your-twitter-scheduling-toolkit/"><u>Step-by-Step Tutorial: Setting Up Your Twitter Scheduling Toolkit</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-apex-legends-fixes-for-voice-chat-issues/"><u>Troubleshooting Apex Legends: Fixes for Voice Chat Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-microphone-issues-in-google-meet-on-windows-11-and-10/"><u>Troubleshooting Guide: How to Fix Microphone Issues in Google Meet on Windows 11 & 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-pop-noise-of-logitech-g-pro-x-microphone-in-windows-latest-fixes-and-strategies/"><u>Troubleshooting the Pop Noise of Logitech G Pro X Microphone in Windows: Latest Fixes and Strategies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-restoring-stereo-audio-capabilities/"><u>Troubleshooting Tips: Restoring Stereo Audio Capabilities</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-corsair-hs70-mic-for-improved-sound-quality-and-functionality/"><u>Troubleshooting Your Corsair HS70 Mic for Improved Sound Quality and Functionality</u></a></li>
 </ul></div>
 

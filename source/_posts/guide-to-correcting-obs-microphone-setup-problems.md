@@ -1,7 +1,7 @@
 ---
 title: Guide to Correcting OBS Microphone Setup Problems
-date: 2025-02-06T21:26:53.681Z
-updated: 2025-02-11T06:03:15.432Z
+date: 2025-03-01T06:58:59.112Z
+updated: 2025-03-01T16:22:29.219Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 3. **[Check Windows sound settings](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Troubleshoot the hardware issues
 
  Just do some basic troubleshooting steps before trying anything more complicated:
@@ -58,16 +54,8 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/win11-microphone-privacy.jpg)
 3. Ensure microphpne access for this device is**on** . If it is off, then check the**Change** button below to turn it on. You should also**turn on the toggle** under**Allow apps to access your microphone** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Allow access to the microphone on this device and allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-access-to-the-microphone-on-this-device-and-allow-apps-to-access-your-microphone.jpg)
 4. Scroll down to check if the**Allow desktop apps access to your microphone** part is set to **On** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Allow desktop apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-desktop-apps-to-access-your-microphone.jpg)
 
@@ -81,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 ![control mmsys.cpl sounds](https://images.drivereasy.com/wp-content/uploads/2021/04/control-mmsys.cpl-sounds.jpg)
 2. Navigate to the **Recording** tab, then**right-click** on any empty place inside the device list and**check Show Disabled Devices** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Show disabled Recording Devices ](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dc36f136c6.jpg)
 3. **Right-click** the**Headset Microphone** and click **Enable** .  
 
@@ -96,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 
 ![Headset microphone properties](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
 6. Click the **Levels** tab, then drag the volume slider towards the _maximum value_ .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![drag the volume slider towards the maximum value.](https://images.drivereasy.com/wp-content/uploads/2020/12/img_5b4db71801655.jpg)
 7. Click**OK** to save the changes.
@@ -122,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — if you don’t already have it, you’ll be prompted to upgrade when you click **Update All** .)  
 ![audio-driver-update](https://images.drivereasy.com/wp-content/uploads/2021/03/audio-driver-update.jpg)
 4. Reboot your PC for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -153,21 +129,18 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-pathway-to-proficient-league-of-legends-screen-recordings/"><u>[New] In 2024, The Pathway to Proficient League of Legends Screen Recordings</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-expertise-at-a-click-the-ultimate-tutorial-on-high-quality-video-recordings-for-2024/"><u>[Updated] Expertise at a Click The Ultimate Tutorial on High-Quality Video Recordings for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/best-screen-recording-software-top-10-list-for-2024/"><u>Best Screen Recording Software Top 10 List for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/dealing-with-disturbing-acoustic-issues-how-to-fix-buzz-in-audio-devices/"><u>Dealing with Disturbing Acoustic Issues: How to Fix Buzz in Audio Devices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-world-of-huggingchat-the-no-cost-contender-to-chatgpts-crown/"><u>Exploring the World of HuggingChat – The No-Cost Contender to ChatGPT's Crown</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-connectivity-problems-using-tozo-t6-with-windows-lete-the-device-is-up-to-date-and-make-sure-your-computers-drivers-are-also-current-as-outdated-driv633/"><u>Fixing Connectivity Problems: Using Tozo T6 with Windows Lete the Device Is up to Date, and Make Sure Your Computer's Drivers Are Also Current as Outdated Drivers Can Cause Compatibility Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-pubg-voice-chat-working-again-easy-fix-tips-and-steps/"><u>Get Your PUBG Voice Chat Working Again: Easy Fix Tips & Steps</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-tecno-phantom-v-flip-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Tecno Phantom V Flip?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exquisite-desktop-pcs-the-best-of-the-best/"><u>In 2024, Exquisite Desktop PCs The Best of the Best</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-honor-magic5-ultimate-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Honor Magic5 Ultimate Phones with/without a PC</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-fullscreen-transitions-in-windows-games/"><u>Mastering Fullscreen Transitions in Windows Games</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/navigating-the-peak-content-igtvs-leaders-for-2024/"><u>Navigating the Peak Content IGTV's Leaders for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-fixing-your-webex-microphone/"><u>The Ultimate Guide to Fixing Your WebEx Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-repairing-your-webex-microphone-2024-edition/"><u>The Ultimate Guide to Repairing Your Webex Microphone - 2024 Edition</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016036243-troubleshooting-and-repairing-your-arctis-9x-mic-fixed/"><u>Troubleshooting and Repairing Your Arctis 9X Mic - Fixed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-absence-of-sound-on-zoom-for-windows-users/"><u>Troubleshooting the Absence of Sound on Zoom for Windows Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-art-of-digital-alterations-tips-for-text-in-pictures-for-2024/"><u>[Updated] The Art of Digital Alterations Tips for Text in Pictures for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/apex-legends-voice-chat-not-working-solved/"><u>Apex Legends Voice Chat Not Working [SOLVED]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/conquer-the-challenge-of-echo-during-voice-chats-on-discord-a-detailed-2024-troubleshooting-tutorial-for-pc-users/"><u>Conquer the Challenge of Echo During Voice Chats on Discord - A Detailed 2024 Troubleshooting Tutorial for PC Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-muted-troubleshoot-game-sounds-for-a-perfect-gaming-experience-on-windows-11/"><u>Cyberpunk 2077 Muted? Troubleshoot Game Sounds for a Perfect Gaming Experience on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-correcting-problems-with-the-razer-kraken-microphone/"><u>Diagnosing and Correcting Problems with the Razer Kraken Microphone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/eco-friendly-assistants-unveiled-how-does-the-amazon-echo-dot-stack-up-against-the-apple-homepod-mini/"><u>Eco-Friendly Assistants Unveiled – How Does the Amazon Echo Dot Stack Up Against the Apple HomePod Mini?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-12-pro-max-to-roku-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 12 Pro Max to Roku? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improving-visual-clarity-tips-to-reduce-blurriness-in-outriders-gaming-experience/"><u>Improving Visual Clarity: Tips to Reduce Blurriness in Outriders Gaming Experience</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oppo-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Oppo Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/transform-your-scenes-try-these-7-professional-graders-approaches/"><u>Transform Your Scenes Try These 7 Professional Graders' Approaches</u></a></li>
+<li><a href="https://facebook.techidaily.com/unraveling-user-deceit-for-better-privacy-choices/"><u>Unraveling User Deceit for Better Privacy Choices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016868170-windows-11-audio-hiccups-uncover-the-ultimate-fix-to-continuous-sound-interruptions/"><u>Windows 11 Audio Hiccups? Uncover the Ultimate Fix to Continuous Sound Interruptions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016882973-windows-11-sounds-dropping-out-heres-how-you-can-fix-it/"><u>Windows 11 Sounds Dropping Out? Here's How You Can Fix It</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Absence of Sound in Nvidia High Definition Audio Setup
-date: 2025-02-04T22:53:38.319Z
-updated: 2025-02-10T18:00:14.627Z
+date: 2025-02-24T16:33:44.975Z
+updated: 2025-03-01T20:52:46.852Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 5. [**Disable audio enhancements**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Restart audio services**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Check cable and volumes
 
  If you don’t hear sound from your external audio devices, like speakers and headphones, you can check if their cable is broken. You can plug them to in another computer and see if they work in another computer. If they work in another computer, the problem is probably caused by the cable.
@@ -53,26 +49,14 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 
 ![Default speaker ticked Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Default-speaker-ticked-Windows10.png)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If your Speakers are NOT already set as the default, this is doubtless your problem. To fix, just click them, click**Set Default** , then click **OK** and test whether you have sound.  
 ![Set default speakers Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Set-default-speakers-Windows-10.png)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If your Speakers are set as the default playback device, and you’re still not hearing any sound, you should experiment with different sound formats. To do this, click**Speakers** then **Properties** .  
 ![Change speaker sound format Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Change-speaker-sound-format-Windows-10.png)
 3. Go to the **Advanced** tab, and in the**Default Format** section, select a different sample rate and bit depth, then click**Test** . Repeat this process until you find a format that works, then click**OK** . If you don’t find a format that works, proceed to[Method 2](https://tools.techidaily.com/drivereasy/download/) below.  
 
 ![Test speaker sound format Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Test-speaker-sound-format-Windows-10.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Uninstall your audio driver
 
@@ -90,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
 5. Restart your computer and check to see if the problem is resolved. If it’s not, move on to[Method 3](https://tools.techidaily.com/drivereasy/download/) below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 4: Update your audio driver
 
  If experimenting with different sound formats and uninstalling your audio driver didn’t bring back your sound in Windows 10, it’s likely that you’re using the wrong audio driver.
@@ -109,18 +89,10 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d2f95d64f.png)
 3. Click the **Update** button next to a flagged audio driver to automatically download and install the correct version of this driver (you can do this with the FREE version of Driver Easy).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d31484e2f.jpg)  
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 4. Restart your computer and check to see if you now have sound.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 5: Disable audio enhancements
 
@@ -158,10 +130,6 @@ Follow these steps to restart audio services.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-278.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click on**Windows Audio** service and select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-279.png)
@@ -188,14 +156,21 @@ Follow these steps to restart audio services.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-building-blocks-for-successful-channel-branding-and-growth/"><u>[New] 2024 Approved Building Blocks for Successful Channel Branding and Growth</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-tailoring-tags-to-achieve-six-figures-in-views/"><u>[New] Tailoring #Tags to Achieve Six Figures in Views</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-windows-11-videography-selecting-best-apps/"><u>[New] Windows 11 Videography Selecting Best Apps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/enhance-your-cs-go-experience-with-simple-solutions-to-overcome-mic-failure/"><u>Enhance Your CS: GO Experience with Simple Solutions to Overcome Mic Failure</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-look-at-tomtom-bandit-camera-series-for-2024/"><u>In-Depth Look at TomTom Bandit Camera Series for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-audio-in-hp-laptop-heres-the-complete-fix/"><u>No Audio in HP Laptop? Here's the Complete Fix!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016710397-reviving-your-onikuma-microphone-top-troubleshooting-tips-for-sound-success/"><u>Reviving Your Onikuma Microphone - Top Troubleshooting Tips for Sound Success</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/speed-up-your-setup-with-fast-and-accurate-microphone-testing-techniques/"><u>Speed Up Your Setup with Fast and Accurate Microphone Testing Techniques</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/windows-11-makeover-choosing-the-perfect-wallpaper/"><u>Windows 11 Makeover Choosing the Perfect Wallpaper</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-online-broadcasting-basics-a-streamers-guide-to-capture/"><u>[New] In 2024, Online Broadcasting Basics A Streamer’s Guide to Capture</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-no-sound-in-world-of-warcraft/"><u>[Solved] No Sound in World of Warcraft</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-path-to-higher-rankings-a-podcast-seo-guidebook-for-2024/"><u>[Updated] The Path to Higher Rankings A Podcast SEO Guidebook for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-social-media-mastery-embedding-twitch-streams-on-fb/"><u>2024 Approved Social Media Mastery Embedding Twitch Streams on FB</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/comprehensively-understanding-instagram-video-restrictions/"><u>Comprehensively Understanding Instagram Video Restrictions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/critical-assessment-of-the-pricey-and-problematic-microsoft-surface-duo-experience/"><u>Critical Assessment of the Pricey and Problematic Microsoft Surface Duo Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-make-your-hidden-or-missing-wi-fi-network-visible-again/"><u>How To Make Your Hidden or Missing Wi-Fi Network Visible Again</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-your-iphone-15-plus-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From your iPhone 15 Plus</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-guide-to-restoring-sounds-on-the-astro-a50-wireless-speakers/"><u>Quick Guide to Restoring Sounds on the Astro A50 Wireless Speakers</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/quitter-votre-emploi-sans-perdre-vos-emails-2-astuces-pour-sauver-les-mails-doutlook/"><u>Quitter Votre Emploi Sans Perdre Vos Emails : 2 Astuces Pour Sauver Les Mails D'Outlook</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-the-puzzle-of-audio-hiccups-in-bluetooth-connections-on-microsofts-latest-os/"><u>Resolve the Puzzle of Audio Hiccups in Bluetooth Connections on Microsoft's Latest OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-microphones-volume-issues-a-comprehensive-guide/"><u>Solve Your Microphone's Volume Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-microphones-volume-problem-a-step-by-step-guide/"><u>Solving Your Microphone’s Volume Problem - A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/squad-mic-malfunction-solutions-and-tips-for-gamers-edition/"><u>Squad Mic Malfunction Solutions & Tips for Gamers - Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-strategies-for-dealing-with-playback-tone-issues/"><u>Step-by-Step Strategies for Dealing with 'Playback Tone Issues'</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-7-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 7? 5 Tips You Must Know</u></a></li>
 </ul></div>
 

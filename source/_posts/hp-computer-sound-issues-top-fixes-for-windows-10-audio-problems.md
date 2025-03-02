@@ -1,7 +1,7 @@
 ---
 title: HP Computer Sound Issues? Top Fixes for Windows 10 Audio Problems
-date: 2025-02-09T17:09:03.600Z
-updated: 2025-02-11T02:09:34.151Z
+date: 2025-02-27T00:22:52.906Z
+updated: 2025-03-02T06:27:31.607Z
 tags:
   - win11
   - win10
@@ -50,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 
  There are two ways to update your audio driver: **[manually](https://tools.techidaily.com/drivereasy/download/)**  and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 1: Download and install the audio driver manually
 
  You should go to the manufacturer’s website of your sound card, find the latest version of the driver and install it in your computer. Ensure to download the latest correct driver that is compatible with your computer operating system. This requires time and computer skills.
@@ -73,19 +69,11 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 ![update audio driver with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/3-2-1.jpg)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your audio driver, launch It Takes Two to see if there is sound in the game.
 
  If the latest audio driver doesn’t give you luck, just try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Run the Windows audio troubleshooter
 
@@ -98,16 +86,8 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 ![Run Windows audio troubleshooter 1](https://images.drivereasy.com/wp-content/uploads/2021/04/Run-Windows-audio-troubleshooter-1.jpg)
 3. Wait for it to detect problems. This usually takes only a few seconds.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Run Windows audio troubleshooter 2](https://images.drivereasy.com/wp-content/uploads/2021/04/Run-Windows-audio-troubleshooter-2.jpg)
 4. Select the audio device you’re using, then click **Next** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Run Windows audio troubleshooter 3](https://images.drivereasy.com/wp-content/uploads/2021/04/Run-Windows-audio-troubleshooter-3.jpg)
 5. If the troubleshooter suggests that you turn off the audio enhancements for better sound quality. Click **Yes, Open Audio Enhancements** if you wish to do so. If you click no, it will skip to the scan results.  
@@ -116,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 6. Follow the on-screen instructions to troubleshoot the audio playback issue.
 
  Launch It Takes Two to see if this fix works. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Modify Windows sound settings
 
@@ -138,10 +114,6 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 ![set default audio device](https://images.drivereasy.com/wp-content/uploads/2021/04/set-default-audio-device.jpg)
 5. Click **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Launch It Takes Two.
 7. On your desktop, **right-click** **the speaker icon** on the lower-right corner, and then select **Open Volume Mixer** .  
 ![Open volume mixer](https://images.drivereasy.com/wp-content/uploads/2021/04/Open-volume-mixer.jpg)
@@ -159,10 +131,6 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files.  
 ![Steam It Takes Two game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-It-Takes-Two-game-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![It Takes Two Verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/It-Takes-Two-Verify-integrity-of-game-files.jpg)
 
@@ -191,18 +159,24 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-how-to-save-and-archive-google-voice-chats-for-2024/"><u>[New] How to Save and Archive Google Voice Chats for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-transforming-your-videos-with-captivating-youtube-thumbnails-using-a-mac/"><u>[Updated] In 2024, Transforming Your Videos with Captivating Youtube Thumbnails, Using a Mac</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-the-modern-professionals-must-have-collect-these-8-innovations-now-for-2024/"><u>[Updated] The Modern Professional's Must-Have Collect These 8 Innovations Now for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-troubleshooting-steps-for-computer-speaker-problems/"><u>Comprehensive Troubleshooting Steps for Computer Speaker Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/headphone-noise-solutions-identifying-and-treating-unwanted-buzzing-sounds-effectively/"><u>Headphone Noise Solutions: Identifying and Treating Unwanted Buzzing Sounds Effectively</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-steelseries-arctis-1-mic-functioning-again/"><u>How To Get Your SteelSeries Arctis #1 Mic Functioning Again</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-motorola-edge-40-neo-phone-by-drfone-android/"><u>How to Unlock a Network Locked Motorola Edge 40 Neo Phone?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/preserve-illustrations-saving-pngs-while-converting-docx-files/"><u>Preserve Illustrations: Saving PNGs While Converting DocX Files</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-logitech-g733-mic-failures-for-smooth-audio-experience/"><u>Resolving Logitech G733 Mic Failures for Smooth Audio Experience</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/revolutionize-your-posts-best-igtv-edits-unveiled/"><u>Revolutionize Your Posts Best IGTV Edits Unveiled</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solutions-for-when-your-apple-watch-touchscreen-fails-to-respond/"><u>Solutions for When Your Apple Watch Touchscreen Fails to Respond</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-silent-issue-ultimate-guide-to-restoring-audio-in-your-facebook-videos-pc-2024/"><u>Solving the Silent Issue: Ultimate Guide to Restoring Audio in Your Facebook Videos (PC) - 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016985435-windows-11-update-causes-audio-issues-heres-an-easy-solution/"><u>Windows 11 Update Causes Audio Issues? Here's an Easy Solution!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-enhancing-gaming-experience-tools-beyond-microsofts-recorder/"><u>[New] Enhancing Gaming Experience Tools Beyond Microsoft's Recorder</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-leading-websites-for-free-game-of-thrones-ringtones-for-2024/"><u>[Updated] Leading Websites for Free Game of Thrones Ringtones for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-guide-to-youtube-short-video-insights/"><u>[Updated] The Ultimate Guide to YouTube Short Video Insights</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-top-tier-affordable-photo-enhancement-software-online/"><u>2024 Approved Top-Tier Affordable Photo Enhancement Software Online</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/achieving-seamless-interaction-on-ios-with-chatgpt-and-siri-integration-tips/"><u>Achieving Seamless Interaction on iOS with ChatGPT & Siri Integration Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-issue-resolving-persona-5-strikers-persistent-black-screen-dilemma/"><u>Fixing the Issue: Resolving 'Persona 5 Strikers' Persistent Black Screen Dilemma</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24plus-phone-without-password-by-drfone-android/"><u>How To Unlock Samsung Galaxy S24+ Phone Without Password?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-infinix-note-30-vip-racing-edition-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Infinix Note 30 VIP Racing Edition – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-ultimate-guide-to-vertical-video-editing-on-ios-and-android/"><u>New 2024 Approved The Ultimate Guide to Vertical Video Editing on iOS and Android</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-manowar-mic-troubles-expert-tips-on-getting-it-working-again/"><u>Razer ManO'War Mic Troubles? Expert Tips on Getting It Working Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-microphone-issues-resolved-with-simple-solutions/"><u>Realtek Microphone Issues Resolved with Simple Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/repairing-mic-setbacks-in-zoom-tips-and-tricks-for-windows-1110-participants/"><u>Repairing Mic Setbacks in Zoom - Tips and Tricks for Windows 11/10 Participants</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resident-evil-village-sound-fix-tips-and-tricks-for-a-crisp-gaming-experience/"><u>Resident Evil Village Sound Fix: Tips and Tricks for a Crisp Gaming Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-connectivity-issues-with-your-hyperx-cloud-alpha-mic/"><u>Resolving Connectivity Issues with Your HyperX Cloud Alpha Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-crackling-audio-problems-with-your-computers-speakers-guide-for-windows-10-and-7/"><u>Resolving Crackling Audio Problems with Your Computer's Speakers (Guide for Windows 10 & 7)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-idt-hd-audio-codec-driver-issues-on-windows-10/"><u>Resolving IDT HD Audio Codec Driver Issues on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resounding-victory-solve-no-sound-problems-in-world-of-warcraft/"><u>Resounding Victory: Solve No-Sound Problems in World of Warcraft</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revamp-your-gameplay-audio-top-strategies-for-resolving-warzone-sound-problems-on-pc/"><u>Revamp Your Gameplay Audio: Top Strategies for Resolving Warzone Sound Problems on PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/whats-the-newest-macbook/"><u>What’s the Newest MacBook?</u></a></li>
 </ul></div>
 

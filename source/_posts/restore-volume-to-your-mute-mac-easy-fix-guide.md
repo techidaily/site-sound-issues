@@ -1,7 +1,7 @@
 ---
 title: Restore Volume to Your Mute Mac – Easy Fix Guide
-date: 2025-02-07T16:54:06.924Z
-updated: 2025-02-10T22:26:22.272Z
+date: 2025-02-28T21:39:49.268Z
+updated: 2025-03-02T13:32:59.497Z
 tags:
   - win11
   - win10
@@ -59,17 +59,9 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Advanced** tab, un-check **the box** before **Allow applications to take exclusive control of this device** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Play some music and check if the sound coming through is noise-free now. If not, continue with **5)** to **change the audio format** .
 
@@ -96,16 +88,8 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/IntelR-Display-Audio.jpg)
 4. Restart your computer, play some audio through your headphone to see if this nasty crackling noise has been resolved. If yes, then great! If it’s still happening, move on to **Fix 4**  , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -124,10 +108,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Depending on the build of your Windows, you might also see **On battery** and **Plugged in**  in **Setting (%)** . Change both values to **100** and click **OK** .
 
@@ -156,22 +136,22 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-optimal-display-choices-the-top-5-for-ps5-games-for-2024/"><u>[New] Optimal Display Choices The Top 5 For PS5 Games for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-ultimate-screenshot-tools-for-youtube-live-sharing/"><u>[New] Ultimate Screenshot Tools for YouTube Live Sharing</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-clockwise-conversions-transform-your-instagram-posts-through-rotation/"><u>2024 Approved Clockwise Conversions Transform Your Instagram Posts Through Rotation</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/comment-pouvez-vous-reimporter-des-documents-donedrive-vers-votre-pc/"><u>Comment Pouvez-Vous Réimporter Des Documents D’Onedrive Vers Votre PC?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/corsair-hs60-microphone-issue-resolution-a-step-by-step-guide/"><u>Corsair HS60 Microphone Issue Resolution - A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/enhance-your-social-presence-with-easy-fb-video-upload-pc-and-android-for-2024/"><u>Enhance Your Social Presence with Easy FB Video Upload, PC & Android for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/five-effective-methods-to-troubleshoot-windows-11-sound-malfunctions/"><u>Five Effective Methods to Troubleshoot Windows 11 Sound Malfunctions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-issue-solutions-for-apex-legends-lack-of-audio/"><u>Fixing the Silent Issue: Solutions for Apex Legends Lack of Audio</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-free-meme-mastery-top-resources-for-creative-folks/"><u>In 2024, Free Meme Mastery Top Resources for Creative Folks</u></a></li>
-<li><a href="https://fox-http.techidaily.com/microsofts-hololens-demo-the-next-leap-in-tech-experience/"><u>Microsoft’s HoloLens Demo The Next Leap in Tech Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-more-muted-computer-effortless-ways-to-troubleshoot-and-repair-audio-problems/"><u>No More Muted Computer: Effortless Ways to Troubleshoot & Repair Audio Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-audio-functionality-to-a-muted-realtek-digital-output/"><u>Restoring Audio Functionality to a Muted Realtek Digital Output</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/shake-up-your-streams-xplit-alternatives-explored-for-2024/"><u>Shake Up Your Streams Xplit-Alternatives Explored for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-hdmi-connection-issues-restore-sound-from-computers-to-monitors-and-televisions/"><u>Solve HDMI Connection Issues - Restore Sound From Computers to Monitors and Televisions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-mystery-of-your-broken-earphone-input-a-diy-approach/"><u>Solving the Mystery of Your Broken Earphone Input – A DIY Approach</u></a></li>
-<li><a href="https://win11.techidaily.com/the-10-best-things-you-can-do-with-windows-powertoys/"><u>The 10 Best Things You Can Do With Windows PowerToys</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015382090-troubleshooting-windows-107-audio-distortions-the-ultimate-solution/"><u>Troubleshooting Windows 10/7 Audio Distortions – The Ultimate Solution!</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-put-a-halt-on-surprise-youtube-videos/"><u>[New] Put a Halt on Surprise YouTube Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-cyberpunk-2077-no-sound-on-windows-11/"><u>[SOLVED] Cyberpunk 2077 No Sound on Windows 11</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-expert-iphone-techniques-downloading-tiktok-videos-watermark-free/"><u>[Updated] In 2024, Expert iPhone Techniques Downloading TikTok Videos, Watermark-Free</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-srt-production-via-xml-ssa-and-ttml-conversions/"><u>[Updated] SRT Production via XML, SSA & TTML Conversions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-to-fixing-ffxiv-failure-in-updating-game-versions-correctly/"><u>Guide to Fixing FFXIV Failure in Updating Game Versions Correctly</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/innovative-recording-solutions-top-8-sound-techniques/"><u>Innovative Recording Solutions Top 8 Sound Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-connectivity-problems-with-voice-chat-in-call-of-duty-black-ops-cold-war/"><u>Resolving Connectivity Problems with Voice Chat in Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-requirements-not-met-error-on-windows-oses-10and11/"><u>Resolving Requirements Not Met Error on Windows OSes 10&11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-harmony-to-valheim-how-to-restore-sound-on-your-computer-game/"><u>Restoring Harmony to Valheim: How to Restore Sound on Your Computer Game</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-microphone-glitches-in-dota-2-pc-version-with-these-simple-tips/"><u>Solve Microphone Glitches in Dota 2 PC Version with These Simple Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-windows-skype/"><u>Solving Windows 지원 되는 Skype 마이크로폰 문제: 솔루션 스토리</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-skype-audio-issue-repairing-the-inoperative-microphone-on-windows-10/"><u>Solving Your Skype Audio Issue: Repairing the Inoperative Microphone on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-to-fix-intermittent-noise-problems-with-arctis-7-headset-on-windows/"><u>Step-by-Step Solutions to Fix Intermittent Noise Problems with Arctis 7 Headset on Windows</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-insiders-blueprint-for-finding-hidden-youtube-files-for-2024/"><u>The Insider's Blueprint for Finding Hidden YouTube Files for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-solutions-for-restoring-speaker-functionality-in-toshibe-laptops/"><u>Top Solutions for Restoring Speaker Functionality in Toshibe Laptops</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-bypassing-your-ipads-security-code/"><u>Ultimate Guide: Bypassing Your iPad's Security Code</u></a></li>
 </ul></div>
 

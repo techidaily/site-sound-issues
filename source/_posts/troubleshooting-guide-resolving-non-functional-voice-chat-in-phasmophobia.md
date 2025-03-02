@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Non-Functional Voice Chat in Phasmophobia"
-date: 2024-12-21T16:42:18.331Z
-updated: 2024-12-25T17:09:12.894Z
+date: 2025-02-27T22:25:49.610Z
+updated: 2025-03-01T21:59:48.634Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1 – Check your microphone settings
 
  To troubleshot your Logitech G533 microphone not working issue, you should first make sure it’s correctly configured on your PC.
@@ -41,18 +37,10 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-1-3.jpg)
 2. Select**Small icons** from the drop-down menu next to**View by** . Then, click**Sound** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-0.jpg)
 3. Click the**Recording** tab. Then, right-click on any empty area and tick**Show Disabled Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-3-1.jpg)
 4. If your Logitech G533 microphone is disabled, right-click it and click**Enable** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-4-1.jpg)
 5. Make sure the microphone is set as the default device. If not, click it and click**Set Default** .  
@@ -62,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-7.jpg)
 7. Select the**Levels** tab. If the microphone is muted, click the**speaker icon** to unmute it.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-3-2.jpg)
 8. Drag the slider under Microphone to the left to maximize the volume. Then, click**OK** .  
@@ -80,19 +64,11 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
  If you’re using the wrong audio driver or it’s out of date, the Logitech G533 headset microphone won’t function properly. So you should update your audio driver to see if it fixes the problem. Here are two options you can get the latest and right audio driver in a safe way: **[manually](https://tools.techidaily.com/drivereasy/download/)**  or **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 1 – Manually download and install the driver
 
  Logitech keeps updating drivers for its devices. All you need is go to the **[Logitech’s support website](https://support.logi.com/hc/en-us/articles/360024844153--Downloads-G533-Wireless-Gaming-Headset)**  , find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
 
  Once you’ve downloaded the correct driver for your system, double-click the downloaded file and follow the on-screen instructions to install it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2 – Automatically update the driver (recommended)
 
@@ -126,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-4-1.jpg)
 4. Follow the on-screen instructions to completely uninstall the program.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Go to **[Logitech’s support website](https://support.logi.com/hc/en-us/articles/360024844153--Downloads-G533-Wireless-Gaming-Headset)**  . Then find the latest version of Logitech Gaming Software that is suitable for your operating system and click**Download Now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-5-1.jpg)
 6. Once you finish downloading, double-click the downloaded file and follow the wizard to install the software.
@@ -148,10 +120,6 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 2. Click**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-7.jpg)
 3. Click**Microphone** on the left pane. Then, click the**Change** button, and make sure Microphone access for this device is**On** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-2-6.jpg)
 4. Make sure**Allow apps to access your microphone** is turned**on** .  
@@ -182,17 +150,21 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-superior-group-multimedia-platforms/"><u>[New] In 2024, Superior Group Multimedia Platforms</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-luxury-levels-screen-brightness-on-android/"><u>[Updated] Luxury Levels Screen Brightness on Android</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-tecno-phantom-v-flip-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/breaking-sound-barriers-a-revolutionary-speaker-experience-that-outshines-bose-and-sonos-reviewed/"><u>Breaking Sound Barriers: A Revolutionary Speaker Experience that Outshines Bose & Sonos Reviewed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-microsoft-teams-microphone-issues-in-windows-11-and-windows-10/"><u>Fixing Microsoft Teams Microphone Issues in Windows 11 and Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-steelseries-arctis-1-headset-troubleshooting-the-non-functional-microphone/"><u>Fixing SteelSeries Arctis 1 Headset: Troubleshooting the Non-Functional Microphone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-makeup-mastery-manual-starting-an-engaging-aesthetic-vlog/"><u>In 2024, Makeup Mastery Manual Starting an Engaging Aesthetic Vlog</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Samsung Galaxy S24+? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-the-battlefield-fixing-no-sound-issues-on-pc-during-call-of-duty-warzone-gameplay-year-2abriel-here-are-five-new-seo-titles-that-convey-similar-me663/"><u>Mastering the Battlefield: Fixing No-Sound Issues on PC During Call of Duty Warzone Gameplay (Year 2Abriel: Here Are Five New SEO Titles that Convey Similar Meanings to [2024 Tips] How to Fix Warzone No Sound on PC:</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/oculus-rift-s-mic-not-working-try-these-5-rapid-fixes/"><u>Oculus Rift S Mic Not Working? Try These 5 Rapid Fixes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-battle-of-tech-giants-key-comparisons-between-chatgpt-and-bings-ai-companion/"><u>The Battle of Tech Giants: Key Comparisons Between ChatGPT and Bing’s AI Companion</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-ms-teams-microphone-problems-on-pcs-with-windows-11-or-10/"><u>Troubleshooting Your MS Teams Microphone Problems on PCs with Windows 11 or 10</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-amplify-your-channel-effortless-tactics-for-more-views/"><u>[New] In 2024, Amplify Your Channel Effortless Tactics for More Views</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/imple-strategies-for-stellar-sports-highlights/"><u>[New] Simple Strategies for Stellar Sports Highlights</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-realme-gt-5-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Realme GT 5 Pro Safely | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-oneplus-ace-3-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from OnePlus Ace 3 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-core-ethos-universal-youtube-guidelines/"><u>In 2024, Core Ethos Universal YouTube Guidelines</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-picture-perfection-on-the-move-easy-lut-adjustment/"><u>In 2024, Picture Perfection on the Move Easy LUT Adjustment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-your-broken-beyond-the-wire-microphone/"><u>Step-by-Step Fix for Your Broken Beyond The Wire Microphone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/story-1-the-misguided-belief-in-randomized-controlled-trials/"><u>Story 1: The Misguided Belief in Randomized Controlled Trials</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-formula-for-calculating-the-amount-of-heat-q-involved-in-changing-the-temperature-is-q-mcdt-where-m-is-mass-c-is-specific-heat-and-dt-is-the-change-in-t655/"><u>The Formula for Calculating the Amount of Heat (Q) Involved in Changing the Temperature Is Q = mcΔT, Where M Is Mass, C Is Specific Heat, and ΔT Is the Change in Temperature</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixes-how-to-restore-voice-communication-in-call-of-duty-modern-warfare/"><u>Troubleshooting Fixes: How to Restore Voice Communication in Call of Duty Modern Warfare</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-fixing-logitech-g230-microphone-issues/"><u>Troubleshooting Tips: Fixing Logitech G230 Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-non-functional-laptop-speakers/"><u>Troubleshooting: Fixing Non-Functional Laptop Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-how-to-fix-a-non-functional-corsair-hs60-microphone/"><u>Troubleshooting: How to Fix a Non-Functional Corsair HS60 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-solution-reviving-speakers-on-hp-computers/"><u>Ultimate Solution: Reviving Speakers on HP Computers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-does-my-iphoneipad-overheat-understanding-causes-and-solutions/"><u>Why Does My iPhone/iPad Overheat? Understanding Causes & Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-tecno-camon-30-pro-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Tecno Camon 30 Pro 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

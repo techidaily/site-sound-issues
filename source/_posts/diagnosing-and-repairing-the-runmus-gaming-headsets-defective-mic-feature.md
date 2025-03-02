@@ -1,7 +1,7 @@
 ---
 title: Diagnosing & Repairing the RUNMUS Gaming Headset's Defective Mic Feature
-date: 2025-02-04T01:50:49.042Z
-updated: 2025-02-11T07:17:36.317Z
+date: 2025-02-28T10:17:49.977Z
+updated: 2025-03-01T18:03:54.248Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -53,10 +49,6 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/setting-Privacy.jpg)
 2. Select**Microphone** on the left panel, then click the**Change** button to see if the toggle is**On** in the pop-up menu. If it isn’t, change the toggle to On.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-1.jpg)
 3. Check to see if the toggle in the**Allow apps to access your microphone** section is turned**On** . If it isn’t, change the toggle to On.  
 
@@ -77,16 +69,8 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-enable.jpg)
 3. Right-click the headset microphone again and select **Properties.**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-properties.jpg)
 4. Under the**Levels** tab, move the slider to the highest value and then click**OK** to save your settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this fix doesn’t give you the luck, try the next below to update your audio drives.
 
@@ -107,17 +91,9 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DE-5.7.2-SCAN.jpg)
 3. Click the**Update** button next to the flagged audio driver to automatically download and install the correct version of that driver (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DE-audio-card-driver.jpg)
 4. After updating your audio driver, restart your PC for the trick to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at <support@drivereasy.com> .
 
@@ -130,10 +106,6 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 1. Press**Windows + X** keys to open the quick access menu and select**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/quick-access-menu-device-manger.jpg)
 2. Click on the**Audio inputs and outputs** to expand the category, right-click your Corsair device and then select**Uninstall device** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DM-Audio-unindtall.jpg)
 3. Click**Uninstall** in the confirmation box that pops up.
@@ -207,22 +179,17 @@ Top Pick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-cutting-edge-camera-and-recording-apps-for-smartphones-most-reliable-sources/"><u>[Updated] In 2024, Cutting-Edge Camera & Recording Apps for Smartphones' Most Reliable Sources</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-digital-discussion-documentary/"><u>[Updated] In 2024, Digital Discussion Documentary</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-syncing-b-roll-sequences-with-main-scenes-effortlessly/"><u>[Updated] In 2024, Syncing B Roll Sequences with Main Scenes Effortlessly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/a-comprehensive-guide-to-recovering-your-conexant-smartaudio-hds-volume-on-windows-11/"><u>A Comprehensive Guide to Recovering Your Conexant SmartAudio HD's Volume on Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/deciphering-electric-vehicle-charging-stages-a-look-at-level-1-2-and-3-explained/"><u>Deciphering Electric Vehicle Charging Stages: A Look at Level 1, 2, and 3 Explained</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-the-steelseries-arctis-9-mic-not-working-a-complete-solution/"><u>Diagnosing and Fixing the SteelSeries Arctis 9 Mic Not Working - A Complete Solution</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016295740-front-speaker-connection-issues-heres-how-to-restore-sound-output/"><u>Front Speaker Connection Issues? Here's How to Restore Sound Output!</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-approaches-to-flawlessly-insert-chapters-into-your-youtube-content-for-2024/"><u>Innovative Approaches to Flawlessly Insert Chapters Into Your YouTube Content for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/more-than-just-raw-power-a-comprehensive-look-at-the-playstation-5/"><u>More Than Just Raw Power: A Comprehensive Look at the PlayStation 5</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/navigating-through-common-issues-making-your-webex-mic-work-again/"><u>Navigating Through Common Issues: Making Your Webex Mic Work Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resident-evil-village-ultimate-guide-to-fixing-game-audio-problems/"><u>Resident Evil: Village - Ultimate Guide to Fixing Game Audio Problems</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/superfast-windows-images-scaner-for-2024/"><u>Superfast Windows Images Scaner for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-when-dolby-advanced-sound-drivers-wont-start-in-windows-10/"><u>Troubleshooting Steps When Dolby Advanced Sound Drivers Won't Start in Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-voice-chat-problems-in-co-op-game-back-4-blood/"><u>Troubleshooting Voice Chat Problems in Co-Op Game 'Back 4 Blood'</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/visionary-blu-ray-systems-for-unparalleled-3d-immersion/"><u>Visionary Blu-Ray Systems for Unparalleled 3D Immersion</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-11-audio-problems-heres-how-to-get-your-sounds-back/"><u>Windows 11 Audio Problems? Here's How to Get Your Sounds Back!</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-how-to-make-money-on-tiktok-in-8-ways-cannot-miss/"><u>[New] In 2024, How to Make Money on TikTok in 8 Ways [Cannot Miss]</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-6-proven-strategies-to-add-facebook-live-features/"><u>[Updated] 6 Proven Strategies to Add Facebook Live Features</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhancing-sound-output-for-a-better-experience-with-windows-11/"><u>Enhancing Sound Output for a Better Experience with Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/enjoy-seamless-playback-with-the-updated-64-bit-handbrake-version-and-compatible-vlc-error-free/"><u>Enjoy Seamless Playback with the Updated 64-Bit HandBrake Version & Compatible VLC, Error-Free!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-resolving-silence-with-a-faulty-corsair-hs6-60-mic-step-by-step-solutions/"><u>Expert Advice: Resolving Silence with a Faulty Corsair HS6 60 Mic - Step-by-Step Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-guide-to-troubleshooting-and-unlocking-the-realtek-hd-audio-manager/"><u>Expert Guide to Troubleshooting and Unlocking the Realtek HD Audio Manager</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-apex-legends-solving-common-voice-chat-issues/"><u>Fixing Apex Legends: Solving Common Voice Chat Issues</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-infinix-hot-30i-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Infinix Hot 30i Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-overlapping-hdmi-usage-in-different-devices-and-applications/"><u>How to Fix Overlapping HDMI Usage in Different Devices and Applications</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-motorola-moto-g84-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Motorola Moto G84 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-fix-for-ftd2xxdll-errors-missing-file-solutions-uncovered/"><u>The Complete Fix for ftd2xx.dll Errors – Missing File Solutions Uncovered</u></a></li>
 </ul></div>
 

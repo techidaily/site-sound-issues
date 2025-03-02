@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Mic Problems with Zoom for Windows Users of Version 11 & 10
-date: 2024-08-18T08:05:29.610Z
-updated: 2024-08-19T08:05:29.610Z
+date: 2025-03-01T00:32:32.864Z
+updated: 2025-03-01T21:25:22.787Z
 tags:
   - win11
   - win10
@@ -31,18 +31,11 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **Fix 1: Disable Exclusive Mode and change the sound format**
 
  Having**Exclusive Mode** on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the**crackles in speakers** problem. To disable**Exclusive Mode** :
 
 1. On your keyboard, press   **the Windows logo key**  and type**audio** , then click**Manage audio devices** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
@@ -50,17 +43,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your audio driver
 
  This speaker crackling problem may occur if you are using the wrong audio  driver or it’s out of date. So you should update your audio  driver to see if it fixes your problem. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -71,9 +58,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
@@ -82,17 +66,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ### Fix 3: Adjust **the minimum processor state**
 
  Adjusting**the minimum processor state** , as reported by many users, is another effective way to fix the annoying sound problem in our speaker. To do so:
 
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
@@ -116,8 +94,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +101,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-prime-methods-for-turning-youtube-videos-into-mpegs/"><u>[New] 2024 Approved Prime Methods for Turning YouTube Videos Into MPEGs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-tricking-out-genuine-from-fraudulent-instagram-pals/"><u>[New] Tricking Out Genuine From Fraudulent Instagram Pals</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-proven-techniques-to-follow-your-favorite-cricketers-live/"><u>[Updated] Proven Techniques to Follow Your Favorite Cricketers Live</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-mobile-video-assembly-software-for-smartphones/"><u>2024 Approved Top Mobile Video Assembly Software for Smartphones</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-zte-nubia-flip-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/anticipating-gpt-5-what-we-know-about-its-upcoming-debut/"><u>Anticipating GPT-5: What We Know About Its Upcoming Debut</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015556190-effortless-ways-to-restore-voice-chat-in-fortnite-quick-solutions-inside/"><u>Effortless Ways to Restore Voice Chat in Fortnite – Quick Solutions Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-sennheiser-game-one-microphone-back-online-a-how-to-guide/"><u>Getting Your Sennheiser Game One Microphone Back Online - A How-To Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-clear-communication-on-discord-tips-for-rectifying-audio-glitches/"><u>Mastering Clear Communication on Discord - Tips for Rectifying Audio Glitches</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/microphone-mastery-a-quick-and-easy-way-to-ensure-crystal-clear-audio/"><u>Microphone Mastery: A Quick and Easy Way to Ensure Crystal Clear Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-restoring-audio-in-your-windows-media-player/"><u>Solved! Restoring Audio in Your Windows Media Player</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-g435-headset-audio-issues-troubleshooting-steps-and-fixes/"><u>Solving G435 Headset Audio Issues – Troubleshooting Steps and Fixes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transformar-videos-do-formato-ogg-em-mpeg-livre-e-online-pelo-site-da-movavi/"><u>Transformar Vídeos Do Formato OGG Em MPEG Livre E Online Pelo Site Da Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/troubleshooting-windows-11-dvd-driverom-error-code-19-effective-solutions-unveiled/"><u>Troubleshooting Windows 11 DVD Drive/ROM Error Code 19: Effective Solutions Unveiled</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-and-airpods-microphone-glitches-comprehensive-solutions-to-get-it-working-again/"><u>Windows 10 and AirPods Microphone Glitches: Comprehensive Solutions to Get It Working Again</u></a></li>
+</ul></div>
 

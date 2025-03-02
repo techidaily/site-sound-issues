@@ -1,7 +1,7 @@
 ---
 title: "Laptop Audio Restoration: Effective Fixes for Non-Functioning Speakers"
-date: 2024-12-03T16:46:48.886Z
-updated: 2024-12-10T19:56:27.977Z
+date: 2025-02-23T17:26:06.064Z
+updated: 2025-03-01T17:52:28.317Z
 tags:
   - win11
   - win10
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
  3) After those testing, see if the sound comes from your speakers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 2: Update your speakers related drivers
 
  An old, corrupted or missing driver related your speakers can also cause this error, like**a sound card driver** ,**a Bluetooth driver** (if yo’re using a Bluetooth speakers). You can solve it through updating the driver.
@@ -62,19 +58,11 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to any falgged driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Play a music or video on your laptop to see if the sound comes from the speakers.
 
@@ -83,10 +71,6 @@ Or click **Update All**  to automatically download and install the correct versi
  If unluckily, neither method 1 nor method 2 helps you fix the error, try to reset your sound controller.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdf8f58307f.png)**  and **R**  (at the same time) to invoke the Run command.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Type **devmgmt.msc**  and press **Enter** .
 
@@ -101,10 +85,6 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c3e821f53.png)
 
  Then you may find its icon ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c3c1585ef.png) change into ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c4aebac0d.png) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Wait for a while. Right-click on your sound card again and this time click**Enable device** .
 
@@ -129,19 +109,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-viral-photo-trends-capturing-memes-true-essence/"><u>[Updated] Viral Photo Trends Capturing Memes' True Essence</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/best-8-ai-video-denoise-software/"><u>Best 8 AI Video Denoise Software</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhanced-performance-with-latest-driver-for-amd-hd-6950/"><u>Enhanced Performance with Latest Driver for AMD HD 6950</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-guide-resolving-issues-with-your-inactive-turtle-beach-recon-70-mic/"><u>Expert Guide: Resolving Issues with Your Inactive Turtle Beach Recon 70 Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fast-track-repairs-reviving-the-audio-on-your-oculus-rift-s-microphone-in-minutes/"><u>Fast Track Repairs: Reviving the Audio on Your Oculus Rift S Microphone in Minutes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-headphones-crackling-sound-instantly-a-step-by-step-guide/"><u>Fix Your Headphones' Crackling Sound Instantly - A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-rainbow-six-siege-voice-chat-glitches-following-the-2024-game-enhancement/"><u>Fix Your Rainbow Six Siege Voice Chat Glitches Following the 2024 Game Enhancement</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-unresponsive-microphone-issue-in-zoom-on-windows-11-and-10/"><u>Fixing the Unresponsive Microphone Issue in Zoom on Windows 11 and 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fortnite-voice-communication-issues-fix-them-instantly-with-these-simple-steps/"><u>Fortnite Voice Communication Issues? Fix Them Instantly with These Simple Steps!</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-apple-iphone-6-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From Apple iPhone 6 Plus? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-crafting-cinematic-experiences-on-your-desktop-with-windows-hdr/"><u>In 2024, Crafting Cinematic Experiences on Your Desktop with Windows HDR</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-depth-examination-of-xcreative-vision-studio-a-complete-guide/"><u>In-Depth Examination of XCreative Vision Studio - A Complete Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-the-newest-geforce-rtx-3070-ti-drivers-optimized-for-win-11-8-and-7-operating-systems/"><u>Install the Newest GeForce RTX 3070 Ti Drivers - Optimized for Win 11, 8 & 7 Operating Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-fixes-for-pc-users-overcoming-cs2-game-crashes/"><u>Ultimate Fixes for PC Users: Overcoming CS2 Game Crashes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-expertise-in-visual-communication-a-guide-to-gif-creation/"><u>[New] 2024 Approved Expertise in Visual Communication A Guide to GIF Creation</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-seamless-addition-youtube-videos-into-google-slides/"><u>[New] In 2024, Seamless Addition YouTube Videos Into Google Slides</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-comprehensive-strategies-for-windows-media-players-audio-operations-for-2024/"><u>[Updated] Comprehensive Strategies for Windows Media Player's Audio Operations for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-htc-u23-by-fonelab-android-recover-video/"><u>How to restore wiped videos on HTC U23</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-audio-troubleshooting-for-an-immersive-apex-legends-experience/"><u>Mastering Audio Troubleshooting for an Immersive Apex Legends Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-duet-songs-troubleshooting-and-fixing-it-takes-twos-no-sound-issues/"><u>Mastering Duet Songs: Troubleshooting and Fixing It Takes Two's No Sound Issues</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-method/"><u>New In 2024, Making Slow Motion Videos in Premiere Pro A Review on The Best Method</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reactivate-voice-chat-in-fortnite-expert-advice-and-easy-steps/"><u>Reactivate Voice Chat in Fortnite - Expert Advice & Easy Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/rec-room-microphone-woes-mastering-pc-fixes-in-the-ultimate-2024-guide-to-voice-solutions/"><u>Rec Room Microphone Woes? Mastering PC Fixes in the Ultimate 2024 Guide to Voice Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-solve-the-problem-of-your-hp-laptops-sound-not-working-in-widows-10/"><u>Resolved! Solve the Problem of Your HP Laptop's Sound Not Working in Widows 10</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/strategies-for-soaring-on-facebooks-feeds-for-2024/"><u>Strategies for Soaring on Facebook's Feeds for 2024</u></a></li>
 </ul></div>
 

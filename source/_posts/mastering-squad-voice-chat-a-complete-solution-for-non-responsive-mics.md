@@ -1,7 +1,7 @@
 ---
 title: "Mastering Squad Voice Chat: A Complete Solution for Non-Responsive Mics"
-date: 2024-08-23T12:11:57.662Z
-updated: 2024-08-24T12:11:57.662Z
+date: 2025-02-27T04:08:43.154Z
+updated: 2025-03-01T21:40:40.460Z
 tags:
   - win11
   - win10
@@ -17,14 +17,6 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
 
 **Voice chat not working in Fortnite?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other Fortnite players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -44,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
 
  Now run the game again and test to see whether chat is working. If it’s not, move on to Fix 2, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your sound card driver
 
  A missing or outdated sound card driver may also stop chat from working in Fortnite.
@@ -64,9 +52,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  3\. Click **Update** next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee).
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Update-all-drivers.jpg)
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -81,9 +66,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  2\. On the left panel, click **Library** . On the right, click **the gear button** on the lower-right corner of **Fortnite** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap911.png)
 
  3.**Turn on** the toggle next to **Auto update** .
@@ -94,33 +76,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  5\. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap898.png)
 
  Run Fortnite again to check whether your chat problem has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 4, below.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Make sure your microphone is on for Fortnite
 
  If you downloaded Fortnite from**the Microsoft Store** , check if it has permission to use your microphone. Here’s how to do it:
 
  1\. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Privacy** .
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap427.jpg)
 
  2\. Click **Microphone**  on the left pane, and make sure**Microphone access for this device** is**on** , and the status is **On** for **Fortnite** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap428.jpg)
 
 3\. Run Fortnite to see if chat works now. If not, try Fix 5, below.
@@ -137,9 +106,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  ii. Click**the speaker icon** to view the audio settings. Then**turn off Voice Chat** and click**Apply** .  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap431-1024x576.jpg)
 
 iii. Exit Fortnite.
@@ -176,9 +142,6 @@ iii. Exit Fortnite.
 
  2\. Click**Uninstall** to uninstall Fortnite.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap950.png)
 
 3\. Restart your PC.
@@ -201,8 +164,6 @@ iii. Exit Fortnite.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +171,26 @@ iii. Exit Fortnite.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-beyond-basics-professional-tips-from-vidas-features/"><u>[New] Beyond Basics Professional Tips From Vida's Features</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-unlock-the-full-potential-of-group-video-conferencing-on-your-android-device-zoom/"><u>[New] In 2024, Unlock the Full Potential of Group Video Conferencing on Your Android Device (Zoom)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-from-vision-to-visuals-craft-your-story-with-youtube-editor/"><u>[Updated] 2024 Approved From Vision to Visuals Craft Your Story with YouTube Editor</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-cut-the-cost-not-the-creativity-best-free-editing-tools-top-9/"><u>[Updated] In 2024, Cut The Cost, Not The Creativity Best Free Editing Tools (Top 9)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-14-pro-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password On Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-overcoming-pubg-battlegrounds-voice-chat-issues/"><u>Expert Tips for Overcoming PUBG Battlegrounds' Voice Chat Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-sound-issues-on-an-hp-laptop-running-windows-11/"><u>Fixing Sound Issues on an HP Laptop Running Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/improving-sound-volume-control-tips-for-windows-11-enthusiasts/"><u>Improving Sound Volume Control: Tips for Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-depth-360-eye-viewing-experience/"><u>In-Depth 360° Eye Viewing Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-airpods-audio-glitches-a-guide-to-fixing-the-mic-on-windows-10/"><u>Mastering AirPods Audio Glitches - A Guide to Fixing the Mic on Windows 10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-new-design-horizons-the-leading-10-vector-apps-for-2024/"><u>Navigating New Design Horizons The Leading 10 Vector Apps for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-sound-from-airpods-heres-how-to-fix-it-when-theyre-paired-with-a-windows-11-or-10-computer/"><u>No Sound From AirPods? Here's How to Fix It When They're Paired with a Windows 11 or 10 Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/reiteration-of-commitment-to-quality-innovation-and-sustainable-practices/"><u>Reiteration of Commitment to Quality, Innovation, and Sustainable Practices.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-no-audio-on-your-hp-laptop-expert-tips-and-techniques/"><u>Resolving No Audio on Your HP Laptop – Expert Tips and Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-the-sound-on-windows-11-audio-problems-solved/"><u>Revive the Sound on Windows 11: Audio Problems, Solved!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-found-playing-sounds-again-on-your-firefox-webpage-visits/"><u>Solution Found: Playing Sounds Again on Your Firefox Webpage Visits</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-techniques-fixing-low-audio-output-in-windows-10/"><u>Troubleshooting Techniques: Fixing Low Audio Output in Windows 10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808088486-winsxs-folder-clean-up-and-save-space-on-windows-11-easily/"><u>WinSxS Folder: Clean Up and Save Space on Windows 11 Easily</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/your-journeys-sidekicks-choosing-wisely/"><u>Your Journey's Sidekicks: Choosing Wisely</u></a></li>
+</ul></div>
 

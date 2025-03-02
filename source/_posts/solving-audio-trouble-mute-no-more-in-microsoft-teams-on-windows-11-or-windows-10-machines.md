@@ -1,7 +1,7 @@
 ---
 title: "Solving Audio Trouble: Mute No More in Microsoft Teams on Windows 11 or Windows 10 Machines"
-date: 2024-12-08T19:46:34.204Z
-updated: 2024-12-10T19:22:45.692Z
+date: 2025-02-28T23:02:07.842Z
+updated: 2025-03-01T18:15:50.989Z
 tags:
   - win11
   - win10
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/d5809cec83da0092a50835917e7ac3c3a1061e52f
 
  If the audio device has been muted, you won’t hear sound from it. Check if your speaker or headphone has been muted by accident.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2: Check your speaker settings
 
 1. Right-click the sound icon at the bottom right corner of your desktop and click **Playback devices** .  
@@ -53,25 +49,13 @@ thumbnail: https://thmb.techidaily.com/d5809cec83da0092a50835917e7ac3c3a1061e52f
 
 ![Default speaker ticked Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Default-speaker-ticked-Windows10.png)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If your Speakers are NOT already set as the default, this is doubtless your problem. To fix, just click them, click**Set Default** , then click **OK** and test whether you have sound.  
 ![Set default speakers Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Set-default-speakers-Windows-10.png)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If your Speakers are set as the default playback device, and you’re still not hearing any sound, you should experiment with different sound formats. To do this, click**Speakers** then **Properties** .  
 ![Change speaker sound format Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Change-speaker-sound-format-Windows-10.png)
 3. Go to the **Advanced** tab, and in the**Default Format** section, select a different sample rate and bit depth, then click**Test** . Repeat this process until you find a format that works, then click**OK** . If you don’t find a format that works, proceed to[Method 2](https://tools.techidaily.com/drivereasy/download/) below.  
 ![Test speaker sound format Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Test-speaker-sound-format-Windows-10.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Uninstall your audio driver
 
@@ -90,14 +74,6 @@ thumbnail: https://thmb.techidaily.com/d5809cec83da0092a50835917e7ac3c3a1061e52f
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
 5. Restart your computer and check to see if the problem is resolved. If it’s not, move on to[Method 3](https://tools.techidaily.com/drivereasy/download/) below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 4: Update your audio driver
 
  If experimenting with different sound formats and uninstalling your audio driver didn’t bring back your sound in Windows 10, it’s likely that you’re using the wrong audio driver.
@@ -115,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/d5809cec83da0092a50835917e7ac3c3a1061e52f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d31484e2f.jpg)  
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer and check to see if you now have sound.
 
@@ -139,10 +111,6 @@ To do so, follow these steps:
 In the example below, the default device is Speakers / Headphones.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-275.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) On the**Enhancements** tab,**select** the**Disable all enhancements** check box. Then click**OK** .
 
@@ -188,20 +156,14 @@ Follow these steps to restart audio services.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/hanneling-cashflow-a-beginners-guide-to-youtube-earning/"><u>[New] Channeling Cashflow A Beginner’s Guide to YouTube Earning</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-hearthstone-no-sound-issue/"><u>[SOLVED] Hearthstone No Sound Issue</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-logitech-webcam-microphone-not-working/"><u>[SOLVED] Logitech Webcam Microphone Not Working</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-unveiling-the-power-of-three-tiers-in-crafting-fb-ad-engaging-messages/"><u>[Updated] 2024 Approved Unveiling the Power of Three Tiers in Crafting FB Ad Engaging Messages</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-path-to-youtube-riches-optimal-view-figures-for-monetization-success/"><u>[Updated] Path to YouTube Riches Optimal View Figures for Monetization Success</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-enhancing-interactivity-tips-for-hosting-splitting-screen-events-on-facebook/"><u>2024 Approved Enhancing Interactivity Tips for Hosting Splitting-Screen Events on Facebook</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oppo-a1-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Oppo A1 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-gt-3-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Realme GT 3 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-the-depths-of-vlc-player-capabilities-for-2024/"><u>Navigating the Depths of VLC Player Capabilities for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/on-the-go-electronic-projects-with-crowview-notebook-assessment-toolkit/"><u>On-the-Go Electronic Projects with CrowView Notebook Assessment Toolkit</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-fixing-logitech-g933-microphone-issues/"><u>Solution Guide: Fixing Logitech G933 Microphone Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-for-eliminating-crackling-sound-from-audio-outputs-on-windows-systems/"><u>Solution Steps for Eliminating Crackling Sound From Audio Outputs on Windows Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-corsair-hs70-mic-malfunction-effective-diagnosis-and-repair-methods/"><u>Solve Your Corsair HS70 Mic Malfunction: Effective Diagnosis and Repair Methods</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-guide-reviving-your-unresponsive-wireless-headset-mic/"><u>Step-by-Step Fix Guide: Reviving Your Unresponsive Wireless Headset Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-troubleshooting-tips-for-a-malfunctioning-mic-on-the-steelseries-arctis-7/"><u>Step-by-Step Troubleshooting Tips for a Malfunctioning Mic on the SteelSeries Arctis 7</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-cyberlink-screen-recorder-review-and-the-best-alternative-for-2024/"><u>[New] Cyberlink Screen Recorder Review and the Best Alternative for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-export-live-webcam-video-through-vlc/"><u>[Updated] 2024 Approved Export Live Webcam Video Through VLC</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/free-gamers-guide-to-selecting-best-screen-recorder-apps/"><u>Free Gamers' Guide to Selecting Best Screen Recorder Apps</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-itel-p40-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Itel P40 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-sound-functionality-on-windows-a-comprehensive-fix-for-speakers-and-headphones-compatibility-11-8-7/"><u>Restoring Sound Functionality on Windows: A Comprehensive Fix for Speakers & Headphones Compatibility (11, 8, 7)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-computers-audio-solutions-for-silent-speakers-in-windows-11/"><u>Revive Your Computer's Audio - Solutions for Silent Speakers in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-laptops-audio-solutions-for-non-working-sound-systems/"><u>Revive Your Laptop's Audio: Solutions for Non-Working Sound Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-audio-on-your-pc-winning-the-soundless-battle-in-cyberpunk-2077-windows-11-fixes/"><u>Reviving Audio on Your PC: Winning the Soundless Battle in Cyberpunk 2077 (Windows 11 Fixes)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamline-your-youtube-presentations-with-captions-for-2024/"><u>Streamline Your YouTube Presentations with Captions for 2024</u></a></li>
 </ul></div>
 

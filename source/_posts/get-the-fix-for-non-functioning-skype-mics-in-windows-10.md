@@ -1,7 +1,7 @@
 ---
 title: Get the Fix for Non-Functioning Skype Mics in Windows 10
-date: 2025-02-10T03:21:32.969Z
-updated: 2025-02-11T05:32:54.191Z
+date: 2025-02-27T01:28:10.650Z
+updated: 2025-03-01T18:08:22.449Z
 tags:
   - win11
   - win10
@@ -49,10 +49,6 @@ But first, ensure that your device has been connected and set correctly.
 
 4. Go back to the Anthem and check it has sound or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Run audio troubleshooting
 
  Windows 10 has a built-in troubleshooter to diagnose and automatically fix common problems. There are many troubleshooters for different problems. For the “Anthem no sound” error, you can run the audio troubleshooter to resolve the issue.
@@ -60,16 +56,8 @@ But first, ensure that your device has been connected and set correctly.
 1. Press the **Windows logo key**  \+ **R** to open the Run box. Type “ms-settings: troubleshoot” and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/troubleshoot.jpg)
 2. Click **Playing Audio** . Then click **Run the troubleshooter** . Wait for the investigation complete. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/10-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Follow the on-screen instructions to finish the process.
 4. Restart your computer and check whether Anthem has sound or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Set the Default Format in the lowest mode
 
@@ -79,10 +67,6 @@ But first, ensure that your device has been connected and set correctly.
 2. Click**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the **Playback** tab, choose the device you’re using and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Click the **Advanced** tab, select the lowest setting on the Default Format drop-down menu. Then click **OK** . Back to the Sound window, click **Apply** \> **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/12.jpg)
 
@@ -96,14 +80,6 @@ But first, ensure that your device has been connected and set correctly.
 2. Click **Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the **Playback** tab, choose the device you’re using and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. In the **Enhancements** tab, uncheck “**Disable all sound effects** “. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
 
@@ -129,10 +105,6 @@ But first, ensure that your device has been connected and set correctly.
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver1.jpg)
 4. Restart your computer and check the Anthem has sound or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Restart the game
 
@@ -161,16 +133,17 @@ But first, ensure that your device has been connected and set correctly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-mastering-multimedia-production-a-guide-to-editing-videos-on-windows-10/"><u>[New] 2024 Approved Mastering Multimedia Production A Guide to Editing Videos on Windows 10</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/3d-software-for-dynamic-youtube-intros-for-2024/"><u>Best 3D Software for Dynamic YouTube Intros for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/earning-mastery-in-streams-a-comprehensive-review-for-2024/"><u>Earning Mastery in Streams A Comprehensive Review for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/essential-croatian-expressions-a-compre-written-guide-for-efficient-communication-in-croatia/"><u>Essential Croatian Expressions – A Compre Written Guide for Efficient Communication in Croatia</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-to-solve-razer-barracuda-x-mic-issues-under-windows-1110-operating-systems/"><u>Expert Tips to Solve Razer Barracuda X Mic Issues Under Windows 11/10 Operating Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-tracks-a-comprehensive-solution-for-obs-microphone-problems/"><u>Fixing Silent Tracks: A Comprehensive Solution for OBS Microphone Problems</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-next-level-content-creation-tools-post-vimeo/"><u>In 2024, Next-Level Content Creation Tools, Post-Vimeo</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-audio-in-hearthstone-a-step-by-step-guide-to-the-fix/"><u>Restoring Audio in Hearthstone: A Step-by-Step Guide to the Fix</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-increase-in-entropy-principle-has-profound-implications-on-the-arrow-of-time-and-why-we-perceive-time-as-moving-forward-it-defines-a-directionality-to-t648/"><u>The Increase in Entropy Principle Has Profound Implications on the Arrow of Time and Why We Perceive Time as Moving Forward; It Defines a Directionality to Thermodynamic Processes</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-free-mov-video-orientation-changers-top-rated-for-2024/"><u>Updated Free MOV Video Orientation Changers Top Rated for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/winx-dvd-ripper-and-winxvideo-ai-best-video-converter-tools/"><u>WinX DVD Ripper & WinxVideo AI: 線上客服加強商品銷售 - Best Video Converter Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-essential-guide-to-cinematic-instagram-videos-for-2024/"><u>[New] The Essential Guide to Cinematic Instagram Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-traversing-youtube-dialogue-pathways/"><u>[New] Traversing YouTube Dialogue Pathways</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nparalleled-video-grabber-suite-your-download-delight/"><u>[New] Unparalleled Video Grabber Suite - Your Download Delight</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unveil-your-narrative-transforming-photos-to-videos-using-your-phone/"><u>[Updated] Unveil Your Narrative Transforming Photos to Videos Using Your Phone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/asmr-apps-for-android-and-ios/"><u>Best ASMR Apps for Android and iOS</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-troubleshoot-and-resolve-the-0x80070643-update-issue-in-windows-os/"><u>How to Correctly Troubleshoot and Resolve the 0X80070643 Update Issue in Windows OS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-brilliant-asus-monitor-ultrahd-true-black/"><u>In 2024, Brilliant Asus Monitor UltraHD, True Black</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-quick-repair-of-call-failed-on-windows-1011/"><u>Strategies for Quick Repair of 'Call Failed' On Windows 10/11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-second-law-of-thermodynamics-indicates-that-the-entropy-of-an-isolated-system-can-never-decrease-over-time-which-is-a-statement-about-the-irreversibilit659/"><u>The Second Law of Thermodynamics Indicates that the Entropy of an Isolated System Can Never Decrease over Time, Which Is a Statement About the Irreversibility of Natural Processes.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-techniques-for-troubleshooting-warzone-pc-sound-problems/"><u>Top Techniques for Troubleshooting Warzone PC Sound Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-overcoming-voice-communication-problems-in-destiny-2/"><u>Troubleshooting Guide: Overcoming Voice Communication Problems in Destiny 2</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-10-audio-issues-a-step-by-step-guide/"><u>Troubleshooting Windows 10 Audio Issues: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

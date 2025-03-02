@@ -1,7 +1,7 @@
 ---
 title: "Fixing Silent Laptops: How to Restore Audio Functionality"
-date: 2024-08-23T12:09:06.836Z
-updated: 2024-08-24T12:09:06.836Z
+date: 2025-02-27T02:14:20.256Z
+updated: 2025-03-02T06:48:08.058Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ If you run into the**Lenovo laptop no sound** issue, don’t panic. It’s often
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Troubleshoot hardware issues
 
  You can start troubleshooting the laptop no sound issue by ruling out the hardware errors.
@@ -61,9 +58,6 @@ To make sure the volume is audible:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your audio driver
 
  This problem may occur if you are using the wrong audio driver or it’s out of date. So you should update your audio driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -80,9 +74,6 @@ To make sure the volume is audible:
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e8c0387a6.jpg)
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
@@ -91,9 +82,6 @@ To make sure the volume is audible:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Set default audio devices
 
  Ideally when a new audio device is inserted, Windows will automatically set it as the default audio playback device. But that’s not always the case and sometimes we’ll have to set default devices manually.
@@ -122,23 +110,14 @@ Here’s how:
 
  1) Right-click on **the sound icon** on the lower-right of your computer screen, then click **Sounds** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7f6955a2d7.jpg)
 
  2) In the **Playback** tab, right-click on **your default audio device** and click **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd80da9483df.jpg)
 
  3) Click the **Enhancements** tab, then tick **the bo** x for **Disable all enhancements** and click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd80d9349581.jpg)
 
 4) Test your audio device and see if the no sound issue is resolved.
@@ -159,8 +138,6 @@ Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +145,22 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-essential-guide-to-aspect-ratios-for-effective-youtube-engagement/"><u>[Updated] 2024 Approved Essential Guide to Aspect Ratios for Effective YouTube Engagement</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-zoomed-up-enhancing-action-movies-clarity/"><u>[Updated] 2024 Approved Zoomed Up Enhancing Action Movies Clarity</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/best-android-video-editing-apps-free-and-paid-options-for-2024/"><u>Best Android Video Editing Apps Free and Paid Options for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-fixing-the-lack-of-audio-in-conexants-smartaudio-hd-for-windows-11-users/"><u>Expert Tips for Fixing the Lack of Audio in Conexant's SmartAudio HD for Windows 11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014705390-fixes-for-creative-pebble-audio-device-malfunction-success-stories-inside/"><u>Fixes for Creative Pebble Audio Device Malfunction - Success Stories Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-a-malfunctioning-front-headphone-port-a-step-by-step-guide/"><u>Fixing a Malfunctioning Front Headphone Port: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-a-non-functional-logitech-g633-microphone/"><u>How to Resolve a Non-Functional Logitech G633 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-speaker-functionality-in-an-hdmi-setup-involving-pcs-displays-and-tvs/"><u>How To Restore Speaker Functionality in an HDMI Setup Involving PCs, Displays, and TVs</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-iphone-15-pro-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your iPhone 15 Pro without Security Questions?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-8-plus-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 8 Plus When Its Locked Within Seconds</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/most-popular-fb-videos-download-now-for-2024/"><u>Most Popular FB Videos - Download Now for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017020874-no-audio-in-battlefield-4-troubleshooting-guide-and-solutions/"><u>No Audio in Battlefield 4? Troubleshooting Guide and Solutions!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-13-mini-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone 13 mini</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-skype-microphone-issues-on-windows-11-a-comprehensive-guide/"><u>Troubleshooting Skype Microphone Issues on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-fixing-livekernel-event-code-144/"><u>Troubleshooting Steps for Fixing LiveKernel Event Code: 144</u></a></li>
+</ul></div>
 

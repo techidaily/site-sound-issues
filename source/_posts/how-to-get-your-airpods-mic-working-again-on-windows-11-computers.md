@@ -1,7 +1,7 @@
 ---
 title: How to Get Your AirPods Mic Working Again on Windows 11 Computers
-date: 2025-02-04T21:10:40.973Z
-updated: 2025-02-10T19:42:37.558Z
+date: 2025-02-23T21:47:18.271Z
+updated: 2025-03-01T18:01:51.245Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes for ‘Skype Microphone not working’
 
 1. [Make sure your Microphone is set to On for Skype users (Windows 10 users)](https://www.drivereasy.com/knowledge/fix-skype-microphone-not-working-on-windows-solved/#M1)
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
 4. [Restart the Windows audio service](https://tools.techidaily.com/drivereasy/download/)
 
 ###
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure Microphone is set to On for Skype (Windows 10 users)
 
@@ -50,10 +42,6 @@ Follow these:
 1. On your keyboard, press the**Windows logo key**  and **I** (at the same time).
 2. Click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e2b7da45.png)
 3. Click**Microphone** on the left pane. Check if the status is**On**  for Skype.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
@@ -81,10 +69,6 @@ Follow these:
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. You sound driver is no exception.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your computer and run Skype to see if your Microphone works.
 
 ###
@@ -95,10 +79,6 @@ Follow these:
 2. Type**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996978261d98.png)
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Log in Skype and check to see if your Microphone works.
 
@@ -119,21 +99,22 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-unlock-artistic-expression-download-movie-maker-for-win11-enthusiasts/"><u>[New] 2024 Approved Unlock Artistic Expression Download Movie Maker for Win11 Enthusiasts</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-trendsetting-images-their-histories/"><u>[New] In 2024, Trendsetting Images Their Histories</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/enhancing-audio-pickup-how-to-make-your-microphone-louder-again/"><u>Enhancing Audio Pickup: How to Make Your Microphone Louder Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-window-107-audio-problems-dealing-with-the-persistent-crackling-speaker-issue/"><u>How to Repair Window 10/7 Audio Problems: Dealing with the Persistent Crackling Speaker Issue</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-xiaomi-redmi-note-12-proplus-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Xiaomi Redmi Note 12 Pro+ 5G to New Phone | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-meizu-21-pro-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Meizu 21 Pro</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/pc-troubleshooting-tips-ensuring-clear-sound-in-your-online-zoom-meetings/"><u>PC Troubleshooting Tips: Ensuring Clear Sound in Your Online Zoom Meetings</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-troubleshooting-steps-overcoming-the-playback-failed-dilemma/"><u>Quick Troubleshooting Steps: Overcoming the 'Playback Failed' Dilemma</u></a></li>
-<li><a href="https://win11.techidaily.com/skyrocket-steam-performance-overcoming-degraded-download-rates/"><u>Skyrocket Steam Performance: Overcoming Degraded Download Rates</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/software-defined-cloning-copying-encrypted-drives-with-bitlocker-on-windows-11-10-8-and/"><u>Software Defined Cloning: Copying Encrypted Drives with BitLocker on Windows 11, 10, 8 &</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-tips-and-tricks-to-get-sound-working-again-on-windows-11-computers/"><u>Solved! Tips and Tricks to Get Sound Working Again on Windows 11 Computers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ing-your-channel-right-top-tier-tech-list-for-2024/"><u>Starting Your Channel Right Top-Tier Tech List for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oppo-a58-4g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Oppo A58 4G FRP</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/streamline-your-social-networking-joining-instagram-and-facebook-seamlessly/"><u>Streamline Your Social Networking Joining Instagram & Facebook Seamlessly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixes-why-your-steelseries-arctis-1-mic-may-be-non-functional/"><u>Troubleshooting Fixes: Why Your SteelSeries Arctis 1 Mic May Be Non-Functional</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-corsair-hs35-microphone-on-windows-pcs/"><u>Troubleshooting Guide: Resolving Issues with Corsair HS35 Microphone on Windows PCs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-navigating-the-maze-of-audio-capturing-a-complete-minecraft-guide-on-mac-for-2024/"><u>[Updated] Navigating the Maze of Audio Capturing A Complete Minecraft Guide on Mac for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-motorola-defy-2-unlock-without-password-by-drfone-android/"><u>5 Solutions For Motorola Defy 2 Unlock Without Password</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-complete-introduction-to-snapchats-new-feature-for-2024/"><u>A Complete Introduction to Snapchat's New Feature for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-resolving-game-sounds-issues-in-outriders/"><u>Expert Advice on Resolving Game Sounds Issues in Outriders</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-restoring-sound-in-csglobal-offensive-pc-version/"><u>Expert Advice on Restoring Sound in CS:Global Offensive PC Version</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fast-track-mic-diagnostics-a-step-by-step-guide-to-easy-microphone-testing/"><u>Fast-Track Mic Diagnostics: A Step-by-Step Guide to Easy Microphone Testing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-voice-chat-glitches-for-an-uninterrupted-experience-in-valorant/"><u>Fixing Voice Chat Glitches for an Uninterrupted Experience in VALORANT</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-malfunctioning-corsair-audio-device-troubleshooting-tips/"><u>Fixing Your Malfunctioning Corsair Audio Device: Troubleshooting Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-defective-mic-on-your-steelseries-arctis-prime-audio-setup/"><u>How to Fix a Defective Mic on Your SteelSeries Arctis Prime Audio Setup</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722888367114-navigating-note-taking-our-top-picks-and-why-theyre-unbeatable/"><u>Navigating Note Taking : Our Top Picks and Why They're Unbeatable!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/noise-free-listening-fixing-crackling-sounds-on-windows-711-computers-easily/"><u>Noise-Free Listening: Fixing Crackling Sounds on Windows 7/11 Computers Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-windows-11-taskbar-performance/"><u>Optimizing Windows 11 Taskbar Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-audio-issues-a-comprehensive-fix-guide-for-noise-problems-on-lenovo-machines/"><u>Overcoming Audio Issues: A Comprehensive Fix Guide for Noise Problems on Lenovo Machines</u></a></li>
+<li><a href="https://common-error.techidaily.com/stop-your-laptop-from-falling-asleep-quick-and-effective-solutions/"><u>Stop Your Laptop From Falling Asleep - Quick and Effective Solutions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95703156-9781507204313-the-supernatural-guide-to-the-other-side/"><u>The Supernatural Guide to the Other Side | Free Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solutions-to-overcome-the-persistent-black-screen-on-persona-5-strikers/"><u>Troubleshooting & Solutions to Overcome the Persistent Black Screen on Persona 5 Strikers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/bes-high-stakes-hardware-showdown/"><u>YouTube’s High-Stakes Hardware Showdown</u></a></li>
 </ul></div>
 
